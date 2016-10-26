@@ -14,4 +14,4 @@ Store categories in a map (name --> object) and documents in a Set
 Questions:
 Naive bayes vs optimal bayes?  Do we need P(c)?
 Laplace smooting - a#{w} is # of distinct words in all categories?
-
+Do we want to remove common words? (the)
