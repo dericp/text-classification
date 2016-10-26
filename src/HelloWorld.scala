@@ -2,6 +2,7 @@
 
 object HelloWorld {
   def main(args: Array[String]) {
-    println("Hello World!");
+    val document = new Document("data/sample.txt");
+    
   }
 }
