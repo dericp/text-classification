@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81343" id="root" date="1996-09-27" xml:lang="en">
+<title>PERU: Peru wants Amazon litterbugs caught on film.</title>
+<headline>Peru wants Amazon litterbugs caught on film.</headline>
+<dateline>LIMA 1996-09-26</dateline>
+<text>
+<p>Peruvian authorities have called on citizens in the Amazon jungle to stalk a new prey: litterbugs.</p>
+<p>Councilmen have announced a competition offering to reward photographers up to $12 for every photograph that catches townspeople dropping trash in the jungle region of Iquitos, local media reported on Thursday.</p>
+<p>The 80 competitors who have so far registered with the council to spy on their neighbours must accompany their incriminating evidence with the name and address of offenders.</p>
+<p>In an earlier attempt to clean up the jungle, the army placed the whole town of Pucallpa under curfew until its untidy citizens cleared up their yards.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

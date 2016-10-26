@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79556" id="root" date="1996-09-26" xml:lang="en">
+<title>TUNISIA: Tunis bourse index closes down in higher volume.</title>
+<headline>Tunis bourse index closes down in higher volume.</headline>
+<dateline>TUNIS 1996-09-26</dateline>
+<text>
+<p>The Tunis Stock Exchange on Thursday closed down 2.93 points in higher trade, bourse sources said.</p>
+<p>The market's 30-share index closed at 605.16 from 608.09 on Wednesday.</p>
+<p>Trade volume was 1.8 million dinars against 1.4 million dinars.</p>
+<p>BIAT bank was down 1.84 dinars to 59.54 dinars. Retail stores Monoprix  eased 1.46 dinars to 47.36 dinars. Investment fund SPDIT-SICAF lost 1.22 dinars to 39.36 dinars.</p>
+<p>($=0.97 dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

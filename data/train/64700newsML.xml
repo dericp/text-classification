@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64700" id="root" date="1996-09-19" xml:lang="en">
+<title>FRANCE: French stocks end off highs after BoF trims rate.</title>
+<headline>French stocks end off highs after BoF trims rate.</headline>
+<dateline>PARIS 1996-09-19</dateline>
+<text>
+<p>French shares ended up but off their highs on profit-taking after the Bank of France shaved its intervention rate by 10 basis points to 3.25 percent.</p>
+<p>The bank's gesture, while well received, was widely expected after yesterday's 1997 budget presentation.</p>
+<p>The market is looking ahead to next week's U.S. Federal Reserve Open Market Committee (FOMC) meeting with some operators expecting a U.S. rate increase.</p>
+<p>The blue-chip CAC-40 index closed up 9.60 points, or 0.46 percent, at 2,082.33, while the CAC-40 futures contract rose 13.5 points to 2,089. Volume was 4.27 billion francs.</p>
+<p>Shares in French insurer AGF closed down 3.50 francs at 138.50 despite the company's 50 percent profit rise for the first half.</p>
+<p>&quot;The quality of the results will be questioned by some. The profit improvement has come from capital gains and reducing the debt burden and not from the insurance business which is their core business,&quot; said one analyst.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

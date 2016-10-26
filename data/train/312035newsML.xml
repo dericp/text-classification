@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312035" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Class certified in consumer case against H.I.P..</title>
+<headline>Class certified in consumer case against H.I.P..</headline>
+<dateline>NEW YORK 1997-01-16</dateline>
+<text>
+<p>The Supreme Court of the State of New York has granted class certification in a consumer fraud case against  H.I.P. of Greater New York, according to Wolf Popper LLP.</p>
+<p>The firm, which represents the case's plantiffs, said the case alleges the H.I.P. wrongfully refused to provide to certain of its subscribers reimbursement for the services of anesthesiologists.</p>
+<p>The class, as certified, includes all H.I.P. subscribers who, since June 7, 1993, were denied such coverage based on an exclusion in H.I.P.'s policies for &quot;anesthesia.&quot;</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175787" id="root" date="1996-11-08" xml:lang="en">
+<title>GAMBIA: Gambia elections pushed back to Jan 2 - radio.</title>
+<headline>Gambia elections pushed back to Jan 2 - radio.</headline>
+<dateline>BANJUL 1996-11-08</dateline>
+<text>
+<p>The West African state of Gambia has further postponed parliamentary elections to January 2, the elections commission announced on Friday.</p>
+<p>A statement read on state radio said campaigning would take place between December 9 and 31 and &quot;the date of polling will be January 2, 1997&quot;.</p>
+<p>No reason was given for the second revision of the electoral timetable in a week. A government statement on Tuesday said the poll was being pushed back by a day from the original date of December 11. No reason was given then either.</p>
+<p>Yahya Jammeh was sworn in as president on October 18 after a September presidential election designed to return the country to civilian rule.</p>
+<p>Jammeh, who toppled civilian independence president Sir Dawda Jawara in July 1994, accusing him of corruption, quit the army to stand.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GAMB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANJUL"/>
+<dc element="dc.creator.location.country.name" value="GAMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

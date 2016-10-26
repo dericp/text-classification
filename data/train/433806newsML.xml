@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="433806" id="root" date="1997-03-11" xml:lang="en">
+<title>FRANCE: Four ships loading wheat in Rouen, seven more due.</title>
+<headline>Four ships loading wheat in Rouen, seven more due.</headline>
+<dateline>PARIS 1997-03-11</dateline>
+<text>
+<p>Four ships are loading a total of 75,000 tonnes of wheat at Rouen, port officials said on Tuesday.</p>
+<p>The wheat is for export to west Africa, Algeria, Greece, and Italy, they said.</p>
+<p>Two ships are also loading 85,000 tonnes of barley at Rouen destined for Saudi Arabia and Tunisia.</p>
+<p>Seven more ships are expected in port by March 17 to load around 91,000 tonnes of wheat. --Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

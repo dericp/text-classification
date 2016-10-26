@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162664" id="root" date="1996-11-04" xml:lang="en">
+<title>CANADA: Agrium Texas nitrogen plant restart delayed.</title>
+<headline>Agrium Texas nitrogen plant restart delayed.</headline>
+<dateline>CALGARY 1996-11-04</dateline>
+<text>
+<p>Canadian fertilizer producer Agrium Inc said startup of its Borger, Texas nitrogen facility would be delayed 10 days following an air line rupture at the plant on Saturday.</p>
+<p>Agrium said Monday the rupture occured between the plant's air compressor and secondary reformer unit, forcing a shutdown to complete repairs.</p>
+<p>The plant was undergoing startup procedures after a turnaround at the time of the rupture, it said.</p>
+<p>There were no injuries or releases of hazardous materials, it said. -- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

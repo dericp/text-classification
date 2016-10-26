@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100132" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Tropical storm Jo gains strength in Gulf of Mexico.</title>
+<headline>Tropical storm Jo gains strength in Gulf of Mexico.</headline>
+<dateline>MIAMI 1996-10-07</dateline>
+<text>
+<p>Tropical Storm Josephine gained strength as it headed across the Gulf of Mexico Monday on a track that would take it ashore in Florida Tuesday, National Hurricane Center said.</p>
+<p>A tropical storm warning -- alerting residents to imminent storm conditions -- was in effect for the Florida Gulf coast from Apalachicola to Venice.</p>
+<p>At 0500 EDT/0900 GMT, the center of Josephine was at latitude 25.8 north, longitude 88.4 west, about 340 miles (545 km) southwest of Apalachicola, and was moving toward the east-northeast at 15 mph (24 kph), forecasters said.</p>
+<p>On its current track and speed, the center of the storm will move onshore early Tuesday morning, but tropical storm force winds will reach the Florida coast Monday, forecasters said.  </p>
+<p>Maximum winds were near 50 mph (80 kph) and some strengthening was likely in the next 24 hours, forecasters said.</p>
+<p>Tropical storm-force winds extended outward about 145 miles (230 km) from the center, mainly to the southeast. Rainfall of up to 5 inches (13 cm) was possible along the track of the storm, along with strong onshore winds and coastal storm surge flooding of three to five feet (one to two meters).</p>
+<p>The Hurricane Center said weather in the Gulf was complicated by a strong pressure gradient between Josephine and high pressure to the north, which was causing strong winds elsewhere over the northern Gulf of Mexico.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

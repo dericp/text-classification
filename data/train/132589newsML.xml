@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132589" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Asarco to close Leadville mine.</title>
+<headline>Asarco to close Leadville mine.</headline>
+<dateline>NEW YORK 1996-10-22</dateline>
+<text>
+<p>Asarco Inc said Tuesday it will indefinitely shut down its Leadville mine in Colorado beginning December 31 due to depressed lead and zinc concentrate prices.</p>
+<p>The unit will be placed on a care-and-maintenance basis in order to conserve ore reserves, the company said.</p>
+<p>The mill at Leadville has been shut down since August because of a structural failure. Seventy-eight employees of the mill were laid off at that time. Economic reasons, which were not foreseeable then, now dictate a shutdown of the entire unit, Asarco said.</p>
+<p>About 120 employees, including those laid off in August, will be affected by the shutdown, the company said.</p>
+<p>As openings become available at other locations, qualified employees will be considered on a priority basis, it added. The Leadville mine produced 15,400 tons of zinc, 5,000 tons of lead, and 347,000 ounces of silver in 1995.</p>
+<p>-- Jim Brumm 212-859-1710.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65396" id="root" date="1996-09-19" xml:lang="en">
+<title>AUSTRIA: Austria Nat'l bank sets repo, leaves rates steady.</title>
+<headline>Austria Nat'l bank sets repo, leaves rates steady.</headline>
+<dateline>VIENNA 1996-09-19</dateline>
+<text>
+<p>The Austrian National Bank said on Thursday it was calling for bids on one-week securities repurchase agreements at an unchanged 3.0 percent and that it had left its key interest rates steady.</p>
+<p>Repo bids have to be in by 1200 GMT on Friday, the central bank said.</p>
+<p>Last week, the bank allotted 7.07 billion schillings, or seven percent of bids, in repos.</p>
+<p>The Austrian discount rate remains at 2.50 percent and the Lombard emergency financing rate at 4.75 percent. The Gomex money market rate stands at 3.4 percent. -- Julia Ferguson, Vienna newsroom, +431 531 12 254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

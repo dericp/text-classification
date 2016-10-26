@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123506" id="root" date="1996-10-17" xml:lang="en">
+<title>THAILAND: Thai energy to resolve oil reserve issue Friday.</title>
+<headline>Thai energy to resolve oil reserve issue Friday.</headline>
+<dateline>BANGKOK 1996-10-17</dateline>
+<text>
+<p>The government board of National Energy Policy Office (NEPO) will hold a meeting on Friday to decide on the timing of a hike in imported oil reserves, a NEPO official said Thursday.</p>
+<p>In an effort to ensure sufficient reserves after the Gulf War, Thailand initially raised the reserve requirement to five percent from three percent of annual oil supply, with a goal to eventually increase it to 10 percent for imported refined products, starting January 1997.</p>
+<p>The increase was also aimed at reducing the advantage importers have over local producers who are at present required to reserve five percent of their crude imports and five percent of oil products.</p>
+<p>But the commerce ministry under the current government opposed the idea, saying any mandotory increase in imported oil reserves would lead to higher inflation as additional cost will be passed to consumers. The cabinet then asked NEPO to review the plan, the official said.</p>
+<p>The official said the NEPO board might propase a postponement of the schedule for the increase.</p>
+<p>-- Bangkok newsroom (662) 652-0642 reuter ak/ram</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259906" id="root" date="1996-12-16" xml:lang="en">
+<title>ITALY: Italy telecom shares to resume in Milan at 1330GMT.</title>
+<headline>Italy telecom shares to resume in Milan at 1330GMT.</headline>
+<dateline>MILAN 1996-12-16</dateline>
+<text>
+<p>Shares in Italian state telecoms companies Telecom Italia and Stet will resume price-fixing at 1330 GMT with trading due to start at 1340, traders said.</p>
+<p>Both ordinary and savings stocks in the two companies were suspended earlier pending an announcement following a shareholders' meeting at state industrial holding Iri.</p>
+<p>The Italian Treasury then said Iri is to transfer Stet to the Treasury for a minimum 14.53 trillion lire and the Treasury will pay Iri three trillion by the end of the year and the rest by June 30.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

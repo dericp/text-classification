@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785784" id="root" date="1997-08-07" xml:lang="en">
+<title>MOROCCO: Moroccan Treasury auction raises 691 mln dirhams.</title>
+<headline>Moroccan Treasury auction raises 691 mln dirhams.</headline>
+<dateline>RABAT 1997-08-07</dateline>
+<text>
+<p>Morocco's Treasury raised 691 million dirhams at its weekly treasury bill auction, Bank al-Maghrib (central bank) said on Thursday.</p>
+<p>RATES AND AMOUNTS (in million dirhams) were accepted as follows:</p>
+<p>    MATURITY	 BID	 AMOUNT	   INTEREST RATE</p>
+<p>    26 weeks	 100	 100		  7.50</p>
+<p>    52 weeks	 315	 315		  8.00</p>
+<p>    Five years	91	  91		  9.00</p>
+<p>    10 years	 160	 160		  9.50</p>
+<p>    15 years	  25	  25		  9.75</p>
+<p>-----------------------------------------------------</p>
+<p>    Total	    691	 691</p>
+<p>Maturity date was set for August 11.</p>
+<p>($1= 10.05 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

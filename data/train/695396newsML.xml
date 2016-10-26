@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695396" id="root" date="1997-06-30" xml:lang="en">
+<title>NORWAY: SOCCER-RESULTS OF WOMEN'S EUROPEAN CHAMPIONSHIPS.</title>
+<headline>SOCCER-RESULTS OF WOMEN'S EUROPEAN CHAMPIONSHIPS.</headline>
+<dateline>MOSS, Norway 1997-06-30</dateline>
+<text>
+<p>Results from opening matches in the women's European soccer championship in Norway and Sweden.</p>
+<p>Played on Monday:</p>
+<p>Group B</p>
+<p>Moss, Norway</p>
+<p> Germany 1    Italy 1   (halftime 0-0)</p>
+<p>Scorers:</p>
+<p>Germany - Maren Meinert, 49th</p>
+<p>Italy - Antonella Carta, 61st</p>
+<p>Group B</p>
+<p>Lillestroem, Norway</p>
+<p> Denmark 0    Norway 5  (0-2)</p>
+<p>Scorers:</p>
+<p>Marianne Pettersen 16th, 18th, 49th, 81st, Heidi Stoere 55th</p>
+<p>Played on Sunday</p>
+<p>Karlskroga, Sweden</p>
+<p>Group A</p>
+<p> France 1     Spain 1   (0-1)</p>
+<p>Scorers:</p>
+<p>Spain - Maria Jimenez 14th</p>
+<p>France - Angelique Roujas 50th</p>
+<p>Group A</p>
+<p>Karlstad, Sweden</p>
+<p> Sweden 2     Russia 1  (1-0)</p>
+<p>Scorers</p>
+<p>Sweden - Hanna Ljungberg, 10th, Anna Pohjanen 82nd</p>
+<p>Russia - Larissa Savina, 80th</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSS, Norway"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

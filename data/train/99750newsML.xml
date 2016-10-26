@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99750" id="root" date="1996-10-07" xml:lang="en">
+<title>THAILAND: Thailand to finalise feed import policy end-Oct.</title>
+<headline>Thailand to finalise feed import policy end-Oct.</headline>
+<dateline>BANGKOK 1996-10-07</dateline>
+<text>
+<p>The Thai government will try to finalise a plan to liberalise imports of raw materials for the animal feed industry by the end of October, a senior commerce ministry official said on Monday.</p>
+<p>The official told Reuters the ministry was assessing any possible impact on local farmers should the market become more liberalised.</p>
+<p>&quot;But they should be able to conclude a proposal for cabinet approval by the end this month,&quot; he said.</p>
+<p>&quot;We want to come up with a policy that benefit all sides,&quot; he added.</p>
+<p>Thailand's feed and oil crushing industries earlier asked the ministry to further liberalise the market by lifting import quotas or cutting import tariffs on products such as soybeans, soymeal, corn and fishmeal to reduce production costs for the poultry and meat industry.</p>
+<p>--Bangkok newsroom (662) 650-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I42210">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193684" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: USDA seeks 1.69 mln lbs frozen hams for lunches.</title>
+<headline>USDA seeks 1.69 mln lbs frozen hams for lunches.</headline>
+<dateline>CHICAGO 1996-11-14</dateline>
+<text>
+<p>The Agricultural Marketing Service (AMS) of the U.S. Department of Agriculture said it was seeking to buy 1,692,000 lbs of frozen smoked fully cooked hams (Type II) for use in the National School Lunch Program.frozen</p>
+<p>All offers must be in the format prescribed in LS-50 and be received by 1400 EST in Washington, D.C., on Monday, November 18, 1996. Acceptances will be announced by midnight Friday, November 22, 1996.</p>
+<p>Shipments must be made between December 28, 1996, and January 10, 1997, it said.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450329" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Texaco sees US downstream deal closing 1998.</title>
+<headline>Texaco sees US downstream deal closing 1998.</headline>
+<dateline>HOUSTON 1997-03-18</dateline>
+<text>
+<p>A Texaco Inc spokesman said the company expected its three-way U.S. refining merger with Shell Oil Co and Saudi Refining Inc to close in early 1998.</p>
+<p>&quot;That's right, we expect this to close in early 1998,&quot; said Texaco spokesman Jim Swords.  </p>
+<p>Shell and Texaco on Tuesday announced they had signed a memorandum of understanding to combine their midwestern and western U.S. refining and marketing operations.</p>
+<p>The companies also are in talks on combining their eastern U.S. operations in a deal with Saudi Refining Inc, a joint venture of Texaco and state-owned Saudi Aramco. An agreement on that segment of the deal is expected in the second quarter 1997, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="615114" id="root" date="1997-05-26" xml:lang="en">
+<title>JAPAN: Regal Corp - 96/97 parent results.</title>
+<headline>Regal Corp - 96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-26</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 51.14		vs	   53.20</p>
+<p> Operating   loss 156    million    vs	prft 665 million</p>
+<p> Current     loss 496    million    vs	prft 423 million</p>
+<p> Net	   loss 937    million    vs	prft 184 million</p>
+<p> EPS	    loss 34.10 yen	  vs     prft 6.71 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares	     28 million	  vs	  28 million</p>
+<p> Ord div		5.00 yen	  vs	    6.00 yen</p>
+<p>NOTE - Regal Corp is the largest leather shoe maker.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

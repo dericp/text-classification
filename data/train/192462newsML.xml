@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192462" id="root" date="1996-11-15" xml:lang="en">
+<title>JAPAN: Nissan, Toyota to switch to lead-free gas tanks.</title>
+<headline>Nissan, Toyota to switch to lead-free gas tanks.</headline>
+<dateline>TOKYO 1996-11-15</dateline>
+<text>
+<p>Nissan Motor Co and Toyota Motor Corp plan next spring to begin switching to aluminium-coated gasoline tanks from tanks using a lead-tin alloy, company spokeswomen said on Friday.</p>
+<p>The switch was made possible by new technology, developed jointly with Nippon Steel Corp, that solves previous problems with welding and forming aluminium-coated steel.</p>
+<p>The car makers, in line with government guidance, are striving to reduce their cars' lead content, which is linked to environmental problems and worker health issues.</p>
+<p>Nissan spokeswoman Masako Fujita said a metal gas tank on average accounts for 150 to 200 grams of a total lead content of about 1,200 grams per vehicle.</p>
+<p>Metal gas tanks are used in about 70 percent of Nissan vehicles sold in Japan, while the others use plastic, she said. The company produced 1.67 million vehicles domestically and 1.05 million overseas in the fiscal year through March 1996.</p>
+<p>She added that Nissan plans to complete the switch away from lead-tin gas tanks by the end of 1999. A Toyota spokeswoman declined to comment on when the switch would be completed.</p>
+<p>-- Tokyo Commodity Desk +81-3-3432-6179</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

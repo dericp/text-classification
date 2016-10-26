@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175460" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Resurgence Properties Q3 profit vs loss.</title>
+<headline>Resurgence Properties Q3 profit vs loss.</headline>
+<dateline>GREENWICH, Conn. 1996-11-07</dateline>
+<text>
+<p>RESURGENCE PROPERTIES INC.</p>
+<p>		    (in thousands, except per share amounts)</p>
+<p>			  For the Three Months  For the Nine Months</p>
+<p>			   Ended September 30,  Ended September 30,</p>
+<p>				   1996     1995	  1996     1995</p>
+<p> Total Revenues	   $ 5,379 $  5,857    $ 20,441 $ 17,883</p>
+<p> Total Expenses	     4,172    5,966	13,421   17,617</p>
+<p> Extraordinary Gain	    --	171	   160	760</p>
+<p> Net Income (Loss)	    467    (958)	 4,731  (2,994)</p>
+<p>(10,000,000 shares</p>
+<p>outstanding):</p>
+<p>Income (Loss) Before</p>
+<p>     Extraordinary Gain    O.05   (0.11)	  0.46   (0.38)</p>
+<p>     Extraordinary Gain	--     0.02	  0.02     0.08</p>
+<p>     Net Income (Loss)     0.05   (0.09)	  0.48   (0.30)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

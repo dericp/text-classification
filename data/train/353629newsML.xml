@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353629" id="root" date="1997-02-04" xml:lang="en">
+<title>SUDAN: Ethiopian forces withdraw from Sudan - paper.</title>
+<headline>Ethiopian forces withdraw from Sudan - paper.</headline>
+<dateline>KHARTOUM 1997-02-04</dateline>
+<text>
+<p>A Sudanese government newspaper said on Tuesday that invading Ethiopian troops have started withdrawing heavy weapons from the a key border town.</p>
+<p>&quot;A report coming in late last night from the operations theatre indicates that the (Ethiopian) Tigrayan forces have begun to withdraw their heavy military equipment from the town of Kurmuk,&quot; the government-owned Al-Sudan Al-Hadith daily said.</p>
+<p>Khartoum says Eritrean and Ethiopian troops are fighting alongside the rebels but both countries have denied involvement.</p>
+<p>&quot;The forces of Tigray are these days engaged in extensive repairs of the roads leading from the towns of Kurmuk and Gissan to Ethiopian land,&quot; the daily said, adding that they were trying to facilitate the evacuation of the dead and wounded.</p>
+<p>There was no independent confirmation of the withdrawal and it was difficult to assess the veracity of reports issued by both the government and the rebels fighting in the east and south.</p>
+<p>The government admits to the fall of the border town of Kurmuk which has recently witnessed sporadic fighting between the government forces and the Sudanese opposition forces.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

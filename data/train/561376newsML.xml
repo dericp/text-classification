@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561376" id="root" date="1997-05-05" xml:lang="en">
+<title>CHINA: PRESS DIGEST - Shanghai newspapers - May 5.</title>
+<headline>PRESS DIGEST - Shanghai newspapers - May 5.</headline>
+<dateline>SHANGHAI 1997-05-05</dateline>
+<text>
+<p>Following is a summary of major political and business stories in local newspapers, prepared by Reuters in Shanghai. Reuters has not checked the stories and does not guarantee their accuracy.</p>
+<p>- SHANGHAI SECURITIES NEWS - China Securities Regulatory Commission announces extra five billion yuan quota for share issues on top of 10 billion yuan announced in December 1996.</p>
+<p>- BUSINESS NEWS - Trends on national usage of foreign investment this year going well, with the total in the first quarter up on the same period last year, although the growth rate slowed somewhat.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

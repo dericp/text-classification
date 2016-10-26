@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46749" id="root" date="1996-09-11" xml:lang="en">
+<title>ITALY: Two Italy brokers appeals rejected, stay suspended.</title>
+<headline>Two Italy brokers appeals rejected, stay suspended.</headline>
+<dateline>ROME 1996-09-11</dateline>
+<text>
+<p>The Lazio regional court has rejected the appeals of Italian licenced brokers Roma Sim and Coen Campos Venuti Sim against their suspension by the stock market watchdog Consob, market sources said.</p>
+<p>Consob suspended the two brokerage houses at the end of August for a series of irregularities.</p>
+<p>The original suspensions stand, with Roma Sim suspended for two months and Coen Campos Venuti for four months.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

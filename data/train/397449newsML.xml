@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="397449" id="root" date="1997-02-24" xml:lang="en">
+<title>KENYA: Kenya tea prices firm at weekly auction.</title>
+<headline>Kenya tea prices firm at weekly auction.</headline>
+<dateline>MOMBASA 1997-02-24</dateline>
+<text>
+<p>Kenyan tea prices were firm on Monday, boosted by very strong demand at the weekly tea auction in Mombasa, auction officials said.</p>
+<p>All brighter liquoring main grades advanced by up to $10. Medium and lower BP1s were 5-10 U.S. cents dearer while coloury medium PF1s were 5-10 cents dearer. Lighter liquoring descriptions were firm by 2-5 cents.</p>
+<p>Most grades in the secondary category sold at dearer rates.</p>
+<p>Pakistan, Egypt and Sudan lent good support while Britain and Somalia showed more interest on fibrous types.</p>
+<p>--Wambui Chege, Nairobi Newsroom ++254-2 330-261.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOMBASA"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

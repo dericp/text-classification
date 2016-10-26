@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69007" id="root" date="1996-09-22" xml:lang="en">
+<title>BELGIUM: MOTOR RACING-SPA FOUR HOURS ENDURANCE RESULT.</title>
+<headline>MOTOR RACING-SPA FOUR HOURS ENDURANCE RESULT.</headline>
+<dateline>SPA-FRANCORCHAMPS, Belgium 1996-09-22</dateline>
+<text>
+<p>Result of the</p>
+<p>Spa four-hour endurance event on Sunday:</p>
+<p>Distance: 100 laps (of 7.001 kms a circuit)</p>
+<p>1. Hans Stuck (Germany)/Thierry Boutsen (Belgium) Porsche four</p>
+<p>hours 01 minute 59 seconds (average speed: 182.079 kph)</p>
+<p> 2. Ray Bellm/James Weaver (Britain) Gulf McLaren	  99 laps</p>
+<p> 3. Thomas Bscher (Germany)/John Nielsen (Denmark) McLaren    98</p>
+<p> 4. Anders Olofsson (Sweden)/Luciano della Nocce (Italy) Ferrari 98</p>
+<p> 5. Jan Lammers (Netherlands)/Andy Wallace (Britain) Lotus    98</p>
+<p> 6. Jean-Marc Gounon/Eric Bernard/Paul Belmondo (France) Ferrari 96</p>
+<p> 7. Bruno Lachmann/Gerd Ruch/Ralf Kelleners (Germany) Porsche 96</p>
+<p> 8. Cor Euser (Netherlands)/Thomas Erdos (Brazil)/Ferdinand</p>
+<p> Lesseps (France) GT2 Marcos					     95</p>
+<p> 9. Philippe Gache/Eric Helary (France) Chrysler Viper	   93</p>
+<p>10. Stefano Buttiero (Italy)/Guy Martinolle/Jean-Claude Lagniez</p>
+<p>(France)									93</p>
+<p>Fastest lap: Boutsen two minutes 16.798 seconds (182.079</p>
+<p>kph)</p>
+<p>Standings (after nine rounds of 11 rounds):</p>
+<p> 1 equal. Bellm, Weaver				 194 points</p>
+<p> 2. Bscher						  156</p>
+<p> 3. Eichmann, Ruch					153</p>
+<p> 4. Olofsson, della Nocce			     132</p>
+<p> 5. Owen-Jones, Raphanel, Nielsen		   126</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPA-FRANCORCHAMPS, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

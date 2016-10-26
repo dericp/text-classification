@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="218693" id="root" date="1996-11-26" xml:lang="en">
+<title>HONG KONG: Carr Indosuez sets call warrants on HSBC.</title>
+<headline>Carr Indosuez sets call warrants on HSBC.</headline>
+<dateline>HONG KONG 1996-11-26</dateline>
+<text>
+<p>Carr Indosuez Asia</p>
+<p>(Derivatives) Ltd said on Tuesday it has launched 40 million</p>
+<p>American-style call warrants on shares of HSBC Holdings Plc.</p>
+<p>Ten warrants control one share.</p>
+<p>STRIKE PRICE	HK$146.70	 PREMIUM	     7.60 PCT</p>
+<p>ISSUE PRICE	 HK$2.869	  GEARING	     5.68X</p>
+<p>EXPIRATION	  26.NOV.97	 BOARD LOT	   4,000</p>
+<p>LISTING	     HONG KONG	 SPOT REFERENCE    HK$163</p>
+<p>SELLING RESTRICTIONS   US</p>
+<p>-- Hong Kong Newsroom (852) 2843 6590</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

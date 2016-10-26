@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="803214" id="root" date="1997-08-15" xml:lang="en">
+<title>USA: Fed adds reserves via over-the-weekeend system RPs.</title>
+<headline>Fed adds reserves via over-the-weekeend system RPs.</headline>
+<dateline>NEW YORK 1997-08-15</dateline>
+<text>
+<p>The Federal Reserve added  reserves to the banking system on Friday via over-the-weekend system repurchase agreements, the New York Fed confirmed.</p>
+<p>The operation was expected by the bond market.</p>
+<p>Fed funds were trading at 5-3/4 percent at the time of the operation, above the Fed's 5-1/2 percent target. Analysts cited the settlement of last week's Treasury refunding auctions as contributing to the tight funds rate.</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1867 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

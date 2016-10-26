@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178255" id="root" date="1996-11-09" xml:lang="en">
+<title>SOUTH AFRICA: CASH BOOST FOR S.AFRICAN SORGHUM GROWERS.</title>
+<headline>CASH BOOST FOR S.AFRICAN SORGHUM GROWERS.</headline>
+<dateline>JOHANNESBURG 1996-11-09</dateline>
+<text>
+<p>South African sorghum producers will receive an ex gratia payment of 2.50 rand a tonne on all 1996 crop sorghum delivered from May 1 to December 31, the Sorghum Board said.</p>
+<p>&quot;The total payment, amounting to 1.1 million rand, can be attributed to a greater than anticipated turnover in sorghum and considerable administrative savings achieved during the present financial year,&quot; a statement said.</p>
+<p>-- Johannesburg newsroom +2711 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

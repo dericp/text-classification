@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255998" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Assets of U.S. money market funds rose in week.</title>
+<headline>Assets of U.S. money market funds rose in week.</headline>
+<dateline>WASHINGTON 1996-12-12</dateline>
+<text>
+<p>Assets of the nation's 651 retail money market mutual funds rose $2.02 billion to $614.11 billion in the week ended Dec. 11, the Investment Company Institute, an industry trade group, said Thursday.</p>
+<p>It said assets of the 395 taxable money market funds in the retail category rose $2.05 billion to $500.25 billion, while assets of the 256 tax-exempt funds decreased $31.8 million to $113.86 billion.</p>
+<p>The trade group said assets of the 317 institutional money market funds rose $8.73 billion to $310.81 billion. Of these, the 254 taxable money market fund assets increased $8.93 billion to $279.25 billion, and assets of the 63 tax exempt funds fell $198.5 million to $31.56 billion.</p>
+<p>Money market mutual fund assets stood at $924.92 billion in the week. Assets for the week ended Dec. 4 were revised to $914.17 billion from $913.93 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

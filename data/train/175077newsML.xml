@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175077" id="root" date="1996-11-08" xml:lang="en">
+<title>CANADA: Canada govt may close debate on MMT ban - minister.</title>
+<headline>Canada govt may close debate on MMT ban - minister.</headline>
+<dateline>OTTAWA 1996-11-08</dateline>
+<text>
+<p>The Canadian government may cut off debate in the House of Commons on a bill which effectively would ban the gasoline additive MMT, in order to speed its passage, Environment Minister Sergio Marchi said on Friday.</p>
+<p>Members of the opposition Bloc Quebecois and Reform Party have held up the legislation through amendments asking variously for the bill be studied again in committee or that the bill be considered later.</p>
+<p>But the government has in the past several days not even had the MMT bill on its daily projected order of business.  </p>
+<p>Asked by Reuters when the bill would go through, Marchi said: &quot;I hope pretty soon, and if they keep moving those... amendments, we'll have to move closure.&quot;</p>
+<p>Closure is a procedure by which the government can curtail debate. If it does finally pass the House, the bill would then proceed to the unelected Senate.</p>
+<p>MMT, methylcyclopentadienyl manganese tricarbonyl, is an octane enhancer, but automakers and environmentalists back the ban, mainly arguing it gums up car diagnostic systems.</p>
+<p>It is made by Ethyl Corp and imported into Canada by its subsidiary Ethyl Canada.  </p>
+<p>The government's bill would ban the import of and interprovincial trade in MMT.</p>
+<p>-- Randall Palmer, Reuters Ottawa Bureau (613) 235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

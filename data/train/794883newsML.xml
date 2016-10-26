@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="794883" id="root" date="1997-08-12" xml:lang="en">
+<title>UK: GA posts record H1 but competition stiff.</title>
+<headline>GA posts record H1 but competition stiff.</headline>
+<dateline>LONDON 1997-08-12</dateline>
+<text>
+<p>British composite insurer General Accident Plc on Tuesday reported record profits for the first six months of 1997.</p>
+<p>Operating profits climbed to 260 million pounds ($411.3 million), toward the top end of analyst forecasts, up from 193 million pounds last year.</p>
+<p>Life profits rose 37 percent to 63 million pounds and GA said it continued to make excellent progress in expanding the UK life business.</p>
+<p>But the company said that while it had applied premium increases in personal and commercial motor classes in the UK, competitive pressures on all lines of business remained a concern.</p>
+<p>Increasingly competitive market conditions prevailed in all the group's major territories, it said.</p>
+<p>An improved underwriting result was recorded in the U.S. reflecting reduced severe weather costs. ($ = 0.632 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

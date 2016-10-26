@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466934" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Morrison Knudsen Corp Q1 shr profit $0.13.</title>
+<headline>Morrison Knudsen Corp Q1 shr profit $0.13.</headline>
+<dateline>BOISE, Idaho 1997-03-24</dateline>
+<text>
+<p>1997	     1996</p>
+<p> Revenue					$389,530	  $62,006</p>
+<p> Cost of revenue			   (371,426)	 (58,544)</p>
+<p> Gross profit				   18,104	    3,462</p>
+<p> General and administrative expenses   (5,505)	  (5,290)</p>
+<p> Goodwill amortization			 (905)	    (105)</p>
+<p> Operating income (loss)		    11,694	  (1,933)</p>
+<p> Interest income				 2,050		867</p>
+<p> Interest expense				(257)	    (190)</p>
+<p> Other income (expense), net		  (67)		 43</p>
+<p> Income (loss) before income taxes	13,420	  (1,213)</p>
+<p> Income tax (expense) benefit	    (6,416)		425</p>
+<p> Net income (loss)			     7,004	    (788)</p>
+<p> Income (loss) per share			 .13	    (.03)</p>
+<p> Common shares used to compute income (loss)</p>
+<p> per share				     53,834	   29,482</p>
+<p>Latest qtr results are for period ended Feb 28, 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

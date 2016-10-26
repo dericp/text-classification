@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129957" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Sterling Bancorp Q3 net rose.</title>
+<headline>Sterling Bancorp Q3 net rose.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Third Quarter	   Nine Months</p>
+<p>			     1996	1995	 1996	 1995</p>
+<p>			 ($ in thousands, except per share)</p>
+<p>Operating Highlights</p>
+<p> Net interest income   9,944     8,737     28,696    25,084</p>
+<p>Provision for possible</p>
+<p> loan losses		 401	 574	1,541     1,234</p>
+<p> Noninterest income    3,103     1,650	6,747     4,342</p>
+<p> Noninterest expenses  8,510     6,681     22,599    19,703</p>
+<p> Net income		2,161     1,492	5,906     4,046</p>
+<p>Per Common Share Data</p>
+<p> Net income		 0.30	0.23	 0.85	0.63</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106389" id="root" date="1996-10-09" xml:lang="en">
+<title>FRANCE: Highlights of ONIC barley estimates.</title>
+<headline>Highlights of ONIC barley estimates.</headline>
+<dateline>PARIS 1996-10-09</dateline>
+<text>
+<p>French cereals office ONIC monthly barley estimates (July/June, million tonnes).*Revisions for 1995/96.</p>
+<p>						96/97	  95/96</p>
+<p> Opening stocks			   0.629	   0.401</p>
+<p> Harvested crop			   9.496	   7.739</p>
+<p> Use on farms			     2.671	   2.461</p>
+<p> Other domestic use		     1.755	  *1.505</p>
+<p>  - incl. animal feed		   1.100	  *0.867</p>
+<p> Exports to EU			    1.980	   2.244</p>
+<p> Exports to non-EU			1.500	   0.221</p>
+<p> Final stock				1.089	   0.629</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

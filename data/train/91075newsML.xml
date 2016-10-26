@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91075" id="root" date="1996-10-02" xml:lang="en">
+<title>CHINA: China out to regularise stock, bond trading.</title>
+<headline>China out to regularise stock, bond trading.</headline>
+<dateline>SHANGHAI 1996-10-02</dateline>
+<text>
+<p>China's securities authorities on Wednesday stressed their determination to regularise trading on the country's stock and bond markets and to clamp down on speculative and illegal futures activity.</p>
+<p>The official New China News Agency carried a report from the State Council's Securities Commission which stressed the need to standardise all elements of financial markets in China, and to ensure good market management and administration.</p>
+<p>The report said effective measures should be taken to further clean up the futures markets, the subject of prolonged pressure from the central authorities to reduce speculative activity which has destabilised prices of some key commodities.</p>
+<p>&quot;Further vigorous efforts must be made to control over-speculation and to rigorously attack all kinds of illegal foreign exchange margin trading,&quot; the directive said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="383477" id="root" date="1997-02-17" xml:lang="en">
+<title>MALTA: Malta yield rates up slightly.</title>
+<headline>Malta yield rates up slightly.</headline>
+<dateline>VALLETTA 1997-02-17</dateline>
+<text>
+<p>One week and one year yields were marginally higher on the Maltese money market at the start of the week.</p>
+<p>The one week Central Bank reverse repo (absorption) rate moved to 5.080 percent from the previous week's 5.071 percent while the yield on 12 month treasury bills climbed to 5.393 percent from the previous week's 5.36 percent.</p>
+<p>The yield on one month bills remained unchanged at 5.021 percent, having risen from 4.999 percent on Feb 7. Also unchanged were yields on three month and six month bills at 5.005 percent and 5.288 percent respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

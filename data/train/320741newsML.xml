@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320741" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Chase Q4 credit-card late receivables up.</title>
+<headline>Chase Q4 credit-card late receivables up.</headline>
+<dateline>NEW YORK 1997-01-21</dateline>
+<text>
+<p>The Chase Manhattan Corp said Tuesday that managed credit card receivables past due 90 days and over and accruing were $564 million at December 31, 1996, or 2.31 percent of average credit card receivables, compared with $498 million, or 2.19 percent at December 31, 1995.</p>
+<p>The company said credit card net charge-offs on a managed basis were $311 million, or 5.11 percent of average managed receivables in the fourth quarter compared with $238 million or 4.18 percent of average managed receivables in the fourth quarter of 1995, reflecting growth in receivables of seven percent, year-over-year, and higher bankruptcies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

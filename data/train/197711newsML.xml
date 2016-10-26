@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197711" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: US High Court denies smoker appeal vs Loews unit.</title>
+<headline>US High Court denies smoker appeal vs Loews unit.</headline>
+<dateline>WASHINGTON 1996-11-18</dateline>
+<text>
+<p>The U.S. Supreme Court let stand Monday the dismissal of a liability lawsuit on behalf of a smoker against Loews Corp's Lorillard Inc unit and the company that made the filter for its Kent cigarettes.</p>
+<p>The lawsuit had been brought by the wife of Norman Braun, a former smoker who died at age 63 in 1995 from a form of cancer commonly caused by exposure to the type of asbestos used between 1952 and 1956 in Kent's &quot;micronite&quot; filter.</p>
+<p>The lawsuit, filed in federal court in Chicago, named Lorillard and Hollingsworth &amp; Vose Co, the manufacturer of the filter paper.  </p>
+<p>It sought more than $2 million in compensatory and punitive damages.</p>
+<p>After a three-week trial, the jury returned a verdict for the defendants, holding the plaintiff had failed to prove the filter had caused Braun's cancer. A U.S. appeals court in May upheld the decision.</p>
+<p>Braun's lawyers then appealed to the Supreme Court. They argued the trial judge and appeals court were wrong in refusing to admit certain scientific evidence and refusing to allow them to redirect questions to one of their key witnesses.</p>
+<p>They specifically challenged the exclusion of the testimony of one of their expert witnesses that lung tissue obtained in Braun's autopsy contained the type of asbestos fibers used in the filter.</p>
+<p>But the appeals court said the witness had never tested human or animal tissues for asbestos fibers before being hired in the case and did not familiarize himself with standard methods used in such tests or consult with scientific experts.</p>
+<p>Lorillard has maintained throughout the case that Kent cigarettes did not release asbestos in its smoke.</p>
+<p>The Supreme Court denied Braun's appeal without any comment or dissent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

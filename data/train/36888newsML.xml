@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36888" id="root" date="1996-09-06" xml:lang="en">
+<title>CANADA: Canada's Goodale to act on study of CWB by October.</title>
+<headline>Canada's Goodale to act on study of CWB by October.</headline>
+<dateline>WINNIPEG 1996-09-06</dateline>
+<text>
+<p>Canada's Agriculture Minister Ralph Goodale plans to act on a federal export panel's recommendations on the Canadian Wheat Board's role in grain marketing by the end of October, a ministerial spokesman said.</p>
+<p>&quot;He said he'd like to get whatever required legislative changes introduced before the end of October,&quot; Goodale spokesman Vern Greenshields said.</p>
+<p>The Western Grain Marketing Panel on July 9 suggested removing the CWB's monopoly on feed barley exports, pricing up to a quarter of milling wheat on the spot market and revamping the agency's corporate structure.</p>
+<p>Goodale asked producers and other industry participants to send written reactions on the recommendations to him by the end of August before he would decide what to do.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

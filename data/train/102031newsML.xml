@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102031" id="root" date="1996-10-08" xml:lang="en">
+<title>SOUTH AFRICA: Roadcorp lifts yr shr, no div.</title>
+<headline>Roadcorp lifts yr shr, no div.</headline>
+<dateline>JOHANNESBURG 1996-10-08</dateline>
+<text>
+<p>Year ended July 31 1996</p>
+<p>			(million rand unless stated)</p>
+<p>    Shr, attrib (cts)    15.10	vs    10.10</p>
+<p>    Net income		3.63	vs    1.52</p>
+<p>    Interest paid	   6.00	vs    1.21</p>
+<p>    Turnover		 82.13	vs    9.71</p>
+<p>Full name:  Roadcorp Ltd (industrial-transportation)</p>
+<p>NOTE - The directors are confident that turnover and earnings will increase further in the current year due to the improved use of facilities and operating assets.</p>
+<p>The group intends holding a rights offer to reduce debt and finance further growth.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

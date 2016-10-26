@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394666" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: Echlin CEO retires.</title>
+<headline>Echlin CEO retires.</headline>
+<dateline>BRANFORD, Conn. 1997-02-21</dateline>
+<text>
+<p>Echlin Inc said Friday that Frederick Mancheski has retired as chairman and chief executive.</p>
+<p>Mancheski will remain a member of the board, the company said.</p>
+<p>The company said it expects to name a new chief executive officer soon.  Until then, Trevor Jones, an Echlin director since 1991, has been elected chairman and interim CEO, while John Creamer Jr., an Echlin director since 1986, has been elected vice chairman, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRANFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

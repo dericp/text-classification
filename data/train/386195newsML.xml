@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386195" id="root" date="1997-02-18" xml:lang="en">
+<title>SINGAPORE: SIMEX Brent steady, maintaining NYMEX arbitrage.</title>
+<headline>SIMEX Brent steady, maintaining NYMEX arbitrage.</headline>
+<dateline>SINGAPORE 1997-02-18</dateline>
+<text>
+<p>Brent crude futures were firmer in late afternoon dealings on Tuesday, cutting back into London's day-earlier losses as the market searched for direction.</p>
+<p>April Brent was last traded at $20.34 per barrel, matching London's settlement. April fell 15 cents in small volume overnight in London.</p>
+<p>Brokers said the market had little direction and was continuing to trade in a range of $20.00 to $20.85. Latest trading was in the middle of the range.  </p>
+<p>NYMEX April crude oil, trading on ACCESS, was last traded at $21.90 per barrel, down 13 cents from New York's close on Friday. New York markets were closed on Monday for a national holiday.</p>
+<p>Brokers said Brent was trading in line with its Friday arbitrage with NYMEX of around $1.54 based on the April contracts.</p>
+<p>--Singapore Newsroom (+65 870 3081)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

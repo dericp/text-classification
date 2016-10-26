@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485447" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: U.S. jobless claims rose in latest week.</title>
+<headline>U.S. jobless claims rose in latest week.</headline>
+<dateline>WASHINGTON 1997-04-03</dateline>
+<text>
+<p>U.S. Labor Department report of initial state jobless benefit claims, seasonally adjusted.</p>
+<p>Week Ended  Initial Claims  4-Week Avg.  Continued Claims</p>
+<p>    - 03/29/97     314,000	312,500	Unavailable</p>
+<p>    - 03/22/97     313,000-R    312,000-R    2,300,000</p>
+<p>    - 03/15/97     314,000	312,750	2,310,000-R</p>
+<p>    - 03/08/97     309,000	310,750	2,310,000-R</p>
+<p>R-Revised, March 22 Initial Claims from 310,000, March 22 4-Week Average from 311,250, March 15 Continued Claims from 2,281,000, and March 8 from 2,310,000.  </p>
+<p>Wall Street economists had forecast initial jobless claims of 310,000 in the March 29 week.</p>
+<p>Continued claims in the latest week were the lowest since the week ended Dec 23, 1989, when they were 2,291,000, the department said.</p>
+<p>Labor said three states reported decreases in claims exceeding 1,000 on an unadjusted basis in the week ended March 22, the latest period for which data are available.</p>
+<p>They were Tennessee, with 2,468 fewer filings; Oregon, with 1,596; and New York, with 1,220.  </p>
+<p>Tennessee reported fewer layoffs in the food, apparel, trade and service industries and in agriculture. Oregon and New York gave no reasons for the dropoff in filings in their states.</p>
+<p>Three states reported increases in claims exceeding 1,000 in the March 22 week.</p>
+<p>They were Maryland, with 2,608 additional filings; Louisiana, with 1,847; and Ohio, with 1,114.</p>
+<p>Maryland said it had layoffs in the fabricated metals, transportation equipment, publishing, optical goods and service industries. Louisiana and Ohio both reported layoffs in the transportation equipment industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

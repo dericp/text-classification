@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="299985" id="root" date="1997-01-10" xml:lang="en">
+<title>UK: UK fund completes buy of French paintbrush firm.</title>
+<headline>UK fund completes buy of French paintbrush firm.</headline>
+<dateline>LONDON 1997-01-10</dateline>
+<text>
+<p>British equity fund manager European Acquisition Capital Ltd (EAC) said on Friday that it has completed the purchase of French paintbrush manufacturer Groupe Franpin via a management buy-in.</p>
+<p>It did not disclose financial details but noted that Franpin which was owned by its founders the Andres family, has sales of over 400 million French francs.</p>
+<p>EAC had a controlling interest in pub retailer Tom Cobleigh, which was sold to British leisure and hotel company Rank Organisation Plc for 96 million stg in September 1996.</p>
+<p>-- London Newsroom +44 171 542 4019</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I8150203">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

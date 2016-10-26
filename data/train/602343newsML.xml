@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602343" id="root" date="1997-05-21" xml:lang="en">
+<title>ITALY: FORECAST -- Italy seen issuing 30 trillion lire BOTs.</title>
+<headline>FORECAST -- Italy seen issuing 30 trillion lire BOTs.</headline>
+<dateline>MILAN 1997-05-21</dateline>
+<text>
+<p>The Italian Treasury is seen issuing between 29.5 and 30.5 trillion lire of short-term bills (BOT) at auction on May 27, for an average forecast of 30 trillion lire against 33.25 trillion maturing, analysts polled by Reuter said on Wednesday.</p>
+<p>The Treasury is also seen offering two trillion lire of 18 month zero coupon certificates (CTZs) together with 2.5 trillion lire of 24 month CTZs, whereas no zero coupon certificates mature in May.</p>
+<p>The Treasury will detail the amount it will offer on Thursday, while settlement date for the paper is on May 30.</p>
+<p>&quot;At this end-month auction the shortfall between BOT falling due and new certificates being issued will be bigger than usual,&quot; said Riccardo Antoniol at Bank of America. &quot;This is because at its last mid-month auction the Treasury issued an amount of short-term paper equalling the certificates maturing in order to avoid excessive yield fluctuations&quot;.</p>
+<p>Following are the analysts' forecasts (in trillion lire)</p>
+<p>		 3MoBot  6MoBot   12MoBot  Tot Bot  18MoCtz  24MoCtz</p>
+<p>---------------------------------------------------------------</p>
+<p>Banca Roma    8.5     11.5	10.0    30.0	2.0	2.5</p>
+<p>Bofa	    9.5     11.0	 9.0    29.5	2.0	2.5</p>
+<p>Caboto	 10.0     11.0	 9.0    30.0	2.0	2.5</p>
+<p>Comit	   9.5     11.5	 9.5    30.5	2.0	2.5</p>
+<p>Chase	   9.0     10.0	10.5    29.5	2.5	3.0</p>
+<p>Prometeia     9.5     10.5	10.0    30.0	    *9.0</p>
+<p>================================================================</p>
+<p>CONSENSUS     9.3     10.0	 9.6    30.0	2.0	2.5</p>
+<p>Maturing     10.5     12.25     10.5    33.25	-	  -</p>
+<p>* Prometeia's CTZ forecast is for the entire month of May.</p>
+<p>-- Milan newsroom +392 66101399</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

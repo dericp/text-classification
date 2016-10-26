@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250285" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Dec 11.</title>
+<headline>PRESS DIGEST - New York Times front page - Dec 11.</headline>
+<dateline>NEW YORK 1996-12-11</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Wednesday:</p>
+<p>- NATO took its first formal step toward expanding its alliance to include Eastern European nations that were once Communist.</p>
+<p>- Opposition is gathering among educational and parent groups to the ratings system about to be proposed by the television industry.</p>
+<p>- Beth Israel Medical Center and St. Luke's-Roosevelt Hospital Center, both of New York City, said they'll form a single parent corporation to oversee both hospitals.</p>
+<p>- High Wall Street profits are bringing in so much tax revenue that New York City may end its fiscal year with a surplus of nearly $350 million.</p>
+<p>- The Clinton administration tightened wetlands regulations.</p>
+<p>- New York City Council leaders said they would defeat Mayor Rudolph Giuliani's proposal for making it easier for superstores to open in the city.</p>
+<p>- Psychoanalysts in Russia are shaking free of 70 years of drug-based Soviet psychiatry to once again explore Freudian concempts.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

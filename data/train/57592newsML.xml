@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57592" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Veritas says stock lower on profit taking.</title>
+<headline>Veritas says stock lower on profit taking.</headline>
+<dateline>LOS ANGELES 1996-09-17</dateline>
+<text>
+<p>Veritas Software Corp stock traded lower Tuesday on profit taking, a company spokesman said. Veritas traded 2-1/4 lower to 56-1/4 in midday trading on Nasdaq.</p>
+<p>&quot;It has certainly run up a lot in the last couple of weeks so it may be just a little correction,&quot; said Mark Leslie, spokesman for Veritas.</p>
+<p>Shares of Veritas have risen sharply over the last month. On August 20 Veritas closed at 34-1/2 before jumping to 48-1/4 two days later after the company said it had formed a licensing, development and marketing pact with Microsoft Corp .</p>
+<p>The Mountain View, Calif.-based company was given a further boost on September 3 when it announced a three-for-two stock split. Shares of the disk storage management company continued to climb higher closing at 60-3/8 last Friday.</p>
+<p>&quot;It makes sense doesn't it,&quot; Leslie said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

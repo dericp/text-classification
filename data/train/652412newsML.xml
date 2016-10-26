@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652412" id="root" date="1997-06-11" xml:lang="en">
+<title>LATVIA: CENTRAL BANK LAT FIXING FOR JUNE.</title>
+<headline>CENTRAL BANK LAT FIXING FOR JUNE.</headline>
+<dateline>RIGA 1997-06-11</dateline>
+<text>
+<p>The central bank on Wednesday set</p>
+<p>the following rates for the lat, which are valid for June 12:</p>
+<p>    ATS	   0.0474</p>
+<p>    AUD	   0.434</p>
+<p>    BEF	   0.0162</p>
+<p>    CAD	   0.412</p>
+<p>    CHF	   0.398</p>
+<p>    CZK	   0.0179</p>
+<p>    DEM	   0.334</p>
+<p>    DKK	   0.0876</p>
+<p>    ECU	   0.648</p>
+<p>    EEK	   0.0417</p>
+<p>    100ESP	0.394</p>
+<p>    FIM	   0.111</p>
+<p>    FRF	   0.0986</p>
+<p>    GBP	   0.936</p>
+<p>    100HUF	0.311</p>
+<p>    100ITL	0.0338</p>
+<p>    100JPY	0.515</p>
+<p>    KGS	   0.0321</p>
+<p>    LTL	   0.143</p>
+<p>    MDL	   0.123</p>
+<p>    NLG	   0.297</p>
+<p>    NOK	   0.0802</p>
+<p>    PLN	   0.177</p>
+<p>    1000RUR     0.0992</p>
+<p>    SDR	   0.7997</p>
+<p>    SEK	   0.0735</p>
+<p>    SKK	   0.0171</p>
+<p>    USD	   0.571</p>
+<p>    XAU (gold) 196.30</p>
+<p>-- Riga newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

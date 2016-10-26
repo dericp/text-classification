@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="703251" id="root" date="1997-07-02" xml:lang="en">
+<title>DENMARK: Swedish SBAB issues 200 mln Dkk 4.0 pct 2003 bond.</title>
+<headline>Swedish SBAB issues 200 mln Dkk 4.0 pct 2003 bond.</headline>
+<dateline>COPENHAGEN 1997-07-02</dateline>
+<text>
+<p>The following new bond issue was announced on Wednesday by arranger Den Danske Bank.</p>
+<p>BORROWER: STATENS BOSTADS FINANSIERINGS AKTIEBOLAG (SBAB).</p>
+<p>AMOUNT: 200 MILLION DANISH CROWNS.</p>
+<p>COUPON:FOUR PERCENT. MATURITY: 31 OCTOBER 2003.</p>
+<p>ISS DATE: JULY 23 1997. ISS PRICE: TO BE ADVISED.</p>
+<p>MOODY A1. S&amp;P AA-.</p>
+<p>LISTING: COPENHAGEN BOURSE</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

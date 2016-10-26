@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339801" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: VideoLan adopts shareholder rights plan.</title>
+<headline>VideoLan adopts shareholder rights plan.</headline>
+<dateline>LOUISVILLE, Ky. 1997-01-29</dateline>
+<text>
+<p>VideoLan Technologies Inc said Wednesday it adopted a shareholder rights plan and declared a dividend of one right on each outstanding share of VideoLan common stock.</p>
+<p>The company said the move is not in response to a buyout offer and it said it is not aware of any such offer pending.</p>
+<p>The rights dividend is payable on February 8 to shareholders of record on that date, the company said.</p>
+<p>In addition to the rights dividend on currently outstanding shares, the plan provides for the automatic issuance of one right with respect to each share of common stock issued after February 8, the company said.</p>
+<p>Under the plan, the rights would be distributed 10 days after a public announcement that a person or group had acquired 15 percent or more of VideoLan's outstanding common shares, or 10 business days after the beginning of a tender offer or exchange offer that would result in a person or group owning 15 percent or more of the outstanding common shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

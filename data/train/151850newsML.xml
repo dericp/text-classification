@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151850" id="root" date="1996-10-29" xml:lang="en">
+<title>CHINA: Beijing mayor Li Qiyan resigns.</title>
+<headline>Beijing mayor Li Qiyan resigns.</headline>
+<dateline>BEIJING 1996-10-29</dateline>
+<text>
+<p>The Beijing People's Congress on Monday approved the resignation of Mayor Li Qiyan, the official Xinhua news agency said on Tuesday.</p>
+<p>Jia Qinglin, Communist Party secretary of the southeastern province of Fujian, was appointed acting mayor, Xinhua said. It gave no reason for Li's resignation.  </p>
+<p>Li would become secretary of the Labour Ministry's Communist Party committee, Xinhua said.</p>
+<p>Chinese sources have said Li stepped down because of his links to Chen Xitong, who resigned as Communist Party boss of Beijing in 1995 after his protege, a vice-mayor, came under investigation for economic crimes and committed suicide.</p>
+<p>Corruption was virtually eliminated in the years after the communists came to power in 1949, but has staged a comeback along with economic reforms in the past 17 years.</p>
+<p>Communist Party chief and state president Jiang Zemin has declared war on corruption, warning that the scourge was a virus that threatened the party. Courts frequently impose the death penalty in major corruption cases.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

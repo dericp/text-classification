@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="729917" id="root" date="1997-07-15" xml:lang="en">
+<title>USA: Shell Mensa natgas field producing at 108 mmcfd.</title>
+<headline>Shell Mensa natgas field producing at 108 mmcfd.</headline>
+<dateline>NEW ORLEANS 1997-07-15</dateline>
+<text>
+<p>Shell Deepwater Production Inc on Tuesday said its deepwater Gulf of Mexico Mensa field is producing about 108 million cubic feet of gas per day (mmcfd) after coming on line on July 12.</p>
+<p>Peak production of 300 mmcfd is expected in the first quarter 1998, and ultimate recovery is estimated at 720 billion cubic feet from the field, which is 100 percent owned by Shell and located in the Mississippi Canyon area about 150 miles southeast of New Orleans.</p>
+<p>Subsea development will continue through March 1998 as two other wells planned for the project are drilled and completed by the Transocean semisubmersible, George Richardson, the New Orleans-based company said.</p>
+<p>The Mensa platform is located in a record 5,300 feet of water, and production flows through 68 miles of flowline to a host platform at West Delta 143 closer to shore, Shell said.</p>
+<p>Shell is a unit of Royal Dutch/Shell Group.</p>
+<p>((--Houston Bureau 713 210-8508))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

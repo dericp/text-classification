@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168688" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: TWA October load factor down.</title>
+<headline>TWA October load factor down.</headline>
+<dateline>ST. LOUIS 1996-11-06</dateline>
+<text>
+<p>Trans World Airlines Inc said on Wednesday its load factor fell to 63.4 percent in October from 64.0 percent a year ago.  </p>
+<p>Total available seat miles in October were 3.49 billion, up from 3.30 billion a year ago, and revenue passenger miles were 2.22 billion, up from 2.11 billion a year ago, the airline said.</p>
+<p>For the year through October, load factor was 67.6 percent, up from 66.2 percent a year ago. Available seat miles were 34.20 billion, up from 31.81 billion a year ago, the ailrine said. Revenue passenger miles were 23.12 billion for the year through October, up from 21.07 billion a year ago.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197501" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Baltimore Gas 850 MW power unit trips off.</title>
+<headline>Baltimore Gas 850 MW power unit trips off.</headline>
+<dateline>NEW YORK 1996-11-18</dateline>
+<text>
+<p>Baltimore Gas' 850 megawatt (MW) Calvert Cliffs 2 nuclear power plant tripped off line over the weekend, the Nuclear Regulatory Commission (NRC) reported Monday.</p>
+<p>The NRC said the unit was being kept on &quot;hot standby&quot;, which typically indicates it is not expected to be off line for long. No reason was given for the unit tripping off line.</p>
+<p>An estimated restart time for the unit, in Lusby, Md., was given in the NRC daily status report as November 19. The report is based on filings with the NRC by the plant's operator.</p>
+<p>-- New York Power Desk + 1 212 859 1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

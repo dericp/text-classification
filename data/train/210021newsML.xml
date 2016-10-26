@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210021" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Bob Smith elected U.S. House ag panel chairman.</title>
+<headline>Bob Smith elected U.S. House ag panel chairman.</headline>
+<dateline>WASHINGTON 1996-11-22</dateline>
+<text>
+<p>Majority-party Republicans followed through on a promise Friday and elected Bob Smith of Oregon as chairman of the U.S. House Agriculture Committee.</p>
+<p>Party leaders pledged the post to Smith last summer when he agreed to run for Congress. He served six terms before retiring from the House in 1994.</p>
+<p>Democrats chose Charles Stenholm of Texas as their committee leader earlier this week.</p>
+<p>In interviews, Smith has said he wants to review the impact on U.S. farmers of free trade agreements, explore possible barriers to U.S. exports and work on forestry issues.</p>
+<p>Leaders from both parties were expected to work over the weekend on appointing members to House committees. Sizable turnover was expected on the Agriculture Committee where half of its leaders were leaving through retirement, electoral defeat or election to the Senate.</p>
+<p>After committee members are named, subcommittee chairmen will be selected, according to committee aides.</p>
+<p>Like 1994, Agriculture was expected to be one of the most avidly sought committees by first-term members.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

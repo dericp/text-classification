@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779731" id="root" date="1997-08-05" xml:lang="en">
+<title>GREECE: LEFT-WING POLITICIAN GIANNAROS PASSES AWAY.</title>
+<headline>LEFT-WING POLITICIAN GIANNAROS PASSES AWAY.</headline>
+<dateline>ATHENS 1997-08-05</dateline>
+<text>
+<p>Veteran left-wing politician and member of parliament Grigoris Giannaros, 63, died at dawn on Tuesday after a lenghty illness.</p>
+<p>Giannaros, a member of the Coalition of the Left and Progress party's (Synaspismos) central committee will be buried Wednesday at 16:30 at Athens' first cemetery.</p>
+<p>Born in 1936 in Salmoni, Ileia, Giannaros studied economics at the Athens Higher School of Economic and Commercial Sciences (ASOEE) and did post graduate studies at the Moscow academy of sciences.</p>
+<p>He was first elected to parliament in 1989. --George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

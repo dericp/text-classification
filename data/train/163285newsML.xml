@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163285" id="root" date="1996-11-04" xml:lang="en">
+<title>TANZANIA: 2,000 refugees from east Zaire reach Tanzania.</title>
+<headline>2,000 refugees from east Zaire reach Tanzania.</headline>
+<dateline>DAR ES SALAAM 1996-11-04</dateline>
+<text>
+<p>Some 2,000 refugees fleeing fighting in eastern Zaire arrived in western Tanzania at the weekend on boats across Lake Tanganyika, the U.N. refugee agency said on Monday.</p>
+<p>Vincent Parker, a spokesman for the U.N. High Commissioner for Refugees (UNHCR), said at least eight refugees had gunshot wounds and were taken to hospital in the Tanzanian lake port of Kigoma.</p>
+<p>Parker said the refugees, mostly family members with their belongings, consisted of Zaireans and Burundian Hutus who had arrived on the lakeshore near Kigoma on 10 boats on Saturday.</p>
+<p>He said there were no Zairean soldiers among the refugees. More than a million refugees and Zaireans are feared uprooted in eastern Zaire by two weeks of fighting between Zairean troops and Tusi rebels.</p>
+<p>&quot;If this trend continues, obviously it will be an emergency. Given the magnitude of the crisis in Zaire it is fair to expect the influx (into Tanzania) to continue,&quot; Parker warned.</p>
+<p>There are about 41,000 Burundian Hutu refugees in Kigoma district and another 112,000 in Ngara district to the north.</p>
+<p>Northwestern Tanzania also has camps housing 535,000 Rwandan Hutu refugees who fled their homeland during the genocide of up to a million Tutsis and Hutu moderates by Hutu troops, mobs and militiamen in 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

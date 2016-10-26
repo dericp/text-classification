@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="621167" id="root" date="1997-05-28" xml:lang="en">
+<title>UK: UK delivered grain trades - May 28.</title>
+<headline>UK delivered grain trades - May 28.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1515 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to Southampton, Tewkesbury, Avonmouth and Gloucester Jul 113.50/14.00</p>
+<p>Feed wheat to West Norfolk Jun 89.00 Jul 91.00</p>
+<p>Bedfordshire, Buckinghamshire, Northamptonshire and Oxfordshire Jun 89.00</p>
+<p>Feed barley to Norfolk/Suffolk Jun 89.00</p>
+<p>Avon range Jun 88.00</p>
+<p>Norfolk/Suffolk asa 88.00</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

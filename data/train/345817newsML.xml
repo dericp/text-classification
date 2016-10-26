@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345817" id="root" date="1997-01-30" xml:lang="en">
+<title>FINLAND: Finnair, Maersk set code-share deal.</title>
+<headline>Finnair, Maersk set code-share deal.</headline>
+<dateline>HELSINKI 1997-01-30</dateline>
+<text>
+<p>Finnish airline Finnair Oy said in a statement on Thursday it would set eight daily code-share return flights between Stockholm and Copenhagen with Danish Maersk Air, part of A.P. Moller Gruppen.</p>
+<p>&quot;Each airline will operate four return flights on weekdays all on a code-sharing basis. The airlines will operate a combined total of three return flights on Saturdays and four on Sundays,&quot; it said.  </p>
+<p>The deal was an expansion of earlier cooperation, it said, adding that Finnair has since October had code-share seats on a twice-daily route between Stockholm in Sweden and the Danish town of Billund.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 242</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

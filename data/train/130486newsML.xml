@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130486" id="root" date="1996-10-21" xml:lang="en">
+<title>MALAYSIA: Malaysia physical palm oil prices - Oct 21.</title>
+<headline>Malaysia physical palm oil prices - Oct 21.</headline>
+<text>
+<p>(Prices in Ringgit/tonne local delivery/Crude, Bulk)</p>
+<p>		  BID/ASK	     TRADES</p>
+<p>Oct	    1130/1135	    1135/1137.50 (south)</p>
+<p>Nov	    1135/1150	    1130/1137.50 (south)</p>
+<p>Dec	    1135/1145</p>
+<p>(Prices in US dollars/Tonne local for Malaysian ports,Bulk)</p>
+<p>			  RBD PALM OIL</p>
+<p>Nov/Dec		 485	   slr</p>
+<p>Jan/Feb/Mch	   487.50	slr</p>
+<p>			  RBD PALM OLEIN</p>
+<p>Nov		     517.50	slr</p>
+<p>Dec		     515	   slr traded 510/511/512.50</p>
+<p>Jan/Feb/Mch	   520	   slr</p>
+<p>			  RBD PALM STEARIN</p>
+<p>Nov		     370	   slr</p>
+<p>Dec		     370	   slr</p>
+<p>		     PALM FATTY ACID DISTILLATE</p>
+<p>Nov/Dec		 320	slr</p>
+<p>PALMOIL CRUDE SUMATRAN/MALAYSIAN SLRS OPTIONS</p>
+<p>CIF ROTTERDAM DLRS A  TONNE -1100 GMT Nov		     520	   slr</p>
+<p>Dec		     520	   slr</p>
+<p>--Kuala Lumpur newsroom (603 -230-7510)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

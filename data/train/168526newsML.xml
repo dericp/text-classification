@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168526" id="root" date="1996-11-06" xml:lang="en">
+<title>CANADA: Morrison Pete to buy Alberta gas plant.</title>
+<headline>Morrison Pete to buy Alberta gas plant.</headline>
+<dateline>CALGARY 1996-11-06</dateline>
+<text>
+<p>Morrison Petroleums Ltd said on Wednesday it would purchase the Nevis gas plant in central Alberta from affiliate Canadian Gas Gathering Systems for C$120 million.</p>
+<p>Morrison, which currently manages the 125 million cubic feet per day plant on behalf of CGGS, said it was pursuing the possibility of establishing a income trust that would acquire the plant.  </p>
+<p>Initial financing for the purchase was expected to come from Morrison's banking facility.</p>
+<p>The Nevis plant, located 40 miles east of Red Deer, Alberta, processes sour and sweet gas into residue gas, propane, butane, condensate and sulphur.</p>
+<p>The plant draws production from 11 producing areas through a 220-mile gathering system and is the only major sour gas processing plant within a 47-mile radius.</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

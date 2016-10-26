@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272471" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: ASV votes 3-for-2 stock split.</title>
+<headline>ASV votes 3-for-2 stock split.</headline>
+<dateline>GRAND RAPIDS, Minn. 1996-12-23</dateline>
+<text>
+<p>ASV Inc said on Monday its directors approved payment of a three-for-two stock split on January 17, to shareholders of record January 6.</p>
+<p>As of November 30, 1996, ASV had about 3.2 million common shares outstanding.</p>
+<p>ASV designs, makes and sells track-driven all-season vehicles and related accessories and attachments from its manufacturing facility in Grand Rapids, Minn.</p>
+<p>((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRAND RAPIDS, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

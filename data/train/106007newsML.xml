@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106007" id="root" date="1996-10-09" xml:lang="en">
+<title>UK: IPE Brent holds despite U.S. heating oil dip.</title>
+<headline>IPE Brent holds despite U.S. heating oil dip.</headline>
+<dateline>LONDON 1996-10-09</dateline>
+<text>
+<p>IPE Brent crude futures were steady at a slight loss on the day shortly after New York opened on Wednesday despite a slide in NYMEX heating oil.</p>
+<p>November Brent was down 11 cents at $24.47 a barrel but 15 cents up on the day's low so far.</p>
+<p>Dealers said U.S. government EIA stock statistics backed up Tuesday's API figures showing a build in distillate.</p>
+<p>The EIA reported a 1.3 million build in U.S. distillates, in line with the API. The shortfall in stocks versus a year ago shrank by 1.6 million barrels to 17.1 million.  </p>
+<p>IPE gas oil was $2 a tonne down at $245 after opening at a high for the day at $248.</p>
+<p>Dealers said gas oil might be underpinned by newly released Euroilstock data showing a growing year-on-year shortfall in European Union distillate stocks.</p>
+<p>EU distillate stocks, excluding Sweden, at the end of September were 33.47 million barrels less than a year ago, compared to a 25.79 million deficit at end-August.</p>
+<p>Distillates fell 2.93 million barrels to 283.35 million barrels during September, Euroilstock said.</p>
+<p>--London newsroom +44 171 542 8060</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

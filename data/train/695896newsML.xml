@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695896" id="root" date="1997-06-30" xml:lang="en">
+<title>GUATEMALA: Nine dead, 36 injured in Guatemala land dispute.</title>
+<headline>Nine dead, 36 injured in Guatemala land dispute.</headline>
+<dateline>JUAN DE ARGUETA, Guatemala 1997-06-30</dateline>
+<text>
+<p>Nine people died and 36 were injured on Sunday and Monday in fighting over a decades-old land dispute in western Guatemala, emergency workers said on Monday.</p>
+<p>&quot;The autopsies are being done right in the marketplace,&quot; Abelardo Diaz of the volunteer rescue squad in Quetzaltenango told Reuters.</p>
+<p>The battle was sparked by a long-running dispute over land near this village that is claimed by residents of two separate provinces. San Juan is about 100 miles 160 km west of Guatemala City, the capital.</p>
+<p>Some 500 residents carrying firearms, machetes and other weapons continued to occupy the village of San Juan de Argueta on Monday afternoon, limiting access to emergency and security personnel.</p>
+<p>Only rescue vehicles, some of them carrying police or government officials, were permitted to enter and leave, he said.</p>
+<p>From Sunday night to Monday morning rescue officials transported the injured to nearby hospitals with bullet wounds, burns from explosives and wounds from machetes and sticks, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JUAN DE ARGUETA, Guatemala"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

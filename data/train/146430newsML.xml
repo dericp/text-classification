@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146430" id="root" date="1996-10-27" xml:lang="en">
+<title>INDIA: India's STC allows 100,000 T sugar export.</title>
+<headline>India's STC allows 100,000 T sugar export.</headline>
+<dateline>NEW DELHI 1996-10-27</dateline>
+<text>
+<p>The Indian government has allowed the State Trading Corporation (STC) to export 100,000 tonnes of sugar out of the production in the 1995/96 (Oct-Sept) sugar year, an STC spokesman said on Sunday.</p>
+<p>The Food Ministry earlier allowed the Indian Sugar and General Industry Import-Export Corporation, established by private sugar mills, to export one million tonnes in 1995/96.</p>
+<p>State-run STC was a regular exporter in the 1980s but had stayed away from the export market since 1990 following a rise in domestic consumption and a fall in production in India.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234012" id="root" date="1996-12-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Highest/Lowest Australian P-E Ratios - Dec 5.</title>
+<headline>RTRS-Highest/Lowest Australian P-E Ratios - Dec 5.</headline>
+<dateline>SYDNEY 1996-12-05</dateline>
+<text>
+<p>Highest and lowest price earnings ratios for Australian companies included in the 320-company All Ordinaries Index based on closing prices on Wednesday. P/E based on rolling 12 months earnings.</p>
+<p>Highest 10</p>
+<p>Rank Name		     P/E    Close</p>
+<p> 1   Portman Min	   396.83    2.50</p>
+<p> 2   Niugini Min	   223.02    3.10</p>
+<p> 3   T N T		   176.98    2.46</p>
+<p> 4   Mayne Nickless	174.39    7.90</p>
+<p> 5   Colonial Coml	 122.95    2.25</p>
+<p> 6   Adel Bton Cement    121.01    1.67</p>
+<p> 7   Forrestania Gold     96.77    2.70</p>
+<p> 8   Westral Forest	 82.25    2.27</p>
+<p> 9   Herald Rsc	     80.53    0.91</p>
+<p>10   Goodman Fielder	67.89    1.67</p>
+<p>Lowest 10</p>
+<p> 1   Dominion Min	    1.91    0.83</p>
+<p> 2   Premier Inv	     3.95    0.70</p>
+<p> 3   Computer Power	  3.97    4.06</p>
+<p> 4   BTR Plc		   5.48    5.10</p>
+<p> 5   Queensland Cotton     5.80    4.40</p>
+<p> 6   Parbury Ltd	     6.08    0.72</p>
+<p> 7   OLS Asia Hldgs	  7.06    0.84</p>
+<p> 8   Aust Gold Rsc	   7.12    1.30</p>
+<p> 9   Renison Goldflds	7.54    5.20</p>
+<p>10   Templeton Global	7.71    1.35</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

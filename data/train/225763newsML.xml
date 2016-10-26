@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225763" id="root" date="1996-11-29" xml:lang="en">
+<title>FRANCE: French Socialists challenge welfare bill.</title>
+<headline>French Socialists challenge welfare bill.</headline>
+<dateline>PARIS 1996-11-29</dateline>
+<text>
+<p>France's opposition Socialist Party said on Friday it had called for the social security funding and reform bill to be examined by the country's constitutional court because of legal and interpretative uncertainty.</p>
+<p>The Socialist group said in a statement that it feared that the bill could degenerate into a &quot;catch all&quot; law in government hands and that its field of application should be limited to what was strictly allowed by the constitution.</p>
+<p>The bill in question was adopted by the National Assembly on Thursday and seeks to reduce the welfare deficit to around 30 billion francs next year from a forecast 1997 deficit of 47.15 billion if no new measures were taken.</p>
+<p>The deficit this year is forecast at 51.6 billion francs.</p>
+<p>The government plans to use higher alcohol, tobacco and petrol duties as well as payroll charge reforms to bring the 1997 deficit down.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

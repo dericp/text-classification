@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22146" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Reuters unit offers investor relations link.</title>
+<headline>Reuters unit offers investor relations link.</headline>
+<dateline>NORRISTOWN, Pa. 1996-08-29</dateline>
+<text>
+<p>Reality Online Inc, a unit of Reuters Holdings Plc, said on Thursday that it introduced Reuters Inc.Link providing public companies a means to add content to corporate Internet sites.</p>
+<p>Reuters Inc.Link will give current or potential shareholders of a public company using Reuters Inc.Link immediate access to financial data, company news, historical stock data, SEC reports and other data, Reality Online said.</p>
+<p>Corporate clients that use the service can custom publish their data on their Inc.Link page, which will also permit individuals to register to receive e-mail updates with corporate information, Reality Online said.</p>
+<p>Companies that get Reuters Inc.Link will have automatic access to the Reuters Inc.Link Hub, a collection of pages from all participating companies, Reality Online said. The Reuters Inc.Link Hub will be marketed as part of the company's web site as well as used for personal finance sites on the Internet, the company said.</p>
+<p>Reuters Inc.Link membership ranges from $1,000 to $1,500 for set-up and $500 to $750 per month to maintain the product, but the company is offering introductory rates, Reality Online said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORRISTOWN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

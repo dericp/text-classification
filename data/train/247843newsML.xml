@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247843" id="root" date="1996-12-10" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR rates firmer as spot rates rise.</title>
+<headline>Manila's PHIBOR rates firmer as spot rates rise.</headline>
+<dateline>MANILA 1996-12-10</dateline>
+<text>
+<p>The Philippine interbank offered rates (PHIBOR) firmed in all maturities, except for the one-year which remained unchanged, traders said on Tuesday.</p>
+<p>Banks raised their swap rates following the increase in the spot rates for the local currency, one trader said.</p>
+<p>Manila's overnight rates inched up for the second straight session on Tuesday due to a temporary drain from last week's dollar buying and tax payments, they said.  </p>
+<p>Average rates quoted by 20 banks were:</p>
+<p>			Dec 10		  Dec 9</p>
+<p>   1 W		11  1/16		10 13/16</p>
+<p>   2 W		11  1/8		 10 15/16</p>
+<p>   1 M		11  3/16		11  1/8</p>
+<p>   2 M		11  3/16		11  1/16</p>
+<p>   3 M		11  3/16		11  1/8</p>
+<p>   6 M		11  3/8		 11  5/16</p>
+<p>   12M		11  3/4		 11  3/4</p>
+<p>   VAL		11-Dec		  10-Dec</p>
+<p>--Manila newsroom (632_ 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

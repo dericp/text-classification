@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233797" id="root" date="1996-12-04" xml:lang="en">
+<title>SLOVAKIA: Slovak FinMin 41-wk T-bill avg yield 11.94 pct.</title>
+<headline>Slovak FinMin 41-wk T-bill avg yield 11.94 pct.</headline>
+<dateline>BRATISLAVA 1996-12-04</dateline>
+<text>
+<p>The average yield at the Slovak Finance Ministry's auction of 41-week treasury bills rose to 11.94 percent from 11.25 percent in the last auction of T-bills with a similar maturity, the central bank said on Wednesday.</p>
+<p>It said all 1.095 billion crowns worth of bids at the ministry's three-week T-bill auction were rejected. The ministry does not announce the amount of bills on offer at its auctions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

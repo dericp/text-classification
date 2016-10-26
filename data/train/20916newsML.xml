@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20916" id="root" date="1996-08-29" xml:lang="en">
+<title>UK: CRICKET - ENGLAND BEAT PAKISTAN IN FIRST ONE-DAYER.</title>
+<headline>CRICKET - ENGLAND BEAT PAKISTAN IN FIRST ONE-DAYER.</headline>
+<dateline>MANCHESTER, England 1996-08-29</dateline>
+<text>
+<p>England beat Pakistan by five wickets to win the first one-day (50 overs-a-side) international at Old Trafford on Thursday.</p>
+<p>Scores: Pakistan 225-5 innings closed (Saeed Anwar 57), England 226-5 in 46.4 overs (M.Atherton 65).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANCHESTER, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

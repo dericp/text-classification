@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68395" id="root" date="1996-09-20" xml:lang="en">
+<title>SINGAPORE: Good sentiment to boost Singapore share market.</title>
+<headline>Good sentiment to boost Singapore share market.</headline>
+<dateline>SINGAPORE 1996-09-20</dateline>
+<text>
+<p>The run-up in Singapore shares over the last few days was likely to continue till early next week, dealers said on Friday.</p>
+<p>They said the recent spate of buying from European funds had spurred the Singapore market despite Wall Street's marginal downturn over the last two days.</p>
+<p>On Thursday, the key Straits Times Industrials Index (STII) closed at 2,206.09, up 23.78 points. Dealers expected the index to test the next resistance level at 2,250 in the near term.</p>
+<p>Wall Street closed at 5,867.74, down 9.62 points overnight. --Seah Beng Nah, Singapore newsroom (65 8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

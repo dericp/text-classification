@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34567" id="root" date="1996-09-05" xml:lang="en">
+<title>NEW ZEALAND: NZ ADRs weaker as Dow falls 50 points.</title>
+<headline>NZ ADRs weaker as Dow falls 50 points.</headline>
+<dateline>WELLINGTON 1996-09-06</dateline>
+<text>
+<p>New Zealand ADRs ended weaker as the Dow Jones Industrial Average fell 49.94 points to 5,606.96 overnight.</p>
+<p>Price movements of NZ stocks listed in the U.S., Britain and Australia.</p>
+<p>Company     Exchange    Last	  Net change</p>
+<p>Tranz Rail     N.Y.    US$14 1/2	 -0 1/8</p>
+<p>FCL Bldg	 N.Y.    US$22 7/8	 -0 1/8</p>
+<p>FCL Engy	 N.Y.    US$23 3/4	 -0 1/8</p>
+<p>FCL Paper	N.Y.    US$19 1/4	 nil</p>
+<p>FCL Forest     N.Y.    US$13 3/8	 -0 1/8</p>
+<p>Telecom	  N.Y.    US$75 1/2	 -0 3/8</p>
+<p>Guinness Peat  London  34 1/2	    nil</p>
+<p>Brierley	 London  untraded</p>
+<p>NZ IT	    London  229 1/2	   nil</p>
+<p>Foreign &amp; Col  London  155 1/2	   -0 1/2</p>
+<p>Templeton	London  135 1/2	   + 1 1/2</p>
+<p>Lion	     Sydney  untraded</p>
+<p>Goodman	  Sydney  A$1.29	    -1</p>
+<p>Macraes	  Sydney  A$3.24</p>
+<p>Notes - In New York, Telecom's American Depository Receipts are traded in bundles of 16 shares, while both the Fletcher Challenge shares are in bundles of 10 each. Tranz Rail ADSs are groups of three ordinary shares.</p>
+<p>- London prices are mid-rates.</p>
+<p>-- Wellington Newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

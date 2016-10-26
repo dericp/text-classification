@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30185" id="root" date="1996-09-03" xml:lang="en">
+<title>NORWAY: High interest rates help burden Norway shares.</title>
+<headline>High interest rates help burden Norway shares.</headline>
+<dateline>OSLO 1996-09-03</dateline>
+<text>
+<p>Norwegian share prices fell on Tuesday on the back of higher interest rates and negative sentiment after a U.S. missile attack on Iraqi air defence targets.</p>
+<p>The Total share index closed 0.9 percent down at 819 points in turnover worth a moderate 640 million crowns.</p>
+<p>Oil-sensitive shares such as Saga Petroleum and Norsk Hydro ended 1.1 percent and 0.2 percent higher at 100 crowns and 296.50 crowns respectively as a result of high oil prices.</p>
+<p>&quot;I had expected these shares, maybe especially Saga, to rise more than they did,&quot; one broker said, suggesting the higher interest rates held back the share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

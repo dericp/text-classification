@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266867" id="root" date="1996-12-19" xml:lang="en">
+<title>COLOMBIA: Colombia names defense minister envoy to U.S..</title>
+<headline>Colombia names defense minister envoy to U.S..</headline>
+<dateline>BOGOTA 1996-12-19</dateline>
+<text>
+<p>President Ernesto Samper on Thursday named Defence Minister Juan Carlos Esguerra to fill the vacant post of Colombia's ambassador to Washington.</p>
+<p>Esguerra, 47, was appointed defence minister in August 1994. The post of ambassador to the United States has been vacant since April when Carlos Lleras de la Fuente quit, blaming the scandal sparked by allegations that Samper financed his 1994 campaign with drug money.</p>
+<p>Samper made the announcement as he formally approved a tough law approved by Congress last week to strip billionaire drug barons of their ill-gotten gains. The law and Esguerra's nomination begin a new phase in Colombia's relations with the United States, which sank to a low after the allegations of Samper's ties with the mighty Cali drug cartel emerged.</p>
+<p>The United States decertified Colombia as an ally in the drug war in March and then withdrew Samper's own U.S. entry visa. The United States has also threatened economic sanctions if Colombia does not crack down harder on drug trafficking.</p>
+<p>The appointment of Esguerra came a day after Foreign Relations Minister Maria Emma Mejia visited Washington and apparently got the Clinton administration's approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

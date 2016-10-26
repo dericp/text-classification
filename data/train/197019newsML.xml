@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197019" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Martin Marietta Materials restructures unit.</title>
+<headline>Martin Marietta Materials restructures unit.</headline>
+<dateline>RALEIGH, N.C. 1996-11-18</dateline>
+<text>
+<p>Martin Marietta Materials Inc said Monday it restructured its aggregates business, creating five operating divisions.</p>
+<p>The new structure combines all North Carolina operations into one major operating unit and combines the South Carolina and Florida operations with Georgia and Alabama to form a southeast division, the company said.</p>
+<p>&quot;The change to a divisional structure will enable more support services to be provided from the field operating offices, as opposed to the central corporate staff,&quot; said Stephen Zelnak Jr, Martin Marietta Material's president and chief executive officer.</p>
+<p>Martin Marietta Materials produces construction aggregates and magnesia-based chemical and refractory products.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RALEIGH, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

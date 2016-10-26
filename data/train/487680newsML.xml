@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="487680" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: U.S. metal exports, imports -- Commerce.</title>
+<headline>U.S. metal exports, imports -- Commerce.</headline>
+<dateline>WASHINGTON 1997-04-04</dateline>
+<text>
+<p>U.S. metal exports, imports (not seasonally adjusted, millions of dollars):</p>
+<p> -		January 1997     December 1996     January 1996</p>
+<p> -	    Exports Imports  Exports Imports  Exports Imports</p>
+<p> Aluminum	 296     372	247     382	271     423</p>
+<p> Copper	   122     272	122     225	140     254</p>
+<p> Gold	     224     222	294     226	280     230</p>
+<p> Nickel	    26	80	 28	89	 24     111</p>
+<p> Platinum	  17     117	 20     181	 35	92</p>
+<p> Silver/Bullion  21	44	 23	58	 24	60</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

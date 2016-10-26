@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468180" id="root" date="1997-03-26" xml:lang="en">
+<title>CANADA: Ottawa invests C$1.8 mln in CAL.</title>
+<headline>Ottawa invests C$1.8 mln in CAL.</headline>
+<dateline>OTTAWA 1997-03-26</dateline>
+<text>
+<p>Canada's federal industry minister said on Wednesday that the Canadian government will invest C$1.8 million in Ottawa's CAL Corp, a division of Electromagnetic Sciences Inc of Atlanta.</p>
+<p>Minister John Manley said the investment is to be repaid gradually through royalties from the company's CALTRAC star sensing technology, which tracks a space craft's position in space.</p>
+<p>The investment is part of the government's Technology Partnerships Canada program to promote high-tech growth.</p>
+<p>The investement is expected to create 32 immediate jobs.</p>
+<p>((Reuters Ottawa Bureau 613 235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

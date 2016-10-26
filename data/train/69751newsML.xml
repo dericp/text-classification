@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69751" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: NYMEX electricity closes up with Western outages.</title>
+<headline>NYMEX electricity closes up with Western outages.</headline>
+<dateline>NEW YORK 1996-09-23</dateline>
+<text>
+<p>NYMEX electricity futures closed higher Monday primarily on coal and nuclear power outages in the West, industry sources said.</p>
+<p>&quot;The Palo Verde (nuclear) unit is down, and I think that had a bit of a bullish effect,&quot; said one futures broker.</p>
+<p>Arizona Public Service's 1,221 megawatt nuclear unit 1 in Wintersburg, Ariz. was taken off line over the weekend for refueling and maintenance that has been scheduled to last about 44 days.</p>
+<p>Other coal units were reported to be off line in Washington and Montana, helping to boost spot electricity prices through the West on Monday.</p>
+<p>October California Oregon Border (COB) futures settled up 37 cents at $15.84 after trade as low as $15.60, while November finished up 25 cents at $16.70 from trade as low as $16.55 per megawatt hour (MWh).</p>
+<p>Remaining COB deferreds settled 10 cents higher.</p>
+<p>October Palo Verde (PV) closed up 43 cents at $16.43 after trade as low as $16.05 per MWh, while November ended up 10 cents at $15.25 after trade in five cent range.</p>
+<p>December was the only remaining PV month to trade, closing up five cents at $16.75 per MWh.</p>
+<p>NYMEX said an estimated 286 COB and 53 PV contracts traded Monday.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

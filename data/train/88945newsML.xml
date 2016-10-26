@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88945" id="root" date="1996-10-01" xml:lang="en">
+<title>ITALY: Bank of America Italy names new general manager.</title>
+<headline>Bank of America Italy names new general manager.</headline>
+<dateline>MILAN 1996-10-01</dateline>
+<text>
+<p>Bank of America, Milan, said Mario Quarti, current Treasurer of the Italian branch, has been named General Manager for Italy replacing Pier Giorgio Rota Baldini.</p>
+<p>Claudio Zampa, in charge of Fixed Income, will be the new Treasurer. Rota Baldini has taken up the position of Regional Manager with responsibility for for the bank's activities in southern Europe.</p>
+<p>Quarti and Zampa have also been put in charge of managing the Central Securities Trading Desk in London which controls the bank's proprietary activity in Europe, a bank statement said.</p>
+<p>The appointments confirmed Bank of America's &quot;increasing commitment on the Italian market and, more generally, in the context of the international bond markets,&quot; it added.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116884" id="root" date="1996-10-15" xml:lang="en">
+<title>AUSTRALIA: RTRS-Fischer challenges Australia Opposition over shares.</title>
+<headline>RTRS-Fischer challenges Australia Opposition over shares.</headline>
+<dateline>CANBERRA 1996-10-16</dateline>
+<text>
+<p>Australian Deputy Prime Minister Tim Fischer said on Wednesday he challenged the Labor opposition to attack his integrity in parliament.</p>
+<p>&quot;I'll be very happy to deal with this where it should be dealt with,&quot; Fischer told reporters.</p>
+<p>&quot;I challenge Labor to attack my integrity on the floor of the house (of representatives). It will backfire on them. I will meet them head on and that's the appropriate place.&quot;</p>
+<p>The government has lost two members this week over conflicts of interests regarding share ownership and a newspaper reported on Wednesday that Fischer might also have breached guidelines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224062" id="root" date="1996-11-28" xml:lang="en">
+<title>JAPAN: Daihyaku Mutual reveals problem loans.</title>
+<headline>Daihyaku Mutual reveals problem loans.</headline>
+<dateline>TOKYO 1996-11-28</dateline>
+<text>
+<p>Daihyaku Mutual Life Insurance Co has disclosed its restructured loans (in billions of yen unless specified):</p>
+<p>					end-Sep 96     end-Mar 96</p>
+<p>  Restructured loans	    18.02	    69.21</p>
+<p>  Bad loans			 32.16	     4.48</p>
+<p>  Non-performing loans	  32.73	    16.31</p>
+<p>  Total problem loans	   82.92	     90.0</p>
+<p>Restructured loans are those on which interest rates have been cut to help corporate restructuring. Bad loans are to bankrupt firms and non-performing are those with interest payments in arrears by six months or more.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

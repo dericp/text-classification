@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="531818" id="root" date="1997-04-23" xml:lang="en">
+<title>ARGENTINA: Moody's rates TGS commercial paper Prime-1.</title>
+<headline>Moody's rates TGS commercial paper Prime-1.</headline>
+<dateline>BUENOS AIRES 1997-04-23</dateline>
+<text>
+<p>Moody's Investors Services said Wednesday it assigned a Prime-1 rating to the $150 million letter of credit-backed commercial paper programs of Argentina's Transportadora de Gas del Sur SA.</p>
+<p>The rating applies to tranches A and B of the programs.</p>
+<p>Moody's said in a statement the rating is based on the Prime-1 rating of Dresdner Bank AG's New York branch.</p>
+<p>&quot;The bank has issued an irrevocable direct-pay letter of credit, which provides full support for the payment of commercial paper notes,&quot; said Moody's.</p>
+<p>((--Buenos Aires Newsroom, 541 318-0668))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

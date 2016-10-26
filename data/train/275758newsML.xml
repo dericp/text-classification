@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275758" id="root" date="1996-12-24" xml:lang="en">
+<title>SOUTH KOREA: Bank of Korea steps in to slow won vs dlr.</title>
+<headline>Bank of Korea steps in to slow won vs dlr.</headline>
+<dateline>SEOUL 1996-12-24</dateline>
+<text>
+<p>The central bank of Korea intervened in the interbank market in mid-morning trading on Tuesday to support the falling won against the dollar, dealers said.</p>
+<p>But the bank denied the action, as it routinely does.  </p>
+<p>Dealers said the central bank came in when the won hit the morning low of 845.00.</p>
+<p>&quot;The market has been tight on dollars due to large import deals and fewer export negotiations,&quot; one trader said.</p>
+<p>Traders said the local currency was set to slip further if not for central bank support.</p>
+<p>-- Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

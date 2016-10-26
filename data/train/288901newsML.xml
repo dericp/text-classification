@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288901" id="root" date="1997-01-06" xml:lang="en">
+<title>BANGLADESH: Dhaka stocks close down as selling continues.</title>
+<headline>Dhaka stocks close down as selling continues.</headline>
+<dateline>DHAKA 1997-01-06</dateline>
+<text>
+<p>The Dhaka stock index shed over eight points on Monday as selling pressure continued for a straight third session, brokers said.</p>
+<p>The benchmark index of the Dhaka Stock Exchange (DSE) closed 8.04 points or 0.38 percent down at 2,260.97 on turnover of 61.6 million taka. Of 88 issues traded, 35 gained and 50 lost.</p>
+<p>&quot;Investors are now very cautious about making fresh commitments,&quot; one broker said. He said the index might rise on Tuesday. Singer Bangladesh gained 980 taka to 14,723 and Chittagong Cement shed 1,193 taka to 10,740.</p>
+<p>-- Dhaka Newsroom +880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

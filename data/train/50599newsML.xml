@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50599" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business Sept 12.</title>
+<headline>PRESS DIGEST - Washington Post business Sept 12.</headline>
+<dateline>WASHINGTON 1996-09-12</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section on September 12:</p>
+<p>---</p>
+<p>WASHINGTON - Prices remain stable, according to a survey by the Federal Reserve Board.</p>
+<p>---</p>
+<p>NEW YORK - Contrary to its normal pattern, the stock market had been rising in September.</p>
+<p>---</p>
+<p>NEW YORK - Bank credit card losses at their highest level since 1992, the Federal Deposit Insurance Corp reported.</p>
+<p>---</p>
+<p>WASHINGTON - Computer hackers paralysed a New York Internet access company over the weekend.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

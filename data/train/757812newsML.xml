@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="757812" id="root" date="1997-07-25" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde - July 25.</title>
+<headline>PRESS DIGEST - France - Le Monde - July 25.</headline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- Prime Minister Lionel Jospin said in a radio interview this morning that the state would consider further cuts in state spending to prevent the public deficit from exceeding three percent of GDP in 1998.</p>
+<p>BUSINESS PAGES</p>
+<p>-- European Commissioner for research and competitivity Edith Cresson says in an interview that the planned Boeing-McDonnell Douglas merger flouts competition law.</p>
+<p>-- Guinness and GrandMet reject LVMH proposals to merge the three companies' wines and spirits activities, on grounds a Guinness-GrandMet merger would provide better shareholder value.</p>
+<p>-- Paris Newsroom 331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

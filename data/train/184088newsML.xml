@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184088" id="root" date="1996-11-12" xml:lang="en">
+<title>UK: LONDON CURRENCY AND GOLD BULLION RATES.</title>
+<headline>LONDON CURRENCY AND GOLD BULLION RATES.</headline>
+<text>
+<p>LONDON, Reuter - Following are the buying and selling rates for leading world currencies and gold against the dollar on the London foreign exchange and bullion markets today.</p>
+<p>(Tourist rates will differ from those quoted)</p>
+<p>US$1.00 COSTS    1.3337/42  Canadian Dollars</p>
+<p>		     1.4927/32  German Marks</p>
+<p>		     1.6745/52  Dutch Guilders</p>
+<p>		     1.2549/59  Swiss Francs</p>
+<p>		     30.77/78   Belgian Francs</p>
+<p>		     5.0535/55  French Francs</p>
+<p>		     1507.5/8.0 Italian Lire</p>
+<p>		     111.15/25  Japanese Yen</p>
+<p>		     6.5768/35  Swedish Crowns</p>
+<p>		     6.2817/32  Norwegian Crowns</p>
+<p>		     5.7394/21  Danish Crowns</p>
+<p>		     1.3980/90  Singapore Dollars</p>
+<p>		     0.7871/76  Australian Dollars</p>
+<p>		     7.7323/28  Hong Kong Dollars</p>
+<p>One Sterling     US$1.6518/28</p>
+<p>Gold (ounce)     US$381.40/381.90</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

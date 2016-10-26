@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544879" id="root" date="1997-04-28" xml:lang="en">
+<title>UK: Key stock and currency market movements at 1600 GMT.</title>
+<headline>Key stock and currency market movements at 1600 GMT.</headline>
+<dateline>LONDON 1997-04-28</dateline>
+<text>
+<p>The following table shows the latest close of key indices* on major world stock exchanges, the day's change in points and the indices' 1997 closing highs and lows (with dates). Also shown are the London closing values of the German mark, the Japanese yen, the British pound and gold bullion (previous day's closes in brackets):</p>
+<p>		  APR 28     DAY'S CHANGE   1997 HIGH    1997 LOW</p>
+<p>		  CLOSE	IN POINTS</p>
+<p> NEW YORK    6,772.59	+33.72	 7,085.16     6,391.69</p>
+<p>		 (midday)			 (Mar 11)     (Apr 11)</p>
+<p> LONDON	4,389.7	 +20.0	  4,444.3	4,056.6</p>
+<p>						    (Mar 11)     (Jan 10)</p>
+<p> TOKYO	18,670.37	+57.51	19,446.00    17,303.65</p>
+<p>						    (Jan 6)	(Jan 10)</p>
+<p> FRANKFURT   3,363.06	-14.21	 3,460.59     2,848.77</p>
+<p>						    (Mar 11)     (Jan 2)</p>
+<p> PARIS	 2,550.25	+13.99	 2,709.21     2,256.97</p>
+<p>						    (Mar 10)     (Jan 2)</p>
+<p> SYDNEY	2,461.7	 -13.0	  2,501.70     2,352.20</p>
+<p>						    (Feb 18)     (Apr 1)</p>
+<p> HONG KONG  12,610.17	-35.59	13,868.24    12,055.17</p>
+<p>						    (Jan 20)     (Apr 3)</p>
+<p>- - - - FOREIGN EXCHANGE/GOLD BULLION CLOSE IN LONDON  Dollar/mark... 1.7274   (1.7235)</p>
+<p> Dollar/yen.... 126.61   (125.92)</p>
+<p>Pound/dollar.. $1.6239  ($1.6250) Gold (ounce).. $340.05  ($342.45) - - - - *INDICES USED AND THEIR ALL-TIME CLOSING HIGHS New York Dow Jones industrial average -- 7,079.39 (Mar 11/97) London FTSE 100 index -- 4,444.3 (Mar 11/97) Tokyo Nikkei average -- 38,915.87 (Dec 29/89) Frankfurt DAX-3O index -- 3,460.59 (Mar 11/97) Paris CAC-40 General index -- 2,709.21 (Mar 10/97) Sydney Australian All-Ordinaries index -- 2,501.70 (Feb 18/97) Hong Kong Hang Seng index -- 13,868.24 (Jan 20/97)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

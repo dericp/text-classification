@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="407752" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Ex-soldier found guilty of Carolina race murders.</title>
+<headline>Ex-soldier found guilty of Carolina race murders.</headline>
+<dateline>FAYETTEVILLE, N.C. 1997-02-27</dateline>
+<text>
+<p>A North Carolina jury on Thursday found a white former U.S. Army paratrooper guilty of murdering a black couple in 1995.</p>
+<p>James Burmeister, 21, who has been linked to a white supremacist group, was unanimously found guilty of two counts of first-degree murder for the deaths of Jackie Burden and Michael James, who were shot at close range as they walked in a Fayetteville neighborhood on Dec. 7, 1995.  </p>
+<p>Fayetteville adjoins the U.S. Army's Fort Bragg, home to the 82nd Airborne, and Burmeister was drinking in a bar there with two fellow soldiers before the murders.</p>
+<p>Burmeister was also found guilty of conspiracy to commit murder. Prosecutors were expected to seek the death penalty when the trial enters the penalty phase during the afternoon.</p>
+<p>A life sentence would make Burmeister eligible for parole after 25 years behind bars.</p>
+<p>Jurors deliberated for about 10 hours over three days. Shortly before reaching a decision, they asked to review statements by soldier Randy Meadows, who pleaded guilty to involvement in the crime and became the prosecution's key witness against Burmeister.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAYETTEVILLE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

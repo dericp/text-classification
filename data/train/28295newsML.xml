@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28295" id="root" date="1996-09-02" xml:lang="en">
+<title>JAPAN: BOJ's Aug dollar purchases estimated at $1.75 bln.</title>
+<headline>BOJ's Aug dollar purchases estimated at $1.75 bln.</headline>
+<dateline>TOKYO 1996-09-02</dateline>
+<text>
+<p>The Bank of Japan (BOJ) bought an estimated $1.75 billion in currency market intervention in August, up sharply from $567 million in July, bankers said.</p>
+<p>BOJ data, released on Monday, showed that capital outlays from the government special foreign exchange account to the private sector totalled 187 billion yen in August.</p>
+<p>The figure consists mostly of yen payments from the government foreign exchange account to the private sector, mainly commercial banks.</p>
+<p>Those yen payments are a result of dollar-buying intervention against the yen by the BOJ, bankers said.  </p>
+<p>The August figures include the last two trading days of July but not the last two business days of August, as currency settlements are made two days after transactions.</p>
+<p>The Ministry of Finance, which manages the foreign exchange account, raises yen cash for intervention by issuing special financing bills (FBs) for foreign exchange operations.</p>
+<p>The FBs are also used to convert dollar-denominated income gains on the government's external reserves into yen. Outstanding FBs as of August 31 totalled 27.76 trillion yen.</p>
+<p>The dollar moved in a range of 106.35-108.59 yen in Tokyo's foreign exchange market in August.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

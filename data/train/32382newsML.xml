@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32382" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: Algerian main employers merge organisations.</title>
+<headline>Algerian main employers merge organisations.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Three of Algeria's main business organisations have joined forces in a single group to bolster the private sector's role in the Algerian economy, the official Algerian news agency APS reported on Wednesday.</p>
+<p>The three, Confederation Algerienne du Patronat (CAP), Confederation Generale des Operateurs Economiques Algeriens (CGOEA) and the Confederation Nationale du Patronat Algerien (CNPA), dissolved themselves to set up the Algerian Employers General Confederation, known by its French acronym COGEPA, it said.</p>
+<p>Leaders of the three former groups, who met Algerian President Liamine Zeroual on Wednesday, to be briefed over his planned political reforms, told him their unification would enable the North African country's employers to defend their interests through one voice, said APS.</p>
+<p>The authorities want the private sector to have a leading role in Algeria's economy in future. The government adopted a privatisation law in late 1994 and has pledged a gradual sell-off of state-owned companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

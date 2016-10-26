@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140186" id="root" date="1996-10-24" xml:lang="en">
+<title>PERU: Peru Congress to pass tax break for firms in red.</title>
+<headline>Peru Congress to pass tax break for firms in red.</headline>
+<dateline>LIMA 1996-10-23</dateline>
+<text>
+<p>The Peruvian Congress is set to approve a government proposal to exempt companies that are registering net losses from paying a tax on assets, legislators said on Wednesday.</p>
+<p>Congress' Economy Committee unanimously approved Wednesday the modification to the Minimum Tax on Income that currently levies a two percent tax on the value of a company's assets, irrespective of the firm's financial state, they added.</p>
+<p>The tax break will not come into effect until a vote by the single-chamber Congress, which is yet to be scheduled. Just as on the Economy Committee, government parties have a comfortable majority in the full congressional chamber.</p>
+<p>-- Saul Hudson, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

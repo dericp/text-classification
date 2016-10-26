@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168375" id="root" date="1996-11-05" xml:lang="en">
+<title>GERMANY: Bayer details 9-month sales by region.</title>
+<headline>Bayer details 9-month sales by region.</headline>
+<dateline>LEVERKUSEN, Germany 1996-11-05</dateline>
+<text>
+<p>Nine months to September 30 (in millions of marks unless stated)</p>
+<p>    Group sales				  36,544  vs 34,027</p>
+<p>     Europe					21,210  vs 20,506</p>
+<p>     North America			     9,051   vs 7,579</p>
+<p>     Latin America			     2,046   vs 1,755</p>
+<p>     Asia/Africa/Australia		   4,237   vs 4,187</p>
+<p>Group sales by business sectors</p>
+<p>     Polymers				    7,126   vs 6,231</p>
+<p>     Organic Products			  4,947   vs 4,552</p>
+<p>     Industrial Products		     6,218   vs 6,274</p>
+<p>     Health care				 8,676   vs 8,364</p>
+<p>     Agriculture				 4,001   vs 3,723</p>
+<p>     Agfa Group				  5,576   vs 4,883</p>
+<p>NOTE - Full name of the German chemicals and drugs group is Bayer AG.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEVERKUSEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

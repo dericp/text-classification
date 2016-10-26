@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789153" id="root" date="1997-08-08" xml:lang="en">
+<title>AUSTRALIA: OROTON SEES 1996/97 OPERATING LOSS.</title>
+<headline>OROTON SEES 1996/97 OPERATING LOSS.</headline>
+<dateline>SYDNEY 1997-08-08</dateline>
+<text>
+<p>Luxury goods and clothing retailer Oroton International Ltd said on Friday that it expected to report an operating loss after abnormal items for the year ended July 31.</p>
+<p>Australian trading conditions continued to be very depressed with no signs of improvement since it last reported, it said.</p>
+<p>The 1996/97 year had been extended to 13 months and the latest results would be released in early October.</p>
+<p>Oroton reported an operating loss before abnormal items of A$1.36 million in 1995/96.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198595" id="root" date="1996-11-18" xml:lang="en">
+<title>HONG KONG: Citibank sets Hotel Properties warrants.</title>
+<headline>Citibank sets Hotel Properties warrants.</headline>
+<dateline>HONG KONG 1996-11-18</dateline>
+<text>
+<p>Citibank N.A. Singapore Branch said on Monday it has launched 25 million American-style call warrants on shares of Hotel Properties Ltd.</p>
+<p>One warrant controls one share.</p>
+<p> STRIKE PRICE	S$2.115	PREMIUM	 14.95 PCT</p>
+<p> ISSUE PRICE	 S$0.586325   GEARING	 4.0X</p>
+<p> MATURITY	    ONE YEAR     LISTING DATE  11.DEC.96</p>
+<p> LISTING	     SINGAPORE    MIN EXER LOT  16,000</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

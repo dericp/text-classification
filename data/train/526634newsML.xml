@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526634" id="root" date="1997-04-21" xml:lang="en">
+<title>FRANCE: Usinor reiterates sees lower H1 results.</title>
+<headline>Usinor reiterates sees lower H1 results.</headline>
+<dateline>PARIS 1997-04-21</dateline>
+<text>
+<p>French steelmaker Usinor Sacilor reiterated on Monday that its first-half results would be poorer than for the comparable year-earlier period.</p>
+<p>Usinor chairman Francis Mer predicted on February 18 that the first half &quot;would not be great&quot; but had said the outlook would improve significantly in the second half and predicted stronger results for the full year than in 1996.</p>
+<p>In a statement detailing its definitive 1996 results, the company said demand for steel as well as prices had risen slowly since the start of 1997 in Europe and Asia, while in North America prices had firmed.</p>
+<p>--Paris newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

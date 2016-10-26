@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480289" id="root" date="1997-04-01" xml:lang="en">
+<title>UK: FEATURE - Millennium computer bug reflects insecurity.</title>
+<headline>FEATURE - Millennium computer bug reflects insecurity.</headline>
+<dateline>LONDON 1997-04-01</dateline>
+<text>
+<p>By Neil Winton, Science and Technology Correspondent</p>
+<p>The millennium bug should make computer enthusiasts hang their heads in shame.</p>
+<p>Because of laziness or a lack of perception by software writers and their high-tech employers, the computer industry risks being the laughing stock of the world around midnight on January 1, 2000. As clocks tick past midnight at the end of the millennium, many computers will either crash, or start pumping out erroneous data.</p>
+<p>The problem stems from shortcuts taken by computer programmers in the 1970s and 1980s, who tried to save what was then valuable computer memory by abbreviating dates to the last two digits. They hoped that because of the pace of technical advance, the use of shorthand like &quot;82&quot; and &quot;97&quot; would be a thing of the past by 2000.</p>
+<p>But as the next century dawns, this innocent short cut will explode inside many computers still using old programmes when they read the year 2000 as a meaningless 00.</p>
+<p>The ubiquitous computer now manages credit cards, bank accounts, insurance policies and mortgages. Global air traffic control, railways, telephone systems, electricity generation, lifts, washing machines, air conditioning, car engines are all controlled by the memory chip.</p>
+<p>A total failure of all these systems is not on the cards, but popular magazines are full of scare stories about the &quot;Millennium Bomb&quot; or &quot;Millennium Meltdown&quot;.</p>
+<p>For companies to be confident they are problem free, millions of lines of computer code must be examined by highly paid programmers. Sometimes double digit dates are hidden deep in programmes and almost impossible to find. Completly new systems are the only guarantee of safety, but even these can crash if they interconnect with faulty machines.</p>
+<p>MILLENNIUM BUG COULD TRIGGER BANKRUPTCIES, RECESSION</p>
+<p>Experts say computer failure could trigger a wave of bankruptcies as companies over-dependent on technology find themselves in a business black hole. A cumulative hit could propel world economies into a 1930s like depression.</p>
+<p>Some say this is ridiculous hype, but all agree that the problem is serious and will be hugely expensive to fix.</p>
+<p>&quot;Our estimates of the extent of the problem have certainly not gone down,&quot; said Nick Jones, research director at the Gartner Group, a U.S. technology firm.</p>
+<p>Gartner said last year that the global cost of software changes to cope with the millennium bug was between $300 billion and $600 billion.</p>
+<p>&quot;I don't know anybody with the problem under control. It's a bit like Topsy, the more you look, the more you find,&quot; Jones said in a telephone interview.</p>
+<p>Adam Wright, industry analyst with research institute SRI International agrees. Would bankruptcies be on a scale to trigger a world recession?.</p>
+<p>&quot;Yes, that's the worst case scenario. If year 2000 doesn't put some companies out of business, the cost of repairing it will. An awful lot are going to have financial difficulties trying to fix it,&quot; Wright said.</p>
+<p>COMPUTER CRASH WOULD HIT LIKE TERRORIST BOMB</p>
+<p>&quot;Potentially, the risk to European economies is as severe as a terrorist attack on large financial centres. This is a ticking time bomb. If on the stroke of midnight all of the transaction- processing computers' hardware and software in the City (of London) suddenly aborts, you basically have the same impact as terrorist bombs wiping all their systems out,&quot; Wright said.</p>
+<p>Some experts dismiss this scenario as over-the-top nonsense.</p>
+<p>&quot;The year 2000 date coding problem is no longer a catastrophic problem that's out of control. The sky will not fall on January 1, 2000. Thirty percent of corporations will not fail,&quot; Tom Oleson, research director at IDC in Framingham, Massachusetts, said by telephone.</p>
+<p>&quot;The results of our survey don't conform with media hype, the world's not coming to an end. We reject categorically these figures,&quot; Oleson said, stressing this applied only to the U.S.</p>
+<p>&quot;Those saying that 30 percent (in the U.S.) will fail in 2000, are full of barnyard matter. Companies are not going to fail. But this doesn't mean they are not going to have problems,&quot; Oleson added.</p>
+<p>The lowest priority projects may well not be completed, but &quot;mission critical&quot; work will be, Oleson said.</p>
+<p>EUROPE ENDANGERED BY SLOW REACTION</p>
+<p>As for Europe, IDC's Puni Rajah in London said companies here have been slow to address the problem. They risk needing more expensive replacement solutions rather than cheaper &quot;rewrites&quot;.</p>
+<p>Gartners Jones agress Europe is lagging. Latecomers face higher costs and a shortage of skilled operatives.</p>
+<p>&quot;There's an awful lot of software development work to do in Europe. They don't have enough people (programmers), I don't know where they are going to come from. Companies are going to have a shock when they find they can't physically do the things they need to do,&quot; Jones said.</p>
+<p>European governments have been slow too, says Rajah, particularly France and Germany. This could cause big problems in social security and health care.</p>
+<p>&quot;And there's air traffic control, would you like to take a flight on 31st December, 1999?&quot; said Rajah.</p>
+<p>LAWYERS HOVERING TO PINPOINT SCAPEGOATS</p>
+<p>Lawyers are circling as computer breakdowns threaten legal action to find scapegoats and compensation for losses.</p>
+<p>&quot;I received a glossy brochure the other day all about the year 2000 problem, complete with a plastic, ticking clock on the cover. This was not from a software house offering solutions, but from a firm of U.S. lawyers, asking questions like - &quot;are you failing in your duty as a company director if your systems fail&quot;,&quot; Gartner's Jones said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

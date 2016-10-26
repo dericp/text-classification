@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788273" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: CBOT muni/30-day Fed prelim vol/int for Aug 7.</title>
+<headline>CBOT muni/30-day Fed prelim vol/int for Aug 7.</headline>
+<text>
+<p>MTH YR   EVE  PROJ A   DAY VOL   CASH  OPEN INT  CHANGE</p>
+<p>30-DAY  AUG97			    304	     10,348    154-</p>
+<p> FED    SEP97			    321		6,782     38+</p>
+<p>	  OCT97			    539		3,791     96+</p>
+<p>	  NOV97			    273		2,521     76+</p>
+<p>	  DEC97			    124		  621     38+</p>
+<p>	  JAN98			     36		  220     15+</p>
+<p>	  FEB98			     35		  320</p>
+<p>	  MAR98				3		    6	3-</p>
+<p>	  TOTAL			  1,635	     24,609    106+</p>
+<p>--</p>
+<p>MUNI-BONSEP97			  5,205	     20,123    422+</p>
+<p>	  DEC97			    112		1,817    112+</p>
+<p>	  MAR98						     2</p>
+<p>	  TOTAL			  5,317	     21,942    534+</p>
+<p>Note: In contracts. Source: CBOT (Chicago Newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

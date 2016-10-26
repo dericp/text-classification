@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="585575" id="root" date="1997-05-15" xml:lang="en">
+<title>POLAND: POLISH UNEMPLOYMENT RATE UP IN FEB 1997 -LFS DATA.</title>
+<headline>POLISH UNEMPLOYMENT RATE UP IN FEB 1997 -LFS DATA.</headline>
+<dateline>WARSAW 1997-05-15</dateline>
+<text>
+<p>The Polish unemployment rate rose</p>
+<p>to 12.8 percent of the workforce in February 1997 from 11.5</p>
+<p>percent in November 1996, Labour Force Survey (LFS) data</p>
+<p>released by the the Central Statistical Office (GUS) showed.</p>
+<p>The LFS data, which uses international criteria to measure</p>
+<p>unemployment, is compiled quarterly, while official Labour</p>
+<p>Ministry figures are given on a monthly basis.</p>
+<p>The Labour ministry has its own way of measuring</p>
+<p>unemployment, but its criteria have changed several times</p>
+<p>making longer-term trends difficult to judge.</p>
+<p> POLISH UNEMPLOYMENT    FEB 97     NOV 96    FEB 96     FEB 95</p>
+<p> LFS jobless (in mlns)   2.176	1.961     2.349	2.491</p>
+<p>     pct of workforce   12.8	 11.5	14.0	 14.7</p>
+<p> LABOUR MIN jobless	2.313	2.307     2.734	2.832</p>
+<p>     pct of workforce   13.4	 13.3	15.5	 15.9</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

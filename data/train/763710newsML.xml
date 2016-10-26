@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763710" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: TABLE-Penn National Gaming Inc Q2 net up.</title>
+<headline>TABLE-Penn National Gaming Inc Q2 net up.</headline>
+<dateline>WYOMISSING, Pa. 1997-07-29</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p>					     Q2		Six Months</p>
+<p>					1997     1996     1997     1996</p>
+<p> Total revenues		 $29,584 $16,043  $52,404  $30,606</p>
+<p> Income from operations	 4,116   2,834    7,792    4,873</p>
+<p>Net income before</p>
+<p>  extraordinary item	    2,014   1,725    3,698    2,964</p>
+<p>Extraordinary item (loss on</p>
+<p>early extinguishment of debt,</p>
+<p>   net of taxes)			-	 -	383	  -</p>
+<p> Net income			 2,014   1,725    3,315    2,964</p>
+<p>Net income per share before</p>
+<p>  extraordinary item	     0.13    0.12     0.24     0.22</p>
+<p> Net income per share(a)	 0.13    0.12     0.22     0.22</p>
+<p>Weighted average number of</p>
+<p>common shares</p>
+<p>   outstanding(a)		15,717  13,876   15,319   13,596</p>
+<p>NOTE: (a) Share figures adjusted to reflect May 1996 3-for-2 stock split, Dec 1996 2-for-1 stock split, and 1,725,000-share offering.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WYOMISSING, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

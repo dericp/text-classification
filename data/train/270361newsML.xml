@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270361" id="root" date="1996-12-20" xml:lang="en">
+<title>CANADA: Canadian Gas Association storage survey - Dec 13.</title>
+<headline>Canadian Gas Association storage survey - Dec 13.</headline>
+<dateline>CALGARY 1996-12-20</dateline>
+<text>
+<p>Canadian Gas Association (CGA) weekly survey of Canadian natural gas in storage in billion cubic feet (bcf):</p>
+<p>							 Pct Full  Pct Full</p>
+<p>		 12/13/96  12/06/96  Pct Full  Week Ago  Year Ago</p>
+<p>East	    181.51    190.46    78.05	81.90     69.10</p>
+<p>West	    180.52    193.01    68.16	72.88     68.00</p>
+<p>Total Canada  362.03    383.45    72.79	77.10     68.50</p>
+<p>East-West division is the Manitoba/Saskatchewan and North Dakota/Minnesota borders.</p>
+<p>East capacity 12/13/96: 232.55 bcf, 12/06/96: 232.55 bcf.  </p>
+<p>West capacity 12/13/96: 264.84 bcf, 12/06/96: 264.84 bcf.</p>
+<p>The Canadian Gas Association survey includes liquefied petroleum gas, all Canadian operators of gas storage and Canadian companies contracting gas storage in the U.S. ((Reuters Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

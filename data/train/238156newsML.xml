@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238156" id="root" date="1996-12-05" xml:lang="en">
+<title>OMAN: Oman Sultan Qaboos to attend Gulf summit in Doha.</title>
+<headline>Oman Sultan Qaboos to attend Gulf summit in Doha.</headline>
+<dateline>MUSCAT 1996-12-05</dateline>
+<text>
+<p>Oman's Sultan Qaboos bin Said will attend this week's summit of the six-member Gulf Cooperation Council (GCC) in Doha, a statement from the royal Omani court said on Thursday.</p>
+<p>&quot;Sultan Qaboos bin Said will attend the GCC summit to be held in Doha from December 7 to 9. This is in line with the continual brotherly relations between GCC member states,&quot; the statement said.</p>
+<p>The GCC, set up in 1981, is made up of Saudi Arabia, Kuwait, Bahrain, Qatar, Oman and the United Arab Emirates.</p>
+<p>Bahrain, locked in a territorial dispute with summit host Qatar, is boycotting the summit. Neither King Fahd of Saudi Arabia, the GCC's dominant power, nor UAE President Sheikh Zaid bin Sultan al-Nahayan is expected to attend for health reasons.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUSCAT"/>
+<dc element="dc.creator.location.country.name" value="OMAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

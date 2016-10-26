@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667266" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Typhoon threatens Pacific shipping, Japan.</title>
+<headline>Typhoon threatens Pacific shipping, Japan.</headline>
+<dateline>LEXINGTON, Mass. 1997-06-17</dateline>
+<text>
+<p>Typhoon Opal is becoming an increasing threat to shipping in the western Pacific as it tracks towards Japan, independent forecaster Weather Services Corp (WSC) said on Tuesday.</p>
+<p>Opal has winds of 100 mph and is located east of the northern Philippines and about 600 miles south-southeast of Okinawa.</p>
+<p>It is expected to have winds up to 130 mph in 24-48 hours as it tracks east of Okinawa and towards Shikoku, Japan.</p>
+<p>It is expected to reach Shikoku in about 60 hours with winds of 115-120 mph. Should this track hold, the island would experience very heavy rains leading to flooding and possible mudslides, WSC added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

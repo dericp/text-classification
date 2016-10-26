@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="518218" id="root" date="1997-04-17" xml:lang="en">
+<title>UK: Sullom Voe oil liftings fall, half go to U.S..</title>
+<headline>Sullom Voe oil liftings fall, half go to U.S..</headline>
+<dateline>LONDON 1997-04-17</dateline>
+<text>
+<p>Brent Blend crude oil loadings from Britain's Sullom Voe terminal fell to 632,615 tonnes in the week to April 15 from 741,311 tonnes the previous week, Shetland Islands Marine Operations said.</p>
+<p>Half the liftings went to British refineries or Rotterdam, with the rest bound for the U.S. No VLCCs left Sullom Voe in the week. In addition, a vessel carrying 6,997 tonnes of LPG departed for Coryton.</p>
+<p>DATE   VESSEL		    DESTINATION	 CARGO (tonnes)</p>
+<p>9/4    Sunetta		   Shellhaven	  62,800</p>
+<p>12/4   Nord-Jahre Princess   Portland, Maine   89,475</p>
+<p>	 Clipper Victoria	Coryton		6,997 (LPG)</p>
+<p>	 Manhattan		 Shellhaven	  62,962</p>
+<p>13/4   Hellespont Hope	 Tranmere	    62,898</p>
+<p>	 Olympic Sponsor	 Portland, Maine   89,566</p>
+<p>14/4   Enalios Eliki	   Rotterdam	  128,911</p>
+<p>15/4   Alta			Marcus Hook	136,003</p>
+<p>WK ENDING   UK	 NWE   AMERICAS  MED   OTHER TOTAL</p>
+<p>15/4	188,660  128,911  315,044		  632,615</p>
+<p>7/4	 195,057  268,169  278,085		  741,311</p>
+<p>1/4	 214,284  131,457   89,293		  435,034</p>
+<p>25/3	133,418  391,885	    203,324	728,627</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162757" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: Universal Hospital Q3 net declines.</title>
+<headline>Universal Hospital Q3 net declines.</headline>
+<dateline>BLOOMINGTON, Minn. 1996-11-04</dateline>
+<text>
+<p>Three Months ended  Nine Months ended</p>
+<p>				September 30,	 September 30,</p>
+<p>			   1996	 1995	  1996	  1995</p>
+<p>Total revenues</p>
+<p>		   13,749,145  13,130,325  41,775,345  39,446,002</p>
+<p>Write-down of DPAP</p>
+<p>    inventory	    --	    --   1,030,500	    --</p>
+<p>   Interest	 656,212     512,256   1,690,624   1,295,457</p>
+<p>Total costs and</p>
+<p>   expenses    12,788,843  12,099,161  39,260,655  35,856,431</p>
+<p>Income before income</p>
+<p>  taxes	     960,302   1,031,164   2,514,690   3,589,571</p>
+<p> Net income	 540,302     594,164   1,424,690   2,076,571</p>
+<p>Net earnings per share</p>
+<p>  of common stock    0.10	  0.11	  0.26	  0.38</p>
+<p> Avg shares	5,459,194   5,515,868   5,512,430   5,489,388</p>
+<p>NOTE: Full name is Universal Hospital Services Inc.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLOOMINGTON, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

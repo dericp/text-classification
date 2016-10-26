@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80229" id="root" date="1996-09-26" xml:lang="en">
+<title>HONG KONG: Rhine interim net loss HK$69.76 mln.</title>
+<headline>Rhine interim net loss HK$69.76 mln.</headline>
+<dateline>HONG KONG 1996-09-26</dateline>
+<text>
+<p>Six months ended June 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   45.5 loss  vs 6.87 gain (adjusted)</p>
+<p>    Dividend (H.K. cents)    nil	  vs nil</p>
+<p>    Extraordinary items	58.37 loss vs nil</p>
+<p>    Net			    69.76 loss vs 8.89 profit</p>
+<p>    Turnover		     219.77     vs 253.11</p>
+<p>    Company name		 Rhine Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Rhine Holdings is a jewellery manufacturer.</p>
+<p>Net is after an exceptional loss on provision against inventories, provision against debtors, provision for closure of retail shops and business restructuring costs.</p>
+<p>Comparative share earnings have been adjusted for a 3-for-5 bonus share issue and 4-into-1 share consolidation.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

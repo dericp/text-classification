@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143631" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: US spot jet jumps with futures, Gulf diffs slip.</title>
+<headline>US spot jet jumps with futures, Gulf diffs slip.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>U.S. spot jet fuel prices jumped at least one cent with NYMEX futures Friday, with diffs firming in New York Harbor but weakening in the Gulf Coast because of allocations on the Colonial Pipeline, traders said.</p>
+<p>New York Harbor 54-grade fuel was offered at about 1.20 cents over November futures, 0.20 cent firmer than Thursday, while Gulf diffs slipped 0.25 cent with bids at 3.0 cents under, players said.</p>
+<p>&quot;Buyers have cut back because where can they go with it? They don't have line space on the Colonial,&quot; one Gulf trader said, citing pipeline allocations through late November.</p>
+<p>-- New York Energy Desk +1 212 859 1633</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

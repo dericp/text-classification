@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129936" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Mercantile unit to merge with Home Bank.</title>
+<headline>Mercantile unit to merge with Home Bank.</headline>
+<dateline>BALTIMORE 1996-10-21</dateline>
+<text>
+<p>Mercantile Bankshares Corp said on Monday that its Peninsula Bank unit would merge with Newark, Maryland-based Home Bank.</p>
+<p>The agreement calls for an exchange of 2.6 Mercantile shares for every common share of Home Bank.</p>
+<p>Merchantile shares were down 1/16 at 30-3/16 in Nasdaq trading at 1240 EDT/1640 GMT Monday.</p>
+<p>The merger has the support of the holdings of all the Home Bank directors and some of their relatives, consisting of at least 40 percent of the 175,947 outstanding shares of Home Bank, H. Furlong Baldwin, Mercantile chief executive, said in a statement.</p>
+<p>He added that Home Bank's assets totalled 46.4 million as of September 30.</p>
+<p>-- New York Newsdesk +1 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

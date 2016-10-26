@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102777" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: US CFTC gets injunction against Arizona firm.</title>
+<headline>US CFTC gets injunction against Arizona firm.</headline>
+<dateline>WASHINGTON 1996-10-08</dateline>
+<text>
+<p>The U.S. Commodity Futures Trading Commission said it obtained a preliminary injunction freezing the assets of United Metals Trading Corp, Western National Trading and two officials at the firms.</p>
+<p>The CFTC and the Arizona Corporations Commission filed a 10-count civil complaint against the two firms and Marvin Pendergraft and Anthony Andrews, directors of United Metals and general partners in Western National.</p>
+<p>The complaint alleges the defendants violated the anti-fraud provisions of the Commodity Exchange Act by engaging in a &quot;Ponzi&quot; scheme to defraud customers.  </p>
+<p>The injunction also prohibits the defendants from soliciting funds or destroying books and records, and requires each to make an accounting of their assets.</p>
+<p>The CFTC said Pendergraft consented to the injunction and has been cooperating with investigators.</p>
+<p>Litigation is continuing and the CFTC said it is seeking permanent injunctions in addition to other remedial relief such as disgorgement and civil monetary penalties.</p>
+<p>--Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

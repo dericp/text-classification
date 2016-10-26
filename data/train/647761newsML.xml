@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647761" id="root" date="1997-06-09" xml:lang="en">
+<title>UK: EBRD adds 2.0 billion rand to 10-year bond.</title>
+<headline>EBRD adds 2.0 billion rand to 10-year bond.</headline>
+<dateline>LONDON 1997-06-09</dateline>
+<text>
+<p>The following bond has been increased to 10 billion rand from 8.0 billion rand by joint lead managers Morgan Stanley and Toronto Dominion.</p>
+<p>BORROWER   EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT</p>
+<p>AMT   10.0 BLN RAND  COUPON     ZER0	MATURITY    17.JUN.27</p>
+<p>TYPE   ZERO COUPON   ISS PRICE  3.25	PAY DATE    17.JUN.97</p>
+<p>FULL FEES  25 BP     REOFFER    3.10</p>
+<p>MOODY	AAA	 LISTING    LONDON    PAY FREQ    =</p>
+<p>S&amp;P	  AAA	 DENOMS (K) 5-50-500  SALE LIMITS US/UK/ZA</p>
+<p>NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p>GOV LAW    ENGLISH   HOME CTRY  SUPRA     TAX PROVS   =</p>
+<p>MGT/UND    10 BP     SELL CONC  15 BP     PRAECIPUUM  =</p>
+<p>NOTES	ISSUED OFF EMTN PROGRAMME</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

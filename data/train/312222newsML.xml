@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312222" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: U.S. cash soymeal - Snow and cold curb movement.</title>
+<headline>U.S. cash soymeal - Snow and cold curb movement.</headline>
+<dateline>CHICAGO 1997-01-16</dateline>
+<text>
+<p>Snow and frigid cold throughout the Midwest has curbed truck shipments of soymeal throughout the Midwest and northern Plains, soymeal dealers said.</p>
+<p>&quot;It's kind of paralyzed us right now,&quot; said an Indiana dealer. &quot;The trucks have totally stopped.&quot;</p>
+<p>Basis offers for soymeal were steady to weak, with a few more dealers quoting the basis against the CBOT March contract.</p>
+<p>In addition to shipment delays, the frigid cold has curbed feed consumption by cattle. &quot;The animals cluster together rather than eat,&quot; said another dealer.</p>
+<p>Spot rail soymeal (dollars/ton basis CBOT, 47.5 pct protein):</p>
+<p> Chicago		     +10.00  +  H	 - UNC</p>
+<p> Danville, Ill.	    + 8.00  +  H	 - UNC</p>
+<p> Decatur, Ill.	     +10.00  +  H	 - UNC</p>
+<p> Guntersville, Ala.	+20.00  +  F	 - UNC</p>
+<p> Lancaster, Pa. delvrd   +36.00  +  H	 - UNC</p>
+<p> Kansas City, Mo.	  + 9.00  +  H	 - UNC</p>
+<p> Fostoria, Ohio	    +10.00  +  H	 - UNC</p>
+<p> CIF U.S. Gulf	     +22.00  +  H	 - UNC</p>
+<p> FOB U.S. Gulf	     +26.00  +  H	 - UNC</p>
+<p>(Note: F=CBOT January, H=CBOT March)</p>
+<p>Spot truck soymeal basis (dollars per ton):</p>
+<p>			  44 pct	   47.5 pct	 change</p>
+<p> Danville, Ill. + 6.00  +  F   +12.00  +  F	UNC</p>
+<p> Frankfort, Ind + 6.00  +  H   +19.00  +  H	UNC</p>
+<p> Lafayette, Ind   na    +  F     na    +  F	NC</p>
+<p> Decatur, Ind   + 7.00  +  H   +21.00  +  H	NC</p>
+<p> Mankato, Minn. +    0  +  H   + 9.00  +  H	UP 1.00</p>
+<p>(Note: Mankato hi-pro is 47 pct protein)</p>
+<p>Spot crude soyoil (cents/lb basis CBOT):</p>
+<p> Central Illinois rail -	  -1.40  +  F	unc</p>
+<p>(Note: F=CBOT January futures H=CBOT March futures)</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

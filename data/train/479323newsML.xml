@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479323" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Clinton weighs ideas for aiding Mideast peace.</title>
+<headline>Clinton weighs ideas for aiding Mideast peace.</headline>
+<dateline>WASHINGTON 1997-04-01</dateline>
+<text>
+<p>President Bill Clinton said on Tuesday that Israel and the Palestinians had to restore an environment of security and confidence to revive the peace process and he had &quot;some ideas&quot; on how to do this.</p>
+<p>&quot;This is a difficult time in the peace process, and we have a lot to talk about,&quot; Clinton said at the start of a White House meeting with Jordan's King Hussein.  </p>
+<p>Violent clashes between Israelis and Palestinians on the West bank continued on Tuesday for a 13th straight day. The latest violence followed Israel's two-week-old decision to build new Jewish housing in largely Arab East Jerusalem.</p>
+<p>&quot;What I think we have to do is restore the environment of security and of confidence so we can go forward with the negotiating process, and we've got some ideas about it, but I want to talk to the king about it,&quot; Clinton told reporters.</p>
+<p>Asked if he would send U.S. Secretary of State Madeleine Albright to the Middle East, Clinton replied: &quot;At the right time I certainly want her to go, but I want it to be part of a clear strategy designed to produce progress.&quot;</p>
+<p>The king said, &quot;We are certainly passing through a difficult stage.&quot; But he stressed that much progress had been made in the peace process and added that &quot;conditions are not what they were 20 years ago&quot; when Israel was in a state of war with all its Arab neighbours.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

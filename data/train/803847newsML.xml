@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="803847" id="root" date="1997-08-15" xml:lang="en">
+<title>SOUTH KOREA: TABLE-Hanwha Corp first-half net rises.</title>
+<headline>TABLE-Hanwha Corp first-half net rises.</headline>
+<dateline>SEOUL 1997-08-15</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>		 (in billion won unless stated)</p>
+<p>    Shr (won)		   295	vs	  199</p>
+<p>    Net			  9.10	vs	 5.03</p>
+<p>    Turnover	     1,217.33	vs     778.65</p>
+<p>    Profit before tax     10.82	vs	 6.35</p>
+<p>Note - Hanwha Corp is an affiliate of the Hanwha Group. The Korea Listed Companies Association provided the figures but gave no further details.</p>
+<p>-- Seoul Newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25650">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

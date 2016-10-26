@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="664471" id="root" date="1997-06-16" xml:lang="en">
+<title>FRANCE: PARIS BOURSE RESUMES TRADE, UP SLIGHTLY.</title>
+<headline>PARIS BOURSE RESUMES TRADE, UP SLIGHTLY.</headline>
+<dateline>PARIS 1997-06-16</dateline>
+<text>
+<p>French shares were up slightly on Monday afternoon after the resumption of trading, which was interrupted for around 20 minutes by technical problems.</p>
+<p>* CAC-40 index up 3.29, or 0.12 percent, at 2,801.58 at 1436 GMT. Index off all-time high of 2,825.18 points as investors took profits on news of an EMU stability pact deal struck by European leaders in Amsterdam.</p>
+<p>* CAC-40 Jun futures 2,791 vs 2,793 at Fridays close</p>
+<p>* Broader SBF120 index up 1.9 at 1,913.71</p>
+<p>* Volume 4.8 billion francs</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

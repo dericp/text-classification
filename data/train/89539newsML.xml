@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89539" id="root" date="1996-10-01" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia building approvals rise in August.</title>
+<headline>RTRS-Australia building approvals rise in August.</headline>
+<dateline>CANBERRA 1996-10-01</dateline>
+<text>
+<p>Australian dwelling unit building approvals rose a seasonally-adjusted 1.6 percent in August to 10,791 from 10,619 in July, compared with 10,555 in August 1995, the Australian Bureau of Statistics said.</p>
+<p>Economists' median forecasts had been for building approvals to rise 1.0 percent in August.  </p>
+<p>Australian housing building approvals-</p>
+<p>    SEASONALLY ADJUSTED		August 96  July 96 August 95</p>
+<p>    Private Sector Houses		 7,004    7,050   7,335</p>
+<p>    Total houses			    7,219    7,161   7,599</p>
+<p>    Total private dwelling units     10,213    9,986   9,787</p>
+<p>    Total dwelling units		 10,791   10,619   10,555</p>
+<p>    Value residential building (A$ bln) 1.27    1.26     1.19</p>
+<p>    Value total buildings (A$ bln)	2.32    2.17     2.19</p>
+<p>TREND ESTIMATES</p>
+<p>    Private Sector Houses		  6,972   6,992    7,422</p>
+<p>    Total Dwelling Units		  10,515  10,474   10,833</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

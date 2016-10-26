@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161273" id="root" date="1996-11-01" xml:lang="en">
+<title>INDONESIA: Indonesia says plans to revise mining contracts.</title>
+<headline>Indonesia says plans to revise mining contracts.</headline>
+<dateline>JAKARTA 1996-11-01</dateline>
+<text>
+<p>Indonesia plans to allow mining companies &quot;with good records&quot; to hold a second contract of work (COW) to explore and develop an area not covered by the original contract, the director-general of mining said on Friday.</p>
+<p>&quot;Companies with good records proven during the production stage can have another COW,&quot; Kuntoro Mangkusubroto told Reuters in an interview.</p>
+<p>So far, companies could only operate in one area with one contract of work. They have been obliged to set up a separate Indonesian-registered company with another contract of work to exploit another area.</p>
+<p>Kuntoro said that in principle a company getting a second contract of work would be able to offset exploration and start-up costs for a separate mine against taxes on the original mine. &quot;But we haven't reached a conclusion on this yet,&quot; he said, adding the matter would have to be discussed with taxation authorities.</p>
+<p>Kuntoro said the proposal did not apply to oil exploration in Indonesia. Foreign oil companies have complained that they are unable to offset exploration and development costs of new fields against existing income, with each project being dealt with on an individual basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

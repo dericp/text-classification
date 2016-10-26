@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="631370" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: Cascade sees higher lift trucks orders.</title>
+<headline>Cascade sees higher lift trucks orders.</headline>
+<dateline>PORTLAND, Ore. 1997-06-02</dateline>
+<text>
+<p>Cascade Corp said Monday that it has seen a &quot;dramatic increase&quot; in industry orders for lift trucks in North America during the first several months of 1997, continuing the trend from 1996's fourth quarter.</p>
+<p>While cautioning that the current high level of orders might not be sustained, the company said that this increase should be reflected in increased orders for Cascade attachments, Kenhar forks and ITL tires in the second and third quarters, as lift truck orders are translated into shipments.</p>
+<p>Cascade reported first quarter earnings of $0.23 a share, including charges related to its acquisition of Kenhar Corp, compared with $0.37 a share in the previous first quarter.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32550">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97199" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: Dickson offers to buy Barney's - NYT.</title>
+<headline>Dickson offers to buy Barney's - NYT.</headline>
+<dateline>NEW YORK 1996-10-04</dateline>
+<text>
+<p>Hong Kong's Dickson Concepts Ltd has made an initial offer to buy Barney's Inc, the New York Times reported Friday.</p>
+<p>Citing unidentified sources, the newspaper said the offer could be between $300 million and $400 million, although no price has been revealed.</p>
+<p>It was not clear whether the offering price included the company's buildings or its Asia license, which is valued at $200 million, it added.</p>
+<p>The newspaper said retail giant Dickson had told investment bank Blackstone Group, which is advising Barney's, of its interest in buying the company.</p>
+<p>In response to the article, Barney's issued a two-sentence statement, declining to comment.</p>
+<p>&quot;We don't respond to rumors or speculation,&quot; it said. &quot;Barneys' investor process is private and designed to maximize value.&quot;</p>
+<p>Barney's, which is based in New York, filed for bankruptcy protection in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="332748" id="root" date="1997-01-24" xml:lang="en">
+<title>PORTUGAL: POLL-Most analysts see Portugal rate cut Friday.</title>
+<headline>POLL-Most analysts see Portugal rate cut Friday.</headline>
+<dateline>LISBON 1997-01-23</dateline>
+<text>
+<p>Seven out of eight analysts polled by Reuters said they expected cuts in the absorption rate, used to drain funds from the money market, and the repurchase pact rate on Friday.</p>
+<p>The central bank will review rates on Friday at the start of a new reserve accounting period.</p>
+<p>The absorption rate now stands at 6.2 percent and the repo rate 6.50 percent.</p>
+<p>The analysts were asked the following questions.</p>
+<p>1. Will the Bank of Portugal cut the repo rate this week?</p>
+<p>Yes - 7.</p>
+<p>No - 1.</p>
+<p>2. If your answer to question 1. is affirmative, by how much will the rate be cut?</p>
+<p>The seven analysts expected a cut of between 10 and 20 basis points.</p>
+<p>3. Will the Bank of Portugal cut the absorption rate this week?</p>
+<p>Yes - 7.</p>
+<p>No - 1.</p>
+<p>4. If your answer to question 1. is affirmative, by how much will the rate be cut?</p>
+<p>The seven analysts expected a cut of between 20 and 50 basis points.</p>
+<p>5. Will the Bank of Portugal cut the repo rate again this year?</p>
+<p>Yes - 8.</p>
+<p>6. Will the Bank of Portugal cut the absorption rate again this year?</p>
+<p>Yes - 8.</p>
+<p>-- Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="299218" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: NY money closing - Jan 10/97.</title>
+<headline>NY money closing - Jan 10/97.</headline>
+<text>
+<p>TREASURY BILLS----</p>
+<p>090 days  5.03-5.02</p>
+<p>180 days  5.12-5.11</p>
+<p>360 days  5.34-5.33</p>
+<p>PRIMARY CERTIFICATES OF DEPOSIT</p>
+<p> 30-59   days 4.75</p>
+<p> 60-89   days 4.85</p>
+<p> 90-119  days 4.90</p>
+<p> 120-149 days 5.00</p>
+<p> 150-179 days 5.00</p>
+<p> 180-269 days 5.05</p>
+<p> 270-359 days 5.05</p>
+<p> 360-390 days 5.15</p>
+<p>COMMERCIAL PAPER THROUGH DEALERS</p>
+<p>30-59  days  5.26</p>
+<p>60-89  days  5.29</p>
+<p>90-179 days  5.32</p>
+<p>COMMERCIAL PAPER PLACED DIRECTLY</p>
+<p> 30-59  days 5.26</p>
+<p> 60-89  days 5.29</p>
+<p> 90-119 days 5.32</p>
+<p>120-179 days 5.35</p>
+<p>180-239 days 5.40</p>
+<p>240-269 days 5.41</p>
+<p>BANKERS ACCEPTANCES (TOP NAME DEALERS BIDS)</p>
+<p> 30-59   days 5.45</p>
+<p> 60-89   days 5.48</p>
+<p> 90-119  days 5.50</p>
+<p> 120-149 days 5.50</p>
+<p> 150-179 days 5.50</p>
+<p> 180-209 days 5.55</p>
+<p>BANKERS ACCEPTANCES (BANKS BIDS/ASK)</p>
+<p> 30-59   days 5.00/4.90</p>
+<p> 60-89   days 5.00/4.90</p>
+<p> 90-119  days 5.00/4.90</p>
+<p> 120-149 days 5.00/4.90</p>
+<p> 150-179 days 5.00/4.90</p>
+<p> 180-    days 5.00/4.90</p>
+<p>Federal Funds at 1645: LAST 5 3/16</p>
+<p>HIGH 5 3/16 LOW 5 3/16</p>
+<p>PRIME RATE  8.25 - eff feb 01/96</p>
+<p>BROKER LOAN RATE 7.00</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

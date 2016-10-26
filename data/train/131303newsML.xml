@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131303" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Chiron, ally to seek U.S. drug approval.</title>
+<headline>Chiron, ally to seek U.S. drug approval.</headline>
+<dateline>EMERYVILLE, Calif 1996-10-21</dateline>
+<text>
+<p>Chiron Corp and DepoTech Corp said they had agreed to submit a U.S. New Drug Application (NDA) for the anti-cancer compound DepoCyt.</p>
+<p>The companies said in a news release the decision had been taken after evaluating the results of a Phase III trial on DepoCyt, which is used to treat neoplastic meningitis arising in people with solid tumors.  </p>
+<p>The Phase III trial showed that 24 patients treated with DepoCyt had a median survival of 168 days, compared with 87 days for 29 patients receiving the control drug, methotrexate (MTX), the companies said.</p>
+<p>For all solid tumor patients, mean time to neoplastic meningitis progression, as measured by neurological examination or death from any cause, was 108 days for those receiving DepoCyt versus 48 days for those receiving MTX.</p>
+<p>The companies said earlier trials had also shown DepoCyt with a better response rate than MTX, which is the standard of care for neoplastic meningitis arising from solid tumors.</p>
+<p>The clinical trial was a multicenter, controlled, non-blinded study, in which a total of 61 patients were randomized to treatment either with DepoCyt or MTX. Patients initially received a dose of DepoCyt every 14 days, compared with twice per week dosing with MTX.</p>
+<p>Neoplastic meningitis occurs when metastases from solid tumors, leukemia, or lymphoma spread to the tissue surrounding the brain and spinal cord.  Of the roughly 65,000 U.S cancer patients afflicted annually, most have neoplastic meningits arising from solid tumors.</p>
+<p>-- New York Newsdesk 212-859-1713</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EMERYVILLE, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

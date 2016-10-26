@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102938" id="root" date="1996-10-08" xml:lang="en">
+<title>ITALY: Olivetti telecoms director Pompei resigns.</title>
+<headline>Olivetti telecoms director Pompei resigns.</headline>
+<dateline>IVREA, Italy 1996-10-08</dateline>
+<text>
+<p>Olivetti's director of policy and strategy for its telecoms interests Tommaso Pompei has resigned, a spokesman for the company confirmed on Tuesday.</p>
+<p>Olivetti's new chief executive Roberto Colaninno had indicated late last week that the group was looking for a new appointment to head its telecoms strategy.</p>
+<p>Sources close to the company said that Olivetti was now looking for someone with greater international experience for the post.</p>
+<p>Colaninno had also indicated last week that the group was looking for appointments in external relations and business development, positions which are currently vacant.</p>
+<p>-- Milan newsroom +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IVREA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

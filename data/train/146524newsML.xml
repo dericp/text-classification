@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146524" id="root" date="1996-10-28" xml:lang="en">
+<title>SOUTH AFRICA: SOCCER-SCHEDULE OF AFRICAN CUP FINALS.</title>
+<headline>SOCCER-SCHEDULE OF AFRICAN CUP FINALS.</headline>
+<dateline>JOHANNESBURG 1996-10-28</dateline>
+<text>
+<p>Dates of finals in the three</p>
+<p>African club competitions after completion of semifinals at the</p>
+<p>weekend:</p>
+<p>African Champions' Cup:</p>
+<p>Shooting Stars (Nigeria) v Zamalek (Egypt)</p>
+<p>First leg - November 30 (Ibadan or Lagos)</p>
+<p>Second leg - December 13 (Alexandria)</p>
+<p>African Cup Winners' Cup:</p>
+<p>Sodigraf (Zaire) v Arab Contractors (Egypt)</p>
+<p>First leg - November 24 (Kinshasa)</p>
+<p>Second leg - December 6 (Cairo)</p>
+<p>Confederation of African Football (CAF) Cup:</p>
+<p>Etoile du Sahel (Tunisia) v Kawkab Marrakesh (Morocco)</p>
+<p>First leg - November 16 (Sousse or Tunis)</p>
+<p>Second leg - December 1 (Marrakesh)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

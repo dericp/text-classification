@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264809" id="root" date="1996-12-18" xml:lang="en">
+<title>CANADA: Avenor makes stock bid for Repap.</title>
+<headline>Avenor makes stock bid for Repap.</headline>
+<dateline>MONTREAL 1996-12-18</dateline>
+<text>
+<p>Avenor Inc said on Wednesday it made an all-stock bid for Repap Enterprises Inc and that Repap's board of directors had accepted the offer.</p>
+<p>Avenor offered to buy out Repap by exchanging one newly issued Avenor common share for 4.25 shares of Repap.</p>
+<p>Under the terms of the offer Repap Chairman and Chief Executive Officer George Petty has committed to vote his 23 percent share in the company in favor of the deal.</p>
+<p>Completion of the deal, subject to shareholder and regulatory approval, is expected by February 28, 1997.</p>
+<p>Avenor also said it would suspend its dividend.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

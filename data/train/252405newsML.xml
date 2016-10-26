@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252405" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Argosy set to launch floating casino.</title>
+<headline>Argosy set to launch floating casino.</headline>
+<dateline>ALTON, Ill. 1996-12-12</dateline>
+<text>
+<p>Argosy Gaming Co on Friday will begin gaming aboard a new riverboat casino operating out of Lawrenceburg, Ind., the company said on Thursday.</p>
+<p>The company said the Indiana Gaming Commission approved a license for the partnership it established to run the casino and an entertainment complex at Lawrenceburg, which is in the Cincinnati area.</p>
+<p>The leased riverboat casino is equipped with 869 slot machines and 52 gaming tables, Argosy said.</p>
+<p>Argosy operates riverboat casinos and related entertainment facilities in the U.S. Midwest and South.</p>
+<p>Its stock was up 1/4 at 6-5/8 in Thursday afternoon trading on the New York Stock Exchange.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

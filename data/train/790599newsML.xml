@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="790599" id="root" date="1997-08-11" xml:lang="en">
+<title>LATVIA: LATVIA-NOON RADIO HEADLINES-AUG 11.</title>
+<headline>LATVIA-NOON RADIO HEADLINES-AUG 11.</headline>
+<dateline>RIGA 1997-08-11</dateline>
+<text>
+<p>These were the headlines on Latvian state radio at noon. Reuters has not verified these headlines and does not vouch for their accuracy:</p>
+<p>- Prime Minister Guntar Krasts has begun to choose his new advisors.</p>
+<p>- Traffic jams built up at the Lithuanian-Latvian border as border guards struggled to cope with the two countries new joint border control system.</p>
+<p>-- Riga newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

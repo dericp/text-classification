@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69714" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: PanEnergy pipeline plan seeks FERC okay.</title>
+<headline>PanEnergy pipeline plan seeks FERC okay.</headline>
+<dateline>HOUSTON 1996-09-23</dateline>
+<text>
+<p>Maritimes &amp; Northeast Pipeline LLC, which is owned by PanEnergy Corp and Westcoast Energy Inc, said it applied for U.S. Federal Energy Regulatory Commission approval to build Phase II of the transportation facility for the Sable Offshore Energy Project.</p>
+<p>By November 1999, Phase II is scheduled to provide approximately 440,000 million British thermal units per day of firm natural gas transportation service to U.S. markets in the northeastern United States and the Canadian Maritimes provinces, the partnership said.  </p>
+<p>The total $975 million project amounts to 729 miles of pipeline with PanEnergy handling the U.S. portion of the project and Westcoast Energy developing the Canadian portion.</p>
+<p>In the filing, Maritimes &amp; Northeast Pipeline said it is requesting authorization to construct a segment of Phase II to Yarmouth, Maine, by November 1998.</p>
+<p>Phase II involves the construction of approximately 230 miles of mostly 24-inch diameter mainline pipeline and ancillary facilities between the U.S./Canadian border near Woodland, Maine, and the interconnect with Phase I facilities near Wells, Maine.</p>
+<p>Phase I is scheduled to be in service in 1997.</p>
+<p>Also, approximately 154 miles of lateral pipelines, constructed to provide service to 11 major paper-related industrial facilities in Maine as well as an electric generating facility, are included in the Phase II application.</p>
+<p>In October 1996, a Canadian limited partnership will be seeking National Energy Board approval to build the 345-mile Canadian segment of the Maritimes &amp; Northeast Pipeline which runs between Country Harbour, Nova Scotia, and the U.S./Canadian border to connect to the Phase II project.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

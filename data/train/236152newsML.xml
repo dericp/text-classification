@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236152" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: 3Com rises after Hambrecht recommendation.</title>
+<headline>3Com rises after Hambrecht recommendation.</headline>
+<dateline>SAN FRANCISCO 1996-12-05</dateline>
+<text>
+<p>3Com Corp shares rose to a record high after an Hambrecht &amp; Quist LLP analyst rated the computer networking equipment maker a &quot;strong buy.&quot;</p>
+<p>&quot;Their core business is strong and will remain strong, and they have a bunch of new opportunities,&quot; particularly abroad, said Farrokh Billimoria, the analyst.</p>
+<p>Shares of 3Com, based in Santa Clara, Calif., jumped 2-3/8 to 79-1/8 in midafternoon Nasdaq trading.  Earlier, the shares traded as high as 79-3/4, the stock's all-time high.</p>
+<p>3Com makes electronic devices that control the flow of information through corporate and public computer networks.</p>
+<p>-- Kourosh Karimkhany, in Palo Alto, + 1 415 846 5401</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

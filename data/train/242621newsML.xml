@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242621" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: CANTV stake held by GTE Corp.</title>
+<headline>CANTV stake held by GTE Corp.</headline>
+<dateline>WASHINGTON 1996-12-09</dateline>
+<text>
+<p>A group led by GTE Corp said Monday it holds a 15.6 percent stake in Compania Anonima Nacional Telefonos De Venezuela CANTV (National Telephone Co of Venezuela) equal to 48,965,000 Class D common or 6,995,000 American Depositary Shares.</p>
+<p>In a filing with the Securities and Exchange Commission, the group said it bought the ADSs between Nov 27 and Dec 6 at prices ranging from $23 to $27 per share. Of the total stake, 4,350,000 ADSs were bought on Nov 27 in the initial public offering.</p>
+<p>GTE Corp, of Stamford, Conn., is the largest U.S.-based local telephone company and a cellular-service provider, with wireline and wireless operations that form a market area covering about one-third of the country's population.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

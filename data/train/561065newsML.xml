@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561065" id="root" date="1997-05-05" xml:lang="en">
+<title>FRANCE: MATIF financial futures volume rose in April.</title>
+<headline>MATIF financial futures volume rose in April.</headline>
+<dateline>PARIS 1997-05-05</dateline>
+<text>
+<p>The volume of financial futures and options contracts traded on the French MATIF exchange in April rose 3.6 percent from the previous month and climbed 30.6 percent compared to April 1996, Matif said in a statement on Monday.</p>
+<p>Detailed figures for financial contracts were as follows:</p>
+<p>			   Volume     Change    Change  Open positions</p>
+<p>					 on month   on year  at end-month</p>
+<p> All contracts	6.49 million   +3.6 pct   +30.6 pct  1.11 million</p>
+<p>  Financial futures 5.28 million   +0.3 pct   +31.6 pct   516,521</p>
+<p>Of which:</p>
+<p>     -  French bond 3.03 million  -14.2 pct   +21.5 pct   166,991</p>
+<p>     -  PIBOR	 1.70 million  +47.1 pct   +72.2 pct   272,899</p>
+<p>     -  CAC-40	 520,513   -1.6 pct    +6.6 pct    70,988</p>
+<p>     -  Ecu bond	30,730  -35.5 pct   -25.7 pct     5,643</p>
+<p>  Financial options 1.21 million  +21.1 pct   +26.3 pct   597,869</p>
+<p>Of which:</p>
+<p>     -  French bond  855,371   +2.0 pct   +23.4 pct   253,162</p>
+<p>     -  PIBOR	  351,894 +123.8 pct   +48.4 pct   342,154</p>
+<p>-- Paris Newsroom +331 4221 5542 cla/</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

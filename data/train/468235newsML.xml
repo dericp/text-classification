@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468235" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Note Bankers agrees to acquire insurer.</title>
+<headline>Note Bankers agrees to acquire insurer.</headline>
+<dateline>HOUSTON 1997-03-26</dateline>
+<text>
+<p>Note Bankers of America Inc on Wednesday said it signed a letter of intent to acquire Insurance Providers of America Inc and its Metro Acceptance Corp subsidiary.  </p>
+<p>The company in a statement said it would acquire the two in exchange for shares. It did not say how many shares it would exchange, and officials were not available for comment.</p>
+<p>Insurance Providers is a non-standard auto insurance agency with about 19,000 customers and $17.7 million in annual sales, the company said. The company, which covers drivers that have been dropped by their preferred carriers, has two subsidiaries, one of them being Metro Acceptance.</p>
+<p>Metro is an Arizona concern that finances insurance premiums, it said.</p>
+<p>The company said the second subsidiary was IPA Financial Services. It did not say what would happen to that subsidiary once the deal was completed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

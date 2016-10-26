@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146643" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: James River Bankshares Inc Q3 net falls.</title>
+<headline>James River Bankshares Inc Q3 net falls.</headline>
+<dateline>SUFFOLK, Va. 1996-10-28</dateline>
+<text>
+<p>(Dollars in thousands, except per share data)</p>
+<p>					  Quarter Ended September 30</p>
+<p>						 1996	1995  % Change</p>
+<p> Net interest Income			 3,597    2,984   20.54</p>
+<p> Net Income				     353	905  (60.99)</p>
+<p> Earnings per share			    .14	.36	--</p>
+<p>					  Nine Months Ended September 30</p>
+<p>						 1996	1995  % Change</p>
+<p> Net Interest Income		     10,081     8,806   14.48</p>
+<p> Net Income				 $1,643    $2,272  (27.68)</p>
+<p> Earnings per share			   .66	 .92	--</p>
+<p>NOTE: Q3 and nine months 1996 net includes $752,000 FDIC assessment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUFFOLK, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

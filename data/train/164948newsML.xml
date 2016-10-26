@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164948" id="root" date="1996-11-04" xml:lang="en">
+<title>UK: British Biotech says cancer drug effect confirmed.</title>
+<headline>British Biotech says cancer drug effect confirmed.</headline>
+<dateline>LONDON 1996-11-04</dateline>
+<text>
+<p>British Biotech Plc on Monday said that Phase II trials of its Marimastat anti-cancer drug had confirmed its effectiveness in reducing the rate of rise in cancer antigens.</p>
+<p>British Biotech's shares have been buoyed by hopes that Marimastat will turn out to be Europe's first big-selling biotech product, with forecasts for annual sales ranging from a few hundred million dollars up to $4.0 billion.  </p>
+<p>An update on the drug's effectiveness was given at the European Society of Medical Oncologists (ESMO) meeting in Vienna and the company presented results of separate clinical trials in the treatment of advanced gastric, colorectal, ovarian and pancreatic cancer.</p>
+<p>&quot;The effect of Marimastat in reducing the rate of cancer antigens has been confirmed,&quot; the company said in a statement.</p>
+<p>&quot;The Marimastat results presented at ESMO are encouraging. The effect of Marimastat on cancer antigens has been confirmed and the choice of 10 mg daily as the dose in Phase III trials has been validated,&quot; director of research and development Peter Lewis said in a statement.</p>
+<p>British Biotech is now conducting Phase III pivotal clinical trials in pancreatic cancer, small cell lung cancer and glioblastoma -- a form of brain cancer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

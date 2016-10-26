@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196225" id="root" date="1996-11-18" xml:lang="en">
+<title>BOSNIA: PRESS DIGEST - Bosnia - Nov 18.</title>
+<headline>PRESS DIGEST - Bosnia - Nov 18.</headline>
+<dateline>SARAJEVO 1996-11-18</dateline>
+<text>
+<p>These are the leading stories in the Sarajevo press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>OSLOBODJENJE</p>
+<p>- Bosnia-Hercegovina owns estimated 14 billion German Marks to citizens for their old foreign currency savings, unpaid soldier's salaries and covering nationalised property, newspapers says. The new privatisation law to be endorsed would convert citizen's claims to vouchers capable of buying flats, offices and shares.</p>
+<p>DNEVNI AVAZ</p>
+<p>- Conditions to establish stock market in Bosnia are very unfavourable because share prices would fall very low in a short period due to a great offer and low shareholder's demand, economist Faruk Causevic told the newspaper.  --Sarajevo newsroom, +387-71-663-864.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SARAJEVO"/>
+<dc element="dc.creator.location.country.name" value="BOSNIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

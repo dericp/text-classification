@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="770709" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Revised data show stronger U.S. GDP in 1996.</title>
+<headline>Revised data show stronger U.S. GDP in 1996.</headline>
+<dateline>WASHINGTON 1997-07-31</dateline>
+<text>
+<p>The U.S. economy grew more strongly in 1996 than previously thought, the Commerce Department said Thursday as it issued revised figures for gross domestic product from the first quarter of 1993 through the first quarter this year.</p>
+<p>GDP, the measure of total goods and services output, expanded at a revised 2.8 percent in 1996 instead of 2.4 percent, Commerce said.</p>
+<p>But otherwise the percent changes from the preceding year for real GDP growth were unrevised at 2.3 percent in 1993, 3.5 percent in 1994 and 2 percent in 1995.  </p>
+<p>The Commerce Department usually makes revisions to the national income and product accounts each July to incorporate more complete and detailed information.</p>
+<p>In this case, it cited such factors as better information from the Internal Revenue Service on corporate tax returns as well as more current data on price changes for items like semiconductors and computers, which in many cases have fallen in real terms.  </p>
+<p>But an ongoing controversy over how best to measure national economic performance -- through GDP that measures the value of products and services made in the United States or through Gross Domestic Income that measures how much is earned from selling the goods and services -- was largely unresolved.</p>
+<p>In recent years, income has grown more quickly than GDP by tens of billions of dollars a year. Private economists have suggested that meant American workers were more productive than the government realized since they produced goods worth more more than its GDP measure had estimated.  </p>
+<p>The revised GDP information issued on Thursday by Commerce narrowed the difference between the two measures, but did not eliminate it. For example, Commerce previously said the &quot;statistical discrepancy&quot; between the income GDI and GDP measures was running at an annual rate of $93.2 billion in the fourth quarter of 1996 but it revised that down to a $59.5 billion difference on the basis of updated and more thorough data.  </p>
+<p>For the four years from 1992 through the end of 1996, it previously said the statistical discrepancy was at a seasonally adjusted annual rate of $157.8 billion but it revised that to a smaller $124.1-billion difference.</p>
+<p>Commerce's Bureau of Economic Analysis said it considers the source data used to compile the GDP estimate more reliable and timely and said: &quot;BEA continues to find the estimate of GDP to be more accurate than those of GDI.</p>
+<p>&quot;Nevertheless, BEA has been and will continue to attempt to determine the causes for the change in the statistical discrepancy between 1993 and 1996,&quot; the department said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

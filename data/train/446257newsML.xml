@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="446257" id="root" date="1997-03-17" xml:lang="en">
+<title>BERMUDA: CRICKET-NEW ZEALAND WIN 2ND TEST BY 120 RUNS.</title>
+<headline>CRICKET-NEW ZEALAND WIN 2ND TEST BY 120 RUNS.</headline>
+<dateline>HAMILTON, New Zealand 1997-03-17</dateline>
+<text>
+<p>New Zealand won the second test against Sri Lanka by 120 runs with a day to spare when Sri Lanka was all out for 205 on Monday chasing 326 for victory.</p>
+<p>New Zealand won the two-match series 2-0.</p>
+<p>Scores:</p>
+<p>New Zealand 222 and 273 (B.Young 62, S.Fleming 59, N.Zoysa 3-53).</p>
+<p>Sri Lanka 170 and 205 (R. Mahanama 65. D.Vettori 5-84).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BERM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMILTON, New Zealand"/>
+<dc element="dc.creator.location.country.name" value="BERMUDA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

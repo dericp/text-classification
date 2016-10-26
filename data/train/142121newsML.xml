@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142121" id="root" date="1996-10-24" xml:lang="en">
+<title>JAPAN: Japan Telecom to start Internet access service.</title>
+<headline>Japan Telecom to start Internet access service.</headline>
+<dateline>TOKYO 1996-10-24</dateline>
+<text>
+<p>Japan Telecom Co Ltd said on Thursday that it would launch a new computer network service, including Internet access, next year to compete with a rival service by industry giant NTT.</p>
+<p>Japan Telecom's Open Data Network (ODN) will be launched next April and will provide individual users with Internet dial-up. Nippon Telegraph and Telephone Corp (NTT) plans a similar service in December.</p>
+<p>For volume users, Japan Telecom will lay low-cost dedicated cables, which can be used for such things as computer data transmission and the construction of local call networks.</p>
+<p>The service will be similar to NTT's, but the network will be priced more competitively, a Japan Telecom spokesman said.</p>
+<p>Details of prices were not disclosed.</p>
+<p>NTT has said it plans to charge individual users 2,300 yen ($20) a month to access the Internet for up to 15 hours a month, which is less than the cost of most other Internet access service providers in Japan.</p>
+<p>Japan's Internet users often complain about the relatively high cost of surfing the Worldwide Web.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

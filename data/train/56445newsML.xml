@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56445" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Union Pacific sets final proration factor.</title>
+<headline>Union Pacific sets final proration factor.</headline>
+<dateline>BETHLEHEM, Pa. 1996-09-16</dateline>
+<text>
+<p>Union Pacific Corp said Monday a final proration factor of 0.803772507 was set in connection with the September 11 merger of Southern Pacific Rail Corp into a subsidiary of Union Pacific.</p>
+<p>This factor will be multiplied by the number of Southern Pacific shares for which each shareholder made a valid stock election, Union Pacific explained.</p>
+<p>In accordance with the merger agreement, the resulting number of Southern Pacific shares will be converted into shares of Union Pacific common stock at a ratio of 0.4065 of a share of Union Pacific stock for each Southern Pacific share.</p>
+<p>All other Southern Pacific shares will be exchanged for cash at the rate of $25 per share. Cash will be paid in lieu of any fractional Union Pacific share at $72.0688 per share.</p>
+<p>Union Pacific said it will pay the cash consideration on September 16, 1996 and will mail Union Pacific stock certificates shortly thereafter.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BETHLEHEM, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

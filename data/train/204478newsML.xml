@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204478" id="root" date="1996-11-20" xml:lang="en">
+<title>FRANCE: Channel Tunnel may reopen Wednesday - Eurotunnel.</title>
+<headline>Channel Tunnel may reopen Wednesday - Eurotunnel.</headline>
+<dateline>PARIS 1996-11-20</dateline>
+<text>
+<p>Channel Tunnel operator Eurotunnel SA Plc said partial traffic through the subsea link between France and Britain could resume on Wednesday if a security commission gave the green light after a fire aboard a truck shuttle train on Monday night.</p>
+<p>&quot;Technical teams from Eurotunnel have verified that the state of the northern tunnel allows a resumption of traffic on a single track during the day,&quot; the company said in a statement. It said it was awaiting the safety commission's go-ahead.  </p>
+<p>&quot;Details of the reopening of the tunnel will be announced as soon as the security commission has given its accord,&quot; Eurotunnel said, adding that the commission was meeting on Wednesday morning.</p>
+<p>Full repairs to the rail link, comprising parallel tunnels for northbound and a southbound trains, are likely to take weeks after the blaze on a train carrying trucks from France to Britain on Monday night. Eight people were injured.</p>
+<p>Eurotunnel officials said that freight shuttles through the link might be the first to resume.</p>
+<p>The French rail authority SNCF advised passengers planning to use Eurostar trains between Paris and London on Wednesday to delay or cancel their trip. Passengers have been diverted to ferries or planes since the blaze.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

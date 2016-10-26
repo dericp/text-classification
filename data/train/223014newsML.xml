@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223014" id="root" date="1996-11-28" xml:lang="en">
+<title>INDIA: India's SAIL 96/97 1st half net down.</title>
+<headline>India's SAIL 96/97 1st half net down.</headline>
+<dateline>BOMBAY 1996-11-28</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p>	     (in million rupees unless stated)</p>
+<p>    Net profit	   3,614.5  vs    4,332.0</p>
+<p>    Net sales	   67,441.3  vs   66,664.4</p>
+<p>    Expenditure	 54,750.5  vs   55,362.7</p>
+<p>    Interest	     5,339.4  vs    4,058.2</p>
+<p>    Depreciation	 3,201.6  vs    2,911.5</p>
+<p>Note: State-run Steel Authority of India Ltd (SAIL) is India's largest steel producer. The firm said the figures are unaudited.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

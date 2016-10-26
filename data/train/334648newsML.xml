@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="334648" id="root" date="1997-01-27" xml:lang="en">
+<title>ECUADOR: Ecuador announces tender for oil pipeline.</title>
+<headline>Ecuador announces tender for oil pipeline.</headline>
+<dateline>QUITO 1997-01-27</dateline>
+<text>
+<p>Ecuador announced a public tender late Sunday for the construction of a $500 million, 514-kilometre crude oil pipeline.</p>
+<p>The terms of the tender will be released February 3 and offers will be received until April 7 from bidders previously approved by the Ministry of Energy and Mining, the government said in a newspaper add Sunday.</p>
+<p>The pipeline will transport 462,000 bpd from the Amazon region and the winner of the tender, to be awarded in May, will also be required to build storage facilities for 2.75 million barrels in two different sites.</p>
+<p>Fifty percent of Ecuador's state budget is currently generated through oil sales.</p>
+<p>But for transport of crude, the country now depends entirely on a Colombian oil pipeline which is constantly paralyzed by guerrilla warfare.</p>
+<p>Energy Minister Alfredo Adum last week said 17 companies had expressed an interest in building the pipeline.</p>
+<p>((-- Ecuador Newsroom 5932 258429))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="694885" id="root" date="1997-06-29" xml:lang="en">
+<title>AUSTRALIA: Five dead in Tasmanian murder-suicide.</title>
+<headline>Five dead in Tasmanian murder-suicide.</headline>
+<dateline>HOBART 1997-06-29</dateline>
+<text>
+<p>A middle-aged man murdered his four children and then killed himself in an apparent murder-suicide in the Australian island state of Tasmania, police said on Sunday.</p>
+<p>Inspector John Warren said police were called to a house in Cambridge about 15 km (10 miles) east of the capital Hobart on Sunday morning and found the bodies of four children inside a sandstone cottage.</p>
+<p>Police said they found the body of a middle-aged man outside an adjacent carpentry workshop. The man appeared to have killed himself after the murders, they said.</p>
+<p>&quot;I understand a gun was involved and also another weapon,&quot; Inspector Warren told Australian Broadcasting Corp radio.</p>
+<p>Further details were not immediately available.</p>
+<p>The murder scene was about 50 km north of Port Arthur, where gunman Martin Bryant used now-banned semi-automatic rifles to murder 35 people in April last year in what was Australia's worst modern-day massacre.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOBART"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

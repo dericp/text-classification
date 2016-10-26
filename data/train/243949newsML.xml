@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243949" id="root" date="1996-12-09" xml:lang="en">
+<title>INDIA: Indian cotton prices gain on fresh state buying.</title>
+<headline>Indian cotton prices gain on fresh state buying.</headline>
+<dateline>BOMBAY 1996-12-09</dateline>
+<text>
+<p>Indian cotton prices showed modest gains on Monday on fresh purchases by the state-owned Cotton Corporation of India despite low mill buying, dealers said.</p>
+<p>The government last week allowed the Corporation to export 100,000 bales (170 kg each), triggering fresh purchases by the Corporation.</p>
+<p>In spot deals Punjab saw-ginned rose to 1,440/1,650 rupees per maund (37.32 kg) from 1,425/1,600 rupees. Bengal-deshi gained by 10 rupees to 830/860 rupees per maund.</p>
+<p>Gujarat Sankar-4 (long-staple) rose by 300 rupees to 18,500/19,000 rupees per candy (355.56 kg).</p>
+<p>-- Bombay commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

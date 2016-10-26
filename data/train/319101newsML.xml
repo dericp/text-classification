@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319101" id="root" date="1997-01-20" xml:lang="en">
+<title>SRI LANKA: Sri Lanka air force plane missing off Jaffna.</title>
+<headline>Sri Lanka air force plane missing off Jaffna.</headline>
+<dateline>COLOMBO 1997-01-20</dateline>
+<text>
+<p>A Sri Lankan air force aircraft was missing over seas off northern Jaffna peninsula early on Monday, military officials said.</p>
+<p>The twin-engined Y-12 propeller aircraft, with four people on board, was on a routine maritime surveillance mission looking for suspected Liberation Tigers of Tamil Eelam (LTTE) rebel vessels when it lost radio contact, they said.</p>
+<p>The plane had taken off at around 4:00 a.m. (2200 GMT) from the Palaly airbase, 320 km (200 miles) north of the capital Colombo.</p>
+<p>&quot;The navy has launched a search for the missing aircraft,&quot; one official said. &quot;It was in radio contact with the base until 5.12 a.m. (2312 GMT).&quot;</p>
+<p>The Y-12 is a transport aircraft but is often used in surveillance operations.</p>
+<p>The rebels are fighting for an independent homeland for minority Tamils in the mainly Sinhalese Indian Ocean island's north and east. The government has said more than 50,000 people have died in the ethnic war, now in its 14th year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="796886" id="root" date="1997-08-13" xml:lang="en">
+<title>SWITZERLAND: Swiss scientists uncover new BSE findings.</title>
+<headline>Swiss scientists uncover new BSE findings.</headline>
+<dateline>ZURICH 1996-08-14</dateline>
+<text>
+<p>Swiss researchers said on Thursday they had made new discoveries about the prion protein associated with mad cow disease and its human variant, Creutzfeld-Jakob Disease (CJD).</p>
+<p>Irregularities in prion proteins are thought to be linked to Bovine Spongiform Encephalopathy (BSE) in cows, as well as to CJD. The latest findings could eventually be significant in diagnosing such diseases.</p>
+<p>&quot;I would say that it could provide a better basis than has been available so far to work towards the development of a diagnosis,&quot; said Kurt Wuethrich.</p>
+<p>Wuethrich is one of a research team at the Institute for Molecular Biology and Biophysics at the Swiss Federal Institute of Technology (ETH) in Zurich which succeeded in decoding the three-dimensional structure of an intact prion protein. Their study will be published on Thursday in the review FEBS Letters.</p>
+<p>The new information also made it appear &quot;that the transition from the healthy to the disease-causing protein could go through a much simpler avenue than thought,&quot; Wuethrich said. He said any application of the latest findings may take a long time.</p>
+<p>&quot;We are certainly a long way from exploiting the knowledge,&quot; he said, adding any such procedure could take years to develop.</p>
+<p>The ETH team, which included professor Rudi Glockshuber, said in a media release that prion protein in brains of BSE-afflicted cows had a higher proportion of &quot;beta-sheet-containing&quot; folds. The area where the folds were found was thought to be tied to &quot;clumping&quot; in part of the protein.</p>
+<p>In normal protein, the protein molecule includes a mobile filament consisting of 98 amino acid residues.</p>
+<p>In cows afflicted with BSE or the related sheep disease, scrapie, &quot;a large part of this 'tail' of amino acids is not mobile, but part of the rigid molecule structure,&quot; they said.</p>
+<p>The findings &quot;indicate that the conversion of the normal to the disease-inducing form of the prion protein may occur much more easily than has been assumed so far, by way of a new fold in the flexible part of the normal protein,&quot; they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

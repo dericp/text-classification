@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132628" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Nasdaq delists Comprehensive Environmental.</title>
+<headline>Nasdaq delists Comprehensive Environmental.</headline>
+<dateline>WEST BABYLON, N.Y. 1996-10-22</dateline>
+<text>
+<p>Comprehensive Environmental Systems Inc said Tuesday it has been delisted from Nasdaq because of allegations in recent indictments against a former chief operating officer and counsel of the company.</p>
+<p>The company, however, said it will seek a review of the Nasdaq delisting.</p>
+<p>The indictments against Leo Mangan, the company's former director and chief operating officer, and James Nearen, a director and counsel, relate to alleged securities fraud, stock manipulation and non-disclosure of past criminal records in prior filings with the U.S. Securities and Exchange Commission and Nasdaq.</p>
+<p>Comprehensive Environmental previously said both men left the company on September 12. The company also said it immediately stopped making payments to Mangan.</p>
+<p>The company said it remains optimistic about its prospects and its core operations and business fundamentals remain strong.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST BABYLON, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

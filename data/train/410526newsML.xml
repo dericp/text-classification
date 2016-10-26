@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="410526" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Pork carcass gross cut-out values - USDA.</title>
+<headline>Pork carcass gross cut-out values - USDA.</headline>
+<dateline>DES MOINES 1997-02-28</dateline>
+<text>
+<p>Estimated gross cutout values of a 175 lb hog carcass based on USDA cutting yield tests and carlot prices.</p>
+<p>Friday's carcass grades &amp; prices per cwt:</p>
+<p>			   US 1     US 2     US 3     US 4</p>
+<p>Change from	   73.84    72.00    70.16    68.32</p>
+<p>Thursday's  value:   0.99     0.97     0.95     0.93</p>
+<p>Average cutout value this week:</p>
+<p>			  71.70    69.91    68.12    66.33</p>
+<p>				     % OF    FOB</p>
+<p>			 WEIGHT   CARCASS  VALUE    CHANGE</p>
+<p>Skinned hams	14-20 Lb   21.01%  $72.00     2.00</p>
+<p>Loins, 1/4&quot; Trim  14-22 Lb   20.33% $129.00     1.00</p>
+<p>Bellies, Sdls.    12-14 Lb   13.90%  $75.00     2.00</p>
+<p>Spareribs	   3.5Dn Lb    3.03% $131.00</p>
+<p>Picnics		8-12 Lb   10.31%  $44.50     0.50</p>
+<p>Butts, 1/4&quot; Trim    4-8 Lb    7.25%  $86.50</p>
+<p>Jowl		     --	 2.85%  $26.00</p>
+<p>Neckbones		--	 1.52%  $17.00</p>
+<p>Feet		     --	 1.05%  $24.25</p>
+<p>Tails		    --	 0.22%  $60.00</p>
+<p>Trim 72%		 --	 2.19%  $63.00     1.00</p>
+<p>Lard		     --	10.85%  $24.25</p>
+<p>	Total carcass %    == 94.51%</p>
+<p>US #2 Carcass Value per cwt =  $72.00 NOTE: Value may change without adequate test.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

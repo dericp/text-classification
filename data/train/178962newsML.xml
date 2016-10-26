@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178962" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: &quot;Lake effect&quot; snows blanket Great Lakes area.</title>
+<headline>&quot;Lake effect&quot; snows blanket Great Lakes area.</headline>
+<dateline>CLEVELAND 1996-11-11</dateline>
+<text>
+<p>Arctic winds whipped up snow squalls off the Great Lakes and dumped heavy, wet snow on a half a dozen states on Monday, triggering several fatal traffic accidents and knocking out power to thousands.</p>
+<p>Snow plows were hastily equipped and sent out in force across the Lake Erie coastal city of Cleveland, where about two feet (.6 metre) of heavy, snow had snapped tree limbs and coated power lines. About 100,000 homes were without power in the city, a city spokesman said.</p>
+<p>&quot;We've had most schools close, although many were already closed for the (Veterans Day) holiday. And some people stayed home from work,&quot; said Latisha James, a press aide to Mayor Michael White.</p>
+<p>Sudden bouts of snow over the weekend caused as many as eight traffic-related deaths in Wisconsin, with some blinded drivers careering off highways, authorities said. Broadcast reports said another traffic death in Ohio was attributed to the weather.</p>
+<p>The thick, &quot;lake effect&quot; snow that began over the weekend was expected to continue through early Wednesday. It has been concentrated over a few miles -- and sometimes just a few hundred yards (metres) -- of coastline.</p>
+<p>The &quot;lake effect&quot; phenomenon occurs when cold air blows over the relatively warm Great Lakes and forms low-level clouds that release the moisture in the form of thick snow.</p>
+<p>Up to three feet (one metre) of snow inundated the Upper Peninsula of Michigan and northern Wisconsin as the cold air swept across Lake Superior. Squalls that formed over Lake Ontario dumped snow on a band of New York State from Syracuse to Watertown, and clouds whipped off Lake Michigan dropped deep drifts on northwestern Indiana and southwestern Michigan.</p>
+<p>A few inches (centimetres) accumulated at higher elevations across Pennsylvania and coated approaches to the Appalachian Mountains as far South as Georgia. &quot;It's like taking a garden hose and spraying it; the intensity gets weaker the further you get from the hose,&quot; said meteorologist Dave Taylor, of Weather Services Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

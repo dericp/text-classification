@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635583" id="root" date="1997-06-03" xml:lang="en">
+<title>HONG KONG: HK bourse says processing 13 listing applications.</title>
+<headline>HK bourse says processing 13 listing applications.</headline>
+<dateline>HONG KONG 1997-06-03</dateline>
+<text>
+<p>The Stock Exchange of Hong Kong Ltd said it was processing a total of 13 cases applying for listings in Hong Kong as at the end of May.</p>
+<p>All 13 companies have submitted advance booking forms for equity and debt securities (A1 forms) and furnished all required and necessary information, it said in a statement.</p>
+<p>Another 13 companies have been approved by the listing committee of the exchange but have not yet listed, it said.</p>
+<p>Another four companies have submitted A1 forms but their case were either inactive or on-hold, it added.</p>
+<p>The exchange said it also received preliminary enquiries from 13 companies but their A1 forms were not yet submitted.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370  http://www.hk97.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

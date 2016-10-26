@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="359501" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Bonneville offers no firm, peak power for Friday.</title>
+<headline>Bonneville offers no firm, peak power for Friday.</headline>
+<dateline>LOS ANGELES 1997-02-06</dateline>
+<text>
+<p>The Bonneville Power Administration (BPA) refrained from offering firm power during peak demand hours on Friday, the agency said Thursday.</p>
+<p>BPA had offered up to 300 megawatts (MW) of firm peak power for Thursday delivery at $16.00 per megawatt hour (MWh) for Northwest deliveries and $17.00 for California-Oregon border (COB) sales.</p>
+<p>Friday firm off-peak prices were unchanged at $10.50 per MWh for all deliveries.</p>
+<p>BPA also continued not to offer next-day non-firm power during morning and evening peaks (hours ending 0800-1000 and 1800-2000 PST).</p>
+<p>Non-firm power prices during shoulder hours (1100-1700 and 2100-2200) were lowered to $10.75 for all deliveries.</p>
+<p>Non-firm power during the hour ending 0700 PST on Friday was lowerd to $12.00 (Northwest) and $13.00 (COB).</p>
+<p>Non-firm power during off-peak hours on Friday was offered at $10.50 for all deliveries.</p>
+<p>BPA also offered displacement power during off-peak hours on Friday at $7.00 and $9.00 per MWh.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="803386" id="root" date="1997-08-15" xml:lang="en">
+<title>SWEDEN: TABLE - Swedish July unemployment rises to 9.1 pct.</title>
+<headline>TABLE - Swedish July unemployment rises to 9.1 pct.</headline>
+<dateline>STOCKHOLM 1997-08-15</dateline>
+<text>
+<p>Swedish unemployment rose to 9.1 percent in July from 8.8 percent in the previous month, Statistics Sweden said on Friday.</p>
+<p> SWEDISH UNEMPLOYMENT	 July 97     June 97    July 96</p>
+<p> Percent of workforce	 9.1	    8.8	  8.8</p>
+<p> Number of unemployed	 408,000     391,000     397,000</p>
+<p>NOTE - A Reuters poll found expectations of unemployment of 9.1 percent in July.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

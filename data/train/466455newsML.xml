@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="466455" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: Nucor says steel prices could rise in '97.</title>
+<headline>Nucor says steel prices could rise in '97.</headline>
+<dateline>PITTSBURGH 1997-03-25</dateline>
+<text>
+<p>Countering some Wall Street predictions that flat-rolled steel prices will fall this year, the president of Nucor Corp said Tuesday pricing will at worst be flat compared with 1996 and at best could rise three to four percent.</p>
+<p>&quot;I don't expect pricing to drop very much nor to increase,&quot; John Correnti told Reuters in a phone interview. &quot;It will be healthy...probably remain flat (from last year) but could rise three or four percent.&quot;</p>
+<p>Correnti said annual projections from the domestic automotive and construction markets, two of the steel industry's biggest customers, call for strong demand for steel this year and that could buoy prices.</p>
+<p>&quot;Demand is the driver in the pricing equation, not supply and imports,&quot; he said. &quot;If we get the 15 million vehicle builds and 1.4 million housing starts they're calling for...any price decreases I think will be tempered by that.&quot;</p>
+<p>Correnti noted the company's order books were &quot;pretty full&quot; through June. He declined to comment on whether Nucor will soon raise prices.</p>
+<p>&quot;I look at pricing on a weekly basis,&quot; he said. Nucor last raised prices in November, when it boosted hot-rolled and cold-rolled products by $10 per ton.</p>
+<p>Some industry analysts have predicted an erosion in steel prices this year, caused by supply pressure from new domestic minimill capacity and a heavy level of imports.</p>
+<p>&quot;I have two comments on that,&quot; Correnti said. &quot;First of all, you don't start all these new minimills in the first year (at their maximum production.) There will not be a flood of 11 million tons in the marketplace...it's more likely there will be two to three million new tons this year, then another two to three million in '98 and another two to three million in '99.&quot;</p>
+<p>As an example, Correnti noted that Nucor's new mill in Berkeley, South Carolina, will produce 800,000 to 1.0 million tons of flat-rolled steel this year, below its maximum capacity of 1.8 million tons.</p>
+<p>Commenting on heavy import predictions, Correnti said the majority of foreign material entering the domestic market is low quality and cannot meet the quality standards required by customers that are met by U.S. material.</p>
+<p>&quot;Most of what we see coming in is Russian material, and it's pretty much vanilla ice cream. It's very low quality and you can't do a lot with it. It's pretty close to junk.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

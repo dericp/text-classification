@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265447" id="root" date="1996-12-18" xml:lang="en">
+<title>FRANCE: France congratulates new UN chief.</title>
+<headline>France congratulates new UN chief.</headline>
+<dateline>PARIS 1996-12-18</dateline>
+<text>
+<p>France, which opposed the appointment of Kofi Annan as United Nations Secretary-General, congratulated him on Wednesday with a message of &quot;unqualified support&quot;, President Jacques Chirac's office said.</p>
+<p>Annan, a 58-year-old U.N. career official from Ghana, was sworn in on Tuesday as secretary-general from Jan. 1, 1997 until the year 2001.</p>
+<p>France long resisted Annan's appointment, favouring instead the outgoing U.N. chief Boutros Boutros-Ghali whose reappointment was blocked by Washington.</p>
+<p>&quot;I offer you wishes for the success of your action at the head of an organisation which, despite many vicissitudes, has managed to preserve an essential role in keeping and developing peace,&quot; Chirac wrote in a letter to Annan.</p>
+<p>Chirac also sent a long message to Boutros-Ghali insisting on the &quot;friendship and esteem&quot; France kept for him.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

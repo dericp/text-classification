@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="688966" id="root" date="1997-06-26" xml:lang="en">
+<title>BRAZIL: Sao Paulo industrial activity up 0.8 pct in May.</title>
+<headline>Sao Paulo industrial activity up 0.8 pct in May.</headline>
+<dateline>SAO PAULO 1997-06-26</dateline>
+<text>
+<p>Sao Paulo state's industrial activity rose 0.8 percent in May compared with May 1996, the Sao Paulo state industries Federation (Fiesp) said in a statement.</p>
+<p>However, May industrial activity fell 9.3 percent when compared with April 1997.</p>
+<p>April industrial activity was inflated this year due to the fact that the Easter holidays fell in March, Fiesp said.</p>
+<p>Industrial sales in May rose 5.4 percent from the same month in 1996 but dropped 10.1 percent from April, it said.</p>
+<p>((--Alexandre Caverni, Sao Paulo Newsroom, 55 11 2485418))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

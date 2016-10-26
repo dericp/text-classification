@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622702" id="root" date="1997-05-29" xml:lang="en">
+<title>USA: Int'l Lottery says New Hampshire renews deal.</title>
+<headline>Int'l Lottery says New Hampshire renews deal.</headline>
+<dateline>CINCINNATI 1997-05-29</dateline>
+<text>
+<p>International Lottery Inc said Thursday that the state of New Hampshire has exercised an option to renew a three-year contract with it.</p>
+<p>The new $2.6 million contract is for the lease and maintenance of instant ticket vending machines to be placed throughout the state. It is effective July 1, it said.</p>
+<p>The previous contract expires June 30, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I84000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

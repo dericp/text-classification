@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="312200" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: US sports, luxury cars cited for high claim losses.</title>
+<headline>US sports, luxury cars cited for high claim losses.</headline>
+<dateline>WASHINGTON 1997-01-16</dateline>
+<text>
+<p>U.S. sports and luxury cars have the highest insurance losses for vehicle damage and passenger vans and station wagons the lowest, according to a study issued on Thursday by the Highway Loss Data Institute.</p>
+<p>It said the high-performance Dodge Viper, made by the Chrysler Corp., had the worst overall collision loss among passenger vehicles.</p>
+<p>The Viper also had the highest losses last year, said Kim Hazelbaker, senior vice president of the institute, part of the industry-supported Insurance Institute for Highway Safety.</p>
+<p>He said the second highest average loss payment per insured vehicle year was the two-door luxury BMW 8 series, made by Bayerische Motoren-Werke AG.</p>
+<p>The best overall result was for the Mercury Sable station wagon, made by the Ford Motor Co., with the GMC Safari Van and Chevrolet Astro Van, both made by General Motors Corp., tied for second, Hazelbaker said.</p>
+<p>He said sports car claims were high because many of their owners were young and were careless drivers and luxury car claims were high because of the cost of parts and repairs.</p>
+<p>Hazelbaker said van and station wagons scored better because they were often driven by older people and families.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="I8200316">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

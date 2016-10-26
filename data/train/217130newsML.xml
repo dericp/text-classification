@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217130" id="root" date="1996-11-26" xml:lang="en">
+<title>PANAMA: Hutchison expects to win Panama ports contract.</title>
+<headline>Hutchison expects to win Panama ports contract.</headline>
+<dateline>PANAMA CITY 1996-11-26</dateline>
+<text>
+<p>A Panamanian unit of Hutchison Whampoa Ltd expects to be awarded a contract Tuesday to operate Panama's two main ports, an official of the Hong Kong-based consortium said.</p>
+<p>&quot;We're signing the contract today. We got all the final bits sorted out yesterday,&quot; said an official, who declined to be named.</p>
+<p>&quot;We can't comment until it's gone through all the ministries,&quot; the official said.</p>
+<p>Panama's cabinet is expected to approve the contract Wednesday. Once approved, Hutchison would take over operations of the ports on February 1.</p>
+<p>The Hong Kong group made a $22.2 million offer to operate the Cristobal port on the Atlantic coast and the Balboa port on the Pacific.</p>
+<p>Cristobal and Balboa -- the Panama Canal's points of entry -- handle 200,000 and 28,000 cargo containers a year, respectively.</p>
+<p>The United States is scheduled to turn over the ports to Panama next year.</p>
+<p>-- Laurens Grant, Panama City newsroom, 507 223 7739</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

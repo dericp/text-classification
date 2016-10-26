@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255346" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: ADR REPORT - ADRs flat in New York trade.</title>
+<headline>ADR REPORT - ADRs flat in New York trade.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>Foreign shares were flat in New York on Friday in quiet trade reflecting the larger market, traders said.</p>
+<p>&quot;The shares were basically down last night on the back of a sloppy Wall Street, and they've followed through this morning,&quot; a trader said.</p>
+<p>&quot;It looks as if they'll close generally lower, with nothing outstanding in individual stocks.&quot;</p>
+<p>Among European shares, Royal Dutch Petroleum Co rose 1/2 to 166 following a ratings upgrade by Schroder Wertheim to outperform from perform in line.  </p>
+<p>French television producer Groupe AB fell 1-1/4 to 19-3/4 a day after its American Depositary Receipts (ADRs) began trading in New York. Volume was 506,000 shares.</p>
+<p>Shares in Brazilian telecommunications holding Telebras rose 1/2 to 73-3/8 after the Brazilian government said it foresaw the company's partial sale next year and its breakup into regional units. Volume was a heavy 1.5 million shares.</p>
+<p>Decliners led advancers by a margin of 298 to 148 among an 807-ADR index. Volume was 22.7 million shares.</p>
+<p>((-- Ian Simpson, Wall Street desk, (212) 859-1879))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

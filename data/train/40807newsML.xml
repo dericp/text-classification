@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40807" id="root" date="1996-09-09" xml:lang="en">
+<title>UK: British customs seize record cocaine haul.</title>
+<headline>British customs seize record cocaine haul.</headline>
+<dateline>LONDON 1996-09-09</dateline>
+<text>
+<p>British customs officers at London's Heathrow airport on Monday seized 180 kilos (400 lb) of cocaine with a street value of 30 million pounds ($45 million) hidden in a container of cut flowers.</p>
+<p>It was Britain's biggest drugs haul this year and the largest ever at Heathrow.</p>
+<p>Unusually, the drugs were not found as the result of a targeted operation, but in a routine search by a sniffer dog of one of the holds on a passenger flight from South America.</p>
+<p>A Customs spokesman said: &quot;We feel very happy about this one now. It's an awful lot of cocaine which will not be hitting the streets.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

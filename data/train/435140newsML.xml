@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435140" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: RESEARCH ALERT - Emcare Holdings started.</title>
+<headline>RESEARCH ALERT - Emcare Holdings started.</headline>
+<text>
+<p>-- CS First Boston said analyst Joe France initiated coverage of EmCare Holdings Inc with a buy rating.  </p>
+<p>-- cites expectation of more hospitals to outsource emergency department services.</p>
+<p>-- set 12-month price target of 35.</p>
+<p>-- estimates 1997 earnings of $1.50 a share, compared with $1.25 a share excluding a charge in 1996.</p>
+<p>-- estimates 1998 earnings $1.80 a share.</p>
+<p>-- EmCare stock traded up 3/8 to 27-1/8 in early morning trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

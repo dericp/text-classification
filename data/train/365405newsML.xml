@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365405" id="root" date="1997-02-08" xml:lang="en">
+<title>GERMANY: Police detain two protesters at Berlin G7 meeting.</title>
+<headline>Police detain two protesters at Berlin G7 meeting.</headline>
+<dateline>BERLIN 1997-02-08</dateline>
+<text>
+<p>Police detained two people on Saturday as 300 anarchists staged an anti-capitalist protest in Berlin outside a meeting of financial leaders from the world's seven most industrialised nations, the G7.</p>
+<p>About 300 anarchists and punks donning rainbow-coloured hair and black ragged clothes marched through the centre of Berlin and stopped outside the Kronprinzenpalais (Crown Prince Palace), where the G7 meeting was taking place.</p>
+<p>Some carried banners with anti-capitalist slogans, such as: &quot;They tread on corpses to give money to the rich&quot;. Scuffles broke out between protesters and police but noone was injured.</p>
+<p>Police detained the two because they had broken a law requiring demonstrators to make themselves clearly identifiable. Police did not say how they were disguised, but some protesters had covered their heads with scarves.</p>
+<p>The demonstration later broke up and a large contingent marched on to west Berlin to join an anti-nuclear protest there.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+  <code code="GSEVEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

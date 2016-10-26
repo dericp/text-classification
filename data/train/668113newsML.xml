@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="668113" id="root" date="1997-06-17" xml:lang="en">
+<title>AUSTRALIA: Australia govt to keep aiming for low rates.</title>
+<headline>Australia govt to keep aiming for low rates.</headline>
+<dateline>CANBERRA 1997-06-17</dateline>
+<text>
+<p>The Australian government will keep up pressure to ensure that interest rates are as low as possible, Treasurer Peter Costello told a meeting of government members on Tuesday, according to a party spokesman.</p>
+<p>&quot;We will keep pressure on trying to keep interest rates as low as possible,&quot; spokesman Kevin Andrews quoted Costello as saying.  </p>
+<p>Andrews said Prime Minister John Howard told government members that recent interest rate cuts would flow through to the economy.</p>
+<p>&quot;He said that interest rates would flow through. He said there's a lag of 12 to 18 months between interest rate adjustments and consequences,&quot; Andrews told reporters.</p>
+<p>The Reserve Bank of Australia has eased monetary policy four times in less than a year, reducing rates by 0.5 percentage points each time. Official cash rates are now at 5.5 percent.</p>
+<p>The most recent cut was on May 23, while the first was in July last year. -- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

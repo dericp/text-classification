@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750315" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: United Payors Q2 shr $0.31 vs $0.29.</title>
+<headline>United Payors Q2 shr $0.31 vs $0.29.</headline>
+<dateline>ROCKVILLE, Md. 1997-07-22</dateline>
+<text>
+<p>Three Months Ended	 Six Months Ended</p>
+<p>				 June 30,		    June 30,</p>
+<p>			 1997	 1996	  1997	   1996</p>
+<p>Revenue	$13,726,000 $7,747,000  $27,278,000 $15,239,000</p>
+<p>Operating income:</p>
+<p>		  $5,716,000 $4,272,000  $10,687,000  $8,219,000</p>
+<p>Income before</p>
+<p>income taxes  $6,143,000 $4,267,000  $11,430,000  $8,349,000</p>
+<p>Net income    $3,661,000 $2,560,000   $6,811,000  $5,009,000</p>
+<p>Net income per share:</p>
+<p>			 $0.31	$0.29	  $0.58	 $0.57</p>
+<p>Weighted avg. shares outstanding:</p>
+<p>		  11,767,000  8,800,000   11,682,000   8,800,000</p>
+<p>NOTE: Full company name is United Payors &amp; United Providers Inc.</p>
+<p>(( --New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCKVILLE, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

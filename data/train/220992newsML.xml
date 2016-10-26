@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220992" id="root" date="1996-11-27" xml:lang="en">
+<title>ISRAEL: Israeli companies' foreign investments soar.</title>
+<headline>Israeli companies' foreign investments soar.</headline>
+<dateline>JERUSALEM 1996-11-27</dateline>
+<text>
+<p>Israeli companies invested $860 million abroad in the first 10 months of 1996, a 61 percent increase over the same period a year earlier, the Bank of Israel said on Wednesday.</p>
+<p>It said 1,400 Israeli companies had non-financial overseas investments, representing about 17 percent of their total capital.</p>
+<p>Last year, Israeli companies invested $693 million abroad compared with $704 million in 1994 and 1993.</p>
+<p>The Bank of Israel's foreign currency supervisory department reported the increase stemmed mainly from acquisitions of foreign pharmaceutical and software companies.</p>
+<p>Israeli companies invested mainly in North America -- $459 million in the first 10 months of this year compared with $259 million in January to October 1995.</p>
+<p>Two years ago, the Bank of Israel lifted all restrictions on the amount of non-financial investment Israeli companies could make abroad.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

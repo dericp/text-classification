@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="353929" id="root" date="1997-02-04" xml:lang="en">
+<title>COLOMBIA: Colombia's Corfivalle sets dividend.</title>
+<headline>Colombia's Corfivalle sets dividend.</headline>
+<dateline>BOGOTA 1997-02-04</dateline>
+<text>
+<p>Corporacion Financiera del Valle SA, Colombia's largest private financial corporation, said it would propose a dividend of 693 pesos per share at a shareholders' meeting set for February 24.</p>
+<p>The dividend, from net income of 39.27 billion pesos in 1996 versus 36.79 billion in 1995, would be paid no later than March 26, it said in a statement.</p>
+<p>For capitalization purposes, the statement said Corfivalle would also seek the approval of shareholders for the issuance of new stock consisting of 757,699 preferred but non-voting shares and 4.2 million ordinary shares.</p>
+<p>((-- Javier Mozzo, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

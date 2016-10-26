@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243238" id="root" date="1996-12-09" xml:lang="en">
+<title>CZECH REPUBLIC: One dead, 40 injured in Czech train crash - agency.</title>
+<headline>One dead, 40 injured in Czech train crash - agency.</headline>
+<dateline>PRAGUE 1996-12-09</dateline>
+<text>
+<p>One person was killed and at least 40 others were injured when two Czech trains collided on Monday on the Turnov-Hradec Kralove line, northeast of Prague, the news agency CTK reported.</p>
+<p>CTK said the accident occurred at about 7 a.m. (0600 GMT) when a passenger train collided with a cargo train near the village of Sedmihorky, about 100 km (60 miles) north-east of Prague.  </p>
+<p>CTK said Czech Railways spokeswoman Hana Dluhosova confirmed the crash and casualties, but could give no further details.</p>
+<p>She added that there was no initial indication as to why the accident had occured.</p>
+<p>The injured were taken to hospitals in the nearby town of Turnov, about five Km from Sedmihorky.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

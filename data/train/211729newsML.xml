@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="211729" id="root" date="1996-11-22" xml:lang="en">
+<title>SOUTH KOREA: Mirae ends limit-up, other IPOs mixed.</title>
+<headline>Mirae ends limit-up, other IPOs mixed.</headline>
+<dateline>SEOUL 1996-11-22</dateline>
+<text>
+<p>South Korea's Mirae Corp shares finished their first day of trading 4,200 won higher at their upper limit of 74,200 won per share, the Korea Stock Exchange said on Friday.</p>
+<p>Wooshin Industries Co Ltd  also rose, gaining 2,400 won to its upper limit of 42,400 per share.</p>
+<p>However, two other newly listed shares fell to their lower limits. Dong Won Fisheries Co Ltd  lost 700 won to 12,300, and Kohap Petrochemical Corp  shed 900 won to 14,100.  </p>
+<p>No Mirae shares changed hands as no holders were willing to sell, the bourse said.</p>
+<p>The four debutants were only open for business during the morning session, to ensure that the exchange computer was not overwhelmed by orders, it added.</p>
+<p>On the first day of LG Semicon listing on November 9, the exchange had to halt trading in the shares because the computer system was paralysed by a deluge of sell orders.</p>
+<p>The newly listed shares will see normal trading from Monday.</p>
+<p>-- Seoul Newsroom (822) 727 5644</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I41500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="419384" id="root" date="1997-03-04" xml:lang="en">
+<title>AUSTRALIA: RTRS-Queensland says 500 mine applications frozen.</title>
+<headline>RTRS-Queensland says 500 mine applications frozen.</headline>
+<dateline>BRISBANE 1997-03-04</dateline>
+<text>
+<p>The Queensland state government said on Tuesday it has delayed about 500 mining exploration applications in the state until land tenure security issues are clarified in the wake of a ruling by Australia's High Court.</p>
+<p>The government also said it was canvassing state financial institutions to try to persuade lenders to mining projects not to foreclose on borrowers as a result of the uncertainty.</p>
+<p>&quot;This is a national problem. I would ask financiers to simply put into cold storage those loans until such time as we can resolve this issue,&quot; Queensland mines and energy minister Tom Gilmore said.  </p>
+<p>Speaking at the launch of the state government's 1996/97 minerals and energy review, Gilmore said it would be wrong for banks to foreclose on mining projects.</p>
+<p>&quot;It would be entirely unfair and in my view, unreasonable and improper for banking organisations to foreclose on people in the mining industry who are affected by native title through no fault of their own,&quot; Gilmore said.</p>
+<p>&quot;If the banking institutions of this state and this nation can't see that, I feel sorry for them and disgusted with them,&quot; Gilmore said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

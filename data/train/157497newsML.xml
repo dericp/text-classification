@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157497" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. Global Investors Q1 shr up to $0.12.</title>
+<headline>U.S. Global Investors Q1 shr up to $0.12.</headline>
+<dateline>SAN ANTONIO 1996-10-31</dateline>
+<text>
+<p>Financial Highlights</p>
+<p>						    Three Months Ended</p>
+<p>						    9/30/96    9/30/95</p>
+<p>Revenues					 $3,983,037  $5,016,495</p>
+<p>Net earnings before income taxes	    786,077     524,134</p>
+<p>Provision for federal income taxes	  214,441     218,644</p>
+<p>Net earnings				   $  571,636  $  305,490</p>
+<p>Earnings Per Share</p>
+<p>  Net earnings before income taxes	    $0.12	 $0.08</p>
+<p>  Provision for federal taxes		    0.03	  0.03</p>
+<p>Net earnings per share			    $0.09	 $0.05</p>
+<p>Weighted Average Shares Outstanding</p>
+<p>  Primary and Fully Diluted		 6,619,329   6,611,599</p>
+<p>Full company name is U.S. Global Investors Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="552494" id="root" date="1997-04-30" xml:lang="en">
+<title>JAPAN: Japan March housing starts fall 7.5 pct yr/yr.</title>
+<headline>Japan March housing starts fall 7.5 pct yr/yr.</headline>
+<dateline>TOKYO 1997-04-30</dateline>
+<text>
+<p>Japan's housing starts in March fell 7.5 percent from a year earlier to 113,218 units, the Construction Ministry said on Wednesday. It was the third consecutive month of year-on-year declines.</p>
+<p>					Mar starts   yr/yr pct change</p>
+<p> Private homes			40,189	    -17.8</p>
+<p> Rental homes			 40,572	     -4.7</p>
+<p> Employee housing		    1,756	     -6.5</p>
+<p> Housing built for sale	   30,701	     +5.7</p>
+<p>  Condominiums			18,512	    +16.1</p>
+<p> Total				 113,218	     +7.5</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

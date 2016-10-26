@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560423" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Thermo Sentron Inc Q1 net rises.</title>
+<headline>Thermo Sentron Inc Q1 net rises.</headline>
+<dateline>MINNEAPOLIS 1997-05-05</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>							   3/29/97   3/30/96</p>
+<p> Revenues						 $17,981 $16,697</p>
+<p>Costs and Operating Expenses:</p>
+<p>   Cost of revenues				    11,085  10,246</p>
+<p>Selling, general, and administrative expenses</p>
+<p>								4,723   4,503</p>
+<p>   Research and development expenses		  436     560</p>
+<p>							     16,244  15,309</p>
+<p> Operating Income					 1,737   1,388</p>
+<p> Interest and Other Income (Expense), Net	   437   (151)</p>
+<p> Income Before Provision for Income Taxes	 2,174   1,237</p>
+<p> Provision for Income Taxes			     826     495</p>
+<p> Net Income						 1,348     742</p>
+<p> Earnings per Share					 .14     .11</p>
+<p> Weighted Average Shares				9,875   7,027</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

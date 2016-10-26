@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42379" id="root" date="1996-09-09" xml:lang="en">
+<title>HONG KONG: Asia Commercial year net loss HK$959 mln.</title>
+<headline>Asia Commercial year net loss HK$959 mln.</headline>
+<dateline>HONG KONG 1996-09-09</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   64.8 loss   vs 11.1 loss</p>
+<p>    Dividend (H.K. cents)    nil	   vs nil</p>
+<p>    Exceptional items	  651.37 loss vs nil</p>
+<p>    Net			    958.95 loss vs 166.03 loss</p>
+<p>    Turnover		     1,826.13    vs 2,212.82</p>
+<p>    Company name		 Asia Commercial Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Asia Commercial is a maker of watch parts and floppy disk drives.</p>
+<p>Net is after an exceptional loss on provision for diminution in value of properties under development and completed properties for sale, restructuring costs, provision for slow moving stocks and doubtful debts.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong News Room (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

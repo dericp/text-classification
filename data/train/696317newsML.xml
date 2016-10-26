@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696317" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Indiana corn condition improves from prev week.</title>
+<headline>Indiana corn condition improves from prev week.</headline>
+<dateline>LAFAYETTE, Ind. 1997-06-23</dateline>
+<text>
+<p>The corn crop as of Sunday was 62 percent good to excellent, above the 54 percent in that category the previous week, according to the Indiana Agricultural Statistics Service.</p>
+<p>Thirty percent of the crop was fair and eight percent was poor to very poor.</p>
+<p>The soybean crop was 98 percent seeded as of Sunday and the crop was 61 percent good to excellent, 31 percent fair and eight percent poor to very poor.</p>
+<p>Winter wheat harvest was four percent complete, up from three percent a week ago.</p>
+<p>Winter wheat condition was 10 percent excellent, 54 percent good, 27 percent fair, seven percent poor and two percent very poor.</p>
+<p>Topsoil moisture levels were 24 percent surplus, 74 percent adequate and two percent short. Subsoil moisture levels were 26 percent surplus, 73 percent adequate and one percent short.</p>
+<p>Pasture conditions were nine percent excellent, 65 percent good, 22 percent fair, three percent poor and one percent very poor.</p>
+<p>((Chicago Newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAFAYETTE, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

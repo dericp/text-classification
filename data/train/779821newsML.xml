@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779821" id="root" date="1997-08-05" xml:lang="en">
+<title>UK: CSFB sets warrants on U.S. 30-year Treasury bond.</title>
+<headline>CSFB sets warrants on U.S. 30-year Treasury bond.</headline>
+<dateline>LONDON 1997-08-05</dateline>
+<text>
+<p>Credit Suisse First Boston, Zurich said it has issued four million American-style call and put warrants, in four equal tranches, on the 6.625 pct U.S. Treasury bond due February 2027.</p>
+<p>COMMON TERMS:</p>
+<p> EXERCISE PERIOD 20.AUG.97-30.JUN.98   PAYDATE	19.AUG.97</p>
+<p> LISTING	   NONE			MIN EXER LOT 100</p>
+<p> SPOT REFERENCE  102.0 PCT   US$/CHF 1.5261</p>
+<p>* * * * *</p>
+<p> TYPE	 STRIKE     ISSUE     PREMIUM</p>
+<p> CALL	 102.0 PCT  4.93 CHF  3.17 PCT</p>
+<p> PUT	  102.0 PCT  5.62 CHF  3.61 PCT</p>
+<p> CALL	 106.0 PCT  2.70 CHF  5.66 PCT</p>
+<p> PUT	   98.0 PCT  3.00 CHF  5.85 PCT</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

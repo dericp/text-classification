@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547248" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: U.S. FDIC proposes insurance rule clarifications.</title>
+<headline>U.S. FDIC proposes insurance rule clarifications.</headline>
+<dateline>WASHINGTON 1997-04-29</dateline>
+<text>
+<p>The U.S. Federal Deposit Insurance Corp issued a proposal on Tuesday to simplify and clarify some of the agency's insurance rules.</p>
+<p>The agency said the new rules would include simple examples to enable an average depositor to quickly understand what types of coverage are available.</p>
+<p>The proposal would also give the agency more flexibility to insure third-party deposits made by law firms, real estate agents, title companies and other businesses on behalf of customers.  </p>
+<p>Also, the proposal would create a six-month grace period after a depositor's death for beneficiaries to rearrange inherited accounts if necessary to avoid going over the $100,000 insurance limit.</p>
+<p>The agency's board of directors instructed its staff to study whether deposit insurance coverage would be significantly expanded if the rules governing joint accounts and payable-on-death accounts were further simplified. Such simplification was not proposed on Tuesday.</p>
+<p>The agency will accept written comments on the proposal for 90 days.</p>
+<p>--Aaron Pressman((202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

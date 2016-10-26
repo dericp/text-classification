@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321886" id="root" date="1997-01-21" xml:lang="en">
+<title>FRANCE: Second car bomb kills one, wounds 10 in Algiers.</title>
+<headline>Second car bomb kills one, wounds 10 in Algiers.</headline>
+<dateline>PARIS 1997-01-21</dateline>
+<text>
+<p>A second car bomb explosion on Tuesday evening killed one and wounded 10 in Algiers, an official statement said.  </p>
+<p>Algerian security forces, in a statement carried by the official Algerian news agency APS, said the car bomb exploded near a children's merry-go-round at Boulevard Khelifa Oulmane in the El Madania district of Algiers.</p>
+<p>Residents had said earlier that the explosion had occurred in the city's Ryad el Feth trade centre, less than four hours after a car bomb blast killed at least six people nearby.</p>
+<p>The centre is located in the avenue named in the official statement which did not specify whether the merry-go-round was inside the centre or not.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

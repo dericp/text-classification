@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463895" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: Thermo Cardiosystems sees flat sales.</title>
+<headline>Thermo Cardiosystems sees flat sales.</headline>
+<dateline>WOBURN, Mass. 1997-03-24</dateline>
+<text>
+<p>Thermo Cardiosystems Inc said Monday it anticipates that sales will remain generally flat, compared with corresponding periods in the prior year.</p>
+<p>The company said it has recently delivered the majority of the data required by the U.S. Food and Drug Administration (FDA) for their consideration in deciding whether to grant commercial approval for the company's battery-powered HeartMate left ventricular-assist system.</p>
+<p>The company said it sees flat sales until this approval is obtained from the FDA.  The company said more than 45 years of patient data were collected over the course of the company's clinical trials, which began in 1991.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WOBURN, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

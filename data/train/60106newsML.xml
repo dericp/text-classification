@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60106" id="root" date="1996-09-17" xml:lang="en">
+<title>SWITZERLAND: Swiss Q2 GDP falls at annual rate of 0.9 pct.</title>
+<headline>Swiss Q2 GDP falls at annual rate of 0.9 pct.</headline>
+<dateline>BERNE 1996-09-17</dateline>
+<text>
+<p>Switzerland's Gross Domestic Product (GDP) fell at an annual, seasonally-adjusted rate of 0.9 percent in the second quarter of 1996, compared with the first quarter of 1996, the Federal Statistics office said.</p>
+<p>The first quarter GDP showed a revised decline of 0.8 percent. On June 11, the statistics office had reported that the first quarter GDP fell 1.0 percent.</p>
+<p>Compared with the second quarter of 1995, the 1996 second quarter GDP was down 0.5 percent.  </p>
+<p>GDP at 1980 prices. Percentage changes versus previous quarter, seasonally adjusted, projected on annual basis:</p>
+<p>					Q2 1996     Q1 1996    Q2 1995</p>
+<p> Gross Domestic Product	 -0.9	  -0.8	 -1.2</p>
+<p> Private household consumption 1.4	   1.1	  1.0</p>
+<p> Public sector consumption    -0.3	  -0.4	 -0.5</p>
+<p> Fixed asset investment	  0.8	   3.0	 -2.1</p>
+<p> Domestic demand		  -1.8	  -0.9	 -0.6</p>
+<p> Exports			    -0.3	   1.1	  2.6</p>
+<p> Imports			    -2.3	   0.6	  3.4</p>
+<p>Percentage changes compared with corresponding quarter of previous year.</p>
+<p>					 Q2 1996     Q1 1996    Q2 1995</p>
+<p> Gross Domestic Product	 -0.5	  -0.6	  0.0</p>
+<p> Private household consumption 0.0	   0.5	  1.6</p>
+<p> Public sector consumption    -0.5	  -0.5	  0.1</p>
+<p> Fixed asset investment	  1.3	   0.7	  1.4</p>
+<p> Domestic demand		  -1.3	  -0.9	  1.3</p>
+<p> Exports			     1.3	   3.4	  5.4</p>
+<p> Imports			    -0.6	   2.5	  7.7</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

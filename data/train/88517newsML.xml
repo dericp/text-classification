@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88517" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: IBM to form consortium for data encryption.</title>
+<headline>IBM to form consortium for data encryption.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>IBM on Wednesday will announce a corporate consortium to collaborate on software for decoding data that has been scrambled for security and privacy as part of a new White House plan to ease export controls on data encryption, the computer giant said.</p>
+<p>Earlier Tuesday, the Clinton administration released a new policy to relax the export controls on software that is encrypted, or encoded, by complex mathematical formulas called algorithms.</p>
+<p>Armonk, N.Y.-based International Business Machines Corp. will be joined in the consortium by Digital Equipment Corp. of Maynard, Mass.; a small private firm called Trusted Information Systems of Baltimore, and a few others, IBM and Digital said.</p>
+<p>Until now, the U.S. government has only allowed the export of software with weak encryption, and encryption has been classified as a munition because of its potential for use by terrorists, spies or other criminals.</p>
+<p>Part of the White House plan requires that the software developers agree to have a so-called key recovery system as part of their software, to give the government or a third party access to the data, if necessary, through a court order.</p>
+<p>IBM and its partners in the consortium plan to lay out a road map for the industry to develop key recovery techniques which do not have to be kept in escrow by a third party.</p>
+<p>The computer maker and its partners are devising a method that will unlock the data in several steps, and the key to unlock the scrambled data is actually carried in the data itself, in a &quot;locked box.&quot;</p>
+<p>Industry executives likened the data recovery technique to putting a combination lock on the front door of your home, with an unlimited number of digits to unlock it.</p>
+<p>&quot;You can give out one part of the combination to one neighbour, another part of the combination to another neighbour ... and no one but me knows the sequence they go in,&quot; said one industry executive.</p>
+<p>The government would only be able to obtain certain relevant parts of the message it was looking for by subpoena.</p>
+<p>&quot;The whole importance is to design a set of protocols so that when you need a third party to decode it, you don't expose more than the actual message,&quot; said Samuel Fuller, vice president of technical strategy at Digital Equipment Corp.</p>
+<p>The companies said the method will work with the most widely used method of encryption on the Internet, developed by RSA Data Security Inc. of Redwood City, Calif.</p>
+<p>Fuller said the new export plan provides &quot;immediate relief&quot; for Digital's customers who are concerned about secure communications across the Internet and other computer networks.</p>
+<p>An executive at Trusted Information Systems declined to comment on whether it is involved in the IBM consortium. The company is in a so-called quiet period before making an initial public offering.</p>
+<p>The companies believe, that given the new export policy -- which will require that companies outline a plan so that law enforcement officers can &quot;recover&quot; or unscramble encrypted data -- data recovery will become a valid and important business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

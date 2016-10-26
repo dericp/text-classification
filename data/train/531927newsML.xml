@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="531927" id="root" date="1997-04-23" xml:lang="en">
+<title>JAPAN: Japan Apr 1st 10 days trade surplus 94.27 bln yen.</title>
+<headline>Japan Apr 1st 10 days trade surplus 94.27 bln yen.</headline>
+<dateline>TOKYO 1996-04-24</dateline>
+<text>
+<p>Japan posted a customs-cleared trade surplus of 94.27 billion yen in the first 10 days of April, compared with a deficit of 240.32 billion yen in the same period a year earlier, the Finance Ministry said on Thursday.</p>
+<p>Free-on-board (FOB) exports rose 32.8 percent from a year earlier to 1.496 trillion yen while cost, insurance and freight (CIF) imports rose 2.5 percent to 1.402 trillion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

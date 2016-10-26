@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="469529" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Five Illinois counties to vote on tax caps.</title>
+<headline>Five Illinois counties to vote on tax caps.</headline>
+<dateline>CHICAGO 1997-03-26</dateline>
+<text>
+<p>Voters in five Illinois counties will vote on property tax limitations next Tuesday, according to the State Board of Elections.</p>
+<p>Adams, McDonough, McLean, Shelby and Stephenson counties have placed measures on the ballot to limit annual increases in local property tax collections to five percent or the rate of inflation, whichever is less.</p>
+<p>The limitation would also prohibit the issuance of general obligation bonds without voter approval.</p>
+<p>Last November, voters in 18 out of 19 counties that placed the measure on the ballot approved tax caps. A 1996 state law allowed 96 counties outside of the Chicago area to decide whether to hold a vote on tax caps.</p>
+<p>Prior to the passage of the law, tax caps were put in place by the General Assembly in six Chicago area counties.</p>
+<p>((--Karen Pierog, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

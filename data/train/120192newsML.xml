@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120192" id="root" date="1996-10-16" xml:lang="en">
+<title>AUSTRALIA: Australian port conditions - Lloyds.</title>
+<headline>Australian port conditions - Lloyds.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>AUSTRALIA, Oct 14 - COAL - QUEENSLAND - Abbot Point - Berth vacant, 9 vessels due by 23/11, no delays.</p>
+<p>Dalrymple Bay - One vessel loading, 2 waiting, 15 vessels due by 24/10. Approx. 1-2 days delay. Maintenance shutdown scheduled for 4/11 to 9/11.</p>
+<p>Hay Point - Two vessels loading, 6 waiting, 5 due by 20/10. Berths 1 and 2 were closed from 1900 hours 9/10 to 0600 hours 10/10 due to strong wind and heavy seas.</p>
+<p>Gladstone - Barney Point - No vessels due to major shutdown to upgrade terminals plant and equipment. First train arrived at Barney Point for unloading 11/10. First vessel to load scheduled for approx. 10/11.</p>
+<p>R.G. Tanna - 2 Vessels loading, 5 waiting, 24 due by 25/11, approx. 2-3 days delay.</p>
+<p>NEW SOUTH WALES - Newcastle - Kooragang -  2 Vessels loading, 8 waiting, 5 due by 28/10, approx. 4-5 days delay. Dyke 4+5 - 2 Vessels loading, 2 waiting, 17 due by 28/10, approx. 1-2 days delay.</p>
+<p>Port Kembla - Berth vacant, 17 vessels due 3/11, no delays.</p>
+<p>IRON ORE - Port Hedland - Mt. Newman (Nelson Point) - Berth a - 1 Vessel loading, 1 anchored, 6 due by 21/10. Berth b - 1 Vessel loading, 7 due by 20/10, 7 other vessels due with no eta.</p>
+<p>Goldsworthy (Finucane Island) - 3 Vessels due by 23/10.</p>
+<p>Dampier - Parker Point - 1 Vessel loading, 1 anchored, 1 due 15/10.</p>
+<p>E.I. Island - 2 Vessels due by 17/10.</p>
+<p>Dampier lineup - 19 Vessels due.</p>
+<p>Port Walcott - One vessel loading, 8 due by 28/10.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

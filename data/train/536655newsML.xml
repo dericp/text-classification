@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536655" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Daschle sees possible movement on US budget accord.</title>
+<headline>Daschle sees possible movement on US budget accord.</headline>
+<dateline>WASHINGTON 1997-04-24</dateline>
+<text>
+<p>Senate Democratic Leader Tom Daschle said on Thursday he was encouraged by apparent movement towards an accord on the federal budget.</p>
+<p>&quot;With the reports I've been getting in the last couple of days, there appears to be movement,&quot; Daschle told reporters.  </p>
+<p>Daschle added: &quot;I don't want to characterize the movement except to say that I think that there appears to be an interest and willingness on both sides to see if we might find common ground and agreement. And that's encouraging...&quot;</p>
+<p>Democratic leaders and Democrats involved in the budget process will meet President Clinton at the White House Thursday morning to discuss the budget.</p>
+<p>Daschle said he hoped the meeting would clarify priorities and he was &quot;increasingly optimistic&quot; that someting could be done.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

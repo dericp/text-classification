@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461990" id="root" date="1997-03-23" xml:lang="en">
+<title>AUSTRALIA: RTRS-Rugby league-Australian Super League standings/results.</title>
+<headline>RTRS-Rugby league-Australian Super League standings/results.</headline>
+<dateline>SYDNEY 1996-03-24</dateline>
+<text>
+<p>Results of Australian Super League rugby league matches played at the weekend.</p>
+<p>Played Sunday:</p>
+<p> Perth		34  Canterbury	   6</p>
+<p> Penrith	    38  Cronulla	    10</p>
+<p>Played Saturday:</p>
+<p>Hunter Mariners  38  North Queensland  10</p>
+<p>Played Friday:</p>
+<p> Auckland	   12  Adelaide	    16</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403287" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: MASSBANK to buy Glendale Co-operative.</title>
+<headline>MASSBANK to buy Glendale Co-operative.</headline>
+<dateline>EVERETT, Mass. 1997-02-26</dateline>
+<text>
+<p>Glendale Co-operative Bank of Everett, Mass., said on Wednesday it signed a definitive agreement to be acquired by MASSBANK Corp of Reading, Mass., for $7.38 million in cash.</p>
+<p>The deal is valued at $28.00 per share. Glendale's shares were trading at 23 at midday, up a point from Tuesday's closing price. The stock's 52-week high was 25.</p>
+<p>The move is subject to approval by regulators and Glendale stockholders.</p>
+<p>Glendale has assets of $36.9 million.</p>
+<p>	  ((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EVERETT, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

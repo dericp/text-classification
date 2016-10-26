@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309075" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: Freddie Mac injects $704 mln into three REMICs.</title>
+<headline>Freddie Mac injects $704 mln into three REMICs.</headline>
+<dateline>NEW YORK 1997-01-15</dateline>
+<text>
+<p>The Federal Home Loan Mortgage Corp (FHLMC) said it increased the collateral of three previously issued Real Estate Mortgage Investment Conduit (REMIC) Securities.</p>
+<p>REMIC 1926, underwritten by Bear Stearns Cos Inc, has been increased to $487.5 million from $325 million, Freddie Mac said. The issue is backed by collateral series C31, FHLMC said.</p>
+<p>REMIC 1927, underwritten by Bear Stearns Cos Inc, has been increased by a total of $245 million, the agency said. The issue is backed by about $465 million of 30-year 7.5 percent single family fixed rate mortgages and $285 million of 30-year 6.5 percent single family fixed rate mortgages, said Freddie Mac.</p>
+<p>REMIC 1921, underwritten by Lehman Bros Holding Inc, has been increased to $496.5 million from $200 million, FHLMC said. The issue is backed by about $356.5 million of 30-year 6.5 percent single family fixed rate mortgages and $140 million of 30-year 7.5 percent paper, Freddie Mac said.</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

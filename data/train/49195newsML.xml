@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49195" id="root" date="1996-09-12" xml:lang="en">
+<title>ECUADOR: Ecuador needs investment to avoid power rationing.</title>
+<headline>Ecuador needs investment to avoid power rationing.</headline>
+<dateline>QUITO 1996-09-12</dateline>
+<text>
+<p>Ecuador urgently needs private investment in its electricity sector to avoid further energy rationing, Energy and Mines Minister Alfredo Adum said.</p>
+<p>Adum told local television on Thursday that the experience of countries like Chile and Argentina has shown that energy generation was handled more efficiently by private industry.</p>
+<p>He said that it was vital Congress pass a new electricity bill currently under debate after being vetoed by the previous government of Sixto Duran Ballen.</p>
+<p>&quot;That new law must pass because it is the only way of attracting foreign investment in building new hydroelectric plants,&quot; Adum said.</p>
+<p>Ecuador, which suffered up to eight hours a day of electricity rationing in 1995, generates 70 percent of the power available to its 11.4 million inhabitants at the Paute hydroelectric dam.</p>
+<p>But Electroquil power firm warned that if the level of Paute's dam waters keeps falling at the present rate, more rationing will be necessary in 10 to 15 days.</p>
+<p>President Abdala Bucaram said that power shortages restrict economic growth and said that the country needs $5 billion invested in generation.</p>
+<p>-- Gustavo Oviedo, Quito Newsroom +5932 25-8433</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="QUITO"/>
+<dc element="dc.creator.location.country.name" value="ECUADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

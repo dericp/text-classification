@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="413498" id="root" date="1997-03-02" xml:lang="en">
+<title>CHINA: Five die in Greek ship fire in Shanghai shipyard.</title>
+<headline>Five die in Greek ship fire in Shanghai shipyard.</headline>
+<dateline>SHANGHAI 1997-03-02</dateline>
+<text>
+<p>Five people were killed and four injured when a fire ripped through a Greek-flagged ship being repaired in a Shanghai shipyard on Friday afternoon, the Xinmin Evening News said.</p>
+<p>More than 300 firemen spent 1-1/2 hours battling the blaze, caused by electric welding equipment, in the Shanghai Lifeng Shipyard, the newspaper's late Saturday edition said.</p>
+<p>The injured were rushed to hospital, in what Shanghai's Vice-Mayor Xia Keqiang said was the most serious blaze in the city so far this year.</p>
+<p>The nationalities of the dead and injured were not immediately clear and the name of the ship could not be confirmed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

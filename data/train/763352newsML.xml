@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763352" id="root" date="1997-07-29" xml:lang="en">
+<title>UNITED NATIONS: U.N. Lebanon force renewed for another 6 months.</title>
+<headline>U.N. Lebanon force renewed for another 6 months.</headline>
+<dateline>UNITED NATIONS 1997-07-29</dateline>
+<text>
+<p>The Security Council on Tuesday approved a six-month renewal, until Jan. 31, 1998, of the U.N. Interim Force in Lebanon (UNIFIL).</p>
+<p>The renewal resolution was adopted unanimously, without debate.</p>
+<p>The 4,488-member force was established in 1978 to restore the Lebanese government's authority over the southern part of the country after an Israeli incursion against Palestinian guerrillas.</p>
+<p>After Israel withdrew its troops following a 1982 invasion, it retained a so-called security zone along the Lebanese side of the border, aided by its allies of the South Lebanon Army militia, to block attacks against northern Israel.</p>
+<p>This has resulted in frequent clashes, mainly with Iranian-backed guerrillas, and also prevents the deployment of UNIFIL up to the international border.</p>
+<p>The U.N. force consists of contingents from Fiji, Finland, France, Ghana, Ireland, Italy, Nepal, Norway and Poland. Its commander is Polish Major-General Stanislaw Wozniak.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

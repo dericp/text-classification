@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143265" id="root" date="1996-10-25" xml:lang="en">
+<title>ROMANIA: Romania T-bill issue heavily oversubscribed.</title>
+<headline>Romania T-bill issue heavily oversubscribed.</headline>
+<dateline>BUCHAREST 1996-10-25</dateline>
+<text>
+<p>Eight Romanian banks rushed to snap up fresh treasury bills on Friday amid a money market flooded with leu funds, latest central bank data showed.</p>
+<p>The finance ministry issue of 119 billion leu worth of three-month treasury bills had been heavily oversubscribed with banks' bids amounting to 503.1 billion.</p>
+<p>The 91-day T-bills maturing on January 24, 1997 were offered with a coupon giving an annual yield of 50.15 percent.</p>
+<p>Banca Comerciala Romana SA, Banc Post SA, Banca Romana pentru Dezvoltare SA, Bankcoop SA, Banca Ion Tiriac SA, Casa de Economii si Consemnatiuni and  Bancorex SA along with their corporate clients bought the new papers.</p>
+<p>($=3,332 lei)</p>
+<p>-- Mirela Eremia, Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449146" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Johnson unit has 94 pct of Innotech Inc.</title>
+<headline>Johnson unit has 94 pct of Innotech Inc.</headline>
+<dateline>NEW BRUNSWICK, N.J. 1997-03-18</dateline>
+<text>
+<p>Johnson &amp; Johnson said Tuesday that its wholly owned subsidiary, INO Acquisition Corp, has accepted for payment 8,422,121 shares of common stock of Innotech Inc at $13.75 per share, pursuant to Johnson &amp; Johnson's tender offer which expired March 17.</p>
+<p>As a result of the tender offer, INO now owns about 94 percent of Innotech's common stock, and Johnson &amp; Johnson said it expects prompt consummation of the merger of INO and Innotech.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="I37300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW BRUNSWICK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

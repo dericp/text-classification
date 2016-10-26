@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645507" id="root" date="1997-06-08" xml:lang="en">
+<title>YUGOSLAVIA: SOCCER-YUGOSLAVIA BEAT SLOVAKIA 2-0.</title>
+<headline>SOCCER-YUGOSLAVIA BEAT SLOVAKIA 2-0.</headline>
+<dateline>BELGRADE 1997-06-08</dateline>
+<text>
+<p>Yugoslavia beat Slovakia 2-0 in their World Cup European group six qualifier on Sunday.</p>
+<p>Scorers: Dejan Savicevic 17, Predrag Mijatovic 75</p>
+<p>Attendance 40,000</p>
+<p>Teams:</p>
+<p>Yugoslavia - 1-Ivica Kralj, 2-Zoran Mirkovic 3-Goran Djorovic, 4-Slavisa Jokanovic, 5-Miroslav Djukic, 6-Sinisa Mihajlovic, 7-Vladimir Jugovic, 8-Dejan Savicevic (14-Dejan Govedarica 88), 9-Predrag Mijatovic, 10-Dragan Stojkovic, 11-Albert Nadj, (15-Ljubinko Drulovic 73).</p>
+<p>Slovakia - 1-Vladislav Molnar, 2-Marian Zeman, 3-Miroslav Karhan, 4-Robert Tomaschek (Julius Simon 45), 5-Vladimir Kinder, 6-Dusan Tittel, 7-Igor Balis, 8-Marek Spilar, 9-Tibor Jancula (19-Jozef Kozlej 80), 10-Jozef Majoros (16-Sailard Nemet 66), 11-Lubomir Moravcik.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

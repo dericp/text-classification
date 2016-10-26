@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179560" id="root" date="1996-11-11" xml:lang="en">
+<title>ITALY: SOCCER-JUVENTUS COACH LIPPI VOTED ITALY'S BEST.</title>
+<headline>SOCCER-JUVENTUS COACH LIPPI VOTED ITALY'S BEST.</headline>
+<dateline>FLORENCE, Italy 1996-11-11</dateline>
+<text>
+<p>Marcello Lippi, who steered Juventus to the European Cup in May, was voted the best coach in Italy for the second year running on Monday.</p>
+<p>Coaches from serie A and serie B teams gathered at a conference at the Italian federation's training ground near Florence to vote for the best coach of 1995-96.</p>
+<p>Lippi said afterwards that he had invited former Juventus players -- such as strikers Gianluca Vialli and Fabrizio Ravanelli who are now playing in England -- to accompany the club to Japan for next month's intercontinental cup.</p>
+<p>&quot;I know they won't be able to come but ideally I would like them to be with us,&quot; the coach said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FLORENCE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

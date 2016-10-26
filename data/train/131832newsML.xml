@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131832" id="root" date="1996-10-21" xml:lang="en">
+<title>CANADA: Plane crash kills eight in Canada.</title>
+<headline>Plane crash kills eight in Canada.</headline>
+<dateline>EEL RIVER CROSSING, New Brunswick 1996-10-20</dateline>
+<text>
+<p>Eight people returning from a hunting trip were on Sunday when their twin-engine plane crashed and burned in eastern Canada, police said.</p>
+<p>The Royal Canadian Mounted Police said the Piper Nahavo was on its way to Bangor, Maine, from Anticosti Island in Quebec when it radioed the airport in Charlo, New Brunswick that it had mechanical problems.</p>
+<p>The plane was a few miles (km) from Charlo airport when it went down about noon (11 a.m. EDT) (1500 GMT) near the village of Eel River Crossing. Police said they found no survivors when they arrived shortly after the crash.</p>
+<p>Police said the plane was owned by Telford Aviation in Waterville, Maine. The pilot was identified as Michael Burns, of Waterville. Company officials declined comment.</p>
+<p>The names of the seven passengers were not immediately released, but authorities said all were U.S. citizens and a spokesman of the Lowell, Massachusetts, police department said three were law enforcement officers in the city.</p>
+<p>The victims were returning from an elk hunting trip in Quebec, according to the RCMP.</p>
+<p>Witnesses told reporters that the plane narrowly missed several houses and burst into flames after it crashed in a field in this village not far from Chaleur Bay in northern New Brunswick.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EEL RIVER CROSSING, New Brunswick"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

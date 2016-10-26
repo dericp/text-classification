@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="711817" id="root" date="1997-07-07" xml:lang="en">
+<title>AUSTRALIA: Australia withdraws some extreme drought support.</title>
+<headline>Australia withdraws some extreme drought support.</headline>
+<dateline>CANBERRA 1997-07-07</dateline>
+<text>
+<p>The Australian government on Monday said it had withdrawn so-called &quot;extreme drought&quot; support to farmers in parts of New South Wales (NSW) and Queensland.</p>
+<p>Primary Industries Minister John Anderson said that an independent review of autumn seasonal conditions found enough rain had fallen over the past year to cancel extreme drought support in certain areas.</p>
+<p>&quot;Average rainfall over the past 12 months indicates that much of NSW and Queensland is no longer experiencing exceptional drought and there is a reasonable prospect of farmers returning to normal risk management,&quot; Anderson said in a statement.  </p>
+<p>In these areas -- most of Queensland and north-western NSW -- farmers would still receive income support for a year after the withdrawal of extreme drought relief, he said.</p>
+<p>But some areas in western NSW and central Queensland would continue to get government drought support, he said, adding that the review had taken into account predictions of an El Nino event.</p>
+<p>&quot;While the seasonal outlook is not encouraging, it needs to be recognised that drought exceptional circumstances support is not intended to maintain all farm businesses indefinitely.&quot;</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

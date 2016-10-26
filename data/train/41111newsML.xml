@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41111" id="root" date="1996-09-09" xml:lang="en">
+<title>MEXICO: Pemex raises size of commercial paper program.</title>
+<headline>Pemex raises size of commercial paper program.</headline>
+<dateline>MEXICO CITY 1996-09-09</dateline>
+<text>
+<p>State oil monopoly Pemex said Monday it had raised the size of its commercial paper program by $100 million to $500 million because of heavy demand.  </p>
+<p>Bank of America was the lead agent for the transaction.</p>
+<p>The commercial paper program has been guaranteed by a letter of credit from Credit Suisse.</p>
+<p>BA Securities, a subsidairy of BankAmerica Corp, Goldman Sachs and Lehman Brothers will place the commercial paper, which will be issued at the beginning of December.</p>
+<p>The deal was syndicated by 20 international banks.</p>
+<p>&quot;Petroleos Mexicanos (Pemex) continues to be a leader in gaining access to international financial markets. This program is the biggest done by a Latin American issuer and reflects the confidence of the international banking community in the administration of Pemex and its perspectives for the future,&quot; said Lorenzo Gonzalez Bosco, a director for Bank of America.</p>
+<p>-- Mexico City newroom (525) 728-9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

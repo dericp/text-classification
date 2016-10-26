@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55375" id="root" date="1996-09-16" xml:lang="en">
+<title>MAURITIUS: Mauritius rupee weakens on dollar and pound.</title>
+<headline>Mauritius rupee weakens on dollar and pound.</headline>
+<dateline>PORT LOUIS 1996-09-16</dateline>
+<text>
+<p>The Mauritian rupee slipped versus the dollar and pound on Monday, commercial dealers said.</p>
+<p>The rupee was fixed at a mean commercial rate of 20.6015 for one dollar from 20.5895 on Friday. On the pound, the rupee traded at a mean rate of 32.0505 from 32.0205 on Friday.</p>
+<p>Forex dealers said the rupee's weakening reflected a shortage of foreign exchange reserves in commercial banks. They attributed the shortage situation to a seasonal slow in the inflow of hard currency earnings.</p>
+<p>&quot;The September-October period is supposed to be less hard in terms of forex inflow than the few preceding months. The receipts from the tourism peak season in August should start flowing in by now,&quot; one dealer said.</p>
+<p>The dealer said the interbank forex market was quiet as the shortage situation heavily dampened forex interbank trading. Tourism is the third largest foreign currency earner in Mauritius after exports of sugar and textiles-manufactured products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

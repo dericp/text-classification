@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20186" id="root" date="1996-08-28" xml:lang="en">
+<title>DENMARK: FORECAST - Analysts see Berendsen H1 profit.</title>
+<headline>FORECAST - Analysts see Berendsen H1 profit.</headline>
+<dateline>COPENHAGEN 1996-08-28</dateline>
+<text>
+<p>Danish holding company Sophus Berendsen A/S was expected by analysts polled by Reuters on Wednesday to post solidly better H1 net profits.</p>
+<p>The panel foresaw a first-half net profit of an average 431 million crowns for Berendsen, compared to 1995's interim 386 million crown net surplus, with the highest estimate at 483 million crowns and the lowest at 401 million.</p>
+<p>There was uncertainty among the analysts as to the effect on Berendsen's first-half 1996 profits of its new, reduced 35.7 percent stake in British-based pest control and environmental service firm Rentokil Initial Plc.</p>
+<p>Berendsen announces its 1996 interim result on Thursday August 28.</p>
+<p>--Chris Follett, Copebnhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

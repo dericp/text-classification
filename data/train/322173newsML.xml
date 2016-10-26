@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322173" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: RESEARCH ALERT - Albank raised.</title>
+<headline>RESEARCH ALERT - Albank raised.</headline>
+<text>
+<p>-- Lehman Brothers said it raised its rating of Albank Financial Corp to outperform from neutral.</p>
+<p>-- Cited improved earnings prospects, expanding franchise, normalized level of equity and increasingly diversified portfolio.</p>
+<p>-- Expects 12.9 percent return on tangible equity in 1997.</p>
+<p>-- Sees 18 percent earnings growth in 1997 and 13 percent in 1998.</p>
+<p>-- Albank gained 1 to 31-1/2 in morning trading.</p>
+<p>(( --Wall Street desk 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

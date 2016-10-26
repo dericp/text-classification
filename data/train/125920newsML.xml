@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125920" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: ACSI resolves dispute with BellSouth.</title>
+<headline>ACSI resolves dispute with BellSouth.</headline>
+<dateline>ANNAPOLIS JUNCTION, Md. 1996-10-18</dateline>
+<text>
+<p>American Communications Services Inc (ACSI) on Friday said it has resolved all outstanding local interconnection issues with BellSouth Telecommunications Inc, a unit of Bellsouth Corp.</p>
+<p>The settlement enables ACSI to offer switched local telephone services in BellSouth's region.</p>
+<p>ACSI said it had initiated arbitration in August in eight BellSouth states to set unbundled loop and other prices still unresolved from the two companies' partial interconnection agreement signed in July. The new settlement was reached on the eve of the Alabama arbitration, with Florida having just been completed.</p>
+<p>ACSI will now withdraw its arbitrations, and has added a ninth BellSouth state to the agreement.</p>
+<p>ACSI said it is in binding arbitration with US West, SBC Communication's Southwestern Bell and GTE Corp to finalize interconnection arrangements.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANNAPOLIS JUNCTION, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

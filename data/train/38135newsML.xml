@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38135" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: AOL mulls options after e-mail ruling.</title>
+<headline>AOL mulls options after e-mail ruling.</headline>
+<dateline>PHILADELPHIA 1996-09-06</dateline>
+<text>
+<p>America Online Inc was considering options after a federal court judge ordered it to stop blocking promotional electronic mail from a Philadelphia firm, an attorney for the online service firm said.</p>
+<p>&quot;We have a number of options. We're weighing them right now,&quot; America Online attorney Michael Grow said. He said the company hoped to have a decision later Friday.  </p>
+<p>U.S. District Court Judge Charles Weiner on Thursday odered America Online not to block e-mail from Cyber Promotions Inc, which sends mass electronic mailings of promotional material, pending a November trial on a lawsuit Cyber Promotions filed against America Online.</p>
+<p>America Online, the largest U.S. online firm, told subscribers on Thursday it had denied access to mailers from five Internet sites, including three associated with Cyber Promotions.  </p>
+<p>It said it was blocking only &quot;a handful of the most abusive junk mailers who have generated numerous member complaints.&quot;</p>
+<p>Cyber Promotions attorney Paul Kochanski said the judge's ruling Thursday merely aimed to preserve the status quo and had no bearing on the issues to be decided in the case.</p>
+<p>The temporary restraining order tells America Online not to block Cyber Promotions mailings to &quot;recipients who wish to receive the mail,&quot; and not to interefere with Cyber Promotions's business relationships with Internet service providers.</p>
+<p>Mailings from Cyber Promotions contain provisions describing how recipients can remove themselves from the company's mailing list, Kochanski said.</p>
+<p>He said Cyber Promotions is arguing in its suit that America Online has no right to block Internet mail from going through to customers who have not asked Cyber Promotions to stop mailing to them.</p>
+<p>&quot;Once anyone gets on to the Internet (as a service provider) they open themselves up as a public thoroughfare. They have to let the mail go through,&quot; Kochanski said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

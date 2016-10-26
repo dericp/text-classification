@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="504679" id="root" date="1997-04-12" xml:lang="en">
+<title>UK: Ukraine's Mityukov hopes for budget by May.</title>
+<headline>Ukraine's Mityukov hopes for budget by May.</headline>
+<dateline>LONDON 1997-04-12</dateline>
+<text>
+<p>Ukraine's finance minister Ihor Mityukov said he hoped the budget would be passed by early May at the latest.</p>
+<p>The budget and a package of tax reform laws are being delayed because the mainly conservative parliament is reluctant to approve tough economic reforms.</p>
+<p>&quot;We are trying to resolve the situation as soon as possible,&quot; Mityukov, in London for the annual meeting of the European Bank for Reconstruction and Development (EBRD), told Reuters Financial Television.</p>
+<p>&quot;We hope it will take place in April, maybe early May, but not later than that date.&quot;</p>
+<p>-- Richard Murphy, EBRD Newsroom 796 5146</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

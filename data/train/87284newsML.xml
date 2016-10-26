@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87284" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: AMEX to list options on Arterial Vascular.</title>
+<headline>AMEX to list options on Arterial Vascular.</headline>
+<dateline>CHICAGO 1996-10-01</dateline>
+<text>
+<p>The American Stock Exchange said Tuesday it would list options on Arterial Vascular Engineering Inc on October 7.</p>
+<p>The exchange said the options would open with strike prices of 22-1/2, 25 and 30. The stock was up 1/2 at 27-1/4 Tuesday afternoon.</p>
+<p>Initial expirations will be in October, November, January and April, and Group One Trading LP will be the specialist unit, the AMEX said.</p>
+<p>--Derivatives desk, (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

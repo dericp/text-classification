@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35684" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: WTC Industries Inc Q2 full results.</title>
+<headline>WTC Industries Inc Q2 full results.</headline>
+<dateline>MINNEAPOLIS 1996-09-05</dateline>
+<text>
+<p>Three months ended     Six months ended</p>
+<p>			    June 30,		   June 30,</p>
+<p>			   1996	1995	   1996	  1995</p>
+<p> NET SALES     $  811,445 $  726,800  $ 1,338,483 $ 1,168,588</p>
+<p>EXPENSES</p>
+<p>Selling, general and</p>
+<p>administrative</p>
+<p>			702,997    526,017    1,357,752   1,048,595</p>
+<p>Research and</p>
+<p>   development     39,156     55,300	 81,493     188,489</p>
+<p>			742,153    581,317    1,439,245   1,237,084</p>
+<p>LOSS FROM OPERATIONS</p>
+<p>		   (939,559)  (445,864)  (1,619,461)  (1,124,746)</p>
+<p>OTHER EXPENSE, NET</p>
+<p>		     (54,920)   (93,686)    (148,632)   (168,361)</p>
+<p>LOSS ON DISPOSAL,</p>
+<p>  FIXED ASSETS   (66,368)	    0     (66,368)	     0</p>
+<p>		    (121,288)   (93,686)    (215,000)   (168,361)</p>
+<p> NET LOSS     (1,060,847)  (539,550)  (1,834,461) (1,293,107)</p>
+<p>NET LOSS PER</p>
+<p>  COMMON SHARE     (0.10)     (0.08)	 (0.19)	(0.20)</p>
+<p>  AVG SHRS     10,689,773  6,443,055    9,608,455   6,443,055</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

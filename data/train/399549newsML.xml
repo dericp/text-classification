@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="399549" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Feb 24.</title>
+<headline>PRESS DIGEST - New York Times front page - Feb 24.</headline>
+<dateline>NEW YORK 1997-02-24</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Monday:</p>
+<p>* The U.S. and China could reach a human rights break-through when Secretary of State Madeleine Albright visits Beijing Monday to seek China's signature on two United Nations covenants and the release of some political prisoners.</p>
+<p>* A 69-year-old gunman with a semiautomatic handgun opened fire at New York's Empire State Building, killing one tourist and wounding seven others before fatally shooting himself in the head on the 86th-floor observation deck.</p>
+<p>* Health plans are testing &quot;telemedicine, a potentially less costly approach to traditional house calls that allows nurses and other health aides to check patients via cameras and microphones.</p>
+<p>* New York City is exploring ways to cut its public housing costs by turning over some buildings to private managers and sharply increasing the number of employed tenants who can pay * The similarities between President Bill Clinton and Senate Majority Leader Trent Lott, both the children of hard-drinking fathers from the South with a shared love for music, may mean the White House and Congress will have an easier time agreeing on issues ranging from a balanced budget to Medicare.</p>
+<p>* The successful cloning of an adult sheep by British embryologist Ian Wilmut of the Roslin Institute in Edinburgh opens the possibility of human clones, raising a patch of thorny ethical issues.</p>
+<p>-- New York newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142128" id="root" date="1996-10-24" xml:lang="en">
+<title>JAPAN: Taisei expects 40 bln yen loss from property sales.</title>
+<headline>Taisei expects 40 bln yen loss from property sales.</headline>
+<dateline>TOKYO 1996-10-24</dateline>
+<text>
+<p>Taisei Corp said on Thursday it expects a loss of 40 billion yen from sales of property, but that this would not mean a major change in its earnings forecast for the year to March 31, 1997.  </p>
+<p>Taisei said in a statement that it would sell some shareholdings to raise a profit of about 35 billion yen to help cover the loss from the planned property sales.</p>
+<p>Taisei decided to sell part of the company's property to strengthen its financial health, it said.</p>
+<p>The company has decided to sell property which it believes would be difficult to develop or which it thinks will not bring in more profit from a sale than it does now, it said.</p>
+<p>Taisei did not elaborate further.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

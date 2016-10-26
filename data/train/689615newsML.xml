@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689615" id="root" date="1997-06-26" xml:lang="en">
+<title>USA: Ameritech to build 17 new retail centers.</title>
+<headline>Ameritech to build 17 new retail centers.</headline>
+<dateline>CHICAGO 1997-06-26</dateline>
+<text>
+<p>Ameritech Corp said Thursday it will build 17 new Ameritech Communications Centers in the Midwest and remodel four existing stores by the end of 1997.</p>
+<p>Ameritech, which provides communications services, said the centers will open throughout the year in Illinois, Indiana, Michigan, Missouri, Ohio and Wisconsin.</p>
+<p>The remaining 99 existing Ameritech Cellular Centers will receive graphic enhancements, new displays and lighted pylons throughout 1997.</p>
+<p>The communication centers will offer cellular phones and service, cable television, Internet access, home security monitoring, residential phones and call management services.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

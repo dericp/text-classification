@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442086" id="root" date="1997-03-14" xml:lang="en">
+<title>UK: Virgin Atlantic details summer schedule.</title>
+<headline>Virgin Atlantic details summer schedule.</headline>
+<dateline>LONDON 1997-03-14</dateline>
+<text>
+<p>Virgin Atlantic said it will launch a daily London Gatwick to New York Newark on June 26 as part of its summer schedule.</p>
+<p>From July 10 it will operate a second daily London Heathrow to Los Ange1es service giving a weekly total of 14 flights using a new Airbus Industrie long-haul A340 aircraft.</p>
+<p>The current London Gatwick service to Miami will be replaced by a daily Heathrow flight from June 30, the company said in a statement.</p>
+<p>The Heathrow to Johannesburg service will become daily from 15 July after offering six flights a week from March 1,it added.</p>
+<p>The company said it is receiving five new aircraft this year -two Boeing 747-400s and three Airbus A340-300s, increasing its fleet to 20 aircraft. - Reuters Air Cargo Newsroom Tel+44 171 542 7706 Fax:5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

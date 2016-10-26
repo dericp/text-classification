@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228245" id="root" date="1996-12-02" xml:lang="en">
+<title>PERU: Peru's October zinc output rises 11.9 percent.</title>
+<headline>Peru's October zinc output rises 11.9 percent.</headline>
+<dateline>LIMA 1996-12-02</dateline>
+<text>
+<p>Peru's mined zinc output rose 11.9 percent to 65,848 tonnes in October, compared with the same month last year, according to preliminary figures from the Energy and Mines Ministry released Monday.</p>
+<p>Production rose 7.97 percent to 619,190 tonnes in the first ten months of the year, compared with the same period last year, the ministry said.</p>
+<p>In 1995, zinc output edged down 0.2 percent to 688,619 tonnes compared with 690,017 tonnes in 1994.</p>
+<p>Peru is the world's fourth largest zinc producer. State-run mining giant Centromin Peru is the country's largest producer of the metal.</p>
+<p>-- Andrew Cawthorne, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306055" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: Nevada Mohave coal-fired unit back up to 600 MW.</title>
+<headline>Nevada Mohave coal-fired unit back up to 600 MW.</headline>
+<dateline>LOS ANGELES 1997-01-14</dateline>
+<text>
+<p>The 790 megawatt (MW) unit 1 at the Mohave coal-fired power plant near Laughlin, Nevada, was back up to 650 MW where it will remain due to cooling tower restrictions, sources familiar with the plant said Tuesday.</p>
+<p>The unit was restarted around 1400 PST Monday after being shut earlier in the day because of an unspecified operating problem.</p>
+<p>Mohave's 790 MW unit 2 was said to be operating at 700 MW and is also expected to remain at that rate.</p>
+<p>The Mohave plant is majority owned and operated by Edison International's Southern California Edison Co.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

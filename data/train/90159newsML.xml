@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90159" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Hugoton successfully drills third well.</title>
+<headline>Hugoton successfully drills third well.</headline>
+<dateline>WICHITA, Kan. 1996-10-02</dateline>
+<text>
+<p>Hugoton Energy Corp said Wednesday it completed its third successful drilling of a well in Haskell County, Kansas, though the well has yet to be flow tested.</p>
+<p>The other two wells were flow tested at a combined rate of two million cubic feet of natural gas per day plus 17 barrels of oil per hour.</p>
+<p>Based on 3-D seismic data of the underlying formations, Hugoton is evaluating 20 potential drill sites on a 28-square mile area in Haskell County.  </p>
+<p>It also plans to do a seismic shoot of an additional 63-square mile block adjoining the initial shoot to the west during the fourth quarter.</p>
+<p>Hugoton is operator of the wells and owns a 50 percent working interest in the wells and the surrounding acreage blocks.</p>
+<p>An adjoining 50-square mile area to the west is being evaluated for a seismic shoot in early 1997.</p>
+<p>This data will enable the company to continue to accelerate the development of its existing large acreage position in the Hugoton Field area of southwestern Kansas.</p>
+<p>A fourth well is currently being drilled, and Hugoton expects to keep one drilling rig working continuously through the end of 1996. At least one additional rig will be added by the end of 1996 and both rigs are expected to drill continuously through 1997.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WICHITA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

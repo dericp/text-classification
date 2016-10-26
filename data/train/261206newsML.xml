@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261206" id="root" date="1996-12-17" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's bond yields close up as buying dies out.</title>
+<headline>S.Korea's bond yields close up as buying dies out.</headline>
+<dateline>SEOUL 1996-12-17</dateline>
+<text>
+<p>Yields on three-year benchmark corporate bonds finished higher on Tuesday as most institutional investors stayed awayed from the market, brokers said.</p>
+<p>Despite fewer new issues, estimated at 51.5 billion won, institutions can not afford to buy bonds, they said.</p>
+<p>&quot;Institutions are short in cash as the year-end approaches,&quot; said Park Ho-won of LG Securities. &quot;Short-term money market is also likely to turn tight in the near term.&quot;</p>
+<p>Traders said they expected the yields to rise further on Wednesday in similar trading.</p>
+<p>Three-month certificates of deposit yields also gained as buying power faded out.</p>
+<p>Overnight call rates remained unchanged at an average of 14.5 percent.</p>
+<p>--JEAN YOON (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

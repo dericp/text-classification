@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74001" id="root" date="1996-09-24" xml:lang="en">
+<title>AUSTRALIA: RTRS - MIM's Mt Isa has 15 yr copper life.</title>
+<headline>RTRS - MIM's Mt Isa has 15 yr copper life.</headline>
+<dateline>ADELAIDE 1996-09-24</dateline>
+<text>
+<p>MIM Holdings Ltd said on Tuesday its Mount Isa copper operations in central Queensland had a potential mine life of at least 15 years.</p>
+<p>The company said this estimate was based on reserves of 66 million tonnes and 60 million tonnes of resources from the operations and the nearby Enterprise orebody.</p>
+<p>&quot;There are substantial reserves of copper, largely in the 1100 (metres) orebody and the deeper 3000 and 3500 (metres) ore bodies,&quot; chief executive Nick Stump said in notes for his Essington Lewis lecture to be delivered in Adelaide on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64911" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: CIA, attacked, pulls plug on Internet site.</title>
+<headline>CIA, attacked, pulls plug on Internet site.</headline>
+<dateline>WASHINGTON 1996-09-19</dateline>
+<text>
+<p>The Central Intelligence Agency, that bastion of spy technology and computer wizardry, pulled the plug on its World Wide Web site on the Internet on Thursday after a hacker broke in and replaced it with a crude parody.</p>
+<p>CIA officials said their vandalized home page -- altered to read &quot;Welcome to the Central Stupidity Agency&quot; -- was in no way linked to any mainframe computers containing classified national security information.</p>
+<p>The site was tampered with on Wednesday evening and the CIA closed it on Thursday morning while a task force looked into the security breach, CIA spokeswoman Jane Heishman said. Part of the hacker's text read &quot;Stop Lying.&quot;</p>
+<p>&quot;It's definitely a hacker&quot; who pierced the system's security, she said. &quot;The agency has formed a task force to look into what happend and how to prevent it.&quot;</p>
+<p>The CIA web site (http://www.odci.gov/cia) showcases unclassified information including spy agency press releases, officials' speeches, historical rundowns and the CIA's World Fact Book, a standard reference work.</p>
+<p>The cyber-attack matched one that forced the Justice Department to close its Web site last month after hackers inserted a swastika and picture of Adolf Hitler. The penetration of the CIA home page highlighted the vulnerability of Internet sites designed to attract the public and drove home the need for multiple layers of security.</p>
+<p>&quot;You want people to visit, you want them to interact, but you don't want them to leave anything behind,&quot; said Jon Englund of the Information Technology Association of America, a trade group of leading software and telecommunications firms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

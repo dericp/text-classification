@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289474" id="root" date="1997-01-06" xml:lang="en">
+<title>FRANCE: AIr Liquide rises on broker upgrade.</title>
+<headline>AIr Liquide rises on broker upgrade.</headline>
+<dateline>PARIS 1997-01-06</dateline>
+<text>
+<p>Shares in French industrial gases company Air Liquide rose on Monday after CCF Elysees Bourse upgraded it to &quot;plus plus&quot; from &quot;plus&quot;, fund managers said.</p>
+<p>The brokerage sees a target for the stock price at 1,000 francs, basing its view on the dollar's rise and scope for gains in the share which underperformed in 1996, the sources said.</p>
+<p>Air Liquide's industrial investment programme last year weighed on margins and led to a rise of only 7.2 percent in 1996 compared to a climb of 23 percent for the CAC-40 index.</p>
+<p>The stock was up 1.14 percent at 796 francs at 1230 GMT, while the market was up 0.67 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25670">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

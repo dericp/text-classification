@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246879" id="root" date="1996-12-10" xml:lang="en">
+<title>GERMANY: Audi, VW to split cost of Brazilian plant.</title>
+<headline>Audi, VW to split cost of Brazilian plant.</headline>
+<dateline>INGOLSTADT, Germany 1996-12-04</dateline>
+<text>
+<p>German carmaker Audi AG, the luxury wing of Volkswagen AG, said on Tuesday that it would split a 750 million mark ($481.9 million) investment in a planned production plant in Brazil 50/50 with the parent company.</p>
+<p>It added that the new plant would start production of the A3, its new small car, by 1998. VW would also produce its Vento model at the plant, Audi said.  </p>
+<p>Last week, Audi said total investment in the proposed Brazilian production facility could exceed 500 million marks. The plant will produce vehicles for Latin American markets.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+<p>($ = 1.556 German Marks)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INGOLSTADT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349512" id="root" date="1997-02-01" xml:lang="en">
+<title>USA: Arris says advances osteoporosis research.</title>
+<headline>Arris says advances osteoporosis research.</headline>
+<dateline>SOUTH SAN FRANCISCO, Calif. 1997-01-31</dateline>
+<text>
+<p>Arris Pharmaceutical Corp said Friday it developed a three- dimensional crystal structure of the enzyme that causes osteoporosis, which significantly advances efforts to come up with a treatment for the debilitating bone disorder.</p>
+<p>The company said that understanding the structure of the enzyme, or protease, will help it to develop an inhibitor that fits that structure without interfering in the body's other enzymes.</p>
+<p>&quot;It jumpstarts the whole process (of developing a treatment),&quot; said Mary McGrath, senior research scientist at Arris.</p>
+<p>&quot;We want to be able to shut down the activity of one protease without affecting others that it looks like.&quot;</p>
+<p>The enzyme thought to cause osteoporosis is cathepsin K, which is secreted by osteoclasts, the cells responsible for bone degradation.</p>
+<p>In a healthy human body osteoclasts are in balance with osteoblast cells, which promote bone building and allow for normal bone regeneration. Excessive amounts of osteoclast cells, however, secrete cathepsin K, causing the bone to degenerate faster than it can be restored.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTH SAN FRANCISCO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264385" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: NYCE cotton futures close slightly off, rangebound.</title>
+<headline>NYCE cotton futures close slightly off, rangebound.</headline>
+<dateline>NEW YORK 1996-12-18</dateline>
+<text>
+<p>NYCE cotton futures ended barely budged from the previous close, having falling through nearby support early and then climbing just under unchanged by the close.</p>
+<p>The contract slipped under 75.30 cents but managed to hold above the next level of support at 74.80 cents. The selling dried up late in the session, allowing the  March contract to climb towards unchanged.</p>
+<p>March cotton ended just 0.01 cent weaker at 75.53 cents per pound, traded 75.74 to 74.92 cents. The back months closed 0.13 higher to 0.50 lower.</p>
+<p>Volume was moderate at an estimated 8,500 lots.</p>
+<p>-- ((Suzanne Rostler, New York Commodities 212-859-1646))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

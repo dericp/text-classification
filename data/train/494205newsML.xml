@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="494205" id="root" date="1997-04-08" xml:lang="en">
+<title>USA: CFTC grants exemption to Spain's MEFF exchange.</title>
+<headline>CFTC grants exemption to Spain's MEFF exchange.</headline>
+<dateline>WASHINGTON 1997-04-08</dateline>
+<text>
+<p>Commodity Futures Trading Commission on Tuesday granted an exemption to members of Spain's MEFF exchange from some of the CFTC's foreign futures and options rules.</p>
+<p>Beginning May 8, MEFF Sociedad Rectora de Productos Financieros Derivados de Renta Variable will not be required to meet certain CFTC fules based on the exchange's compliance with comparable local regulations, CFTC said in an order published in the Federal Register.</p>
+<p>MEFF asked CFTC in 1995 to exempt certain members of the exchange from compliance with registration and other requirements involving futures and options authorized for sale to U.S. customers. MEFF Renta Variable stock index futures are offered on the IBEX-35.</p>
+<p>((--Washington commodities desk, 202-898-8300))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

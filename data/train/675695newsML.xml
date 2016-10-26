@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="675695" id="root" date="1997-06-20" xml:lang="en">
+<title>RUSSIA: Russia's KamAZ to issue Eurobond by end-1997.</title>
+<headline>Russia's KamAZ to issue Eurobond by end-1997.</headline>
+<dateline>MOSCOW 1997-06-20</dateline>
+<text>
+<p>Russian truckmaker AO KamAZ will issue a Eurobond by the end of 1997, Prime-Tass news agency quoted company chairman Nikolai Bekh as saying on Friday.</p>
+<p>The Eurobond would be valued at around $100 million, Tass quoted Bekh as saying.  </p>
+<p>Bekh said company management decided to transfer over 30 percent of shares to the government of the autonomous republic of Tatarstan in southern Russia, which will take on some of OAO KamAZ's debts in return.</p>
+<p>KamAZ said earlier in June that it had won $179 million in Japanese credits to modernise a plant producing diesel engines meeting European emission standards.</p>
+<p>--Moscow Newsroom +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

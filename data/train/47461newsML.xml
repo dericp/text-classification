@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="47461" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. EIA warns of low heating oil stocks.</title>
+<headline>U.S. EIA warns of low heating oil stocks.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>U.S. distillate stocks, while rising, are about 20 million barrels below normal for this time of the year, largely because heating oil stocks on the East Coast are at half last year's level, the U.S. Energy Information Administration said on Wednesday.</p>
+<p>Total U.S. distillate stocks rose 2.5 million barrels from the previous week to 111.5 million barrels as of September 6, but were 20 million barrels lower than a year ago, EIA said.</p>
+<p>Inventories on the East Coast stood at 38.9 million barrels, up 800,000 barrels from the end of August, were more than 17 million barrels lower than a year ago.  </p>
+<p>&quot;The low national stocks are simply because heating oil stocks in PADD I (East Coast) are very low,&quot; an EIA analyst said.</p>
+<p>Heating oil made up just 21.4 million barrels of the East Coast distillate stocks as of September 6, compared with 41.4 million barrels a year ago.</p>
+<p>&quot;Production is averaging 3.3 million barrels per day, but several refiners have announced planned maintenance which could affect domestic output in the next few weeks,&quot; EIA said.</p>
+<p>Refiners ran 14.4 million barrels per day of crude last week, using 97 percent of their operating capacity, according to EIA's weekly petroleum report.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320865" id="root" date="1997-01-21" xml:lang="en">
+<title>GREECE: GREECE CHARGES NIGERIAN FOOTBALLER IN DRUGS CASE.</title>
+<headline>GREECE CHARGES NIGERIAN FOOTBALLER IN DRUGS CASE.</headline>
+<dateline>ATHENS 1997-01-21</dateline>
+<text>
+<p>A Greek prosecutor on Tuesday charged Ionikos' Nigerian striker Amaechi Otitzi with possession of drugs after he was arrested on Monday at an Athens apartment along with 14 other people, court officials said.</p>
+<p>Otitzi has helped the small club climb to eighth place in Greece's soccer first division.</p>
+<p>Ionikos officials said he has denied the charge.</p>
+<p>An investigative magistrate will decide this week whether Otitzi will be held in detention until his trial.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

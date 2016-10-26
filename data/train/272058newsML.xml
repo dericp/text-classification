@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272058" id="root" date="1996-12-22" xml:lang="en">
+<title>MEXICO: All Mexican ports open as weather improves.</title>
+<headline>All Mexican ports open as weather improves.</headline>
+<dateline>MEXICO CITY 1996-12-22</dateline>
+<text>
+<p>All Mexican ports were open to shipping on Sunday, the Ministry of Communications and Transportation said on Sunday in a statement.</p>
+<p>On Friday, nine main Mexican ports were closed to shipping including the country's three crucial crude ports.</p>
+<p>The three Gulf of Mexico ports were closed Wednesday as a cold front hit the area causing wind velocities of up to 80 km per hour and waves up to 16 feet high.</p>
+<p>((-- Mexico City newsroom (525) 728 9559))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

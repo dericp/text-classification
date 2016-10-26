@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570084" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Weatherford Enterra names Thomas Bates CEO.</title>
+<headline>Weatherford Enterra names Thomas Bates CEO.</headline>
+<dateline>HOUSTON 1997-05-08</dateline>
+<text>
+<p>Weatherford Enterra Inc said Thursday that it has named Thomas Bates president and chief executive officer. Bates, said the company,  will also become a member of the company's board of directors.</p>
+<p>Weatherford said he is expected to join the company on June 1.  Bates, who is 47 years old, previously spent 15 years at Schlumberger Limited, most recently serving as president of Schlumberger's Anadrill subsidiary since 1992.</p>
+<p>He suceeds an interim chief executive, Thomas Amonett, who held the positions after CEO and president Philip Burguieres, now chairman, relinquished them in October, 1996.</p>
+<p>Weatherford Enterra is a diversified international energy service and manufacturing company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50767" id="root" date="1996-09-12" xml:lang="en">
+<title>FRANCE: UNIP sees lower French 1996 protein pea crop.</title>
+<headline>UNIP sees lower French 1996 protein pea crop.</headline>
+<dateline>PARIS 1996-09-12</dateline>
+<text>
+<p>France should produce less protein peas in 1996, mostly because farmers planted less field peas this year, French protein pea producers predicted on Thursday.</p>
+<p>In a note to operators, the French protein producers' federation UNIP put the national field pea crop at 2.57 million tonnes, down 180,000 tonnes from 1995.</p>
+<p>The estimate assumes a marginal drop in yields to 4.81 tonnes per hectare from 4.86 tonnes in 1995.</p>
+<p>But area is seen falling to 534,000 hectares from 566,000 hectares in 1995.</p>
+<p>Yield were sharply down in drought-affected areas of eastern and central France but strong in the north, UNIP said</p>
+<p>Production was down sharply in Brittany on the back of lower sowings.</p>
+<p>--Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

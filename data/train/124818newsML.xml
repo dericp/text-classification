@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124818" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post page one - Oct 17.</title>
+<headline>PRESS DIGEST - Washington Post page one - Oct 17.</headline>
+<dateline>WASHINGTON 1996-10-16</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on Oct 17:</p>
+<p>---</p>
+<p>WASHINGTON - About 60 million Americans will get a 2.9 percent increase in their government cheques next year as a result of cost-of-living adjustments in social security programs.</p>
+<p>---</p>
+<p>WASHINGTON - The Asian community represents a growth area in Democratic Party fund raising and one that has generated controversy.</p>
+<p>---</p>
+<p>LONDON - The British government proposed one of the strictest gun control laws in the world outlawing private possession of handguns.</p>
+<p>---</p>
+<p>WASHINGTON - A panel appointed by Virginia Governor George Allen has proposed lowering the education requirements for day care center employees prompting criticism from several children's advocacy group.</p>
+<p>---</p>
+<p>WASHINGTON - David Brinkley, a giant of television news over the past three decades, announced he is stepping down as moderator of ABC's &quot;This Week With David Brinkley&quot; after the November 10 edition.</p>
+<p>---</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

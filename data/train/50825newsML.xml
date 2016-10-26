@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50825" id="root" date="1996-09-12" xml:lang="en">
+<title>UK: Enterprise Oil H1 pretax profit rises 55 pct.</title>
+<headline>Enterprise Oil H1 pretax profit rises 55 pct.</headline>
+<dateline>LONDON 1996-09-12</dateline>
+<text>
+<p>Six months ending June 30</p>
+<p>			   (million stg unless stated)</p>
+<p> Shr (pence)		13.5		   vs 8.2</p>
+<p> Dividend (pence)	 6.5		    vs 6.5</p>
+<p> Pretax		     157.5		  vs 101.7</p>
+<p> Net income		 73.8		   vs 46.5</p>
+<p> Turnover		   427.9		  vs 375.0</p>
+<p>NOTE - Analysts' forecasts on net income were in a range of 65.1 to 80.0 million stg.  </p>
+<p> Operating profit	 147.8		  vs 121.3</p>
+<p> Interest payable	 33.6		   vs 42.2</p>
+<p> Tax			  83.7		   vs 55.2</p>
+<p> Net taxed		  73.8		   vs 46.5</p>
+<p> Pay date		   Nov 4</p>
+<p>Div  registration date Oct 8</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

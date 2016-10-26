@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251701" id="root" date="1996-12-12" xml:lang="en">
+<title>COMOROS: Comoran PM submits resignation, stays as caretaker.</title>
+<headline>Comoran PM submits resignation, stays as caretaker.</headline>
+<dateline>MORONI, Comoro Islands 1996-12-12</dateline>
+<text>
+<p>The prime minister of the Comoro Islands and his cabinet have submitted their resignations to President Mohamed Taki so that Taki can name a new cabinet, officials said on Thursday.</p>
+<p>Taki asked the prime minister, Tajiddine Ben Said Massonde, and his cabinet to stay on as caretakers, they added.</p>
+<p>The resignation was expected after parliamentary elections in the Indian Ocean islands which ended last week in an overwhelming victory for the ruling party, the National Rally for Development.</p>
+<p>The party won 36 of the 43 seats in the federal assembly (parliament) in elections boycotted by the main opposition group. Independents won four seats and an Islamist party three.</p>
+<p>Massonde was appointed prime minister in March, shortly after Taki came to power, and he retained his position in a cabinet shuffle in August.</p>
+<p>Taki is not expected to name a new cabinet until he returns from a visit to China on December 23, sources close to the presidency said. Taki's visit begins on Thursday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COMOR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORONI, Comoro Islands"/>
+<dc element="dc.creator.location.country.name" value="COMOROS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

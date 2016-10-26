@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233946" id="root" date="1996-12-04" xml:lang="en">
+<title>BRAZIL: Brazil confirms eyeing CPMF exemption for stocks.</title>
+<headline>Brazil confirms eyeing CPMF exemption for stocks.</headline>
+<dateline>SAO PAULO 1996-12-04</dateline>
+<text>
+<p>Brazil's Finance Ministry confirmed it is studying whether to exempt stock trade from the new 0.2 percent CPMF tax on financial tranactions.</p>
+<p>A spokeswoman for ministry Executive Secretary Pedro Parente said the possible exemption was being analyzed by the government officials.</p>
+<p>Local share prices have risen Tuesday and today on speculation the government will exempt stock transactions from the so-called &quot;check tax&quot; in a bid to avoid capital flight as a result of the levy.</p>
+<p>The CMPF is designed to raise some 400 million reais a month to fund health services.</p>
+<p>Parente, speaking to reporters in Congress, was reported to have said there is &quot;not the slightest chance the CPMF won't be implemented.&quot;</p>
+<p>The tax is expected to be levied on all financial transactions after January 23.</p>
+<p>-- James Craig, Sao Paulo newsroom 5511 248 5413</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

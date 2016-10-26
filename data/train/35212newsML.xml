@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35212" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Nassau Cty, N.Y., $29 mln notes won by four firms.</title>
+<headline>Nassau Cty, N.Y., $29 mln notes won by four firms.</headline>
+<dateline>NEW YORK 1996-09-05</dateline>
+<text>
+<p>Nassau County, N.Y., said Thursday the following four firms won its $29.065 million bond anticipation note issue:</p>
+<p>--First Albany Corp, $16 million at a net interest cost of 4.0367 percent.</p>
+<p>--Smith Barney Inc, $10 million at a 3.9897 percent NIC.</p>
+<p>--Bank of New York, $2 million, at a 3.95 percent NIC.</p>
+<p>--Fleet, at a 4.04703 percent NIC.</p>
+<p>The coupon on all the winning bids was a 4.50 percent.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

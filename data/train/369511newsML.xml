@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="369511" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: KCBT wheat surges, ends higher on fund-buying.</title>
+<headline>KCBT wheat surges, ends higher on fund-buying.</headline>
+<dateline>KANSAS CITY, Mo. 1997-02-11</dateline>
+<text>
+<p>KCBT hard red winter wheat futures surged and closed broadly higher on fund-buying and on speculative buying tied to talk of Canadian grain transportation delays, traders said.</p>
+<p>KCBT March wheat settled unofficially at $4.24, up 10 cents on the day.</p>
+<p>Traders said Rosenthal Collins and Refco, both known to have large fund holdings, were strong buyers toward the close.</p>
+<p>Traders said at the midsession that delays in shipping wheat from Canadian ports had frustrated foreign buyers like Japan and Mexico, and there was speculation that those customers might turn to the United States to meet some of their short-term wheat needs.</p>
+<p>The late rally in U.S. wheat received further fuel after the Canadian Wheat Board chief commissioner told Reuters that Canadian spring wheat exports in April may be hurt by a rail shipping delay that has kept more than 1.5 million tonnes of grain from reaching Pacific ports since January.</p>
+<p>   ((--Greg Frost, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

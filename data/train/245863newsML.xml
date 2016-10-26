@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245863" id="root" date="1996-12-10" xml:lang="en">
+<title>SUDAN: Sudan says food shortages in western state.</title>
+<headline>Sudan says food shortages in western state.</headline>
+<dateline>KHARTOUM 1996-12-10</dateline>
+<text>
+<p>Poor rains have caused food shortages in Northern Darfur state in western Sudan, a government-owned newspaper reported on Tuesday.</p>
+<p>Al-Ingaz al-Watani quoted Governor Younis al-Sherif as saying crop cultivation areas had decreased by about 15 percent.</p>
+<p>&quot;The actual cereal requirement of the state is 158,000 tonnes but the deficit this year is about 96,000 tonnes,&quot; he said, adding that prices of animals and grain had risen.</p>
+<p>One billion Sudanese pounds ($687,000) have been allocated in Northern Darfur state for buying grain, Sherif said.</p>
+<p>Charity organisations were trying to provide help for low income groups in the state, the governor said. The government's 1997 budget would allocate funds to offset the food deficit in Northern Darfur, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

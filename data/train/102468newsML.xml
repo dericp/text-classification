@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102468" id="root" date="1996-10-08" xml:lang="en">
+<title>JAPAN: Yamaha develops new technology for engines.</title>
+<headline>Yamaha develops new technology for engines.</headline>
+<dateline>TOKYO 1996-10-08</dateline>
+<text>
+<p>Yamaha Motor Co Ltd, a motorcycle maker and car engine supplier, said on Tuesday it had developed a new bonded valve seat that would improve engine performance.</p>
+<p>The new manufacturing technology takes a pre-formed valve seat ring of the smallest dimensions to perform the seat function and bonds it directly into the cylinder head, it said.</p>
+<p>The new technology will reduce production costs and increase engine power, Ryuichi Yamashita, a Yamaha managing director in charge of technology, told reporters.</p>
+<p>The valve seat is a component that diffuses the heat from engines. The technology will increase engine power by five to 10 percent, Yamashita said.</p>
+<p>Yamashita gave no estimate on how much firms would save on production costs but the new system would require only one second to install the valve seat while conventional production involves a complicated process.</p>
+<p>The new technology will also boost fuel efficiency, he said.</p>
+<p>Yamaha supplies car engines to Toyota Motor Corp and Ford Motor Co. Yamaha plans to introduce the new technology in its motorcycles in 1998, Yamashita said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

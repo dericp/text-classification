@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220097" id="root" date="1996-11-27" xml:lang="en">
+<title>HONG KONG: Peregrine sets Guangzhou Inv warrants.</title>
+<headline>Peregrine sets Guangzhou Inv warrants.</headline>
+<dateline>HONG KONG 1996-11-27</dateline>
+<text>
+<p>Peregrine Derivatives Ltd said said on Wednesday it had launched 1.1 billion American-style warrants on Guangzhou Investment shares.</p>
+<p>Ten warrants control one share.</p>
+<p> STRIKE PRICE     HK$3.018	PREMIUM	 16.70 PCT</p>
+<p> ISSUE PRICE	HK$0.0688     GEARING	 4.6X</p>
+<p> EXPIRATION	 27.NOV.97     PAYDATE	 2 WKS AFTER LAUNCH</p>
+<p>LISTING HONG KONG MIN EXER LOT 20,000</p>
+<p> SPOT REFERENCE   HK$3.175</p>
+<p>NOTES: GOVERNING LAW IS HONG KONG.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

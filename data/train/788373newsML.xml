@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788373" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: RESEARCH ALERT - Boston Properties started.</title>
+<headline>RESEARCH ALERT - Boston Properties started.</headline>
+<dateline>NEW YORK 1997-08-08</dateline>
+<text>
+<p>Bear Stearns confirmed on Friday it started coverage of Boston Properties Inc with a buy rating and a 12-month price target of $37 per share.</p>
+<p>-- Analyst Chris George said his 1997 funds from operations estimate was $1.95 per share and his 1998 FFO estimate was $2.30 per share.</p>
+<p>-- George said he believed the company was one of the best positioned to consolidate the New York office market.</p>
+<p>-- &quot;Investors will come to value its development expertise as it continues to deliver high-yielding projects over the coming months,&quot; he said.</p>
+<p>-- The stock closed at 29-4/16.</p>
+<p>((Wall Street desk 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

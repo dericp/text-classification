@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="149194" id="root" date="1996-10-28" xml:lang="en">
+<title>Malta: Malta's prime minister concedes election defeat.</title>
+<headline>Malta's prime minister concedes election defeat.</headline>
+<dateline>VALLETTA 1996-10-28</dateline>
+<text>
+<p>Nationalist Party leader Edward Fenech Adami on Monday accepted the defeat of his government in Malta's general election, a party spokesman said.</p>
+<p>&quot;Dr Fenech Adami informed the president of Malta early this morning that he accepted the victory of the Labour Party,&quot; the spokesman told Reuters.</p>
+<p>Labour earlier claimed victory after a campaign in which it pledged to abandon Malta's application to join the European Union and to scrap a highly unpopular value added tax.</p>
+<p>&quot;There are clear indications that there is a Labour victory and I want to reaffirm our intention to form a government for all the people of Malta,&quot; party leader Alfred Sant, 48, said on radio late on Sunday.</p>
+<p>The Nationalist Party had a three-seat majority in the outgoing 65-member parliament.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

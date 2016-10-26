@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59247" id="root" date="1996-09-17" xml:lang="en">
+<title>TURKEY: Turkey cuts yields in 189-day T-bill auction.</title>
+<headline>Turkey cuts yields in 189-day T-bill auction.</headline>
+<dateline>ISTANBUL 1996-09-17</dateline>
+<text>
+<p>The 189-day T-bill auction of the Turkish treasury on Tuesday produced the following results.</p>
+<p>	Maturity		    :March 26, 1997</p>
+<p>	Amount			:176.7 trln lira</p>
+<p>	Coupon			: -</p>
+<p>	Minimum yield	     :112.57</p>
+<p>	Maximum yield	     :126.51</p>
+<p>	Average yield	     :125.64</p>
+<p>	Bid amount/cover	  :260.5 trln</p>
+<p>	Lowest accepted price   :65,407 lira</p>
+<p>Pct allocated at lowest price : NA</p>
+<p>	Payment date		:September 18, 1996</p>
+<p>--Istanbul newsroom +90-212-275 08 75 IMA EKS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

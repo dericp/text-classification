@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709466" id="root" date="1997-07-06" xml:lang="en">
+<title>USA: Mars rover is readied for deployment.</title>
+<headline>Mars rover is readied for deployment.</headline>
+<byline>Steve James</byline>
+<dateline>PASADENA, Calif. 1997-07-05</dateline>
+<text>
+<p>A high-tech dune buggy named Sojourner was being readied on Saturday to explore the surface of Mars after space officials resolved a communications glitch that had threatened to cripple the scientific aspects of the Pathfinder mission to the Red Planet.</p>
+<p>Whoops of joy echoed around mission control here with the word that signals had been received from the six-wheeled rover craft via the lander vehicle.</p>
+<p>&quot;This is fantastic news. I feel like we have been invited back to the party,&quot; Matt Wallace, rover system engineer, said</p>
+<p>He said the specific cause of the communications problem was not clear but that it was believed to be in the software. New data indicated the lander vehicle's computer had re-set itself Friday night and may have been awaiting further instructions from mission control.</p>
+<p>It may also have been a problem with the modem between Sojourner and the lander. The modem was recycled, Wallace said, likening the process to re-booting a computer.</p>
+<p>The news ended some twelve hours of nail-biting tension at the Jet Propulsion Laboratory as space engineers and technicians worked to salvage the $266-million mission.</p>
+<p>Pathfinder crash-landed on Mars on Friday after a journey of 309 million miles (497 million km) since being launched from Cape Canaveral last Dec. 4. The mission marks the beginning of an ambitious U.S. programme over the next decade to explore Mars and determine if it ever supported any life forms.</p>
+<p>Sojourner cannot communicate directly with Earth. Its signals must go through the lander, and if the problem had not been solved mission control would have been unable to control the movements of the Mars rover.</p>
+<p>&quot;Every complex mission like this has one hurdle to overcome and for the Rover team we are hoping that was it,&quot; said Wallace.</p>
+<p>He said the next task on Saturday would be to signal the lander to lower the ramps ready for Sojourner to roll down. A couple of hours later, the buggy with its two-lensed camera and on-board chemical laboratory, was expected to slowly move down onto the Martian surface, he said.</p>
+<p>It will probably move away from the ramp about one vehicle's length and maybe make a turn, but that would be all for Saturday. Sojourner, which was built to explore part of the planet's surface and analyse rock and soil samples, will really start working on Sunday, said Wallace.</p>
+<p>If full communications had not been established, the rover would have been able to carry out some nominal pre-programmed tasks, but no scientific data would have been relayed back to Earth, officials of the National Aeronautics and Space Administration said earlier.</p>
+<p>Brian Muirhead, the flight system manager, earlier played down the significance of the communications glitch on the first landing on Mars since the Viking mission over 20 years ago.</p>
+<p>&quot;We're still 90 percent successful. The goal of the mission was to land a craft on Mars and send back images,&quot; he said.</p>
+<p>Meanwhile the Pathfinder lander, which was re-named after the late legendary NASA scientist and author Carl Sagan, continued to send spectacular images back to Earth.</p>
+<p>Peter Smith, head of the imaging team, explained that Pathfinder landed in the area known as Ares Vallis, about 2-3 miles (3-4 kms) from a large crater.</p>
+<p>He pointed out rocks and other objects on computer-enhanced pictures, including one peak on the horizon about 20 miles (32 km) away.</p>
+<p>He brought laughs to the audience when he pointed out one curiously shaped image on the horizon.</p>
+<p>&quot;The most mysterious object looks like a couch,&quot; Smith said, joking that maybe there was a homeless person on Mars.</p>
+<p>He said at first his colleagues thought it was the parachute that had helped bring Pathfinder through the Martian atmosphere. But that was brightly coloured, he said, and this object was not.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

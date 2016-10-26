@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255927" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: NYC says gets $68 mln of retail orders for bonds.</title>
+<headline>NYC says gets $68 mln of retail orders for bonds.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>New York City said that it had received around $68 million of retail orders on Thursday, which was the first day of the presale period for an approximately $625 million bond sale to be priced on Tuesday.</p>
+<p>A New York City official, who declined to be named, said that no maturities had been closed as of late Thursday, though several were close. The presale period for retail orders ends on Monday at 1200 EST.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768417" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: TABLE - Advanced Polymer Q2 results.</title>
+<headline>TABLE - Advanced Polymer Q2 results.</headline>
+<dateline>REDWOOD CITY, Calif. 1997-07-31</dateline>
+<text>
+<p>ADVANCED POLYMER SYSTEMS, INC.</p>
+<p>			   HIGHLIGHTS - INCOME STATEMENT</p>
+<p>		     (in thousands, except per share data)</p>
+<p>			     (Unaudited)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>				  Jun 30    Jun 30   Jun 30    Jun 30</p>
+<p>				    1997     1996	1997     1996</p>
+<p>Product and Technology</p>
+<p> Revenues		     $4,500    $2,058   $8,047    $3,506</p>
+<p> Sales of Consumer Products    0     3,296	  0     7,001</p>
+<p> Milestone Payment		 0	   0    1,500	   0</p>
+<p>   TOTAL REVENUES	    4,500     5,354    9,547    10,507</p>
+<p> Cost of Sales		 1,952     2,989    3,444     6,294</p>
+<p>Operating Expenses:</p>
+<p> Research &amp; Development	901	 984    1,833     1,874</p>
+<p>Selling, Advertising,</p>
+<p>General &amp; Administrative</p>
+<p>				   2,019     3,221    4,036     5,928</p>
+<p>TOTAL OPERATING EXPENSES</p>
+<p>				   2,920     4,205    5,869     7,802</p>
+<p> OPERATING INCOME (LOSS)   (372)   (1,840)	234   (3,589)</p>
+<p> Interest Expense, Net     (189)     (239)    (381)     (499)</p>
+<p>Other Income (Expense), Net</p>
+<p>				    (71)	  21     (66)	  11</p>
+<p> NET LOSS		     ( 632)  ( 2,058)   ( 213)  ( 4,077)</p>
+<p> LOSS PER COMMON SHARE   ( 0.03)   ( 0.11)  ( 0.01)   ( 0.23)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

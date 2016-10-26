@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249028" id="root" date="1996-12-11" xml:lang="en">
+<title>MEXICO: Mexico Congress approves dual nationality law.</title>
+<headline>Mexico Congress approves dual nationality law.</headline>
+<dateline>MEXICO CITY 1996-12-11</dateline>
+<text>
+<p>Mexico's Congress has approved a law permitting Mexicans to keep their nationality if they became citizens of other countries, a congressional spokesman said on Wednesday.</p>
+<p>The amendment to three articles of the constitution to allow dual nationality was approved late Tuesday by all but one of the 406 legislators voting, he said.</p>
+<p>The new law's main impact will be on the estimated six million Mexicans working in the United States, roughly half of whom are legally resident there.</p>
+<p>Once the reform goes into force in about a year, Mexican immigrants who are eligible for U.S. citizenship will be able to take it without losing their original passport or their vote in Mexican elections.</p>
+<p>The United States requires immigrants seeking citizenship to renounce other citizenships but cannot regulate whether or not foreign countries recognise that renunciation, a U.S. official source said.</p>
+<p>Mexico, invaded repeatedly in its history by foreign powers, has traditionally maintained strict nationality laws.</p>
+<p>However, as more and more Mexicans emigrated north to seek work and anti-immigrant sentiment in the United States grew, politicians here have changed their views.</p>
+<p>They hope that the dual nationality law will allow Mexicans in the United States to avoid discrimination there by becoming U.S. citizens while at the same time keeping a link to their mother country.</p>
+<p>The law has been passed by both houses of Mexico's congress but will not take effect until some 70 codes and rules covering immigration and nationality issues have been modified to take account of the changes. That process is likely to take about a year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

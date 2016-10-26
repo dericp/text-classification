@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="698765" id="root" date="1997-07-01" xml:lang="en">
+<title>ARGENTINA: Daily Argentine grain fixings - Camaras Arbitrales.</title>
+<headline>Daily Argentine grain fixings - Camaras Arbitrales.</headline>
+<dateline>BUENOS AIRES 1997-07-01</dateline>
+<text>
+<p>Average price fix for June 30 (in pesos/tonnes, FAS elevator, 1 peso=$1)</p>
+<p>		Buenos Aires  Quequen   Rosario   Bahia Blanca</p>
+<p> Oats	    unq	     unq	 unq	   unq</p>
+<p> Wheat	   142	     135	 141	   unq</p>
+<p> Maize (Flint)  96		99.5	96.8	  98.5</p>
+<p> Maize (Dent)   96		99.5	96.8	  98.5</p>
+<p> Sorghum	 unq	     unq	  80	    80</p>
+<p> Millet	  unq	     unq	 130	   unq</p>
+<p> Soybeans	247	     unq	 257	   unq</p>
+<p> Sunseeds	217	     212	 217	   212</p>
+<p> Linseed	 unq	     unq	 unq	   unq</p>
+<p>Source: Buenos Aires Cereals Exchange.</p>
+<p>((-- Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

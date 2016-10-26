@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="471970" id="root" date="1997-03-27" xml:lang="en">
+<title>MOROCCO: Morocco's Eqdom Credit profit down in 96.</title>
+<headline>Morocco's Eqdom Credit profit down in 96.</headline>
+<dateline>RABAT 1997-03-27</dateline>
+<text>
+<p>Moroccan credit firm Eqdom Credit on Thursday reported lower provisional net profit in 1996 of 96 million dirhams ($10.32 million) from 114.4 million the year before.</p>
+<p>The results in the weekly economic newspaper L'Economiste showed a turnover of 279 million dirhams in 1996 but gave no comparative figure for the previous year.</p>
+<p>Eqdom was set up in 1974 by holding Societe Nationale d'Investissement and major insurance companies.</p>
+<p>Listed on the Casablanca stock exchange, it was traded on March 27 at 1015 dirhams. ($1=9.3 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

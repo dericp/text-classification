@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394469" id="root" date="1997-02-21" xml:lang="en">
+<title>GERMANY: Latest opinion polls on German political parties.</title>
+<headline>Latest opinion polls on German political parties.</headline>
+<dateline>BONN 1997-02-21</dateline>
+<text>
+<p>Here are the latest opinion polls tracking national support for Germany's main political parties:</p>
+<p>    FEBRUARY 1997   CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Elect Res Feb 21*    40.0    35.0   5.0   11.0    4.0</p>
+<p> Forsa Feb 20*	  35.0    39.0   5.0   12.0    5.0</p>
+<p> Emnid Feb 16	   37.0    37.0   6.0   11.0    5.0</p>
+<p> Forsa Feb 14*	  36.0    39.0   5.0   11.0    5.0</p>
+<p> Allensbach Feb 12*   36.5    35.5   8.1   11.6    5.2</p>
+<p> Emnid Feb 9	    37.0    37.0   5.0   12.0    5.0</p>
+<p> Forsa Feb 6*	   36.0    38.0   6.0   11.0    5.0</p>
+<p> Emnid Feb 2	    37.0    37.0   6.0   11.0    5.0</p>
+<p>    JANUARY 1997    CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Forsa Jan 30	   36.0    38.0   6.0   13.0    4.0</p>
+<p> Emnid Jan 26	   39.0    37.0   5.0   11.0    5.0</p>
+<p> Emnid Jan 19	   37.0    35.0   6.0   13.0    5.0</p>
+<p> Elect Res Jan 17     42.0    33.0   5.0   12.0    4.0</p>
+<p> Allensbach Jan 15    36.7    35.1   6.8   13.7    4.7</p>
+<p> Emnid Jan 12	   38.0    36.0   5.0   13.0    4.0</p>
+<p> Emnid Jan 5	    38.0    36.0   5.0   12.0    5.0</p>
+<p>    DECEMBER 1996   CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Allensbach Dec 18    36.7    35.1   6.8   13.7    4.7</p>
+<p> Emnid Dec 15	   38.0    35.0   5.0   10.0    6.0</p>
+<p> Elect Res Dec 13     42.0    34.0   5.0   12.0    4.0</p>
+<p> Forsa Dec 12	   38.0    37.0   5.0   12.0    5.0</p>
+<p>    NOVEMBER 1996   CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Forsa Nov 28	   39.0    37.0   5.0   12.0    5.0</p>
+<p> Emnid Nov 24	   38.0    34.0   5.0   12.0    6.0</p>
+<p> Allensbach Nov 20    37.6    32.2   7.1   14.4    4.8</p>
+<p> Elect Res Nov 15     42.0    34.0   5.0   12.0    4.0</p>
+<p>OFFICIAL RESULTS OF THE OCTOBER 16, 1994 GENERAL ELECTION:</p>
+<p>			  CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p>			    41.5    36.4   6.9    7.3    4.4</p>
+<p>NOTES:</p>
+<p>* Electoral Research Group's Feb 21 poll taken Feb 17-20 with a sample of 1,251 and tolerance of 2.5 percent for the larger parties and 1.5 percent for the smaller parties.</p>
+<p>* Forsa's Feb 20 poll taken Feb 10-14 with a sample of 2,522 and tolerance of 2.5 percent.</p>
+<p>* Allensbach's Feb 12 poll taken Jan 9-21.</p>
+<p>* Forsa's Feb 14 poll taken Feb 3-7 with a sample of 2,509 and a tolerance of 2.5 percent.</p>
+<p>* Forsa's Feb 6 poll taken Jan 27-31 with a sample of 2,514 and a tolerance of 2.5 percent.</p>
+<p>Dates indicate the day of a poll's publication.</p>
+<p>Elect Res = Electoral Research Group (Forschungsgruppe Wahlen)</p>
+<p>-- Bonn newsroom, +49 228 2609760</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

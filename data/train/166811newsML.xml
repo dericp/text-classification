@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166811" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Meriden, Conn., seeks to sell real estate - paper.</title>
+<headline>Meriden, Conn., seeks to sell real estate - paper.</headline>
+<dateline>NEW YORK 1996-11-05</dateline>
+<text>
+<p>Meriden, Conn., seeking to boost tax revenues, hopes to sell around 40 of the 71 real estate properties that it owns, the Hartford Courant said on Tuesday.</p>
+<p>The city, which acquired the real estate over a number of years for various reasons, including abandonment and foreclosures, estimates that it is worth several hundred thousand dollars, the paper quoted the city manager as saying.</p>
+<p>On Wednesday, Meriden is expected to allocate $10,000 from the contingency budget for appraisals.</p>
+<p>Meriden plans to keep 31 of its properties for a variety of reasons, including possible parks and libraries. The city will seek requests from interested buyers for 16 properties, including vacant lots and a three-family house.</p>
+<p>Another 20 sites will be sold through a real estate broker, while a four abandoned properties are expected to revert to the adjacent property owners.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

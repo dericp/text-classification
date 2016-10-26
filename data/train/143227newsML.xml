@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143227" id="root" date="1996-10-25" xml:lang="en">
+<title>ESTONIA: Estonian bourse eases after sluggish session.</title>
+<headline>Estonian bourse eases after sluggish session.</headline>
+<dateline>TALLINN 1996-10-25</dateline>
+<text>
+<p>Trading was sluggish at Estonia's bourse on Friday and the index fell slightly, dealers said.</p>
+<p>Overall market volume was 4.3 million kroons compared with 10.9 million kroons on Thursday and the index fell 0.07 percent to 105.76.</p>
+<p>Market leader Hansa Bank accounted for the lion's share of activity at 2.9 million kroons and its price closed unchanged at 107.25 kroons.</p>
+<p>--Riga newsroom +3717-22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

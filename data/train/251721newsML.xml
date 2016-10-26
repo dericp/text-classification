@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251721" id="root" date="1996-12-12" xml:lang="en">
+<title>SOUTH AFRICA: Advtech buys study firm for 2.3 mln rand.</title>
+<headline>Advtech buys study firm for 2.3 mln rand.</headline>
+<dateline>JOHANNESBURG 1996-12-12</dateline>
+<text>
+<p>Advanced Technical Systems Ltd (Advtech) said on Thursday it had bought education study aids distributor, Guidelines, for 2.34 million rand with effect from December 1.</p>
+<p>Payment will be settled partly in cash and partly by the issue of Advtech &quot;N&quot; shares.</p>
+<p>It said the price excluded the liabilities of Guidelines and was subject to adjustment downwards if profit warranties for the three-month period ending February 28, 1997 and 12 month period ending February 28, 1998 were not met.</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

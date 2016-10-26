@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="472420" id="root" date="1997-03-27" xml:lang="en">
+<title>USA: Medtronic shrs surge after company comment.</title>
+<headline>Medtronic shrs surge after company comment.</headline>
+<dateline>NEW YORK 1997-03-27</dateline>
+<text>
+<p>Shares of Medtronic Inc surged on Thursday after the company said its pacemaker business was doing well and it was aiming for 15 percent compound annual growth in earnings and revenue.</p>
+<p>A spokesman for Medtronic said the company held a conference call with analysts on Thursday to address issues that it felt were holding back its stock price.</p>
+<p>Medtronic stock climbed 5-1/8 to 63-1/4 in late afternoon trade. About 2.27 million shares changed hands, compared with a daily average of about 1.11 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="475194" id="root" date="1997-03-29" xml:lang="en">
+<title>ITALY: SOCCER-ITALY V MOLDOVA TEAMS FOR WORLD CUP QUALIFIER.</title>
+<headline>SOCCER-ITALY V MOLDOVA TEAMS FOR WORLD CUP QUALIFIER.</headline>
+<dateline>TRIESTE, Italy 1997-03-29</dateline>
+<text>
+<p>Teams for a World Cup qualifier between Italy and Moldova on Saturday:</p>
+<p>Italy - 1-Angelo Peruzzi, 6-Alessandro Costacurta, 5-Alessandro Nesta, 2-Ciro Ferrara, 3-Paolo Maldini, 7-Angelo Di Livio, 10-Demetrio Albertini, 8-Roberto Di Matteo, 4-Dino Baggio, 11-Gianfranco Zola, 9-Christian Vieri.</p>
+<p>Moldova - 1-Denis Romanenco; 5-Vitali Culibaba, 3-Vasile Toloconicov, 4-Ion Testimetanu, 2-Oleg Fistican, 6-Marin Spinu, 8-Oleg Sischin, 9-Sergiu Epureanu, 7-Alexandur Curtean, 11-Serghei Clescenco, 10-Vladimir Gaidamasciuk.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="MOLDV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRIESTE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242741" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: Sallie Mae prices floating rate note issue.</title>
+<headline>Sallie Mae prices floating rate note issue.</headline>
+<dateline>WASHINGTON 1996-12-09</dateline>
+<text>
+<p>The Student Loan Marketing Association said Monday it priced a $500 million issue of short-term floating rate notes at 20 basis points above the 91-day U.S. Treasury bill.</p>
+<p>When-issued trading is expected to begin at 0820 EST (1320 GMT) Tuesday, it said.</p>
+<p>The notes are for settlement December 12. Maturity date is June 12, 1997. Cusip number is 86387TEX2.</p>
+<p>The interest rate on the notes will be reset the day after each weekly bill auction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="538564" id="root" date="1997-04-25" xml:lang="en">
+<title>ZAIRE: Aerial search finds no trace of refugees in Zaire.</title>
+<headline>Aerial search finds no trace of refugees in Zaire.</headline>
+<dateline>KISANGANI, Zaire 1997-04-25</dateline>
+<text>
+<p>U.N. officials said they found no refugees south of the Zairian city of Kisangani in an aerial search Friday, confirming reports 30,000 fled a second site in addition to 55,000 who vanished from their camp.</p>
+<p>&quot;We didn't see any refugees,&quot; said Carlos Haddad, Kisangani representative of the U.N. World Food Program. He said the plane flew 58 miles south of the northeastern Zaire capital.</p>
+<p>&quot;The forest is so dense that either they are hiding somewhere or they went west to Opala,&quot; Haddad said of the 55,000 refugees who disappeared from a camp at Kasese and 30,000 who had left a camp at Biaro, 25 miles south of Kisangani.</p>
+<p>He said the plane went as low as 1,000 feet and no refugees were seen at Biaro. The 55,000 Rwandan refugees at Kasese, 15 miles south of Kisangani, vanished earlier this week.</p>
+<p>&quot;We saw only 10 or 15, most probably women, walking along the road at around km 82 (mile 50),&quot; said Haddad, adding the plane tried to follow the main road south which turns into a narrow track.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KISANGANI, Zaire"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155758" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Trump wins court skirmish against Helmsley.</title>
+<headline>Trump wins court skirmish against Helmsley.</headline>
+<dateline>NEW YORK 1996-10-31</dateline>
+<text>
+<p>New York State Supreme Court Wednesday released its decision to throw out the $100 million suit filed against Donald Trump by two companies owned in part by Harry Helmsley, according to Jay Goldberg PC, Trump's law firm.</p>
+<p>Empire State Building Associates and Empire State Building Co charged Trump with interfering with their lease of the building and their relationship with building tenants, the firm said.  </p>
+<p>Trump, who in the summer of 1994 gained a 50 percent interest in New York's Empire State Building, sued the Helmsleys and their partner Peter Malkin, claiming they, operating through corporate entities as the managers of the building, had neglected its physical condition, the firm said.</p>
+<p>Trump said the purpose of doing so was to permit them to divert money that should have been used to repair the building, the firm said.</p>
+<p>In response, the Helmsley's and Malkin asserted that Trump wrongfully impeded their ability to negotiate leases. But Supreme Court Justice Edward Lehner threw out the suit, saying they failed to allege any actionable conduct, the firm said.</p>
+<p>A spokesman for the Helmsley organization could not be reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

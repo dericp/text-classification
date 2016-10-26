@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193851" id="root" date="1996-11-15" xml:lang="en">
+<title>SPAIN: Spain to keep golden share in Telefonica.</title>
+<headline>Spain to keep golden share in Telefonica.</headline>
+<dateline>MADRID 1996-11-15</dateline>
+<text>
+<p>The Spanish government, which will sell its remaining 21 percent stake in Telefonica on the stock market early next year, is to establish a &quot;golden share&quot; in the firm, a source at the Economy Ministry told Reuters on Friday.</p>
+<p>&quot;A golden share will be established at the placement,&quot; the source said.</p>
+<p>Although no further details were available immediately, typically a golden share would allow the government special voting rights over third party stake purchases of more than 10 percent of the firm.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

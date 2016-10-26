@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176487" id="root" date="1996-11-08" xml:lang="en">
+<title>JAPAN: Nissan - 6mth parent results.</title>
+<headline>Nissan - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-08</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  1.74 trln	 vs	    1.71 trln</p>
+<p> Operating	   38.04		vs	    5.12</p>
+<p> Current	prft 30.91		vs     loss 8.80</p>
+<p> Net	    prft 11.63		vs    loss 13.43</p>
+<p> EPS	     prft 4.63 yen	  vs     loss 5.34 yen</p>
+<p> Shares	   2.51 billion	  vs	2.51 billion</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Nissan Motor Co Ltd is a leading car manufacturer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

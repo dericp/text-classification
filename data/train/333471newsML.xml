@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333471" id="root" date="1997-01-26" xml:lang="en">
+<title>MEXICO: Mexican family takes out ad asking not to be robbed.</title>
+<headline>Mexican family takes out ad asking not to be robbed.</headline>
+<dateline>LEON, Mexico 1997-01-26</dateline>
+<text>
+<p>A Mexican family took out a newspaper advertisement on Sunday asking crooks to please stop robbing the family.</p>
+<p>&quot;Mister robbers, you have cleaned us out ... please do not visit us anymore, it's not worth your while,&quot; the Robles family wrote in a newspaper ad in the central Mexican state of Guanajuato.</p>
+<p>The ad recounts how the Robles family was held up in a local restaurant on Dec. 27, losing their money and jewels. A month later, two armed robbers held up the family again in their home, taking nearly everything of value.</p>
+<p>&quot;The only things we have left is our refrigerator, our television set and a VCR,&quot; the family said.</p>
+<p>Crime in Mexico has soared in the past few years amid an economic crisis that threw millions out of work. Last week, the U.S. government warned its citizens not to take taxicabs in Mexico City because many are used to rob passengers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEON, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242348" id="root" date="1996-12-08" xml:lang="en">
+<title>EGYPT: Egypt raises cotton export prices for 3 grades.</title>
+<headline>Egypt raises cotton export prices for 3 grades.</headline>
+<dateline>CAIRO 1996-12-08</dateline>
+<text>
+<p>Egyptian exporters raised export prices for three grades of cotton but kept prices for the remaining grades unchanged, the Alexandria Cotton Exporters Association (Alcotexa) said on Sunday.</p>
+<p>The association said prices for Giza 76 and Giza 70 were raised by one centilibre (U.S. cents per lb). Giza 75 prices were increased by two centilibres.</p>
+<p>The prices in centilibres (valid until 2200 GMT December 14) are:</p>
+<p>	     FG/EX    FG+1/4     FG     FG-1/4    G/FG    G+3/8</p>
+<p> Giza 76   174.0    168.0    162.0    156.0    150.0    147.0</p>
+<p> Giza 70   167.0    161.0    155.0    149.0    143.0    140.0</p>
+<p> Giza 77   162.0    156.0    150.0    144.0    138.0    135.0</p>
+<p> Giza 75   136.0    130.0    124.0    118.0    112.0    109.0</p>
+<p> Giza 85   131.0    125.0    119.0    113.0    107.0    104.0</p>
+<p> Giza 83   127.0    121.0    115.0    109.0    103.0    100.0</p>
+<p> Giza 80   127.0    121.0    115.0    109.0    103.0    100.0</p>
+<p>Note - FG/EX = fully good/excellent, G/FG = good/fully good</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

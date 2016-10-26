@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225514" id="root" date="1996-11-29" xml:lang="en">
+<title>UK: UK grain futures close lower on currency.</title>
+<headline>UK grain futures close lower on currency.</headline>
+<dateline>LONDON 1996-11-29</dateline>
+<text>
+<p>UK grain futures were closed lower on Friday with currency the main factor in the market.</p>
+<p>&quot;The market is being driven by currency, because there is nothing else going on,&quot; said a trader.</p>
+<p>Wheat futures close 0.35 to 0.20 stg down after trading 528 lots while barley was 0.75 stg down on 98 lots.</p>
+<p>Amsterdam milling wheat futures were neglected.</p>
+<p>Cash market traders reported little activity although Jan/Mar feed wheat fetching 97 stg and May 99 and 99.50 stg a tonne fob east coast ports.</p>
+<p>Delivered business was light.</p>
+<p>&quot;It's been a very difficult week, there has been no continuity in trade,&quot; said a trader.</p>
+<p>--Jim Ballantyne, London Newsroom +44 171 542 8062</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

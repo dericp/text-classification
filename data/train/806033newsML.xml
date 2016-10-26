@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806033" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Dow slips losses to storm higher, NYSE curbs on.</title>
+<headline>Dow slips losses to storm higher, NYSE curbs on.</headline>
+<dateline>NEW YORK 1997-08-18</dateline>
+<text>
+<p>The Dow Jones Industrial Average shook off earlier losses this morning and stormed higher, with the Dow rising 51 points to 7746.</p>
+<p>The gains prompted the New York Stock Exchange to set curbs on index-arbitrage trading curbs at 1521 EDT/1921 GMT, only about an hour after it took off the same curbs due to heavy losses in the blue chip average.</p>
+<p>The Standard &amp; Poor's 500 Index was up seven to about 908.  </p>
+<p>While those two indices of large, well-known companies shook off their earlier losses, the Nasdaq Composite Index and the Russell 2000 remained mired in modest losses.</p>
+<p>The long bond was up 11/32 to yield 6.52 percent.</p>
+<p>Analysts said the gains were made as some investors sought an entry point after Friday's losses.  But many were still unsure of the short-term direction of blue chip stocks, accounting for today's see-sawing in equities.</p>
+<p>The Dow started the session with gains of about 30 points before dipping to losses that prompted the earlier NYSE curbs on program trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

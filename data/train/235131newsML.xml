@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235131" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Thermo Sentron enters resale alliance.</title>
+<headline>Thermo Sentron enters resale alliance.</headline>
+<dateline>MINNEAPOLIS 1996-12-04</dateline>
+<text>
+<p>Thermo Sentron Inc said Tuesday it entered into a reseller alliance with TranScape, the new logistics software company formed by Pitney Bowes Inc.</p>
+<p>Thermo Sentron, TransScape and a third company, Computer Identics Corp/International Data Matrix Inc, a unit of Robotic Vision Systems Inc,  have developed an unattended shipping system for mid- and high-volume shippers.</p>
+<p>Under the alliance Thermo Sentron, a public subsidiary of Thermo Electron, will supply in-motion checkweighers for high-speed package weighing.</p>
+<p>Thermo Sentron develops and markets high-speed precision weighing and inspection equipment.</p>
+<p>((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

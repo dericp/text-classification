@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227301" id="root" date="1996-12-01" xml:lang="en">
+<title>BAHRAIN: ABC lifts 9-month net.</title>
+<headline>ABC lifts 9-month net.</headline>
+<dateline>MANAMA 1996-12-01</dateline>
+<text>
+<p>Nine months to September 30, 1996</p>
+<p>		     (million U.S. dollars)</p>
+<p>Net profit		   104.0    vs     101.0</p>
+<p>Net interest income	297.0    vs     293.0 </p>
+<p>Operating income	   489.0    vs     497.0 </p>
+<p>Operating cost	     306.0    vs     296.0 </p>
+<p>Loan loss provision	 15.0    vs	44.0 </p>
+<p>Assets		    21,417.0    vs  19,748.0</p>
+<p>Loans and advances     10,985.0   vs  10,694.0</p>
+<p>Full Name: Arab Banking Corporation B.S.C.</p>
+<p>NOTE: Shares of the Bahrain-based bank is traded on the Bahraini, Paris and Kuwaiti bourses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

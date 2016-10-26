@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242040" id="root" date="1996-12-08" xml:lang="en">
+<title>SPAIN: SOCCER-SPANISH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-SPANISH FIRST DIVISION SUMMARIES.</headline>
+<dateline>MADRID 1996-12-08</dateline>
+<text>
+<p>Spanish first division summaries on Sunday:</p>
+<p>Oviedo 1 (Oli Alvarez 16) Tenerife 3 (Juanele Castano 25, 35, Pablo Paz 87). Halftime 1-2. Attendance 18,000.</p>
+<p>Racing Santander 1 (Jose Luis Zalazar 10) Real Sociedad 2 (Darko Kovacevic 1, 27). 1-2. 16,000.</p>
+<p>Deportivo 1 (Corentin Martins 7) Valencia 0. 1-0. 21,000.</p>
+<p>Real Betis 5 (Hristo Vidakoiv 18, Pier Cherubino 37, 71, Roberto Rios 53, 77) Logrones 1 (David Clotec 49). 2-0. 41,000.</p>
+<p>Espanyol 3 (Francisco Lopez 32, Mauricio Pochettino 45, Nicolas Ouedec 78) Zaragoza 0. 2-0. 15,000.</p>
+<p>Rayo Vallecano 0 Compostela (Christopher Ohen 71). 0-0. 9,000.</p>
+<p>Extremadura 1 (Ferreira 23) Valladolid 1 (Jose Quevedo 17). 1-1. 8,000.</p>
+<p>Celta Vigo 2 (Haim Revivo 24, Javi Gonzalez 90) Sporting Gijon 1 (Ricardo Bango 19). 1-1. 18,000.</p>
+<p>Athletic Bilbao 1 (Joseba Etxeberria 65) Atletico Madrid 1 (Milinko Pantic 41). 0-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

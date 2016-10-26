@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="433940" id="root" date="1997-03-11" xml:lang="en">
+<title>FRANCE: French wine exports recover from nuclear boycott.</title>
+<headline>French wine exports recover from nuclear boycott.</headline>
+<dateline>PARIS 1997-03-11</dateline>
+<text>
+<p>French wine and spirits exports, recovering from a trade boycott after nuclear tests in the Pacific, rose by five percent in 1996 to 36.2 billion francs ($6.3 billion), industry spokesmen said on Tuesday.</p>
+<p>The industry generated a 32 billion franc trade surplus, representing a quarter of France's total surplus.</p>
+<p>&quot;As far as the trade balance is concerned, we come second behind the French aerospace industry but ahead of the automobile and perfume industries,&quot; said Philippe Pascal, president of the French Federation of Wine and Spirits Exporters (FEVS).</p>
+<p>He told a news conference the figures were equal to the sale of 120 Airbus passenger planes or 400 TGV high-speed trains.</p>
+<p>Colleague Louis Latour said boycotts of French wines called in several countries after Paris launched its final series of nuclear tests in the Pacific from September 1995 to January 1996 had little effect last year after the tests ended.</p>
+<p>&quot;The effects (of the boycott) are disappearing. The small number of markets where the effect was felt, in Australia or Denmark for example, are recovering. One can now hope that this entire affair is behind us,&quot; Latour said.</p>
+<p>Top clients for French wines and spirits last year were Britain, the United States, Germany, Belgium-Luxembourg and Japan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

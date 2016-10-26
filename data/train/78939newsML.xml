@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78939" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Jacor to swap TV station for radio stations.</title>
+<headline>Jacor to swap TV station for radio stations.</headline>
+<dateline>CINCINNATI 1996-09-26</dateline>
+<text>
+<p>Jacor Communications Inc said Thursday it has reached an agreement with Gannett Co Inc to exchange Jacor's WTSP-TV station in Tampa, Fla., for six of Gannett's radio stations.</p>
+<p>If approved by regulators, Jacor will assume ownership of Gannett's KIIS-FM and KIIS-AM radio stations in Los Angeles, KSDO-AM and KKBH-FM in San Diego, and WUSA-FM and WDAE-AM in Tampa-St. Petersburg.</p>
+<p>Jacor owns, operates, represents or provides programming for 73 radio stations in the United States. It also owns WKRC-TV in Cincinnati.  </p>
+<p>The company said it plans to pursue further acquisitions of &quot;complementary&quot; stations in its existing markets, and radio groups or individual stations in other markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

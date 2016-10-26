@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14350" id="root" date="1996-08-26" xml:lang="en">
+<title>VENEZUELA: Venezuela cement consumption falls 20 pct in Q2.</title>
+<headline>Venezuela cement consumption falls 20 pct in Q2.</headline>
+<dateline>CARACAS 1996-08-26</dateline>
+<text>
+<p>Venezuelan second quarter cement consumption, a leading indicator of economic activity, fell 20 percent to 965,448 tonnes compared to the same period in 1995, Venezuela's cement business chamber (AVPC) said.</p>
+<p>&quot;Venezuelan cement consumption between April and July was 965,448 tonnes. Over the same period in the year before, sales reached 1,196,961 tonnes,&quot; AVCPC said in a press statement.</p>
+<p>Cement sales over the first half of 1996 reached just over two million tonnes, compared to 2,391,739 tonnes in 1995, AVPC added.</p>
+<p>Venezuela's recession-gripped non-oil sector is forecast to shrink 3.5 percent over 1996, while the oil sector will grow about 6.2 percent, according to IMF projections.</p>
+<p>-- Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

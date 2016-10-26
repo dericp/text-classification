@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155717" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Nasdaq flies high on rosy predictions for chips.</title>
+<headline>Nasdaq flies high on rosy predictions for chips.</headline>
+<dateline>NEW YORK 1996-10-31</dateline>
+<text>
+<p>Tech stocks vaulted higher after the Semiconductor Industry Association said it expected the worldwide market for semiconductor chips to grow 7.4 percent in 1997 to $138.8 billion and return to double-digit growth in 1998 and 1999.</p>
+<p>The Nasdaq Composite Index, heavy with tech stocks, climbed 15.28, over 1.27 percent to close unofficially at 1221.51.</p>
+<p>&quot;Chip demand is getting better, and the whole market did well today,&quot; said a trader at Wheat First Securities. &quot;I also think you saw some short-covering.&quot;</p>
+<p>The Dow Jones Industrial average rose 36 points to about 6030.</p>
+<p>Intel Corp rose 3-1/8 to 109-7/8, Sun Microsystems rose 2-1/8 to 61, and Cisco Systems rose 3-3/4 to 62-7/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113480" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: First Industrial buys Columbus, Ohio, properties.</title>
+<headline>First Industrial buys Columbus, Ohio, properties.</headline>
+<dateline>CHICAGO 1996-10-14</dateline>
+<text>
+<p>First Industrial Realty Trust Inc sid Monday it closed a $21.85 million deal to acquire two bulk warehouses totaling 1.1 million square feet in Columbus, Ohio.</p>
+<p>First Industrial said the deal was an &quot;umbrella partnership real estate investment trust&quot; transaction, which permits the company to offer partnership units in exchange for properties.</p>
+<p>First Industrial said it acquired the portfolio for $21.2 million in cash and the issuance of 24,789 limited partnership units in its First Industrial LP unit.</p>
+<p>&quot;We acquired these properties below replacement cost and anticipate yields in excess of 11 percent,&quot; Michael Tomasz, president, said in a statement.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

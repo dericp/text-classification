@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="217560" id="root" date="1996-11-26" xml:lang="en">
+<title>USA: Nebraska cattle flat-off $1 at $112/dressed-trade.</title>
+<headline>Nebraska cattle flat-off $1 at $112/dressed-trade.</headline>
+<dateline>CHICAGO 1996-11-26</dateline>
+<text>
+<p>Nebraska cattle near midday Tuesday were trading in light to moderate volume, market sources said.</p>
+<p>About 5,000 head sold at $110.00 to mostly $112.00 per cwt on a dressed basis, $0.50 to $1.00 lower than Monday, market sources said.</p>
+<p>Weakness was attributed to increased offerings of finished cattle. Friday's USDA monthly Cattle-On-Feed Report showed on-feed supplies as of November 1 at 101 percent of a year ago and October placements at 111 percent, both over analysts' projections.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

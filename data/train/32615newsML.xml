@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32615" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: U.S. House votes to create commemorative quarter.</title>
+<headline>U.S. House votes to create commemorative quarter.</headline>
+<dateline>WASHINGTON 1996-09-04</dateline>
+<text>
+<p>The House by voice vote Wednesday passed legislation allowing the secretary of the Treasury to issue five new quarter-dollar coins each year for 10 years, commemorating each of the 50 states.</p>
+<p>The measure would allow the Treasury to begin issuing the commemorative quarters in 1997. The quarters will be standard circulating coins, similar to those issued in honor of the U.S. bicentennial in 1976. The Senate has not yet taken up the bill.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="424868" id="root" date="1997-03-06" xml:lang="en">
+<title>SPAIN: Spain 1997 GDP to grow 2.7 percent - BCH.</title>
+<headline>Spain 1997 GDP to grow 2.7 percent - BCH.</headline>
+<dateline>MADRID 1997-03-06</dateline>
+<text>
+<p>Spanish bank Banco Central Hispano (BCH) said on Thursday it forecast Spanish gross domestic product growth of 2.7 percent in 1997.</p>
+<p>In a note, BCH said Spain's GDP was likely to show low growth in the first quarter after a truckers' strike and bad weather in January, but it is expected to rebound later in the year reaching a level of 2.9 percent in the last quarter.</p>
+<p>On Wednesday, Economy Secretary Cristobal Montoro said Spain's 1996 GDP, which rose 2.2 percent during the year and 2.6 percent in the last quarter year-on-year, supported the government forecast for three-percent 1997 growth.</p>
+<p>-- Madrid Newsroom, + 341 585 8340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

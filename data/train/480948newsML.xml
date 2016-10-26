@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="480948" id="root" date="1997-04-02" xml:lang="en">
+<title>ESTONIA: UHISPANK TAKES OVER IRIS'S DEBT-PAPER.</title>
+<headline>UHISPANK TAKES OVER IRIS'S DEBT-PAPER.</headline>
+<dateline>TALLINN 1997-04-02</dateline>
+<text>
+<p>Iris, a compost and fertiliser firm, has resumed output and will begin to repay its 37 million kroon debt to Uhispank, newspaper Aripaev said on Wednesday.</p>
+<p>The former Pohja-Eesti Pank loan and compost production will be taken over by Uhispank, Uhispank's loan department head Andrus Kimber said, the business newspaper added.</p>
+<p>Kimber added that it is too dificult to say if the factory will be sold or the bank will sell the products, the newspaper said.</p>
+<p>-- David Mardiste Tallinn newsroom +372 630 8400 reuters@reuters.ee</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

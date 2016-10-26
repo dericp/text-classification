@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389286" id="root" date="1997-02-19" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Feb 19.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Feb 19.</headline>
+<dateline>LONDON 1997-02-19</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- The Gulf Aircraft Maintenance Co won a $47 million maintenance contract with the British Royal Airforce.</p>
+<p>- Yemen plans to issue a 1,000 riyal note in 1998.</p>
+<p>- Tunisia's industrial exports in 1996 increased by 3.8 percent, a study showed.</p>
+<p>- Egypt is to invest $600 million in four new paper projects.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Iraq's income from oil after the implementation of the oil-for-food deal reached $650 million, the commerce minister said.</p>
+<p>- Jordan is to set up an electricity firm with capital of five million dinars.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARABST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

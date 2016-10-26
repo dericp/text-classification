@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65642" id="root" date="1996-09-19" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia approves Ritonavir HIV/AIDS drug.</title>
+<headline>RTRS - Australia approves Ritonavir HIV/AIDS drug.</headline>
+<dateline>CANBERRA 1996-09-19</dateline>
+<text>
+<p>Australia has approved the drug Ritonavir, made by Abbott Laboratories Inc, for the treatment of HIV/AIDS, a government spokesman said on Thursday.</p>
+<p>&quot;This new class of antiretroviral drugs which are known as protease inhibitors act on the HIV virus in a different manner to other drugs and studies have shown them to be effective when used in combination with other medicines,&quot; said Bob Woods, parliamentary secretary to the health minister.</p>
+<p>Ritonavir is the third product in the new class of HIV/AIDS drugs approved in Australia this year, he said in a statement.  </p>
+<p>Marketed in Australia by Abbott Australasia as Norvir, the drug was registered by the Therapeutic Goods Administration within six months, the statement said.</p>
+<p>The Australian regulator is the fifth regulatory agency in the world to register the treatment.</p>
+<p>&quot;Approvals for Ritonavir have been granted in Australia, Switzerland, Canada and Europe within five weeks of each other and it was first approved in the United States in March this year,&quot; Woods said.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

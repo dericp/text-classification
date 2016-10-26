@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172033" id="root" date="1996-11-07" xml:lang="en">
+<title>RUSSIA: SWIMMING-POPOV READY TO TRAIN AFTER KNIFE ATTACK.</title>
+<headline>SWIMMING-POPOV READY TO TRAIN AFTER KNIFE ATTACK.</headline>
+<dateline>MOSCOW 1996-11-07</dateline>
+<text>
+<p>Doctors have told double Olympic gold medallist Alexander Popov he can get back in the pool and start training after being knifed on a Moscow street in August, Itar-Tass news agency said on Thursday.</p>
+<p>The swimmer had a check up in a Moscow clinic and can start training when he returns on Sunday to Australia, his home for nearly four years.</p>
+<p>At the Atlanta Olympics, Popov became the first man to retain the 100 and 50 metres freestyle titles.</p>
+<p>He was stabbed in the stomach during an argument with a Moscow water melon seller and underwent two hours of delicate surgery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="362358" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Celebrity Entertainment oks reverse split.</title>
+<headline>Celebrity Entertainment oks reverse split.</headline>
+<dateline>PALM BEACH, Fla. 1997-02-07</dateline>
+<text>
+<p>Celebrity Entertainment Inc said the company will cause a reverse split of its outstanding common stock on the basis of one new share of common for every 50 shares of existing common stock.</p>
+<p>As of November 19, 1996 there were 15,215,412 shares of common stock outstanding, it said.</p>
+<p>The company believes the resulting shares will reflect a more stabilized price and will establish a simpler platform for reporting future net revenues, which are expected due to the company's new operations and pending acquisition.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

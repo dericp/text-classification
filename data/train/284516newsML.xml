@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284516" id="root" date="1997-01-02" xml:lang="en">
+<title>NORWAY: Norway shares fall after Wall Street slump.</title>
+<headline>Norway shares fall after Wall Street slump.</headline>
+<dateline>OSLO 1997-01-02</dateline>
+<text>
+<p>Norwegian shares started the New Year trading in negative territory on Thursday following losses on Wall Street on Tuesday.</p>
+<p>Dealers said the Oslo Bourse was expected to continue tracking U.S. developments on Friday.</p>
+<p>&quot;But Norway held its ground relatively well compared to some other European countries today,&quot; one dealer suggested.</p>
+<p>Oslo's Total index, which hit the 55th record closing high of 1996 on Monday, shed 0.48 percent to close at 963.71 points. Turnover was a low 585 million crowns.  </p>
+<p>&quot;Some people are still on holiday,&quot; one dealer said to explain the thin volume.</p>
+<p>Losses were across the board with shipping worst hit.</p>
+<p>Bergesen, Norway's biggest shipping company, saw its A share fall 2.6 percent to 152 crowns.</p>
+<p>Industrial conglomerate Norsk Hydro, Norway's biggest company, was down 0.6 percent at 343 crowns.</p>
+<p>--Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

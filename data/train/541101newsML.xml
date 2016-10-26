@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541101" id="root" date="1997-04-25" xml:lang="en">
+<title>JAPAN: June JGB futures fall 1.0 to 125.63 after Nissan.</title>
+<headline>June JGB futures fall 1.0 to 125.63 after Nissan.</headline>
+<dateline>TOKYO 1997-04-25</dateline>
+<text>
+<p>The key June 10-year Japanese government bond (JGB) futures contract fell one full point to 125.63 on Friday afternoon after Nissan Mutual Life Insurance Co was ordered to halt its business.  </p>
+<p>The key contract closed the Tokyo session at 125.50 against Thursday's finish of 126.63.</p>
+<p>Traders said sentiment was hurt by worries that Nissan Life may be forced to sell its assets, which include yen bonds, and by concerns over possible bond sales from life insurers other than the troubled Nissan Life.</p>
+<p>&quot;Life insurers may have to sell JGBs to take a share of the burden to help Nissan Life,&quot; said a securities house dealer.</p>
+<p>There was also a vague rumour that the Bank of Japan (BOJ) may raise interest rates in May at the earliest.</p>
+<p>The BOJ may need to raise interest rates to help financial institutions having difficulties due to a negative interest rate spread, traders said.</p>
+<p>This negative spread resulting from Japan's ultra-low interest rates is seen responsible for the institutions' low investment returns.</p>
+<p>-- Tokyo Treasury Desk +81-33432-8570</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

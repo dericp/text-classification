@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147132" id="root" date="1996-10-28" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa industrials end weak, battered by rand.</title>
+<headline>S.Africa industrials end weak, battered by rand.</headline>
+<dateline>JOHANNESBURG</dateline>
+<text>
+<p>South African industrial shares ended weak in busy trading, battered by an ailing rand, dealers said. But gold shares finished firm lifted by a better rand gold price and stronger bullion.</p>
+<p>Comments from central Reserve Bank governer Chris Stals' that he did not see an interest rate cut next year, but possibly a rate hike, added to the gloom on the market, dealers said.</p>
+<p>Dealers said the market would watch the rand closely on Tuesday as there were no major economic indicators due this week.</p>
+<p>The overall index shed 20.9 points to 6,964.3, the industrial index was off 37.5 points to 8,221.4 and the gold index gained 13.8 points to 1,717.7.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

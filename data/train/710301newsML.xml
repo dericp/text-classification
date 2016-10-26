@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710301" id="root" date="1997-07-07" xml:lang="en">
+<title>ARGENTINA: Argentine weekly grain/oilseed export snapshot.</title>
+<headline>Argentine weekly grain/oilseed export snapshot.</headline>
+<dateline>BUENOS AIRES 1997-07-07</dateline>
+<text>
+<p>Agriculture Secretariat weekly estimate, to July 2, of 1996/97 shipments, export commitments and purchases by exporters in indicated crop years   ...........shipments..commits..crop year...exporter purchases</p>
+<p>(thousands of tonnes).........................1997/98..1996/97</p>
+<p> Bread wheat  8,128.0  9,300.0   Dec-Nov	  104.8  9,375.7</p>
+<p> Forrage wheat  188.3    230.0   Dec-Nov	    n/a    188.6</p>
+<p> Maize	  6,859.3  7,710.0   Mar-Feb	   10.1  7,817.5</p>
+<p> Sorghum	  447.5    450.0   Mar-Feb	    n/a    553.9</p>
+<p> Soybeans	 467.5    500.0   Apr-Mar	    4.2  1,357.6</p>
+<p> Sunseeds	  22.3     23.0   Jan-Dec	    n/a    149.5</p>
+<p>The Secretariat made the following estimates of probable total 1996/97 exports (thousands of tonnes):</p>
+<p> Bread wheat	    10,200.0</p>
+<p> Forrage wheat		 n/a</p>
+<p> Maize		     9,500.0</p>
+<p> Sorghum		     700.0</p>
+<p> Soybeans		    600.0</p>
+<p> Sunseeds		     50.0</p>
+<p>((-- Buenos Aires Newsroom +541-318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

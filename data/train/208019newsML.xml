@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208019" id="root" date="1996-11-21" xml:lang="en">
+<title>UK: Russia's Novorossiisk reopens after brief closure.</title>
+<headline>Russia's Novorossiisk reopens after brief closure.</headline>
+<dateline>LONDON 1996-11-21</dateline>
+<text>
+<p>Russia's main oil export terminal at Novorossiisk on the Black Sea closed at midday on Wednesday due to high winds but reopened early on Thursday, a shipping source said.</p>
+<p>The port closed at 1230 local time on Wednesday as winds gusted up to force seven but reopened at 0600 local time on Thursday as they subsided.</p>
+<p>One crude tanker was berthed with four more waiting at anchor outside the terminal, the source added.</p>
+<p>Other oil ports on the Black Sea and Baltic were open and operating normally.</p>
+<p>--London Newsroom +44 171 542 7930</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

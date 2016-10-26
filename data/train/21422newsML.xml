@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21422" id="root" date="1996-08-29" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar ends flat for 4th straight day.</title>
+<headline>Venezuela bolivar ends flat for 4th straight day.</headline>
+<dateline>CARACAS 1996-08-29</dateline>
+<text>
+<p>The Venezuelan bolivar closed flat at 474.50/475.50 per dollar Thursday, the fourth straight session unchanged in slow trading, dealers said.</p>
+<p>&quot;The market was fairly quiet....As there as not too much demand the Central Bank did not have to supply many dollars,&quot; one trader said.</p>
+<p>Traders said the market had not been affected by Wednesday's surprise cancellation of the planned Banco de Venezuela privatization.</p>
+<p>-- Silene Ramirez, Caracas newsroom, 582 834405</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

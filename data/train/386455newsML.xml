@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386455" id="root" date="1997-02-18" xml:lang="en">
+<title>SINGAPORE: Singapore GDP rises 5.8 pct in Q4 of 1996.</title>
+<headline>Singapore GDP rises 5.8 pct in Q4 of 1996.</headline>
+<dateline>SINGAPORE 1996-11-08</dateline>
+<text>
+<p>Singapore's gross domestic product (GDP) grew a real 5.8 percent in the fourth quarter of 1996 after rising by 3.3 percent in the third quarter, the Ministry of Trade and Industry said on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

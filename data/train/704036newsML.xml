@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="704036" id="root" date="1997-07-03" xml:lang="en">
+<title>USA: Tobacco companies say national settlement needed.</title>
+<headline>Tobacco companies say national settlement needed.</headline>
+<dateline>NEW YORK 1997-07-03</dateline>
+<text>
+<p>The leading U.S. cigarette makers on Thursday said their settlement of the state of Mississippi's Medicaid lawsuit underscores the importance of a national resolution of tobacco-related litigation.</p>
+<p>&quot;The settlement resolves certain legal and financial issues in one state, but it does not -- and could not -- address broader issues of concern in Mississippi and throughout the nation,&quot; the companies said in a statement.  </p>
+<p>The companies said the $368.5 billion proposal agreed to last month represents a plan to reduce youth access to tobacco products and to preserve the rights of adults who choose to smoke.</p>
+<p>&quot;The Mississippi settlement is a step toward achieving this goal...Today's state action ends one case, but it does not end the need for a national solution of the tobacco conflict,&quot; the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

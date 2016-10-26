@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="333071" id="root" date="1997-01-25" xml:lang="en">
+<title>CHINA: HK provisional legislature elects pro-China Fan boss.</title>
+<headline>HK provisional legislature elects pro-China Fan boss.</headline>
+<dateline>SHENZHEN, China 1997-01-25</dateline>
+<text>
+<p>A controversial provisional legislature, set up to make laws in Hong Kong after its reversion to China this year, elected pro-Beijing politician Rita Fan as its president on Saturday.</p>
+<p>Fan collected 33 of the votes from the 60-member body meeting in the Chinese city of Shenzhen, while her only rival Andrew Wong, incumbent president of Hong Kong's current elected Legislative Council, scored 27.</p>
+<p>The meeting, observed by journalists via closed circuit television, took place amid a rift between China and outgoing colonial power, Britain, over Bejing's plans to roll back civil liberties in Hong Kong after the handover on July 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHENZHEN, China"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

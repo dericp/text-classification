@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565928" id="root" date="1997-05-07" xml:lang="en">
+<title>CHILE: Chile cenbank mulling options on Banco Santiago.</title>
+<headline>Chile cenbank mulling options on Banco Santiago.</headline>
+<dateline>SANTIAGO 1997-05-07</dateline>
+<text>
+<p>Chile's Central Bank is studying its options after Banco Santiago set a lower-than-expected share price for an upcoming capital increase in a move which could cost the Central Bank hundreds of millions of dollars.</p>
+<p>&quot;We have to choose the option which best defends the Central Bank's assets,&quot; president Carlos Massad told reporters.</p>
+<p>The bank owns 38.5 percent of Santiago, Chile's largest private bank, and had planned to sell the stake for 12.8 pesos a share, which would have raised around $1 billion.  </p>
+<p>But its plans were torpedoed by Santiago's announcement Monday that it would offer its $150 million capital increase for just eight pesos a share which sent the bank's stock price tumbling in Santiago and New York.</p>
+<p>The Central Bank is now studying whether to buy shares itself in the capital increase, which would stop its shareholding from being diluted, or to sell its preferential option to buy shares in the capital increase, said Massad.</p>
+<p>He acknowledged that the capital increase would hurt the central bank by reducing the proceeds it will receive for the sale of its shareholding in Banco Santiago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

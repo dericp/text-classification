@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264207" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: New issues on municipal calendar -updated 12/18/96.</title>
+<headline>New issues on municipal calendar -updated 12/18/96.</headline>
+<dateline>NEW YORK 1996-12-18</dateline>
+<text>
+<p>The following new issues were added to the municipal sales calendar:</p>
+<p>COMPETITIVE BOND SALES  COMP1</p>
+<p> AMOUNT   ISSUER					     SECURITY	SALE DATE</p>
+<p>(,000 omitted)</p>
+<p>   $1.950  Hills-Beaver ISD 671, Minn.		  GO		1/27/97</p>
+<p>NEGOTIATED SALES  NEGO1</p>
+<p> AMOUNT	   ISSUER				 SR. MANAGER	PRICING/AWARD</p>
+<p>(,000 omitted)</p>
+<p>$11.000   Flint, Mich.,				 Graicap		wk 1/6</p>
+<p>NOTE SALES  NOTE1</p>
+<p>Competitive Note Sales</p>
+<p>AMOUNT	  ISSUER/TYPE						  SALE DATE</p>
+<p>(,000 omitted)</p>
+<p>Negotiated Note Sales</p>
+<p>AMOUNT	  ISSUER				  SR.MANAGER     PRICING/AWARD</p>
+<p>(,000 omitted)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

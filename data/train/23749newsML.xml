@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23749" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: OPTIONS - Time decay weighs on dollar volatilities.</title>
+<headline>OPTIONS - Time decay weighs on dollar volatilities.</headline>
+<dateline>CHICAGO 1996-08-30</dateline>
+<text>
+<p>Implied volatilities for dollar-pair options continued sliding in quiet late Friday business as time-decay over a long weekend in the U.S. weighed on the market, dealers said.</p>
+<p>With the spot dollar well above critical support levels, activity fizzled out early because U.S. financial markets will be closed on Monday for Labor Day, they said.</p>
+<p>&quot;Basically, things have gotten gradually quiet over the course of the day, and volatilities have continued to soften,&quot; said a trader at a Canadian bank in Toronto.  </p>
+<p>One-month implied volatility for dollar/mark was off 0.2 point to 6.55/6.75 percent. One-month dollar/yen dipped to 6.2/6.4 percent from Thursday's 6.3/6.7.</p>
+<p>Risk reversals, which measure pricing differential between puts and calls, were steady. One-month 25-delta was at 0.6/0.8 percent in favor of mark calls in dollar/mark and 0.7/1.0 percent in favor of yen calls in dollar/yen.</p>
+<p>&quot;This week has been tough because...there wasn't too much liquidity, and everything just settled in where it is,&quot; said an interbank broker in New York.  </p>
+<p>The front end of the volatility curve, around the one-week area, was ruthlessly marked down because of the time decay, although the back end was more or less steadier.</p>
+<p>Traders said the spot dollar's rise above 108.50 yen, a longstanding resistance level, to the 108.80 area did not spur interest in options.</p>
+<p>Instead, the move seemed to have eased concerns the U.S. unit might have reached a near-term top after a brief rally earlier in the week.  </p>
+<p>&quot;Spot did tick up above 108.50, which was a little surprising especially in this kind of a market,&quot; the interbank broker said. &quot;But once everybody is back in the market, things could settle down and we could go back into a range.&quot;</p>
+<p>The dollar was slightly weaker in early trade but slowly crept up towards the end of the day as prospects of a Federal Reserve credit tightening by the end of the year got fresh support from a big jump in August Chicago Purchasing Managers index. The index rose to 60.0 in August from 51.2 in July.  </p>
+<p>Volatilities for the European crosses were also mostly subdued amid uncertainties about the fate of European Monetary Union.</p>
+<p>One-month mark/French franc eased slightly to 2.8/3.3 percent, helped by a pull-back in the spot mark ahead of Sunday's meeting between French President Jacques Chirac and German Chancellor Helmut Kohl.</p>
+<p>-- Chicago Derivatives Desk (312) 408-8750</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

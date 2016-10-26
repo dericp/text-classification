@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667006" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Caltex to challenge IRS claim for $292 million.</title>
+<headline>Caltex to challenge IRS claim for $292 million.</headline>
+<dateline>IRVING, Texas 1997-06-17</dateline>
+<text>
+<p>Caltex Petroleum Corp. said Tuesday it has received and will challenge a claim from the Internal Revenue Service for $292 million in excise taxes plus interest and penalties.</p>
+<p>The claim relates to crude oil sales since 1980 to Japanese customers through a Caltex subsidiary, Caltex Trading and Transport Corp. Before that, Caltex directly supplied crude oil to its Japanese customers.</p>
+<p>The IRS asserts that using the unit as a contractual supplier constitutes a transfer of property, which is taxable, Caltex said.</p>
+<p>The Irving, Texas-based company, jointly owned by Texaco Inc. and Chevron Corp., said it expects to prevail in its challenge since the addition of another supplying company was not a taxable event.</p>
+<p>In addition, Caltex believes the claim is based on an overstated value. The company also said it strongly disagrees with the imposition and calculation of interest and penalties.</p>
+<p>The likelihood that Caltex would be faced with such charges is remote, it said.</p>
+<p>&quot;Caltex believes that it is unreasonable for the IRS to pursue this excise tax claim 17 years after the fact and 12 years after the IRS completed their audit of Caltex for the year in question,&quot; said Caltex Chief Financial Officer Malcolm McAuley.</p>
+<p>Caltex refines and markets petroleum products in more than 60 countries in the Asia-Pacific region, Africa and the Middle East.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVING, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

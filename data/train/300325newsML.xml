@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300325" id="root" date="1997-01-10" xml:lang="en">
+<title>AUSTRIA: Bank Austria confirms raises CA bid.</title>
+<headline>Bank Austria confirms raises CA bid.</headline>
+<dateline>VIENNA 1997-01-10</dateline>
+<text>
+<p>Bank Austria said on Friday it had increased its offer for the Austrian state's 70 percent voting stake in privatisation candidate Creditanstalt.</p>
+<p>&quot;I can confirm that Bank Austria has improved its offer,&quot; a spokesman told Reuters, referring to earlier media reports. He declined to be drawn on any details of the adjusted offer.  </p>
+<p>Market leader Bank Austria originally bid 16.8 billion schillings for the state's 19.9 million ordinary voting shares in Creditanstalt.</p>
+<p>It is up against a rival bid by a consortium led by insurer EA-Generali, which on Wednesday said it had increased its original 13.8 billion schilling offer for the bank stake but also declined to say by how much.</p>
+<p>Details of a third offer by entrepreneur and former supermarket mogul Karl Wlaschek, widely believed to be an outside bid, have not been released.</p>
+<p>Finance Minister Viktor Klima final deadline for adjusted bids passed at 0800 GMT on Friday, but Bank Austria was believed to have informed Klima before the tender closed. The minister is expected to pick the winning bid at the weekend.</p>
+<p>-- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

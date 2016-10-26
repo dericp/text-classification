@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228196" id="root" date="1996-12-02" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar slips in higher dollar demand.</title>
+<headline>Venezuela bolivar slips in higher dollar demand.</headline>
+<dateline>CARACAS 1996-11-29</dateline>
+<text>
+<p>The Venezuelan bolivar closed slightly weaker at 472.00/473.00 per dollar Monday compared to 471.75/472.75 per dollar Friday in slow trading dominated by demand for foreign currency, traders said.</p>
+<p>Traders said they saw the exchange rate broadly flat in coming sessions with the Central Back remaining ready to intervene to stop the local currency slipping sharply.</p>
+<p>-- Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

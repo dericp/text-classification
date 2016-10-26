@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49157" id="root" date="1996-09-12" xml:lang="en">
+<title>MEXICO: Mexican Cetes rate drifts down as U.S. yields slip.</title>
+<headline>Mexican Cetes rate drifts down as U.S. yields slip.</headline>
+<dateline>MEXICO CITY 1996-09-12</dateline>
+<text>
+<p>Mexican same-day Cetes closed 70 basis points down at 23 percent after a session marked by low volume and influenced by a decline in U.S. long bond yields, traders said.</p>
+<p>&quot;Although there was more volume than yesterday, the market was still dull due to lack of news,&quot; a trader said.</p>
+<p>When volume is thin, relatively small purchases have an exaggerated effect on rates. Rates had been expected to gain in late trade, because of liquidity shortages caused by money leaving the system before the long holiday weekend. Liquidity was ample, however.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

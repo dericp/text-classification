@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510418" id="root" date="1997-04-15" xml:lang="en">
+<title>PAKISTAN: Pakistan cotton rates unchanged in dull trading.</title>
+<headline>Pakistan cotton rates unchanged in dull trading.</headline>
+<dateline>KARACHI, Pakistan 1997-04-15</dateline>
+<text>
+<p>Pakistan's cotton rates ended unchanged on Tuesday in dull trading before the Moslem religious festival of Eid al-Adha and are likely to remain steady in the near term, dealers said.</p>
+<p>&quot;Little trading was seen ahead of Eid holidays starting from Thursday,&quot; dealer Adil Usman said. &quot;There is little demand from mill owners at present and the prices are likely to remain at these levels after the holidays also.&quot;</p>
+<p>The Pakistani markets will re-open on Monday.</p>
+<p>In the kerb market, the NIAB-78 variety was quoted around 1,900 rupees ($47.24) per maund (37.32 kg), dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

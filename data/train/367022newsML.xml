@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367022" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Power marketers providing PSE&amp;G coal.</title>
+<headline>Power marketers providing PSE&amp;G coal.</headline>
+<dateline>NEW YORK 1997-02-10</dateline>
+<text>
+<p>Public Service Electric &amp; Gas Co is selling 600 megawatts of power from its Hudson generating plant under two coal tolling agreements, spokesman Paul Lief Rosengren said Monday.</p>
+<p>Under a tolling agreement, the coal is provided by the power marketer, which then pays a fixed fee -- or toll -- to generate electricity from that coal for sale elsewhere.</p>
+<p>An LG&amp;E Energy Corp spokesman said one of the contracts, for 300 megawatts of power, is with LG&amp;E.</p>
+<p>He noted the company is the third largest U.S. power marketer.</p>
+<p>It is the number one power marketer in the area served by the Pennsylvania-New Jersey-Maryland interconnection.</p>
+<p>The power being produced by the Public Service Enterprise Group Inc utility subsidiary is being sold to LG&amp;E customers in the PJM market area, the spokesman said.</p>
+<p>((-- Jim Brumm 212-859-1710.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

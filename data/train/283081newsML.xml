@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="283081" id="root" date="1997-01-01" xml:lang="en">
+<title>USA: Nasdaq delists Italian Oven.</title>
+<headline>Nasdaq delists Italian Oven.</headline>
+<dateline>LATROBE, Pa. 1997-01-01</dateline>
+<text>
+<p>Italian Oven Inc.'s stock has been removed from trading on the Nasdaq Stock Market, the bankrupt restaurant company announced.</p>
+<p>The Latrobe, Pa.-based company, in an announcement released late Tuesday after the market closed, also said it had signed an agreement with Minneapolis merchant banker Whitecliff Group Inc. to sell its assets for $3.5 million plus potential additional future payments.</p>
+<p>The company, which is under Chapter 11 bankruptcy protection from creditors, announced the signing of a letter of intent for the deal about two weeks ago.</p>
+<p>Italian Oven, which operates and franchises Italian-theme, casual restaurants, said Nasdaq had decided to delist its stock effective Dec. 31, 1996.</p>
+<p>It said the market's decision was based on the company's inability to satisfy Nasdaq criteria for continued listing.</p>
+<p>Italian Oven interim Chief Executive Garvin Warden, said, &quot;The sale of the company's assets to Whitecliff is a positive step for the continuation of the company's concept and for the futures of its franchisees and employees.&quot;</p>
+<p>Whitecliff has interests in real estate and hotels and is funded by private equity, Italian Oven said.</p>
+<p>If the sale wins court approval, it is expected to close by Jan. 31, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LATROBE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

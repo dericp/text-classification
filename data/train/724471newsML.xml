@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="724471" id="root" date="1997-07-12" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - Algeria - July 12.</title>
+<headline>PRESS DIGEST - Algeria - July 12.</headline>
+<dateline>PARIS 1997-07-12</dateline>
+<text>
+<p>These are the leading stories in the Algerian press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>EL WATAN</p>
+<p>- &quot;Terrorists&quot; kill eight civilians in Hatatba village in Tipaza province, south of Algiers, on Wednesday night.</p>
+<p>- The deputies in the National Assembly (lower house) ended debate on the legislative body rules.</p>
+<p>L'AUTHENTIQUE</p>
+<p>- The Mediterranean Forum on security and cooperation, taking place in Algiers, showed that Algeria has recovered its leading diplomatic position in the region.</p>
+<p>LE MATIN</p>
+<p>- Foreign ministers and government officials from 11 Mediterranean countries discuss cooperation on security and economic partnership.</p>
+<p>AL KHABAR</p>
+<p>- President Liamine Zeroual invites party leaders for another round of talks to prepare for local elections to be held before the end of this year.</p>
+<p>AL CHAAB</p>
+<p>- Algeria beat Mali 1-0 in an African soccer cup eliminating match.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

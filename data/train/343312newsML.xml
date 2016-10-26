@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343312" id="root" date="1997-01-30" xml:lang="en">
+<title>UK: LIFFE sugar rangebound in late trading.</title>
+<headline>LIFFE sugar rangebound in late trading.</headline>
+<dateline>LONDON 1997-01-30</dateline>
+<text>
+<p>White sugar futures lacking in fresh fundamental news remained rangebound by London's 1830 GMT close, a condition matched in the New York market.</p>
+<p>Trade buying of the benchmark March contract kept the spot value supported but the upside momentum was not sufficient to attempt an assault on the psychological $300 barrier.</p>
+<p>&quot;The market is very much locked in a range and I don't see it breaking out of it for the time being,&quot; one trader said earlier.</p>
+<p>By the close March was down 10 cents at $298.20, while May was down 60 cents at $297.00 Volume totalled 2,264 lots.</p>
+<p>Market sources said the trade buying of March could only be viewed as contributing towards the overall physical delivery against March's expiry on February 13.</p>
+<p>-- London Newsroom +44 171 542 8064</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="529018" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Ariz. governor signs clean-gas bill.</title>
+<headline>Ariz. governor signs clean-gas bill.</headline>
+<dateline>LOS ANGELES 1997-04-21</dateline>
+<text>
+<p>Arizona's governor Fife Symington on Sunday signed a bill mandating the use of cleaner burning gasoline in the U.S. state by this summer a governor's spokeswoman said Monday.</p>
+<p>The state legislature approved the bill, known as &quot;Air Quality; fuels measures,&quot; and sent it to the governor's office last week.</p>
+<p>The governor signed the bill and scores of others Sunday. It requires the use of federal reformulated gasoline (RFG) Phase 1 gasoline by late June, with the introduction of even cleaner burning fuels in the summers of 1998 and 1999.</p>
+<p>((David Brinkerhoff, Los Angeles bureau +1 213 380 2014))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

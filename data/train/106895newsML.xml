@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106895" id="root" date="1996-10-09" xml:lang="en">
+<title>JAPAN: Fuji Heavy jumps on earnings report.</title>
+<headline>Fuji Heavy jumps on earnings report.</headline>
+<dateline>TOKYO 1996-10-09</dateline>
+<text>
+<p>Shares in Fuji Heavy Industries Ltd jumped in early morning trade, reacting to a media report that its interim parent current profit would be about 4.5 times as large as its actual interim current profit a year ago, brokers said.</p>
+<p>As of 0029 GMT, the shares were up 10 yen at 525 yen with a trade volume of 790,000, the fourth heaviest.  </p>
+<p>Fuji Heavy is expected to post a parent current profit of about 10 billion yen in the six months to September 30, about 4.5 times as large as its actual current profit in the year-earlier period, Japanese economic daily Nihon Keizai Shimbun said on Wednesday.</p>
+<p>Fuji Heavy was not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

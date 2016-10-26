@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="302977" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Sick U.S. veterans gain access to clinical trials.</title>
+<headline>Sick U.S. veterans gain access to clinical trials.</headline>
+<dateline>WASHINGTON 1997-01-13</dateline>
+<text>
+<p>U.S. military veterans can now get easier access to clinical trials of cancer treatments, health officials said on Monday.</p>
+<p>Under an agreement that went into effect this month between the National Cancer Institute (NCI) and the Department of Veterans Affairs, more veterans will be able to enter NCI-sponsored clinical trials, which in some cases will mean access to promising new therapies.</p>
+<p>&quot;It means greater access to the full range of promising new treatments for cancer,&quot; said Dr. Kenneth Kizer, the VA's undersecretary for health.</p>
+<p>NCI and VA officials said the agreement would also pave the way for more trials to be carried out in VA medical facilities.</p>
+<p>This comes at a time when some traditional academic health centres have cited greater difficulties in running clinical trials because of the cost-cutting pressures of managed care and the overall economic pressures on the health industry.</p>
+<p>The agreement with the VA covers prevention, diagnostic and all three phases of treatment trials -- the early tests of new approaches as well as the larger &quot;phase 3&quot; trials that compare treatments.</p>
+<p>&quot;Developing an expanded pool of VA cancer researchers will strengthen our clinical research programme across the board,&quot; said Dr. Robert Wittes, director of the NCI's division of cancer treatment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

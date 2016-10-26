@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449982" id="root" date="1997-03-18" xml:lang="en">
+<title>JAPAN: TSE, OSE detail option trading but dates undecided.</title>
+<headline>TSE, OSE detail option trading but dates undecided.</headline>
+<dateline>TOKYO 1997-03-18</dateline>
+<text>
+<p>The Tokyo and Osaka bourses on Tuesday separately outlined their plans for options trading on individual stocks, widely expected to be introduced later this year, but shied away from giving a start date.</p>
+<p>&quot;We have not decided on an exact starting date, but we hope that we can start by this summer,&quot; said a spokesman for the Tokyo Stock Exchange (TSE).</p>
+<p>The Osaka Securities Exchange (OSE) president Kyoji Kitamura, meanwhile, told reporters in Osaka, western Japan, that the exchange would start options trading as soon as possible, but did not give any likely timing.</p>
+<p>&quot;Time is needed to inform market participants of the risks involving the new tool,&quot; Kitamura said. &quot;As soon as that aspect has been taken care of, we will start.&quot;</p>
+<p>He did not specify which individual shares the bourse will allow traders to start options trading in, but added that it would select from those belonging to the Nikkei 225 or Nikkei 300 indices and those which currently enjoy high turnover.</p>
+<p>Both bourses said that the individual options will be introduced in the form of European options, in which the holder can exercise only on the expiry date. The settlements will be made by cash securities, they said.</p>
+<p>The last day of trade will be the session before the second Friday of each month. Trading hours will be from 0000 GMT to 0200 GMT and from 0330 GMT to 0610 GMT.</p>
+<p>In addition to individual stock options, the Osaka exchange added that it was also planning to start spread transactions of Nikkei 225 futures, although a start date had yet to be decided. The bourse began spread trades of Nikkei 300 futures in April last year.</p>
+<p>Japan's experience with stock market derivatives goes back to the late 1980s when stock index futures and options were introduced. But the Finance Ministry has taken a particularly cautious approach to derivatives of individual stocks in order to control equity-related deals on stock exchanges.</p>
+<p>Until now, trading of individual stock options and equity swap transactions has been banned as they were judged to violate the criminal code outlawing gambling.</p>
+<p>This has pushed lucrative business offshore to less regulated markets, where brokers are able to trade options or warrants based on Japanese stocks if they wish.</p>
+<p>The current attempt to introduce new stock-related derivatives to Japan's major bourses is part of a drive to liberalise the country's financial markets, which are lagging behind rivals such as Singapore and Hong Kong. -- Masako Iijima, Tokyo Equities Desk +81-3-3432-9052</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

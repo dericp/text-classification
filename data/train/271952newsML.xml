@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271952" id="root" date="1996-12-22" xml:lang="en">
+<title>SOUTH AFRICA: SOCCER-DATE SET FOR AFRICAN SUPER CUP.</title>
+<headline>SOCCER-DATE SET FOR AFRICAN SUPER CUP.</headline>
+<dateline>JOHANNESBURG 1996-12-22</dateline>
+<text>
+<p>Egyptian clubs Zamalek and Arab Contractors will meet in the African Super Cup in Cairo on February 14, the Confederation of African Football (CAF) announced on Sunday.</p>
+<p>This is the second time that two Egyptian clubs will be contesting the annual match between the winners of the African Champions' Cup and the African Cup Winners' Cup.</p>
+<p>Zamalek beat Cairo rivals Al Ahli 1-0 in the 1994 match in Johannesburg, South Africa and return this time as recent winners of the Champions' Cup.</p>
+<p>Zamalek beat Nigeria's Shooting Stars on post-match penalties earlier this month to win a record fourth Champions' Cup title while Contractors scored a handsome 4-0 aggregate win over Sodigraf of Zaire in the Cup Winners' Cup final.</p>
+<p>The match will be played at the 80,000-capacity Nasser stadium.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

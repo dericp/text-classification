@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116295" id="root" date="1996-10-15" xml:lang="en">
+<title>FRANCE: SOCCER-METZ IN DRIVING SEAT AFTER TWO EARLY GOALS.</title>
+<headline>SOCCER-METZ IN DRIVING SEAT AFTER TWO EARLY GOALS.</headline>
+<dateline>METZ, France 1996-10-15</dateline>
+<text>
+<p>Metz scored twice in the opening 13 minutes then held out against a second half onslaught in driving rain to beat Sporting Lisbon 2-0 in the first leg of their UEFA Cup second round tie on Tuesday.</p>
+<p>Senegal's Amara Traore headed the French side ahead in the fifth minute when he rose unmarked at the near post to glance home a corner from the left by midfielder Didier Lang.</p>
+<p>Lang made it two eight minutes later when he curled a free kick round the outside of the wall and in the top near corner of Belgian goalkeeper Filip De Wilde's net after Brazilian defender Marco Aurelio had fouled Jocelyn Blanchard just outside the box.</p>
+<p>The Portuguese team, who put out another French side Montpellier in the first round, had more of the ball in the second half and created the greater number of chances, but the wet conditions did not help their efforts to pull a goal back.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="METZ, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

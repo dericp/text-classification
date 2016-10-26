@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="762847" id="root" date="1997-07-29" xml:lang="en">
+<title>CHINA: W.I. Carr sets warrants on HK shipping shares.</title>
+<headline>W.I. Carr sets warrants on HK shipping shares.</headline>
+<dateline>HONG KONG 1997-07-29</dateline>
+<text>
+<p>Indosuez W.I. Carr (Derivatives) Ltd said on Tuesday it launched 260 million American-style call warrants on two Hong Kong-listed shipping and container companies.</p>
+<p>Each basket comprises:</p>
+<p> China Merchant Holdings Ltd Co Ltd    0.167 shares</p>
+<p> Cosco Pacific Ltd			   0.087 shares</p>
+<p>Ten warrants control one basket.</p>
+<p> STRIKE PRICE    HK$4.642	   PREMIUM	 28.9 PCT</p>
+<p> ISSUE PRICE     HK$0.201	   GEARING	 2.56X</p>
+<p> EXPIRATION	29.JUL.98	  LISTING	 HONG KONG</p>
+<p> SPOT REFERENCE  HK$5.158	   MIN EXER LOT  10,000</p>
+<p>-- Hong Kong newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

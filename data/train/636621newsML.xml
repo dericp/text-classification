@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636621" id="root" date="1997-06-04" xml:lang="en">
+<title>CHILE: Chile puts Argentine mining accords into effect.</title>
+<headline>Chile puts Argentine mining accords into effect.</headline>
+<dateline>SANTIAGO 1997-06-04</dateline>
+<text>
+<p>Chile formally put into effect two protocols with Argentina to allow two mining projects, El Pachon and Pascua Lama, to operate across the countries' Andean border, according to a decree.</p>
+<p>Published in the official gazette, the decree gives the full terms of the protocols signed in March and formally implements them.</p>
+<p>The protocols are officially considered the 19th and 20th addenda to a bilateral treaty on economic cooperation, signed by the governments of both countries in 1991.</p>
+<p>The protocols give the green light to the El Pachon copper project, owned 50 percent by Canada's Cambior Inc, and Pascua Lama gold prospect, being explored by Barrick Gold Corp.</p>
+<p>((--Roger Atwood, Santiago newsroom +56-2-699-5595 x211))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

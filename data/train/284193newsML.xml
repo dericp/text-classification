@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284193" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: RESEARCH ALERT - Prudential ups aluminum industry.</title>
+<headline>RESEARCH ALERT - Prudential ups aluminum industry.</headline>
+<text>
+<p>-- Prudential Securities analyst Clarence Morrison confirmed he upgraded the aluminum industry to buy from hold.</p>
+<p>-- Raised Aluminum Co of America, Alcan Aluminium Ltd, Kaiser Aluminum Corp, and Reynolds Metals Co to buy from hold.</p>
+<p>-- Reiterated buy rating on Alumax Inc.</p>
+<p>-- Declined to give further details.  </p>
+<p>-- Aluminum Co shares rose 5/8 to 64-3/8, New York-listed shares of Alcan rose 3/8 to 34, Alumax rose 5/8 to 34-1/8, Kaiser Aluminum rose 5/8 to 12-1/4 and Reynolds Metals rose 5/8 to 57.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="334863" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Sioux Falls hogs up $1.00 - USDA.</title>
+<headline>Sioux Falls hogs up $1.00 - USDA.</headline>
+<dateline>SIOUX FALLS 1997-01-27</dateline>
+<text>
+<p>USDA said barrows and gilts were $1.00 higher than last Friday. Trading was moderate. Top $56.00 per cwt.</p>
+<p>    US 1-3    220-260 lbs    55.50-56.00</p>
+<p>		  260-270 lbs    55.00-55.50</p>
+<p>    US 2-3    270-280 lbs    54.00-55.00</p>
+<p>		  280-290 lbs    53.00-54.00</p>
+<p>    US 3-4    290-300 lbs    52.00-53.00</p>
+<p>Sows - up $1.00-4.00. Top $60.00.</p>
+<p>    US 1-3    300-450 lbs    48.00</p>
+<p>		  450-500 lbs    52.00</p>
+<p>		  500-650 lbs    57.00-58.00, some up to 60.00</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIOUX FALLS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

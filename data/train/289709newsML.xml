@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289709" id="root" date="1997-01-06" xml:lang="en">
+<title>PHILIPPINES: Philippine Economic Indicators.</title>
+<headline>Philippine Economic Indicators.</headline>
+<text>
+<p>(T=Target; R=Revised; E=Estimate)</p>
+<p>				    Period   Latest    Prev    Yr ago</p>
+<p> Exports		$ million    Nov     1,846    1,884    1,423</p>
+<p>Imports $ million Oct 2,827 2,853 2,342</p>
+<p> Trade Balance	$ million    Oct	-944     -977     -740</p>
+<p>				     ++++</p>
+<p> Consumer Inflation pct yr-yr Dec	5.1	4.5     11.0</p>
+<p> Foreign Reserves $ bln	 June     10.4</p>
+<p> Money Supply M3 Ps bln	 July    778.6		641.3</p>
+<p> Foreign Debt	 $ bln     Dec     37.778	    37.698</p>
+<p>				     ++++</p>
+<p> GDP Growth Qtly    pct	 Q3 96    5.9	5.8	5.2</p>
+<p> GDP Growth Annual  pct	 1995     4.8		   4.4</p>
+<p> GNP Growth Qtly    pct	 Q3 96    6.8	7.9	6.2</p>
+<p> GNP  Growth Annual pct	 1995     5.7		   5.3</p>
+<p> Current Account    $ million     Q1 96  -92.0		  -735.0</p>
+<p> BOP		    $ million     1995    +645		  +1,802</p>
+<p>				     ++++</p>
+<p> Population	   million	 1995   68.614  1990 census-60.7</p>
+<p>					++++</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

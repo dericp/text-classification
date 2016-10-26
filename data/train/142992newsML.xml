@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142992" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Wired Ventures IPO withdrawn - underwriter.</title>
+<headline>Wired Ventures IPO withdrawn - underwriter.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>The initial public offering of Wired Ventures Inc has been withdrawn due to market conditions, lead underwriter for the deal, Goldman Sachs, said Friday.  </p>
+<p>The company, which publishes &quot;WIRED&quot; magazine, was originally expected to make its market debut Friday, but had been put on hold Thurday evening with a further announcement pending.  The offering was reduced to three million from 4.75 million common shares, while the price range also dropped to $8 to $10 a share from $12 to $14, according to a source close to the underwriters.</p>
+<p>In July, the deal was postponed amid a broad decline in high-technology and Internet stocks.  Many investment professionals have said the deal was overpriced, even after reducing levels this time around.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

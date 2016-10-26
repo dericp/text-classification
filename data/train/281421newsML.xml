@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281421" id="root" date="1996-12-31" xml:lang="en">
+<title>QATAR: TENNIS-QATAR OPEN RESULTS.</title>
+<headline>TENNIS-QATAR OPEN RESULTS.</headline>
+<dateline>DOHA 1996-12-31</dateline>
+<text>
+<p>First round results from the Qatar Open tennis tournament on Tuesday (prefix number denotes seeding):</p>
+<p>Sergi Bruguera (Spain) beat Michael Stich (Germany) 6-3 6-1</p>
+<p>Thomas Muster (Austria) beat Hernan Gumy (Argentina) 7-5 6-4</p>
+<p>Peter Korda (Czech Republic) beat Stephane Simian (France) 6-1 6-2.  </p>
+<p>Razvan Sabau (Romania) beat Oliver Gross (Germany) 6-3 7-6</p>
+<p>(7-1)</p>
+<p>8-Jim Courier (U.S) beat Sjeng Schalken (Netherlands) 7-6</p>
+<p>(12-10) 7-5</p>
+<p>Javier Sanchez (Spain) beat Guillaume Raoux (France) 6-3 4-6</p>
+<p>6-4</p>
+<p>Magnus Norman (Sweden) beat Juan Albert Viloca (Spain) 6-3 6-0.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOHA"/>
+<dc element="dc.creator.location.country.name" value="QATAR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

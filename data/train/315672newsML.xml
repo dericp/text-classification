@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="315672" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: PRESALE - Bethlehem CSD, N.Y..</title>
+<headline>PRESALE - Bethlehem CSD, N.Y..</headline>
+<text>
+<p>AMT: 13,500,000     DATE: 01/22/97	NYC Time: 1100	CUSIP: 087329</p>
+<p>ISSUER: Bethlehem Central School District			 ST: NY</p>
+<p>ISSUE: School district, serial, 1997				TAX STAT:Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 02/01/97							     SURE BID: N</p>
+<p>DUE: 11/1/98-16					     SR MGR:</p>
+<p>1ST CPN: 11/01/97</p>
+<p>CALL: 11/1/06 @ 102, dtp 11/1/08			NIC</p>
+<p>DELIVERY: 2/4/97 approx				   ORDERS:</p>
+<p>PAYING AGENT: School District Treasurer's Office, Bethlehem</p>
+<p>L.O.: LeBoeuf, Lamb, Greene &amp; MacRae, NYC</p>
+<p>F.A.: Fiscal Advisors &amp; Mktg, Inc., Cicero</p>
+<p>LAST SALE: $1,280,000 (TAXABLE) 8/1/95 @ 6.9525% NIC; 5yrs 4mos Avg; BBI-5.97%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    395,000</p>
+<p>1999		    420,000</p>
+<p>2000		    445,000</p>
+<p>2001		    475,000</p>
+<p>2002		    505,000</p>
+<p>2003		    535,000</p>
+<p>2004		    565,000</p>
+<p>2005		    600,000</p>
+<p>2006		    635,000</p>
+<p>2007		    675,000</p>
+<p>2008		    715,000</p>
+<p>2009		    760,000</p>
+<p>2010		    805,000</p>
+<p>2011		    855,000</p>
+<p>2012		    905,000</p>
+<p>2013		  1,020,000</p>
+<p>2014		  1,080,000</p>
+<p>2015		  1,150,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

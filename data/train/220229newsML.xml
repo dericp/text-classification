@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220229" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: USDA pegs 96/97 world sugar trade at 35.5 mln MT.</title>
+<headline>USDA pegs 96/97 world sugar trade at 35.5 mln MT.</headline>
+<dateline>WASHINGTON 1996-11-27</dateline>
+<text>
+<p>The U.S. Agriculture Department Wednesday pegged world centrifugal sugar trade at 35.5 million tonnes in 1996/97, up one percent from the prior season and estimated world usuage at 122.9 million tonnes.</p>
+<p>In its Sugar: World Markets and Trade report, USDA forecast world sugar output at 125 million tonnes, unchanged from a previous estimate released earlier this month.</p>
+<p>USDA said increased export prospects for Brazil, the European Union, Australia and India accounted for most of the higher trade forecast.</p>
+<p>Russia, the United States and China are expected to be leading importers, it added.</p>
+<p>Sugar consumption is forecast to rise nearly 4 percent from the prior year, with the most significant increases in consumption found in Asia, USDA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

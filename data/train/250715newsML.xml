@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250715" id="root" date="1996-12-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Kembla Coal sells mine to Austral.</title>
+<headline>RTRS-Kembla Coal sells mine to Austral.</headline>
+<dateline>MELBOURNE 1996-12-11</dateline>
+<text>
+<p>CRA Ltd subsidiary Kembla Coal &amp; Coke Pty Ltd (KCC) said on Wednesday it had agreed to sell its Tahmoor coking coal mine to Austral Coal NL.</p>
+<p>The sale, for an undisclosed sum, was expected to be completed in February 1997.</p>
+<p>Kembla, which sold its Illawarra coke company to ICC Holdings Pty Ltd in February, has been seeking buyers for the Tahamoor and West Cliff underground mines in New South Wales.</p>
+<p>Japanese steel mills had been major consumers of Tahmoor's high quality coking coal, and the mine has been operating profitably, it said.  </p>
+<p>Tahmoor produced 1.5 million tonnes of saleable coal in the year to November 30, 1996.</p>
+<p>Austral Coal is a subsidiary of unlisted Perth-based company Resource Equities.</p>
+<p>Kembla said it was currently negotiating the sale of the West Cliff mine.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

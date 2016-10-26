@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19638" id="root" date="1996-08-28" xml:lang="en">
+<title>NETHERLANDS: OPTIONS -- EOE options volumes - close.</title>
+<headline>OPTIONS -- EOE options volumes - close.</headline>
+<dateline>AMSTERDAM 1996-08-28</dateline>
+<text>
+<p>1605 GMT</p>
+<p>					     CALLS     PUTS   PCT OF TOTAL</p>
+<p> TOTAL VOLUME -- 83,008	     60,131    22,877    --</p>
+<p> FEATURES - AEX INDEX		  7,391     5,658   15.72</p>
+<p>	    - AHOLD			7,190     1,123   10.01</p>
+<p>	    - BOLSWESSANEN	     4,420	 705    6.17</p>
+<p>	    - ABN AMRO		   3,003     1,940    5.95</p>
+<p>	    - ING			  3,853	 673    5.45</p>
+<p>	    - VNU			  3,060	 843    4.70</p>
+<p>-- Amsterdam newsdesk +31 20 504 5000 (Fax 020-504-5040)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

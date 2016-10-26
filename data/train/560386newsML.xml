@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560386" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Karrington says completes Kensington buy.</title>
+<headline>Karrington says completes Kensington buy.</headline>
+<dateline>COLUMBUS, Ohio 1997-05-05</dateline>
+<text>
+<p>Karrington Health Inc said Monday it completed the acquisition of the privately held Kensington Management Group Inc for about $28 million in cash, stock and debt financing.</p>
+<p>The company said the deal included about 136,000 of Karrington common shares and about $23 million in new and assumed debt financing.</p>
+<p>The company said Kensington, which has about $10 million in annual revenue, operaters or has under construction 12 Alzheimer's care facilties.</p>
+<p>Karrington owns and operates assisted-living residences with an emphasis on Alzheimer's care.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

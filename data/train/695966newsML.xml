@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695966" id="root" date="1997-06-30" xml:lang="en">
+<title>COLOMBIA: Six die in Bogota bar brawl.</title>
+<headline>Six die in Bogota bar brawl.</headline>
+<dateline>BOGOTA 1997-06-30</dateline>
+<text>
+<p>Six people were killed and five injured in a drunken bar brawl in a southwestern suburb of Bogota during the night, police said on Monday.</p>
+<p>The fight broke out at a bar in a working class neighbourhood of Soacha shortly before midnight (0500 GMT) when 10 men walked in and tried to dance with the girlfriends of another group of men, a police spokesman said.</p>
+<p>&quot;A fight broke out between two men and then the whole thing got out of control. It was basically a drunken fight in which six men died and five other people were injured,&quot; he said.</p>
+<p>The victims, who were shot or stabbed to death, were aged between 19 and 38. One of the injured was a 20-year-old woman.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

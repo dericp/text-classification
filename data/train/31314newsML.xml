@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="31314" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: French stocks open higher, oil shares lead rise.</title>
+<headline>French stocks open higher, oil shares lead rise.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>French stocks opened higher on Wednesday, helped by firmer bond prices and a higher close on Wall Street, brokers said.</p>
+<p>Oil stocks Total and Elf-Aquitaine, which have risen on the back of higher oil prices, extended their gains after Total confirmed investor expectations of good results by reporting a 45 percent jump in its first-half profit.</p>
+<p>The blue-chip CAC-40 index was up 9.98 points, or 0.51 percent, at 1,981.41 at 0835 GMT, while the CAC-40 September futures contract was up 10 points at 1,987 where it has bumped into resistance.</p>
+<p>Volume was 490 million francs.</p>
+<p>Total was up 0.18 percent at 385.20 francs after easing from a high of 390.40. Elf, due to report its results on Thursday, was 0.84 percent higher at 385 francs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

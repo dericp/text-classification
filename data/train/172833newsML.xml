@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172833" id="root" date="1996-11-07" xml:lang="en">
+<title>TURKEY: Bids sought for new Turkish forex bonds.</title>
+<headline>Bids sought for new Turkish forex bonds.</headline>
+<dateline>ANKARA 1996-11-07</dateline>
+<text>
+<p>The Turkish treasury asked banks on Thursday for bids by Friday for its new offer of foreign currency denominated bonds, officials said.</p>
+<p>They said the bonds would have a three-year maturity with interest rates payments to be made at six-month intervals.</p>
+<p>The interest rate on the bonds will be London Interbank Offered Rate plus 2.6 percent for the dollar-denominated bonds and Frankfurt Interbank Offered Rate plus two percent for the mark denominated bonds.</p>
+<p>The value date of the bonds will be &quot;a day in November&quot;, one official said.</p>
+<p>The minimum amount of participation will be $10 million and 15 million marks.</p>
+<p>The treasury sold $1.12 billion of similar bonds on September 25.</p>
+<p>--Ankara Newsroom, 90-312-4462940</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

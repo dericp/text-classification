@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="483808" id="root" date="1997-04-03" xml:lang="en">
+<title>POLAND: POLISH WHEAT/RYE PRICES INCH UP, BARLEY EDGE DOWN.</title>
+<headline>POLISH WHEAT/RYE PRICES INCH UP, BARLEY EDGE DOWN.</headline>
+<dateline>WARSAW 1997-04-03</dateline>
+<text>
+<p>The Polish Agriculture Ministry</p>
+<p>said in a statement wheat an rye prices rose slightly while</p>
+<p>barley prices edged down during last week's grain auctions.</p>
+<p>POLISH FARM AUCTION PRICES (AVERAGE)</p>
+<p>  Product   week to March 29   previous week    yr/yr change</p>
+<p>   Wheat	53.76 zl/q	 53.59 zl/q	 -11.8 pct</p>
+<p>   Rye	  39.51 zl/q	 39.33 zl/q	   6.8 pct</p>
+<p>   Barley     47.69 zl/q	 47.78 zl/q	 -10.0 pct</p>
+<p>NOTE: zl/q = zlotys per quintal.</p>
+<p>-- Warsaw Newsroom+48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

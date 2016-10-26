@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339905" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Knight-Ridder December revenues down.</title>
+<headline>Knight-Ridder December revenues down.</headline>
+<dateline>MIAMI 1997-01-29</dateline>
+<text>
+<p>Knight-Ridder Inc said on Wednesday its operating revenues fell 19.1 percent in December, to $206.9 million from $255.8 million in December 1995.</p>
+<p>Total newspaper revenue fell 16.0 percent for the month, to $183.5 million from 218.5 million in December 1995.</p>
+<p>But newspaper revenues for the full year were up 5.5 percent, to $2.37 billion from $2.25 billion in 1995.</p>
+<p>For the year, advertising revenue was up 7.2 percent, to $1.79 billion from $1.67 billion.</p>
+<p>Ad lineage in December was down 14.5 percent, to 2.9 million inches from 3.4 million for the same month the year before. For the full year, lineage rose 10.0 percent, to 34.9 million from from 31.8 million.</p>
+<p>Excluding the company's Detroit property, which is affected by a strike, newspaper division revenues were up 0.4 percent in December.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

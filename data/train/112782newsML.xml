@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112782" id="root" date="1996-10-12" xml:lang="en">
+<title>BANGLADESH: Dhaka stocks end down on heavy selling pressure.</title>
+<headline>Dhaka stocks end down on heavy selling pressure.</headline>
+<dateline>DHAKA 1996-10-12</dateline>
+<text>
+<p>Dhaka stocks closed 4.44 percent lower as retail investors offloaded shares in a fall triggered by the bourse authorities' action to curb speculative trading, brokers said.</p>
+<p>The Dhaka Stock Exchange on Saturday imposed a 10 percent limit on share price fluctuations from the previous day's rate.</p>
+<p>The move came after share prices soared on rumours and speculation. The DSE index fell 4.44 percent or 90.03 points to 1,934.4. Of the 97 issues traded, 88 rose, nine lost and one was unchanged. Aziz Pipes lost 116.38 taka to 2,583.62 and AMCL Pran fell 77.46 to 1,770.04.</p>
+<p>-- Dhaka Newsroom 880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

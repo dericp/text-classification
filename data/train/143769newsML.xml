@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143769" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Jamaica cancels U.S. rice tender - U.S. agent.</title>
+<headline>Jamaica cancels U.S. rice tender - U.S. agent.</headline>
+<dateline>CHICAGO 1996-10-25</dateline>
+<text>
+<p>Jamaica has cancelled its tender for U.S. rice, its U.S. export agent said.</p>
+<p>On October 22, Jamaica was seeking 5,000 tonnes U.S. No.5 or better long grain brown rice with maximum brokens 10 percent under the GSM-102 program.</p>
+<p>Shipment was slated for December 21-27, basis C and F, Montego Bay and/or December 1-20, basis FOB, U.S. Gulf.</p>
+<p>No reason was given for the cancellation.</p>
+<p>--Doris Frankel 312-983-7305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

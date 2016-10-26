@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583792" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Too early to estimate damage to Kansas wheat - USDA.</title>
+<headline>Too early to estimate damage to Kansas wheat - USDA.</headline>
+<dateline>WASHINGTON 1997-05-13</dateline>
+<text>
+<p>It will be several more weeks before U.S. Agriculture Department officials are able to assess the damage to Kansas wheat fields from a cold snap last month, the agency's chief meterologist said on Tuesday.</p>
+<p>&quot;It's going to take a few more weeks before we can really tell what happened there,&quot; said meterologist Al Peterlin. &quot;And we really will not get a final assessment until harvest.&quot;</p>
+<p>Peterlin also said that current growing conditions in the Kansas wheat belt were &quot;a little dry but adequate.&quot;</p>
+<p>The crop moisture index for Kansas shows a normal level, he said. &quot;It's dry enough for farmers to get out in the fields and get some work done,&quot; Peterlin said.</p>
+<p>((Washington commodities desk, 202 898 8467))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

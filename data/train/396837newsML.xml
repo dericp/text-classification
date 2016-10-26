@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="396837" id="root" date="1997-02-23" xml:lang="en">
+<title>USA: RTRS-Jacor to sell News Corp warrants.</title>
+<headline>RTRS-Jacor to sell News Corp warrants.</headline>
+<dateline>COVINGTON, Ky. 1997-02-21</dateline>
+<text>
+<p>Jacor Communications Inc said on Friday it agreed to sell its News Corp Ltd warrants for $44.9 million to an unnamed sole purchaser in a privately negotiated transaction.</p>
+<p>Jacor, which owns or is affiliated with 122 radio stations, will use the proceeds to finance pending acquisitions, and for general corporate purposes.</p>
+<p>The warrants are convertible into 7.25 million preferred American Depositary Receipts of News Corp.</p>
+<p>	  ((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COVINGTON, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

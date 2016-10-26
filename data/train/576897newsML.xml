@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576897" id="root" date="1997-05-12" xml:lang="en">
+<title>UK: Analysts see GrandMet/Guinness deal boon.</title>
+<headline>Analysts see GrandMet/Guinness deal boon.</headline>
+<dateline>LONDON 1997-05-12</dateline>
+<text>
+<p>The merger between Grand Metropolitan Plc and Guinness Plc represents a good fit both in the spirits brands each company brings to the deal and their geographic market presence, said analysts.</p>
+<p>&quot;It makes total sense, there is virtually nothing that does not fit. They can get some real synergies out of this combined business,&quot; said Dermot Carr, analyst at Nikko.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

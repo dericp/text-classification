@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="348111" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: Arkansas House passes bill on telecom competition.</title>
+<headline>Arkansas House passes bill on telecom competition.</headline>
+<dateline>LITTLE ROCK, Ark. 1997-01-30</dateline>
+<text>
+<p>- The Arkansas House of Representatives gave final legislative approval Thursday to a bill allowing competition for local telephone service.</p>
+<p>The bill needs only the signature of Arkansas Gov. Mike Huckabee to become law.</p>
+<p>&quot;The governor wants to take a look at the pro and con of it before making a decision on signing it,&quot; said Rex Nelson, Huckabee's press secretary.</p>
+<p>The bill passed both houses of the Arkansas legislature by such wide margins -- 32 to one in the state Senate and 92 to three in the House -- that a veto appeared improbable.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LITTLE ROCK, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

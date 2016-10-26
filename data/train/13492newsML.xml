@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13492" id="root" date="1996-08-26" xml:lang="en">
+<title>TAIWAN: Taiwan approves $95.86 mln China investment.</title>
+<headline>Taiwan approves $95.86 mln China investment.</headline>
+<dateline>TAIPEI 1996-08-26</dateline>
+<text>
+<p>Taiwan's Investment Commission approved on Monday 19 investment projects by its businessmen in China totalling $95.86 million.</p>
+<p>The commission did not screen a $3 billion power plant project proposed by Formosa Plastics as the plastic giant withdrew the application last week after President Lee Teng-hui called for a review of economic policy towards China to avoid over-dependence on the mainland for investment.</p>
+<p>Of the major approved projects, Chung Shing Textile planned to pour $10 million more into China for expansion of its textile plants in Shanghai, a commission statement said.</p>
+<p>Tay Feng Tire was allowed to invest $9.69 million in China for tire and rubber product manufacturing.</p>
+<p>The commission also gave the nod to a $9.5 million investment project by Mayer Steel Pipe Corp to make steel rolls and pipes in southern China.</p>
+<p>Textile maker Chia Her Industrial would invest $9.31 million in a Shanghai plant and Master Home Furniture would invest $6 million in China for wooden furniture manufacturing.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I46700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

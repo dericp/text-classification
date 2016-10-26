@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141868" id="root" date="1996-10-24" xml:lang="en">
+<title>RUSSIA: Text of Russian Central Bank statement on IMF.</title>
+<headline>Text of Russian Central Bank statement on IMF.</headline>
+<dateline>MOSCOW 1996-10-24</dateline>
+<text>
+<p>The following is the text of a press release issued on Thursday by the Russian central bank on the current round of talks between Russia and the International Monetary Fund (IMF), in an unofficial translation by Reuters.</p>
+<p>The press centre of the Bank of Russia states that during the last 10 days, a mission of the International Monetary Fund has been working in Moscow to assess how the Russian Federation is meeting its commitments under the Extended Fund Facility. Representatives of the IMF, after discussions with representatives of the government and the Bank of Russia, came to the conclusion that as of the end of September, Russia is adhering to key target indicators in the parts of the agreed programme covering monetary and credit policy and the budget deficit, making it possible to keep the inflation rate at a stable and low level.</p>
+<p>At the same time, in the course of discussions on the fulfilment of some other components of the economic programme, the two sides failed to agree on a number of problems. This currently prevents the mission from reaching a conclusion. In particular, differences of opinion emerged over the temporary timetable for carrying out decisions taken in July-August 1996 which were intended to strengthen budget revenues, as well as over the interpretation of measures adopted by the Government of Russia to defend its domestic alcohol market, and whether the new rules of access of non-residents to the government securities market meet the requirements of Article 8 of the IMF Charter.</p>
+<p>The two sides have agreed to resume discussion of the above-mentioned issues in the first half of November, after the Russian side prepares additional materials which will make it possible to reach agreement on the issues.</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

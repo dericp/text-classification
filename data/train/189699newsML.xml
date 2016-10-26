@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189699" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: RG&amp;E 470 MW Ginna, N.Y. nuke at full power.</title>
+<headline>RG&amp;E 470 MW Ginna, N.Y. nuke at full power.</headline>
+<dateline>NEW YORK 1996-11-14</dateline>
+<text>
+<p>Rochester Gas and Electric Corp's 470 megawatt Ginna nuclear power plant was operating at full power after returning from a repair outage, the Nuclear Regulatory Commission (NRC) said.</p>
+<p>Ginna was operating at 100 percent of capacity as of early Thursday, the NRC said in its daily plant status report.</p>
+<p>The Ontario, N.Y. unit was shut Oct 24 when impurities were discovered in the oil that cools the plant's transformer.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

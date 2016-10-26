@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231954" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Jayhawk sees Q4 earnings cut by $0.05/shr.</title>
+<headline>Jayhawk sees Q4 earnings cut by $0.05/shr.</headline>
+<dateline>DALLAS 1996-12-03</dateline>
+<text>
+<p>Jayhawk Acceptance Corp on Tuesday estimated that expenses incured by its Jayhawk Medical Acceptance unit will cut the parent's earnings by about $0.05 per share for the fourth quarter of 1996.</p>
+<p>The company attributed the losses to the inception of its medical finance program.</p>
+<p>In a statement, Jayhawk Chairman and Chief Executive Michael Smartt said, &quot;Although the roll-out of the Jayhawk Medical program will partially offset the anticipated results of the company's automotive finance business through at least the first quarter of 1997, we cannot ignore the opportunities exhibited by the medical finance program.&quot;</p>
+<p>&quot;We view the expansion of Jayhawk Medical as an investment in the company's future,&quot; he said.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

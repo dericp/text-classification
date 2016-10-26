@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265231" id="root" date="1996-12-18" xml:lang="en">
+<title>USA: Vermont's Gov seen opposing property tax plan.</title>
+<headline>Vermont's Gov seen opposing property tax plan.</headline>
+<text>
+<p>NEW YORK, Dec 18 (Reuter) Vermont's Secretary of Administration, William Sorrell, said State Representative Steven Howard's proposal to reform property taxes includes an income tax rise that Gov Howard Dean finds unacceptable.</p>
+<p>Howard, chairman of the state Democratic Party, proposed eliminating local property tax funding for schools and replacing it with income, corporate and gasoline tax increases.</p>
+<p>He also suggested a first-ever state-wide tax on non-residential property. When he announced his plan earlier this week, Howard anticipated opposition from the governor. The representative called his plan a starting point for legislative discussion of property tax reform.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

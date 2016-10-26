@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122454" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Microcom Inc Q2 shr $0.04 vs $0.19.</title>
+<headline>Microcom Inc Q2 shr $0.04 vs $0.19.</headline>
+<dateline>NORWOOD, Mass. 1996-10-17</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				 Three Months Ended  Six Months Ended</p>
+<p>					  September 30,  September 30,</p>
+<p>				    1996	 1995     1996     1995</p>
+<p> Net sales		    $42,433   $32,809  $84,210  $61,364</p>
+<p> Net income			 648     3,088	929    5,203</p>
+<p> Net income per share	   .04	 .19	.06	.36</p>
+<p>Weighted average number</p>
+<p>  of shares		    16,548    16,523   16,795   14,614</p>
+<p>-- New York newsdesk, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWOOD, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

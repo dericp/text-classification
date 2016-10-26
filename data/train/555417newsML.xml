@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555417" id="root" date="1997-05-02" xml:lang="en">
+<title>ANGOLA: Kabila says no Angolans fighting in Zaire.</title>
+<headline>Kabila says no Angolans fighting in Zaire.</headline>
+<dateline>LUANDA 1997-05-02</dateline>
+<text>
+<p>Zairean rebel leader Laurent Kabila on Friday discounted reports of Angolan military involvement in his home country, either in support of his forces or aligned to President Mobutu Sese Seko.</p>
+<p>&quot;There are no Angolan troops fighting alongside our soldiers in Zaire as has been suggested,&quot; he told Reuters in Luanda where he was awaiting security guarantees before preparing to attend an internationally-brokered peace summit.</p>
+<p>The Washington Post newspaper had reported earlier on Friday that troops from Angola equipped with armoured vehicles and heavy artillery had joined Zairean rebel forces pushing toward the Zairean capital Kinshasa, still under Mobutu's control.</p>
+<p>Kabila also declined to back up reports that soldiers from Angola's former rebel UNITA movement were supporting Mobutu's troops in Zairea, saying:</p>
+<p>&quot;Our troops have not encountered any UNITA soldiers on our way to Kinshasa.&quot;</p>
+<p>The Mobutu government last month accused Angolan troops of invading Yema village, close to Muanda on the Atlantic coast, with 1,400 troops. It also reported Angolan troops were around Tshikapa further inland.</p>
+<p>But the Luanda government rejected the allegation last week, saying none of its troops had crossed into Zaire from Cabinda.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ANGOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUANDA"/>
+<dc element="dc.creator.location.country.name" value="ANGOLA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

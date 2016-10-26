@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252037" id="root" date="1996-12-12" xml:lang="en">
+<title>AUSTRALIA: RTRS-INDICATORS-Latest Australian quarterly stats.</title>
+<headline>RTRS-INDICATORS-Latest Australian quarterly stats.</headline>
+<dateline>SYDNEY 1996-12-13</dateline>
+<text>
+<p>Latest Australian quarterly economic data.</p>
+<p>			    QUARTERLY STATISTICS</p>
+<p>				 Period  Latest   Prev1  Prev2   Next</p>
+<p>Gross Domestic Product (s/adj, constant price, percent)</p>
+<p>	 GDP(A) (q/q)	  Q3     +0.8    +0.1    +2.1   Mar 05</p>
+<p>	 GDP(A) (y/y)	  Q3     +3.8    +4.7    +5.4   Mar 05</p>
+<p>	 GDP(I) (q/q)	  Q3     +1.2    +0.1    +1.8   Mar 05</p>
+<p>	 GDP(E) (q/q)	  Q3     +0.7    +0.1    +2.4   Mar 05</p>
+<p>	 GDP(P) (q/q)	  Q3     +0.5    +0.1    +2.0   Mar 05</p>
+<p>	 GDP(E) deflator(q/q)Q3     -0.4    +0.9    +0.4   Mar 05</p>
+<p>	 GNE    (q/q)	  Q3     +0.3    +0.8    +2.2   Mar 05</p>
+<p>Consumer Price Index (s/adj, pct)</p>
+<p>	 CPI (q/q)	     Q3     +0.3    +0.7    +0.4   Jan 29</p>
+<p>	 CPI (y/y)	     Q3     +2.1    +3.1    +3.7   Jan 29</p>
+<p>	 Underlying (q/q)    Q3     +0.5    +0.8    +0.4   Jan 29</p>
+<p>	 Underlying (y/y)    Q3     +2.4    +3.1    +3.3   Jan 29</p>
+<p>Average Weekly Ordinary Time Earnings (s/adj, pct)</p>
+<p>	 AWOTE (q/q)    Aug Qtr     +1.0    +1.3    +0.4   Feb 06</p>
+<p>	 AWOTE (y/y)    Aug Qtr     +3.8    +3.9    +4.2   Feb 06</p>
+<p>	 Private sect (q/q) AugQ    +0.5    +1.2    +0.3   Feb 06</p>
+<p>	 Private sect (y/y) AugQ    +3.4    +4.4    +4.9   Feb 06</p>
+<p>	 Public sect  (q/q) AugQ    +2.5    +1.6    +1.1   Feb 06</p>
+<p>	 Public sect  (y/y) AugQ    +5.6    +3.3    +3.2   Feb 06</p>
+<p>Company Profits (pre-tax,interest,depreciation)</p>
+<p>	 S/adj q/q	     Q3     +0.3    -6.3    +6.6   Feb 20</p>
+<p>	 S/adj y/y	     Q3     -3.5    -1.3    +7.9   Feb 20</p>
+<p>Private New Capital Expenditure (s/adj, q/q, constant price)</p>
+<p>	 Total		   Q3     +0.9   +13.3    +7.8   Feb 27</p>
+<p>	 Total (y/y)	   Q3    +25.3   +24.0   +11.1   Feb 27</p>
+<p>	 Build &amp; Struct	Q3     -2.2   +42.3   -13.0   Feb 27</p>
+<p>	 Equip, plant &amp; mach Q3     +2.4    +2.5   +18.6   Feb 27</p>
+<p>International Investment Position (A$ billions)</p>
+<p>	 Gross external debt Q3    241.2   234.8   230.3   Mar 06</p>
+<p>	 Net external debt   Q3    191.2   186.9   185.5   Mar 06</p>
+<p>	 Net debt pct of GDP Q3     38.8    38.4    38.8   Mar 06</p>
+<p>Retail Trade (s/adj, constant price)</p>
+<p>	 Total (q/q)	   Q3     +0.6    -0.4    +1.2   Feb 04</p>
+<p>	 Total (y/y)	   Q3     +2.2    +2.9    +5.1   Feb 04</p>
+<p>	 Trend (q/q)	   Q3     +0.2    +0.4    +0.6   Feb 04</p>
+<p>Business Stocks (Inventories) (constant prices, pct, s/adj)</p>
+<p>	 Total (q/q pct)     Q3     +2.3    +1.4    +1.1   Mar 03</p>
+<p>	 Total (y/y pct)     Q3     +5.7    +4.2    +3.6   Mar 03</p>
+<p>Dwelling Units commencements (s/adj, pct)</p>
+<p>	 Total (q/q)	   Q2     -3.2    +6.0    -8.3   Dec 13</p>
+<p>	 Total (y/y)	   Q2    -16.4   -21.2   -35.4   Dec 13</p>
+<p>-- Sydney Newsroom 61-2 9373-1800 (Fax 61-2 9262-4727)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

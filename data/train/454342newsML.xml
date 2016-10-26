@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="454342" id="root" date="1997-03-19" xml:lang="en">
+<title>ITALY: Italy parliament commission backs Autostrade sale.</title>
+<headline>Italy parliament commission backs Autostrade sale.</headline>
+<dateline>ROME 1997-03-19</dateline>
+<text>
+<p>The environment commission of Italy's lower house of parliament voted in favour on Wednesday of government plans to privatise Italy's main motorway operator, Autostrade Spa, parliamentary officials said.</p>
+<p>The centre-left government plans to sell Autostrade, now owned by state holding IRI, by June.</p>
+<p>The Chamber of Deputies commission, in its non-binding advice, said a proposed hard core of shareholders should control 20 to 25 percent of the stock and be barred from disposing of their holding for three years.</p>
+<p>The commission had been required to express an opinion on the planned sale. The competent commission of the Senate was due to discuss the issue on Wednesday afternoon.</p>
+<p>--Rome newsroom +39 6 678 2505</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

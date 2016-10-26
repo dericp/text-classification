@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="301198" id="root" date="1997-01-11" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Jan 11.</title>
+<headline>PRESS DIGEST - Morocco - Jan 11.</headline>
+<dateline>RABAT 1997-01-11</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN</p>
+<p>- Morocco celebrates 53rd anniversary of independance manifesto.</p>
+<p>L'OPINION</p>
+<p>- Opposition democratic group La Koutla holds meeting in Casablanca to celebrate independance manifesto.</p>
+<p>- Taxi driver Hamid Bouzguia murdered by unknown men in a remote area near Casablanca.</p>
+<p>AL BAYANE</p>
+<p>- Morocco will build a nuclear centre following the signing of loan accord with France.</p>
+<p>ALMAGHRIB</p>
+<p>- Morocco and Mali pledge to boost cooperation.</p>
+<p>LE QUOTIDIEN</p>
+<p>- Morocco to set up a National Observatory for Childhood.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

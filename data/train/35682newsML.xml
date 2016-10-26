@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35682" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Price impact of U.S. West power grid cuts fades.</title>
+<headline>Price impact of U.S. West power grid cuts fades.</headline>
+<byline>Deena Beasley</byline>
+<dateline>LOS ANGELES 1996-09-05</dateline>
+<text>
+<p>Capacity restrictions this summer on key western U.S. power lines are seen losing their stifling hold on the region's electricity trading as the weather cools, industry sources said.</p>
+<p>&quot;People who took positions at COB were left holding the bag,&quot; said Jon Kaake, director of system operations at PacifiCorp. &quot;The de-rating did certainly isolate the Southwest from the Northwest market.&quot;</p>
+<p>But the coming winter, when Northwest electricity use rises and Southwest demand drops, is seen erasing this line.  </p>
+<p>Since the big August 10 Western system power outage, southbound transmissions on the Pacific Intertie, connecting the Northwest to California, have been capped at 65 percent.</p>
+<p>The Intertie's AC line was restricted to 3,200 megawatts (MW) of its 4,800 MW rated capacity, while the DC line has been limited to 2,000 of its 3,200-MW capacity.</p>
+<p>The constraints were called &quot;indefinite&quot; by the Bonneville Power Administration (BPA), which operates the Intertie, and industry sources said they will continue for at least several more weeks and perhaps up to year, pending further studies.  </p>
+<p>&quot;There is a lot of power stuck in the Northwest,&quot; said a trader at a Portland, Ore., utility. &quot;The value of transmission is high, but utilities are using it for their native load.&quot;</p>
+<p>The Intertie's northbound capacity could also be subject to voltage support constraints, but transmissions in that direction are unlikely to reach critically high levels before winter begins in earnest, said BPA spokeswoman Lynn Baker.</p>
+<p>The Western System Coordinating Council (WSCC), the self-governing group that oversees operation of the regional power grid, expects to release a preliminary report on the August outage soon, said WSCC spokeswoman Corry Alsberg.  </p>
+<p>&quot;If you are physically moving power in and out of COB, it's kind of tough now,&quot; said a Southwest trader. &quot;And the arbitrage between COB and Palo Verde is nothing.&quot;</p>
+<p>On Wednesday, October COB on NYMEX settled at $16.10 per megawatt hour, while the October Palo Verde contract closed at $16.80. Inter-regional physical trades are generally deemed economic if the spread between the Northwest and Southwest is $7.00 or higher, said traders.</p>
+<p>&quot;Marketers bought transmission rights for September, but those rights ended up having no value because the space is gone,&quot; noted the Oregon power trader.  </p>
+<p>But traders said transmission cost becomes less of a market factor as Southwest demand wanes and imports from the Northwest begin their seasonal decline.</p>
+<p>Furthermore, the limits on inter-state transmissions led utilities to restart previously idled gas-fired plants.</p>
+<p>&quot;There is no differential between costs for gas-fired generation in the Southwest versus the Northwest,&quot; explained one trader.</p>
+<p>Sources also noted coming implementation of the Federal Energy Regulatory Commission's transmission access order would likely dramatically change transmission costs.  </p>
+<p>&quot;It becomes a whole new ballgame on November 1,&quot; said PacifiCorp's Kaake. &quot;But there is already a reduction in the desire to move power from the Northwest. Bonneville has withdrawn from offering power during heavy-load hours and hydroelectric output is falling.&quot;</p>
+<p>-- Los Angeles bureau + 213 955 6853</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

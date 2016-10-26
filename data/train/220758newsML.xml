@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220758" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Omaha Public 478 MW nuke seen at full this weekend.</title>
+<headline>Omaha Public 478 MW nuke seen at full this weekend.</headline>
+<dateline>NEW YORK 1996-11-27</dateline>
+<text>
+<p>Omaha Public Power District's 478 megawatt Fort Calhoun nuclear power plant in Fort Calhoun, Neb., will likely reach full power this weekend following a scheduled maintenance outage, a company spokesman said.</p>
+<p>&quot;It will probably be back at full this weekend,&quot; spokesman Gary Williams said Wednesday.</p>
+<p>The unit was shut Oct 5 for scheduled refueling and maintenance and began ramping up power earlier this week.</p>
+<p>According to the Nuclear Regulatory Commission's daily plant status report, Fort Calhoun was operating at near 18 percent of capacity early Wednesday.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720773" id="root" date="1997-07-10" xml:lang="en">
+<title>SWEDEN: Moody's upgrades deposit ratings on Jyske Bank.</title>
+<headline>Moody's upgrades deposit ratings on Jyske Bank.</headline>
+<dateline>STOCKHOLM 1997-07-10</dateline>
+<text>
+<p>Credit ratings agency Moody's said on Thursday it upgraded the deposit ratings on Denmark's Jyske Bank to A2/Prime-1 from A3/Prime-2 because of sustained improvement in the bank's financial fundamentals.  </p>
+<p>According to Moody's the upgrades reflect the sustained improvement in the bank's financial fundamentals, which significantly lowers its risk profile, and the bank's focused strategy in an increasingly competitive environment.</p>
+<p>Since the banking crisis of the early 1990's Jyske Bank has achieved a wide ranging improvement in its financial fundamentals. Profitability has been restored to a satisfactory level, as have capital ratios.</p>
+<p>Asset quality has improved, and the loan portfolio now shows satisfactory sectoral and customer diversification, and a good level of provisioning, while credit policies and procedures have been tightened.</p>
+<p>-- Simon Haydon, Stockholm newsroom +46-8-700-1004</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

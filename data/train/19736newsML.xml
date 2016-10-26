@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19736" id="root" date="1996-08-28" xml:lang="en">
+<title>INDIA: Delhi bourse closed to mark Hindu festival. [CORRECTED 04:43 GMT]</title>
+<headline>Delhi bourse closed to mark Hindu festival. [CORRECTED 04:43 GMT]</headline>
+<dateline>NEW DELHI 1996-08-28</dateline>
+<text>
+<p>The Delhi Stock Exchange, in line with the Bombay Stock Exchange (corrects to show that the National Stock Exchange will not be closed), will be closed on Wednesday to mark the Hindu festival of &quot;Raksha Bandhan&quot;.</p>
+<p>On Tuesday the bourse's benchmark index closed 1.94 points higher at 797.94 after dipping to a mid-session low of 795.02.</p>
+<p>The bourse will reopen for business as usual on Thursday.</p>
+<p>--New Delhi newsroon +91-11-3012024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

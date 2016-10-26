@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57520" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: UC Television Q3 shr loss narrows.</title>
+<headline>UC Television Q3 shr loss narrows.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>Three months ended</p>
+<p>			7/31/96			7/31/95</p>
+<p> Shr loss		   $0.09     loss	 $0.14</p>
+<p> Net loss		     927     loss	   832</p>
+<p> Revs			    77			110</p>
+<p> Avg shrs		  10,327		    5,955</p>
+<p>	    9  MONTHS</p>
+<p> Shr loss		   $0.25     loss	 $0.35</p>
+<p> Net loss		   1,830     loss	 1,997</p>
+<p> Revs			 1,196			850</p>
+<p> Avg shrs		   7,472		    5,668</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: UC Television Network Corp said it retrofitted its existing systems installed at college and university campuses this summer, which dampened sales.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741112">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660466" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Vermont legislature passes landmark tax reform bill.</title>
+<headline>Vermont legislature passes landmark tax reform bill.</headline>
+<dateline>BURLINGTON, Vermont</dateline>
+<text>
+<p>The Vermont House and Senate Thursday gave final approval to a tax plan which includes the state's first-ever property tax and radically changes the way the state will fund education in the future.</p>
+<p>The property tax revenue will be sent to the capital and returned to towns in block grants of about $5,000 per pupil.</p>
+<p>Towns can then raise more money through a local property tax if they so choose.</p>
+<p>The new bill will raise the state's share of education funding from the current 30 percent to nearly 80 percent.</p>
+<p>The bill resulted from a state Supreme Court decision in February that declared the state's method of funding education unconstitutional because of property tax inequities from town to town.</p>
+<p>Gov. Howard Dean has said he will sign the bill into law, probably early next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURLINGTON, Vermont"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

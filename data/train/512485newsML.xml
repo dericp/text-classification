@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512485" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: BASEBALL-TIGERS ACTIVATE NEVIN, SHIP OUT COLEMAN.</title>
+<headline>BASEBALL-TIGERS ACTIVATE NEVIN, SHIP OUT COLEMAN.</headline>
+<dateline>DETROIT 1997-04-16</dateline>
+<text>
+<p>The Detroit Tigers activated infielder/outfielder Phil Nevin from the 15-day disabled list on Wednesday and designated outfielder Vince Coleman for assignment.</p>
+<p>Nevin has been disabled since March 21 with a sprained left wrist and recently completed a rehab assignment at Class A Lakeland (.556 average in three games) and Triple-A Toledo (.156 in five games).</p>
+<p>The 26-year-old Nevin has 10 homers and 31 RBI in 67 total games with Detroit from 1995-96 after originally coming up with the Houston Astros for 18 gaems in the beginning of the 1995 campaign.</p>
+<p>Coleman, who was invited to spring training as a non-roster player, has hit .071 with no homers or RBI in six games this season. The ageing basestealer, a two-time All Star, was with the sixth team in his 13-year career.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

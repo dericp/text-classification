@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450110" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: Harman stock falls on profit drop warning.</title>
+<headline>Harman stock falls on profit drop warning.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The stock of Harman International fell sharply Tuesday, a day after the maker of high-quality audio products warned of a drop in third-quarter profits.</p>
+<p>The stock fell $12.25, or more than 26 percent, to $33.75 on the New York Stock Exchange in early afternoon trading.</p>
+<p>Harman said late Monday that it expected earnings of 50 cents to 55 cents a share for the three months ended March 31, down from 86 cents for the year-ago period.</p>
+<p>The company said sales for the period were likely to be higher than the $339.3 million a year ago, but about $40 million lower than expected.</p>
+<p>It said delays in the receipt of letters of credit for several professional audio contracts with some countries will postpone shipments of $10 million.</p>
+<p>Soft consumer sales worldwide will reduce sales by another $10 million, it added.</p>
+<p>The Washington-based company also said it expects &quot;strong&quot; results in its fourth quarter ending June 30 as well as in fiscal 1998 due to the introduction of new products and release of the contracts for its professional audio business.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

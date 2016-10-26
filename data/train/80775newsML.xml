@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80775" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Loehmann files for 1.97 mln shr offering.</title>
+<headline>Loehmann files for 1.97 mln shr offering.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>Loehmann's Inc said on Friday it has filed a registration statement with the U.S. Securities and Exchange Commission to the offering of 1.97 million shares by selling shareholders.</p>
+<p>Montgomery Securities will lead manage the offering and Robertson Stephens &amp; Co and Salomon Brothers will co-manage the offering.</p>
+<p>Certain selling shareholders have granted the underwriters a 30-day option to buy up to 295,500 shares to cover overallotments, Loehmann's said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

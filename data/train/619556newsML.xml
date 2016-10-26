@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619556" id="root" date="1997-05-28" xml:lang="en">
+<title>UK: Mixed trading conditions seen in Europe cotton mart.</title>
+<headline>Mixed trading conditions seen in Europe cotton mart.</headline>
+<dateline>LIVERPOOL 1997-05-28</dateline>
+<text>
+<p>Mill buyers in some Western European raw cotton markets continue to seek Central Asian supplies against summer shipment needs but offers from the trade are increasingly hard to find.</p>
+<p>This has resulted in attention being diverted to other growths that might prove suitable. Azerbaijan cotton found favour and more business is believed to have been concluded in Syrian and occasionally in West African. Turkey has continued to place enquiries for US cotton though a range of other upland descriptions has also found favour.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

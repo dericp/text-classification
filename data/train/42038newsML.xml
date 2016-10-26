@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42038" id="root" date="1996-09-09" xml:lang="en">
+<title>PORTUGAL: Portuguese police seize cocaine on Cypriot ship.</title>
+<headline>Portuguese police seize cocaine on Cypriot ship.</headline>
+<dateline>LISBON 1996-09-09</dateline>
+<text>
+<p>Portuguese police have seized 20.3 kg (45 lb) of cocaine worth millions of dollars hidden in a Cypriot cargo vessel, a police spokeswoman said on Monday.</p>
+<p>Maria Firmina said police confiscated the drug after a Portuguese worker repairing a turbine found a suspicious package hidden in the hull of the Curacao Freeze while it was docked for repairs in Lisbon on Sunday.</p>
+<p>She told Reuters police suspected that one of the 28-strong crew, who included Greeks, Cypriots, Poles and Filipinos, was responsible for smuggling the cocaine on board.</p>
+<p>No one had been arrested but the crew members remained on the ship while police continued their investigations, she added.</p>
+<p>The cargo transported by the vessel, which had arrived from Ventspils in Latvia, was not known.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

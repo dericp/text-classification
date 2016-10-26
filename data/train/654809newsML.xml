@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="654809" id="root" date="1997-06-11" xml:lang="en">
+<title>PAPUA NEW GUINEA: PNG police probe report of poll candidate shooting.</title>
+<headline>PNG police probe report of poll candidate shooting.</headline>
+<dateline>PORT MORESBY 1997-06-11</dateline>
+<text>
+<p>Papua New Guinea police said on Wednesday they were investigating reports that an independent candidate for the South Pacific nation's coming election had been shot dead.</p>
+<p>Papua New Guinea's Post-Courier newspaper reported on Wednesday that Patterson Kila was shot at close range on Tuesday outside a friend's home in Port Moresby by men who had demanded his car keys.</p>
+<p>&quot;We are investigating and we can't say anything until the man's family have been informed,&quot; deputy police commisssioner Kembu Ludwick told Reuters.</p>
+<p>Papua New Guinea voters are due to begin voting this Saturday in one of the country's most important elections since winning independence from Australia 22 years ago.</p>
+<p>The country was plunged into crisis in March over plans by Prime Minister Sir Julius Chan to hire mercenaries to put down a nine-year secessionist rebellion on nearby Bougainville island.</p>
+<p>Chan stood aside while a commission of inquiry examined a US$36 million deal to hire African mercenaries through the London-based military consultancy Sandline International.</p>
+<p>Chan resumed his post last week after saying the inquiry had cleared him of any wrongdoing.</p>
+<p>The Post-Courier also reported Chan's helicopter was attacked while he was campaigning in the rugged Highlands region, but a spokesman said the incident was not related to the election.</p>
+<p>Chan's spokesman said a man became alarmed when the helicopter's engine was started and responded by throwing a rock at it.</p>
+<p>The spokesman said Chan was 200 metres away at the time and was unhurt. Damage to the helicopter was minor and it was back in service soon after, he said.</p>
+<p>A nationwide dusk-to-dawn curfew and liquor ban begin on Wednesday in a bid to stop election violence.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT MORESBY"/>
+<dc element="dc.creator.location.country.name" value="PAPUA NEW GUINEA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

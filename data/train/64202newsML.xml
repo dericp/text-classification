@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64202" id="root" date="1996-09-19" xml:lang="en">
+<title>CHINA: Hughes unit launches first China venture.</title>
+<headline>Hughes unit launches first China venture.</headline>
+<dateline>SHANGHAI 1996-09-19</dateline>
+<text>
+<p>Delco Electronics on Thursday announced its first joint venture in China to make automotive parts and instruments, partly for use by a planned General Motors carmaking venture in Shanghai.</p>
+<p>Shanghai Delco Electronics and Instrumentation Co would involve an investment of $30 million, half by Delco and half by Shanghai Chang Jiang Instrument Factory, company director William Spelman told a news conference.</p>
+<p>The venture, on Chongming island in the Yangtze River estuary north of Shanghai, will manufacture mechanical, electro-mechanical and electronics instruments and parts for automobiles, motorcycles, tractors and trucks, he said.</p>
+<p>Delco is a subsidiary of GM Hughes Electronics Corp.</p>
+<p>The Chinese partner, Chang Jiang Instrument Factory, had sales of 165 million yuan in 1995, making it China's biggest company in this field, Spelman said.</p>
+<p>He said the venture planned to gradually expand sales, mainly to the Chinese market, including a planned GM joint venture in the Pudong New Area of Shanghai.</p>
+<p>Delco would be a long-term player in the China market and was discussing other mainland joint ventures, Spelman said.</p>
+<p>Delco Electronics posted $5.6 billion in sales of electronics and instrumentation products in 1995, ranking it as one of the world's top auto parts companies and number one in automotive electronics, a Delco statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

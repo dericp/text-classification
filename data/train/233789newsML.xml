@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233789" id="root" date="1996-12-04" xml:lang="en">
+<title>CROATIA: Croatian stocks mixed, drugs firm Pliva up.</title>
+<headline>Croatian stocks mixed, drugs firm Pliva up.</headline>
+<dateline>ZAGREB 1996-12-04</dateline>
+<text>
+<p>Croatian stocks were mixed on Wednesday in slow trade with drugs firm Pliva recovering.</p>
+<p>* Of seven active issues, four rose, one fell and two were flat.</p>
+<p>* Volume was lower at 7,739 and turnover halved at 7.7 million kuna.</p>
+<p>* Top gainer hotelier Laguna rose 60 kuna to 1,010, with 82 shares sold.</p>
+<p>* The only decliner was Zagrebacka Banka, which edged down 21 kuna to close at 1,004. It was also the most actively traded issue on volume of 4,071 shares. -- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

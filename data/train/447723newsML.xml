@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="447723" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Ixc sees oper income below plan in first half '97.</title>
+<headline>Ixc sees oper income below plan in first half '97.</headline>
+<dateline>AUSTIN, Texas 1997-03-17</dateline>
+<text>
+<p>IXC Communications Inc said Monday its 1997 revenues would be generally in line with analysts' estimates in the range of $456 million to $482 million.</p>
+<p>The company predicted 1997 EBITDA would be modestly below analysts' estimates of $78 million to $90 million.</p>
+<p>IXC also said it expects to exceed analysts' 1998 estimates of revenues in the range of $553 million to $595 million and of EBITDA in the range of $123 million to $156 million.</p>
+<p>The company said a principal reason for the anticipated rapid improvements in EBITDA is that, with the completion of the company's network expansion routes, the company will be able to carry significant amounts of telecommunications traffic on its network instead of continuing to carry the traffic on circuits leased from other carriers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUSTIN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

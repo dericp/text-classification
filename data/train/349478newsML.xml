@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="349478" id="root" date="1997-02-01" xml:lang="en">
+<title>INDIA: One killed, 15 injured in India bus blast.</title>
+<headline>One killed, 15 injured in India bus blast.</headline>
+<dateline>NEW DELHI 1997-02-01</dateline>
+<text>
+<p>A blast ripped through a privately-owned bus in the northern Indian town of Panipat on Saturday, killing one person and injuring at least 15 people, police and hospital officials said.</p>
+<p>They said the blast occurred in late afternoon as the bus was parked in the main bus station of the town, some 100 km (60 miles) north of New Delhi in Haryana state.</p>
+<p>&quot;So far one person has died, a boy, and roughly 15 people have been injured,&quot; D.P.Arora, a doctor at Panipat's civil hospital, told Reuters by telephone.</p>
+<p>&quot;People are coming and we are still treating them and counting the numbers,&quot; he said.</p>
+<p>&quot;It was a crude bomb, not an RDX (research developed explosive) bomb,&quot; said an aide of the district chief, quoting a senior police official.</p>
+<p>This was the third such blast in the Panipat region in the past one month, officials said. No other details were available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

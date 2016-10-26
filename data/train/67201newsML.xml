@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67201" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: FCOJ futures end weaker, seen heading lower.</title>
+<headline>FCOJ futures end weaker, seen heading lower.</headline>
+<dateline>NEW YORK 1996-09-20</dateline>
+<text>
+<p>NYCE Frozen concentrated orange juice futures settled a dull session slightly lower as a dearth of news ahead of the weekend kept most players out of the ring, floor sources said.</p>
+<p>Volume on the day was estimated at only 500 lots.</p>
+<p>November FCOJ closed 0.40 cent lower at 106.45 cents a lb after trading from 106.70 to 106.00. The rear closed 0.45 lower to 3.00 higher.</p>
+<p>On the charts, prices appear to be heading lower, analysts said, pegging nearby support between 105.00 and 104.00, and then between 98.00 and 96.00.</p>
+<p>USDA will release its widely-watched estimate for the Florida crop next month.</p>
+<p>--Suzanne Rostler, New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

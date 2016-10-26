@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="502825" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: Extended Stay shareholders approve merger.</title>
+<headline>Extended Stay shareholders approve merger.</headline>
+<dateline>LEXINGTON, Ky. 1997-04-11</dateline>
+<text>
+<p>Extended Stay America Inc said it and Studio Plus Hotels Inc said their shareholders have voted to approve the merger between the two companies, and that the merger is expected to be consummated today.</p>
+<p>Pursuant to the terms of the deal, shareholders of Studio Plus will receive 1.2272 shares of the common stock of Extended Stay America Inc for each share of Studio Plus Hotels.  </p>
+<p>&quot;The merger of Studio Plus with Extended Stay America signifies our commitment to be the leader of the extended stay lodging market,&quot; said George Johnson Jr, Extended Stay's chief executive.</p>
+<p>&quot;We are proud to add the high quality Studio Plus product to our facilities, which with our recently announced launch of Crossland Economy Studios, will allow the company to compete effectively across the entire extended stay lodging category.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

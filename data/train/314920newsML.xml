@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314920" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: PRESALE - Dedham, Mass.</title>
+<headline>PRESALE - Dedham, Mass.</headline>
+<text>
+<p>AMT: 2,470,000	DATE: 01/28/97	NYC Time: 1100	CUSIP: 243667</p>
+<p>ISSUER: Dedham							    ST: MA</p>
+<p>ISSUE: Municipal purpose loan of 1997			     TAX STAT:Exempt-LT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 02/01/97							     SURE BID: N</p>
+<p>DUE: 2/1/98-05						SR MGR:</p>
+<p>1ST CPN: 08/01/97</p>
+<p>CALL: Non-Callable					  TIC</p>
+<p>DELIVERY: 2/11/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: BankBoston, Corporate Trust Dept., Canton</p>
+<p>L.O.: Ropes &amp; Gray, Boston</p>
+<p>F.A.: BayBank, Burlington</p>
+<p>LAST SALE: $1,760,000 6/28/94 @ 4.6096% TIC; 2yrs 11mos Avg; BBI-6.16%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    390,000</p>
+<p>1999		    385,000</p>
+<p>2000		    385,000</p>
+<p>2001		    310,000</p>
+<p>2002		    250,000</p>
+<p>2003		    250,000</p>
+<p>2004		    250,000</p>
+<p>2005		    250,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

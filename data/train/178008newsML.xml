@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178008" id="root" date="1996-11-09" xml:lang="en">
+<title>USA: US Oct aluminum output highest mthly total in 1996.</title>
+<headline>US Oct aluminum output highest mthly total in 1996.</headline>
+<dateline>NEW YORK 1996-11-08</dateline>
+<text>
+<p>U.S. primary aluminum production in October totaled 303,714 tonnes, the highest for any month in 1996, the Aluminum Association reported.</p>
+<p>In the first ten months of the year, primary production reached 2,976,853 tonnes, up from 2,791,919 tonnes in the same period last year.</p>
+<p>October's average daily rate of production was 9,797.</p>
+<p>The annualised rate of output in January through October was 3,572,224 tonnes, compared to actual total 1995 output of 3,375,241 tonnes.</p>
+<p>-- New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

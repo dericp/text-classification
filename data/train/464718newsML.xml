@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="464718" id="root" date="1997-03-24" xml:lang="en">
+<title>SINGAPORE: NEC forms new venture firm.</title>
+<headline>NEC forms new venture firm.</headline>
+<dateline>SINGAPORE 1997-03-24</dateline>
+<text>
+<p>NEC Corp said on Monday it was forming a new venture firm, Telemidic Ltd, from April 1.</p>
+<p>The firm would focus on sales and development of networking technology for musicians, based on the MIDI (Musical Instrument Digital Interface) communications protocol, a statement said.</p>
+<p>Capitalised at 10 million yen, the 70-percent NEC owned venture was projected to reach sales of 64 million yen in the first year, rising to 211 million yen by the third year, said the statement issued in Singapore.  </p>
+<p>The first such technology would be TeleMidi, which allows musicians to create real-time networks via telephone lines between various remote locations, such as homes and studios.</p>
+<p>Telemidic will also develop and market products for TeleMidi netowrks, including electronic musical insturments.</p>
+<p>--Singapore newsroom (65-8703080)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

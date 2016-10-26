@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90523" id="root" date="1996-10-02" xml:lang="en">
+<title>UK: German inland gas oil firmer as futures leap.</title>
+<headline>German inland gas oil firmer as futures leap.</headline>
+<text>
+<p>(DLR/DM=1.5270)  DM/100 LTRS    DLRS/100 LTRS   LAST DM</p>
+<p> HAMBURG	     40.00/40.30     26.19/26.38     39.80/40.20</p>
+<p> BREMEN		40.00/40.30     26.19/26.38     39.80/40.20</p>
+<p> DUISBURG	    40.80/41.20     26.67/26.97     40.50/40.90</p>
+<p> FRANKFURT	   42.10/42.40     27.56/27.69     41.90/42.30</p>
+<p> KARLSRUHE	   42.30/42.70     27.62/27.96     42.10/42.40</p>
+<p> INGOLSTADT	  43.70/44.00     28.61/28.81     43.50/43.80</p>
+<p>German inland gas oil was slightly firmer on Wednesday but failed to reflect a huge leap in futures. Demand was good ahead of a national holiday on Thursday, but strong competition between suppliers capped price hikes. -London +44 171 542 5387</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

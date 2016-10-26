@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75885" id="root" date="1996-09-25" xml:lang="en">
+<title>FRANCE: Algeria gives go-ahead for first free zone.</title>
+<headline>Algeria gives go-ahead for first free zone.</headline>
+<dateline>PARIS 1996-09-25</dateline>
+<text>
+<p>Algeria's government on Wednesday granted permission for setting up the country's first free zone to attract foreign investors and speed up opening the economy, the official Algerian news agency APS reported.</p>
+<p>The first zone is to be opened in the eastern port town of Bellara, 240 km (150 miles) from Algiers, where the governmement had planned to set up a huge steel complex.</p>
+<p>Prime Minister Ahmed Ouyahia told a cabinet meeting on Wednesday that such zones would boost economic growth and trade. APS did not say when the free zone would become operative.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534859" id="root" date="1997-04-24" xml:lang="en">
+<title>UK: UK's Ofgas says gas market manipulation &quot;possible&quot;.</title>
+<headline>UK's Ofgas says gas market manipulation &quot;possible&quot;.</headline>
+<dateline>LONDON 1997-04-24</dateline>
+<text>
+<p>Price manipulation in the UK spot natural gas market is &quot;a possibility&quot; because the market is so small and illiquid, industry regulator Ofgas said in a report published on Thursday.</p>
+<p>&quot;Due to the lack of depth and the small number of very active participants, individual companies can affect the price in the short term. Furthermore, concentration upstream and the limited number of active participants in the spot market suggests that longer term price manipulation is a possibility,&quot; the report concluded.</p>
+<p>But it added that Ofgas found no evidence to suggest that the market was being manipulated.</p>
+<p>Despite the possibility of price rigging, the report gave the spot market a generally clean bill of health.</p>
+<p>&quot;Ofgas concludes that the price behaviour...in the spot gas market is reasonable given the developments in the industry, and the relative immaturity of the market.&quot;</p>
+<p>Ofgas's Review of the Gas Spot Market was commissioned after steep price rises in late 1996, which led a number of companies to express concern to the regulator.</p>
+<p>In November 1996, the price for month-ahead gas rose sharply from the range 13-15 pence a therm to over 20 pence. This followed an earlier price spike over the summer when levels had risen from nine pence to the 13-15 pence range. Then in January and early February 1997, prompt and month ahead gas prices fell back dramatically to under 10 pence a therm.</p>
+<p>Ofgas suggested a combination of factors for the summer price rise. These include the view that prices had become unsustainably low after a year of low prices. These low prices had in turn led to a delay of new field development, so leading to a tighter supply/demand position.</p>
+<p>The shut-in of the giant Morecambe field, then controlled by British Gas plc before its demerger, was also seen as a reason. Ofgas's report showed that Morecambe produced no gas at all in June, July and August 1996, although it had produced small volumes the previous summer.</p>
+<p>&quot;Most participants we talked to regarded BGT's shut-in of Morecambe as a legitimate commercial action. However, with approximately 70 percent of gas supply under its control...the example of the Morecambe shut-in acts as a reminder of the influence that BGT/Centrica decisions can have on spot prices,&quot; the report said.</p>
+<p>The impact of daily balancing under the Network Code, the rule book governing trade on the pipeline system, was also seen as contributing to the summer price rise.</p>
+<p>The much greater increase in prices in November has been widely attributed to the first cold weather after the introduction of the &quot;hard landing&quot;, or second stage, of the Network Code in September 1996.</p>
+<p>Ofgas said that the main contributing factors include the increase in seasonality of prices; volatility due not only to the influence of the short term supply/demand position but also to the interaction of spot prices with the Flexibility Mechanism, a trading mechanism set up to facilitate daily balancing; and the immaturity of the whole market, which is still developing.</p>
+<p>Ofgas attributed the rapid fall in early 1997 to warm weather. &quot;The simplest explanation for the fall in the spot price...would appear to be the mild weather after the cold snaps earlier in the winter. Shippers that had made provision for a long cold winter may have had surplus gas...pulling down prices for the remaining winter months.&quot;</p>
+<p>For the future development of the spot market, Ofgas believes a resolution of problems with the Claims Validation Agency (CVA) -- the agency which confirms that physical movements of gas have taken place -- would remove the main disincentive from trading at beach terminals.</p>
+<p>Some &quot;relatively minor&quot; modifications to the Network Code would also increase liquidity.</p>
+<p>The opening of the Bacton-Zeebrugge Interconnector pipeline in late 1998 is expected to allow prices on continental Europe to start to interact with UK prices, and the report said the pipeline &quot;may represent the first stage in the development of a European-wide gas market.&quot;</p>
+<p>--London Newsroom, +44 171 542 6412</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

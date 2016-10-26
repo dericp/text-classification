@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565279" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Northwest Airlines April load factor up.</title>
+<headline>Northwest Airlines April load factor up.</headline>
+<dateline>MINNEAPOLIS 1997-05-07</dateline>
+<text>
+<p>Northwest Airlines Corp said Wednesday its passenger load factor rose to 71.4 percent in April from 70.9 percent during the same month last year.  </p>
+<p>Northwest also said its available seat miles rose to 7.86 billion in April from 7.50 billion during the same period last year. Revenue passenger miles increased to 5.61 billion from 5.32 billion, the airline said.</p>
+<p>For the first four months of the year, load factor was 71.8 percent, up from 70.4 percent a year ago.</p>
+<p>Available seat miles for the period were 30.91 billion and revenue passenger miles were 22.21 billion, compared to 29.68 billion and 20.89 billion a year ago, the airline said.</p>
+<p>Northwest Airlines shares rose 1/16 to 40-9/16 Wednesday.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

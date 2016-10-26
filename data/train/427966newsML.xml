@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="427966" id="root" date="1997-03-07" xml:lang="en">
+<title>USA: CMS files restructuring cost estimate.</title>
+<headline>CMS files restructuring cost estimate.</headline>
+<dateline>JACKSON, Mich. 1997-03-07</dateline>
+<text>
+<p>Consumers Energy, the principal subsidiary of CMS Energy Corporation, said Friday it filed an estimate of an electric utility restructuring plan that would cost $1.961 billion.</p>
+<p>The estimate was filed in response to questions from the Michigan Public Service Commission (MPSC) related to implementation of the plan.</p>
+<p>Using the definition of transition costs adopted by the MPSC staff, Consumers Energy estimates its transition costs to be $1.761 billion and its implementation costs to be $200 million, for the total of $1.961 billion.  </p>
+<p>Customers who opt to buy electricity from suppliers other than Consumers during 1997-2007, will still be charged transition and implementation costs in the form of a delivery surcharge, the company said.</p>
+<p>The utility also said it included a securitization proposal in its filing. It would involve issuing approximately $4 billion of rate reduction bonds providing a decrease in customer rates in excess of $200 million per year if appropriate legislation were passed.</p>
+<p>&quot;Because of the importance of gaining legislative authorization of the restructuring plan, the company's willingness to voluntarily implement this plan would cease as of December 31, 1997, unless utility restructuring legislation has been enacted by that date,&quot; Consumers said in its proposal.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JACKSON, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563247" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Livestock/meat crossings at U.S./Canadian border.</title>
+<headline>Livestock/meat crossings at U.S./Canadian border.</headline>
+<dateline>WASHINGTON 1997-05-06</dateline>
+<text>
+<p>Agriculture Canada reported the following preliminary livestock and meat crossings at the U.S./Canadian border. - USDA</p>
+<p>Canadian Imports from the U.S.:		    yr to   yr ago</p>
+<p>			04/26/97 04/19/97 04/27/96   date    to date</p>
+<p>Livestock/in head</p>
+<p>Slaughter Steers:     19	  7    520 :     864     2,377</p>
+<p>Heifers:		   7	  9     70 :     451	 410</p>
+<p>Cows:		    689	969    455 :  12,292     7,557</p>
+<p>Bulls:		    42	 96     58 :     670	 469</p>
+<p>Totals		   757    1,081  1,103 :  14,277    10,813</p>
+<p>Canadian Imports from the U.S. - Meat (1,000 lbs):</p>
+<p>     PERIOD    PREVIOUS    LAST     1997	SAME     YTD</p>
+<p>     ENDING    WEEK	  YEAR    YEAR TO   PERIOD   PERCENT</p>
+<p>     04/26/97  04/19/97  04/27/96   Date*    Last yr.  Change</p>
+<p>Beef  3,139     3,307     4,943 :  64,892    72,141  -  10.0%</p>
+<p>Pork  1,607     1,903     1,345 :  28,148    27,004  +   4.2%</p>
+<p>Canadian Exports into the U.S. - Meat (1,000 lbs):</p>
+<p>	PERIOD    PREVIOUS    LAST    1997	SAME	YTD</p>
+<p>	ENDING    WEEK	  YEAR    TO	 PERIOD   PERCENT</p>
+<p>Meat  04/26/97  04/19/97  04/27/96  Date*    Last yr   Change</p>
+<p>Beef   20,913    26,724    20,040  152,470  115,830  + 31.6%</p>
+<p>Pork    9,050    16,499    14,493   93,665   87,450  +  7.1%</p>
+<p>*Year to date totals may reflect revisions from previous weeks (Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

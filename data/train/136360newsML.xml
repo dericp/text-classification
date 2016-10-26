@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136360" id="root" date="1996-10-23" xml:lang="en">
+<title>BURUNDI: Burundi denies it has armed Zaire's Tutsis.</title>
+<headline>Burundi denies it has armed Zaire's Tutsis.</headline>
+<dateline>BUJUMBURA 1996-10-23</dateline>
+<text>
+<p>Burundi's foreign minister denied on Wednesday that his country was arming Banyamulenge ethnic Tutsis battling Zairean soldiers in eastern Zaire in a conflict that has sparked a mass exodus of refugees.</p>
+<p>Foreign Minister Luc Rukingama told Reuters that Burundi, itself at war between the Tutsi-dominated army and Hutu rebels, had no interest in attacking its giant neighbour.</p>
+<p>&quot;Burundi has no interest in attacking Zaire. We have enough problems within our country,&quot; Rukingama said.</p>
+<p>He was responding to accusations by Zaire that the Tutsi-dominated armies of Burundi and Rwanda were supporting the Banyamulenge -- an ethnic Tutsi group which came to Zaire from Rwanda at the end of the 18th century.</p>
+<p>&quot;We are asking our neighbour Zaire to leave emotions out of this debate which risks adding to the tensions that already exist between the three countries,&quot; he said.</p>
+<p>Diplomats and aid workers say there is little evidence that Burundi has provided substantial aid to Zaire's Tutsi rebels, but they say individual Burundian soldiers and militia have launched cross-border raids.</p>
+<p>More than 200,000 Rwandan and Burundian refugees fled camps north of Uvira at the weekend because of fighting between Zairean troops and Banyamulenge rebels.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURUN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUJUMBURA"/>
+<dc element="dc.creator.location.country.name" value="BURUNDI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

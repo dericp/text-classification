@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563883" id="root" date="1997-05-06" xml:lang="en">
+<title>UK: Lloyds raises UK base rate to 6.25 pct.</title>
+<headline>Lloyds raises UK base rate to 6.25 pct.</headline>
+<dateline>LONDON 1997-05-06</dateline>
+<text>
+<p>British banking giant Lloyds TSB Group Plc said on Tuesday it will raise its base rate to 6.25 percent from 6.0 percent.</p>
+<p>The rise will take effect at the close of business on Tuesday.</p>
+<p>The move followed the decision by Britain's new Labour government to raise interest rates by 25 basis points to 6.25 percent. -- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

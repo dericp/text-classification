@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="179262" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Sandoz drug seen aiding heart patients.</title>
+<headline>Sandoz drug seen aiding heart patients.</headline>
+<dateline>NEW ORLEANS 1996-11-11</dateline>
+<text>
+<p>A study involving Sandoz AG's Lescol drug showed that patients with coronary heart disease and slightly elevated cholesterol levels can benefit from cholesterol-lowering treatment, researchers said on Monday.</p>
+<p>The Lipoprotein and Coronary Atherosclerosis Study showed that 14.6 percent of patients treated with Lescol experienced a regression of plaque in their arteries, while 8.3 percent on placebo showed improvement.</p>
+<p>The disease progressed in 28.7 percent of patients treated with Lescol and in 39.1 percent given the placebo, the researchers said.</p>
+<p>The study was conducted at Baylor College of Medicine in Houston and presented at the annual scientific sessions of the American Heart Association in New Orleans.</p>
+<p>Eligible patients were men and women with coronary heart disease and LDL cholesterol levels of 115 to 190 milligrams per deciliter. The American Heart Association considers cholesterol levels of less than 200 to be &quot;desirable.&quot;</p>
+<p>&quot;The findings of this study are important because the majority of patients with (coronary heart disease) have (LDL cholesterol) levels in the mild to moderate range,&quot; said Antonio Gotto, chairman of the Baylor College of Medicine's Department of Medicine and the study's lead investigator.</p>
+<p>Lescol is in the same class of drugs as Merck and Co Inc's Zocor and Bristol-Myers Squibb Co's Pravachol.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

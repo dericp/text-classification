@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271554" id="root" date="1996-12-21" xml:lang="en">
+<title>ABU DHABI: SOCCER-IRAN'S DAEI TOP SCORER IN ASIAN CUP.</title>
+<headline>SOCCER-IRAN'S DAEI TOP SCORER IN ASIAN CUP.</headline>
+<dateline>ABU DHABI 1996-12-21</dateline>
+<text>
+<p>Leading scorers in the Asian</p>
+<p>Cup soccer tournament which ended on Saturday:</p>
+<p>8 - Ali Daei (Iran)</p>
+<p>6 - Jassem Al-Houwaidi (Kuwait)</p>
+<p>4   Fahad Al Mahalel (Saudi Arabia)</p>
+<p>3 - Hassan Ahmed (UAE), Hwang Sun-hong (South Korea)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ABDBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABU DHABI"/>
+<dc element="dc.creator.location.country.name" value="ABU DHABI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

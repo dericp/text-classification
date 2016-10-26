@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="460080" id="root" date="1997-03-21" xml:lang="en">
+<title>USA: Study finds tobacco warnings lost on teens.</title>
+<headline>Study finds tobacco warnings lost on teens.</headline>
+<dateline>CHICAGO 1997-03-20</dateline>
+<text>
+<p>Anti-smoking warnings on cigarette packages and in tobacco advertising are lost on teenagers, according to a report published Thursday.</p>
+<p>&quot;Sizeable proportions of adolescents are not seeing, reading and remembering cigarette warning labels on cigarette packages and advertisements, and knowledge of warning labels was not associated with subsequent decreased smoking,&quot; the study said.</p>
+<p>The finding was based on a study of more than 1,700 high school freshmen at four public schools in San Jose, California, whose average age was nearly 15.</p>
+<p>The research was conducted by the Stanford University School of Medicine and published in this month's issue of the Archives of Pediatric and Adolescent Medicine.</p>
+<p>Warning labels have been required on cigarette packages in the United States since 1966 and in advertisements since 1972. Smoking among teenagers, however, increased by 30 percent from 1991 to 1995, the study said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

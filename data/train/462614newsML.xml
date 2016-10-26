@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462614" id="root" date="1997-03-24" xml:lang="en">
+<title>UK: Closing stock market indices.</title>
+<headline>Closing stock market indices.</headline>
+<dateline>LONDON 1997-03-24</dateline>
+<text>
+<p>Here is how major stock markets outside the United States ended on Monday.</p>
+<p>LONDON - UK shares finished lower for the sixth consecutive session, dogged by a deterioration in the domestic and U.S. interest rate outlook and continuing nervousness in the run-up to the UK election. The leading FTSE 100 index ended 40.0 points lower at 4,214.8, its lowest level for two months.</p>
+<p>FRANKFURT - German equities ended bourse up generally higher, defying expectations of a lower start to the week amid U.S. interest rate hike jitters, with dealers saying a 25 basis point hike already discounted in the market. The DAX-30 index ended at 3,321.84 up 23.60 points. In post-bourse trade the DAX index stood at 3,302.57.</p>
+<p>PARIS - French shares closed with losses, as the market took a cautious view ahead of Tuesday's U.S. Federal Open Market Committee meeting, markets are adjusting to a quarter percent pre-emptive rise in U.S. rates but investors were unwilling to commit themselves until a move is confirmed. The blue-chip CAC-40 index closed down 7.85 points or 0.3 percent to 2,579.28.</p>
+<p>ZURICH - Swiss shares ended a quiet session little changed ahead of the late afternoon release of Roche 1996 profit figures and Tuesday's decision by the U.S. Federal Reserve whether to raise U.S. interest rates. The broad Swiss Performance Index rose 2.19 points or 0.08 percent to 2,856.83.</p>
+<p>TOKYO - The Tokyo stock market's key Nikkei index ended down more than three percent, as losses accelerated late in the session on a domestic media report that Finance Minister Hiroshi Mitsuzuka has hinted at the possibility of another rise in the sales tax following the planned two percentage point increase in April. The 225-share Nikkei average fell 589.34 points or 3.16 percent to 18,043.82.</p>
+<p>HONG KONG - Hong Kong stocks staged a sharp rebound, with property stocks in particular notching up strong gains following recent market weakness. The Hang Seng Index surged 259.84 points or 2.08 percent to 12,749.14.</p>
+<p>SYDNEY - Bank stocks led the way as the Australian share market closed firmer, seeing any U.S. rate hike as already factored in to the market, a recent local sell-off may have been overdone, while investors had readied themselves for a 25-basis point rate rise in the U.S. when the Federal Open Market Committee meets on Tuesday. The All Ordinaries index closed up 15.70 points or 0.66 percent to 2,402.10.</p>
+<p>JOHANNESBURG - South African gold shares closed quiet trade far down, bashed by a weak bullion price, expectations of poor first quarter gold mine results and worry about a possible U.S. rate hike. The bullion price held slightly above the key $350 an ounce level for much of the day before falling through and was last trading at $349.10/60 an ounce. Gold shares fell 56.4 points to 1,326.0, Industrials hopped 5.7 points to 8,328.4 and All-shares dipped 9.6 points to 7,088.9.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

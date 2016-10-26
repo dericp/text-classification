@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70848" id="root" date="1996-09-23" xml:lang="en">
+<title>PAKISTAN: Pakistan expects over 11 mln-bale cotton crop.</title>
+<headline>Pakistan expects over 11 mln-bale cotton crop.</headline>
+<dateline>ISLAMABAD 1996-09-23</dateline>
+<text>
+<p>Pakisitani agriculture authorities said on Sunday they expected a cotton production of more than 11 million bales (375 pounds each) from the 1996/97 (July/June) crop despite a White Fly pest attack.</p>
+<p>A government statement quoted the Food and Agriculture Ministry secretary Zafar Altaf as telling a meeting of Federal Committee on Agriculture that the propects of cotton yield were bright and damage by White Fly was negligible.</p>
+<p>&quot;The estimates show that the country will have more than 11 million bales,&quot; he said.</p>
+<p>The estimated production will be more than a target of 10 million bales earlier set by the government and the 1995/96 crop of 9.96 million bales.</p>
+<p>Cotton rates in the Pakistani market rose on Sunday owing to a rise in demand amid rumours of a serious pest damage to the crop in the main growing Punjab province.</p>
+<p>The chairman of cotton traders' Karachi Cotton Association, Maqbool Sadiq, said last month Pakistan could export more than two million bales of cotton if had a crop of around 11 million bales, while the rest would be enough to meet domestic needs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I0100138">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

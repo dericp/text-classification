@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="458923" id="root" date="1997-03-21" xml:lang="en">
+<title>ARGENTINA: Argentine weekly official crop progress.</title>
+<headline>Argentine weekly official crop progress.</headline>
+<dateline>BUENOS AIRES 1997-03-21</dateline>
+<text>
+<p>Argentina's 1996/97 second crop soybeans were suffering from lack of rain in large parts of the country March 14, Agriculture Secretariat said in its weekly crop report Friday.</p>
+<p>The Secretariat also reported problems with Rio Cuarto virus in the maize crop and lower than hoped for early yields from sunflower harvesting.</p>
+<p>The Secretariat reduced its estimate for soybean output to 13.5 million tonnes. It cut its forecast for sunflower seed output to 5.4 million tonnes and its maize estimate to 14.28 million tonnes. But it boosted its wheat output estimate to 15.8 million tonnes.  </p>
+<p>Intended total planting (thousands of hectares) and the percentage already sown (year-earlier in brackets). Harvest levels (thousands of hectares) and as a percentage of planted area, (year-earlier in brackets). Yield in quintals per hectare.</p>
+<p> ..........Planting.............Harvest..................Yield</p>
+<p> Wheat     6,983  100.0(100.0) 6,694.4  100.0   (n/a)    (n/a)</p>
+<p> Maize     3,890  100.0(100.0)   725.9   20.7   (9.4)    (n/a)</p>
+<p> Soybeans  6,412  100.0(100.0)     n/a    n/a   (n/a)    (n/a)</p>
+<p> Sunflower 3,075  100.0(100.0) 1,512.8   50.7  (53.2)    (n/a)</p>
+<p> Sorghum     778  100.0(100.0)    53.4    7.2   (0.2)    (n/a)</p>
+<p> Cotton	952  100.0  (n/a)    19.2    2.2   (2.2)    (n/a)</p>
+<p>((--Jason Webb, Buenos Aires Newsroom +541-318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

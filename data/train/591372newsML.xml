@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="591372" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: W.House aide says Clinton ecstatic on budget.</title>
+<headline>W.House aide says Clinton ecstatic on budget.</headline>
+<dateline>WASHINGTON 1997-05-15</dateline>
+<text>
+<p>President Clinton was &quot;ecstatic&quot; to hear of a budget agreement reached with congressional Republican leaders, White House legislative director John Hilley told reporters Thursday.</p>
+<p>&quot;He's ecstatic,&quot; Hilley said when asked the president's reaction to the successful conclusion of talks to wrap up details on the five-year balanced budget plan.</p>
+<p>&quot;This is a very good day for both parties and for America,&quot; Hilley added.</p>
+<p>A spokesman for House Democratic Leader Dick Gephardt of Missouri said they were anxious to see the final details.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93631" id="root" date="1996-10-03" xml:lang="en">
+<title>ARGENTINA: Argentina mulling property tax - reports.</title>
+<headline>Argentina mulling property tax - reports.</headline>
+<dateline>BUENOS AIRES 1996-10-03</dateline>
+<text>
+<p>Argentina is considering changing its personal wealth tax to a levy on property, and thus closing the loophole of registering assets under a different name, papers quoted a top official saying Thursday.</p>
+<p>Argentines currently have to pay a 0.5-percent annual tax on their assets in excess of $102,300.  But the Economy Ministry's chief economic advisor Jorge Rodriguez told Argentine reporters at an International Monetary Fund meeting in Washington that evasion is too easy.</p>
+<p>&quot;We would have to tax the property and not the owner, as is the case now.  What is happening is that many people register their properties under the names of foreign companies, and with that excuse they don't pay,&quot; he told the El Cronista daily.</p>
+<p>Rodriguez said he thought that the change would be a good idea in principle, but the governemnt had still not decided whether to enact it.</p>
+<p>-- Jason Webb, Buenos Aires Newsroom +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

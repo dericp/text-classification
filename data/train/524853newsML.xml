@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="524853" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: U.S. re-extends comment time for oil royalty rule.</title>
+<headline>U.S. re-extends comment time for oil royalty rule.</headline>
+<dateline>WASHINGTON 1997-04-21</dateline>
+<text>
+<p>The U.S. Minerals Management Service Monday extended to May 28 the deadline for comments on its controversial proposal to change the way it calculates royalties due for oil produced on federal land.</p>
+<p>The comment period on the plan issued in January was first extended to April 28. The agency said it was postponing the deadline for another month because &quot;the issue affects a wide range of our constituency.&quot;</p>
+<p>It said after May 28 &quot;we may reopen the comment period, if necessary, for clarification of comments received or consideration of other options.&quot;</p>
+<p>Under the proposal, the agency would base royalty calculations on crude oil futures and Alaska North Slope crude prices instead of on companies' posted prices, which it believed did not reflect the true market value of the oil.</p>
+<p>Oil companies fear that they might end up overpaying royalties under the new method.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

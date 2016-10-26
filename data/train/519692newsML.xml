@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519692" id="root" date="1997-04-18" xml:lang="en">
+<title>USA: Dominion Resources Inc Q1 shr up.</title>
+<headline>Dominion Resources Inc Q1 shr up.</headline>
+<dateline>RICHMOND, Va. 1997-04-18</dateline>
+<text>
+<p>Millions Except EPS</p>
+<p>							 1997	    1996</p>
+<p> Operating Revenues and Income	    $1,855.1     $1,239.3</p>
+<p> Net Income					  169.9	  150.2</p>
+<p> Common Shares Outstanding (Avg.)	    183.0	  176.6</p>
+<p> Earnings Per Share -- Reported		  .93	    .85</p>
+<p> Earnings Per Share -- Operating		 .93	    .87</p>
+<p>12 MONTHS ENDED MARCH 31</p>
+<p> Operating Revenues and Income	     5,458.1	4,761.7</p>
+<p> Net Income					  491.9	  466.7</p>
+<p> Common Shares Outstanding (Avg.)	    179.9	  174.9</p>
+<p> Earnings Per Share -- Reported		 2.73	   2.67</p>
+<p> Earnings Per Share -- Operating		3.04	   3.14</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

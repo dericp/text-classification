@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233124" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Electronic commerce still short of trust - panel.</title>
+<headline>Electronic commerce still short of trust - panel.</headline>
+<dateline>SAN FRANCISCO 1996-12-04</dateline>
+<text>
+<p>While a sub-population of computer savvy 30-something professionals regularly buy goods over the Internet, most consumers are still far from willing to trust the Net with their credit cards numbers, according to a panel of executives involved in electronic commerce.</p>
+<p>Visa International Inc, which is pursuing more than a dozen electronic commerce ventures around the world, did a survey in the past month and found only 4 percent of adult credit card holders have ever purchased anything via the Internet.  </p>
+<p>&quot;Consumers are not ready,&quot; said Visa International chief executive officer Edmund Jensen, speaking to senior executives at a conference about the digital economy held by Business Week magazine. He said another survey found that 48 percent of personal computer users believe the Internet will never be safe for commercial payments.</p>
+<p>Just as telling of the low level of trust in Internet-based electronic commerce, 65 percent of the 200 or so executives assembled at the Business Week conference told a survey that they are reluctant to use the Internet for payment or transactions.  </p>
+<p>And yet Visa, Charles Schwab &amp; Co, Wells Fargo Co and others find that Internet-based payment and stock tradings programs they have started are very succesful among a certain group of the population.</p>
+<p>Visa has 13 successful &quot;stored value&quot; card programs in which credit cards are equipped with microchips to calculate value taken from or added to the card. Next year it will launch an Internet based secure commerce program.  </p>
+<p>Brokerage Charles Schwab Corp's &quot;Web trading&quot; program launched in March has grown to 100,000 users without advertising, said Dawn Lepore, chief information officer. They trade stocks, U.S. Treasuries, mutual funds, options and the like.</p>
+<p>But like Jensen, Lepore said critical to success is building trust through branding and security assurances.</p>
+<p>&quot;Right now, nothing is more important than building trust,&quot; Jensen said.  </p>
+<p>At Wells Fargo bank, which offers Internet banking, some 110,000 of its customers bank that way. Demographically, those customers average 33 years of age and have an average income of $67,000 a year, said executive vice president Dudley Nigg.</p>
+<p>To get the other 89 percent of Wells Fargo's customer base to use Internet-based banking is again to surmount the problems of perceived security risks with Internet based banking, he said. Wells Fargo, like Visa, continues to work on security and encryption methods in standards organizations and on its own.  </p>
+<p>Jensen said that while the mass market may not be ready for true electronic commerce over the Internet, things are surely moving that direction because already a larger percentage of its customer base prefers dealing with ATM machines than bank tellers. So banking consumers generally will move to Internet based commerce over time, he said, and as trust is established in adequate security encryption and privacy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

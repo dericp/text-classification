@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152152" id="root" date="1996-10-29" xml:lang="en">
+<title>VIETNAM: Vietnam Jan-Oct 15 trade gap narrows to $3.35 bln.</title>
+<headline>Vietnam Jan-Oct 15 trade gap narrows to $3.35 bln.</headline>
+<dateline>HANOI 1996-10-29</dateline>
+<text>
+<p>Vietnam posted a trade deficit of $3.35 billion in the period from January 1 to October 15, the Government Statistics Office said on Tuesday.</p>
+<p>The latest figures showed the cumulative deficit narrowing from a record $3.54 billion between January 1 and September 10.</p>
+<p>The statistics office, which does not report trade data on a regular basis, gave no comparative figures for corresponding periods in 1995. The trade gap for the whole of 1995 was $2.3 billion.</p>
+<p>Exports from the beginning of the year until mid-October were $5.53 billion and imports were $8.88 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116798" id="root" date="1996-10-15" xml:lang="en">
+<title>BRAZIL: Brazil votes to give AIDS patient free drugs.</title>
+<headline>Brazil votes to give AIDS patient free drugs.</headline>
+<dateline>BRASILIA 1996-10-15</dateline>
+<text>
+<p>Brazil's Chamber of Deputies on Tuesday approved a bill to provide AIDS patients with free medication, congressional officials said.</p>
+<p>&quot;This bill will save the lives of people who are HIV-positive and cannot afford the cocktail of drugs,&quot; said Green Party deputy Fernando Gabeira, who wrote the bill.</p>
+<p>The lower house of Congress voted unanmiously in favour of Gabeira's bill to entitle HIV carriers to a combination of drugs which is believed to slow the development of AIDS. Poor and hospitalized patients will be given priority.</p>
+<p>The bill has already been approved in the Senate and now requires the signature of President Fernando Henrique Cardoso before becoming law.</p>
+<p>A handful of AIDS sufferers in Brazil have won court cases forcing the government to pay for their treatment.</p>
+<p>Gabeira said he did not know how much the government might have to spend to meet the terms of the law. An estimated 500,000 Brazilians are believed to have HIV, one of the world's highest rates of infection, and 76,396 cases of AIDS were reported by the end of 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="363772" id="root" date="1997-02-07" xml:lang="en">
+<title>CANADA: Canadian key economic indicators.</title>
+<headline>Canadian key economic indicators.</headline>
+<text>
+<p>INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>UNEMPLOYMENT	     PCT  Jan     9.7     9.7    10.0  03/07</p>
+<p>EMPLOYMENT GROWTH	THD  Jan     +5     +34	 +7  03/07</p>
+<p>CPI (MONTHLY, S/ADJ)   PCT  Dec    +0.2    +0.3    +0.3  02/21</p>
+<p>CPI (MONTHLY, UNADJ)   PCT  Dec     0.0     0.4     0.2  02/21</p>
+<p>CPI (ALL ITEMS, YR/YR) PCT  Dec    +1.6    +2.0    +1.8  02/21</p>
+<p>CPI (EX-FOOD/ENER)     PCT  Dec     0.0    +1.4    +1.3  02/21</p>
+<p>MERCH TRADE BALANCE    BLN  Nov  +C$1.82 +C$1.49 +C$3.23 02/19</p>
+<p>MERCH IMPORTS (S/ADJ)  BLN  Nov  C$20.57 C$19.64 C$20.28 02/19</p>
+<p>MERCH EXPORTS (S/ADJ)  BLN  Nov  C$22.39 C$21.12 C$23.51 02/19</p>
+<p>CURR ACCT(SA QUARTERLY)BLN  Q3   +C$0.55 +C$1.15 -C$1.62 02/28</p>
+<p>   INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>GDP (MONTHLY)	    PCT   Nov    +0.5   +0.3   +0.1   02/28</p>
+<p>GDP (QUARTERLY)	  PCT   Q3     +0.8   +0.3   +0.3   02/28</p>
+<p>GDP PRICE DEFLATOR     PCT   Q3     +0.7   +0.5   -0.2   02/28</p>
+<p>INDUSTRIAL PRICES	PCT   Dec    +0.4   -0.2   +0.5   02/25</p>
+<p>RAW MATERIALS PRICES   PCT   Dec    +1.3   +2.4   +0.5   02/25</p>
+<p>BUDGET DEF (MONTHLY)   BLN   Nov   C$0.618  VS   C$1.64    N/A</p>
+<p>BUDGET DEF (YR-DATE)   BLN   8 MO  C$8.12   VS   C$19.26   N/A</p>
+<p>HOUSING STARTS (ANNUALIZED)  Q4  129,300 128,800 138,200 02/10</p>
+<p>BUILDING PERMITS	 PCT   Dec    -4.6   +3.5   +2.1   03/06</p>
+<p>COMPOS LEADING INDIC   PCT   Dec    +0.7   +0.8   +0.6   02/18</p>
+<p>  INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>MANUFAC SHIPMENTS	PCT   Nov   +3.0    -2.6    +0.8  02/17</p>
+<p>MANUF UNFILLED ORDERS  PCT   Nov   -0.9    +0.2    -1.2  02/17</p>
+<p>MANUF NEW ORDERS	 PCT   Nov   +1.9    -1.1    +0.1  02/17</p>
+<p>INVENTORIES/SHIPMENTS RATIO  Nov   1.33    1.36    1.31  02/17</p>
+<p>CAPACITY UTILIZATION   PCT   Q3     83.8    82.7   82.4  03/07</p>
+<p>HELP WANTED INDEX	PCT   Jan    96	93	90   03/06</p>
+<p>WAGE SETTLEMENTS	 PCT   Nov   +1.9    +2.7    +1.6  N/A</p>
+<p>  INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>NEW MOTOR VEHICLE SALES  PCT  Nov    +0.5   +3.7  +1.1   02/12</p>
+<p>AVG WEEKLY EARNINGS Y/Y  PCT  Nov    +3.1   +3.0  +1.8   02/27</p>
+<p>RETAIL SALES		 PCT  Nov    +0.9   +1.1  +0.2   02/20</p>
+<p>WHOLESALE TRADE M/M	PCT  Nov    -0.7   +1.7  +0.4   02/19</p>
+<p>NEW HOUSING PRICE Y/Y    PCT  Nov    -1.0   -1.6  -2.0   02/10</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

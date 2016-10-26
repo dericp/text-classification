@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537858" id="root" date="1997-04-24" xml:lang="en">
+<title>FRANCE: Eramet resumes N.Caledonia nickel exports.</title>
+<headline>Eramet resumes N.Caledonia nickel exports.</headline>
+<dateline>PARIS 1997-04-24</dateline>
+<text>
+<p>Eramet said on Thursday that its exports of nickel metal out of New Caledonia had now resumed.</p>
+<p>&quot;Metal exports resumed today,&quot; chairman Yves Rambaud told a news conference.</p>
+<p>Between April 11 and April 20 two local trade unions prevented nickel ore from reaching Eramet's Doniambo plant. They also prevented nickel ore from being exported to large users abroad. This action ended on April 20.</p>
+<p>But the unions had continued to block Eramet's exports of ferronickel and nickel matte.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="NEWCAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

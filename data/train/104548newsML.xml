@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104548" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Granite State Bankshares Inc Q3 shr rises.</title>
+<headline>Granite State Bankshares Inc Q3 shr rises.</headline>
+<dateline>KEENE, N.H. 1996-10-09</dateline>
+<text>
+<p>($ in thousands, except per share data)</p>
+<p>			  Three Months Ended    Nine Months Ended</p>
+<p>				September 30,	   September 30,</p>
+<p>			--------------------  --------------------</p>
+<p>			  1996	 1995	 1996	 1995</p>
+<p>			---------  ---------  ---------  ---------</p>
+<p>Interest and dividend</p>
+<p>    income	  $    6,409  $   6,280  $  18,930  $  18,192</p>
+<p>Interest expense	 3,005	2,919	8,750	7,989</p>
+<p>Net interest and  </p>
+<p>    dividend income    3,404	3,361     10,180     10,203</p>
+<p>Provision for possible</p>
+<p>    loan losses	    150	  225	  600	  450</p>
+<p>Net gains on sales of securities</p>
+<p>  available for sale     186	    0	  475	  205</p>
+<p>Other noninterest income 670	  616	2,039	1,678</p>
+<p>Other noninterest</p>
+<p>    expenses	     2,631	2,430	7,819	7,636</p>
+<p>			 ---------  ---------  ---------  ---------</p>
+<p>Earnings before</p>
+<p>    income taxes	 1,479	1,322	4,275	4,000</p>
+<p>Income taxes		 504	  458	1,470	1,435</p>
+<p>  Net earnings     $     975  $     864  $   2,805  $   2,565</p>
+<p>Weighted avg common</p>
+<p>shares outstanding</p>
+<p>  Primary	    2,097,172  2,175,781  2,121,174  2,178,789</p>
+<p>  Fully Diluted    2,098,039  2,181,547  2,123,556  2,191,059</p>
+<p>Net earnings per common share</p>
+<p>  Primary	    $    0.46  $    0.40  $    1.32  $    1.18</p>
+<p>  Fully Diluted    $    0.46  $    0.40  $    1.32  $    1.17</p>
+<p>-- New York Newsdesk, 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KEENE, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

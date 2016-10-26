@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695419" id="root" date="1997-06-30" xml:lang="en">
+<title>UK: TENNIS SPOTLIGHT-STATISTICS OF TESTUD V SELES.</title>
+<headline>TENNIS SPOTLIGHT-STATISTICS OF TESTUD V SELES.</headline>
+<dateline>LONDON 1997-06-30</dateline>
+<text>
+<p>Statistics of the third-round</p>
+<p>match between Monica Seles and France's Sandrine Testud at</p>
+<p>Wimbledon on Monday:</p>
+<p>Testud won 0-6 6-4 8-6</p>
+<p>Time: 1 hour 49 minutes</p>
+<p>				     TESTUD	     SELES </p>
+<p>Aces				    6		   4</p>
+<p>Double faults			 3		   2</p>
+<p>Percentage first serves	  62		  55</p>
+<p>Unreturned serves		  22		  22</p>
+<p>Forehand winners		   25		  18</p>
+<p>Backhand winners		   34		  38</p>
+<p>Volley winners			7		   4</p>
+<p>Passing winners		     0		   4</p>
+<p>Return winners			2		   0</p>
+<p>Percentage returns in	    73		  77</p>
+<p>Break points held		   7		   6</p>
+<p>Break points won		    3		   4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

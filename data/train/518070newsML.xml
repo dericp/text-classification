@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="518070" id="root" date="1997-04-17" xml:lang="en">
+<title>INDIA: India - Forward dollar rates - (closing) - April 17.</title>
+<headline>India - Forward dollar rates - (closing) - April 17.</headline>
+<dateline>BOMBAY 1997-04-17</dateline>
+<text>
+<p>Bombay banks quoted the forward premia on dollar at the following rates (in paise):</p>
+<p>	     Cash Spot    Cash Tom	Tom Spot</p>
+<p>----------------------------------------------------------------</p>
+<p>  TIME	Bid/Ask	Bid/Ask	Bid/Ask</p>
+<p>(in IST)</p>
+<p>----------------------------------------------------------------</p>
+<p>1030     -00125/0000  -00125/0000    0000/0000</p>
+<p>1100     -00125/0025   -0025/0000  -00125/0000</p>
+<p>1200	-0075/0050   -0050/0050   -0050/0050</p>
+<p>1300	-0025/0025   -0025/0025   -0025/0025</p>
+<p>1400	-0025/0025    0000/0000   -0025/0000</p>
+<p>1500	-0025/0025    0000/0000    0000/0025</p>
+<p>1600	-0025/0025    0000/0000    0000/0025</p>
+<p>.</p>
+<p>---------------------------------------------------------------</p>
+<p>	   Apr    May    Jun    Jul    Aug     Sept     Oct</p>
+<p>---------------------------------------------------------------</p>
+<p>1030     0/1    7/8   23/25  40/43  59/62   75/78    96/99</p>
+<p>1100     0/1    7/10  22/25  39/42  60/63   77/80    95/98</p>
+<p>1200     0/1    8/10  23/25  41/44  62/64   79/81    97/100</p>
+<p>1300     0/1    9/11  23/25  42/45  62/65   79/82    97/99</p>
+<p>1400     0/1    8/10  22/24  41/44  60/63   78/81    96/99</p>
+<p>1500     0/1    7/9   20/22  40/42  60/62   76/79    95/98</p>
+<p>1600     0/1    7/9   21/23  38/40  58/60   75/77    94/97</p>
+<p>.</p>
+<p>These indicative rates are based on contributions from ABN Amro, ANZ Grindlays, Andhra Bank, Bank of America, Banque Nationale De Paris,Barclays Bank Ltd,Canara Bank,Citibank,Credit Lyonnais, Deutsche Bank, Dresdner Bank, Global Trust Bank, HDFC Bank, Hongkong Bank, L.C.Raheja, Mashreq Bank,Nucleus Securities, Societe Generale, Standard Chartered Bank, State Bank of India - Calcutta, Syndicate Bank.</p>
+<p>For contributions contact Samir Shah on 022-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

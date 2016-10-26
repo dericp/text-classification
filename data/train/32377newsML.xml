@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32377" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: France's Leotard confirms 75 bln French franc tax cut.</title>
+<headline>France's Leotard confirms 75 bln French franc tax cut.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>Francois Leotard, president of France's UDF parliamentary party, said on Wednesday that the French government was planning to cut income taxes by 75 billion French francs ($14.74 billion) over the next five years.</p>
+<p>&quot;The prime minister said the cut in income taxes would be 75 billion francs in five years,&quot; Leotard said after a meeting with Prime Minister Alain Juppe.</p>
+<p>Financial daily Les Echos said earlier on Wednesday that income tax cuts would total 65 to 75 billion over the next five years.</p>
+<p>The newspaper said gross tax cuts would total about 100 billion francs, though part of that would  be recouped through the elimination of some existing tax breaks. ($1=5.087 French Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

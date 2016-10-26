@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713193" id="root" date="1997-07-08" xml:lang="en">
+<title>ABU DHABI: Abu Dhabi approves $136 mln in new housing loans.</title>
+<headline>Abu Dhabi approves $136 mln in new housing loans.</headline>
+<dateline>ABU DHABI 1997-07-08</dateline>
+<text>
+<p>Abu Dhabi on Tuesday approved 500 million dirhams ($136 million) in new interest-free housing loans for 569 citizens of the United Arab Emirates' state.</p>
+<p>The official WAM news agency said the loans will help finance the building of new homes as well as upgrading and expanding existing ones in Abu Dhabi.</p>
+<p>An Abu Dhabi official told Reuters each applicant, mostly middle class Abu Dhabi citizens, can receive a maximum housing loan of 900,000 dirhams payable over 25 years. The state also gives them a plot of land free of charge.</p>
+<p>Abu Dhabi, the richest of the seven UAE emirates which controls most of the country's oil-weath, builds and grants homes to citizens with low incomes at a cost of between 450,000 and 750,000 dirhams.</p>
+<p>($1 = 3.67 dirhams)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABU DHABI"/>
+<dc element="dc.creator.location.country.name" value="ABU DHABI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

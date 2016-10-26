@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278954" id="root" date="1996-12-28" xml:lang="en">
+<title>SOUTH AFRICA: CRICKET-SOUTH AFRICA BEAT INDIA BY 328 RUNS.</title>
+<headline>CRICKET-SOUTH AFRICA BEAT INDIA BY 328 RUNS.</headline>
+<dateline>DURBAN 1996-12-28</dateline>
+<text>
+<p>South Africa beat India by 328</p>
+<p>runs on the third day of the first test at Kingsmead on</p>
+<p>Saturday.</p>
+<p>Scores: South Africa 235 and 259, India 100 and 66.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURBAN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

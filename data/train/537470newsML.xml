@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537470" id="root" date="1997-04-24" xml:lang="en">
+<title>AUSTRALIA: Australia names temporary securities official.</title>
+<headline>Australia names temporary securities official.</headline>
+<dateline>CANBERRA 1997-04-24</dateline>
+<text>
+<p>The Australian government on Thursday named Joseph Longo as an acting member of the Australian Securities Commission.</p>
+<p>Parliamentary secretary to the Treasurer, Ian Campbell, said Longo, the commission's national enforcement director since August 1996, would hold the acting post for six months.</p>
+<p>Longo, who previously worked in commercial litigation in Australia and the United States, has also been a consultant to the commission since February 1995, including assisting investigations, Campbell said in a statement.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

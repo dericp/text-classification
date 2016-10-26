@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553799" id="root" date="1997-05-01" xml:lang="en">
+<title>USA: Individual profitability plan on target.</title>
+<headline>Individual profitability plan on target.</headline>
+<dateline>SAN FRANCISCO 1997-05-01</dateline>
+<text>
+<p>Individual Inc CEO Michael Kolowich said the company still expects to reach profitability in the first half of 1998 after investing heavily to build its Internet-related business.</p>
+<p>Kolowich told reporters after a presentation to a Hambrecht &amp; Quist investor conference here that the company's profitability plan remains on target.  </p>
+<p>On Tuesday, Individual reported a first quarter net loss, before acquisitions and other expenses, of $3.0 million, deeper than the $2.5 million net loss in the year-ago period, as it continues to invest in news delivery over the Internet and over corporate networks.</p>
+<p>Kolowich also told Reuters the company remains in active negotiations over the sale of Freeloader Inc, which it acquired in June 1996 for stock in a transaction valued at about $36 million including transaction costs.</p>
+<p>Individual Inc expects to conclude the sale &quot;in three to four weeks,&quot; he said after the presentation.  </p>
+<p>The company said earlier this week that the abundance of companies in the push technology market addressed by Freeloader had created confusion in the sector and slowed the progress of completing a sale.</p>
+<p>Freeloader recently unveiled a new product, codenamed Gorilla, which can aggregate updating news and information delivered over the Internet or corporate networks using push technology.</p>
+<p>Freeloader's previous products enabled computer users to download pages from the World Wide Web for reading off-line.  </p>
+<p>Kolowich said Individual Inc ended the first quarter with $29 million in cash, and said it continues to receive strategic support from its corporate investors Microsoft Corp. and Knight-Ridder Inc.</p>
+<p>For example, he said Individual will have a prominent position on Microsoft's upcoming Active Desktop, which is part of Microsoft's strategy of incorporating the Internet into its applications and systems.   He did not elaborate on this.</p>
+<p>Individual began in 1989 supplying filtered news briefing information by fax and electronic mail, primarily to executives and professionals in the high tech industry.</p>
+<p>It has since targeted other professional markets and is seeking to augment its briefing products with intraday and other updates while incorporating Internet and corporate network delivery mechanisms. ((sam.perry@reuters.com, Palo Alto Bureau 415 846 5400))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62275" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: U.S. hog and cattle slaughter estimates - trade.</title>
+<headline>U.S. hog and cattle slaughter estimates - trade.</headline>
+<dateline>CHICAGO 1996-09-18</dateline>
+<text>
+<p>Livestock analysts estimate Wednesday's hog slaughter from 356,000 to 370,000 head versus 366,000 a week ago and 362,000 a year ago.</p>
+<p>Cattle slaughter estimates ranged from 125,000 to 130,000 head versus 119,000 a week ago and 129,000 a year ago.</p>
+<p>--Jerry Bieszk 312-408-8725</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

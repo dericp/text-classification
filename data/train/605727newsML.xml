@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="605727" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Treasury's Summers warns against Internet taxation.</title>
+<headline>Treasury's Summers warns against Internet taxation.</headline>
+<dateline>WASHINGTON 1997-05-22</dateline>
+<text>
+<p>The Treasury Department opposes any new taxes specifically imposed on electronic commerce over the Internet becasue that might discourage its growth, Deputy Treasury Secretary Lawrence Summers said on Thursday.</p>
+<p>&quot;Unreasonable taxation of the Internet, or even the fear of unreasonable taxation, could be a significant impediment to the growth of the Internet and electronic commerce,&quot; Summers said in testimony prepared for delivery to the Senate Commerce Committee's subcommittee on communications.</p>
+<p>Summers said some countries were tempted to view the Internet as a source of new tax revenues but he said the Clinton administration felt that would be counter-productive in the long term.</p>
+<p>&quot;While new taxes will raise some revenue, they will impede the growth of the economy,&quot; Summers said.</p>
+<p>He said that instead of enacting new taxes on the Internet, the principle of neutrality should guide tax rules. That means economically similar transactions would be treated equally, whether they occurred through electronic means or through more conventional channels of commerce, Summers said.</p>
+<p>In that way, market forces alone would determine the success or failure of new commercial methods like the Internet, Summers suggested.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

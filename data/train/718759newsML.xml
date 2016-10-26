@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718759" id="root" date="1997-07-10" xml:lang="en">
+<title>NIGERIA: Nigerian Cadbury half-yr profit climbs.</title>
+<headline>Nigerian Cadbury half-yr profit climbs.</headline>
+<dateline>LAGOS 1997-07-10</dateline>
+<text>
+<p>Half year results for Cadbury Nigeria Plc to June 14, 1997.</p>
+<p>(In million naira)</p>
+<p>				  1997	   1996</p>
+<p> Turnover		    2,602    vs   3,101</p>
+<p> Profit before taxation    306.2  vs     265.6</p>
+<p> Taxation			 97.9  vs	84.9</p>
+<p>Profit after taxation	208.3  vs     180.7</p>
+<p>($1=84.5 naira)</p>
+<p>-- Lagos newsroom +234 1 263 03 17</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

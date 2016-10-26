@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113739" id="root" date="1996-10-14" xml:lang="en">
+<title>SOUTH AFRICA: FOREIGNERS NET SELLERS OF S.AFRICA BONDS LAST WEEK.</title>
+<headline>FOREIGNERS NET SELLERS OF S.AFRICA BONDS LAST WEEK.</headline>
+<dateline>JOHANNESBURG 1996-10-14</dateline>
+<text>
+<p>Foreigners were net sellers of 59.387 million rand worth of South African bonds last week, latest Bond Exchange of South Africa figures show.</p>
+<p>Non-resident transactions (million rand):</p>
+<p>				  Week to Oct 14   Year to date</p>
+<p>    - purchases		     3,775.54     132,216.18</p>
+<p>    - sales			   3,834.93     129,315.15</p>
+<p>    - net purchases (sales)	 (59.39)	2,901.03</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

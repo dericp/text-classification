@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298039" id="root" date="1997-01-09" xml:lang="en">
+<title>JAPAN: Moody's says may downgrade Nikko Securities' bonds.</title>
+<headline>Moody's says may downgrade Nikko Securities' bonds.</headline>
+<dateline>TOKYO 1997-01-09</dateline>
+<text>
+<p>Moody's Investors Service said on Thursday it had placed its current A3 rating on Nikko Securities Co's long-term corporate bonds under review for a possible downgrade.  </p>
+<p>Moody's said in a statement that the review would focus on the likely impact on Nikko's earnings of deregulation in the domestic market, from which Nikko currently derives the majority of its revenues.</p>
+<p>Proposals being reviewed by the government to deregulate the financial sector, including opening it to free competition, would pressure returns on domestic brokerage activities, and have caused major Japanese firms to diversify their product offerings and expand geographic coverage, it said.</p>
+<p>Also contributing to the review decision was Nikko's recently announced 148 billion yen bailout of affiliated companies engaged in real-estate financing, which weakens Nikko's equity base and leaves unaddressed the potential need for additional support in the future, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

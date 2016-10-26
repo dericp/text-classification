@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175678" id="root" date="1996-11-08" xml:lang="en">
+<title>UK: Reuters to launch two UK stock indices.</title>
+<headline>Reuters to launch two UK stock indices.</headline>
+<dateline>LONDON 1996-11-08</dateline>
+<text>
+<p>International news and information group Reuters Holdings Plc said on Friday it would launch two stock market indices later this month.</p>
+<p>The Reuters/HSBC James Capel 150 Index will cover the 150 leading UK-registered companies listed on the London Stock Exchange.</p>
+<p>It is expected to correlate closely with the FTSE 100 index but the broader coverage is seen being of particular value to private investors as it monitors the overall performance of the most widely held stocks.  </p>
+<p>The Reuters/HSBC James Capel 150 Index is a weighted average of the constituents based on market capitalisation.</p>
+<p>Reuters will also be launching an index on Scottish stocks in conjunction with the Scotsman newspaper.</p>
+<p>The Reuters/Scotsman 50 Index will enable investors to monitor the performance of Scottish companies separately.</p>
+<p>It has been calculated historically since 1985, during which time it has outperformed other major indices such as the FTSE 100 and the FTSE All Share.  </p>
+<p>The Scottish index will have companies ranked in terms of capitalisation and will include companies that &quot;contribute materially to the Scottish economy,&quot; Reuters said.</p>
+<p>This means those that are registered in Scotland, whose head office is there or whose core business is conducted largely from Scotland. Both indices will be available free of fees on all Reuters terminals.</p>
+<p>Reuters said in a statement it was in talks with other electronic information vendors and newspapers that have expressed interest in carrying the indices, and with City Index, which may quote the indices on its spread betting pages.  </p>
+<p>&quot;These indices demonstrate our commitment to innovation and added value for our clients,&quot; said Julie Holland, managing director of Reuters UK and Ireland. &quot;They are free and we aim to make them available to the widest possible audience, including private investors.&quot;</p>
+<p>The indices will both have a base value of 1,000 on December 31, 1995.</p>
+<p>They will be maintained by the Edinburgh-based quantitative techniques division of HSBC James Capel. -- London Newsroom +44 171 542 7717.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

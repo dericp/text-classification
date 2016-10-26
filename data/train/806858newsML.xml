@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806858" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: USA Today expands news staff - NYT.</title>
+<headline>USA Today expands news staff - NYT.</headline>
+<dateline>NEW YORK 1997-08-18</dateline>
+<text>
+<p>USA Today has hired more editors and reporters to expand its news coverage and produce more investigative pieces, the New York Times said on Monday.</p>
+<p>USA Today will open bureaus in Denver, Atlanta and Boston, according to the Times.</p>
+<p>The company had previously only relied on free-lancers in those cities, the paper said.</p>
+<p>USA Today is also adding a Life-section reporter to its San Francisco bureau and two reporters to its national staff, the newspaper said.</p>
+<p>USA Today is a unit of Gannett Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

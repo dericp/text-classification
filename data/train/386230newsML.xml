@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386230" id="root" date="1997-02-18" xml:lang="en">
+<title>THAILAND: Argentine President Menem arrives in Thailand.</title>
+<headline>Argentine President Menem arrives in Thailand.</headline>
+<dateline>BANGKOK 1997-02-18</dateline>
+<text>
+<p>Argentine President Carlos Saul Menem arrived in Thailand on Tuesday for a three-day visit to seek stronger trade and bilateral ties, Thai officials said.</p>
+<p>Menem, who flew in from Vietnam, is the second Argentinian leader to visit Thailand since 1961.</p>
+<p>He will meet Thai Prime Minister Chavalit Yongchaiyudh and receive an audience from King Bhumibol Adulyadej.</p>
+<p>Agentina is Thailand's biggest trade partner among Latin American nations and bilateral trade amounted to about 5.0 billion baht ($200 million) last year.</p>
+<p>Thailand imports mainly leather products, steel and animal feed ingredients and exports textiles, rubber and canned tuna to Agentina.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

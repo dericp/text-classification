@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404356" id="root" date="1997-02-26" xml:lang="en">
+<title>MOROCCO: Francophone airlines lobby to cut technology prices.</title>
+<headline>Francophone airlines lobby to cut technology prices.</headline>
+<dateline>RABAT 1997-02-26</dateline>
+<text>
+<p>Representatives of the international association of francophone countries operating in Africa said they would lobby to get cuts in prices of various technological services, Moroccan state-owned Royal Air Maroc (RAM) said on Wednesday.</p>
+<p>&quot;Participants recommended negotiating computer distribution prices so that they square with their effective use,&quot; the RAM statement said.</p>
+<p>The association, which groups 15 airlines, also appointed RAM Head, Mohamed Hassad, president of the association for three years.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

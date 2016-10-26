@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243145" id="root" date="1996-12-09" xml:lang="en">
+<title>UKRAINE: Ukraine Jan-Nov lead production halves from 1995.</title>
+<headline>Ukraine Jan-Nov lead production halves from 1995.</headline>
+<dateline>KIEV 1996-12-09</dateline>
+<text>
+<p>Ukraine produced 19,900 tonnes of lead in January-November 1996, down 50 percent from the same 1995 period, the Industry Ministry said in a statement.</p>
+<p>Ukraine also produced 495.3 tonnes of zinc during that period, down 20 percent, it said.</p>
+<p>-- Irene Marushko, Kiev Newsroom +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

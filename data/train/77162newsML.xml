@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77162" id="root" date="1996-09-25" xml:lang="en">
+<title>TAIWAN: Taiwan August M2 money supply up 8.44 pct yr/yr.</title>
+<headline>Taiwan August M2 money supply up 8.44 pct yr/yr.</headline>
+<dateline>TAIPEI 1996-09-25</dateline>
+<text>
+<p>Taiwan's broadest M2 money supply measure grew 8.44 percent from a year earlier in August after rising 8.47 percent in July, the central bank said on Wednesday.</p>
+<p>			     August 1996    July 1996</p>
+<p> M2 ANNUAL RATE	    +8.44	     +8.47</p>
+<p> M1B ANNUAL RATE	   +4.38	     +5.80</p>
+<p> M1A ANNUAL RATE	   +1.49	     +1.68</p>
+<p>The central bank target for M2 is 9-14 percent.</p>
+<p>Note - M1A is cash, checking accounts and passbook deposits. M1B is M1A plus savings accounts. M2 is M1B plus quasi-money.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

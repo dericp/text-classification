@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196961" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Northern Trust completes Metroplex buyout.</title>
+<headline>Northern Trust completes Metroplex buyout.</headline>
+<dateline>CHICAGO 1996-11-18</dateline>
+<text>
+<p>Northern Trust Corp and Metroplex Bancshares Inc said on Monday that Northern had completed acquisition of Metroplex and its unit, Bent Tree National Bank, for about $14.6 million in cash.</p>
+<p>Northern Trust Corp is a bank holding company with total assets of $21 billion at the end of third quarter.</p>
+<p>Metroplex is the parent of Bent Tree, established in 1981. At September 30, Bent Tree had total assets of $79 million. --Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

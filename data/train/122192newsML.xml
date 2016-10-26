@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122192" id="root" date="1996-10-16" xml:lang="en">
+<title>GERMANY: Arrests made in case of kidnapped German.</title>
+<headline>Arrests made in case of kidnapped German.</headline>
+<dateline>FRANKFURT 1996-10-16</dateline>
+<text>
+<p>Police probing the kidnapping of German businessman Jakub Fiszmann have made several arrests, prosecutors said on Wednesday.</p>
+<p>A spokesman for the prosecutors, Rainer Schilling, declined to say how many arrests had been made. He said searches of several homes were also under way and more details would be given at an afternoon news conference.  </p>
+<p>Police probing the case of the missing 40-year-old multi-millionaire said on Tuesday the abduction was more likely to be the work of a German criminal gang rather than the Russian mafia or international terrorists.</p>
+<p>Authorities have said they believed that Fiszmann was still alive even though the kidnappers had reneged on a promise to free him after a four million mark ($2.6 million) ransom was paid last week.</p>
+<p>They added that the kidnappers said on Saturday they had given their victim enough provisions to survive for four weeks.</p>
+<p>The Fiszmann family, one of the richest in Germany, offered a one million mark ($650,000) reward late on Monday for information about the whereabouts of the missing businessman. ($1=1.5374 Mark)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

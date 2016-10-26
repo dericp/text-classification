@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381210" id="root" date="1997-02-16" xml:lang="en">
+<title>USA: Good Ideas Q3 Dec 31 shr.</title>
+<headline>Good Ideas Q3 Dec 31 shr.</headline>
+<dateline>FT. LAUDERDALE, Fla. 1997-02-16</dateline>
+<text>
+<p>Three Months		 Nine Months</p>
+<p>			   Ended     Ended	Ended	  Ended</p>
+<p>			 Dec 31,    Dec 31,    Dec 31,	Dec 31,</p>
+<p>			    1996	1995	 1996	   1995</p>
+<p> Net Sales		$---   $377,866    $48,868   $1,473,416</p>
+<p> Cost and Expenses  39,419    866,576    218,561    2,506,393</p>
+<p>Loss from Operations</p>
+<p>			(39,419)  (488,710)  (169,693)  (1,032,977)</p>
+<p>Other Income (Expense)</p>
+<p>			  39,419     17,217    119,693	100,718</p>
+<p> Net Loss		  ---  (471,493)   (50,000)    (932,259)</p>
+<p> Avg shares	3,948,680  3,942,013  3,948,680    3,974,936</p>
+<p> Loss per Common Share ---     (0.12)     (0.01)	 (0.23)</p>
+<p>Good Ideas Enterprises, Inc. is a 60.7%-owned subsidiary of Substance Abuse Technologies Inc and is being held for sale or liquidation.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FT. LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

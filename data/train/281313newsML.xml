@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="281313" id="root" date="1996-12-30" xml:lang="en">
+<title>BAHRAIN: GCC to discuss Bahrain-Qatar dispute on Jan 6.</title>
+<headline>GCC to discuss Bahrain-Qatar dispute on Jan 6.</headline>
+<dateline>MANAMA 1996-12-30</dateline>
+<text>
+<p>Gulf Arab states will discuss a border dispute between Bahrain and Qatar on January 6 in Saudi Arabia, Bahraini newspapers on Monday quoted Bahrain's Foreign Minister Sheikh Mohammad bin Mubarak al-Khalifa as saying.</p>
+<p>&quot;It has been agreed to hold a meeting in Riyadh on January 6 to discuss the issue as proposed by Bahrain,&quot; he said.</p>
+<p>Sheikh Mohammad was speaking in Cairo where he attended a meeting of the Damascus Declaration which groups Egypt, Syria and the six-nation Gulf Cooperation Council (GCC).</p>
+<p>Qatar and Bahrain are locked in a dispute over a number of islands in the Gulf controlled by Bahrain since the 1930s but also claimed by Qatar.</p>
+<p>Leaders of the GCC decided to form a four-nation committee to try to resolve the long-standing dispute at a summit which ended in the Qatari capital Doha on December 9. Bahrain had boycotted the gathering.</p>
+<p>The GCC political and economic alliance groups Saudi Arabia, Oman, United Arab Emirates, Qatar, Bahrain and Kuwait.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

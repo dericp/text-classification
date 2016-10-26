@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135336" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan leading indicator to top 50 mark in Sept - EPA.</title>
+<headline>Japan leading indicator to top 50 mark in Sept - EPA.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Japan's diffusion index of leading economic indicators is likely to rise above the so-called &quot;boom or bust&quot; mark of 50 in September after falling below that critical mark in August for the first time in five months, a senior official for the Economic Planning Agency (EPA) said on Tuesday.  </p>
+<p>The official said the index of coincident indicators was also expected to rise above the 50 mark in September.</p>
+<p>The EPA had announced previously that the index of leading economic indicators stood at 33.3 on a scale of 100 in August, while that of coincident indicators was 30.0.</p>
+<p>&quot;The falls below the 50 mark in August were temporary, and the indices are likely to regain a level of above 50 in September,&quot; the official said. A temporary cut in output of cars and personal computers and production adjustment in semiconductors pushed down production-related indices which are components of the leading indicators, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

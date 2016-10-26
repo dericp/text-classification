@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163704" id="root" date="1996-11-04" xml:lang="en">
+<title>PHILIPPINES: Philtread H1 net loss 449,321 pesos.</title>
+<headline>Philtread H1 net loss 449,321 pesos.</headline>
+<dateline>MANILA 1996-11-04</dateline>
+<text>
+<p>Six months to June 30.</p>
+<p>	    (in million pesos unless stated)</p>
+<p>    Turnover			  27.094 vs 42.960</p>
+<p>    Net loss			   0.449 vs 65.396</p>
+<p>Note: Full name Philtread Tire &amp; Rubber Corp. These are revised figures. The company had earlier reported a net profit of 118,559 pesos. It has been transformed into an investment holding company from a tyre manufacturing firm.</p>
+<p>- Manila newsroom (632) 841-8937</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

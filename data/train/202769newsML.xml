@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202769" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Gallagher to buy Covol coal plant.</title>
+<headline>Gallagher to buy Covol coal plant.</headline>
+<dateline>ITASCA, Ill. 1996-11-20</dateline>
+<text>
+<p>Arthur J. Gallagher &amp; Co said Wednesday it signed a letter of intent to buy the Utah coal-processing facility of Covol Technologies Inc.</p>
+<p>As part of the transaction, Gallagher will advance $4 million under a partially convertible loan agreement to Covol, and purchase the plant for a $2.5 million down payment and additional quarterly payments through the life of the project.</p>
+<p>The facility, Utah Synfuel 1, is in its start-up phase and is expected to be in full production by the end of the year.</p>
+<p>Covol's patented process converts coal fines, particles of coal 1/4-inch or smaller, into a solid synthetic fuel.</p>
+<p>The first line of the Utah plant is designed to produce 360,000 tons per year of solid synthetic fuel. The planned facility is designed to accommodate an additional production line which would mean the facility could produce about 720,000 tons per year of coal product.</p>
+<p>Gallagher, an international insurance brokerage and risk management services firm, said the deal was in keeping with its strategy of making agreements with innovative companies.</p>
+<p>Covol said the transaction is another step in its plan to set up partnerships to develop the technology's potential.</p>
+<p>--Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ITASCA, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

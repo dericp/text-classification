@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629049" id="root" date="1997-06-01" xml:lang="en">
+<title>UK: Canadian-born professor to head UK pay commission.</title>
+<headline>Canadian-born professor to head UK pay commission.</headline>
+<dateline>LONDON 1997-06-01</dateline>
+<text>
+<p>The British government is to name Professor George Bain, principal of the London Business School, as chairman of the Low Pay Commission, a government spokeswoman said on Sunday.</p>
+<p>The commission will have the task of recommending a level for a statutory minimum wage which the new Labour government plans to introduce. The appointment is expected to be confirmed on Monday.</p>
+<p>Professor Bain, who came to Britain from Canada more than 30 years ago, is an expert on industrial relations and a former head of the business school at the University of Warwick in central England.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

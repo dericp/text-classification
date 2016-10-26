@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="503158" id="root" date="1997-04-11" xml:lang="en">
+<title>FRANCE: Lyonnaise, Suez clinched merger deal.</title>
+<headline>Lyonnaise, Suez clinched merger deal.</headline>
+<dateline>PARIS 1997-04-11</dateline>
+<text>
+<p>Lyonnaise des Eaux and Cie de Suez on Friday agreed a merger deal, which would create a strong European utilities group, Suez chairman Gerard Mestrallet told reportes.</p>
+<p>The merger will take the form of a swap of 20 Lyonnaise shares for 41 Suez shares.  </p>
+<p>The new Suez Lyonnaise des Eaux group sees a return on invested capital of at least 10 percent, Lyonnaise des Eaux chairman Jerome Monod told journalists.</p>
+<p>In a statement, the company said it expected a 1997 net profit of at least 3.5 billion francs ($604.5 million). ($ = 5.789 French Francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

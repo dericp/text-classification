@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="749847" id="root" date="1997-07-23" xml:lang="en">
+<title>BELGIUM: EU confirms 39.6 Ecus/100 kg sugar export rebate.</title>
+<headline>EU confirms 39.6 Ecus/100 kg sugar export rebate.</headline>
+<dateline>BRUSSELS 1997-07-23</dateline>
+<text>
+<p>The European Union set a maximum export rebate of 39.600 Ecus per 100 kilos for the export of 52,600 tonnes of current series white sugar at the weekly export tender, European Commission officials confirmed.</p>
+<p>The confirmation cleared confusion after London-based sugar traders and British sources had questioned the rebate which had earlier been reported by the German Intervention Board (BLE). --Brussels newsroom +322 287 6830</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

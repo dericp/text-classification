@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146103" id="root" date="1996-10-27" xml:lang="en">
+<title>HUNGARY: France's Le Pen draws big crowd in Hungary.</title>
+<headline>France's Le Pen draws big crowd in Hungary.</headline>
+<dateline>BUDAPEST 1996-10-27</dateline>
+<text>
+<p>French far-right politician Jean-Marie Le Pen and the Hungarian Justice and Life Party drew at least 20,000 people to a rally outside parliament on Sunday, making it the country's biggest political gathering in years.</p>
+<p>The enthusiastic crowd heard Le Pen denounce the European Union's Maastricht treaty and the notion of a European super-state.</p>
+<p>&quot;The Europe of Maastricht, a federal Europe is just a step towards globalisation and it deliberately drives towards the destruction of nation states,&quot; he told them</p>
+<p>&quot;Globalisation...aims at destroying nations, our humanist and Christian civilisation.&quot;</p>
+<p>The audience, which some estimates put as large as 30,000, was much larger than those at ceremonies last week commemorating Hungary's doomed 1956 uprising against Soviet rule.</p>
+<p>&quot;Who else can bring so many people to the streets in Hungary as we do?&quot; Justice and Life leader Istvan Csurka asked reporters as the crowd chanted demands for the resignation of Hungary's Socialist-Liberal coalition government.</p>
+<p>Csurka's party failed to get into parliament in the 1994 elections but draws crowds from a population hit by the inflation and unemployment which have accompanied Hungary's transition to a market economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

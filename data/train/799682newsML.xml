@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799682" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: CATTLE-FAX average feedlot cattle prices - Aug 14.</title>
+<headline>CATTLE-FAX average feedlot cattle prices - Aug 14.</headline>
+<dateline>CHICAGO 1997-08-14</dateline>
+<text>
+<p>Average prices for feedlot steers in the main U.S. six-state and three-state regions, according to CATTLE-FAX (in dollars per cwt) --</p>
+<p>6 STATES -</p>
+<p> Wednesday	 Aug  13  $65.12    up 0.10</p>
+<p> Tuesday	   Aug  12  $65.02    dn 0.08</p>
+<p> Monday	    Aug  11  $65.10    dn 0.01</p>
+<p>3 STATES -</p>
+<p> Wednesday	 Aug  13  $64.82    up 0.22</p>
+<p> Tuesday	   Aug  12  $64.60    dn 0.11</p>
+<p> Monday	    Aug  11  $64.71    dn 0.01</p>
+<p>Note: 6 states include TX, NE, KS, CO, OK, IA.</p>
+<p>	    3 states include TX, KS, OK.</p>
+<p>((Chicago newsdesk 312 408 8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92019" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: EIA - U.S. weekly petroleum stocks.</title>
+<headline>EIA - U.S. weekly petroleum stocks.</headline>
+<text>
+<p>(Mlns of Bbls)     09/27/96  09/20/96-Change  09/27/95</p>
+<p>Gasoline..............    197.7    193.5     4.2    197.7</p>
+<p>RFG...................     40.4     39.2     1.2     34.8</p>
+<p>Distillate Fuel.......    111.0    111.8    -0.8    131.6</p>
+<p>Residual Fuel.........     35.6     35.2     0.4     39.4</p>
+<p>Jet Fuel..............     41.8     40.9     0.9     41.2</p>
+<p>Unfinished Oils.......     92.2     93.2    -1.0     94.3</p>
+<p>Other Oils............    183.7    182.6     1.1    217.0</p>
+<p>Crude Oil (Exc SPR)...    303.4    308.5    -5.1    306.1</p>
+<p>Total Stock (Exc SPR).    965.5    965.7    -0.2  1,027.3</p>
+<p>Strategic Pet.Reserve.    573.7    575.7    -2.0    591.7</p>
+<p>All Stocks (Inc SPR)..  1,539.2  1,541.4    -2.2  1,619.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

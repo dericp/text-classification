@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271805" id="root" date="1996-12-21" xml:lang="en">
+<title>USA: Wilshire Tech to cease trading on Amex.</title>
+<headline>Wilshire Tech to cease trading on Amex.</headline>
+<dateline>CARLSBAD, Calif. 1996-12-20</dateline>
+<text>
+<p>Wilshire Technologies Inc said on Friday that its common stock will cease to be traded on the American Stock Exchange because the company does not meet the exchange's listing criteria.</p>
+<p>The last day for trading of the company's common stock on the American Stock Exchange will be Friday, January 17, 1997.</p>
+<p>Wilshire said it was actively exploring alternative markets, and expected to have lined up a market for its common stock by Monday, January 20, 1997.</p>
+<p>Wilshire also said it elected Ronald Cantwell as chairman of the board.</p>
+<p>John Van Egmond was named as president and chief executive officer, replacing interim Chief Executive William Hopke, Wilshire said.</p>
+<p>Cantwell has served as president of Trilon Dominion Partners LLC since its inception in June 1995, Wilshire said.</p>
+<p>Van Egmond is affiliated with Trilon Dominion Partners LLC and has been president and chief executive officer of Century Power Corp since 1989, the company said.</p>
+<p>Company representatives could not be reached for further comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSBAD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

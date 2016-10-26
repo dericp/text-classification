@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635655" id="root" date="1997-06-03" xml:lang="en">
+<title>FRANCE: Kohl drops planned speaking engagement in Paris.</title>
+<headline>Kohl drops planned speaking engagement in Paris.</headline>
+<dateline>PARIS 1997-06-03</dateline>
+<text>
+<p>German Chancellor Helmut Kohl has dropped plans to travel to Paris on Wednesday to address the parliamentary assembly of the Western European Union, the German embassy said.</p>
+<p>The embassy said Kohl was staying in Bonn because Finance Minister Theo Waigel, locked in a battle with the Bundesbank over plans to revalue Germany's gold reserves to improve public finances before joining a single European currency, was to make an important statement in parliament.</p>
+<p>The cancellation was not linked to the election of a new Socialist-led government in France, an embassy spokesman said.</p>
+<p>Kohl will meet Socialist Prime Minister Lionel Jospin along with conservative President Jacques Chirac at the next regular Franco-German summit rescheduled for June 13 in Poitiers, in western France.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

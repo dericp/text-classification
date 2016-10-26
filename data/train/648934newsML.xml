@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="648934" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: Union Corp says Hewitt adds title of CEO.</title>
+<headline>Union Corp says Hewitt adds title of CEO.</headline>
+<dateline>GREENWICH, Conn. 1997-06-10</dateline>
+<text>
+<p>Union Corp said on Tuesday that its president and chief operating officer William Hewitt had been named to the additional post of chief executive officer, effective July 1.</p>
+<p>Hewitt succeeds Melvin Cooper in the role of chief executive; Cooper will remain with the company in his present post of chairman, the company said.</p>
+<p>Hewitt joined Union Corp in 1991 as chairman and chief executive of its Capital Credit Corp subsidiary. Prior to that, he was a founding partner and executive vice president at First Manhattan Consulting Corp, a management consulting firm serving the financial services industry.</p>
+<p>Union Corp provides specialized credit and receivable management outsourcing services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENWICH, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95269" id="root" date="1996-10-03" xml:lang="en">
+<title>HONG KONG: HK Sept property deals up 68 pct in value on year.</title>
+<headline>HK Sept property deals up 68 pct in value on year.</headline>
+<dateline>HONG KONG 1996-10-03</dateline>
+<text>
+<p>Hong Kong recorded 10,549 sale and purchase agreements worth HK$29.2 billion for residential and non-residential building units in September, the government Land Registry said on Thursday.</p>
+<p>Thier value was down 1.1 percent from August 1996, but rose 68.1 percent from September last year, it said.</p>
+<p>The number of deals rose 5.8 percent from August this year and 62.1 percent from September 1995, it said.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

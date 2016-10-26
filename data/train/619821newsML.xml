@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619821" id="root" date="1997-05-28" xml:lang="en">
+<title>HUNGARY: Hungary three-month T-bill yield rises to 20.62pct.</title>
+<headline>Hungary three-month T-bill yield rises to 20.62pct.</headline>
+<dateline>BUDAPEST 1997-05-28</dateline>
+<text>
+<p>The average annual yield of Hungary's three-month discount treasury bills was set by auction at 20.62 percent, up from 20.61 percent at an auction one week ago, the Government Debt Management Centre said.</p>
+<p>    Total on offer	     5,000 million forints</p>
+<p>    Total bids received     12,566.38 million forints</p>
+<p>    Total allocated	    5,000 million forints</p>
+<p>    Total issued		 5,000 million forints</p>
+<p>    Average yield		     20.62 pct</p>
+<p>    Average price		     95.1105 pct</p>
+<p>-- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

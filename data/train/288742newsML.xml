@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288742" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: N.J. Turnpike expects $500 mln toll contract soon.</title>
+<headline>N.J. Turnpike expects $500 mln toll contract soon.</headline>
+<dateline>NEW YORK 1997-01-06</dateline>
+<text>
+<p>The New Jersey Turnpike Authority expects to award a $500 million electronic toll collection contract to MFS Network Technologies at the end of January or early February, an agency official said Monday.</p>
+<p>Ed Gross, the authority's acting executive director, said in an interview that the award was originally expected in mid-December, but delays with internal reviews and necessary legislation have pushed back that date.</p>
+<p>A consortium of New Jersey transportation officials in November recommended MFS over rival bidder Lockheed Martin IMS, a wholly-owned subsidiary of Lockheed Martin Corp. The contract is the largest electronic toll collection project in the nation, according to the authority.</p>
+<p>Prior to making its final award to MFS, the Turnpike Authority must also wait for the boards of four other state transportation agencies to approve the selection. Gross said two of the four have already done so and the other two are expected to act in the next few weeks.</p>
+<p>--Steven Dickson, 212-859-1652</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

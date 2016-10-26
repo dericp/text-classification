@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500919" id="root" date="1997-04-10" xml:lang="en">
+<title>ISRAEL: Israel March 1997 trade deficit widens.</title>
+<headline>Israel March 1997 trade deficit widens.</headline>
+<dateline>JERUSALEM 1997-04-10</dateline>
+<text>
+<p>Israel's trade deficit in March totalled $930 million, the Central Bureau of Statistics said on Thursday.</p>
+<p>	     Mar 97    Feb 97     Mar 96</p>
+<p>Exports    1,808     1,618	1,717</p>
+<p>Imports    2,738     2,305	2,609</p>
+<p>Balance    - 930     - 687	- 892</p>
+<p>Note - Figures are in millions of dollars.</p>
+<p>The first quarter trade deficit stood at -2.225 billion against -2.895 in the first quarter of 1996, a drop of 22.1 percent.  </p>
+<p>The statistics bureau said that although the figures marked an improvement on the previous year, month-on-month trends showed a deterioration in the trade balance as imports grew faster than exports.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

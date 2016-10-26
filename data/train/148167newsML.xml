@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148167" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Union Texas reports two Pakistan oil finds.</title>
+<headline>Union Texas reports two Pakistan oil finds.</headline>
+<dateline>NEW YORK 1996-10-28</dateline>
+<text>
+<p>Union Texas Petroleum Holdings on Monday reported two oil finds in the Sindh province in southeastern Pakistan.</p>
+<p>The two exploration wells flowed at rates just over 3,000 barrels per day (bpd) and 2,100 bpd, the company said.</p>
+<p>The Jagir No.1 exploration well flowed at a daily rate of 3,027 barrels of oil per day on a 48/64-inch choke with 410 pounds-per-square-inch flowing tubing pressure from the Lower Goru formation between 7,060 and 7,226 feet.</p>
+<p>The Sakhi No.1 exploration well tested at a daily rate of 2,106 barrels of oil per day on a 32/64-inch choke with 1,032 pounds-per-square-inch flowing tubing pressure from the Lower Goru formation between 6,596 and 6,646 feet.</p>
+<p>The Sakhi well was placed on production on August 14, producing an average of 800 barrels of oil per day.</p>
+<p>Both wells are located approximately 125 miles (200 kilometers) northeast of Karachi.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="785110" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: New protein may help search for malaria vaccine.</title>
+<headline>New protein may help search for malaria vaccine.</headline>
+<dateline>BOSTON 1997-08-07</dateline>
+<text>
+<p>A team of New York researchers has discovered a protein on the surface of malaria cells that allows the parasites to worm their way into healthy human cells, infecting them with the disease.</p>
+<p>The finding, published in Friday's edition of the journal Cell, could lead to a malaria vaccine if scientists can discover a way to block the protein and thereby prevent individual parasites from invading the liver cells that serve as the first target for the infection.</p>
+<p>Malaria is a major health problem in the tropics, affecting more than 300 million people each year and killing 1 million in Africa alone. Victims die from complications resulting from destroyed blood cells.</p>
+<p>It comes from the bite of an infected mosquito; the insect's saliva carries the single-celled parasites, which invade the liver and multiply. A second wave of parasites then moves to infect oxygen-carrying red blood cells.</p>
+<p>Most forms of malaria are marked by a cycle of chills, fever and sweating that repeats every two or three days. The drugs used to fight it have been gradually losing their effectiveness because the parasites have been developing a resistance.</p>
+<p>Dr. Robert Menard and his colleagues at New York University School of Medicine report in Cell that they have identified a key protein they are calling TRAP, or thrombospondin-related anonymous protein.</p>
+<p>In tests where the genetic recipe for the TRAP protein was stripped out of the DNA of the parasites, the Menard team discovered that the malaria cells were no longer able to infect human liver cells.</p>
+<p>In addition, the TRAP-less parasites, once drawn into the stomach of a healthy mosquito that had ingested infected human blood, were unable to spread the infection to the mosquito's salivary glands, which would also break the cycle of infection.</p>
+<p>TRAP is the second malaria protein identified by New York University researchers that the parasite needs to latch on to liver cells. The first, known as circumsporozoite protein or CS protein, was reported earlier this year. An experimental antimalaria vaccine using the CS protein is being tested.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

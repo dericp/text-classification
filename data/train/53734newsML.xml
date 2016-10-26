@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53734" id="root" date="1996-09-13" xml:lang="en">
+<title>INDIA: RBI data on India's balance of payments.</title>
+<headline>RBI data on India's balance of payments.</headline>
+<text>
+<p>India's Overall Balance of Payments</p>
+<p>							  (US $ Million)</p>
+<p>    Item				     Quick Estimates</p>
+<p>				     -----------------------------</p>
+<p>					 1995-96   1994-95   1993-94</p>
+<p>----------------------------------------------------------</p>
+<p>     1				    2	   3	   4</p>
+<p>----------------------------------------------------------</p>
+<p>1.  Current Account:</p>
+<p>    1. Exports, fob		 32,467    26,857    22,683</p>
+<p>    2. Imports, cif		 41,405    31,840    25,069</p>
+<p>    3. Trade Balance		-8,938    -4,983    -2,386</p>
+<p>    4. Invisibles, net	     3,451     2,282     1,228</p>
+<p>    5. Current Account Balance  -5,487    -2,701    -1,158</p>
+<p>2.  Total Capital Account</p>
+<p>of which:</p>
+<p>1. External</p>
+<p>	 Assistance, net		 780     1,434     1,901</p>
+<p>2. Commercial</p>
+<p>	 Borrowings, net		 527     1,029	 607</p>
+<p>    3. NRI Deposits, net	   1,365	 847     1,205</p>
+<p>    4. Foreign Investments, net  4,222*    4,895     4,235</p>
+<p>3.  Overall Balance		 -1,209     6,105     8,677</p>
+<p>4.  Monetary Movements	     1,209    -6,105    -8,677</p>
+<p>5.  IMF, net			  -1,710    -1,146	 187</p>
+<p>6.  Reserves and Monetary Gold   2,919    -4,959    -8,864</p>
+<p>(Increase-, Decrease +)</p>
+<p>* Net of Indian Investments abroad placed at US$ 125 million.</p>
+<p>* Source - Reserve Bank of India annual report for 1995/96 (July-June).</p>
+<p>--------------------------------------------------------------</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

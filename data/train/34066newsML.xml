@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34066" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: UK cocoa imports rose in July.</title>
+<headline>UK cocoa imports rose in July.</headline>
+<dateline>LONDON 1996-09-05</dateline>
+<text>
+<p>UK cocoa imports in tonnes issued by UK Customs - cocoa beans whole or broken, raw or roasted:</p>
+<p>			   Jul     Jun   Jan/Jul 1996    Jan/Jul 1995</p>
+<p> TOTAL		17,524  15,223     152,587	    102,816</p>
+<p> Ivory Coast	 2,001   5,532	34,706	     27,394</p>
+<p> Ghana		10,900   6,100	76,448	     46,046</p>
+<p> Nigeria	     2,817   2,655	26,336	     19,506</p>
+<p> Mexico		  209     nil	   732		3,340</p>
+<p> Indonesia	     200	50	 2,725		3,201</p>
+<p> Papua New Guinea  1,214     130	 2,237		  572</p>
+<p> Sierra Leone	  nil     240	 1,830		  986</p>
+<p> Tanzania		153	99	   898		  489</p>
+<p> Vanuatu		 nil     325	 1,116		  278</p>
+<p> Cameroon		nil     nil	 1,616		  171</p>
+<p> Sao Tome-Principe   nil     nil	   310		   18</p>
+<p> Others		  nil	92	 3,633		  815</p>
+<p>		     Cocoa butter, fat and oil</p>
+<p> TOTAL		   640     684	 6,196		7,552</p>
+<p> Malaysia		 80     120	 1,499		4,424</p>
+<p> Ghana		   242     482	 3,057		2,107</p>
+<p> Turkey		  nil     nil	    60		   81</p>
+<p> Nigeria		  22	22	   129		   44</p>
+<p> Indonesia		80	20	   880		  760</p>
+<p> Others		  216	40	   571		  136</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I0100144">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

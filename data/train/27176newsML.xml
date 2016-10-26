@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27176" id="root" date="1996-09-02" xml:lang="en">
+<title>PARAGUAY: Paraguayan 1996/97 soybean crop seen 3 mln tonnes.</title>
+<headline>Paraguayan 1996/97 soybean crop seen 3 mln tonnes.</headline>
+<dateline>ASUNCION 1996-09-02</dateline>
+<text>
+<p>Paraguay should harvest three million tonnes of 1996/97 soybeans, an industry group official said Monday.</p>
+<p>&quot;Farmers are prepared to invest $320 million in sowing one million hectares,&quot; Alberto Cubilla, technical manager of the Paraguayan Cereal Exporters Chamber, told Reuters.</p>
+<p>Sowing is due to start in mid-October and lasts until the end of November.</p>
+<p>-- Jose Maria Amarilla, Asuncion Newsroom +59521 44-4527</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PARA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASUNCION"/>
+<dc element="dc.creator.location.country.name" value="PARAGUAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

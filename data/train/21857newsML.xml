@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21857" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Stat Healthcare files for 3.3 mln common.</title>
+<headline>Stat Healthcare files for 3.3 mln common.</headline>
+<dateline>WASHINGTON 1996-08-29</dateline>
+<text>
+<p>Stat Healthcare Inc filed Thursday with the Securities and Exchange Commission for up to 3.3 million common shares, including 300,000 shares that may be sold by shareholders.</p>
+<p>The Houston-based company said net proceeds will be used to reduce its debt and for general corporate purposes, including working capital and funding for potential acquisitions. It said it will not receive proceeds from the sale by shareholders.</p>
+<p>The offering will be made through Pacific Growth Equities Inc. The underwriter has an over-allotment option for up to 495,000 additional shares.</p>
+<p>The company will have 17.97 million shares outstanding after the offering is completed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

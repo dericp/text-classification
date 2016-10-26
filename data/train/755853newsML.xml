@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755853" id="root" date="1997-07-25" xml:lang="en">
+<title>USA: TABLE - Allen Telecom Q2 net rises.</title>
+<headline>TABLE - Allen Telecom Q2 net rises.</headline>
+<dateline>BEACHWOOD, Ohio 1997-07-24</dateline>
+<text>
+<p>Consolidated Statements of Income</p>
+<p>		    (Amounts in Thousands, Except Per Share Data)</p>
+<p>					  (Unaudited)</p>
+<p>					    Three Months Ended	 Six Months Ended</p>
+<p>						   June 30,		    June 30,</p>
+<p>					    1997	   1996	1997	   1996</p>
+<p>    Sales			    $108,859	$88,459   $211,362     $172,928</p>
+<p>Costs and expenses:</p>
+<p>	Cost of sales		 (70,677)     (56,900)  (136,639)    (112,441)</p>
+<p>Selling, general and</p>
+<p>	  administrative</p>
+<p>	  expenses (Note 1)	 (16,166)     (14,166)   (30,794)     (27,753)</p>
+<p>Research and development</p>
+<p>	  and product engineering</p>
+<p>	  costs			  (7,611)	(5,139)   (14,297)	(9,759)</p>
+<p>Interest and financing</p>
+<p>	expenses			   (749)	  (743)    (1,269)	(1,596)</p>
+<p>Income before taxes and</p>
+<p>	minority interests	   13,656	 11,511     28,363	 21,379</p>
+<p>    Provision for income taxes   (5,120)	(4,667)   (11,300)	(8,781)</p>
+<p>Income before minority</p>
+<p>	interests			 8,536	  6,844     17,063	 12,598</p>
+<p>    Minority interests	     (1,802)	(1,142)    (3,303)	(2,214)</p>
+<p>Income from continuing</p>
+<p>	operations			6,734	  5,702     13,760	 10,384</p>
+<p>Loss from discontinued</p>
+<p>centralized emissions</p>
+<p>	testing operations		 --	  (565)	   --	(1,002)</p>
+<p>    Net Income			 $6,734	$5,137     $13,760	$9,382</p>
+<p>Earnings per Common Share:</p>
+<p>Income from continuing</p>
+<p>	  operations		     $.25	  $.21	  $.51	  $.39</p>
+<p>Loss from discontinued</p>
+<p>centralized emissions</p>
+<p>	testing operations		 --	  (.02)	   --	  (.04)</p>
+<p>    Net Income			   $.25	  $.19	  $.51	  $.35</p>
+<p>Average common and</p>
+<p>common equivalent</p>
+<p>	shares outstanding	   27,221	27,198	27,126	27,075</p>
+<p>Note 1:  In the first quarter of 1997, the Company realized a before-tax gain on the sale of the Company's partial ownership investment in Columbia Spectrum Management, L.P., in the amount of $1,525,000, or $.03 per common share after related tax effects.  This gain is included in selling, general, and administrative expenses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEACHWOOD, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

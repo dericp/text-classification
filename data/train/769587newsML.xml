@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="769587" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: Commonwealth Industries files offering.</title>
+<headline>Commonwealth Industries files offering.</headline>
+<dateline>LOUISVILLE, Ky. 1997-07-31</dateline>
+<text>
+<p>Commonwealth Industries Inc said on Thursday that it had filed a registration statement with the Securities and Exchange Commission for a public offering of five million shares of its common stock.</p>
+<p>In a press statement, the company said all the shares would be offered by the company and that Morgan Stanley &amp; Co Inc would act as lead underwriter for the offering.</p>
+<p>Commonwealth, an aluminum sheet producer, said proceeds from the offering would reduce debts it incurred in September 1996 with the acquisition of CasTech Aluminum Group Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE, Ky."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

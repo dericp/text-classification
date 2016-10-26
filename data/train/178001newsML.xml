@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178001" id="root" date="1996-11-09" xml:lang="en">
+<title>USA: CME seeks change to pork belly position limits.</title>
+<headline>CME seeks change to pork belly position limits.</headline>
+<dateline>CHICAGO 1996-11-08</dateline>
+<text>
+<p>The Board of Directors of the Chicago Mercantile Exchange has approved a proposal to base position limits in July and August pork belly futures contracts on the size of deliverable supplies.</p>
+<p>The change will not affect February through May contracts, according to Marshall Stein, chairman of the CME's Pork Products committee.</p>
+<p>The proposal, which is subject to approval by the Commodity Futures Trading Commission, would base position limits on deliverable supplies in the last five days of trading in the two contracts.  </p>
+<p>Position limits currently vary between 100 and 200 contracts during delivery months.</p>
+<p>&quot;The position limits of expiring contract (July and August) will be based on deliverable supply,&quot; Stein told Reuters.</p>
+<p>&quot;For the purposes of this rule, deliverable supply shall mean the number of registered deliverable pork bellies reported in the CME clearinghouse department's weekly report immediately preceding the first Friday of each expiring contract month,&quot; Stein said.</p>
+<p>Other changes to the pork belly contract will be brought up at the next board meeting, which will consider the issue of cash settlement of pork belly contracts.</p>
+<p>--Jerry Bieszk 312-408-8725</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

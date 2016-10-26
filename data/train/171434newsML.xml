@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171434" id="root" date="1996-11-06" xml:lang="en">
+<title>CHINA: Maanshan invests in production lines.</title>
+<headline>Maanshan invests in production lines.</headline>
+<dateline>SHANGHAI 1996-11-06</dateline>
+<text>
+<p>Maanshan Iron and Steel Co Ltd has invested 3.4 billion yuan in new projects, with two production lines expected to be completed next year, the Shanghai Securities News said on Wednesday.</p>
+<p>One line will produce all-purpose steel with an annual capacity of 600,000 tonnes and the other large steel bars also with a capacity of 600,000 tonnes, the newspaper said.</p>
+<p>The projects will help the company increase its production capacity by 50 percent and make it the fifth largest steel producer in China, up from seventh at present, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

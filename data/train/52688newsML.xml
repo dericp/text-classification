@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52688" id="root" date="1996-09-13" xml:lang="en">
+<title>PERU: Lima bolsa postpones extension of trading hours.</title>
+<headline>Lima bolsa postpones extension of trading hours.</headline>
+<dateline>LIMA 1996-09-13</dateline>
+<text>
+<p>The Lima Stock Exchange said Friday it was postponing plans to extend operating hours from Monday.</p>
+<p>A statement from the bolsa did not give reasons for the change in plans nor did it say when a proposed new timetable might be introduced again.</p>
+<p>Earlier this week, the exchange had said it was increasing operating hours from Monday to between 0800 and 1600 local time (1300-2100 GMT). This was intended to allow trade on the Lima stock exchange to coincide with that on the New York Stock Exchange.</p>
+<p>The bolsa currently opens for trading between 0900 and 1300 local time (1400-1800 GMT).</p>
+<p>-- Eduardo Orozco, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

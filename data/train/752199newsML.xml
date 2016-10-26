@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="752199" id="root" date="1997-07-24" xml:lang="en">
+<title>UK: PCBs increase cancer risk, study finds.</title>
+<headline>PCBs increase cancer risk, study finds.</headline>
+<dateline>LONDON 1997-07-24</dateline>
+<text>
+<p>U.S. researchers said on Friday they had found more links between the toxic chemical polychlorinated biphenyls (PCBs) and cancer, but not a direct causal connection.</p>
+<p>They said a study of people living in rural Maryland showed that those who developed non-Hodgkin's lymphoma, a usually slow-growing cancer of the lymphatic system, had higher levels of PCBs in their blood.</p>
+<p>Nathaniel Rothman and colleagues at the National Cancer Institute examined blood samples from 25,000 people who donated blood in 1974. They then followed their health.</p>
+<p>Seventy-four developed non-Hodgkins lymphoma.</p>
+<p>Rothman's team then compared their blood to that of 147 other people who did not get cancer. Those who had cancer had higher levels of PCBs in their blood.</p>
+<p>The scientists cautioned that their findings did not prove PCBs caused cancer.</p>
+<p>&quot;Before causal inferences can be made about exposure to PCBs and increased risk of non-Hodgkin lymphoma, our findings require replication and the biological plausibility of the association needs further investigation,&quot; they wrote in their report in the science journal Nature.</p>
+<p>They said it could be that some other chemical built up in the body fat alongside the PCBs.</p>
+<p>Rothman's researchers noted Swedish studies had found fishermen exposed to PCB-contaminated fish and workers exposed to the chemical had higher rates of Hodgkin's disease, another form of cancer.</p>
+<p>But they had only slightly higher rates of other cancers of the blood and lymphatic systems.</p>
+<p>Diet could also be a factor. PCBs build up in the bodies of animals and thus can be found in meat and milk.</p>
+<p>The United States prohibited the manufacture and import of PCBs after January 1979. Most other industrialised countries also ban their manufacture although they are still commonly used. Their use in Britain is to be phased out by 1999.</p>
+<p>PCBs, developed as industrial lubricants and heavily used in the electronics industry, have been strongly linked to cancer.</p>
+<p>When burned, PCBs produce dioxins, which can cause birth defects and cancer.</p>
+<p>Rothman's group also tested for the pesticide DDT, but found no link between DDT and cancer.</p>
+<p>They also found that those with cancer were more likely to be infected by the Epstein-Barr virus, which causes mononucleosis (glandular fever) and which has been linked with other cancers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

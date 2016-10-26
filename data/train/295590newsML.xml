@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="295590" id="root" date="1997-01-09" xml:lang="en">
+<title>CANADA: Hydro-Quebec sees local power outages ended Friday.</title>
+<headline>Hydro-Quebec sees local power outages ended Friday.</headline>
+<dateline>MONTREAL 1997-01-09</dateline>
+<text>
+<p>Hydro-Quebec said on Thursday it expected to restore power on Friday to the 6,500 Quebec customers north and northeast of Montreal who were still without electricity because of damaged transmission lines.</p>
+<p>The customers, in the Laurentides and Lanaudiere regions, have been without power since Sunday, when electricity for 175,00 homes was knocked out.</p>
+<p>The power outages occurred when a severe winter ice storm on Sunday damaged transformers and power transmission lines in the regions. Hydro-Quebec is owned by the Quebec government.</p>
+<p>((Reuters Montreal bureau 514-985-2434))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

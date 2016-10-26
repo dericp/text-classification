@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245137" id="root" date="1996-12-09" xml:lang="en">
+<title>GERMANY: German insolvencies said up 8.2 pct in September.</title>
+<headline>German insolvencies said up 8.2 pct in September.</headline>
+<dateline>WIESBADEN, Germany 1996-12-09</dateline>
+<text>
+<p>The Federal Statistics Office reported the following economic indicator:</p>
+<p> PAN-GERMAN INSOLVENCIES	Sept 96	   Jan-Sept 96</p>
+<p> Total insolvencies		2,745		  23,542</p>
+<p> Pct change yr/yr		   +8.2		   +10.7</p>
+<p> Company insolvencies	    2,201		  19,073</p>
+<p> Pct change yr/yr		  +13.0		   +16.6</p>
+<p>W.GERMAN INSOLVENCIES</p>
+<p> Total insolvencies		2,002		  17,241</p>
+<p> Pct change yr/yr		   +6.0		    +6.6</p>
+<p> Company insolvencies	    1,550		  13,517</p>
+<p> Pct change yr/yr		  +10.6		   +10.6</p>
+<p>E.GERMAN INSOLVENCIES</p>
+<p> Total insolvencies		  743		   6,301</p>
+<p> Pct change yr/yr		  +14.7		   +23.9</p>
+<p> Company insolvencies		651		   5,556</p>
+<p> Pct change yr/yr		  +19.0		   +34.4</p>
+<p>NOTE - The Statistics Office said it expected insolvencies in 1996 to total over 31,000, compared with under 29,000 in 1995. About 23,000 would be in west Germany and 8,000 in east Germany, it said.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

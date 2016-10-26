@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="269702" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Conrail rejects Norfolk Southern bid.</title>
+<headline>Conrail rejects Norfolk Southern bid.</headline>
+<dateline>NEW YORK 1996-12-20</dateline>
+<text>
+<p>Conrail Inc said its board has rejected Norfolk Southern Corp's revised $115 per share offer in favor of its planned merger with CSX Inc.</p>
+<p>&quot;The Conrail board has again confirmed that a merger of equals with CSX and not a sale to Norfolk Southern, is in the best interests of Conrail and its constituencies, including shareholders, employees, suppliers, customers and communities served. The CSX transaction provides extraordinary value to our shareholders which would not have been available without the actions taken by the Conrail board,&quot; Conrail chairman David LeVan said in a statement.</p>
+<p>CSX on Thursday sweetened its proposed merger with Conrail by $870 million to about $9.3 billion, or $102 per share.</p>
+<p>CSX and Norfolk Southern have been locked in a takeover battle for Conrail since October.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

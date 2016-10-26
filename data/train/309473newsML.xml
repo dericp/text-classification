@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309473" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: Commerce Bancshares Inc Q4 net rises.</title>
+<headline>Commerce Bancshares Inc Q4 net rises.</headline>
+<dateline>KANSAS CITY, Mo. 1997-01-15</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.85		    $0.71</p>
+<p> Net			 32,456		   28,248</p>
+<p> Avg shrs		  38,382		   39,808</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Q4 1996 total interest income $164.7 million vs $164.7 million. Q4 1996 total non-interest income $43.3 million vs $36.5 million.  </p>
+<p>Assets $9.70 billion vs $9.57 billion</p>
+<p>Deposits $8.17 billion vs $8.19 billion</p>
+<p>Net loans $5.37 billion vs $5.22 billion.</p>
+<p>			YEAR</p>
+<p> Shr primary		$3.11		    $2.71</p>
+<p> Net			119,512		  107,640</p>
+<p> Avg shrs		  38,450		   39,693</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Full-year 1996 total interest income $647.6 million vs $631.0 million. Full-year 1995 total non-interest income $159.2 million vs $133.2 million.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

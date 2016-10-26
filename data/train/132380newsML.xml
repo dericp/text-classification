@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132380" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: US Rep. Gonzalez asks IRS to look at Texas banks.</title>
+<headline>US Rep. Gonzalez asks IRS to look at Texas banks.</headline>
+<dateline>WASHINGTON 1996-10-22</dateline>
+<text>
+<p>Rep. Henry Gonzalez asked the Internal Revenue Service to investigate the source of cash surpluses of some Texas banks to ensure money laundering or drug trafficking was not involved, according to a letter released by his office Tuesday.</p>
+<p>The Democrat from Texas asked the IRS to analyze the sources of the surpluses of eight banks, which transact with the San Antonio branch of the Federal Reserve, that showed cash surpluses exceeding $100 million in 1995.</p>
+<p>He also sought an analysis of the nature of the cash transactions that would explain the surpluses.  </p>
+<p>For those eight banks, he also sought &quot;the types and nature of cash transactions with Mexican financial institutions and the extent to which these transactions contribute to cash surpluses.&quot;</p>
+<p>The letter was dated Oct 21 and sent to IRS Commissioner Margaret Milner Richardson.</p>
+<p>&quot;Because the drug trade along the Texas-Mexico border has intensified, we must ensure that drug traffickers do not abuse our banking system to legitimize their illegal drug profits,&quot; Gonzalez wrote.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

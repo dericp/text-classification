@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64357" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: PRESALE- Colonial Heights, Va.</title>
+<headline>PRESALE- Colonial Heights, Va.</headline>
+<text>
+<p>AMT: 4,640,000	DATE: 09/25/96	NYC Time: 1100	CUSIP: 195720</p>
+<p>ISSUER: Colonial Heights						ST: VA</p>
+<p>ISSUE: GO public improvement &amp; refunding, series 1996	TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: A/A+/NA							   BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 10/01/96							     SURE BID: Y</p>
+<p>DUE: 12/1/97-11					     SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: 12/1/05 @ 102, dtp 12/1/07			TIC</p>
+<p>DELIVERY: 10/8/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: Director of Finance's Office, Colonial Hgts.</p>
+<p>L.O.: McGuire, Woods, Battle &amp; Boothe, Richmond</p>
+<p>F.A.: Craigie Inc., Richmond</p>
+<p>LAST SALE: $3,800,000 10/11/95 @ 4.9280% TIC; 9yrs 6mos avg; BBI- 5.88%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    125,000</p>
+<p>1998		    450,000</p>
+<p>1999		    435,000</p>
+<p>2000		    435,000</p>
+<p>2001		    440,000</p>
+<p>2002		    390,000</p>
+<p>2003		    410,000</p>
+<p>2004		    430,000</p>
+<p>2005		    445,000</p>
+<p>2006		    155,000</p>
+<p>2007		    165,000</p>
+<p>2008		    175,000</p>
+<p>2009		    185,000</p>
+<p>2010		    195,000</p>
+<p>2011		    205,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="427565" id="root" date="1997-03-07" xml:lang="en">
+<title>SWITZERLAND: Swiss bond market closing report.</title>
+<headline>Swiss bond market closing report.</headline>
+<dateline>ZURICH 1997-03-07</dateline>
+<text>
+<p>Swiss bonds were lower in late trade, undermined by a continued bearish outlook which could take the March confederate bond contract back to February lows.</p>
+<p>&quot;The Conf futures will continue to decline in coming days and at least reach the February consolidation levels between 120.35-121.00,&quot; said Zuercher Cantonalbank in its Friday market comment. The Conf got as low as 120.60 on the day. Swiss plans to set up a humanitarian fund which would invest roughly seven billion francs from revaluation of gold reserves should be positive as it appeared likely much of the money would be invested in domestic bonds, Zuercher Cantonalbank said.  </p>
+<p>The proposed humanitarian fund will be set up provided legal revisions are approved to revalue Swiss official gold reserves. The move would increase the value of the reserves by roughly 14 billion francs in addition to the current 11.9 billion at the present valuation of 4,595.74 francs per kilo. The market price this morning was 16,780 francs bid.</p>
+<p>The revaluation requires a change to Swiss law, which would take perhaps two years.</p>
+<p>The Swiss parliament will decide how to administer the remainder of the money which is raised by revaluation but not given to the humanitarian fund.  </p>
+<p>-- Friday's closing prices as follows:</p>
+<p>March Conf futures  CONFH7 down 39 at 120.96.</p>
+<p>March Comi medium-term bond  COMIH7 down 20 at 112.15</p>
+<p>Mar Euro Swiss francs  FESH7 down four at 98.10.</p>
+<p>4-1/2 Jun 2007 bond  0#CH470458= 108.15/25 yield 3.525 pct</p>
+<p>(Thursday 108.65/75 yield 3.469 pct)</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

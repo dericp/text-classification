@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138521" id="root" date="1996-10-23" xml:lang="en">
+<title>JAPAN: Tokyo corn futures end mostly higher.</title>
+<headline>Tokyo corn futures end mostly higher.</headline>
+<dateline>TOKYO 1996-10-23</dateline>
+<text>
+<p>Tokyo corn futures ended mostly higher on Wednesday, as technical buying from individual investors supported the market, traders said.</p>
+<p>The benchmark November contract was down 10 yen at 14,430 yen per tonne, and other months were 30 to 250 yen higher. Daily volume was 41,971 lots.</p>
+<p>The market had a bearish mood in the early morning, due to the yen's strength against the dollar, the traders said. But technical buying from local investors emerged later, supporting the market, they said.  </p>
+<p>The spot December contract on the CBOT Project A trading system was being traded at $2.80-1/2 per bushel at 0800 GMT, against $2.79-1/2 at Tuesday's close.</p>
+<p>The spot November CBOT soybean futures contract was at $6.93 at 0800 GMT, up from $6.89 at the Tuesday close.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

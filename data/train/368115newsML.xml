@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368115" id="root" date="1997-02-10" xml:lang="en">
+<title>AUSTRALIA: RTRS-Gandel half year net profit edges up.</title>
+<headline>RTRS-Gandel half year net profit edges up.</headline>
+<dateline>MELBOURNE 1997-02-10</dateline>
+<text>
+<p>Six months ended Dec 31</p>
+<p>		  (A$ million unless stated)</p>
+<p>    Operating profit			26.31 vs 25.04</p>
+<p>    Net profit				26.31 vs 25.04</p>
+<p>    Distribution per unit (cents)	3.88 vs 3.87</p>
+<p>    Tax-free component (percent)	 7.13 vs 6.24</p>
+<p>    Property income			 33.12 vs 30.02</p>
+<p>    Total assets (billion)	     833.27 vs 793.81</p>
+<p>    Units (million)			   722 vs 722</p>
+<p>    Net asset backing per unit (A$)    1.00 vs 0.99</p>
+<p>Distribution pay date Feb 24  </p>
+<p>    Reg date		  Jan 31</p>
+<p>NOTE: Gandel Retail Trust is a shopping centre owner.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

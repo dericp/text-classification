@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544476" id="root" date="1997-04-28" xml:lang="en">
+<title>INDIA: India CDs issued by scheduled commercial bank-RBI.</title>
+<headline>India CDs issued by scheduled commercial bank-RBI.</headline>
+<dateline>BOMBAY 1997-04-28</dateline>
+<text>
+<p>The following are the details of the certificates of deposit (CDs) issued by scheduled commercial banks.</p>
+<p>.</p>
+<p>Fortnight ended	  Total amount  Issued during    Rate of</p>
+<p>			     outstanding   the fortnight    Interest</p>
+<p>				 (Rs. bln)	(Rs. bln)     (pct p.a)</p>
+<p>---------------	  ------------  -------------    ---------</p>
+<p>April 12, 1996	     195.71	     34.49	 12.0-21.0</p>
+<p>July  5, 1996		208.15	     20.99	 11.0-19.0</p>
+<p>Oct 11, 1996		 128.46	     12.04	  9.0-16.0</p>
+<p>Jan 3, 1997		  106.42		6.30	  8.0-15.0</p>
+<p>Feb 14, 1997		 109.36		8.88	  8.5-16.0</p>
+<p>Feb 28 1997		  112.26		9.17	  8.8-17.2</p>
+<p>.</p>
+<p>Note-Data sourced from Weekly Statistical Supplement issued by the Reserve Bank of India (RBI) on April 26, 1997.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="344623" id="root" date="1997-01-30" xml:lang="en">
+<title>USA: Basin group makes Eugene Island discovery.</title>
+<headline>Basin group makes Eugene Island discovery.</headline>
+<dateline>DENVER 1997-01-30</dateline>
+<text>
+<p>Basin Exploration Inc said Thursday it is operator for a group that made a natural gas/condensate discovery on Eugene Island Block 65, located in shallow waters offshore Louisiana in the Gulf of Mexico.</p>
+<p>The discovery well, Eugene Island 65 OCS-G 16343 1, has been directionally drilled to a true vertical subsea depth of 13,221 feet. The well encountered an estimated 111 net feet of gas/condensate pay in two primary-objective Miocene sands, as determined from electric and other logs, Basin said.</p>
+<p>No zones have been tested in the well, which has been cased to the depth drilled, it continued.</p>
+<p>The drilling rig remains on location and Basin and its partners intend to resume drilling to test an additional, secondary-objective sand about 1,600 feet deeper.  Field development plans will be formulated after the well has reached total depth, Basin said.</p>
+<p>Basin has a a 37.5 percent working interest in the project before payout and 47.5 percent interest after payout. Other owners include Ashland Inc, Forest Oil Corp and Hall-Houston Oil Co. ((-- Jim Brumm 212-859-1710.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I1300002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I1300013">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

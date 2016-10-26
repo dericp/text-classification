@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117865" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: GM posts profits in domestic, overseas units.</title>
+<headline>GM posts profits in domestic, overseas units.</headline>
+<dateline>DETROIT 1996-10-15</dateline>
+<text>
+<p>General Motors Corp reported strong profits in both its North American Operations (NAO) and International Operations as part of a $1.3 billion third quarter profit from continuing operations announced Tuesday.</p>
+<p>Combined net income of NAO and Delphi Automotive Systems, GM's parts businesses, was $515 million, making it the first third-quarter profit for NAO-Delphi since 1986. The 1996 results were helped by a one-time gain that boosted the company's overall results by $253 million after taxes.</p>
+<p>A year ago, NAO and Delphi had a combined loss of $93 million, with GM posting a profit of $396.7 million.  </p>
+<p>International Operations had net income of $323 million, up from a profit of $111 million a year ago. Net profit margin for international was as 3.9 percent, up from 1.6 percent.</p>
+<p>GM Europe reported third quarter net income of $75 million, compared to a loss of $98 million a year ago. Income from the rest of the international operations, including Latin America, Asia and the Pacific regions, was $248 million, up from a profit of $209 million.</p>
+<p>GM Chairman John Smith attributed the higher international profits to increased volume and favorable currency rates.  </p>
+<p>GM's overall profits were helped by an effective income tax rate of 2.8 percent. GM said the low rate resulted from favorable resolution of items related to prior-year tax returns, overall foreign tax rates that were lower than the U.S. statutory rate, and reinstatement of research and experimentation credits for the last half of 1996.</p>
+<p>Smith also said the strength of its North American operations were due to continuing cost-reduction efforts.</p>
+<p>&quot;The success of our products in the marketplace is a reflection of our intense focus on the customer,&quot; he said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="419848" id="root" date="1997-03-04" xml:lang="en">
+<title>FRANCE: US, FRENCH SCIENTISTS FIND GENE THAT BURNS FAT.</title>
+<headline>US, FRENCH SCIENTISTS FIND GENE THAT BURNS FAT.</headline>
+<byline>Lee Yanowitch</byline>
+<dateline>PARIS 1997-03-04</dateline>
+<text>
+<p>A team of French and American scientists have pinpointed a gene that enables living organisms to burn fat, raising new possibilities in the treatment of obesity and, possibly, diabetes.</p>
+<p>Its discoverers, who have published their findings in the March issue of Nature Genetics, say the gene, named Uncoupling Protein 2, could explain why some people stay thin regardless of how much they eat, whereas others are unable to lose weight although they constantly diet.</p>
+<p>Identified by Professor Daniel Ricquier of the French Center for Research of Molecular Endocrinology, Craig Warden of the University of California and Richard Surwitt of Duke University in North Carolina, UCP2 functions by creating a protein that activates the burning of fat.</p>
+<p>&quot;Why do certain people who pig out never put on a gramme (ounce) while others gain weight eating the same amount of food?&quot; Ricquier said. &quot;The explanation is in the gene UCP2 which helps dissolve energy by turning it into heat.&quot;</p>
+<p>&quot;When we eat, part of the food is digested and the rest goes to our cells. Some of it is stored in our cells in chemical form, but some is consumed, or burned. UCP2 creates the protein that sets off the combustion process.</p>
+<p>&quot;The idea is: if we can increase even a tiny bit, the amount of fat that we eliminate through heat, we will cause weight loss,&quot; Ricquier said.</p>
+<p>He added that it was enough to reduce heat production by one percent to gain three kgs (6.6 lbs) of extra fat in a year's time, and vice-versa.</p>
+<p>Current treatments for obesity focus on reducing appetite or increasing metabolism, but none are 100 percent effective.</p>
+<p>Ricquier said UCP2 could also help the search for an effective treatment for diabetes.</p>
+<p>&quot;We know that in certain situations there is a metabolic problem common to people who suffer from obesity and people who have diabetes. If we can diminish obesity then we should be able to treat diabetes in certain patients,&quot; he explained.</p>
+<p>He said that and he his colleagues have been approached by &quot;every major pharmaceutical company&quot;. But a molecule that could activate UCP2 or the fat-burning protein would have to be developed before their findings could be marketed.</p>
+<p>He estimated that would take a minimum of five or six years.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

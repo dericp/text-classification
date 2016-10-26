@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44252" id="root" date="1996-09-10" xml:lang="en">
+<title>NETHERLANDS: OPTIONS -- ABN AMRO and ING in demand on EOE.</title>
+<headline>OPTIONS -- ABN AMRO and ING in demand on EOE.</headline>
+<dateline>AMSTERDAM 1996-09-10</dateline>
+<text>
+<p>Banking groups ABN AMRO and ING were back in fashion on the European Options Exchange (EOE) on Tuesday, with investors buying nearby calls above the market.</p>
+<p>Aside from the dominance of business in the AEX contract itelf, the two banks and Royal Dutch were the only ones to stir any significant interest. Both took around six percent of the trade against nearly 30 percent by the index itself.</p>
+<p>Dealers said the fact that puts outweighed calls on the index by around 17,000 to 14,500 reflected some renewed investor caution over the near-term direction of the underlying market.</p>
+<p>-- Amsterdam newsdesk +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75133" id="root" date="1996-09-25" xml:lang="en">
+<title>MEXICO: Mexico's Durango to tender five mining projects.</title>
+<headline>Mexico's Durango to tender five mining projects.</headline>
+<dateline>GUADALAJARA, Mexico 1996-09-25</dateline>
+<text>
+<p>Mexico's northern state of Durango will tender exploration contracts for five potential mineral-rich zones, a top state mining official said on Wednesday.</p>
+<p>Juan Lopez Escalona, head of the Durango state Mining Council, told Reuters in a telephone interview that the tender offers would apply to areas that are believed to contain gold, copper, silver and lead.</p>
+<p>He said the areas were Cerro Prieto, in two areas known as El Orito and Constitucion, as well as Chiquihuitillo, Atrisco and San Julian. The first four areas are in eastern Durango, close to the states of Coahuila and Zacatecas.</p>
+<p>San Julian is in northern Durango, close to the state's border with Chihuahua.</p>
+<p>Durango was Mexico's second largest producer of gold and silver in 1995.</p>
+<p>Between January and June, it produced 2,119 tonnes of gold and 177,007 tonnes of silver, compared with 3,950 tonnes of gold and 356,576 tonnes of silver through the whole of 1995.</p>
+<p>-- Monica Ballesca, Guadalajara bureau +523 817-0397</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

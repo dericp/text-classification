@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168314" id="root" date="1996-11-05" xml:lang="en">
+<title>TURKEY: Turkish fighter crashes, two pilots eject safely.</title>
+<headline>Turkish fighter crashes, two pilots eject safely.</headline>
+<dateline>ANKARA 1996-11-05</dateline>
+<text>
+<p>A Turkish fighter plane crashed on Tuesday during a training flight in southeast Turkey and the two pilots ejected safely, military officials said.</p>
+<p>The F-4 crashed at around 9:45 a.m. (0745 GMT) in Batman province.</p>
+<p>&quot;The two pilots ejected and they are alright,&quot; an army major told Reuters by telephone from the city of Diyarbakir, administrative centre of the southeast.</p>
+<p>He said the two pilots were taken to hospital but did not specify any injuries. Earlier, Anatolian news agency said the two had been injured.</p>
+<p>&quot;There was most probably a technical fault,&quot; the military official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

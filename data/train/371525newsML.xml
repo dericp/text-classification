@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371525" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: Swing-N-Slide Corp Q4 loss widens.</title>
+<headline>Swing-N-Slide Corp Q4 loss widens.</headline>
+<dateline>JANESVILLE, Wis. 1997-02-12</dateline>
+<text>
+<p>Fourth Quarter		 Year</p>
+<p>				1996	  1995	1996	 1995</p>
+<p> Net sales		 $6,329     $4,808   $41,872    $45,077</p>
+<p> Cost of goods sold     3,793	2,825    21,328     23,175</p>
+<p> Gross profit	     2,536	1,983    20,544     21,902</p>
+<p>Operating expenses:</p>
+<p>   Selling		    806	  490     4,992	5,296</p>
+<p>General and</p>
+<p>     administrative     1,219	  872     4,710	4,416</p>
+<p>Amort. of intangible</p>
+<p>     assets		   298	  267     1,224	1,059</p>
+<p>Total operating</p>
+<p>     expenses	     2,323	1,629    10,926     10,771</p>
+<p> Operating income	   213	  354     9,618     11,131</p>
+<p> Interest/other expense   946	  963     6,568	4,404</p>
+<p> Income before taxes    (733)	(609)     3,050	6,727</p>
+<p> Income taxes	     (273)	(225)     1,480	2,600</p>
+<p> Net income		 (460)	(384)     1,570	4,127</p>
+<p> Earnings per share   ( 0.08)    ( 0.06)	0.26	 0.67</p>
+<p> Avge shrs outstanding  6,004	6,000     6,004	6,178</p>
+<p>		(in thousands, except per-share amounts)</p>
+<p>NOTE: 1996 year loss includes after an after-tax charge of $1.9 million or $0.31 a share for fees and expenses related to a tender offer by GreenGrass Holdings.</p>
+<p>		  ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JANESVILLE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

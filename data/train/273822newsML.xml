@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273822" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Pakistan buys U.S. and Australian wheat - trade.</title>
+<headline>Pakistan buys U.S. and Australian wheat - trade.</headline>
+<dateline>CHICAGO 1996-12-23</dateline>
+<text>
+<p>Pakistan bought 180,000 tonnes of U.S. soft white wheat and 90,000 tonnes of Australian wheat over the weekend, several U.S. exporters said.  </p>
+<p>Delivery was slated for January 8 to 31.</p>
+<p>On December 9, Pakistan issued separate tenders for 270,000 tonnes of U.S. Grade 2 or better soft white wheat and Australian white milling wheat for delivery between January 8-31.</p>
+<p>((Doris Frankel 312-983-7305))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

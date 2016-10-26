@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65235" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: MGE wheat/barley/shrimp deliveries - Sept 19.</title>
+<headline>MGE wheat/barley/shrimp deliveries - Sept 19.</headline>
+<dateline>MINNEAPOLIS 1996-09-19</dateline>
+<text>
+<p>The Minneapolis Grain Exchange Grain reported the following deliveries against September futures (wheat in 000 bu, shrimp in lots) -</p>
+<p>SPRING WHEAT - 415. Oldest long - Sept 4, 1996.</p>
+<p>Delivered Minn/St Paul - 40, Duluth/Superior - 375.</p>
+<p>Putout - Bunge Corp/h 40, LFG/c 375.</p>
+<p>Stopped - Atwood Commodities/h 50, Cargill Investor Services/h 365.</p>
+<p>WHITE WHEAT - 320. Oldest long - Aug 26, 1996.</p>
+<p>Putout - Continental Grain/h 320.</p>
+<p>Stopped - Country Hedging/c 320.</p>
+<p>BARLEY - Nil. Up to August 2, 1996.</p>
+<p>BLACK TIGER SHRIMP - Nil. Up to July 31, 1996.</p>
+<p>WHITE SHRIMP - Nil.</p>
+<p>H=House. C=Customer account.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354506" id="root" date="1997-02-04" xml:lang="en">
+<title>PORTUGAL: BES financial margin seen steady in '97.</title>
+<headline>BES financial margin seen steady in '97.</headline>
+<dateline>LISBON 1997-02-04</dateline>
+<text>
+<p>The financial margin of Portuguese bank Banco Espirito Santo (BES) is expected to be steady or to rise slightly in 1997, the bank's president Ricardo Espirito Santo Salgago said.</p>
+<p>&quot;It is possible to predict that margins will not continue to fall, or that they could recover slightly,&quot; he told Reuters after the release of the bank's 1996 results.</p>
+<p>The bank's financial margin eased to 2.7 percent in 1996 from 2.9 percent in 1995.</p>
+<p>BES announced a 21.3 percent increase in net consolidated profit to 23.593 billion escudos.</p>
+<p>-- Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

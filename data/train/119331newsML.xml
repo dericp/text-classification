@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119331" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Merchants Bancorp Inc Q3 net up.</title>
+<headline>Merchants Bancorp Inc Q3 net up.</headline>
+<dateline>AURORA, Ill. 1996-10-16</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			$  0.66		    $0.65</p>
+<p> Net			  1,710		    1,677</p>
+<p> Avg shrs		   2,576		    2,571</p>
+<p>			9 MONTHS</p>
+<p> Shr			  $1.86		    $1.78</p>
+<p> Net			  4,799		    4,570</p>
+<p> Avg shrs		   2,575		    2,570</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>Assets $711.3 million vs $531.2 million</p>
+<p>Deposits $599.8 million vs $454.7 million</p>
+<p>Loans $417.9 million vs $294.6 million</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AURORA, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80860" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Biomet Inc sets initial annual dividend.</title>
+<headline>Biomet Inc sets initial annual dividend.</headline>
+<dateline>WARSAW, Ind. 1996-09-27</dateline>
+<text>
+<p>Biomet Inc said Friday its board of directors declared an annual cash dividend of $0.10 a share.</p>
+<p>The dividend is payable November 22 to shareholders of record at the close of business on October 25.  </p>
+<p>Biomet said the dividend is the first in the company's history.</p>
+<p>&quot;In declaring this dividend, the board of directors has adopted a policy of paying annual cash dividends, the amounts of which will be determined with reference to the company's earnings, capital requirements and other relevant factors,&quot; Dane Miller, president, said in a statement.</p>
+<p>Biomet designs, makes and markets products used by orthopedic medical specialists.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

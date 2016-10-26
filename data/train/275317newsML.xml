@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275317" id="root" date="1996-12-24" xml:lang="en">
+<title>FRANCE: French capital markets closing report.</title>
+<headline>French capital markets closing report.</headline>
+<dateline>PARIS 1996-12-24</dateline>
+<text>
+<p>French bond futures closed slightly higher after trading in a 16-basis point range, with few operators showing much interest as the London futures market and other major European bourses were closed in the afternoon.</p>
+<p>&quot;Less than 6,000 lots on the notionnel speaks for itself. Nothing is happening, and when I say 'nothing' that's saying too much,&quot; said a trader a large brokerage. Another said, &quot;It's idiotic to stay open this afternoon when the rest (of Europe) is closed and the banks are closed. All our clients have gone.&quot;</p>
+<p>The spread between 10-year German and French bonds remained steady at minus four basis points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

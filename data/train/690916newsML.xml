@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="690916" id="root" date="1997-06-26" xml:lang="en">
+<title>NEW ZEALAND: Peters sees no big cut likely in NZ 1998 surplus.</title>
+<headline>Peters sees no big cut likely in NZ 1998 surplus.</headline>
+<dateline>WELLINGTON 1997-06-26</dateline>
+<text>
+<p>Treasurer Winston Peters said he did not expect a similar large, last-minute reduction in the surplus next year as this year.</p>
+<p>Between the Budget Policy Statement in March and the Budget the surplus for 1997/98 was revised down from NZ$3.3 billion to $1.5 billion.</p>
+<p>Asked if he was confident a similar revision would not occur next year Peters said: &quot;I certainly don't believe so.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

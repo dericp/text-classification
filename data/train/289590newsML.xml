@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289590" id="root" date="1997-01-06" xml:lang="en">
+<title>UK: Eurofima sets C$100 million December 2002 bond.</title>
+<headline>Eurofima sets C$100 million December 2002 bond.</headline>
+<dateline>LONDON 1997-01-06</dateline>
+<text>
+<p>The following bond was announced by lead manager Toronto Dominion.</p>
+<p> BORROWER   EUROFIMA</p>
+<p> AMT    C$100 MLN     COUPON     6.00	MATURITY    30.DEC.02</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  101.80    PAY DATE  S 03.FEB.97</p>
+<p> FULL FEES  1.875     REOFFER    100.20    SPREAD	+25 BP</p>
+<p> NOTES	S-SHORT FIRST COUPON</p>
+<p> MOODY	AAA	 LISTING    LONDON    PAY FREQ    =</p>
+<p> S&amp;P	  AAA	 DENOMS (K) 1-10-100  SALE LIM US/UK/CA/SW</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   STANDARD</p>
+<p> MGT/UND    0.275     SELL CONC  1.60	PRAECIPUUM  =</p>
+<p> NOTES	ISSUED OFF N EMTN PROGRMME.</p>
+<p>		UNSECURED, SENIOR</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

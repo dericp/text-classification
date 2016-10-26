@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271335" id="root" date="1996-12-20" xml:lang="en">
+<title>TAIWAN: Taiwan Nov industrial output up 3.22 pct yr/yr.</title>
+<headline>Taiwan Nov industrial output up 3.22 pct yr/yr.</headline>
+<dateline>TAIPEI 1996-12-20</dateline>
+<text>
+<p>Taiwan's industrial output in November rose 3.22 percent compared to November 1995, the economics ministry said on Friday.</p>
+<p>					 November	October</p>
+<p> Industrial output (pct yr/yr)    +3.22	  +5.07</p>
+<p>In month-on-month terms, November industrial output was down 0.27 percent from October, the ministry said.</p>
+<p>The manufacturing index, including metals, machinery, information electronics, chemical and consumer products, rose 4.32 percent in November from the same month a year ago.</p>
+<p>Real estate and construction industry output fell 27.13 percent from a year earlier. Mining industry output was down 6.65 percent compared with a year ago.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

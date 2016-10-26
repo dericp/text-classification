@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647146" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Simpson sets definitive agreement.</title>
+<headline>Simpson sets definitive agreement.</headline>
+<dateline>PLYMOUTH, Mich. 1997-06-09</dateline>
+<text>
+<p>Simpson Industries Inc said Monday it signed a definitive agreement with Cummins Engine Co for the previously announced purchase of the vibration attenuation business of Cummins' Holset Engineering Co unit.</p>
+<p>As part of the transaction, Simpson will form supply and technology agreements with Cummins. It plans to continue operations at the Holset units at all locations. The transaction is expected to close in the second quarter.</p>
+<p>Terms were not disclosed. The Holset unit had 1996 revenues of $67 million. It supplies rubber dampers for light and medium-duty engines and viscous dampers for heavy-duty diesel engine customers.</p>
+<p>Manufacturing operations are located in England, France, Spain, Mexico, Brazil and South Korea, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLYMOUTH, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

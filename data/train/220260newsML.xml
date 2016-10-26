@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220260" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Reuters municipal bond index down 0.02 to 4.79 percent.</title>
+<headline>Reuters municipal bond index down 0.02 to 4.79 percent.</headline>
+<dateline>NEW YORK 1996-11-27</dateline>
+<text>
+<p>Reuters said Wednesday its 10-year tax-exempt general obligation bond index fell two basis points from last week to 4.79 percent from 4.81 percent.</p>
+<p>Because the Thanksgiving holiday falls on Thursday, Nov. 28, the index was calculated Wednesday.</p>
+<p>Normally calculated each Thursday, the index represents the non-weighted average yield on 15 state and local municipal bonds of 10-year maturity and ratings ranging from A-minus to AAA.</p>
+<p>The issues are from Maryland; North Carolina; Texas Permanent School Fund; Columbus, Ohio; Fairfax County, Va.; Connecticut; Florida Board of Education; Wisconsin; Atlanta, Georgia; Shelby County, Tenn.; California; New York State; Pennsylvania; Dade County, Fla. and Tucson, Ariz.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

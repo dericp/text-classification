@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89980" id="root" date="1996-10-01" xml:lang="en">
+<title>GERMANY: BMW calls news conference for Paris show.</title>
+<headline>BMW calls news conference for Paris show.</headline>
+<dateline>FRANKFURT 1996-10-01</dateline>
+<text>
+<p>German carmaker BMW AG said on Tuesday that it would hold a news conference at the Paris car show at 1300 local time (1100 GMT).</p>
+<p>A company spokesman said BMW management board member Bernd Pischetsrieder would attend the briefing.</p>
+<p>BMW did not disclose the topic of the news conference, which was to replace a background briefing luncheon for journalists attending the car show.</p>
+<p>Germany's Boersen Zeitung said in an article on Tuesday that the news conference would be about a &quot;key strategic decision&quot;.</p>
+<p>-- Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

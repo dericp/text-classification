@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69063" id="root" date="1996-09-22" xml:lang="en">
+<title>CHILE: TENNIS-CHILE BEAT PERU 5-0 IN DAVIS CUP:.</title>
+<headline>TENNIS-CHILE BEAT PERU 5-0 IN DAVIS CUP:.</headline>
+<dateline>SANTIAGO 1996-09-22</dateline>
+<text>
+<p>Chile completed a 5-0 victory over Peru in their Davis Cup American zone group one play-off tie when they won both reverse singles on Sunday.</p>
+<p>Sunday's results (Chile names first):</p>
+<p>Marcelo Rios beat Alejandro Aramburu 6-2 6-3 Gabriel Silberstein beat Americo Venero 7-6 6-7 6-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

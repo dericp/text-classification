@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="440904" id="root" date="1997-03-13" xml:lang="en">
+<title>SWEDEN: Swedish government says no plan yet to sell Telia.</title>
+<headline>Swedish government says no plan yet to sell Telia.</headline>
+<dateline>STOCKHOLM 1997-03-13</dateline>
+<text>
+<p>The Swedish government said on Thursday that it had not yet decided whether or not to privatise Sweden's national telephone operator Telia.</p>
+<p>&quot;Telia has no immediate need for a capital injection and I don't see any reason to have a timetable for a possible privatisation,&quot; Transport &amp; Communications Minister Ines Uusmann told a news conference.</p>
+<p>But business daily Dagens Industri said on February 19 that the company needed a capital injection of 5-10 billion crowns to realise its plans to expand abroad and to compensate for price falls due to stronger competition and new technology.</p>
+<p>In December 1996, Uusmann dismissed the idea of listing Telia, but lately she has said Telia should have the same conditions as other European telephone operators active in the same markets.</p>
+<p>Many of those operators are listed or about to become listed.</p>
+<p>-- Peter Fellman, Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270806" id="root" date="1996-12-20" xml:lang="en">
+<title>SWEDEN: Ericsson wins 240 mln SKR order in Turkey.</title>
+<headline>Ericsson wins 240 mln SKR order in Turkey.</headline>
+<dateline>STOCKHOLM 1996-12-20</dateline>
+<text>
+<p>Swedish telecoms group LM Ericsson AB said on Friday it won a 240 million crown order to expand Turkey's mobile telephone operator Turkcell's domestic GSM network.</p>
+<p>The equipment, consisting of new switches and radio base stations, will be installed during the spring of 1997, Ericsson said in a statement.</p>
+<p>Turkcell is the leading GSM operator in Turkey and its network is one of the fastest growing in Europe, Ericsson said.</p>
+<p>It has about 550,000 subscribers, Ericsson said.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

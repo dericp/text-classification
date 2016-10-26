@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="599385" id="root" date="1997-05-20" xml:lang="en">
+<title>UK: Impress Metal Packaging sets 200 million mark bond.</title>
+<headline>Impress Metal Packaging sets 200 million mark bond.</headline>
+<dateline>LONDON 1997-05-20</dateline>
+<text>
+<p>The following bond was announced by lead manager Salomon Brothers International.</p>
+<p> BORROWER   IMPRESS METAL PACKAGING HOLDINGS BV</p>
+<p> AMT    200 MLN DEM   COUPON    *9.875     MATURITY  **29.MAY.07</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE    28.MAY.97</p>
+<p> FULL FEES  3.00	LISTING    LUX	 PAY FREQ    =</p>
+<p> NOTES     *FINAL PRICING DUE LATER.</p>
+<p>	    **CALLABLE AT PAR AFTER FIVE YEARS.</p>
+<p> MOODY/S&amp;P  B2/B	DENOMS (K) 1	   SALE LIMITS US/GB/DE</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 GOV LAW     NEW YORK</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I8150203">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="778821" id="root" date="1997-08-05" xml:lang="en">
+<title>CHINA: Moody's rates Asian collateralized FRN issue.</title>
+<headline>Moody's rates Asian collateralized FRN issue.</headline>
+<dateline>HONG KONG 1997-08-05</dateline>
+<text>
+<p>Moody's Investors Service said on Tuesday that it has assigned a long-term credit rating of A2 to the senior secured floating rate notes due 2011 issued by Income Partners Asian Collateralized Assets 1 Ltd.  </p>
+<p>Moody's has not assigned a rating to the subordinated secured notes of the same issuer.</p>
+<p>The transaction is a collateralized bond obligation backed by a portfolio of Asian and U.S bonds, mostly corporate and denominated in U.S. dollars. Some local currency bonds are present as well</p>
+<p>Principal payments on the local currency bonds are partially hedged by means of put options. The structure includes interest rate hedges provided by Bear Stearns Capital Markets and guaranteed by the Bear Stearns Companies (rated A2) as well.</p>
+<p>Income Partners Asian Collateralized Assets 1 Ltd is a special purpose company incorporated in the Caymen Islands.</p>
+<p>-- Hong Kong Newsroom 852-2843-6371</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309634" id="root" date="1997-01-15" xml:lang="en">
+<title>UK: UK plans tighter rules for tour operators.</title>
+<headline>UK plans tighter rules for tour operators.</headline>
+<dateline>LONDON 1997-01-15</dateline>
+<text>
+<p>Britain's Civil Aviation Authority on Wednesday launched a package of measures intended to tighten regulation of licensed sellers of flights and holiday packages after a series of company failures during 1996.</p>
+<p>The main aim of the regulation package is to better prevent companies selling more flights than they are licensed to sell (called overtrading), which the CAA said has become a problem among holders of the Air Travel Organisers Licence (ATOL).</p>
+<p>The CAA will require personal indemnities from ATOL company directors, limits on the number of seat sales to be set into licences, and reporting by firms of bookings and seat sales. &quot;In addition to the package of stricter controls, the CAA (will) explore with government whether a new back-up fund might be set up to stand behind both ATOL and non-licensable bonds,&quot; the authority said in a statement.</p>
+<p>In order to get an ATOL licence, a tour operator must lodge a bond in the form of a financial guarantee from a bank or insurance company, so if it fails the CAA can use the money to pay for travellers delayed, stranded or denied their holiday.</p>
+<p>During the last financial year, the CAA refunded 21,000 people, who would otherwise have lost their money and enabled 14,000 to complete their holidays after operators failed.</p>
+<p>The CAA said a significant part of the problem seemed to stem from the way large flight operators dealt with small firms.</p>
+<p>In future, seat suppliers will be prohibited from selling an ATOL vendor more than the total authorised by its licence.</p>
+<p>&quot;The larger operators who supply the smaller ones with seats will need to take a hard look at the way they trade with other ATOL holders -- it's not enough just to pursue sales targets without thinking about legal responsibility and customer protection, and the new restrictions will mean that they cannot get away with doing so,&quot; CAA licensing head Helen Simpson said.</p>
+<p>The measures are due to go into effect from April 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="I77001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

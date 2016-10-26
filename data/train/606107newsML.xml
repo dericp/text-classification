@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="606107" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Dataram Q4 shr $0.27 vs $0.12.</title>
+<headline>Dataram Q4 shr $0.27 vs $0.12.</headline>
+<dateline>PRINCETON, N.J. 1997-05-22</dateline>
+<text>
+<p>DATARAM CORPORATION AND SUBSIDIARY</p>
+<p>			  Consolidated Summary Information</p>
+<p>		    (In thousands except per share amounts)</p>
+<p>				   Quarter Ended  Twelve Months Ended</p>
+<p>					 April 30	   April 30</p>
+<p>				1997	  1996	1997	 1996</p>
+<p> Revenues		$16,849     $22,026   $68,980   $107,627</p>
+<p> Net Earnings		878	   448     3,769	1,450</p>
+<p>Net Earnings Per Share</p>
+<p> Primary		     .27	   .12	1.10	  .38</p>
+<p> Fully Diluted	     .27	   .12	1.09	  .38</p>
+<p>Average Shares outstanding</p>
+<p> Primary		   3,299	 3,828     3,432	3,835</p>
+<p> Fully Diluted	   3,299	 3,841     3,464	3,835</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

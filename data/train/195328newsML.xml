@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195328" id="root" date="1996-11-17" xml:lang="en">
+<title>THAILAND: TV exit poll shows two Thai parties in dead heat.</title>
+<headline>TV exit poll shows two Thai parties in dead heat.</headline>
+<dateline>BANGKOK 1996-11-17</dateline>
+<text>
+<p>A television exit poll broadcast after voting in Thailand's elections closed on Sunday at 0800 GMT showed the Democrat Party and the New Aspiration Party (NAP) in a dead heat with 124 seats each.</p>
+<p>Channel 9 television reported that the Chart Pattana party would win 52 while the incumbent Chart Thai party would secure 35 seats in the 393-seat lower house of parliament.  </p>
+<p>The exit poll also showed the Social Action Party taking 19 seats and five other smaller parties winning the rest.</p>
+<p>Analysts cautioned that the exit poll was probably conducted on a small sample of voters and might not be very accurate. Some unofficial results were expect to start trickling in soon after.</p>
+<p>Opinion polls were divided on the outcome of the election before voting closed. They had shown the Democrats, led by former premier Chuan Leekpai, and the NAP headed by Defence Minister Chavalit Yongchaiyudh running neck and neck in what analysts said was set to be the closest race ever.</p>
+<p>No previous Thai election has resulted in a tie between the two top parties.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

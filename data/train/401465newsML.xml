@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="401465" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: FBI calls off truck hunt after false alarm.</title>
+<headline>FBI calls off truck hunt after false alarm.</headline>
+<dateline>DALLAS, Texas 1997-02-25</dateline>
+<text>
+<p>A nationwide police hunt for a rental truck feared to be carrying bomb-making material was called off on Tuesday after FBI agents found the vehicle in Atlanta and said the alert had been a false alarm.</p>
+<p>Two men using the truck were interviewed by Federal Bureau of Investigation agents and released after proving they had legitimate business, officials said.</p>
+<p>&quot;The FBI and ATF (Bureau of Alcohol, Tobacco and Firearms) now believe, based upon their interviews and a search of the U-Haul truck, that there is no substance to the fears that two men driving the U-Haul truck were accumulating materials to build a bomb,&quot; the FBI said in a a statement.</p>
+<p>The nationwide search began on Saturday after a man in Haltom City, Texas, reported seeing three white men fill up large containers with 30 gallons (113 litres) of diesel fuel and load them onto a U-Haul truck already packed with up to 4,500 pounds (2,041 kg) of ammonium nitrate fertiliser.</p>
+<p>Those same ingredients were used in the bomb which wrecked the Alfred P. Murrah federal building in Oklahoma City on April 19, 1995, killing 168 people.</p>
+<p>But FBI officials said the men in the U-Haul truck ran a cleaning business and had loaded it with cleaning supplies, not fertiliser.</p>
+<p>&quot;It did look bad at first but it all makes sense when you look at who they were and what they were doing,&quot; spokeswoman Marjorie Poche said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

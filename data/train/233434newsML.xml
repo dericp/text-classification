@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233434" id="root" date="1996-12-04" xml:lang="en">
+<title>AUSTRIA: SOCCER-RAPID VIENNA V MANCHESTER UNITED TEAMS.</title>
+<headline>SOCCER-RAPID VIENNA V MANCHESTER UNITED TEAMS.</headline>
+<dateline>VIENNA 1996-12-04</dateline>
+<text>
+<p>Teams for Wednesday's European Cup</p>
+<p>Champions' League, group C match between Rapid Vienna and</p>
+<p>Manchester United:</p>
+<p>Rapid Vienna - 1-Michael Konsel, 4-Trifon Ivanov, 5-Peter</p>
+<p>Schoettel,</p>
+<p>6-Peter Stoeger, 7-Christian Stumpf, 10-Didi Kuehbauer,</p>
+<p>11-Christian Prosenik, 16-Krzysztof Ratajczyk, 17-Rene Wagner,</p>
+<p>19-Thomas Zingler,</p>
+<p>20-Andreas Heraf.</p>
+<p>Manchester United - 1-Peter Schmeichel, 2-Gary Neville,</p>
+<p>3-Denis Irwin, 4-David May, 6-Gary Pallister, 7-Eric Cantona,</p>
+<p>8-Nicky Butt, 10-David Beckham, 11-Ryan Giggs, 16-Roy Keane,</p>
+<p>20-Ole Solskjaer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

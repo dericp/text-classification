@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166321" id="root" date="1996-11-05" xml:lang="en">
+<title>ARGENTINA: Argentine cash January wheat struggles up.</title>
+<headline>Argentine cash January wheat struggles up.</headline>
+<dateline>BUENOS AIRES 1996-11-05</dateline>
+<text>
+<p>Argentine cash new crop wheat staggered upwards in moderate volume trade at the Buenos Aires Cereals Exchange, with less supply after several days of falling prices, traders said.</p>
+<p>Cash new crop maize firmed on worries about dry weather harming sowing, in thin volume. Spot cash maize slipped in hearty trade, with plenty of supply. Cash May soybeans firmed in moderate volume, helped by a firmer Chicago. Spot prices rose in thin turnover. Cash new crop sunflower seed was steady in tight trade, with an underlying firmness provided by the proximity of a number of international oil tenders.</p>
+<p>-- Jason Webb, Buenos Aires Newsroom, +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

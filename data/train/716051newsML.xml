@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716051" id="root" date="1997-07-09" xml:lang="en">
+<title>CZECH REPUBLIC: Czech CSOB lowers prime rate 25 bps to 16.25 pct.</title>
+<headline>Czech CSOB lowers prime rate 25 bps to 16.25 pct.</headline>
+<dateline>PRAGUE 1997-07-09</dateline>
+<text>
+<p>Prague-based Ceskoslovenska Obchodni Banka a.s. said on Wednesday that it was lowering its prime lending rate 25 basis points to 16.25 percent.</p>
+<p>In a statement the bank said that its base rates would be lowered 50 basis points, meaning credit with maturity up to one year will have a rate of 16.5 percent, with longer maturities at 16.00 percent.</p>
+<p>Czech banks have been gradually lowering their rates in recent weeks reflecting the trends on the interbank market.</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

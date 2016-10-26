@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="590081" id="root" date="1997-05-16" xml:lang="en">
+<title>HONG KONG: Yanion Int'l 1996 net down 63 percent.</title>
+<headline>Yanion Int'l 1996 net down 63 percent.</headline>
+<dateline>HONG KONG 1997-05-16</dateline>
+<text>
+<p>Year ended December 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   8.2	 vs 22.0</p>
+<p>    Dividend (H.K. cents)    2.0	 vs 2.0</p>
+<p>    Exceptional items	  7.85 loss vs 4.54 loss</p>
+<p>    Net			    7.95	vs 21.33</p>
+<p>    Turnover		     390.67    vs 498.09</p>
+<p>    Company name		 Yanion International Holdings Ltd</p>
+<p>    Books close		  June 23-26</p>
+<p>    Dividend payable	   July 18</p>
+<p>NOTE - Yanion International makes cassette drives, metal and plastic components and metal moulds.</p>
+<p>Net is after an exceptional loss on provision for doubtful debts.</p>
+<p>Total dividend for year is two H.K. cents vs same.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

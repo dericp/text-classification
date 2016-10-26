@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48943" id="root" date="1996-09-12" xml:lang="en">
+<title>UGANDA: Uganda's T-bill discount rate stable.</title>
+<headline>Uganda's T-bill discount rate stable.</headline>
+<dateline>KAMPALA 1996-09-12</dateline>
+<text>
+<p>Uganda's central bank said on Thursday the discount rate on its main group of treasury bills remained unchanged in last week's trading on the previous rate.</p>
+<p>Bank of Uganda said the discount rate on the 91-day treasury bills remained at 11.32 percent, for the third time in a row.</p>
+<p>It auctions the 91-day bills daily to mostly commercial banks, insurance firms and the national social security fund.</p>
+<p>The bank said the average weighted prices for the bills was also unchanged over the previous week, at 97.18.</p>
+<p>It said some three billion shillings had been put up for sale at the auction, and all of it was bought off. The same amount would be auctioned this week, it added.</p>
+<p>Uganda's central bank also auctions 182-day, 273- and 364- day bills, monthly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UGANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KAMPALA"/>
+<dc element="dc.creator.location.country.name" value="UGANDA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

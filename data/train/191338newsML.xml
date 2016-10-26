@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191338" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Stevens Intl Q3 shr net loss.</title>
+<headline>Stevens Intl Q3 shr net loss.</headline>
+<dateline>FORT WORTH, Texas 1996-11-15</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	loss   $0.43	  profit  $0.19</p>
+<p> Net	loss   4,067	  profit  1,781</p>
+<p> Sales	     12,770		   33,962</p>
+<p> Avg shrs	  9,451		    9,583</p>
+<p>	   9 MONTHS</p>
+<p> Shr	loss   $0.94	  profit  $0.50</p>
+<p> Net	loss   8,893	  profit  4,781</p>
+<p> Sales	     54,115		   104,478</p>
+<p> Avg shrs	  9,451		    9,854</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Full company name is Stevens International</p>
+<p>NOTE: The company said it continued to experience a decrease in sales mostly in packaging systems and specialty web products division and high product development costs in the third quarter. But Stevens said it believed it was making significant progress towards resolving these issues.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="450302" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: US cash crudes rise sharply, sweet grades advance.</title>
+<headline>US cash crudes rise sharply, sweet grades advance.</headline>
+<dateline>NEW YORK 1997-03-18</dateline>
+<text>
+<p>U.S. cash crudes have risen sharply on an outright basis in-line with futures market rallying, while cash grades also racheted higher.</p>
+<p>April West Texas Intermediate/Cushing was tracking around $1.25 higher at $22.15-25 per barrel, mainly on technical buying and the closing of a portion of the Mississippi River due to a barge accident.</p>
+<p>Traders said the fear refined crude products shipments may be delayed by the river closing set off a buying spree on the NYMEX market.</p>
+<p>Grades were pushed to the sidelines, but deals were noted.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

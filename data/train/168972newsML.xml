@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168972" id="root" date="1996-11-06" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICA PORT SEES RECORD CONTAINER INFLOW IN OCT.</title>
+<headline>S.AFRICA PORT SEES RECORD CONTAINER INFLOW IN OCT.</headline>
+<dateline>DURBAN, South Africa 1996-11-06</dateline>
+<text>
+<p>South Africa's Indian Ocean Durban port handled a record 75,141 cargo containers last month -- the highest ever since the terminal was set up 19 years ago, port authority Portnet said on Wednesday.</p>
+<p>&quot;We have just broken a record at our container terminal,&quot; Portnet spokeswoman Yvonne de Kock told Reuters.</p>
+<p>&quot;It's the first time that we have handled this number of containers since the terminal began operating in 1977,&quot; she said.</p>
+<p>Portnet attributed the container influx to the pre-Christmas import boom.</p>
+<p>Some 68,142 containers were handled at the port in October last year, she said.</p>
+<p>-- Ellis Mnyandu, Durban Newsroom, +27 31 306 8646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURBAN, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592460" id="root" date="1997-05-16" xml:lang="en">
+<title>JAPAN: Main points of changes to Japan forex law.</title>
+<headline>Main points of changes to Japan forex law.</headline>
+<dateline>TOKYO 1997-05-16</dateline>
+<text>
+<p>Parliament formally approved changes to Japan's Foreign Exchange and Foreign Trade Control Law on Friday.</p>
+<p>The aim is to revitalise Tokyo markets by scrapping a rule limiting foreign exchange business to authorised banks and enabling freer cross-border capital transactions.</p>
+<p>The following are the main points of the revisions:</p>
+<p>-- scrapping requirement for permission and prior notification for cross-border transactions.</p>
+<p>-- establishing a retroactive reporting system and continued provision of information to the market in order to comply with international agreements such as those connected to economic sanctions.</p>
+<p>-- enabling all market participants to conduct foreign exchange business, such as sale and purchase of foreign currencies, currency futures contracts, currency swaps and options.</p>
+<p>-- Allowing firms and individuals to hold deposit accounts overseas and make settlements through multi-netting schemes without permission or prior notification.</p>
+<p>-- Abolishing the so-called designated securities firm system and money exchange system.</p>
+<p>-- Abolishing limits on the foreign currency positions of banks and other institutions at ordinary times, given the introduction of such things as market risk regulations by the Basle Committee on Banking Supervision.</p>
+<p>-- Reviewing all reports, including existing ones, in order to ascertain their necessity and merits, and drastically reducing reporting requirements.</p>
+<p>-- Legally requiring necessary reports to maintain the effectiveness of the retroactive reporting system, as is the norm in Western industrial countries. Violations should continue to be punished.</p>
+<p>-- Abolishing the prior notification system and replacing it with a retroactive reporting system in foreign direct investment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28146" id="root" date="1996-09-02" xml:lang="en">
+<title>CHINA: China province opens high-altitude gas pipeline.</title>
+<headline>China province opens high-altitude gas pipeline.</headline>
+<dateline>BEIJING 1996-09-01</dateline>
+<text>
+<p>China's western Qinghai province has opened a 189-km gas pipeline that will boost exploitation of one of China's biggest natural gas fields, the Xinhua news agency said.</p>
+<p>The pipeline linked the province's Golmud city with the Qinghai oilfield, which was an average 3,000 metres above sea level, making the pipeline the world's highest, the official agency said late on Saturday.</p>
+<p>The pipeline, which had an annual gas capacity of 800 million cubic metres and cost 250 million yuan, marked the official start of exploitation of natural gas resources in Qinghai's Qaidam basin, it said.</p>
+<p>With proven gas reserves of around 50 billion cubic metres the Qinghai field was expected to become one of China's biggest gas producers, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

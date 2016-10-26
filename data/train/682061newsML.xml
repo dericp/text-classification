@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="682061" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Travis Inds in $300,000 prvt placement.</title>
+<headline>Travis Inds in $300,000 prvt placement.</headline>
+<dateline>GOLDEN, Colo. 1997-06-24</dateline>
+<text>
+<p>Travis Industries Inc said Tuesday it reached an informal agreement for a private placement for up to $300,000 of its common stock.</p>
+<p>Travis intends to use the proceeds to repay debts and for working capital, a statement said.</p>
+<p>Chief executive Steve Cayou said the private placement is necessary to improve the company's liquidity and financial condition. He added Travis would pursue its plan to complete a merger or acquisition by the end of summer.</p>
+<p>Travis stock closed at $0.035 Tuesday, down $0.005.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLDEN, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

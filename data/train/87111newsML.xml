@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87111" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: INTERVIEW - Con Ed seeks 10-yr depreciation.</title>
+<headline>INTERVIEW - Con Ed seeks 10-yr depreciation.</headline>
+<byline>Jim Brumm</byline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>Consolidated Edison Co of New York Inc has proposed depreciating its fossil-fueled power plants over 10 years, Vice President for Corporate Planning Kevin Burke told Reuters.</p>
+<p>The utility's proposal for a competitive electric utility industry, filed Tuesday with state regulators, provides for accelerated depreciation of investments that might become stranded costs in a non-regulated environment.</p>
+<p>Depreciation of natural gas, oil and coal fueled plants now averages over 30 years, Burke said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

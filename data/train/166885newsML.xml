@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166885" id="root" date="1996-11-05" xml:lang="en">
+<title>FRANCE: French bishops elect Bille as new chairman.</title>
+<headline>French bishops elect Bille as new chairman.</headline>
+<dateline>PARIS 1996-11-05</dateline>
+<text>
+<p>A French Roman Catholic bishops' conference on Tuesday elected Archbishop Louis-Marie Bille of the southern cities of Aix-en-Provence and Arles as its chairman.</p>
+<p>Bille, 58, succeeds Rouen bishop Joseph Duval, the bishop of the northern city of Rouen, in the three-year post.</p>
+<p>Jacques David, 65, a specialist in social affairs who succeeded dissident Jacques Gaillot as the bishop of the Normandy town of Evreux, was elected vice-chairman.</p>
+<p>Duval's main recent tasks in a double tenure lasting six years were to to prepare Pope John Paul's visit to Tours, Brittany and Reims in September, and to manage unease among French clerics and faithful over the disgrace of Gaillot.</p>
+<p>Gaillot was sacked from his post in January 1995 after upsetting the Vatican with liberal views that included urging the use of condoms to protect against AIDS, allowing priests to marry and greater tolerance of homosexuality.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

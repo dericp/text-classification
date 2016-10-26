@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="503028" id="root" date="1997-04-11" xml:lang="en">
+<title>USA: Chicago aldermen seek to ban funding ties to Swiss.</title>
+<headline>Chicago aldermen seek to ban funding ties to Swiss.</headline>
+<byline>David Bailey</byline>
+<dateline>CHICAGO 1997-04-11</dateline>
+<text>
+<p>Two Chicago aldermen have proposed an ordinance requiring banks that handle city funds to divest holdings in Switzerland and Swiss businesses, citing accusations that the country may have profited from the Holocaust.</p>
+<p>Aldermen Burton Natarus and Bernard Stone introduced the proposed ordinance on Thursday to the Chicago City Council finance committee.</p>
+<p>No hearing date has been set for the ordinance at this time, committee spokesman Donal Quinlan said Friday.</p>
+<p>The ordinance would require that no city funds be invested, or remain invested, in stock, bonds, securities or other obligations an any financial institution that has outstanding loans to Switzerland, Swiss businesses or any business or corporation doing business with Swiss companies.</p>
+<p>The proposal reportedly closely resembles an ordinance adopted several years ago regarding South Africa.</p>
+<p>The ordinance would require banks to certify whether they have outstanding prohibited loans. If they do, then they would be required to certify that they will not make future loans until the claims of Holocaust victims have been addressed.</p>
+<p>The banks would also be requireed to pursue a program for liquidating their holdings within one year, the proposal stated.</p>
+<p>The ordinance would not apply if the city comptroller determined that no eligible bank could perform the necessary function or if Chicago would incur significant financial losses.</p>
+<p>Fines for violating the ordinance would run from $500 to $1,000 for each offense. Neither Natarus nor Stone could be reached immediately for comment.</p>
+<p>((--David Bailey, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

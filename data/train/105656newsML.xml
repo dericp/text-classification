@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105656" id="root" date="1996-10-09" xml:lang="en">
+<title>MALTA: Trading slows at Malta exchange.</title>
+<headline>Trading slows at Malta exchange.</headline>
+<dateline>VALLETTA 1996-10-09</dateline>
+<text>
+<p>Trade slowed at the Malta stock exchange on Wednesday, dropping to a turnover of Lm202,200 ($588,000) from Lm345,500 ($953,580) the week before.</p>
+<p>The share index dropped by almost a point to 1008.74.</p>
+<p>Business in equities amounted to just over Lm41,900 with 37,600 shares changing hands. Of these, 15,566 were Bank of Valletta shares which were sold in 16 deals for an average of 129 cents, down five mils.</p>
+<p>There were seven deals in Mid-Med Bank, with 9,080 shares selling for an average 152 cents, unchanged. Lombard Bank Malta shares gained seven mils, with 1,254 shares selling in two deals for an average 144.4 cents.</p>
+<p>A total of 11,700 Simonds Farsons Cisk Ltd shares sold for an average of 53 cents per share, down eight mils.</p>
+<p>In the government bond market, 11 issues were dealt in, turnover reaching Lm160,300. Business was mainly in the 7.25 percent MGS 2006 (III) and the 6.75 percent MGS 2001 (II).</p>
+<p>(one Maltese lira=$2.76)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

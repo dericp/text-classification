@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="164320" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: RESEARCH ALERT - Morgan Stanley cuts paper stocks.</title>
+<headline>RESEARCH ALERT - Morgan Stanley cuts paper stocks.</headline>
+<text>
+<p>-- Morgan Stanley said it lowered its rating on paper stocks, cutting:</p>
+<p>-- Asia Pulp &amp; Paper Co Ltd to outperform from strong buy;</p>
+<p>-- Aracruz Celulose SA to neutral from outperform;</p>
+<p>-- Weyerhaeuser Co to neutral from outperform;</p>
+<p>-- Boise Cascade Corp to neutral from outperform;</p>
+<p>-- Champion International Corp to neutral from outperform;</p>
+<p>-- Georgia-Pacific Corp to neutral from outperform.  </p>
+<p>-- The analyst was not immediately available for comment.  </p>
+<p>-- Analyst Mathew Berler said in his research note that pulp and uncoated freesheet prices were rolling over.</p>
+<p>&quot;With inventories of both products high at the producer level, demand likely to slow moving into the seasonally slow period and most producers still running full out, we are now forced to anticipate a final meltdown in prices in coming months,&quot; Berler said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I47000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145404" id="root" date="1996-10-25" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq - Oct 25.</title>
+<headline>PRESS DIGEST - Iraq - Oct 25.</headline>
+<dateline>BAGHDAD 1996-10-25</dateline>
+<text>
+<p>These are some of the leading stories in the official Iraqi press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>IRAQ</p>
+<p>- Russia appreciates Iraq's call for Kurdish factions to come to Baghdad for peace talks.</p>
+<p>- Arab health ministers urge the U.N. to allow Iraq to transport the sick by planes. (Iraq is under an air embargo since its 1990 invasion of Kuwait).</p>
+<p>- A group of Egyptian businessmen arrive in Baghdad to hold trade fair from Saturday.</p>
+<p>- Education minister discusses with French charge d'affaires in Baghdad means of enhancing cooperation.</p>
+<p>(The above stories were also carried by THAWRA)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

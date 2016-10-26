@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173086" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: New Mexico debt-reform measures pass - officials.</title>
+<headline>New Mexico debt-reform measures pass - officials.</headline>
+<dateline>SANTA FE, N.M. 1996-11-07</dateline>
+<text>
+<p>Two debt-reform initiatives on the ballot in New Mexico were narrowly approved by voters, state election officials said Thursday.</p>
+<p>With 100 percent of precincts reporting, officials said 51 percent of voters had approved Amendment Two. The measure will provide a limited exception to the constitutional requirement that voters in a school district must approve the creation of any general obligation debt of the district.  </p>
+<p>Amendment Seven passed by a narrow margin, state election officials said. Amendment Seven authorizes counties to borrow money to acquire real estate for open space and open-space related uses and to purchase capital equipment for road and bridge construction and repair.</p>
+<p>In addition, voters approved Amendment Four, which revises the constitutional amendment process. The amendment garnered 64 percent support with 100 percent of precincts reporting.</p>
+<p>Voters also approved Amendment One, which will allow the state to diversify its investments. The results were delayed due to tabulation glitches, state officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA FE, N.M."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

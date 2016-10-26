@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473387" id="root" date="1997-03-27" xml:lang="en">
+<title>SPAIN: Spain's air cargo traffic rose 28.6 percent in Feb.</title>
+<headline>Spain's air cargo traffic rose 28.6 percent in Feb.</headline>
+<dateline>MADRID 1997-03-27</dateline>
+<text>
+<p>Air cargo traffic at the 39 airports managed by AENA (Spanish Airports and Air Navegation), in February rose 28.6 percent compared to year ago figures to 50,985 tonnes, AENA said.</p>
+<p>Strong growth in traffic at Palma de Mallorca, Barcelona and Gran Canaria boosted the total.</p>
+<p>Cargo business at Gran Canaria rose 30 percent while Palma handled 23.6 percent more traffic and Barcelona's total was up 27.3 percent.</p>
+<p>Madrid saw a rise of 13 percent to 22,014 tonnes, fueled by strong domestic cargo business during the month. The capital's airport has handled 41,741 tonnes of cargo in the first two months of the year, 10.7 percent more than the same period in 1996.</p>
+<p>Passenger numbers at all the AENA airports climbed 7.3 percent last month to 6.94 million. - Reuters Air Cargo Newsroom Tel +44 171 542 7706 Fax +5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168721" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Texas power prices hold steady with strong natgas.</title>
+<headline>Texas power prices hold steady with strong natgas.</headline>
+<dateline>NEW YORK 1996-11-06</dateline>
+<text>
+<p>Wholesale power prices in the Electric Reliability Council of Texas (ERCOT) held steady Wednesday at relatively strong prices, in line with robust natural gas spot values, brokers and marketers said.</p>
+<p>Peak, firm power for Thursday delivery held steady at a bid/ask range of $25.00-26.50, the sources said.</p>
+<p>Off peak ERCOT power for Thursday delivery was pegged steady at $13.00-15.00, the sources said.</p>
+<p>December peak power was also talked steady at $24.25-24.75, while January/February ERCOT power was said to be holding in the 24.50-25.50 range, the sources said.</p>
+<p>Temperatures in Texas were forecast to be above normal from Nov 10 to 14.</p>
+<p>--Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

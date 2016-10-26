@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42318" id="root" date="1996-09-09" xml:lang="en">
+<title>TAIWAN: Taiwan Semiconductor August sales surge.</title>
+<headline>Taiwan Semiconductor August sales surge.</headline>
+<dateline>TAIPEI 1996-09-09</dateline>
+<text>
+<p>Taiwan Semiconductor Manufacturing Co, Taiwan's largest semiconductor maker, said on Monday its August sales jumped 33.5 percent to T$3.244 billion from T$2.430 billion a year earlier.</p>
+<p>Its sales in the first eight months surged 62.3 percent to T$28.035 billion from T$17.278 billion a year earlier, it said in a statement.</p>
+<p>It did not give profit figures.</p>
+<p>Taiwan Semiconductor has set a 1996 net profit target of T$22.07 billion on sales of T$41.97 billion.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

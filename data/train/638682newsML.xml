@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638682" id="root" date="1997-06-04" xml:lang="en">
+<title>INDONESIA: Indonesia posts $243.3 mln trade surplus in March.</title>
+<headline>Indonesia posts $243.3 mln trade surplus in March.</headline>
+<dateline>JAKARTA 1997-06-04</dateline>
+<text>
+<p>Indonesia posted a trade surplus of $243.3 million in March against $964.3 million in February, a government official said on Wednesday.  </p>
+<p>				 March     February    March 96</p>
+<p>    Trade balance	  +243.3     +964.3	+477.5</p>
+<p>    Exports		 4,064.5    4,057.7     3,950.7</p>
+<p>    Imports		 3,821.2    3,093.4     3,473.2</p>
+<p>    Oil/gas exports	 960.9    1,040	   986.0</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

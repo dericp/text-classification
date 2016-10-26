@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="515433" id="root" date="1997-04-16" xml:lang="en">
+<title>PHILIPPINES: Philippines raises three-month special T-bill rate.</title>
+<headline>Philippines raises three-month special T-bill rate.</headline>
+<dateline>MANILA 1997-04-16</dateline>
+<text>
+<p>The Philippine Central Bank said on Wednesday it had raised its three-month special series Treasury bill rate to 9.75 percent from 9.5 percent.</p>
+<p>The adjustment came two days after the benchmark 91-day T-bill rate inched up to 10.107 percent from 9.583 percent during its weekly auction.</p>
+<p>The Central bank also said it had withdrawn its 330-day special series T-bills, which carried a 10.3 percent coupon, from its over-the-counter facility.</p>
+<p>The bank kept its overnight and termed reverse repo rates unchanged.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160899" id="root" date="1996-11-01" xml:lang="en">
+<title>FINLAND: IVO, Foster Wheeler win Czech plant deal.</title>
+<headline>IVO, Foster Wheeler win Czech plant deal.</headline>
+<dateline>HELSINKI 1996-11-01</dateline>
+<text>
+<p>Finnish power producer and energy engineering firm Imatran Voima said on Friday it had won a power plant order from Czech Moravskoslezske Teplarna worth 300 million markka together with U.S. firm Foster Wheeler.</p>
+<p>&quot;IVO International will be the consortium leader, being responsible for the project management and design work for the plant,&quot; it said, but it did not say how the two partners would share the total value.  </p>
+<p>IVO International will also supply the plant's process and structural components, including a steam turbine, instrumentation and control, electrification, coal storage and the buildings, it said.</p>
+<p>IVO said the plant would be modernised almost completely to generating 41 megawatts of electricity and a total of about 100 megawatts of district heat and process steam for the city of Olomouc and local industries.</p>
+<p>The contract is a significant opening for IVO International in the Czech Republic, IVO said.</p>
+<p>&quot;Foster Wheeler will furnish the Olomouc plant with a boiler plant equipped with a latest generation circulating fluidised bed boiler, completely installed and commissioned,&quot; it said.</p>
+<p>-- Helsinki newsroom + 358 - 0 - 680 50 245</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

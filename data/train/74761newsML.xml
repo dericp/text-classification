@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74761" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Allegheny Teledyne expects lower Q3 results.</title>
+<headline>Allegheny Teledyne expects lower Q3 results.</headline>
+<dateline>PITTSBURGH 1996-09-25</dateline>
+<text>
+<p>Allegheny Teledyne Inc said Wednesday it expects its specialty metals segment to hurt its third quarter results.</p>
+<p>The company cited, in part, poor pricing in the stainless steel markets.</p>
+<p>President and Chief Executive William Rutledge said it appeared that operating profits in the third quarter would be down from year-earlier pro forma results, when it had net income of $64 million, or $0.36 per share, on combined sales of $967 million.  </p>
+<p>--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

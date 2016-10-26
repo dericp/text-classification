@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247646" id="root" date="1996-12-10" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Senate amends Telstra sale bill.</title>
+<headline>RTRS-Australian Senate amends Telstra sale bill.</headline>
+<dateline>CANBERRA 1996-12-10</dateline>
+<text>
+<p>The Australian Senate on Tuesday passed an amendment to the Telstra privatisation bill, as proposed by key independent Brian Harradine, but adjourned before completing a final vote on the bill.</p>
+<p>The government now sees the final vote, expected to approve the bill, on Wednesday.</p>
+<p>The amendment, embodying a deal between Harradine and the government announced on Thursday, would delay the planned sale of a third of Telstra's shares while a committee examined Harradine's proposal for the alternative issue of redeemable preference shares.  </p>
+<p>The government expects the privatisation to raise about A$8 billion.</p>
+<p>It needs the support of Harradine and another independent, Mal Colston, but announced measures last week to satisfy the concerns of both.</p>
+<p>The amendment passed with the support of the government and both independents, the same teaming that earlier voted down amendments by the minority Democrats party.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

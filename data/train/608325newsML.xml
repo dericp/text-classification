@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608325" id="root" date="1997-05-23" xml:lang="en">
+<title>USA: Palmer price tag covers stock, debt.</title>
+<headline>Palmer price tag covers stock, debt.</headline>
+<dateline>NEW YORK 1997-05-23</dateline>
+<text>
+<p>Price Communications Corp's proposed $880 million acquisition of Palmer Wireless Inc involves payment of $489 million for Palmer stock and options, with rest of the price tag comprising payment of Palmer debt, Palmer said Friday.</p>
+<p>Palmer shares were up 4-3/16 to 16-1/4 following news that Price had agreed to acquire the company for $17.50 cash per share.</p>
+<p>Price shares were off 3/4 at 8-5/8.  </p>
+<p>Palmer, headquartered in Ft. Myers, Fla. owns and operates 18 non-wireline cellular telephone systems in Florida, Alabama, Georgia and South Carolina.</p>
+<p>Earlier this year Palmer shares rose above $15 on rumors that the company was on the auction block. The stock fell as investors became concerned that the company would not find a buyer.</p>
+<p>Price officials were not available for comment on the merger pact.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="794396" id="root" date="1997-08-12" xml:lang="en">
+<title>PORTUGAL: Portugal fireworks factory explosion kills three.</title>
+<headline>Portugal fireworks factory explosion kills three.</headline>
+<dateline>LISBON 1997-08-12</dateline>
+<text>
+<p>An explosion at a fireworks factory killed three people and seriously injured another three in northern Portugal on Tuesday, a police spokesman said.</p>
+<p>&quot;There are three people dead and three seriously injured who have been taken to hospital. They haven't been identified yet and we don't know exactly what caused the explosion,&quot; the spokesman said.</p>
+<p>The explosion occurred in the storage room of the factory close to the town of Guarda in the northern Serra da Estrela mountain range.</p>
+<p>It started a fire that spread to a nearby forest but a spokesman for the local fire brigade said the blaze was under control.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25650">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

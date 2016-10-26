@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379223" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: Korean finalises deal for new JFK cargo facility.</title>
+<headline>Korean finalises deal for new JFK cargo facility.</headline>
+<dateline>NEW YORK 1997-02-14</dateline>
+<text>
+<p>The Port Authority of New York and New Jersey said it formally finalised a lease agreement with Korean Airlines for a $105 million air cargo hub at JFK.</p>
+<p>Korean Air Ltd agreed to demolish hangars 9 and 9A built in 1955, the authority said in a statement.</p>
+<p>The airline, as part of the lease, will construct and operate a new 225,000 sq ft facility built on 21 acres of the 42 acre site.</p>
+<p>The remaining 22 acres are reserved by the Port Authority for future use, an industry source said.</p>
+<p>Korean Airlines currently operates a 99,000 sq ft cargo complex at JFK airport.</p>
+<p>-Reuters Air Cargo Newsroom Tel+44-171-542-7706 Fax 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

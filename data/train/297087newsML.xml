@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297087" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: ShopKo Stores Inc Dec same-store sales rise.</title>
+<headline>ShopKo Stores Inc Dec same-store sales rise.</headline>
+<dateline>GREEN BAY, Wis. 1997-01-09</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month	     $355.4     $279.6    + 27.1     + 14.8</p>
+<p>Nov-Dec	   $584.5     $482.7    + 21.1	+ 8.6</p>
+<p>Year-to-date  $2,160.2   $1,849.8    + 16.8     + 14.3</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Month is five weeks ended  Jan. 4, 1997.</p>
+<p>Full company name is ShopKo Stores Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREEN BAY, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

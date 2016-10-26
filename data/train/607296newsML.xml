@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="607296" id="root" date="1997-05-22" xml:lang="en">
+<title>JAPAN: ShinMaywa -96/97 group results.</title>
+<headline>ShinMaywa -96/97 group results.</headline>
+<dateline>TOKYO 1997-05-22</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Group)	(in billions of yen unless specified)</p>
+<p> Sales		170.86		vs	  159.87</p>
+<p> Operating	    6.06		vs	    5.37</p>
+<p> Current		5.09		vs	    5.56</p>
+<p> Net		    1.68		vs	    2.37</p>
+<p> EPS		   14.26 yen	  vs	   20.54 yen</p>
+<p> Diluted EPS	 12.97 yen	  vs	   19.17 yen</p>
+<p>NOTE - ShinMaywa Industries Ltd is a leading maker of special-duty motor vehicles.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

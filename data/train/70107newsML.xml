@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70107" id="root" date="1996-09-23" xml:lang="en">
+<title>ROMANIA: Romania police seize hashish in Moscow-bound train.</title>
+<headline>Romania police seize hashish in Moscow-bound train.</headline>
+<dateline>BUCHAREST 1996-09-23</dateline>
+<text>
+<p>Romanian police said on Monday they had seized 4,500 kg (9,900 lbs) of hashish hidden in a freight train bound for Moscow.</p>
+<p>A police dog found the drugs in two containers laden with furniture heading, via Hungary, to a private company in Moscow, said a statement issued by police in Bihor county on the border with Hungary.</p>
+<p>In 1993, police in the Black Sea port of Constanta seized 11 tonnes of hashish and cannabis aboard a ship bound for the Netherlands.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

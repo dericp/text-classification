@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638949" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Personnel to place $100 mln in notes.</title>
+<headline>Personnel to place $100 mln in notes.</headline>
+<dateline>CHARLOTTE, N.C. 1997-06-05</dateline>
+<text>
+<p>Personnel Group of America said on Thursday it plans to raise $100 million in a private placement of convertible subordinated notes in lieu of a previously announced placement of senior subordinated notes.</p>
+<p>The company said that it intends to use the proceeds to repay existing debt, including some that is outstanding under its bank credit facilities.</p>
+<p>Some of the funds used to repay some of the debt may be reborrowed to fund acquisitions, and for other corporate purposes, the company said.</p>
+<p>Personnel Group provides information technology staffing and consulting services, among other staffing services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

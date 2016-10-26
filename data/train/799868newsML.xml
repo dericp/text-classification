@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799868" id="root" date="1997-08-14" xml:lang="en">
+<title>SWITZERLAND: Swiss franc ends lower as dollar recovers again.</title>
+<headline>Swiss franc ends lower as dollar recovers again.</headline>
+<dateline>ZURICH 1997-08-14</dateline>
+<text>
+<p>The Swiss franc ended weaker versus the dollar, undermined by a broad-based dollar rebound.</p>
+<p>One Swiss-based currency analyst said that the dollar was nearing key levels of 1.5250 and 1.53 Swiss francs after Thursday's recovery. Markets were waiting to see what would happen on Friday, when trade tends to be thin and erratic.</p>
+<p>As expected, the Swiss National Bank left its discount rate unchanged at one percent at Thursday's meeting, while Swiss money market rates softened.  </p>
+<p>The drop in Swiss short-term money rates was seen tied to technical factors ahead of the end of the roughly one-month next liquidity period on Tuesday.</p>
+<p>* The dollar ended higher at 1.5214/1.5223 Swiss francs compared with 1.5070/5078 at the close on Wednesday.</p>
+<p>* The mark ended higher as well at 82.44/47 Swiss centimes 82.36/39. -- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

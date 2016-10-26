@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608018" id="root" date="1997-05-22" xml:lang="en">
+<title>SWITZERLAND: PRESS DIGEST - Switzerland - May 22.</title>
+<headline>PRESS DIGEST - Switzerland - May 22.</headline>
+<dateline>ZURICH 1997-05-22</dateline>
+<text>
+<p>Here are the highlights from Swiss newspapers on Thursday: NEUE ZUERCHER ZEITUNG - World Jewish Congress head Edgar Bronfman was named on Wednesday to temporarily take a seat on the special Swiss Humanitarian Fund. TAGES ANZEIGER - The Swiss government said in a statement that it will not take action to stop a German language spelling reform. Swiss right-wing Freiheitspartei demanded that the changes be rejected. - Swiss consumer confidence registered a further boost in the 1997 first quarter as a main index rose to minus 31 points. -- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

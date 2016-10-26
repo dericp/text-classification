@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143154" id="root" date="1996-10-25" xml:lang="en">
+<title>SOUTH AFRICA: SAfrica Stals says no immediate need to hike rates.</title>
+<headline>SAfrica Stals says no immediate need to hike rates.</headline>
+<dateline>JOHANNESBURG 1996-10-25</dateline>
+<text>
+<p>South African Reserve Bank Governor Chris Stals said on Friday he saw no immediate need to increase interest rates.  </p>
+<p>&quot;Our present policy is to maintain the current status quo. We believe it is not necessary to increase interest rates at this stage,&quot; Stals said in response to questions after addressing a conference here.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

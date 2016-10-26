@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130883" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Fina seen idling Texas hydrotreater in Nov.</title>
+<headline>Fina seen idling Texas hydrotreater in Nov.</headline>
+<dateline>NEW YORK 1996-10-21</dateline>
+<text>
+<p>Fina Inc is expected to pull a hydrotreating unit off line at its 180,000 barrel per day refinery in Port Arthur, Texas, at the beginning of November for a week to 10 days of maintenance, an industry source said.</p>
+<p>&quot;It should come down in early November for a normal catalyst change,&quot; the industry source said, noting Fina has another hydrotreater at the plant that will continue to run.</p>
+<p>A Fina official declined to comment on the industry talk, but did say the hydrotreater, one of two such units at the refinery, makes low sulphur diesel and low sulphur jet fuel.</p>
+<p>Fina is the U.S. unit of Belgium's Petrofina SA.</p>
+<p>Reports Fina also plans to pull down a fluid catalytic cracking unit during November could not immediately be verified.</p>
+<p>--Oliver Ludwig, New York Energy Desk +1 212 859 1633</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

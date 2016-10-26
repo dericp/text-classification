@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478148" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: CNS taps Martin/Williams as ad agency.</title>
+<headline>CNS taps Martin/Williams as ad agency.</headline>
+<dateline>MINNEAPOLIS 1997-04-01</dateline>
+<text>
+<p>CNS Inc, which makes Breathe Right nasal strips, said Tuesday it picked Minneapolis-based Martin/Williams as its advertising agency of record.</p>
+<p>Martin/Williams has annual billings of $195 million and employs 250 people. CNS has an advertising budget that exceeds $20 million annually.</p>
+<p>CNS' previous advertising agency was Sietsema, Engel &amp; Partners of Minneapolis.</p>
+<p>Sales of Breathe Right, invented by an allergy sufferer in 1987, grew to $85 million in 1996 from $2.8 million in 1994.</p>
+<p>	  ((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

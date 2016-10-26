@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82288" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Deregulation to save electric consumers $5.4 bln.</title>
+<headline>Deregulation to save electric consumers $5.4 bln.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-09-26</dateline>
+<text>
+<p>The head of the Federal Energy Regulatory Commission (FERC) late on Thursday said electricity deregulation would save consumers $3.8 billion to $5.4 billion.</p>
+<p>&quot;Our conservative estimate is $3.8 (billion) to $5.4 billion per year,&quot; FERC chairwoman Elizabeth Moler said at Harvard University's John F. Kennedy School of Government after giving a history of deregulation.</p>
+<p>Moler would not specify how those savings in the $200 billion industry would be distributed in California and New England where deregulation was underway.</p>
+<p>&quot;When you talk about an industry of this magnitude, it's just a small piece of what's at stake here. If you couple that with state initiatives, the numbers get really big and they grow over time,&quot; she said in response to a question.</p>
+<p>Moler shied away from any discussion of specific utilities or states' plans for deregulation, saying only: &quot;I don't have any views on the Massachusetts experiment.&quot;</p>
+<p>She was referring to part of a Boston Edison proposal, submitted to state regulators last spring, showing consumers would not really save money and in the end could actually pay more for electricity. -- Boston bureau, 617-367-4106</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

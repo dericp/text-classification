@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265937" id="root" date="1996-12-18" xml:lang="en">
+<title>MALTA: PRESS DIGEST - Malta - Dec 18.</title>
+<headline>PRESS DIGEST - Malta - Dec 18.</headline>
+<dateline>VALLETTA 1996-12-18</dateline>
+<text>
+<p>The following are the leading stories in the Maltese press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>THE TIMES</p>
+<p>- Malta's competitiveness in tourism being eroded, says report commissioned by the National Tourism Organisation. It notes that prices for a Malta holiday have gone up by as much as 39 percent since 1990. Tourist arrivals are falling while tourist accommodation is increasing and Malta must attract 125,000 more tourists for the future of existing hotels not to be in question.</p>
+<p>L-ORIZZONT</p>
+<p>- Gozo Channel line borrowing Lm1.3 million ($3m approx). The ferry company that operates a service between Malta and the sister island of Gozo needs the funds to continue operating.</p>
+<p>IN-NAZZJON</p>
+<p>- Opposition leader Eddie Fenech Adami receives 'thank you' note from 1,000 university students for his work as former prime minister.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

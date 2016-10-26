@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32765" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Central Sprinkler margins hurt by costs.</title>
+<headline>Central Sprinkler margins hurt by costs.</headline>
+<dateline>LANSDALE, Pa. 1996-09-04</dateline>
+<text>
+<p>Central Sprinkler Corp Wednesday reported a drop in third quarter, ended July 31, earnings citing the impact of increased costs on profit margins.</p>
+<p>It also said recently announced price increases are expected to improve profit margins in future quarters.</p>
+<p>The company said earnings per share dropped to $0.39 from $0.73 a year earlier despite a 16 percent increase in sales.</p>
+<p>Central Sprinkler said its gross profit margin dropped to 28.8 percent in the latest quarter from 32.8 percent in 1995.</p>
+<p>It said increased sprinkler manufacturing costs, primarily labor and material, were the primary cause of the gross profit margin decline.</p>
+<p>In addition, profits have been reduced by the operating losses at the new Alabama fittings facility and more competitive conditions in the sprinkler market which have depressed sales prices and hurt profits, the company said.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32870">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LANSDALE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

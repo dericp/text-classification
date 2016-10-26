@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56138" id="root" date="1996-09-16" xml:lang="en">
+<title>ITALY: ENI unit Saipem gets China gas contract.</title>
+<headline>ENI unit Saipem gets China gas contract.</headline>
+<dateline>ROME 1996-09-16</dateline>
+<text>
+<p>Engineering company Saipem, a unit of Italian state oil conglomerate ENI, confirmed on Monday that it had been awarded a contract to provide two undersea pipelines for the Pinghu gas field south of Shanghai.</p>
+<p>The contract is for a 367-km, 14-inch diameter gas pipeline and for a 302-km, 10-inch diameter oil pipeline, a company statement said. It gave no further details.</p>
+<p>A Shanghai Oil &amp; Gas Company official in Shanghai said earlier that the contract was worth $200 million.</p>
+<p>-- Rome newsroom +39 6 678 2505</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

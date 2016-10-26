@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712188" id="root" date="1997-07-07" xml:lang="en">
+<title>FINLAND: Finnair May load factor up at 66.2 pct.</title>
+<headline>Finnair May load factor up at 66.2 pct.</headline>
+<dateline>HELSINKI 1997-07-07</dateline>
+<text>
+<p>Finnish national airline Finnair Oy said in a statement on Monday its passenger load factor rose 0.5 percentage points year-on-year in May to 66.2 percent. Finnair gave the following statistics:</p>
+<p>				    May 1997  April 1997   Yr/yr(pct)</p>
+<p> Passengers (thousand)	     580	   566	 +12.9</p>
+<p> RPK (million)			 904	   857	 +13.8</p>
+<p> RTK (million)			 107	   100	 +23.0</p>
+<p> Cargo and mail (thousand kg)  6,225	 6,047	 +36.6</p>
+<p> Passenger load factor (pct)    66.2	  64.3	  +0.5</p>
+<p> May 1997 totals broken down by flight type:</p>
+<p>			Passengers   RPK	 RTK	    Cargo</p>
+<p>			thousand   million    million     thousand kg</p>
+<p> International	 296	 594	  79	    5,582</p>
+<p> Domestic		197	  83	   7		485</p>
+<p> Charter		  87	 227	  21		158</p>
+<p> Load factor (percent) by flight type:</p>
+<p>				May 1997 April 1997  Yr/yr(pct pts)</p>
+<p> International		  62.4	 63.3	+/-0.0</p>
+<p> Domestic			 55.0	 56.8	  +1.7</p>
+<p>Finnair's financial year runs from April 1 to March 31.</p>
+<p>RPK - revenue passenger km (revenue passengers carried multiplied by km flown)</p>
+<p>RTK - revenue tonne km (tonnage of revenue load carried -- passengers, cargo and mail -- multiplied by km flown.</p>
+<p>Passenger load factor - RPK as a percentage of available seat km.</p>
+<p>Finnair does not give a cargo load factor.</p>
+<p>--Helsinki newsroom +358-9-680 50 245, news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

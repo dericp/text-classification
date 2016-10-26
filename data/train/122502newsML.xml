@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122502" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: SEC orders Cambridge Biotech halt security fraud.</title>
+<headline>SEC orders Cambridge Biotech halt security fraud.</headline>
+<dateline>BOSTON 1996-10-17</dateline>
+<text>
+<p>The Securities and Exchange Commission on Thursday said it ordered Cambridge Biotech Corp to cease and desist from further violations of the anti-fraud, corporate reporting, books and records provisions of the U.S. securities laws.</p>
+<p>The Worcester, Massachusetts-based biotechnology company, as part of the administrative proceedings, did not admit or deny the order's findings.</p>
+<p>The SEC found that between June 1991 and December 1992, the company improperly recognized revenue from a series of nine sales and license transactions.  </p>
+<p>The transactions were structured by Cambridge Biotech's former chief executive officer and chief financial officer, both of whom have resigned, the SEC said in a statement.</p>
+<p>The transactions included shipments of product with no expectation of payment, premature recognition of license fee revenues and use of corporate funds to resolve outstanding receivables by creating the false appearance the company had bought unrelated goods and services, when it actually bought back its own product, the agency said.</p>
+<p>Cambridge Biotech spokeswoman Melynn Genlay said she had no comment on the SEC action.</p>
+<p>-- Leslie Gevirtz, 617-367-4142</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

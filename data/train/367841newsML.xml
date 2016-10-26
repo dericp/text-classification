@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="367841" id="root" date="1997-02-10" xml:lang="en">
+<title>SWEDEN: Goldman Sachs downgrades some Swedish forest cos.</title>
+<headline>Goldman Sachs downgrades some Swedish forest cos.</headline>
+<dateline>STOCKHOLM 1997-02-10</dateline>
+<text>
+<p>U.S. investment bank Goldman Sachs downgraded Swedish forestry groups Stora, MoDo and Rottneros to &quot;market underperformer&quot; from &quot;market outperformer&quot;, an analyst with the bank said on Monday.</p>
+<p>&quot;I can confirm this, but I do not want to comment further on this information,&quot; Hakan Ostling, a Goldman Sachs forestry analyst, told Reuters.</p>
+<p>The bank has kept Swedish forestry group SCA at &quot;market outperformer&quot;.</p>
+<p>-- Olle Lindstrom, Stockholm newsroom +46-8-700 1015</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

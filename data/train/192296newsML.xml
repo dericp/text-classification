@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192296" id="root" date="1996-11-15" xml:lang="en">
+<title>MEXICO: Mexico's GMD to help build Argentina highway.</title>
+<headline>Mexico's GMD to help build Argentina highway.</headline>
+<dateline>MEXICO CITY 1996-11-14</dateline>
+<text>
+<p>A consortium of builders, including Mexico's Grupo Mexicano de Desarollo (GMD), said on Thursday they would construct a $310 million, 55-km highway from Argentina's capital Buenos Aires to Lujan.</p>
+<p>In addition to GMD, Companhia Brasileira de Proyectos y Obras, Argentina's Benito Roggio e Hijos and Malaysian IJM Corp. will work together on the project, GMD said in a statement.</p>
+<p>The freeway will connect the capital with farming and metropolitan centre Lujan. More than 150,000 autos are slated to ride the freeway daily, the company said.</p>
+<p>Consultants to the project include International Finance Corp, Bear Stearns and Cofiroute (Compagnie Financiere et Industrielle des Autoroutes).</p>
+<p>-- Mexico City newsroom +525 728 7903</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I5020041">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

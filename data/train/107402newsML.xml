@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107402" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Shell Mars crude, natgas resumes operations.</title>
+<headline>Shell Mars crude, natgas resumes operations.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>Shell Oil said Thursday crude oil and natural gas production in the Gulf of Mexico had resumed normal operations.</p>
+<p>&quot;Mars is back up. I got word this morning it's now running at full capacity,&quot; a company spokeswoman said.</p>
+<p>Mars crude output, at 25,000 barrels per day (bpd) and natural gas at roughly 26 million cubic feet per day (mmcfd), was disrupted over the weekend by Josephine, a tropical storm which swept through the Gulf of Mexico into Florida.</p>
+<p>The start-up of production was delayed because Shell conducted some minor repairs to installations.</p>
+<p>Domestic sour crudes have gained since U.S. Gulf producers suffered drops in crude production from the storm.</p>
+<p>--Jacqueline Wong, New York Energy Desk 212-859-1626</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

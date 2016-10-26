@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700200" id="root" date="1997-07-01" xml:lang="en">
+<title>GREECE: Athens bourse, FTSE Intl launch Greek stock index.</title>
+<headline>Athens bourse, FTSE Intl launch Greek stock index.</headline>
+<dateline>ATHENS 1997-07-01</dateline>
+<text>
+<p>FTSE International and the Athens stock exchange introduced a new 20-share Greek stock index, FTSE/ASE 20, designed to support derivatives, officials told reporters on Tuesday.</p>
+<p>The new index, which will be officially launched September 24, is designed to track the performance of the investible market in Athens and is expected to attract increased international investment to the Greek equities market.  </p>
+<p>The FTSE/ASE 20 index will run parallel to the existing ASE general share index which is the current benchmark.</p>
+<p>&quot;Based on 20 of the largest and most liquid stocks, the new index will accurately track the movement of the market. It will be widely used for performance measurement, benchmarking and as the basis for index tracking funds,&quot; Mark Makepeace, managing director of FTSE International told reporters.</p>
+<p>FTSE International is jointly owned by the Financial Times and the London Stock Exchange. The company manages and develops equity and bond indices extensively used by investment managers around the world.</p>
+<p>Its best known index, the UK's FTSE 100, is also heavily used in derivatives trading.</p>
+<p>&quot;It is particularly exciting to be able to work with the Athens stock exchange. Throughout Europe a new equity culture is growing in every country while investors seek opportunities further and further afield. This is the beginning of a very successful partnership,&quot; Makepeace said.  </p>
+<p>The index constituents are the following 20 stocks:</p>
+<p>    COMPANY				FREE FLOAT USED</p>
+<p>    Alpha Credit Bank		  100%</p>
+<p>    OTE telecom			   20%</p>
+<p>    National Bank			100%</p>
+<p>    Ergo Bank			    100%</p>
+<p>    Commercial Bank		    100%</p>
+<p>    National Mortgage Bank	   100%</p>
+<p>    Titan Cement			 100%</p>
+<p>    Hellenic Bottling		  30.3%</p>
+<p>    Heracles Cement		    29.5%</p>
+<p>    Ionian Bank			  38.29%</p>
+<p>    Delta Dairy			  100%</p>
+<p>    Piraeus Bank			 100%</p>
+<p>    Papastratos			  49.86%</p>
+<p>    Michaniki			    100%</p>
+<p>    Macedonia Thrace		   100%</p>
+<p>    Intracom			     24.01%</p>
+<p>    Aluminium of Greece		44%</p>
+<p>    Goody's				100%</p>
+<p>    Aegek  GCE.AT			100%</p>
+<p>    Viohalco			     100%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

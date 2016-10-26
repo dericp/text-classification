@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="388659" id="root" date="1997-02-19" xml:lang="en">
+<title>PAKISTAN: Pakistan weekly forex reserves up at $1.472 bln.</title>
+<headline>Pakistan weekly forex reserves up at $1.472 bln.</headline>
+<dateline>KARACHI, Pakistan 1997-02-19</dateline>
+<text>
+<p>Pakistan's foreign exchange reserves were up at $1.472 billion on February 13, from $1.274 billion a week earlier, but lower when compared to $2.290 billion on February 15, 1996, the State (central) Bank of Pakistan said on Wednesday.</p>
+<p>The central bank gave no reason for the rise.</p>
+<p>The reserves included $457 million within Pakistan and $335 million outside Pakistan, the bank said.</p>
+<p>Following is the weekly foreign exchange reserves holdings position in Pakistan:</p>
+<p>(MLN DLRS)		     FEB 13     FEB 6	FEB 15, 1996</p>
+<p> TOTAL			   1,472	1,274	2,290</p>
+<p> Forex in Pakistan	     457	  457	1,121</p>
+<p> Forex outside Pakistan	335	  128	  454</p>
+<p> Gold coins and bullion	676	  676	  705</p>
+<p> Special Drawing Rights	  4	   13	   10</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

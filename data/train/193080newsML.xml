@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193080" id="root" date="1996-11-15" xml:lang="en">
+<title>JAPAN: Takasago Tekko - 6mth parent results.</title>
+<headline>Takasago Tekko - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-15</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 11.35		vs	   11.91</p>
+<p> Operating	  149    million    vs	  364    million</p>
+<p> Current	     33    million    vs	  198    million</p>
+<p> Net		   38    million    vs	  151    million</p>
+<p> EPS		    1.26 yen	  vs	    5.03 yen</p>
+<p> Shares	     30 million	  vs	  30 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Takasago Tekko K.K. is a large manufacturer of cold-rolled stainless steel hoops and strip hoops.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

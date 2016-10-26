@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133249" id="root" date="1996-10-22" xml:lang="en">
+<title>BELARUS: Belarus rouble rises to 14,900 from 15,500 in Mins.</title>
+<headline>Belarus rouble rises to 14,900 from 15,500 in Mins.</headline>
+<dateline>MINSK 1996-10-22</dateline>
+<text>
+<p>The Belarussian rouble edged up to 14,900 per dollar on the Minsk Interbank Currency Exchange from 15,500 at the previous session.</p>
+<p>				    October 22	    October 21</p>
+<p> Rate to dollar		    14,900		  15,500</p>
+<p> Volume traded		  $1.744 million	    $3.334 million</p>
+<p>--Kiev newsroom, +380 44 229 2264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

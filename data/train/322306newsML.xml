@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322306" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Exabyte names Marriner acting pres/CEO.</title>
+<headline>Exabyte names Marriner acting pres/CEO.</headline>
+<dateline>BOULDER, Colo. 1997-01-21</dateline>
+<text>
+<p>Exabyte Corp Tuesday said it named William Marriner as the company's acting president and chief executive officer.</p>
+<p>Marriner will also retain the title of chief financial officer, a position he has held since he joined the company in 1987.</p>
+<p>Peter Behrendt, who joined the company as president in 1987, became chief executive in 1990 and was named chairman of the board in 1992, will continue as the company's full-time chairman.  </p>
+<p>The company previously announced that it intended to split what had been a dual role -- chairman and president/CEO -- into two positions and that it was initiating a search for a president/CEO.</p>
+<p>Exabyte designs, manufactures and markets tape storage products, including 8mm and minicartridge tape drives, 8mm and 4mm tape libraries and recording media.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

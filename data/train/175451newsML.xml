@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175451" id="root" date="1996-11-08" xml:lang="en">
+<title>USA: Wanderlust Q1 net, share loss steepens.</title>
+<headline>Wanderlust Q1 net, share loss steepens.</headline>
+<dateline>NEW YORK 1996-11-07</dateline>
+<text>
+<p>Three Mos Ended	Sep 30, 1996	     Sep 30, 1995</p>
+<p>			    (000s omitted except per share amounts)</p>
+<p> Net Sales			 $ 118			   --</p>
+<p> Net loss			    979			  287</p>
+<p> Loss per share		    .26			  .14</p>
+<p>Wgt. avg. shares</p>
+<p> Outstanding		     3,763			2,025</p>
+<p>NOTE: Full name of company is Wanderlust Interactive Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

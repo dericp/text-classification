@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702999" id="root" date="1997-07-02" xml:lang="en">
+<title>ISRAEL: Israel's Netanyahu meets Levy on coalition.</title>
+<headline>Israel's Netanyahu meets Levy on coalition.</headline>
+<dateline>JERUSALEM 1997-07-02</dateline>
+<text>
+<p>Israeli Prime Minister Benjamin Netanyahu met Foreign Minister David Levy on Wednesday in a bid to settle political differences which have shaken Israel's government.</p>
+<p>The two men held talks for the first time since Levy threatened on Monday to quit over Netanyahu's handling of the government and Middle East peacemaking.  </p>
+<p>Netanyahu was expected to assure Levy that he would guide daily peacemaking with Palestinians, a process which has been deadlocked since Israel started building a Jewish settlement in Arab East Jerusalem last March.</p>
+<p>&quot;I hope the meeting between the prime minister and the foreign minister will end the current crisis, &quot; said Netanyahu's spokesman Shai Bazak.</p>
+<p>Levy's resignation threat was triggered by the disclosure on Friday that cabinet minister Ariel Sharon met last month with top PLO official Mahmoud Abbas without the foreign minister's knowledge.</p>
+<p>&quot;When the discussion ends he (Levy) will have to decide if he can continue being a partner in the government or not,&quot; said the head of Levy's five-member Gesher faction in parliament, Maksim Levy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="372301" id="root" date="1997-02-12" xml:lang="en">
+<title>NEW ZEALAND: National Bank NZ launches passive investment fund.</title>
+<headline>National Bank NZ launches passive investment fund.</headline>
+<dateline>WELLINGTON 1996-02-13</dateline>
+<text>
+<p>The National Bank of New Zealand Financial Services, the bank's retail provider of unit trust and superannuation funds, said on Thursday it had added a range of passive products to the active investement products already offered to retail customers.</p>
+<p>Southpac, fund manager for NBFS, will offer wholesale clients an active asset service, while adopting indexed stock selection within individual sectors.</p>
+<p>Southpac will continue to manage existing unit trust funds suitable for the retail investor on an active basis for NBFS.  </p>
+<p>The intent will be to provide leading investment performance for all active products, in particular New Zealand and Australian sharemarket trusts.</p>
+<p>National Bank said its retail superannuation scheme would follow Southpac's wholesale approach. The scheme will retain active asset allocation with passive management within the sectors.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287974" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: FOCUS-TI sells defense unit, banks on new chips.</title>
+<headline>FOCUS-TI sells defense unit, banks on new chips.</headline>
+<byline>Kieran Murray</byline>
+<dateline>DALLAS 1997-01-06</dateline>
+<text>
+<p>Texas Instruments Inc, long seen as a lumbering memory chip giant, has suddenly taken on a new image by selling its defense-electronics division and gambling its future on high-growth chip products.</p>
+<p>TI said Monday it was selling its defense unit to Raytheon Co for $2.95 billion in cash and turning its entire attention to its semiconductor business.</p>
+<p>Company executives say the move goes hand in hand with a shift away from memory chips toward &quot;differentiated products&quot; like digital signal processors (DSPs).  </p>
+<p>While analysts said the divestiture would likely dilute 1997 earnings, they said it gives TI a dynamic profile after years of being one of the more conservative, and at times uninspiring, players in the high-tech industry.</p>
+<p>&quot;It is going to be much more exciting because they are replacing a stagnant defense contracting business with an exciting growth industry,&quot; said Cowen &amp; Co analyst Drew Peck.</p>
+<p>DSPs translate speech, sound waves and other data into a computer-readable format. They are used in wireless communications products, modems, digital video and digital light processing.  </p>
+<p>TI's revenues from DSPs have grown at around 30 percent annually and last year took up part of the slack left by plummeting prices for common memory chips, long TI's core product.</p>
+<p>TI Chairman Jim Adams said the company was already focusing more and more attention on DSPs and the strategic shift would be quickened by the divestiture of the defense business, which ran up about $1.8 billion in 1996 revenues but was showing only slight growth.</p>
+<p>&quot;We expect to be a leading, premier electronics company focusing on digital solutions,&quot; Adams told Reuters.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

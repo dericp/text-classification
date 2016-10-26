@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403872" id="root" date="1997-02-26" xml:lang="en">
+<title>ZAIRE: Zaire says army pushes back rebels from Kindu.</title>
+<headline>Zaire says army pushes back rebels from Kindu.</headline>
+<dateline>KINSHASA 1997-02-26</dateline>
+<text>
+<p>Zaire's army ambushed rebels advancing on the eastern town of Kindu, killing hundreds, and forcing others to retreat eastwards, the defence ministry said on Wednesday.</p>
+<p>A senior defence official told Reuters the rebels were ambushed on Tuesday night 35 km (22 miles) from Kindu at a road junction at the village of Muyengo.  </p>
+<p>&quot;They were moving up the road calmly, apparently expecting no resistance. The Zairean army ambushed them at the junction between two roads leading north to Punia and west to Kindu,&quot; the official said.</p>
+<p>&quot;There were hundreds killed and the rest were forced to retreat towards Kalima in the early hours,&quot; he added.</p>
+<p>The official said that Zairean army units were pursuing the rebels eastwards towards the town of Kalima, which the rebels took last weekend.</p>
+<p>The rebels took up arms last October and seized towns and territory in the east. They blunted a much-vaunted army counter-offensive by attacking on several fronts. Zaire accuses Rwanda, Uganda and Burundi of invading to fight alongside them. All three deny the charge.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

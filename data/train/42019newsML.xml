@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42019" id="root" date="1996-09-09" xml:lang="en">
+<title>SWEDEN: Astra says to expand research in Britain.</title>
+<headline>Astra says to expand research in Britain.</headline>
+<dateline>STOCKHOLM 1996-09-09</dateline>
+<text>
+<p>Swedish drug company Astra AB said on Monday it would spend 650 million crowns expanding its research facilities at Loughborough in Britain.  </p>
+<p>Astra's chief executive officer Hakan Mogren said the Astra Charnwood research and development unit at Loughborough focused mainly on respiratory disease, cardiovascular disease and new inhalation aerosol technology.</p>
+<p>&quot;The Loughborough research unit will be playing an increasingly significant role in the Astra group,&quot; Mogren said in a statement.</p>
+<p>Mogren also said that the company's board had set the targets that will act as the basis of the allocation of call options to key position holders for 1996.</p>
+<p>Allocation of options is based on the group's growth in value, using an Economic Value Added method, and involves some 100 key position holders who will be allocated different numbers of options.</p>
+<p>He said the value of the total option allocation for 1996 may amount to a maximum of 40 million crowns before social insurance charges.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

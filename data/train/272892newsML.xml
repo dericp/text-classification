@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272892" id="root" date="1996-12-23" xml:lang="en">
+<title>HUNGARY: Hungary cenbank reduces O/N, 1-wk repo rates.</title>
+<headline>Hungary cenbank reduces O/N, 1-wk repo rates.</headline>
+<dateline>BUDAPEST 1996-12-23</dateline>
+<text>
+<p>The National Bank of Hungary (NBH) reduced both the overnight and one-week repo rates to 27.75 percent from 28.25 percent, the NBH said.  </p>
+<p>Central bank president Gyorgy Suranyi said last week that the NBH would continue its cautious interest rate policies, keeping rates at levels which encouraged forint savings by promising sufficient real yields on deposits.</p>
+<p>&quot;Our policy has been to cut our repo rates from month to month or from week to week if necessary, following the decrease of inflation,&quot; he said.</p>
+<p>Hungary's year-on-year consumer price inflation was 20.1 percent in November, down from 21 percent in October.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237341" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Motorola unit offers short message service.</title>
+<headline>Motorola unit offers short message service.</headline>
+<dateline>ARLINGTON HEIGHTS, Ill. 1996-12-05</dateline>
+<text>
+<p>Motorola Inc said Thursday its Cellular Infrastructure Group installed Short Message Service capability in its Code Division Multiple Access (CDMA) digital networks.</p>
+<p>The service allows cellular subscribers to receive alphanumeric messages displayed on their wireless telephones, said Motorola.</p>
+<p>The system also allows for transmission of voice mail notification, digital pages and custom short text messages, in addition to information services like stock quotes, sports scores, weather and traffic.</p>
+<p>AirTouch Communications Inc was the first Motorola cellular infrastructure customer to commercially launch the Short Message Service on its CDMA network in Los Angeles, the company said. The messaging service is also available on the AirTouch network in San Diego.</p>
+<p>The Short Message Service will continue to be rolled out in 1997 in other CDMA networks worldwide, it added.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON HEIGHTS, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

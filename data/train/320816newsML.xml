@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320816" id="root" date="1997-01-21" xml:lang="en">
+<title>ETHIOPIA: ETHIOPIAN SOCCER PLAYERS DISAPPEAR IN ROME, RADIO.</title>
+<headline>ETHIOPIAN SOCCER PLAYERS DISAPPEAR IN ROME, RADIO.</headline>
+<dateline>ADDIS ABABA 1997-01-21</dateline>
+<text>
+<p>Most of Ethiopia's national soccer squad have disappeared in Rome while on their way to Morocco for an African National Cup match, state radio reported on Tuesday.</p>
+<p>The radio said the team leader had requested permission to return home with the remaining players, because he believed the match against the Moroccans was impossible under the circumstances.</p>
+<p>The radio did not specify how many of the 23-man squad went missing during the 16-hour Rome stopover</p>
+<p>The Horn of Africa nation was briefly an Italian colony.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="416908" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: Economy doing well, inflation hasn't erupted - Rivlin.</title>
+<headline>Economy doing well, inflation hasn't erupted - Rivlin.</headline>
+<dateline>WASHINGTON 1997-03-04</dateline>
+<text>
+<p>Federal Reserve Vice Chair Alice Rivlin said Tuesday that the U.S. economy is doing well and that inflation has not erupted.</p>
+<p>&quot;At the moment things look pretty good,&quot; Rivlin told an America's Community Bankers conference.</p>
+<p>She said economic reports from around the country show that jobs are increasing, unemployment is low, and wages are rising gradually.  </p>
+<p>Rivlin said that inflation had not surfaced.</p>
+<p>&quot;The pace of growth does not seem frenetic in most places, and inflation has not yet reared its ugly head,&quot; Rivlin said. &quot;It's a remarkably favorable set of circumstances.&quot;</p>
+<p>She said the biggest threat to the economy would be &quot;too much of a good thing&quot; which would result in an overheated economy generating inflation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

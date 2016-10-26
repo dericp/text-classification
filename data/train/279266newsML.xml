@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="279266" id="root" date="1996-12-29" xml:lang="en">
+<title>USA: NationsBank sets Boatman cash election price.</title>
+<headline>NationsBank sets Boatman cash election price.</headline>
+<dateline>NEW YORK 1996-12-29</dateline>
+<text>
+<p>NationsBank Corp said that it has set the cash election option for Boatmen's Bancshares Inc at $63.11 per share.</p>
+<p>NationsBank said that the average closing price of its common stock from December 13, 1996 through December 27 is $96.725 per share. This is the price on which the cash portion of the purchase price for the pending merger is based.</p>
+<p>The company said that each share of Boatmen's common will be converted into 0.6525 shares of NationsBank common, or at the holder election, $63.11, or 0.6525 times $96.725, in cash.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

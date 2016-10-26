@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386778" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: QualMark Corp Q4 net loss vs profit.</title>
+<headline>QualMark Corp Q4 net loss vs profit.</headline>
+<dateline>DENVER 1997-02-19</dateline>
+<text>
+<p>Fourth quarter ended    Fiscal year ended</p>
+<p>				    December 31,     December 31,</p>
+<p>			    1996	1995	   1996	 1995</p>
+<p> Total revenue   1,872,200  1,204,850    5,694,000  4,031,400</p>
+<p>Income (loss)</p>
+<p>from operations</p>
+<p>		   (1,153,500)    145,400  (1,383,500)     25,400</p>
+<p>Net income (loss)</p>
+<p>		   (1,128,500)     75,500  (1,380,800)  (116,400)</p>
+<p>NOTE - Revenue figures include revenue from Hobbs Engineering seminar business, which was sold in September of 1995.</p>
+<p>The company went public on February 12, 1996, and said it would not release per share results until public for a full fiscal year.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

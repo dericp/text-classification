@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132908" id="root" date="1996-10-22" xml:lang="en">
+<title>NETHERLANDS: KLM TO LAUNCH THREE NEW DESTINATIONS.</title>
+<headline>KLM TO LAUNCH THREE NEW DESTINATIONS.</headline>
+<dateline>AMSTERDAM 1996-10-22</dateline>
+<text>
+<p>KLM Royal Dutch Airlines said on Tuesday it would launch three new destinations on October 27.</p>
+<p>San Juan in Puerto Rico; Baku, the capital of Azerbeijan and Bologna in Italy are the trio to be launched as KLM embarks on its winter schedule, a spokesman said.</p>
+<p>Though the moves are largely driven by the tourist market, there will be considerable cargo capacity available, he said.</p>
+<p>San Juan will be operated twice-weekly with an MD-11, via St.Martin. The aircraft has a capacity of around ten to 15 tons, depending on its passenger lift.</p>
+<p>Cargo expected on the route includes pharmaceuticals, chemicals, footwear and electronics, the spokesman said.</p>
+<p>A Boeing 767 will be deployed on the Baku route and this destination will be operated three times a week. Baku has been added because of the oil, gas and mineral industry in the area.</p>
+<p>Spare parts and mining equipment for explorations in the area are likely to be the major cargo consignments.</p>
+<p>Bologna, will be KLM's fifth destination in Italy and it will be operated twice-daily with a Fokker 70.</p>
+<p>KLM will also increase its Atlanta flights from four to five per week from January. Taipei flights will rise to six a week.</p>
+<p>Accra, in Ghana, also gets an additional frequency from December 3, bringing the service up to four times a week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AZERB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

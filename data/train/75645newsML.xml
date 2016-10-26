@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75645" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Former communist bloc could do much better -- IMF.</title>
+<headline>Former communist bloc could do much better -- IMF.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>The IMF said on Wednesday it saw the possibility of significantly faster economic growth in former Communist bloc countries, but voiced doubts they would be able to duplicate East Asia's economic success.</p>
+<p>&quot;These countries have important strengths, particularly in terms of human capital,&quot; the International Monetary Fund said in its semi-annual World Economic Outlook.</p>
+<p>&quot;There are several factors that could significantly raise growth rates, including the scope for expansion of the service sector and the potential to catch up to the best available technology,&quot; it added.</p>
+<p>But the former Communist bloc nations, which include Eastern Europe, former Soviet republics and Russia, also have some economic weaknesses, the IMF said.</p>
+<p>They include rapidly-aging -- and slowly growing -- populations and weak banking systems.</p>
+<p>&quot;In many respects ... the longer-term foundations for growth do not look as favorable as they do in many of the dynamic emerging market countries in the developing world,&quot; the IMF said.</p>
+<p>In the short run, the IMF sees faster economic growth in what it calls the transition economies.  </p>
+<p>Growth in those economies is projected to pick up to four percent next year, from 0.4 percent this year. In Central and Eastern Europe in particular, the IMF sees growth strengthening to 4.2 percent in 1997 from 1.6 percent in 1996.</p>
+<p>The Fund also forecast a turn-around in Russia in 1997.</p>
+<p>&quot;Conditions appear to be in place for activity to pick up next year,&quot; it said.</p>
+<p>&quot;Containment of fiscal imbalances, especially through greater efforts to collect tax revenues, and further deepening of the reform process are essential if the expected recovery is to become firmly established,&quot; the IMF added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="USSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214596" id="root" date="1996-11-25" xml:lang="en">
+<title>PORTUGAL: Portugal parliament to ponder budget savings plan.</title>
+<headline>Portugal parliament to ponder budget savings plan.</headline>
+<dateline>LISBON 1996-11-25</dateline>
+<text>
+<p>The government's supplementary budget, sent to parliament on Monday, sees additional state savings equivalent to 0.2 percent of gross domestic product (GDP) this year, the finance ministry said in a statement.</p>
+<p>On the spending side, there is an increase on health spending but this is compensated for by lower interest rates and a reduction in contributions to the European Union, it said.</p>
+<p>The government has said it sees a 1996 budget deficit of 4.0 percent of GDP, down from the 4.2 percent initially forecast. The deficit was 4.9 percent in 1995.</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

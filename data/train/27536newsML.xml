@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="27536" id="root" date="1996-09-02" xml:lang="en">
+<title>INDIA: India parliament adjourns, finance speech delayed.</title>
+<headline>India parliament adjourns, finance speech delayed.</headline>
+<dateline>NEW DELHI 1996-09-02</dateline>
+<text>
+<p>The lower house of the Indian parliament, the Lok Sabha, adjourned without transacting any business on Monday as a mark of respect to a sitting member, Nathu Ram Mirdha, who died at the weekend, officials said.</p>
+<p>As a result, a speech by Finance Minister P. Chidambaram to the house in reply to a debate on the federal budget for 1996/97 (April-March), will not take place as scheduled on Monday, they said.</p>
+<p>The speech would have been in reply to a debate on the general aspects of the budget. This is now expected to take place on Tuesday, officials said.</p>
+<p>Chidambaram plans to make a more detailed reply on the finance bill, including offering any amendments to tax proposals, next week, probably on September 9 or 10, a finance ministry official said.</p>
+<p>The budget is expected to be put to the vote in parliament by September 13, when the current session is set to end.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

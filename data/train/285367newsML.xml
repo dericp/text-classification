@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="285367" id="root" date="1997-01-03" xml:lang="en">
+<title>MEXICO: Mexican leader proposes woman as human rights boss.</title>
+<headline>Mexican leader proposes woman as human rights boss.</headline>
+<dateline>MEXICO CITY 1997-01-02</dateline>
+<text>
+<p>Mexican President Ernesto Zedillo on Thursday proposed a female lawyer without political affiliations as head of the National Human Rights Commission, the country's top government watchdog group.</p>
+<p>In a statement, the president's office said Zedillo proposed Mirelle Roccatti, a doctor of law and ex-head of the Human Rights Commission in the state of Mexico, as president of the commission.</p>
+<p>&quot;She is not a militant of any political party,&quot; it said.</p>
+<p>If the proposal is ratified by Congress, she will replace Jorge Madrazo Cuellar, who was named attorney general in early December after Zedillo fired his predecessor.</p>
+<p>Under Madrazo, the National Human Rights Commission investigated cases such as the massacre of 17 peasants in the southern state of Guerrero in June 1995, and sometimes published reports critical of the government.</p>
+<p>But critics say it fell short of demanding punishment of top-ranking officials when human rights abuses were proven.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

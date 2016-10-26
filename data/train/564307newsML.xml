@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564307" id="root" date="1997-05-06" xml:lang="en">
+<title>SWITZERLAND: SNB shares hit record high, rumours cited.</title>
+<headline>SNB shares hit record high, rumours cited.</headline>
+<dateline>ZURICH 1997-05-06</dateline>
+<text>
+<p>Shares of the Swiss National Bank (SNB) rose steeply on Tuesday, opening at a record high of 3,000 Swiss francs before easing back as the market digested new rumours.</p>
+<p>An SNB spokesman said the SNB saw no reason for the latest share price rise.</p>
+<p>He said the gains were likely to be purely speculative and tied to psychological factors, exaggerated by the thin market in which the shares are traded.</p>
+<p>Traders cited one rumour which was picked up in Tuesday's edition of the Neue Zuercher Zeitung, quoting unnamed sources as saying there was talk that the SNB would make an offer to small shareholders. The newspaper report followed a strong gain on Monday in the shares of 45 percent.</p>
+<p>Others said the stock had been recommended by a small newsletter which in past has published off-beat stock tips.</p>
+<p>The SNB, in an unusual structure for a central bank, has 35,084 shares in public hands, out of a total of 100,000 shares. A total of 63 percent of its shares are held by Swiss cantons, cantonal banks and other public institutions.</p>
+<p>At midmorning, the stock had slipped back, quoted up 360 Swiss francs at 2,545.</p>
+<p>The shares already rose sharply in early April on what also appeared to be purely speculative buying.</p>
+<p>-- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19200" id="root" date="1996-08-28" xml:lang="en">
+<title>MEXICO: Nafin, CFE create Mexican gas pipeline trust fund.</title>
+<headline>Nafin, CFE create Mexican gas pipeline trust fund.</headline>
+<dateline>MEXICO CITY 1996-08-28</dateline>
+<text>
+<p>State development bank Nacional Financiera (Nafin) and the Federal Electricity Commission (CFE) have created a trust fund for building a 700 kilometer gas pipeline in southern Mexico, the Finance Ministry said on Wednesday.  </p>
+<p>It said the trust fund would administer the rights of way of the pipeline, with the CFE providing the funding and Nafin running it. The pipeline, to carry 10.4 million cubic feet per day of natural gas, is due to be built by the winner of a public tender.</p>
+<p>It will run from Ciudad Pemex, Tabasco through various states to the thermoelectric plants of Capeche II, Lerma, Merida II, Nachicocom, Valladolid V and Valladolid CC, as well as Merida III, which will be the first power production project in Mexico put up to tender.  </p>
+<p>Mexico is gradually opening up its energy sector to private and foreign investment and the government is seeking bids from private companies to build and operate the pipeline in southeastern Mexico.</p>
+<p>Although state oil and gas monopoly Petroleos Mexicanos is largely untouched, the government badly needs to attract investment to the power generation and natural gas distribution sectors.</p>
+<p>Efforts to sell off Pemex's 61 petrochemical plants have run into political opposition.</p>
+<p>Potential investors had previously expressed concerns about right of way issues in regard to the gas pipeline to Merida III and in other parts of the country.</p>
+<p>-- Henry Tricks, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

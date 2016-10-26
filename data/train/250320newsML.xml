@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250320" id="root" date="1996-12-11" xml:lang="en">
+<title>FINLAND: Nokia sees data soaring in cellular.</title>
+<headline>Nokia sees data soaring in cellular.</headline>
+<dateline>TAMPERE, Finland 1996-12-11</dateline>
+<text>
+<p>Finnish telecoms group Nokia Oy expects data transfer to surge to 50 percent of traffic in cellular networks by 2000 from around five percent now, a Nokia official said on Wednesday.</p>
+<p>&quot;Data traffic in cellular networks is expected to rise from five percent to 50 percent in 2000,&quot; Nokia marketing communications manager Mika Setala told a briefing.</p>
+<p>Although he said the estimate seemed very high, he added that Nokia had &quot;good reasons to believe that it is so&quot;.</p>
+<p>Nokia -- in 1994 the first company to introduce the link between personal computers and digital mobile phones now known as a PCMCIA card (Personal Computer Memory Card International Association) -- was presenting its work developing systems for compressing multimedia data for transfer in cellular networks.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 242</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPERE, Finland"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

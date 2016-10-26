@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137823" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Yellow to separate fuel surcharge from base.</title>
+<headline>Yellow to separate fuel surcharge from base.</headline>
+<dateline>OVERLAND PARK, Kan. 1996-10-22</dateline>
+<text>
+<p>Yellow Freight System Inc, a unit of Yellow Corp, said on Tuesday it expects to separate its fuel surcharge from its base-rate increase in January, due to fuel price uncertainty.</p>
+<p>&quot;If fuel costs are not embedded in Yellow's rate scale, they can be removed more easily when they decline,&quot; said president Bill Zollars in a statement. &quot;Conversely, Yellow is not penalized when fuel costs increase.&quot;</p>
+<p>Yellow Freight noted that diesel fuel prices have risen for the 11th week in a row.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OVERLAND PARK, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

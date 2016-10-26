@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="473338" id="root" date="1997-03-27" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks end higher.</title>
+<headline>Swiss stocks end higher.</headline>
+<dateline>ZURICH 1997-03-27</dateline>
+<text>
+<p>A rally in a few major blue chips such as Nestle, Swiss Re and Roche helped Swiss shares end a shortened session higher.</p>
+<p>But apart from those blue chips, the market was mostly mixed, one trader noted. Some shares profited from favourable results and technical factors, others were pressured by an easing U.S. dollar, he added.</p>
+<p>Nestle continued to draw strength from better-than-expected 1996 results. The shares rose 44 francs to close at 1,685.</p>
+<p>The blue-chip Swiss Market Index gained 38.7 points, or 0.84 percent, to end at 4,659.2 and the all-share Swiss Performance Index was up 27.08 points, or 0.93 percent, to 2,946.25.</p>
+<p>Roche certificates recovered after a weaker start, ending up 140 francs at 12,445. Novartis registered shares rose six francs to 1,786. Ciba Specialty Chemicals fell.</p>
+<p>Among financials, SBC and Swiss Re stood out with advances of more than one percent each. SBC gained 5.50 francs to end at 307.50 and Swiss Re was up 18 francs to 1,530.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

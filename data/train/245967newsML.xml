@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245967" id="root" date="1996-12-10" xml:lang="en">
+<title>YUGOSLAVIA: Federal Yugoslav court upholds Zajedno defeat.</title>
+<headline>Federal Yugoslav court upholds Zajedno defeat.</headline>
+<dateline>BELGRADE 1996-12-10</dateline>
+<text>
+<p>Yugoslavia's federal supreme court has rejected an appeal by the opposition Zajedno (Together) coalition to be reinstated as victors of municipal elections in Belgrade, the city election commission said on Tuesday.</p>
+<p>The decision appeared to exhaust the legal avenues open to Zajedno which has conducted a three-week campaign of street demonstrations against what they say is election rigging by Serbian President Slobodan Milosevic's ruling socialist party.  </p>
+<p>The commission referred the Zajedno appeal to the federal court at the weekend after the Serbian supreme court upheld the opposition's disqualification in 33 seats because of unspecified &quot;irregularities&quot; in the November 17 vote.</p>
+<p>The socialists and their allies will continue to control Belgrade with a majority of the 110 seats.</p>
+<p>Thousands of opposition supporters and students demanding Milosevic's ouster were on the streets of the capital in a 23rd day of protests against election fraud.</p>
+<p>The socialists have ignored the protests and Western calls, backed by threats of reprisals, for Zajedno's victory to be honoured in Belgrade and 14 other towns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

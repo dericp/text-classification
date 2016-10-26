@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300868" id="root" date="1997-01-10" xml:lang="en">
+<title>JAPAN: Japan stocks tumble, Nikkei falls over 300 points.</title>
+<headline>Japan stocks tumble, Nikkei falls over 300 points.</headline>
+<dateline>TOKYO 1997-01-09</dateline>
+<text>
+<p>Japanese stocks took another battering Friday, with the market's key index slipping more than 300 points on persistent gloom over the economy and the health of the nation's troubled banking sector.</p>
+<p>The selling gathered pace through the morning, with the key Nikkei index of 225 leading shares posting a loss of 428.43 points, or 2.37 percent, to stand at 17,645.44 when the market closed for its midday break at 11 a.m. (9 p.m. EST Thursday).</p>
+<p>The drop is the latest in a slide that has taken the market down more than 15 percent since early December.</p>
+<p>Analysts say the market is being pushed lower by gloom about the state of the Japanese economy and worries about higher taxes. The sensitive banking sector is being hardest hit due to massive problem loans left over from the collapse of real estate values, which had soared in the 1980s.</p>
+<p>Government officials have been trying to talk the market higher, saying that economic conditions are not as gloomy as the market's slide suggests. The Ministry of International Trade and Industry said Friday that demand from the private sector will help spur growth late this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

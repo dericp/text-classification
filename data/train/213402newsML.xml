@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213402" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Pall Corp says sues HemaSure.</title>
+<headline>Pall Corp says sues HemaSure.</headline>
+<dateline>EAST HILLS, N.Y. 1996-11-25</dateline>
+<text>
+<p>Pall Corp said Monday it has filed a new lawsuit against HemaSure Inc, accusing the company of patent infringement.</p>
+<p>The lawsuit contends that HemaSure's leukocyte-reducing blood filters violate two U.S. patents covering Pall's nylon membrane and its leukocyte-reducing filter medium.</p>
+<p>In February, Pall sued HemaSure, accusing the Marlborough, Mass.-based company of infringing Pall's U.S. patent for venting and air management of blood filters.</p>
+<p>Pall designs, manufactures and markets disposable filters, membranes and other fluid clarification and separation devices for the health care, aeropower and fluid-processing markets.</p>
+<p>Neither Pall nor HemaSure could be immediately reached for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EAST HILLS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

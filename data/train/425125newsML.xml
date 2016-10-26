@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="425125" id="root" date="1997-03-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-FOCUS-Abnormals drag Colonial result into red.</title>
+<headline>RTRS-FOCUS-Abnormals drag Colonial result into red.</headline>
+<byline>Mark Bendeich</byline>
+<dateline>MELBOURNE 1997-03-05</dateline>
+<text>
+<p>Australian financial services group Colonial Ltd on Thursday reported a bottom-line loss of A$38 million for calendar 1996 after booking A$158 million in abnormal items after tax.</p>
+<p>The result, down from a post-abnormal net profit of A$24 million in 1995, was hit by major &quot;one-off&quot; restructuring costs from the group's demutualisation and changes within its Colonial State Bank business, Colonial's accounts show.  </p>
+<p>Earlier, the group announced to the stock exchange that its pre-abnornmal net profit fell 28 percent to A$120 million in 1996, partly dragged lower by weaker investment returns.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

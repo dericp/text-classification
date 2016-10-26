@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266416" id="root" date="1996-12-19" xml:lang="en">
+<title>UK: Esso Dutch refinery back to full capacity next wee.</title>
+<headline>Esso Dutch refinery back to full capacity next wee.</headline>
+<dateline>LONDON 1996-12-19</dateline>
+<text>
+<p>Exxon's Esso Netherlands' refinery in Rotterdam will get back to full operating capacity sometime next week, a company spokesman said on Thursday.</p>
+<p>The refinery was in the process of starting up after a power outage in the Rotterdam area at 0730 GMT on Tuesday, lasting 90 minutes, forced it's closure.</p>
+<p>The spokesman said it was too early to say on what day next week full capacity would be reached.</p>
+<p>The crude distillation unit, reformer and hydrogen plant had all resumed operations and other units were being brought back on stream today, he said.</p>
+<p>&quot;Some units are back already and we are following normal start-up procedures,&quot; he said. Refineries usually re-start by bringing processing units back on-stream in sequence.</p>
+<p>The Esso plant has a capacity to process 175,000 barrels per day.</p>
+<p>--London newsroom +44 171 542 4984</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

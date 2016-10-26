@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="459285" id="root" date="1997-03-21" xml:lang="en">
+<title>TAIWAN: Taiwan hog epidemic spreads, slaughters imminent.</title>
+<headline>Taiwan hog epidemic spreads, slaughters imminent.</headline>
+<dateline>TAIPEI 1997-03-21</dateline>
+<text>
+<p>Taiwan on Friday said it would start slaughtering hogs plagued by highly contagious foot and mouth disease which has spread to 47 breeding centres on the island.</p>
+<p>&quot;We will start slaughtering all pigs at infected breeding farms,&quot; Lee Jen-chyuan, secretary-general of the Council of Agriculture, told reporters.</p>
+<p>Local media estimated at least 50,000 hogs would be slaughtered at the 47 confirmed infected farms.</p>
+<p>The agriculture council banned all pork exports on Thursday following the outbreak of the deadly foot and mouth disease in the island's large hog population.</p>
+<p>The council estimated that Taiwan exported six million out of its 14 million hogs per year.</p>
+<p>According to a council survey in 1994, the hog industry's net value stood at T$89 billion (US$3.24 billion), comprising 20 percent of Taiwan's farm production value and 60 percent of the livestock value.</p>
+<p>The island, facing a daunting task in trying to eliminate the disease, would import two million doses of vaccines to combat the outbreak, the council said.</p>
+<p>Taiwan Sugar, one of the island's major hog breeders, said many smaller hog breeders would be forced out of businesses.</p>
+<p>&quot;Smaller breeding farms will certainly have to try other agricultural products or go bankrupt,&quot; Taiwan Sugar director Stella Yuan said.</p>
+<p>At least nine small breeders in southern Taiwan have declared they will close down on Friday, local media reported. --Taipei Newsroom (2-508-0815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

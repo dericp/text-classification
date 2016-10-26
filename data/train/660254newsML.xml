@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660254" id="root" date="1997-06-13" xml:lang="en">
+<title>UK: UK delivered grain trades - June 13.</title>
+<headline>UK delivered grain trades - June 13.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1515 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to Gloucestershire Jun 109.50</p>
+<p>Feed wheat to Norfolk/Suffolk Jul 87.50/88.50 Sep 88.00.</p>
+<p>Avonmouth Jun 85.00/84.50 Jul 86.50/86.00 Oct/Dec 92.50.</p>
+<p>Lincolnshire Jul 86.50.</p>
+<p>Shropshire/Cheshire Jun 85.00 Jul 87.00.</p>
+<p>Feed barley to Yorkshire asa 82.50.</p>
+<p>Southampton asa 82.00/81.50.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

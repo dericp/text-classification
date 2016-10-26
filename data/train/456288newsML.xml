@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456288" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: Ban sought on Chinese lease of old U.S. base.</title>
+<headline>Ban sought on Chinese lease of old U.S. base.</headline>
+<dateline>WASHINGTON 1997-03-20</dateline>
+<text>
+<p>A member of Congress from California introduced a bill on Thursday that would kill a plan to lease the closed U.S. Navy base in Long Beach, California, to China's state-owned shipping company.</p>
+<p>&quot;My legislation will prevent a Communist Chinese beachead at the naval station,&quot; said Representative Duncan Hunter, a California Republican, who introduced the measure with four co-sponsors.</p>
+<p>The legislation would bar the Navy from transferring the 135-acre (55 hectare) property to Long Beach if city authorities there planned to lease it to a shipping company owned or controlled by a foreign country.</p>
+<p>At the request of California's two senators and House of Representatives colleagues including Hunter, the Pentagon said last week it was reviewing possible security implications of the lease to the China Ocean Shipping Company, or Cosco.</p>
+<p>The Chinese government agreed last April to pay $14.5 million a year to lease the port. The deal was worked out only three weeks after one of the company's ships was caught by customs officials smuggling Chinese-made arms, apparently destined for U.S. street gangs.</p>
+<p>Defence Department spokesman Ken Bacon said on Thursday that the Navy had not delayed its transfer of the base to Long Beach, but that the process could take until the end of the year because of a host of routine issues as well as the national security review.</p>
+<p>Under a process that governs the post-Cold War closure of U.S. bases, the city would be free to lease the base to Cosco, which has been a Long Beach port tenant for 15 years, Bacon said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

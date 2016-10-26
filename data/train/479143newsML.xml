@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479143" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: North American bunkers mixed, picks up in LA.</title>
+<headline>North American bunkers mixed, picks up in LA.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>North American bunker prices were mixed early this week with the East Coast slightly lower and the West Coast picking up pace following a long slumber.</p>
+<p>Players said the East Coast got off to a slow start following the long Easter holiday weekend, in line with softer crude oil futures.</p>
+<p>In the Gulf Coast, Houston 380 CST was down about $2 a tonne to between $92 a tonne and $93 a tonne. 180 CST was down $3 to $95/96.</p>
+<p>New York Harbor product on the East Coast stayed largely steady, with 380 CST at $93/95.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

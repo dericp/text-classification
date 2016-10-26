@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143989" id="root" date="1996-10-25" xml:lang="en">
+<title>INDIA: ABN Amro cuts India prime rate to 17.5 pct.</title>
+<headline>ABN Amro cuts India prime rate to 17.5 pct.</headline>
+<dateline>BOMBAY 1996-10-25</dateline>
+<text>
+<p>ABN Amro Bank is reducing its Indian prime lending rate to 17.5 percent per annum from 18.5 percent, with effect from November 1, an official at its Bombay office told Reuters on Friday.  </p>
+<p>The bank's maximum spread above the prime lending rate would be four percentage points, the official said. The rates are exclusive of tax, he added.</p>
+<p>The move follows the Reserve Bank of India's monetary policy statement on October 19 which cut the mandatory cash reserve requirement for banks and the cap on interest on deposits upto one year, signalling a cut in lending rates.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

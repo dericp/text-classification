@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151501" id="root" date="1996-10-29" xml:lang="en">
+<title>GERMANY: D.Telekom invests in two Philippines firms.</title>
+<headline>D.Telekom invests in two Philippines firms.</headline>
+<dateline>BONN 1996-10-29</dateline>
+<text>
+<p>Germany's Deutsche Telekom AG said on Tuesday it had bought stakes in two telecommunications companies in the Philippines, sealing an earlier agreement during a visit to the country by Chancellor Helmut Kohl.</p>
+<p>Telekom said in a statement it had bought a 10 percent stake in Islacom, as well as a 40 percent stake in Asiacom Philippines, which has a controlling holding in Islacom.</p>
+<p>Islacom runs the Philippines' two mobile phone networks and has a licence to build a fixed-line network in the Visayas, a part of the Philippines with above-average growth.</p>
+<p>The investment adds to Telekom's interests in Asia, where it is already present in Japan, Hong Kong, Singapore, Indonesia, India, China and Malaysia.</p>
+<p>State-owned Telekom will is floating 20 percent of its shares in Europe's largest ever initial public offering, which is expected to raise 15 billion marks.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

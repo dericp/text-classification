@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160591" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Genzyme licenses Vical therapy.</title>
+<headline>Genzyme licenses Vical therapy.</headline>
+<dateline>SAN DIEGO 1996-10-31</dateline>
+<text>
+<p>Vical Inc said it sold an exclusive license to Genzyme Corp for its cytofectins gene therapy for the potential treatment of cystic fibrosis.</p>
+<p>Vical was paid $1 million and may qualify for future milestone and royalty payments depending on the success of the compound in treating cystic fibrosis.</p>
+<p>Cytofectins are synthetic substances used to incorporate genes into a substance that can be delivered into cells. Vical has developed a procedure to use the cytofectins to deliver a gene believed to correct the defect that causes cystic fibrosis. The procedure is currently being tested in animals.</p>
+<p>Cystic fibrosis is a genetic disease caused by a defect in the function of a specific protein. People afflicted with the disease suffer from mucus buildup in the lungs, and related infections and respiratory problems.</p>
+<p>The disease occurs in about one of every 2,500 births.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103994" id="root" date="1996-10-08" xml:lang="en">
+<title>JAPAN: Japan 20-yr JGB auction lowest price of 100.50.</title>
+<headline>Japan 20-yr JGB auction lowest price of 100.50.</headline>
+<dateline>TOKYO 1996-10-08</dateline>
+<text>
+<p>The Finance Ministry said the results of its auction of 400 billion yen of 3.5 percent 20-year Japanese government bonds (JGB) on Tuesday were as follows:</p>
+<p> Lowest price	 100.50   Stop rate     3.458 pct</p>
+<p> Average price	100.55   Average yield 3.453 pct</p>
+<p> Total bids	   1.5062 trillion yen</p>
+<p> Accepted bids	398.5  billion yen</p>
+<p> Bid to cover ratio		3.78 times</p>
+<p> Bids accepted at lowest price 39.6581 pct</p>
+<p> Issue date   Oct 21   Maturity   March 20, 2017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94522" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: U.S. jobless claims unchanged in latest week.</title>
+<headline>U.S. jobless claims unchanged in latest week.</headline>
+<dateline>WASHINGTON 1996-10-03</dateline>
+<text>
+<p>U.S. Labor Department report of initial state jobless benefit claims, seasonally adjusted.</p>
+<p>Week Ended  Initial Claims  4-Week Avg.  Continued Claims</p>
+<p>     09/28/96	340,000	 334,500	Unavailable</p>
+<p>     09/21/96	340,000	 328,750	2,461,000</p>
+<p>     09/14/96	329,000	 326,250	2,489,000-R</p>
+<p>     09/07/96	329,000	 325,500	2,404,000-R</p>
+<p>R-Revised, Sept 14 Continued Claims from 2,499,000 and Sept 7 Continued Claims from 2,408,000.  </p>
+<p>Wall Street economists had forecast initial claims of 341,000 in the September 28 week.</p>
+<p>The closely followed four-week moving average of claims inched up for the seventh consecutive week, the report showed.</p>
+<p>Labor said four states reported decreases in initial claims exceeding 1,000 on an unadjusted basis in the week ended September 21, the latest period for which the data are available.</p>
+<p>They were North Carolina, with 1,990 fewer claims; New York, with 1,886; Illinois, with 1,697; and Tennessee, with 1,075.  </p>
+<p>North Carolina cited fewer layoffs in the construction and textile industries. Illinois had fewer layoffs in the trade and service industries, and manufacturing.</p>
+<p>Tennessee had fewer layoffs in textile, apparel, lumber, leather goods, electronic and transportation equipment, and service industries. New York had no comment.</p>
+<p>Labor said Michigan and Puerto Rico reported increases in initial claims exceeding 1,000, unadjusted, in the September 21 week.  </p>
+<p>Michigan, with 1,310 additional claims cited layoffs in the automobile industry, while Puerto Rico, with 8,638 more filings, attributed the rise to the impact of Hurricane Hortense.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

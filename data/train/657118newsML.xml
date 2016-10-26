@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657118" id="root" date="1997-06-12" xml:lang="en">
+<title>INDIA: Indian sugar prices rise on fresh consumer demand.</title>
+<headline>Indian sugar prices rise on fresh consumer demand.</headline>
+<dateline>BOMBAY 1997-06-12</dateline>
+<text>
+<p>Sugar prices rose on fresh consumer buying against a limited supply on Thursday, dealers said.</p>
+<p>Ready sugar S-30 gained 5.0/7.0 rupees to 1,430/1,465 per quintal (100 kg) while M-30 moved up 5.0/10 rupees to 1,470/1,505 per quintal.</p>
+<p>Mill delivery S-30 rose 5.0/10 to 1,375/1,390 rupees per quintal while M-30 made a similar gain to 1,395/1,420 per quintal.</p>
+<p>Traders said they expected a narrow movement in prices in the coming days.</p>
+<p>-Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

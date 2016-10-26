@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65014" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Sept 19.</title>
+<headline>PRESS DIGEST - New York Times front page - Sept 19.</headline>
+<dateline>NEW YORK 1996-09-19</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Thursday:</p>
+<p>* The drug that causes the early termination of a pregnancy, known as RU-486, received conditional approval from the U.S. Food and Drug Administration Wednesday.</p>
+<p>* Reform Party presidential candidate Ross Perot railed at his exclusion from the upcoming presidential debates.</p>
+<p>* South Korean troops combed the hills of Seoul by the thousands in search of armed North Korean infiltrators whose submarine became stranded 100 feet offshore of the town of Kangnung.</p>
+<p>* Investigators in the crash of TWA Flight 800 are planning tests that would prove mechanical failure brought down the Boeing 747.</p>
+<p>* Spiro T. Agnew, Richard Nixon's vice president from 1968 to 1973, when he resigned rather than face an indictment on an extortion charge, died Tuesday in Maryland at the age of 77.</p>
+<p>--New York Newsdesk  (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

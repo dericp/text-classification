@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="406580" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Wiser Oil Co Q4 profit vs loss.</title>
+<headline>Wiser Oil Co Q4 profit vs loss.</headline>
+<dateline>DALLAS 1997-02-27</dateline>
+<text>
+<p>Three Months Ended Dec. 31,    Year Ended Dec. 31,</p>
+<p>		  1996	1995  Change    1996	1995 Change</p>
+<p>	     (In thousands, except per share and % change data)</p>
+<p> Total Revenues    27,291  22,585    21   86,689  71,681   21</p>
+<p> Impairment		 0   4,893    --   12,112   4,893  148</p>
+<p>Net Earnings (loss)</p>
+<p>			  7,841   (180)  4,456   6,428   2,193  193</p>
+<p>Shares outstanding</p>
+<p>			  8,939   8,939    --    8,939   8,939   --</p>
+<p>Earnings Per Share</p>
+<p>			   0.88  (0.02)  4,456    0.72    0.25  193</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

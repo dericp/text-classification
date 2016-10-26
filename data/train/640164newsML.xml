@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640164" id="root" date="1997-06-05" xml:lang="en">
+<title>USA: Wall Street moves closer to decimal pricing.</title>
+<headline>Wall Street moves closer to decimal pricing.</headline>
+<byline>Cal Mankowski</byline>
+<dateline>NEW YORK 1997-06-05</dateline>
+<text>
+<p>Wall Street moved closer to the long-awaited pricing of stocks in decimals instead of fractions Thursday with the New York Stock Exchange throwing its support behind the move and government regulators calling an industry-wide planning meeting.</p>
+<p>Traders and analysts said the move was inevitable and would be good for investors. There were a few complaints, with traders arguing that narrower spreads between bid and asked prices would cause a problem for thinly traded stocks.</p>
+<p>One trader, who spoke on condition of anonymity, said stocks like Intel Corp., a Nasdaq issue that traded about 14 million shares on Thursday, is different from other stocks that may trade just a few hundred shares a day.</p>
+<p>The trader said Intel traded like a commodity and a spread of one-quarter point between the bid and the offer was probably too wide. But for less liquid stocks, market makers, the traders who fill public orders for stocks, would make significantly less profit -- possibly no profit at all -- if spreads are narrowed too much.</p>
+<p>The move to tighter spreads was generally seen as positive for the small investor.</p>
+<p>&quot;The public presumably has a lesser cost of acquisition or will get more money on a sale,&quot; said William LeFevre, a market analyst with Ehrenkrantz King Nussbaum.</p>
+<p>One trader said there was some confusion because a couple a things were happening simultaneously. &quot;You should separate the issue of spreads from the issue of decimalizaton,&quot; a trader said.</p>
+<p>The New York Stock Exchange said Thursday it would change the standard trading increment from 1/8, or 12.5 cents, to 1/16, or 6.25 cents, effective later in June and pending Securities and Exchange Commisson approval. The Exchange said it will begin trading in decimals as soon as systems are in place in the industry and it added that the industry should be ready by January 2000.</p>
+<p>In Washington, SEC chairman Arthur Levitt called a meeting of industry representatives within the next 30 days to make plans for the shift.</p>
+<p>&quot;Having New York clearly define where they want to go certainly unlocked a logjam,&quot; said Robert Farney, president and chief executive of the Chicago Stock Exchange. He said the industry will have to get together and throw its support to trading in increments smaller than 1/16 before the move to decimals can take place.</p>
+<p>Nasdaq, which this week began quoting in 1/16 increments, is seeking industry comments on decimalization. Nasdaq released a study Thursday that showed spreads narrowed an average of six percent in the first two days of quoting in 1/16 increments. Nasdaq said the finding was preliminary.</p>
+<p>The American Stock Exchange has already said publicly that it views a change to decimals as inevitable and that it will be ready to make the change with the industry. The Amex said it began pricing in 1/16 increments several weeks ago.</p>
+<p>With the shift to smaller fractions seen as a key step in bringing about tighter spreads, analysts said it just made sense to go to decimals. &quot;It's a lot easier for the average person to understand $10.31 than it us 10-5/16,&quot; said one trader.</p>
+<p>Perrin Long, an independent analyst who tracks the securities industry, said the changes would effect the specialists, the exclusive market makers for exchange-listed issues. Many of those firms are closely held, non-public entities, but a few are owned by well-known firms. The spread is the main source of profit for the specialists.</p>
+<p>&quot;We have said we are closely examining the move to decimalization,&quot; said a spokesman for Merrlll Lynch and Co. Inc. whose Merrill Lynch Specialists Inc. unit makes markets in 115 NYSE stocks. &quot;We believe it can have benefits for our clients in simplifying transactions.&quot; But the spokesman said it could mean better prices for clients but narrower spreads to reduce liquidity.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="583885" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Indian Ocean cyclone strengthens, threatens ships.</title>
+<headline>Indian Ocean cyclone strengthens, threatens ships.</headline>
+<dateline>LEXINGTON, MASS. 1997-05-14</dateline>
+<text>
+<p>Tropical Cyclone 36S (Rhonda) is moving southeast in the southern Indian Ocean and strengthening, private forecaster Weather Services Inc said.</p>
+<p>Cyclone Rhonda, near 16s/96e, is a significant risk to shipping in the area with top winds now at 110 mph. It will reach peak intensity over the next 24 hours before beginning a slow weakening trend.</p>
+<p>The system will remain over the open waters of the southern Indian Ocean, WSC said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, MASS."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

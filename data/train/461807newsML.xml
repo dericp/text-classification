@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461807" id="root" date="1997-03-22" xml:lang="en">
+<title>INDIA: Indian February vehicle production rises.</title>
+<headline>Indian February vehicle production rises.</headline>
+<dateline>NEW DELHI 1997-03-22</dateline>
+<text>
+<p>Indian production of vehicles rose in February compared with the same month in 1996, the Association of Indian Automobile Manufacturers (AIAM) said in a monthly statement on Saturday.  </p>
+<p>				   PRODUCTION (in units)</p>
+<p>		  Feb 97   Feb 96  Apr96-Feb97  Apr95-Feb96</p>
+<p>  TRUCKS	24,664   23,618    270,805	231,190</p>
+<p>  CARS	  35,081   34,968    367,754	313,012</p>
+<p>  2-WHEELERS 228,257  241,222  2,720,598    2,387,064</p>
+<p>				     SALES (in units)</p>
+<p>		  Feb 97   Feb 96  Apr96-Feb 97 Apr95-Feb 96</p>
+<p>  TRUCKS	23,412  23,819     256,828	225,129</p>
+<p>  CARS	  36,594  34,358     362,013	306,177</p>
+<p>  2-WHEELERS 246,464 233,560   2,688,758    2,386,889</p>
+<p>--New Delhi Newsroom +91-11-301-2024</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

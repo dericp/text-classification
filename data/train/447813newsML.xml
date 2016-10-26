@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="447813" id="root" date="1997-03-17" xml:lang="en">
+<title>FINLAND: FINNISH ELCOTEQ TO GET ESTONIA INVESTMENT AWARD.</title>
+<headline>FINNISH ELCOTEQ TO GET ESTONIA INVESTMENT AWARD.</headline>
+<dateline>HELSINKI 1997-03-17</dateline>
+<text>
+<p>Finnish electronics group Elcoteq is to recieve an award as the best investor in Estonia for 1996, the Estonian privatisation agency told Reuters at a Baltic investment conference here.</p>
+<p>Kulliki Linnamagi, foreign relations manager for the agency, said an award ceremony would take place in Tallinn tomorrow and will be attended by President Lennart Meri.  </p>
+<p>Linnamagi said the award was made for those companies who helped exports, bring new technology and create jobs.</p>
+<p>Elcoteq manufactures products for the electronics manufacturing services industry from a factory in Tallinn.</p>
+<p>It is Estonia's biggest exporter and has created more than 1,300 high tech related jobs in the country.</p>
+<p>The Baltic investment conference, organised by London-based ICM marketing, has brought together corporate officials and bankers who are interested in or already have invested in the Baltic states.</p>
+<p>--Patrick Lannin, Helsinki +371 9 356 187</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

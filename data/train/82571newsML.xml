@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82571" id="root" date="1996-09-27" xml:lang="en">
+<title>AUSTRALIA: RTRS-S&amp;P rates QTC dual currency samurai AA.</title>
+<headline>RTRS-S&amp;P rates QTC dual currency samurai AA.</headline>
+<dateline>MELBOURNE 1996-09-27</dateline>
+<text>
+<p>Standard and Poor's Corp said on Friday it has assigned its AA rating to Queensland Treasury Corp's 30 billion yen dual currency samurai series 7 bonds maturing October 15, 1998.  </p>
+<p>S&amp;P said the rating reflected that of QTC's guarantor, the state government of Queensland, for which it acts as central borrowing agency.</p>
+<p>The ratings agency said the rating was constrained by the AA foreign currency sovereign rating of the Commonwealth of Australia.</p>
+<p>&quot;The foreign currency rating outlook is positive,&quot; S&amp;P said.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

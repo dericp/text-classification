@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93264" id="root" date="1996-10-03" xml:lang="en">
+<title>SOUTH KOREA: Soccer-Results of South Korean pro-soccer games.</title>
+<headline>Soccer-Results of South Korean pro-soccer games.</headline>
+<dateline>SEOUL 1996-10-03</dateline>
+<text>
+<p>Results of South Korean pro-soccer games played on Wednesday.</p>
+<p> Pohang	3    Suwon	 0   (halftime 1-1)</p>
+<p> Chonan	3    Ulsan	 2   (halftime 2-1)</p>
+<p>Standings after games played on Wednesday (Tabulate under -</p>
+<p>won, drawn, lost, goals for, goals against, points):</p>
+<p>			 W     D    L    G/F   G/A    P</p>
+<p> Pohang		5     2    1    19    13    17</p>
+<p> Puchon		5     2    2    14    10    17</p>
+<p> Suwon		 3     5    1    13     9    14</p>
+<p> Chonan		4     2    2    21    18    14</p>
+<p> Chonnam	     3     3    2    11     9    12</p>
+<p> Anyang		2     5    2    14    15    11</p>
+<p> Chonbuk	     2     1    5    11    15     7</p>
+<p> Pusan		 1     4    4    11    17     7</p>
+<p> Ulsan		 2     0    8    18    26     6</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

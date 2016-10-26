@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432270" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: Motorola files patent infringement suit.</title>
+<headline>Motorola files patent infringement suit.</headline>
+<dateline>LIBERTYVILLE, Ill. 1997-03-11</dateline>
+<text>
+<p>Motorola Inc said Tuesday it filed a patent infringement lawsuit in federal District Court for the Northern District of Illinois against Qualcomm Inc and Shieldmate Robotics.</p>
+<p>Last week, Motorola said it intended to file the suit against Qualcomm, alleging that its &quot;Q&quot; phone copies the design of Motorola's handheld StarTAC digital cellular phone.  </p>
+<p>Motorola, which filed the suit on Monday, said it is seeking a preliminary injunction to stop all of Qualcomm's and Shieldmate's activities with respect to the Q phone.</p>
+<p>A hearing date was set for March 28.</p>
+<p>Motorola said Shieldmate is a long-time supplier of cellular telephone housings and shielding to Motorola's Cellular Subscriber Sector and is the principal supplier of Motorola's StarTAC phone housings.</p>
+<p>Motorola claimed that Shieldmate received detailed engineered drawings of the StarTAC phone housing, subject to a non-disclosure agreement, and worked on the design and creation of molding tools used to make StarTAC phone housing components.</p>
+<p>Motorola said its lawsuit alleges, in part, that Shieldmate breached the non-disclosure agreements.</p>
+<p>Claims against Qualcomm include infringement, unfair competition, dilution of Motorola's trademarks and deceptive trade practices.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIBERTYVILLE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

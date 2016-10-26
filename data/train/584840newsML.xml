@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="584840" id="root" date="1997-05-14" xml:lang="en">
+<title>JAPAN: Trade in Sumitomo Trust shares suspended.</title>
+<headline>Trade in Sumitomo Trust shares suspended.</headline>
+<dateline>TOKYO 1997-05-14</dateline>
+<text>
+<p>Shares in Sumitomo Trust &amp; Banking Co Ltd were suspended from trade on the Tokyo Stock Exchange (TSE) on Wednesday, the bourse said.  </p>
+<p>The TSE said that trade in the shares had been halted for the entire session starting from 0135 GMT, due to unclear information surrounding the issuance of preferred shares.</p>
+<p>The shares were ask-only earlier in the session on market rumours that the trust bank is considering equity financing worth some 100 billion yen, said brokers.</p>
+<p>Sumitomo Trust declined to comment on the rumours.  </p>
+<p>On Monday, underwriting sources told Reuters the trust bank was considering issuing euroyen convertible bonds worth some 100 billion yen in an attempt to strengthen its asset base.</p>
+<p>But some underwriting sources said at that time that a lack of clear direction in the stock market could make the timing of the issue flexible.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200143" id="root" date="1996-11-19" xml:lang="en">
+<title>FRANCE: Second time lucky for Cuban-born writer in France.</title>
+<headline>Second time lucky for Cuban-born writer in France.</headline>
+<dateline>PARIS 1996-11-19</dateline>
+<text>
+<p>Cuban-born writer Eduardo Manet won France's Interallie prize on Tuesday, a week after missing the country's top Goncourt literary award by a whisker.</p>
+<p>Manet won the last of the French literary season's prizes for &quot;Rhapsodie Cubaine&quot; (Cuban Rhapsody), a novel about a wealthy Cuban family going into exile in Miami after President Fidel Castro's 1959 Communist revolution.</p>
+<p>Manet, who himself left Cuba and became a French citizen in 1979, tells how the Sargats family's son Julian gradually blends into American society while his mother sinks into alcoholism.</p>
+<p>But Julian, torn between the English and Spanish languages and haunted by a secret nostalgia for Havana, remains &quot;a drifting algae, a foreign species which cannot take root anywhere&quot;.</p>
+<p>The Goncourt jury last week was split five-to-five between Manet and French writer Pascale Roze's &quot;Le Chasseur Zero&quot; (Fighter Zero). The president of the jury cast the deciding vote for Roze.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

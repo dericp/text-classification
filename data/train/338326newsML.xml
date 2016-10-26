@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338326" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: RESEARCH ALERT - GCC cut to neutral.</title>
+<headline>RESEARCH ALERT - GCC cut to neutral.</headline>
+<text>
+<p>-- Bear, Stearns and Co said it cut its rating on Mexican cement company Grupo Cementos Chihuahua SA (GCC) to neutral from attractive.</p>
+<p>-- Analyst Sobani Warner said that despite high expectations for Mexican sales, sluggish U.S. operations could weigh on GCC's stock performance in 1997.</p>
+<p>-- &quot;Although we expect the stock to perform in line with the Mexican market, significant outperformance at this point would be challenging, especially after the stock's spectacular 1996 performance and the market's continued concern about higher dumping duties,&quot; Warner wrote.</p>
+<p>-- GCC was up 14 centavos to 9.02 pesos in early trade Tuesday.</p>
+<p>((--Mexico City Newsroom, 525 728-9565))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="589128" id="root" date="1997-05-16" xml:lang="en">
+<title>USA: Voice It Worldwide Q1 shr loss widens.</title>
+<headline>Voice It Worldwide Q1 shr loss widens.</headline>
+<dateline>FORT COLLINS, Colo. 1997-05-16</dateline>
+<text>
+<p>Voice It Worldwide Inc.</p>
+<p>				Three months ended March 31</p>
+<p>					  1997			  1996</p>
+<p> Net Sales		    $ 1,356,143		 $ 2,761,927</p>
+<p> Net Loss			 (441,572)		    (72,049)</p>
+<p> Loss Per Share		   ( 0.09)		     ( 0.01)</p>
+<p> Average Shares Outstanding  5,054,802		  5,054,802</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT COLLINS, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

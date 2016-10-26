@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65656" id="root" date="1996-09-19" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia tin output seen same after ATP exit.</title>
+<headline>RTRS - Australia tin output seen same after ATP exit.</headline>
+<dateline>PERTH 1996-09-19</dateline>
+<text>
+<p>Australian tin production will not be affected by the government's decision to withdraw from the Association of Tin Producing Countries (ATPC), tin mining companies said on Thursday.</p>
+<p>The 13 year old association had become no more than a discussion forum in recent years with no regulatory powers to control production and exports, they said. The Australian government plans to withdraw from the ATPC from December 10.</p>
+<p>Peter Robinson, director of operations for RGC said the association was &quot;already dead in all but name,&quot; and had long outlived its usefulness.  </p>
+<p>Renison expects to produce about 10,000 tonnes of tin from its Renison Bell mine in Tasmania in 1996.</p>
+<p>Another 10,000 tonnes will be produced from Renison's 75 pct owned Pt Koba mine in Indonesia.</p>
+<p>Norminco Ltd, which plans to export up to 800 tonnes of tin concentrates to Malaysia in 1996, also sees little impact from the withdrawal. &quot;Our view is that it is not a critical blow,&quot; said company secretary George Strickland.</p>
+<p>Thailand recently signalled its intention to withdraw from the ATPC and other countries may follow. Robinson said he would not be surprised if Indonesia was to quit at some stage.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PERTH"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

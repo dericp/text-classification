@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="554770" id="root" date="1997-05-01" xml:lang="en">
+<title>UK: Britain urges citizens to leave Zaire immediately.</title>
+<headline>Britain urges citizens to leave Zaire immediately.</headline>
+<dateline>LONDON 1997-05-01</dateline>
+<text>
+<p>The British ambassador in Zaire urged Britons on Thursday to leave the strife-torn central African state immediately, telling them to act while scheduled flights and ferries were still operating.</p>
+<p>The Foreign Office said in a statement aimed at those still in Zaire that only those with an urgent need to remain should contemplate staying behind and urged them to listen to BBC world service radio for further broadcasts.</p>
+<p>Ailing Zairean President Mobuto Sese Soko prepared on Thursday for his first face-to-face talks with Laurent Kabila, head of rebel forces sweeping across the giant country.</p>
+<p>&quot;The British ambassador advises all British nationals to leave Zaire as soon as possible unless they have an urgent need to remain,&quot; the Foreign Office said.</p>
+<p>&quot;It is wise to to do while normal commercial transport services, such as scheduled flights and ferries, are still available. But the longer you delay, the more difficult your subsequent departure will become.&quot;</p>
+<p>Britain said on Monday it would send 200 troops to Zaire as an additional precaution in case British and Commonwealth citizens needed to be evacuated.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

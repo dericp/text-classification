@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="358524" id="root" date="1997-02-05" xml:lang="en">
+<title>GERMANY: Lufthansa shares surge 5.6 pct in bourse.</title>
+<headline>Lufthansa shares surge 5.6 pct in bourse.</headline>
+<dateline>FRANKFURT 1997-02-05</dateline>
+<text>
+<p>Shares in Deutsche Lufthansa AG advanced almost six percent to 23.40 marks in early bourse trade on Wednesday after the German airline announced plans for a major restructuring programme that will include job cuts.</p>
+<p>At 1000 GMT, Lufthansa shares had pared some gains to trade up 1.20 marks at 23.35 marks and just off the session high so far at 23.45 marks.</p>
+<p>The broader 30-share DAX index of German blue-chip stocks was up 19.39 points at 3,086.45 points.</p>
+<p>Lufthansa said it would reorganise its businesses into autonomous profit centres in a move aimed at cutting management and administration positions by a minimum of 10 percent ahead of the deregulation of European airlines on April 1.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

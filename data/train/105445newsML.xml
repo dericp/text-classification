@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105445" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: CBOT rice closes lower as cash markets edge lower.</title>
+<headline>CBOT rice closes lower as cash markets edge lower.</headline>
+<dateline>CHICAGO 1996-10-09</dateline>
+<text>
+<p>CBOT rice futures closed lower on indications of a further weakening in cash rice prices, traders said.</p>
+<p>&quot;Market quotes for a variety of types of milling rice are being discounted,&quot; a trader said.</p>
+<p>Rice futures trading remained slow amid an adequate supply of rice worldwide to meet mostly routine demand.</p>
+<p>Rice closed unchanged to six cents per cwt lower, with November unchanged at $9.80 per cwt.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

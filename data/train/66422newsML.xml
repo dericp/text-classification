@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66422" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: IPO FILING - BIOSENSE CORP.</title>
+<headline>IPO FILING - BIOSENSE CORP.</headline>
+<dateline>WASHINGTON 1996-09-20</dateline>
+<text>
+<p>Company Name		    Biosense Corp</p>
+<p>Stock symbol			BSEN.O</p>
+<p>Estimated price range	   N/A</p>
+<p>Total shares to be offered    N/A</p>
+<p>Shrs offered by company	 N/A</p>
+<p>Shrs offered by shareholders  N/A Shrs outstanding after ipo    N/A</p>
+<p>Lead Underwriter    UBS Securities</p>
+<p>Underwriters over-allotment  N/A Business: Developer of technology enabling physicians to navigate medical instruments in patients' bodies during minor surgery. Use of Proceeds: Fund research and development, clinical studies, sales and marketing, capital equipment acquisitions, working capital and other general corporate purposes.</p>
+<p>Financial Data in 000s:     1995		 1994</p>
+<p>   - Revenue		     --		  $204</p>
+<p>   - Net Income	  ($31,831)	   ($7,761)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

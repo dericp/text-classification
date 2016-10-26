@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254188" id="root" date="1996-12-13" xml:lang="en">
+<title>BELGIUM: SOCCER-BELGIUM AND NETHERLANDS DRAW 2-2 IN EURO U-21 QUALIFIER.</title>
+<headline>SOCCER-BELGIUM AND NETHERLANDS DRAW 2-2 IN EURO U-21 QUALIFIER.</headline>
+<dateline>LIEGE, Belgium 1996-12-13</dateline>
+<text>
+<p>Belgium and the</p>
+<p>Netherlands drew 2-2 (halftime 1-1) in their European under-21</p>
+<p>championship group seven qualifying match on Friday.</p>
+<p>Scorers:</p>
+<p>Belgium - M'bo Mpenza 18, Davy Oyen 50</p>
+<p>Netherlands - Boudewijn Zenden 11, Arnold Bruggink 69</p>
+<p>Attendance: 4,000</p>
+<p>Group standings (tabulate under - played, won, drawn, lost,</p>
+<p>goals for, against, points):Turkey 2 2 0 0 5 1 6</p>
+<p>Wales	 4   2   0   2   7   5   6</p>
+<p>Belgium     3   1   1   1   8   5   4</p>
+<p>Netherlands 2   1   1   0   4   2   4</p>
+<p>San Marino  3   0   0   3   1  12   0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIEGE, Belgium"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

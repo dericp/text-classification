@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209884" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: PRESALE - Eagan, Minn..</title>
+<headline>PRESALE - Eagan, Minn..</headline>
+<text>
+<p>AMT: 6,115,000	DATE: 11/25/96	NYC Time: 1130	CUSIP: 269408</p>
+<p>ISSUER: Eagan							     ST: MN</p>
+<p>ISSUE: GO improvement, Series 1996 A				TAX STAT:Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 12/01/96							     SURE BID: Y</p>
+<p>DUE: 2/1/98-18						SR MGR:</p>
+<p>1ST CPN: 08/01/97</p>
+<p>CALL: 2/1/04 at par					 TIC</p>
+<p>DELIVERY: 40 days					   ORDERS:</p>
+<p>PAYING AGENT: To be named by the City</p>
+<p>L.O.: Faegre &amp; Benson, Minneapolis</p>
+<p>F.A.: Springsted Inc., Saint Paul</p>
+<p>LAST SALE: $3,375,000 10/17/95 @ 4.776% TIC; 6 yrs 9 mos Avg; BBI- 5.82%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    140,000</p>
+<p>1999		    550,000</p>
+<p>2000		    500,000</p>
+<p>2001		    500,000</p>
+<p>2002		    475,000</p>
+<p>2003		    350,000</p>
+<p>2004		    325,000</p>
+<p>2005		    325,000</p>
+<p>2006		    300,000</p>
+<p>2007		    300,000</p>
+<p>2008		    300,000</p>
+<p>2009		    300,000</p>
+<p>2010		    275,000</p>
+<p>2011		    275,000</p>
+<p>2012		    275,000</p>
+<p>2013		    175,000</p>
+<p>2014		    150,000</p>
+<p>2015		    150,000</p>
+<p>2016		    150,000</p>
+<p>2017		    150,000</p>
+<p>2018		    150,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

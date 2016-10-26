@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94360" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: Top 10 best selling U.S. vehicles in 1996 model year.</title>
+<headline>Top 10 best selling U.S. vehicles in 1996 model year.</headline>
+<dateline>DETROIT 1996-10-03</dateline>
+<text>
+<p>The following are the top 10 selling vehicles in the United States during the 1996 model year, which runs Oct. 1, 1995 through Sept. 30, 1996. ..........................................PERCENT CHANGE..</p>
+<p>VEHICLE......................SALES.....FROM 1995 MODEL YEAR</p>
+<p>1.  Ford F-Series Pickup.........767,141...........+10.2</p>
+<p>2.  Chevrolet C/K Pickup.........527,500............+2.2</p>
+<p>3.  Ford Explorer................404,658...........+17.5</p>
+<p>4.  Ford Taurus..................378,144............-4.9</p>
+<p>5.  Dodge Ram Pickup.............369,073...........+46.2</p>
+<p>6.  Honda Accord.................367,137............+6.5</p>
+<p>7.  Toyota Camry.................354,035...........+11.1</p>
+<p>8.  Dodge Caravan................299,814...........+17.9</p>
+<p>9.  Ford Escort..................292,900............-2.6</p>
+<p>10. Ford Ranger..................290,133,...........-7.7</p>
+<p>Source: Autodata Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

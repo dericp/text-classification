@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141623" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: U.S. Oilmill data - Census Bureau.</title>
+<headline>U.S. Oilmill data - Census Bureau.</headline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>U.S. Census Bureau oilmill</p>
+<p>stocks (X-1,000 Bu, Y-Mln Lbs, Z-Short Tons, R-Revised).</p>
+<p>			 Sep 96     Aug 96	Sep 95</p>
+<p>	Soybeans-X   23,267     40,421-R   541,657</p>
+<p> Soy Crude Oil-Y    713.3	774.5-R     429.3</p>
+<p>  Soycake/Meal-Z  188,293    180,784-R   195,854</p>
+<p>  Soy Millfeed-Z   40,505     34,553	27,525</p>
+<p>SOYOIL FACTORY AND WAREHOUSE STOCKS (Mln Lbs):</p>
+<p>	   Crude    1,814.4    1,874.3	 905.7</p>
+<p>	 Refined	213.4	217.1-R     231.0</p>
+<p>	   Total    2,027.8    2,091.4-R   1,136.7</p>
+<p>SOYBEAN PRODUCT OUTPUT AT MILLS:</p>
+<p>			 Sep 96	Aug 96	 Sep 95</p>
+<p>   Crushings-X    100,540     105,571-R    107,414</p>
+<p>   Crude Oil-Y    1,140.5     1,771.2-R    1,208.4</p>
+<p>   Cake/Meal-Z  2,221,517   2,326,995-R  2,362,867</p>
+<p>   Millfeed-Z     177,490     182,898	172,906</p>
+<p>	 CRUSHINGS OF OTHER OILSEEDS (Short Tons):</p>
+<p>   Cottonseed     214,931     222,172	245,471</p>
+<p>   Peanut	    31,912	37,386-R	21,211</p>
+<p> Sunflowerseed	    W	     W		W</p>
+<p>X-1,000 Bu. Y-Mln Lbs. Z-Short Tons. R-Revised. W-Withheld.</p>
+<p>STOCKS OF OTHER OILSEEDS (Short Tons):</p>
+<p>			  Sep 96	Aug 96	 Sep 95</p>
+<p>    Cottonseed     480,598     368,989	565,687</p>
+<p>	 Peanuts	40,199	49,952		W</p>
+<p> Sunflowerseed	     W	     W	 18,378</p>
+<p> Safflowerseed	     W	     W		W</p>
+<p>N/A-not available. R-Revised. W-Withheld to avoid disclosing data for individual companies.</p>
+<p>STOCKS OF OTHER OILSEED PRODUCTS:</p>
+<p>			Sep 96     Aug 96     Sep 95</p>
+<p>CRUDE OILS (Mln Lbs) --</p>
+<p>    Cottonseed     30.8	 23.6-R     21.2</p>
+<p>	    Corn     28.4	 35.7-R     36.0</p>
+<p> Sunflowerseed     23.4	 27.1	    W</p>
+<p>CAKE/MEAL (Short Tons) --</p>
+<p>    Cottonseed   51,185     53,273     46,568</p>
+<p>	 Peanuts	  W	3,145	5,225</p>
+<p> Sunflowerseed	  W	    W	    W</p>
+<p>R-Revised. W-Data withheld.</p>
+<p>OUTPUT OF OTHER OILSEED PRODUCTS:</p>
+<p>					 Sep 96    Aug 96     Sep 95</p>
+<p> CRUDE OILS-X --- Cottonseed     69.4	70.3	 84.3</p>
+<p>		   Sunflowerseed	  W	   W	    W</p>
+<p>				Corn    168.6     162.2-R    188.5</p>
+<p>			    Peanut     27.1	31.5	 17.4</p>
+<p> CAKE/MEAL-Y ---- Cottonseed   99,068   100,939-R  113,571</p>
+<p>		   Sunflowerseed	  W	   W	    W</p>
+<p>			    Peanut   17,411    20,346-R   10,992</p>
+<p>X-Mln Lbs. Y-Short Tons. R-Revised. W-Withheld.</p>
+<p>    ------OUTPUT:			    Jan-Sep 96  Jan-Sep 95</p>
+<p> SOY PRODUCTS--Crushings (1,000 Bu)	 993,438   1,036,377</p>
+<p>		   Crude Oil (Mln Lbs)     11,140,947  11,540,756</p>
+<p>		   Cake/Meal (Short Tons)  21,984,341  22,862,448</p>
+<p>		    Millfeed (Short Tons)   1,685,860   1,664,160</p>
+<p>CRUSHINGS OF OTHER OILSEEDS:</p>
+<p>		    Cottonseed (Shrt Tons)  2,701,992   2,941,843</p>
+<p>			 Peanuts (Shrt Tons)    339,461     329,677</p>
+<p>		 Sunflowerseed (Shrt Tons)     24,491     953,445</p>
+<p>W-Withheld</p>
+<p>OILSEED PRODUCT OUTPUT:</p>
+<p>					  Jan-Sep 96  Jan-Sep 95</p>
+<p> CRUDE OILS-X ----- Cottonseed	 987.6	     W</p>
+<p>		     Sunflowerseed	  20.3	     W</p>
+<p>				  Corn     1,558.3     1,693.0</p>
+<p>				Peanut	 286.9	 275.1</p>
+<p> CAKE/MEAL-Y -------Cottonseed   1,232,870   1,326,915</p>
+<p>		     Sunflowerseed	14,327	     W</p>
+<p>				Peanut     190,105     178,937</p>
+<p>X-Mln Lbs. Y-Short Tons. W-Withheld</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

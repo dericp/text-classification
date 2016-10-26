@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255714" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Candie's Inc Q3 net loss vs profit.</title>
+<headline>Candie's Inc Q3 net loss vs profit.</headline>
+<dateline>PURCHASE, N.Y. 1996-12-12</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss		   $0.02   profit	 $0.07</p>
+<p> Net loss		     168   profit	   706</p>
+<p> Revs			10,962		   10,602</p>
+<p> Avg shrs		   9,118		   14,453</p>
+<p>	  NINE MONTHS ENDED OCTOBER 31</p>
+<p> Shr loss		   $0.02   profit	 $0.14</p>
+<p> Net loss		     152   profit	 1,181</p>
+<p> Revs			32,262		   30,193</p>
+<p> Avg shrs		   8,877		    8,543</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PURCHASE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

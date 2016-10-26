@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194319" id="root" date="1996-11-15" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 1 PM.</headline>
+<dateline>BUCHAREST 1996-11-15</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* The cabinet of Prime Minister Nicolae Vacaroiu is presenting its activity report for the past four years in office in its weekly session.</p>
+<p>The cabinet will also discuss the stage of autumn farming work and the prepartions for Sunday's presidential run-off.</p>
+<p>* After two months of campaigning, Romanians have two more days to clarify options for the November 17 run-off.</p>
+<p>Sunday's vote will elect one of the two contenders -- President Ion Iliescu of the Party of Social Democracy and Emil Constantinescu of the opposition Democratic Convention -- to be the new president for the following four years.</p>
+<p>* Printing of voting ballots and of all papers needed to centralise final results has been completed.</p>
+<p>* Accreditations for local and international observers issued for the first election round remain valid for Sunday too.</p>
+<p>* President Iliescu's name is printed on the second page of the ballot paper and Constantinescu's name on the third. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

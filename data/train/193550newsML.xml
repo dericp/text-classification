@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193550" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: BPA now says extra AC capacity in Dec unlikely.</title>
+<headline>BPA now says extra AC capacity in Dec unlikely.</headline>
+<dateline>LOS ANGELES 1996-11-15</dateline>
+<text>
+<p>The Bonneville Power Administration (BPA) is &quot;not hopeful at all&quot; of raising capcity on the AC segment of the Pacific Intertie by next month, a company spokeswoman said Friday.</p>
+<p>BPA administrator Randall Hardy said at a congressional hearing in Los Angeles last week the federal agency expected to increase capacity on the line to 3,600 megawatts (MW) by mid-December.</p>
+<p>He said work to correct voltage support problems at the McNary hydroelectric dam on the Columbia River was near completion.</p>
+<p>But the Western System Coordinating Council (WSCC), which oversees operation of the western power grid, says other criteria need to be met, the BPA spokeswoman said Friday.</p>
+<p>Capacity on the 4,800 MW AC line, part of the high-voltage system linking the Northwest and Southwest power markets, is currently limited to 3,200 MW north to south and 3,675 MW south to north, according to Bonneville.</p>
+<p>The agency still &quot;absolutely hopes&quot; to raise capacity on the AC, as well as DC (direct current), intertie lines in time for next spring's runoff, the BPA spokeswoman said.</p>
+<p>&quot;We will have a financial loss&quot; if the lines are not able to carry the large volumes of hydroelectric power generated in the spring, she noted.</p>
+<p>Full studies on how to guarantee voltage support on the transmission system are not expected before January.</p>
+<p>Power transmissions on the 3,200 DC segment of the line have been capped at 2,000 to 2,200 MW since the August 10 outage, also because of voltage support concerns.</p>
+<p>Bonneville expects to release a follow-up study of the outage next week.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

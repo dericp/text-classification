@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647871" id="root" date="1997-06-09" xml:lang="en">
+<title>USA: Kansas City/Hutchinson elevator stocks - June 9.</title>
+<headline>Kansas City/Hutchinson elevator stocks - June 9.</headline>
+<text>
+<p>shown in 1,000 bushels</p>
+<p> ...........Kansas City.....................Hutchinson, Kan.</p>
+<p>	     Today	Change    Year ago    Today    Change</p>
+<p> Wheat     3,821	 -81	  6,601     3,489	-358</p>
+<p> Corn	1,282	 -56	  3,431	   0	   0</p>
+<p> Sorghum     568	  75	    450	 715	  58</p>
+<p> Soybns    2,081	-189	  4,136	 149	   0</p>
+<p> Total     8,203	-252	 14,722     4,354	-301</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

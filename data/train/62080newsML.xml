@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="62080" id="root" date="1996-09-18" xml:lang="en">
+<title>UK: Hong Kong stocks in London lower, eye Wall St.</title>
+<headline>Hong Kong stocks in London lower, eye Wall St.</headline>
+<dateline>LONDON 1996-09-18</dateline>
+<text>
+<p>Hong Kong shares were down in a thin London market as events in the U.S. continued to overshadow trading, dealers said.</p>
+<p>The debate about whether next week's Federal Open Market Comittee meeting will signal a rise in U.S. rates remained on the top of the agenda with comments from Federal Reserve officials on Tuesday adding to investors' caution.</p>
+<p>&quot;It's very quiet, nothing happening at all,&quot; said one London trader.</p>
+<p>&quot;The focus remains Wall Street and we've seen nothing whatsoever today.&quot;</p>
+<p>Wall Street stocks started weaker after a much higher-than- forecast July trade deficit and with interest rate considerations again taking centre stage. U.S. Treasuries were steady. By 1338 GMT, the Hang Seng London Reference index was 17.81 points lower at 11,576.22.</p>
+<p>Overnight in Hong Kong, the Hang Seng index closed modestly lower as profit-takers and bulls struggled for dominance.</p>
+<p>The index slipped 27.58 poinst at 11,594.03.</p>
+<p>-- London Newsroom +44 171 542 8712</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220972" id="root" date="1996-11-27" xml:lang="en">
+<title>TUNISIA: Tunisian refinery to process Libyan, Algerian crude.</title>
+<headline>Tunisian refinery to process Libyan, Algerian crude.</headline>
+<dateline>SFAX, Tunisia</dateline>
+<text>
+<p>Foreign investors plan to build a $1.1 billion refinery in southern Tunisia that would process crude oil from neighbouring Algeria and Libya for the Mediterranean market, the project's director said Wednesday.</p>
+<p>The refinery, to be build in the coastal oil terminal of La Skhira, 175 miles south of Tunis, would process six million metric tons of crude a year.</p>
+<p>&quot;An international tender to build the refinery would be launched at the end of the first quarter of 1997,&quot; Levon Garabette, the project's director told Reuters in the Tunisian southern city of Sfax.</p>
+<p>&quot;The total cost is estimated at $1.1 billion. The finance scheme is already in place, with 20 percent from equities, and 80 percent from financings,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SFAX, Tunisia"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

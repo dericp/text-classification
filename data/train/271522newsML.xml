@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271522" id="root" date="1996-12-21" xml:lang="en">
+<title>UK: SOCCER-SCOTTISH PREMIER DIVISION SUMMARIES.</title>
+<headline>SOCCER-SCOTTISH PREMIER DIVISION SUMMARIES.</headline>
+<dateline>GLASGOW 1996-12-21</dateline>
+<text>
+<p>Summaries of Scottish premier</p>
+<p>division soccer matches played on Saturday:</p>
+<p>Celtic 1 (O'Donnell 39) Dundee United 0. Halftime 1-0.</p>
+<p>Attendance 46,590.</p>
+<p>Hearts 1 (J.Robertson 57) Rangers 4 (D.Robertson 23, Laudrup</p>
+<p>48, Albertz 67 pen, Gascoigne 84). 0-1. 15,139.</p>
+<p>Kilmarnock 3 (Burke 11, 58, Roberts 89) Aberdeen 0. 1-0. 6,114</p>
+<p>Motherwell 2 (Ireland 12 own goal, Coyne 29) Dunfermline 3</p>
+<p>(Millar 15 pen, Smith 56, 75). 2-1. 4,529.</p>
+<p>Raith 0 Hibernian 3 (Jackson 61, 79, McGinlay 67). 0-0. 4,224.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

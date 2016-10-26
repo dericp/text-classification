@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331508" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Pacific Intertie AC capacity reduced for Monday.</title>
+<headline>Pacific Intertie AC capacity reduced for Monday.</headline>
+<dateline>LOS ANGELES 1997-01-23</dateline>
+<text>
+<p>Capacity on the AC (alternating current) segment of the Pacific Interties will be cut to 2,000 megawatts (MW) between 0630 and 1800 PDT on Monday, the Bonneville Power Administration (BPA) said Thursday.</p>
+<p>BPA, which operates the Northwest portion of the interstate power lines, attributed the curtailment to maintenance work on Pacific Gas and Electric Co's portion of the line.</p>
+<p>The restrictions will be in place for southbound transmissions, while northbound power flows will be allowed to rise as high as 3,200 MW, a BPA spokeswoman said.</p>
+<p>Transmissions on the 4,800 MW line have been capped near 3,200 MW since last August due to voltage support concerns following two major power outages last summer.</p>
+<p>The intertie's 3,200 MW DC (direct current) segment will not be affected by Monday's maintenance work and remains rated at 2,000 MW, the spokeswoman said.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

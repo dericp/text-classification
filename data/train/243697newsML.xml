@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243697" id="root" date="1996-12-09" xml:lang="en">
+<title>USA: American Disposal makes six acquisitions.</title>
+<headline>American Disposal makes six acquisitions.</headline>
+<dateline>BURR RIDGE, Ill. 1996-12-09</dateline>
+<text>
+<p>American Disposal Services Inc said Monday it acquired five solid waste-related companies in Ohio and one in Missouri, bringing to 31 the company's total acquisitions since January 1993.</p>
+<p>Terms were not disclosed, but president Richard De Young said, &quot;These acquisitions and contracts should collectively add approximately $11 million in anualized revenues.&quot; He added, &quot;Our acquisition pipeline continues to remain full.&quot;</p>
+<p>American Disposal provides solid waste collection, transfer and disposal services.</p>
+<p>		  ((-- Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BURR RIDGE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

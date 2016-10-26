@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272473" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: IMM currency futures end dull trade barely mixed.</title>
+<headline>IMM currency futures end dull trade barely mixed.</headline>
+<dateline>CHICAGO 1996-12-23</dateline>
+<text>
+<p>IMM currency futures ended a session of low-volume pit trading barely mixed.</p>
+<p>Traders said futures ferreted out few fresh features to focus on as the day progressed, with traders fixated on this week's early market finishes for the Christmas holiday.</p>
+<p>Chicago Mercantile Exchange futures close at 1200 CST/1800 GMT Tuesday and will remain shut on December 25.</p>
+<p>Volume was estimated on the price boards at only 3,800, 4,700 and 4,300 in March marks, yen and Swiss, respectively.</p>
+<p>&quot;There is absolutely no paper interest whatsoever,&quot; complained a floor broker. &quot;It's all dealer-to-dealer.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

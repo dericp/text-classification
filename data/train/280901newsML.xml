@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="280901" id="root" date="1996-12-30" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde Dec 30.</title>
+<headline>PRESS DIGEST - France - Le Monde Dec 30.</headline>
+<dateline>PARIS 1996-12-30</dateline>
+<text>
+<p>These are leading stories in today's afternoon daily Le Monde, dated December 31.</p>
+<p>FRONT PAGE</p>
+<p>-- Unemployment hits one French person in eight. November joblessness hit 12.7 percent or 3.12 million people but this was 3.45 million when people working over 70 hours per month are included. Higher unemployment expected in 1997.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Higher domestic air fares expected now that airlines are reorganising in the wake of price-cutting Air Liberte's bankruptcy and a 40 percent increase in kerosene prices.</p>
+<p>-- EU journal publishes letter from Commission to French government asking for more details on possible modifications to Credit Lyonnais bailout package. Competitors have one month to submit observations to the Commission.</p>
+<p>-- Marceau Investissements, now being wound up, has temporarily withdrawn offer to sell BVA polling institute.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45540" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: ADR REPORT - Nokia, Ericsson recover from hit.</title>
+<headline>ADR REPORT - Nokia, Ericsson recover from hit.</headline>
+<dateline>NEW YORK 1996-09-11</dateline>
+<text>
+<p>Ericsson and Nokia took an initial hit from Motorola's profit warning but later recovered in strong U.S. trade Wednesday as investors shook off concerns about the impact of the news on the Scandinavian telecoms.</p>
+<p>&quot;They were battered in early trading, but I think people realized it was a problem specific to Motorola. It's not a problem with handsets, it's a problem with semiconductors,&quot; a trader said.</p>
+<p>Swedish telecom Ericsson's American Depositary Receipts (ADRs) gained 1/4 to 24-1/4 in heavy afternoon trade after falling to 23-3/8 earlier.  </p>
+<p>In other activity, Reuters Holdings Plc jumped nearly two percent on sturdy U.S. volumes after the company said it proposed to return 613 million stg of cash to shareholders over three years through a bonus issue of special dividend shares.</p>
+<p>&quot;It's been widely anticipated,&quot; one trader said. &quot;A lot of people have been saying that Reuters was going to return cash to shareholders. And now it looks like they've found a tax-effective way to do it.&quot;</p>
+<p>Reuters ADRS rose 1-1/4 to 71-1/4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

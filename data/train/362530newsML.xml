@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="362530" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: CIBCR leading inflation index 105.1 in January.</title>
+<headline>CIBCR leading inflation index 105.1 in January.</headline>
+<dateline>NEW YORK 1997-02-07</dateline>
+<text>
+<p>The Center for International Business Cycle Research (CIBCR) said its leading inflation index (LII) rose to 105.1 in January from a revised 104.3 in December.</p>
+<p>Rises in the number of purchasing managers reporting higher prices, the growth rate of industrial materials prices and the rate of employment helped push the index higher, CIBCR said.</p>
+<p>Recent performance of the LII &quot;is a strong acceleration, but it is still brief and tentative,&quot; CIBCR said.</p>
+<p>(( -- N.A. Treasury Desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185296" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Homestake to buy Silverado tracts.</title>
+<headline>Homestake to buy Silverado tracts.</headline>
+<dateline>FAIRBANKS, Alaska 1996-11-13</dateline>
+<text>
+<p>Silverado Mines Ltd said Wednesday it has agreed in principle to sell the Whiskey Gulch and Marshall Dome Gold Properties near Fairbanks, Alaska, to Homestake Mining Co.</p>
+<p>Silverado said Homestake may acquire a 100 percent interest in the properties in exchange for undisclosed annual cash payments to Silverado and expenditures on the properties, and the payment of an undisclosed net smelter return on sales of any gold or other minerals produced from the properties.</p>
+<p>In addition, Silverado Mines said it will sell common shares to Homestake by way of a private placement.</p>
+<p>Silverado said the agreement is subject to the drafting and execution of a formal agreement, adding it will report the details of the transaction on completion of the formal agreement. -- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRBANKS, Alaska"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

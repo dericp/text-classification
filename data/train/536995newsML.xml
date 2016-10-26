@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536995" id="root" date="1997-04-24" xml:lang="en">
+<title>UK: Baltic Freight Index fell 11 points to 1,281.</title>
+<headline>Baltic Freight Index fell 11 points to 1,281.</headline>
+<dateline>LONDON 1997-04-24</dateline>
+<text>
+<p>The Baltic Freight Index for spot dry cargo shipping rates fell to 1,281 today from 1,292 on April 23, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p> Route Index     Rate   Prev Index  Rate</p>
+<p>   1    1329    12.063	  1311    11.900</p>
+<p>   1a   1302  9863.000	  1320 10000.000</p>
+<p>   2    1540    22.000	  1540    22.000</p>
+<p>   2a   1473 12081.000	  1494 12250.000</p>
+<p>   3    1370    12.638	  1397    12.893</p>
+<p>   3a   1205  9513.000	  1242  9800.000</p>
+<p>   6    1229    12.675	  1229    12.671</p>
+<p>   7    1157     5.631	  1155     5.621</p>
+<p>   8     891     9.800	   892     9.807</p>
+<p>   9     733  6413.000	   750  6557.000</p>
+<p>  10    1111     5.613	  1109     5.600</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

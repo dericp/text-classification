@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="412553" id="root" date="1997-02-28" xml:lang="en">
+<title>FRANCE: French Jan unemployment up 18,100, rate 12.7 pct.</title>
+<headline>French Jan unemployment up 18,100, rate 12.7 pct.</headline>
+<dateline>PARIS 1997-02-28</dateline>
+<text>
+<p>The seasonally adjusted number of people unemployed in France in January rose by 18,100, or 0.6 percent, from December to 3,099,800, Labour Ministry data showed.</p>
+<p>The jobless rate, based on International Labour Organisation (ILO) criteria, which exclude jobseekers who did any work, was unchanged at 12.7 percent.  </p>
+<p>The ministry gave the following seasonally adjusted data:</p>
+<p>				  end-Jan   month-on-month year-on-year</p>
+<p> Jobless rate (ILO)	 12.7 pct   0.0 pctge pt   0.8 pctge pt</p>
+<p> Unemployment		3,099,800     0.6 pct	    3.1 pct</p>
+<p> Unemployment (ILO)	3,268,000     0.6 pct	    8.0 pct</p>
+<p> Jobs offered		  204,000    -4.4 pct	   10.2 pct</p>
+<p> New jobless registrations 373,300     3.8 pct	   -2.6 pct</p>
+<p> Jobless register exits    345,500    -1.8 pct	   -6.2 pct</p>
+<p> Men under 25		  280,000    -1.5 pct	   2.1 pct</p>
+<p> Women under 25		317,800    -0.7 pct	  -1.8 pct</p>
+<p> Men between 25 and 49   1,047,900     0.6 pct	   4.9 pct</p>
+<p> Women between 25 and 49 1,061,000     0.1 pct	   1.4 pct</p>
+<p> Men 50 and over	     225,400     4.4 pct	   8.2 pct</p>
+<p> Women 50 and over	   167,700     4.9 pct	   8.3 pct</p>
+<p> Forced redundancy	    28,500     3.3 pct	  -2.4 pct</p>
+<p> Jobless for over 12 mos 1,093,100     2.0 pct	   4.7 pct</p>
+<p>-- Paris Newsroom +33 1 4221 5381</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

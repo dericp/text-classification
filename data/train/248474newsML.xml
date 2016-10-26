@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248474" id="root" date="1996-12-11" xml:lang="en">
+<title>UK: BASKETBALL-MEN'S EUROLEAGUE RESULTS.</title>
+<headline>BASKETBALL-MEN'S EUROLEAGUE RESULTS.</headline>
+<dateline>LONDON 1996-12-11</dateline>
+<text>
+<p>Results of men's Euroleague basketball matches on Wednesday:</p>
+<p>Group C</p>
+<p>In Athens: Panathinaikos (Greece) 87 Bayer Leverkusen (Germany) 79 (halftime 45-37).</p>
+<p>Leading scorers:</p>
+<p>Panathinaikos - Frangiskos Alvertis 23, Ferran Martinez 20</p>
+<p>Bayer - Tony Dawson 31, Denis Wucherer 20</p>
+<p>Attendance: 4,000  </p>
+<p>In Ljubljana:</p>
+<p>Group C</p>
+<p>Ljubljana (Slovenia) 81 Split (Croatia) 53 (29-26)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

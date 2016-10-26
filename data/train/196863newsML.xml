@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196863" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: New York grain freight fixtures - Nov 18.</title>
+<headline>New York grain freight fixtures - Nov 18.</headline>
+<dateline>NEW YORK 1996-11-18</dateline>
+<text>
+<p>TBN 54,000 long tons hss Nopac/Taiwan Dec $16.60 fio 10,000/4,000 Dreyfus (adds charterer).</p>
+<p>TBN 54,000 long tons hss Nopac/Japan $16.25 no combo fio 11 days Dreyfus (adds charterer).</p>
+<p>Alexia V 44,000 long tons tapioca Kosichang/ARA-Ghent prompt $13.75 fio 10,000/6,000 Matco.</p>
+<p>-- New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

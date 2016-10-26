@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33288" id="root" date="1996-09-04" xml:lang="en">
+<title>FRANCE: French economy shrank 0.4 pct in second quarter.</title>
+<headline>French economy shrank 0.4 pct in second quarter.</headline>
+<dateline>PARIS 1996-09-04</dateline>
+<text>
+<p>France's economy shrank 0.4 percent in the second quarter from the first quarter, hit by a sharp fall in consumer spending, national statistics institute INSEE said on Wednesday.</p>
+<p>Economists had expected a fall of 0.2 to 0.4 percent after a sharp rebound in the first quarter as the economy recovered from a paralysing public sector strike at the end of last year.</p>
+<p>INSEE said it was revising the rise in the first quarter to 1.1 percent from 1.2 percent.</p>
+<p>Consumer spending, hit by high unemployment which has sapped confidence, fell 1.0 percent in the second quarter after rising 2.5 percent in the first.</p>
+<p>The French government is counting on a rebound in growth in the second half of the year, fuelled by recent interest rate cuts, to help it reduce public deficits in preparation for European monetary union.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140601" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: CBOT grain/oilseed receipts and shipments.</title>
+<headline>CBOT grain/oilseed receipts and shipments.</headline>
+<dateline>CHICAGO 1996-10-24</dateline>
+<text>
+<p>Grain and soybean receipts and shipments, in bushels, at delivery locations for the previous trading day, according to the Chicago Board of Trade -</p>
+<p>		     Receipts	  Shipments</p>
+<p>Wheat</p>
+<p>Chicago		1,671	    33,060</p>
+<p>St. Louis	   42,550	    67,147</p>
+<p>Toledo		11,855	   127,151</p>
+<p>Corn</p>
+<p>Chicago	     23,181		 879</p>
+<p>St. Louis	  268,073	   359,385</p>
+<p>Toledo	     309,893	     3,536</p>
+<p>Oats</p>
+<p>Chicago		    0		   0</p>
+<p>Minneapolis	160,524	    24,187</p>
+<p>Soybeans</p>
+<p>Chicago	    242,714		   0</p>
+<p>St. Louis	  145,021	   439,940</p>
+<p>Toledo	     227,288	   216,603</p>
+<p>(Chicago Newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

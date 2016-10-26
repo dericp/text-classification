@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160480" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Old Republic to redeem 8-3/4 pct pfd stock.</title>
+<headline>Old Republic to redeem 8-3/4 pct pfd stock.</headline>
+<dateline>CHICAGO 1996-11-01</dateline>
+<text>
+<p>Old Republic International Corp said Friday its directors had approved redemption on December 13 of the company's 8-3/4 percent Series H cumulative preferred stock.</p>
+<p>The stock will be redeemed for $25.438 cash per share, the insurance holding company said.</p>
+<p>As of October 30, 2,192,100 shares of Series H cumulative preferred stock were outstanding.  </p>
+<p>Old Republic subsidiaries market, underwrite and provide risk management and reinsurance services and coverage.</p>
+<p>Trading in shares of Old Republic was halted pending the company's announcement.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

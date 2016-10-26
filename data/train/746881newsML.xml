@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746881" id="root" date="1997-07-22" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1997-07-22</dateline>
+<text>
+<p>COAL - CMT TBN - 120,000/10 tonnes coal Dalrymple Bay/Kaohsiung 3/12 Oct $5.25 fio scale load/20,000 shinc Taipower.</p>
+<p>Primo - 105,000/10 tonnes coal Hampton Roads/W.Dunkirk 20 Aug/5 Sep $6.10 fio three days shinc/25,000 shinc Kleimar.</p>
+<p>TBN - 45,000 tonnes coke Xingang/Lulea 25/31 July $16.25 fio 3,500/8,000 CNR.</p>
+<p>Panli - 50/55,000 tonnes coal Mississippi/Bourgas end July approx. $12.75/13 fio 35,000 shinc/10,000 shinc Klaveness (adds vessels name).</p>
+<p>ORE - Cape Cathay - 120,000/10 tonnes ore Tubarao/Kaohsiung 1/15 Sep $9.95 fio 40,000 shinc/38,000 shinc China Steel.</p>
+<p>EMS Ore - tonnes ore 90,000/10 W.Australia/Yantai end July $6 fio scale load/10,000 CNR.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

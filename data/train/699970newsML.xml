@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="699970" id="root" date="1997-07-01" xml:lang="en">
+<title>USA: Louisville feeder cattle prices steady-firm - USDA.</title>
+<headline>Louisville feeder cattle prices steady-firm - USDA.</headline>
+<dateline>LOUISVILLE 1997-07-01</dateline>
+<text>
+<p>Feeder steers and heifers were steady to firm, compared to last week's close, USDA said. Cattle and Calves Receipts - 1,800 head.</p>
+<p>Feeder Steers - Medium and Large 1 600-700 lbs 75.00-83.50; 700-800 lbs 69.75-78.75, including 15 head 709 lbs 78.50; 800-900 lbs 62.00-70.00; 31 head 1081 lbs 60.75. Holsteins - Large 2 500-600 lbs 59.00-69.50; 700-800 lbs few 57.00-59.25; 16 head 1085 lbs 53.50.</p>
+<p>Feeder Heifers - Medium and Large 1 600-700 lbs 66.50-72.25; 11 head 972 lbs 59.90.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

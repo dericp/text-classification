@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151174" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: U.S. Q3 labor costs rose 0.6 pct.</title>
+<headline>U.S. Q3 labor costs rose 0.6 pct.</headline>
+<dateline>WASHINGTON 1996-10-29</dateline>
+<text>
+<p>U.S. Labor Department employment cost data for U.S. workers in percent changes.</p>
+<p>(Quarterly data seasonally adj.; Year-on-year data unadj.)</p>
+<p> -			    Q3    Q2   Q3 yr/yr  Q2 yr/yr</p>
+<p> Total Compensation    0.6   0.8     2.8	 2.9</p>
+<p> --Wages and Salaries  0.6   0.9     3.2	 3.2</p>
+<p> --Benefit Costs	 0.6   0.7     1.8	 1.8</p>
+<p> State/Local Govt	0.5   0.7     2.5	 2.6</p>
+<p> Private Industry	0.6   0.8     2.9	 2.9</p>
+<p> --Goods-Producing     0.7   0.9     2.8	 2.7</p>
+<p> --Service-Producing   0.7   0.8     2.9	 3.0</p>
+<p>Wall Street economists had forecast a 0.8 percent rise in third quarter compensation for U.S. workers.</p>
+<p>The Employment Cost Index on September 30 was 130.0 over its 1989 base of 100, compared with 129.2 on June 30.</p>
+<p>Labor said that for private industry workers, wages and salaries rose 3.3 percent in the year ended September 1996, up from 2.8 percent in the year-earlier period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

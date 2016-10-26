@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112745" id="root" date="1996-10-12" xml:lang="en">
+<title>FRANCE: Armaments workers protest in Paris.</title>
+<headline>Armaments workers protest in Paris.</headline>
+<dateline>PARIS 1996-10-12</dateline>
+<text>
+<p>Up to 25,000 workers from France's state-owned armaments industries staged a noisy but peaceful march through central Paris on Saturday to protest against government plans to close factories, organisers said.</p>
+<p>Police said the number of marchers was less than half that claimed by march organisers.</p>
+<p>The protesters, many of whom belong to the Communist-led CGT metals workers union, marched under a forest of flags and coloured balloons, throwing firecrackers and chanting slogans against Defence Minister Charles Millon.</p>
+<p>The plant closures are part of a wide-ranging overhaul of France's defence policies which include a reduction in forces.</p>
+<p>Shrinking international arms budgets also mean less clients are expected in coming years for France's defence industries, among the largest in the world.</p>
+<p>A recent parliamentary report estimated that up to 70,000 jobs out of a total 280,000 could be lost in the next six years.</p>
+<p>The defence ministry said some 9,000 jobs would be lost in 1996-1997 but most would involve not replacing workers when they retired.</p>
+<p>Many of the workers who came to Paris were from the Atlantic or Channel ports of Brest, Lorient and Cherbourg where naval yards are particularly badly hit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

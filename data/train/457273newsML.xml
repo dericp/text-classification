@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457273" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: BALANCE -- Pennsylvania Housing Agency at $5.4 mln.</title>
+<headline>BALANCE -- Pennsylvania Housing Agency at $5.4 mln.</headline>
+<text>
+<p>PENNSYLVANIA HOUSING FINANCE AGENCY</p>
+<p>RE: $50,000,000</p>
+<p>SINGLE FAMILY MORTGAGE REVENUE BONDS</p>
+<p>SERIES 1997-56A (AMT)</p>
+<p>SUBJECT TO ALTERNATIVE MINIMUM TAX</p>
+<p>    MOODY'S: Aa2		   S&amp;P: AA+</p>
+<p>		 EXP			  EXP</p>
+<p>Delivery Date: 04/16/1997 Expected</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>10/01/1998	     640M    4.00	100.00</p>
+<p>10/01/1999	     655M    4.30	100.00</p>
+<p>10/01/2000	     495M    4.55	100.00</p>
+<p>10/01/2001	     620M    4.70	100.00</p>
+<p>10/01/2002	     180M    4.85	100.00</p>
+<p>10/01/2003	     250M    5.00	100.00</p>
+<p>10/01/2004	     840M    5.10	100.00</p>
+<p>10/01/2005	     860M    5.20	100.00</p>
+<p>10/01/2006	     825M    5.30	100.00</p>
+<p>  Total:	     5,365M</p>
+<p>Merrill Lynch &amp; Co.</p>
+<p>Cambridge Partners LLC</p>
+<p>Wheat First Butcher Singer</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

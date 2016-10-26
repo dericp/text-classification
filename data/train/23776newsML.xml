@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23776" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: July replacement lead battery shipments fall.</title>
+<headline>July replacement lead battery shipments fall.</headline>
+<dateline>NEW YORK 1996-08-30</dateline>
+<text>
+<p>Shipments of replacement auto lead acid batteries in July in the United States fell 8.72 percent to 6,231,876 units compared to the previous month, the Battery Council International reported.</p>
+<p>In the first seven months of the year, replacement battery shipments were up 5.78 percent to 41,704,823 units.</p>
+<p>July shipments were 8.02 percent above July 1995's total of 5,769,124 units.</p>
+<p>In the 12 months ended July 1996, shipments were up 2.9 percent to 79,329,151 units.</p>
+<p>-- New York Commodities 212-859-1646</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34320">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

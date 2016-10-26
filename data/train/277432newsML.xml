@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277432" id="root" date="1996-12-27" xml:lang="en">
+<title>ZIMBABWE: CRICKET-ZIMBABWE ON 93-2 AT CLOSE V ENGLAND (156).</title>
+<headline>CRICKET-ZIMBABWE ON 93-2 AT CLOSE V ENGLAND (156).</headline>
+<dateline>HARARE 1996-12-27</dateline>
+<text>
+<p>Zimbabwe were 93 for two at the close on the second day of the second cricket test at Harare Sports Club on Friday after rain stopped play. England made 156.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

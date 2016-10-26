@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="637752" id="root" date="1997-06-04" xml:lang="en">
+<title>UK: IPE Brent off lows after NYMEX tests support.</title>
+<headline>IPE Brent off lows after NYMEX tests support.</headline>
+<dateline>LONDON 1997-06-04</dateline>
+<text>
+<p>IPE Brent crude oil futures recovered slightly on Wednesday after U.S. markets rebounded in early trade, brokers said.</p>
+<p>July Brent was eight cents down at 1417 GMT and stood at $18.82 a barrel, while June gas oil was $1.75 down at $168.25 a tonne. NYMEX July crude fell back to support at $20.00 a barrel before recovering to $20.24.</p>
+<p>The market fell sharply on Tuesday in anticipation of inventory from the American Petroleum Institute (API) which was released overnight and painted a bearish picture.</p>
+<p>&quot;The APIs were mostly factored in yesterday and there was a little follow-through this morning, to the tune of 10-15 cents or so,&quot; one IPE dealer said.</p>
+<p>&quot;We have got very high refinery activity in the U.S. This is the main fundamental factor in the market. So look for any refinery problems now - they will have a big effect on the market.&quot;</p>
+<p>API data showed refinery capacity utilisation rose on the week to 98.4 percent from 96.7 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

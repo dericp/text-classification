@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100530" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: BLOOMBERG SAYS HAD NO CONTACT WITH REED.</title>
+<headline>BLOOMBERG SAYS HAD NO CONTACT WITH REED.</headline>
+<dateline>NEW YORK 1996-10-04</dateline>
+<text>
+<p>Michael Bloomberg, president and chief executive officer of Bloomberg LP, said he has had no contact with Reed-Elsevier Plc/NV about any merger talks and he is not interested in them.</p>
+<p>Bloomberg, responding to a report in Saturday's Times of London, said the Anglo-Dutch publishing giant has evaluated Bloomberg Business News as a potential acquisition and a top Reed executive welcomed the opportunity for talks.</p>
+<p>&quot;I haven't had contact with them,&quot; Bloomberg said, except for his company using Reed's Lexis-Nexis service. Bloomberg mentioned the possibility of him acquiring Reed-Elsevier, but said it was not likely.</p>
+<p>&quot;If they stay out of my business, I'll stay out of theirs,&quot; Bloomberg said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

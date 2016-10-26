@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602219" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Louisville feeder cattle prices steady - USDA.</title>
+<headline>Louisville feeder cattle prices steady - USDA.</headline>
+<dateline>LOUISVILLE 1997-05-21</dateline>
+<text>
+<p>Feeder steers and heifers were steady, Compared to Monday's close, USDA said.</p>
+<p>Feeder Steers - Medium and Large 1 600-700 lbs 75.50-83.50; 700-800 lbs 72.00-76.00. Holsteins - Large 2 package 365 lbs 67.00.</p>
+<p>Feeder Heifers - Medium and Large 1 500-600 lbs 74.00-79.50.</p>
+<p>Cattle and Calves Receipts - 750</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOUISVILLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

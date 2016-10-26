@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155942" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: GOLF-SARAZEN FIRST ROUND SCORES.</title>
+<headline>GOLF-SARAZEN FIRST ROUND SCORES.</headline>
+<dateline>BRASELTON, Georgia 1996-10-31</dateline>
+<text>
+<p>Leading scores after the first round of the $1.9 million Sarazen World Open on the 6967-yard, par-72 Chateau Elan course (players U.S. unless noted):</p>
+<p>65 Todd Barranger</p>
+<p>66 Frank Nobilo (New Zealand)</p>
+<p>68 Craig Stadler, Fred Couples, John Cook, Scott Hoch, Nick Price (Zimbabwe)</p>
+<p>69 Paul Broadhurst (Britain), Daniel Chopra (Sweden), Gary Marks (Britain), Mark McNulty (Zimbabwe), Payne Stewart</p>
+<p>70 Mark Calcavecchia, Davis Love, Lucas Parsons (Australia), Padraig Harrington (Ireland), Elliot Boult (New Zealand), Steve Kwon, Chad Magee</p>
+<p>71 Paul McGinley (Ireland), Barry Lane (Britain), Jack Nicklaus, Jon Robson (Britain), Steve Alker (New Zealand), Michael McLean (Britain), Eduardo Romero (Argentina), Chris Williams (Britain), P.J. Cowan</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASELTON, Georgia"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

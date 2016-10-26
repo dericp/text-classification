@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136914" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Drug may thwart Kaposi's sarcoma in AIDS patients.</title>
+<headline>Drug may thwart Kaposi's sarcoma in AIDS patients.</headline>
+<byline>Gene Emery</byline>
+<dateline>BOSTON 1996-10-23</dateline>
+<text>
+<p>Injections of a hormone normally produced early in pregnancy can shrink skin tumours of Kaposi's sarcoma, the most common form of cancer among AIDS patients.</p>
+<p>In preliminary tests of 36 people, doctors injected human chorionic gonadotropin (hCG) into discoloured skin lesions and found the chemical was able to shrink many of the tumours. In some cases they seemed to disappear, according to a report in Thursday's New England Journal of Medicine.</p>
+<p>There is no fully effective treatment for Kaposi's sarcoma, which was an extremely rare form of cancer until AIDS came on the scene. But a team of medical researchers led by Dr. Parkash Gill of the University of Southern California School of Medicine found that if they injected hCG directly into the tumours they began to die.</p>
+<p>The higher the dose of hCG, the greater the impact on the tumour, the study found. As part of the experiment, some of the tumours were injected with water and showed little effect.</p>
+<p>&quot;There was complete resolution of AIDS-related Kaposi's sarcoma lesions in 10 of 12 patients with the highest dose of hCG,&quot; the researchers said. But they noted tumours they treated &quot;were relatively small&quot; and said other Kaposi treatments might interfere with the effectiveness of the hCG injections.</p>
+<p>In an editorial in the Journal, Dr. Susan Krown of the Memorial Sloan-Kettering Cancer Centre in New York also warned that the treatment may have serious limitations.</p>
+<p>&quot;Kaposi's sarcoma often extends beyond the skin to involve visceral organs,&quot; she said, and &quot;there is no evidence that controlling individual lesions (with hCG or any other technique) prevents lesions from developing elsewhere.&quot;</p>
+<p>The three-times-per-week treatments cost roughly $25 per injection and most people with Kaposi's have several skin lesions.</p>
+<p>The Gill team tried hCG because they noted that all forms of Kaposi's are more common in men than women and that the disease cannot be recreated in mice when they are pregnant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

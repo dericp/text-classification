@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="585347" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: Fortune Petroleum Corp Q1 net loss widens.</title>
+<headline>Fortune Petroleum Corp Q1 net loss widens.</headline>
+<dateline>HOUSTON 1997-05-15</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss		   $0.06     loss	 $0.02</p>
+<p> Net loss		     763     loss	   178</p>
+<p> Revs			 1,113		    1,225</p>
+<p> Avg shrs		  11,974		   11,169</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The company said Q1 1997 results reflect non-cash debt conversion expense of $697,000, lower gas and oil prices, lawyer fees associated with litigation with Regulation S investors, and write-offs connected with its withdrawal of a public offering in April 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

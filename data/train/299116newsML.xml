@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="299116" id="root" date="1997-01-10" xml:lang="en">
+<title>PERU: Peru says rebels may be allowed to go abroad.</title>
+<headline>Peru says rebels may be allowed to go abroad.</headline>
+<dateline>LIMA 1997-01-09</dateline>
+<text>
+<p>The Peruvian government said on Thursday it was considering allowing Marxist rebels holding 74 captives at the Japanese ambassador's residence in Lima to leave the country after the hostage crisis ends.</p>
+<p>&quot;In a timely manner, we will announce to the press which countries would be disposed to receive these men,&quot; Prime Minister Alberto Pandolfi told reporters, adding that for now any such contacts would remain secret.</p>
+<p>He was responding to a question about whether Peru had been in touch with any foreign government about taking in the rebels of the Tupac Amaru Revolutionary Movement (MRTA).</p>
+<p>&quot;It is of course being considered,&quot; Pandolfi added.</p>
+<p>He also denied a newspaper report which said that the chief security adviser to President Alberto Fujimori had met with several jailed leaders of the MRTA.</p>
+<p>&quot;I can affirm that Dr. Vladimiro Montesinos does not even know the prison&quot; in question, Pandolfi said.</p>
+<p>Citing unnamed military sources, opposition daily La Republica said on Thursday that Montesinos had visited MRTA leaders Victor Polay Campos and Miguel Rincon Rincon in recent weeks and offered the hostage-takers safe passage to leave Peru if they surrendered their arms and freed the last hostages.</p>
+<p>Fujimori has flatly rejected the rebels' main demand that he pardon about 400 jailed MRTA members.</p>
+<p>Montesinos, a controversial figure seldom seen in public, is widely considered to be Fujimori's right-hand man and has spent much of the crisis holed up with the president planning strategy.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

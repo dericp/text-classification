@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313565" id="root" date="1997-01-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-New method cuts Australian job estimates -ABS.</title>
+<headline>RTRS-New method cuts Australian job estimates -ABS.</headline>
+<dateline>CANBERRA 1997-01-16</dateline>
+<text>
+<p>The Australian Bureau of Statistics (ABS) said its introduction of telephone surveying, replacing face-to-face interviews, was reducing its employment estimates by 6,000 to 9,000.</p>
+<p>&quot;As more monthly data has become available, evidence has emerged that the new methodology has had an impact on employment estimates,&quot; the bureau said.  </p>
+<p>&quot;Analysis indicates that telephone interviewing has led to aggregate employment estimates which are of the order of 6,000 to 9,000 per month lower than those that would have been obtained if the previous survey method had continued,&quot; the bureau said.</p>
+<p>The bureau conducts its monthly population survey, the source of jobs data, by interviewing eight panels each of about 8,000 people. Each month it replaces a panel and since August every new panel has been interviewed by telephone.</p>
+<p>The bureau previously has said it was confident that the new method would have no noticeable impact on the data.  </p>
+<p>Sources familiar with the data told Reuters last month that the new technique was producing an unemployment rate up to 0.5 percentage points higher.</p>
+<p>A lower employment count must show up in higher unemployment, lower workforce participation or a combination of both. But the bureau said the effect on unemployment and participation was so far unclear.</p>
+<p>&quot;The analysis of effects has shown no distinct pattern for either the unemployment or labour force participation rates,&quot; it said.</p>
+<p>More information would be provided later this month.  </p>
+<p>With the December figures, the bureau is now into the fifth month of its phase-in of telephone interviewing.</p>
+<p>&quot;After five months of phasing in telephone interviewing, the cumulative effect on the estimate of total employment would ... be of the order of 30,000 to 45,000 persons.&quot;</p>
+<p>In another two months, the bureau will reach the maximum of seven out of eight panels interviewed by telephone, since people would always be approached face-to-face when they first appear in the survey.  </p>
+<p>If the effect on unemployment remained a reduction of 6,000 to 9,000 per panel at that time, then the total impact on the employment numbers would be 42,000 to 63,000.</p>
+<p>Employment Minister Amanda Vanstone said the government would closely monitor the effect of introducing telephone interviewing.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

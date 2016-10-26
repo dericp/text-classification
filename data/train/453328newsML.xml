@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453328" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: L.A. temps seen setting record high for second day.</title>
+<headline>L.A. temps seen setting record high for second day.</headline>
+<dateline>LOS ANGELES 1997-03-19</dateline>
+<text>
+<p>Temperatures in downtown Los Angeles were forecast to hit a record high Wednesday after hitting 87 degrees F Tuesday, beating the record of 86 degrees set for that day in 1914.</p>
+<p>Local forecasts called for a downtown high of 91 degrees on Wednesday, which would surpass the current record of 89 degrees set several years ago.</p>
+<p>A trade source at the Los Angeles Department of Water and Power said Wednesday electricity loads for the city are running almost 10 percent above normal.</p>
+<p>Inland desert and valley regions were expected to see temperatures in the mid-90s, he noted.</p>
+<p>Weather Services Corp said sunny, mild conditions would likely continue over the next several days as a dome of high pressure parks itself over the Southwest U.S.</p>
+<p>Temperatures were forecast to run 10 to 20 degrees above normal through early next week.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

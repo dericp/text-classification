@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175975" id="root" date="1996-11-08" xml:lang="en">
+<title>BRAZIL: Brazil Oct 21-31 IGP-M index 0.11 pct.</title>
+<headline>Brazil Oct 21-31 IGP-M index 0.11 pct.</headline>
+<dateline>SAO PAULO 1996-11-08</dateline>
+<text>
+<p>Brazilian inflation October 21-31 rose to 0.11 percent, against a 0.07 percent rise September 21-30, as measured by the IGP-M index released by the Getulio Vargas Foundation (FGV).  </p>
+<p>The IGP-M is composed of three economic indicators: The IPA wholesale price index rose 0.14 percent in the October 21-31 period, the IPC consumer price index gained 0.02 percent, and the INCC national index of construction costs advanced 0.25 percent.</p>
+<p>The IPA has a 60 percent weighting in the IGP-M, the IPC a 30 percent weighting and the INCC 10 percent, the FGV said.</p>
+<p>The IGP-M index measures inflation over 10-day intervals. The FGV is an independent research institute.</p>
+<p>-- Romina Nicaretta, Sao Paulo Newsroom 5511 248 5415</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

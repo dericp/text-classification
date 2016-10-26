@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417543" id="root" date="1997-03-04" xml:lang="en">
+<title>CHILE: Chile mining output climbs 18.2 percent in Jan.</title>
+<headline>Chile mining output climbs 18.2 percent in Jan.</headline>
+<dateline>SANTIAGO 1997-03-04</dateline>
+<text>
+<p>Chilean mining production rose 18.2 percent in January compared with the same month last year, said the National Statistics Institute.</p>
+<p>Metallic output increased 19.3 percent in January, while non-metallic production slipped 1.1 percent, it said.</p>
+<p>Copper production grew 20.4 percent in January with gold output rising 8.8 percent, silver up 17 percent and molybdenum up 20.2 percent.</p>
+<p>((-- Paulina Modiano, Santiago newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I22000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

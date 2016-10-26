@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417235" id="root" date="1997-03-04" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa oil rig in place, pumping seen mid-April.</title>
+<headline>S.Africa oil rig in place, pumping seen mid-April.</headline>
+<dateline>JOHANNESBURG 1997-03-04</dateline>
+<text>
+<p>South African oil exploration and production firm Soekor said on Tuesday pumping at the country's first offshore oilfield was likely to start in the middle of April.</p>
+<p>Andre van Niekerk, a spokesman for Soekor, said the semi-submersible rig, the Orca, was in position in the Oribi field, 90 miles southwest of Mossel Bay.</p>
+<p>Bad weather continued to hamper installation of the sub-sea pipeline by the diving support vessel, which has been on site for the past week, van Niekerk said.</p>
+<p>Asked when production would start, van Niekerk, reiterating a statement released by Soekor last month, said:</p>
+<p>&quot;It was originally the end of March, but we know it won't be the end of the March anymore. But with the finicky weather we are having at the moment it is just not possible to set a definite date. Middle April, somewhere there, is how it looks at the moment.&quot;</p>
+<p>The start of production has been plagued by numerous delays, mainly because of the bad weather.</p>
+<p>First sales of oil from Oribi will be in May. Soekor and minority partner Energy Africa plan to market oil from Oribi on a tanker-by-tanker basis with the crude going to local refineries in Cape Town or Durban.</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I44000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

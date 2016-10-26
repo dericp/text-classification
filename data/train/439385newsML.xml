@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="439385" id="root" date="1997-03-13" xml:lang="en">
+<title>INDONESIA: Indonesia Key Economic Indicators.</title>
+<headline>Indonesia Key Economic Indicators.</headline>
+<text>
+<p>=================================</p>
+<p>--------------------------------------------------------------</p>
+<p> Indicator	   Period  Latest     Prev   Yr-Ago     Yr-Yr</p>
+<p>--------------------------------------------------------------</p>
+<p> GDP	    Pct  Annual  7.80(96) 8.07(95)  7.48(94) 6.7 (93)</p>
+<p>--------------------------------------------------------------</p>
+<p> CPI	    Pct     Feb   +1.05    +1.03     1.71     4.68</p>
+<p>--------------------------------------------------------------</p>
+<p> Exports	$Bln    Dec    4.68     4.41     4.52	-</p>
+<p>--------------------------------------------------------------</p>
+<p> Imports	$Bln    Dec    3.77     3.64     3.51	-</p>
+<p>--------------------------------------------------------------</p>
+<p>Current A/C  $Bln  Annual -7.51(95) -3.7(94) -3.2(93) -2.9(92)</p>
+<p>--------------------------------------------------------------</p>
+<p> M2	     Rp-Trn  Nov  277.36   268.32   215.79	n/a</p>
+<p>--------------------------------------------------------------</p>
+<p> Bank loans   Rp-Trn  Dec  292.00   281.99   234.61	n/a</p>
+<p>--------------------------------------------------------------</p>
+<p> Rupiah/USD*	 Mar 12  2,396.43 2397.00   2,326.40    n/a</p>
+<p>--------------------------------------------------------------</p>
+<p> Foreign Reserves $Bln Feb  19.862   19.830   15.962     n/a</p>
+<p>--------------------------------------------------------------</p>
+<p> JSE Index	    Mar 12  682.61   687.93   544.54	n/a</p>
+<p>--------------------------------------------------------------</p>
+<p>*Middle rate</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

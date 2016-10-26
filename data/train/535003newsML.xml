@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535003" id="root" date="1997-04-24" xml:lang="en">
+<title>SOUTH AFRICA: Sappi says workers strike at Adamas mill.</title>
+<headline>Sappi says workers strike at Adamas mill.</headline>
+<dateline>JOHANNESBURG 1997-04-24</dateline>
+<text>
+<p>South African paper company Sappi Ltd said on Thursday that workers had gone on strike at its Adamas mill in Port Elizabeth after a breakdown in wage talks.</p>
+<p>A company statement said 200 workers, members of the Paper, Printing, Wood and Allied Workers' Union, had gone on strike at the plant on Wednesday and stayed out on Thursday.</p>
+<p>&quot;The union is demanding a 10 percent annual wage increase and Sappi is offering an increase of six percent now, followed by a further four percent in six months' time,&quot; the statement said.</p>
+<p>&quot;The striking workers have left the mill premises and all is calm at the mill,&quot; Sappi added.</p>
+<p>It did not say if or when wage talks might resume.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

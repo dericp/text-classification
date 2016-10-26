@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720120" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Federated June same-store sales up 3.2 pct.</title>
+<headline>Federated June same-store sales up 3.2 pct.</headline>
+<dateline>CINCINNATI 1997-07-10</dateline>
+<text>
+<p>Federated Department Stores Inc said Thursday its June same store sales rose 3.2 percent.</p>
+<p>Total sales of $1.34 billion for the five weeks ended July 5 were up 3.9 percent over total sales of $1.28 billion for the same period last year.</p>
+<p>For the year to date, Federated's sales totaled $5.88 billoin, up 3.4 percent from $5.69 billion a year ago. On a comparable-store basis, year-to-date sales increased 2.7 percent.  </p>
+<p>In a statement, James Zimmerman, chairman, said the company was satisfied with June results, which reflected strengthening sales later in the month after a sluggish start.</p>
+<p>Federated currently operates more than 400 department stores and 150 specialty stores in 36 states.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

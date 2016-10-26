@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319531" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Clinton leaves for swearing-in at U.S. Capitol.</title>
+<headline>Clinton leaves for swearing-in at U.S. Capitol.</headline>
+<dateline>WASHINGTON 1997-01-20</dateline>
+<text>
+<p>President Bill Clinton left the White House for the U.S. Capitol on Monday to take the oath of office for a second four-year term as leader of the world's most powerful country.</p>
+<p>Clinton was accompanied by congressional leaders of both parties as he boarded his armoured limousine for a 10-minute ride up Pennsylvania Avenue to be sworn in by Supreme Court Justice William Rehnquist at noon EST (1700 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

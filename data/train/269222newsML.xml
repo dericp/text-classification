@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="269222" id="root" date="1996-12-20" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa's premier hotel to bill in dollars.</title>
+<headline>S.Africa's premier hotel to bill in dollars.</headline>
+<dateline>CAPE TOWN 1996-12-20</dateline>
+<text>
+<p>Cape Town's landmark Mount Nelson Hotel will bill all guests in dollars from next year rather than in the unstable South African rand, the owners said on Friday.</p>
+<p>&quot;Obviously the fluctuating rand exchange rates have been a factor and we feel this decision will provide a stable rate to our international tour operators, travel agents and suppliers,&quot; hotel owner Orient-Express Hotels said.</p>
+<p>The company added that the decision to introduce dollar-denominated room rates was in line with the practice of a large number of hotels worldwide.</p>
+<p>&quot;Orient-Express continues to look to develop the southern African arm of its collection and with a stable U.S. dollar rate we can provide a long term view to shareholders and clients alike,&quot; it said.</p>
+<p>The South African rand has lost a third of its value against the dollar since a currency crisis in February sparked by fears over President Nelson Mandela's health and rumours of an imminent deregulation of foreign exchange controls.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

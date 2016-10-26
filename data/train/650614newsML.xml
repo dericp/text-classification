@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="650614" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: N.J. judge rejects challenge to $2.8 bln bond deal.</title>
+<headline>N.J. judge rejects challenge to $2.8 bln bond deal.</headline>
+<dateline>TRENTON, N.J. 1997-06-10</dateline>
+<text>
+<p>A New Jersey Superior Court judge on Tuesday ruled that the state can borrow $2.75 billion to bolster its four pension funds and balance the state budget without holding a referendum on the deal this fall.</p>
+<p>Judge Philip Carchman rejected the argument by lawyers for Democratic officials that Gov. Christine Whitman's bond plan violated the constitutional debt limit clause, which requires voter approval of any major borrowing.  </p>
+<p>The Legislature enacted the bond plan last Thursday and Whitman immediately signed it into law, setting the stage for Merrill Lynch &amp; Co to underwrite the deal sometime over the next several weeks.</p>
+<p>The legislation authorizes the state to use the $2.75 billion to eliminate the pension system's unfunded liability. At the same time, the borrowing allows the state to avoid making its yearly contribution into the pension system, freeing up about $590 million to balance the budget.</p>
+<p>Carchman ruled that since the Economic Development Authority and not the state government is issuing the bonds, they are not a general obligation of the state. GO bonds would require a referendum.</p>
+<p>((-- U.S. Municipal Desk, 212 859-1650))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRENTON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

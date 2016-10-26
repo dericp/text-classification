@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144589" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Bar, restaurant owners fear losses from smoke ban.</title>
+<headline>Bar, restaurant owners fear losses from smoke ban.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>U.S. bar and restaurant owners fear a proposed ban on smoking in the workplace will cause them major economic losses, according to a survey released on Thursday.</p>
+<p>The survey found that 83 percent of bar owners anticipate a loss a revenue and 81 percent estimate losses at over 15 percent. Nearly half the restaurant owners and managers polled felt they would lose money by an outright ban on smoking.</p>
+<p>The National Licensed Beverage Association, a liquor industry trade group that sponsored the survey, said it opposes a proposed indoor air quality regulation by the Occupational Safety and Health Administration (OSHA) that would ban smoking in the workplace.</p>
+<p>OSHA said the workplace would include dining areas, bars, hotel rooms or anywhere else where work is performed, so waiters and waitresses would be barred from entering.</p>
+<p>The survey found that 91 percent of owners and managers of bars and 72 percent of restaurateurs preferred to make their own smoking policies without government supervision.</p>
+<p>The survey, conducted by the Roper Starch Worldwide polling firm, was based on telephone interviews with 1,300 people and has a margin of error of plus or minus four percentage points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I66200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

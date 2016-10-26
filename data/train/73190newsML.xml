@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73190" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: Stocks fall in volatile reaction to Fed decision.</title>
+<headline>Stocks fall in volatile reaction to Fed decision.</headline>
+<dateline>NEW YORK 1996-09-24</dateline>
+<text>
+<p>Blue-chip stocks ended lower Tuesday as the Federal Reserve's decision to hold interest rates steady drew a classic buy-on-the-rumor and sell-on-the-news market response.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended 20.71 points lower at 5,874.03 just one day after setting a record closing high of 5.894.74.</p>
+<p>The blue-chip index was also weighed down by a sell-off in the stock of AT&amp;T Corp., which tumbled 5-3/4 to 51-1/2 on an earnings warning.</p>
+<p>In the broader market, advancing issues led declines 12-10 on active volume of 456 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

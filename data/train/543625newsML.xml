@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="543625" id="root" date="1997-04-28" xml:lang="en">
+<title>MEXICO: Mexico's Ekco Q1 net down.</title>
+<headline>Mexico's Ekco Q1 net down.</headline>
+<dateline>MEXICO CITY 1997-04-28</dateline>
+<text>
+<p>Q1 1997			Q1 1996</p>
+<p>	Shr			    n/a			n/a</p>
+<p>	Oper Income	   5.89 million		 5.92 million</p>
+<p>	Net			302,000		11.40 million</p>
+<p>	Revs		   38.98 million		58.02 million</p>
+<p>	Integ fin cost	4.77 million    gain     5.30 million</p>
+<p>NOTE: All figures in Mexican pesos.</p>
+<p>Full company name is Ekco SA de CV</p>
+<p>((-- Mexico City newsroom +525 728-7903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

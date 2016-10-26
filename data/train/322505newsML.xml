@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322505" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: Citibank leads $255 mln FRN for Captiva II Finance.</title>
+<headline>Citibank leads $255 mln FRN for Captiva II Finance.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>The following floating-rate issue was announced by lead manager Citibank.</p>
+<p> BORROWER   CAPTIVA II FINANCE LTD</p>
+<p> AMT    $255 MLN	BASE	 3M-LIBOR  LEGAL MAT   30.JAN.10</p>
+<p> TYPE	 FRN	 MARGIN     +26 BP</p>
+<p> MOODY/S&amp;P  =	   ISS PRICE  PAR	 FULL FEES   40 BP</p>
+<p> NOTES	EXPECTED MATURITY 30.JAN.03</p>
+<p> LISTING    LUX	 DENOMS (M) ONE	 SALE LIMITS US/UK/CI</p>
+<p> GOV LAW    N.Y</p>
+<p> NOTES	THE NOTES WILL BE PARTIALLY PAID AND ISSUED IN ONE</p>
+<p>THIRD INCREMENTS OF $85 MLN ON 28.JAN, 28.FEB AND 28.MAR. AFTER A 5-YEAR REINVESTMENT PERIOD, THE NOTES WILL AMORTISE ON A PASS-THROUGH BASIS. THERE ARE ALSO CLASS B NOTES OF $45 MLN -- London Newsroom +44 171 542 8863</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAYI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

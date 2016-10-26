@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578076" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: Falcon Holding Group LP Q1 net.</title>
+<headline>Falcon Holding Group LP Q1 net.</headline>
+<dateline>LOS ANGELES 1997-05-13</dateline>
+<text>
+<p>(Dollars in Thousands)</p>
+<p>							 Three months ended</p>
+<p>								  March 31,</p>
+<p>							    1996	1997</p>
+<p> Revenues					    $ 46,203  $ 63,984</p>
+<p>Expenses:</p>
+<p>   Service costs				     12,756    18,295</p>
+<p>   General and administrative expenses	  7,984    11,179</p>
+<p>   Depreciation and amortization		 20,150    29,793</p>
+<p>     Total expenses				  40,890    59,267</p>
+<p>     Operating income				 5,313     4,717</p>
+<p>Other income (expense):</p>
+<p>   Interest expense				(15,602)  (20,384)</p>
+<p>Equity in net losses of investee partnerships</p>
+<p>								 15	(71)</p>
+<p>   Other income, net				  1,188	 403</p>
+<p> Net loss					     (9,086)  (15,335)</p>
+<p>The following table sets forth certain pro forma results of operations assuming that the acquisition of FCSC had occurred on Jan. 1, 1996.</p>
+<p>						 Pro Forma	   Actual</p>
+<p>						  Three mos     Three mos</p>
+<p>							ended	   ended</p>
+<p>						    Mar 31,	 Mar 31,</p>
+<p>							1996	    1997</p>
+<p> Revenues					$ 59,007	$ 63,984</p>
+<p>Expenses:</p>
+<p>   Service costs				 16,426	  18,295</p>
+<p>   General and administrative expenses   10,411	  11,179</p>
+<p>   Depreciation and amortization	   31,471	  29,793</p>
+<p>     Total expenses			    58,308	  59,267</p>
+<p>     Operating income			     699	   4,717</p>
+<p>Other income (expense):</p>
+<p>   Interest expense, net		   (21,152)	(20,384)</p>
+<p>Equity in net income (loss)</p>
+<p>    of investee partnerships		     15	    (71)</p>
+<p>   Other income (expense), net		(453)	   (162)</p>
+<p>   Income tax benefit			   1,553	     565</p>
+<p> Net loss					(19,338)	(15,335)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

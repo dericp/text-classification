@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133257" id="root" date="1996-10-22" xml:lang="en">
+<title>POLAND: Kyungbang to invest $20 mln in Poland.</title>
+<headline>Kyungbang to invest $20 mln in Poland.</headline>
+<dateline>WARSAW 1996-10-22</dateline>
+<text>
+<p>South Korea's Kyungbang concern wants to invest $20 million in Poland, mainly buying textile plants, the Gazeta Wyborcza daily said on Tuesday.</p>
+<p>It said the Koreans were already in talks with several textile companies, notably Zaklady Tekstylno-Konfekcyjne Teofilow in the town of Lodz. No one at the Toefilow company was immediately available for comment.</p>
+<p>Kyungbang has so far bought 84 percent of the Fonica radio firm in Lodz and pledged to invest $1.5 million in its development.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

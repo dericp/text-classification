@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89882" id="root" date="1996-10-01" xml:lang="en">
+<title>DUBAI: Saudi king says Israel threatens world stability.</title>
+<headline>Saudi king says Israel threatens world stability.</headline>
+<dateline>DUBAI 1996-10-01</dateline>
+<text>
+<p>Saudi Arabia's King Fahd said Israel's latest actions in Jerusalem not only threatened the Middle East peace process but world stability, the official Saudi Press Agency reported.</p>
+<p>SPA said the king welcomed at a weekly cabinet meeting on Monday night the international support for the Arab condemnation of Israel's &quot;brutal massacres in Jerusalem.&quot;</p>
+<p>He asserted that &quot;it was not in the interest of the world presently or futurely to ignore the Israeli practices which will not only sabotage the peace process but will greatly harm the world's stability and prosperity.&quot;</p>
+<p>He said the international community should &quot;stop the intentional Israeli changes to the nature of al-Aqsa Mosque which aims at suppressing the identity of Islamic holy (sites) in a flagrant deviation from international laws and norms.&quot;</p>
+<p>The mosque in Jerusalem's Old City is Islam's third holiest shrine. Fifty-five Palestinians and 14 Israelis were killed in violence which erupted after Israel opened an archaeological tunnel near the mosque.</p>
+<p>U.S. President Bill Clinton is hosting a Mideast summit aimed at ending the renewed violence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

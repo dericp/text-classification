@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="522894" id="root" date="1997-04-20" xml:lang="en">
+<title>UK: CRICKET-CAMBRIDGE AND LEICESTERSHIRE RESULT.</title>
+<headline>CRICKET-CAMBRIDGE AND LEICESTERSHIRE RESULT.</headline>
+<dateline>CAMBRIDGE, England 1997-04-20</dateline>
+<text>
+<p>Cambridge University and Leicestershire drew their three-day match at Fenner's on Sunday.</p>
+<p>Scores: Leicestershire 451-3 declared and 222-2 declared, Cambridge University 333-7 declared and 51-1.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

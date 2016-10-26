@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135569" id="root" date="1996-10-22" xml:lang="en">
+<title>FRANCE: French housing starts up in 3 months to end Sept.</title>
+<headline>French housing starts up in 3 months to end Sept.</headline>
+<dateline>PARIS 1996-05-21</dateline>
+<text>
+<p>The French housing ministry gave the following unadjusted figures on housing starts in September.</p>
+<p>			     3-mos to end   12-mos to end</p>
+<p>				 Sept 1996	Sept 96</p>
+<p>HOUSING APPROVED</p>
+<p> (total nos)		  74,600	  302,600</p>
+<p> (y/y pct chg)		  3.2		-8.8</p>
+<p> STARTED			65,500	  273,700</p>
+<p> (percent)			0.2		-8.2</p>
+<p>NON-HOUSE BUILDING</p>
+<p>APPROVED</p>
+<p> (sq metres)		 8.99 million	33.57 million</p>
+<p> (y/y pct chg)		  -2.7	     -3.8</p>
+<p> STARTED		     7.72 million	30.95 million</p>
+<p> percent			  -6.1	     -2.2</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E61">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

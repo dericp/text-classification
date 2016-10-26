@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157636" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Oryx closes deal on 4 U.K. North Sea fields.</title>
+<headline>Oryx closes deal on 4 U.K. North Sea fields.</headline>
+<dateline>DALLAS 1996-10-30</dateline>
+<text>
+<p>Oryx Energy Co said on Wednesday that it completed the purchase of Chevron Corp's interests in four U.K. North Sea fields for $91 million.</p>
+<p>The deal encompasses 65 percent of Chevron's interests in the Ninian, Hutton, Lyell and Murchison fields, Oryx said. Ranger Oil Ltd purchased the remaining 35 percent, Oryx said.</p>
+<p>The deal also includes Chevron's interests in the Columba B field and some exploration acreage, Oryx said.</p>
+<p>Oryx operates the Hutton, Lyell and Murchison fields and expects to take over as operator of Ninian early next year, once it obtains necessary government and partner approvals, Oryx said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

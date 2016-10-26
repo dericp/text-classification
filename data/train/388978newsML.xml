@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="388978" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: CME cattle and pork complex pre-opening calls.</title>
+<headline>CME cattle and pork complex pre-opening calls.</headline>
+<dateline>CHICAGO 1997-02-19</dateline>
+<text>
+<p>CME cattle and pork complex pre-opening calls as of 0805 CST, according to analysts.</p>
+<p>LIVE CATTLE - Up 0.150 to off 0.100 cent. Nearbys seen up on firm cash markets, backs down on further report pressure.</p>
+<p>FEEDER CATTLE - Steady to up 0.100 cent. Market looks oversold and corn called easier.</p>
+<p>LEAN HOGS - Off 0.100 to 0.500 cent. Cash hogs called lower and lack of demand for wholesale product.</p>
+<p>PORK BELLIES - Off 0.250 to 0.800 cent. Carryover from limit, delivery concerns and out-of-town expected bearish.</p>
+<p>((Jerry Bieszk 312-408-8725))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

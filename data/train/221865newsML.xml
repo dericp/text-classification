@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221865" id="root" date="1996-11-27" xml:lang="en">
+<title>JAPAN: North Korea frees detained American Hunziker.</title>
+<headline>North Korea frees detained American Hunziker.</headline>
+<dateline>TOKYO 1996-11-27</dateline>
+<text>
+<p>American Carl Hunziker, detained in North Korea for three months, arrived in Tokyo on Wednesday with U.S. Congressman Bill Richardson, who negotiated his release, a U.S. military spokesman said.  </p>
+<p>&quot;Congressman Richardson and Mr Hunziker have arrived in Japan,&quot; U.S. military spokesman Kevin Krejcarek told reporters at a U.S. air base on the outskirts of Tokyo where their U.S. military plane landed.</p>
+<p>The 26-year-old Hunziker, who his family says is a missionary, was detained by North Korea near the Chinese border on August 24 and held on charges of espionage and illegal entry into North Korea.</p>
+<p>The United States, South Korea and Hunziker's family have all denied he is a spy and say he accidentally strayed into North Korea while on a visit to China.</p>
+<p>Richardson, a close confidant of President Bill Clinton, and Hunziker had been scheduled to leave North Korea for Tokyo on Tuesday but their departure was delayed for a day for as yet unknown reasons.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

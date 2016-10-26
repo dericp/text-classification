@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132245" id="root" date="1996-10-21" xml:lang="en">
+<title>NETHERLANDS: KBB buys 500,000 KBB shares from Vendex.</title>
+<headline>KBB buys 500,000 KBB shares from Vendex.</headline>
+<dateline>AMSTERDAM 1996-10-21</dateline>
+<text>
+<p>Dutch retailer Koninklijke Bijenkorf Beheer NV (KBB) said on Monday it had bought 500,000 of its own shares from a placement announced earlier by fellow retailer Vendex International NV.</p>
+<p>Vendex sold its entire 36 percent stake in KBB via an international placement, raising 484 million guilders for a book profit of 130 million.</p>
+<p>KBB said in a statement it bought its shares at 117 guilders apiece and added that the purchase would have a positive effect on its earnings per share.</p>
+<p>-- Amsterdam newsroom +31 20 504 5000, Fax +31 20 504 5040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="697137" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Trade estimates for USDA grain export inspections.</title>
+<headline>Trade estimates for USDA grain export inspections.</headline>
+<dateline>CHICAGO 1997-06-30</dateline>
+<text>
+<p>Trade estimates for the weekly U.S. grain and soybean export inspections due from the U.S. Agriculture Department Monday around 1000 CDT are as follows, in millions of bushels.</p>
+<p>		     Range	    prev week</p>
+<p> Soybeans	 6.0 to 9.0	  10,022</p>
+<p> Wheat	   15.0 to 17.0	 17,269</p>
+<p> Corn	    24.0 to 29.0	 27,837</p>
+<p>((--Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

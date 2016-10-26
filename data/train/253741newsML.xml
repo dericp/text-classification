@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253741" id="root" date="1996-12-12" xml:lang="en">
+<title>INDONESIA: Indonesia shipping - Tanjung Priok - Dec 12.</title>
+<headline>Indonesia shipping - Tanjung Priok - Dec 12.</headline>
+<text>
+<p>Vessels at Tanjung Priok Port,</p>
+<p>Jakarta Summary:</p>
+<p>Vessels unloading : 24   Vessels loading : 12</p>
+<p>---------------------------------------------------------------</p>
+<p>Name	   Arrival	Scheduled    P/Origin    Unloading Grt</p>
+<p>		 Date/Time    departure    P/Dest	Loading</p>
+<p>---------------------------------------------------------------</p>
+<p>Sun Marina   11-12-96     12-12-96     Yokohama    phenoil</p>
+<p>5.266	  1700	   0200	   Merak	 1,357 tns</p>
+<p>Samudera Indonesia						 -</p>
+<p>---------------------------------------------------------------</p>
+<p>Safar	  12-12-96     17-12-96     Yangoon     cattle-</p>
+<p>8,219	  0800	   1500	   S'pore	fodder</p>
+<p>Bahtra Adhuguna						7,700 tns</p>
+<p>									 -</p>
+<p>---------------------------------------------------------------</p>
+<p>Lijnbaans-   12-12-96     12-12-96     K.Baru	wire rod</p>
+<p>gracht	 0700	   1800	   S'pore	908 tns</p>
+<p>5,998								  -</p>
+<p>Goshen Niaga Jaya</p>
+<p>---------------------------------------------------------------</p>
+<p>Dibena-	11-12-96     15-12-96     Bangkok     rise</p>
+<p>Happy	  1400	   1500	   S'pore	5,500 tns</p>
+<p>4,837								  -</p>
+<p>Bahtra Adhiguna</p>
+<p>---------------------------------------------------------------</p>
+<p>Industrial   12-12-96     13-12-96     Houston     g.cargo</p>
+<p>3,277	  1400	   0700	   S'pore	294 tns</p>
+<p>Andhika Line							 -</p>
+<p>---------------------------------------------------------------</p>
+<p>Robin-	 15-12-96     13-12-96     Australia   cereal</p>
+<p>Prosper	0800	   0800	   Tanjung-    15,000 tns</p>
+<p>35,128					   Perak	     -</p>
+<p>Bogasari</p>
+<p>---------------------------------------------------------------</p>
+<p>Tambang-VII  11-12-96     12-12-96     S'pore	container</p>
+<p>2,330	  1900	   0600	   S'pore	44 teus</p>
+<p>Sufie Bahari Line						  -</p>
+<p>---------------------------------------------------------------</p>
+<p>Amfitriti    12-12-96     17-12-96     Italy	 g.cargo</p>
+<p>10,274	 0700	   1500	   Tanjung-    9,355 tns</p>
+<p>Djakarta Lloyd				 Perak	     -</p>
+<p>---------------------------------------------------------------</p>
+<p>Permai-I     12-12-96     13-12-96     S'pore	container</p>
+<p>9,110	  0500	   0300	   S'pore	271 teus</p>
+<p>Djakarta Pacific Line					container</p>
+<p>								   250 teus</p>
+<p>---------------------------------------------------------------</p>
+<p>Seven Seas-  12-12-96     13-12-96     HongKong    container</p>
+<p>Aurora	 1000	   1500	   S'pore	550 teus</p>
+<p>14,295							   container</p>
+<p>Karana Line						    450 teus</p>
+<p>---------------------------------------------------------------</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

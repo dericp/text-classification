@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214886" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Lucent to sell equipment to NextWave - WSJ.</title>
+<headline>Lucent to sell equipment to NextWave - WSJ.</headline>
+<dateline>NEW YORK 1996-11-25</dateline>
+<text>
+<p>Wireless company NextWave Telecom Inc has agreed to purchase $200 million in equipment during the next two years from Lucent Technologies Inc, the Wall Street Journal reported on Monday.</p>
+<p>The newspaper said NextWave, whose purchase it to be announced on Monday, might buy another $800 million from Lucent later.</p>
+<p>The company plans to offer a digital-wireless service called personal communication service to compete against traditional cellular, it said.</p>
+<p>The newspaper said Lucent has agreed to finance the initial $200 million of equipment for NextWave's Northeast markets like New York and Boston.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

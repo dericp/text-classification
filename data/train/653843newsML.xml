@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653843" id="root" date="1997-06-11" xml:lang="en">
+<title>PAKISTAN: Pakistan puts 96/97 budget gap at 6.2 pct of GDP.</title>
+<headline>Pakistan puts 96/97 budget gap at 6.2 pct of GDP.</headline>
+<dateline>ISLAMABAD 1997-06-11</dateline>
+<text>
+<p>The Pakistan government's economic survey, released on Wednesday, estimated that the budget deficit would reach 6.2 percent of Gross Domestic Product in 1996/97 (July-June), compared to 6.3 percent in 1995/96.  </p>
+<p>The document, released ahead of Friday's budget for 1997/98, said GDP would grow 3.1 percent this year, against a targeted 6. 3 percent, and compared to last year's 4.6 percent.</p>
+<p>It said revenue collection in the first 10 months had reached only 221 billion rupees against a whole-year target of 340 billion, predicting a shortfall of 50 billion rupees.</p>
+<p>The survey, which covers the first nine months of the fiscal year, estimated unemployment at 5.37 percent of Pakistan's population, which it put at 135.28 million as of January 1.</p>
+<p>It said annual consumer price inflation was likely to rise 11.62 percent in 1996/97, compared to 10.3 percent last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

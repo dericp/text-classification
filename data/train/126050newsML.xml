@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126050" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: UroMed Corp Q3 full results.</title>
+<headline>UroMed Corp Q3 full results.</headline>
+<dateline>NEEDHAM, Mass. 1996-10-18</dateline>
+<text>
+<p>Three Months Ended	  Nine Months Ended</p>
+<p>			    September 30,		 September 30,</p>
+<p>			   1996	 1995	   1996	  1995</p>
+<p>Revenues	    $800,364    $404,662   $2,118,977   $404,662</p>
+<p>Costs and expenses:</p>
+<p>Cost of revenues 1,203,385   1,133,652    3,891,009  1,133,652</p>
+<p>Research &amp; dev   2,039,275   1,273,182  35,733,860(A)5,443,685</p>
+<p>Marketing and sales 2,785,345  439,462   4,925,543   1,444,051</p>
+<p>General &amp; admin	 822,080  476,196   1,948,303   1,441,692</p>
+<p>Total costs &amp; exp 6,850,085  3,322,492  46,498,715   9,463,080</p>
+<p>Loss from opers  (6,049,721)(2,917,830)(44,379,738) (9,058,418)</p>
+<p>Interest income    606,016    641,565    2,172,770   1,955,212</p>
+<p>Interest expense	0	 (862)	   (539)     (3,593)</p>
+<p>Net loss	   (5,443,705)(2,277,127)(42,207,507) (7,106,799)</p>
+<p>Net loss per shr ($0.21)     ($0.11)	($1.67)(A)  ($0.34)</p>
+<p>Weighted average common</p>
+<p>shares outstanding 26,429,093 20,954,237 25,244,303 20,867,823</p>
+<p>Note: (A)Includes $30,200,000, or $1.20 per share, spent on the acquisition of the Miniguard Patch technology in the second quarter of 1996 and related expenses.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEEDHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

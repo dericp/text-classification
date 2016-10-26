@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117324" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: CBOT grain/oilseed receipts and shipments.</title>
+<headline>CBOT grain/oilseed receipts and shipments.</headline>
+<dateline>CHICAGO 1996-10-15</dateline>
+<text>
+<p>Grain and soybean receipts and shipments, in bushels, at delivery locations for the previous trading day, according to the Chicago Board of Trade -</p>
+<p>		     Receipts	  Shipments</p>
+<p>Wheat</p>
+<p>Chicago		  944		   0</p>
+<p>St. Louis	  131,117	    64,583</p>
+<p>Toledo		11,209		   0</p>
+<p>Corn</p>
+<p>Chicago	     40,678	     5,782</p>
+<p>St. Louis	  913,379	   833,290</p>
+<p>Toledo	     158,394	    23,809</p>
+<p>Oats</p>
+<p>Chicago		    0		   0</p>
+<p>Minneapolis	471,953	   174,202</p>
+<p>Soybeans</p>
+<p>Chicago	    181,468		   0</p>
+<p>St. Louis	  762,316	   697,647</p>
+<p>Toledo	   1,549,930	 1,353,026</p>
+<p>(Chicago Newsdesk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

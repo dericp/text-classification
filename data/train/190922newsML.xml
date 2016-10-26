@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190922" id="root" date="1996-11-14" xml:lang="en">
+<title>JAPAN: Daihatsu -6mth parent results.</title>
+<headline>Daihatsu -6mth parent results.</headline>
+<dateline>TOKYO 1996-11-14</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		354.11		vs	  315.00</p>
+<p> Operating	    5.63		vs	    2.07</p>
+<p> Current		5.18		vs	    2.29</p>
+<p> Net		    1.94		vs	    1.23</p>
+<p> EPS		    4.53 yen	  vs	    2.87 yen</p>
+<p> Shares	    427 million	  vs	 427 million</p>
+<p> Interim div	  1.50 yen	  vs	    1.50 yen</p>
+<p>NOTE - Daihatsu Motor Co Ltd is a car manufacturer belonging to the Toyota Motor group.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

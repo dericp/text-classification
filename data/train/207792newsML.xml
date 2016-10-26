@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207792" id="root" date="1996-11-21" xml:lang="en">
+<title>FINLAND: Helsinki bourse hits record-high close in quiet trade.</title>
+<headline>Helsinki bourse hits record-high close in quiet trade.</headline>
+<dateline>HELSINKI 1996-11-21</dateline>
+<text>
+<p>Finnish shares edged higher on Thursday amid moderately lively action in second-tier stocks while blue-chips like telecoms group Nokia, forestry firm UPM-Kymmene and bank Merita closed unchanged.</p>
+<p>The HEX all-share index posted its second record-high close in as many days, advancing 7.7 points or 0.3 percent to 2,380.4 points -- up 39 percent this year, but still 0.8 percent below its all-time peak set in intra-day trade last Friday.</p>
+<p>Turnover was a muted 390 million markka with Nokia's slice of total smaller than usual at 30 percent. Nokia was unmoved by news of a $80 million contract to expand a mobile phone GSM network in China. It closed unchanged at 259.00 markka.</p>
+<p>Two surveys indicating better times ahead for the forest industry failed to lift UPM-Kymmene. The share of Europe's largest forest industry group was unchanged at 89.00 markka.</p>
+<p>Wholesaler Kesko recovered some of this week's losses linked to the EU Commission's rejection of its merger with domestic rival Tuko. Passenger ferry operator Silja rose on news of a debt-for-equity swap.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

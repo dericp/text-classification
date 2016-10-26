@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="258013" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Intel delivers world's fastest computer. [CORRECTED 21:03 GMT]</title>
+<headline>Intel delivers world's fastest computer. [CORRECTED 21:03 GMT]</headline>
+<dateline>SAN FRANCISCO 1996-12-16</dateline>
+<text>
+<p>Intel Corp finished developing a supercomputer capable of doing one trillion operations a second - the fastest in the world - for the U.S. Department of Energy, the company and department announced.</p>
+<p>That speed comes close to tripling the previous record in computing speed achieved by Hitachi Ltd in 1995 with a supercomputer capable of doing 368 billion operations a second, officials said.</p>
+<p>The Intel supercomputer will be used at the government's Sandia National Laboratory to simulate the performance of U.S. nuclear weapons, replacing live tests of weapon stockpiles.  </p>
+<p>The supercomputer will also be used to predict weather changes and natural disasters and in other Energy Department projects requiring simulation of series of events with massive mathematical calculations, department officials said.</p>
+<p>&quot;One trillion operations per second...This was once thought unachievable&quot; U.S. Energy Secretary Hazel O'Leary said during a conference call announcing Intel's fulfillment of its supercomputer contract.  </p>
+<p>&quot;The U.S. can reestablish its dominance in this market as an innovator... in the business of ultra-computing,&quot; she said. Intel built the supercomputer using 9,624 standard desktop microprocessors, or Pentium Pro chips, and linking them to process simultaneously in an architecture the industry calls &quot;massive parallel processing.&quot;</p>
+<p>Craig Barrett, Intel executive vice president and chief operating officer (corrects title), said one of the breakthroughs achieved with this supercomputer is it uses &quot;standard building blocks.&quot;  </p>
+<p>&quot;We were trying to demonstrate that with standard building blocks you can deliver world record-breaking power,&quot; he said.</p>
+<p>However, Intel does not see much of a market for the huge supercomputers beyond a few government agencies, he said.</p>
+<p>The Energy Department will pay Intel about $50 million for the machine under terms of the contract let in September 1995.  </p>
+<p>Barrett said he believes there is a &quot;reasonable&quot; market for intermediate-sized parallel processing supercomputers using Pentium Pros.  Officials on the call named such things as molecular modeling by pharmaceutical companies and manufacturing planning by auto makers.</p>
+<p>Supercomputers traditionally have been built with processor chips designed for the purpose of supercomputing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

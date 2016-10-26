@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41695" id="root" date="1996-09-09" xml:lang="en">
+<title>UK: UK delivered grain trades - Sept 9.</title>
+<headline>UK delivered grain trades - Sept 9.</headline>
+<text>
+<p>UK grain brokers reported the following delivered grain trades at 1415 gmt, in Sterling a tonne -</p>
+<p>Milling wheat 11 pct protein to Liverpool Oct/Dec 134.50</p>
+<p>London Oct/Dec 130.00</p>
+<p>Feed wheat to Norfolk/Suffolk Sep 107.00 Oct/Dec 110.50/10.00/09.50/09.00 Jan/Mar 113.25/13.00</p>
+<p>West Norfolk Jan/Mar 112.00</p>
+<p>Yorkshire Oct/Dec 110.00 Jan/Mar 113.00</p>
+<p>Liverpool Oct/Dec 112.00 Jan/Mar 115.00 Apr/Jun 118.00</p>
+<p>Avon range Sep 107.50 Oct/Dec 110.00</p>
+<p>Feed barley to Sep 102.00 Oct/Dec 105.50/05.00 Jan/Mar 108.50/08.00 Apr/Jun 111.00</p>
+<p>Yorkshire Sep 101.00</p>
+<p>Shropshire/Cheshire Oct/Dec 104.50 Jan/Mar 107.50 Apr/Jun 110.50</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

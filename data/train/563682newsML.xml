@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563682" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: IBM chairman to meet with analysts Wednesday.</title>
+<headline>IBM chairman to meet with analysts Wednesday.</headline>
+<dateline>NEW YORK 1997-05-06</dateline>
+<text>
+<p>International Business MachinesCorp. Chairman Louis Gertsner will hold his annual meeting with Wall Street analysts Wednesday, the computer giant said, and analysts said they expected the session to focus on corporate strategy.</p>
+<p>&quot;I would be surprised if I came out of that meeting changing earnings estimates,&quot; said analyst Bill Milton of Brown Brothers Harriman.</p>
+<p>Milton said he expects Gerstner to discuss IBM's booming services business, its &quot;powerhouse&quot; PC business, its resurgence in hard disk drives and its focus on the Internet.</p>
+<p>&quot;I'm not looking for any significant changes in strategic direction,&quot; said Steve Milunovich, a Morgan Stanley analyst. &quot;There will be more talk about the company's plans to grow, more talk about electronic commerce, talk about network computing and the investments that IBM is making there.&quot;</p>
+<p>&quot;One might suspect he is going to talk about how he is transforming IBM,&quot; said Gary Helmig of SoundView Financial.</p>
+<p>Helmig said he expects Gerstner also to discuss how IBM is changing its position in the computer industry.</p>
+<p>The Armonk, N.Y.-based company remains the world's largest computer maker but it is also seeking growth in its software businesses and plans to grow faster than the rest of the industry in its computer services business.</p>
+<p>IBM stock fell 37.5 cents to $165.75 in afternoon trading on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

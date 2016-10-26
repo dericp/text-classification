@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="97658" id="root" date="1996-10-04" xml:lang="en">
+<title>VIETNAM: Mobile phone users rising fast in Vietnam.</title>
+<headline>Mobile phone users rising fast in Vietnam.</headline>
+<dateline>HANOI 1996-10-04</dateline>
+<text>
+<p>The number of mobile phones in Vietnam, one of the world's poorest countries, has almost tripled over the last six months, the official Vietnam News Agency (VNA) said on Friday.</p>
+<p>VNA said Vietnam now has around 57,000 subscribers and expects the number to rise to around 200,000 by the year 2000, roughly equivalent to around one mobile phone for every 400 people.</p>
+<p>In April, the total was put at 20,000.</p>
+<p>Mobile phones were first introduced into previously beep-free Vietnam in 1993, but are becoming increasingly common in the country's cities despite national per capita income of only around $220 per year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

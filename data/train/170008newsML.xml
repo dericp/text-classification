@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170008" id="root" date="1996-11-06" xml:lang="en">
+<title>GERMANY: German Bund futures higher, survive profit-taking.</title>
+<headline>German Bund futures higher, survive profit-taking.</headline>
+<dateline>FRANKFURT 1996-11-06</dateline>
+<text>
+<p>German Bunds remained higher in late trade, surviving bouts of profit taking brought on by a 70 basis point rally since Tuesday morning.</p>
+<p>Traders said strong U.S. Treasuries, supported by the outcome of the U.S. presidental election, lifted Bunds which closely tracked their U.S. counterparts after several sessions of underperforming them.</p>
+<p>The December Bund future was up 14 basis points in late trade to 100.32 after trading as high as 100.47 not long after the market opened.  </p>
+<p>The Bund/T-note spread was steady at 46 basis points late in the day, recovering from earlier losses relative to U.S. debt.</p>
+<p>The yield curve, which has been flattening, steepened because of what one analyst said was a technical rebound.</p>
+<p>The release of the European Monetary Institute convergence report which said EU states were dragging their heels on getting their public finances in order had little lasting impact on Bunds.</p>
+<p>Analysts said the report contained few surprises.</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

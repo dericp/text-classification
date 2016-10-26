@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111255" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U.S., Mexican tomato growers reach tenative truce.</title>
+<headline>U.S., Mexican tomato growers reach tenative truce.</headline>
+<dateline>WASHINGTON 1996-10-11</dateline>
+<text>
+<p>The U.S. Commerce Department said Friday it reached a tentative agreement with Mexican tomato growers to settle a bitter trade dispute.</p>
+<p>The proposed agreement will settle a controversial complaint brought by Florida tomato growers against Mexican growers for allegedly selling their produce in the United States at below-market prices and costing the domestic industry hundreds of millions of dollars in lost sales.  </p>
+<p>Under the proposed settlement, which was signed Thursday by U.S. officials and Mexican growers, Mexican tomato growers would agree to not sell their produce in the United States at less than a certain price, called the reference price.</p>
+<p>The reference price would be based on the lowest average Mexican import prices during a certain period, and could be adjusted after one year if market conditions change significantly.</p>
+<p>Under the agreement, the U.S. government would implement a monitoring system of Mexican imports. The administration could terminate the agreement at any time if it found that the terms have been violated.</p>
+<p>The pact would end the trade complaint and hopefully remove a political thorn in the side of the Clinton administration. Critics of the U.S. complaint have said that Florida's political influence because of its large population had caused the administration to look more sympathetically at the U.S. grower's position.</p>
+<p>Consumer groups and groups representing corn and livestock producers have strongly opposed the complaint, charging that the Florida growers were seeking unwarranted protection and that tomato prices would rise and trade with Mexico suffer if the administration slapped sanctions on imports of Mexican tomatoes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

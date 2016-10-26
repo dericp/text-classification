@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379380" id="root" date="1997-02-14" xml:lang="en">
+<title>UK: OPTIONS - Dividend arbitrage deal struck in BP.</title>
+<headline>OPTIONS - Dividend arbitrage deal struck in BP.</headline>
+<dateline>LONDON 1997-02-14</dateline>
+<text>
+<p>A dividend arbitrage strategy in British Petroleum was the biggest UK stock options deal on Friday in a quiet market, dealers said.</p>
+<p>The strategy locks in a profit irrespective of how the underlying stock and options behave after the deal has been struck.</p>
+<p>The deal was to buy 2,000 April 850 puts at 166p as well as two million shares at 690.15p making a net debit of 856.15p.</p>
+<p>The shares will go ex-dividend by 6.5625p gross (5.25p net of basic tax) on Monday so the puts can then be exercised to sell the shares without losing the dividend.  </p>
+<p>The net credit for this will be 856.5625p so a risk free profit of 0.4125p per share, or 8,250 stg overall can be achieved.</p>
+<p>By 1330 GMT, BP shares had fallen 5-1/2p to 689p.</p>
+<p>Over in banking group Lloyds TSB, the main deal was the sale of 1,000 March 500 puts at 16p. The group announced full year pre-tax profits for 1996 at 2.51 billion stg, which were slightly ahead of analysts forecasts.</p>
+<p>The shares added 2-1/2p to 504-1/2p.</p>
+<p>There was also some activity in British Telecommunications.  </p>
+<p>The main deal was a short strangle, in which 200 May 420 puts were sold at 8p as well as 200 May 460 calls at 13-1/2p. Further deals in the same options series were subsequently struck.</p>
+<p>The deals will make a maximum profit at expiry if the shares stay between 420p and 460p. BT shares slipped 2-1/2p to 438-1/2p.</p>
+<p>Elsewhere, in conglomerate Lonrho there was a buyer of 500 March 130 puts at 4-1/2p. Lonrho shares added 2p to 131p.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

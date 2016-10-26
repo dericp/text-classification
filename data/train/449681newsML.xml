@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449681" id="root" date="1997-03-18" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - March 18.</title>
+<headline>Direct equity trades on the Czech PSE - March 18.</headline>
+<dateline>PRAGUE 1997-03-18</dateline>
+<text>
+<p>The following is a list of direct equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max.Price  Volume   Turnover</p>
+<p>				   CZK	  CZK   (shares)(CZK 000's)</p>
+<p> 1.IF ZIVNOBANKA	   472.23    481.82    101030   48215.795</p>
+<p> 2.SPORIT.PRIVAT.IF	716.94    716.94	1000     716.940</p>
+<p> CEVA PRACHOVICE	   500.00    520.00     26736   13802.720</p>
+<p> C. RADIOKOMUNIKACE     3525.55   3525.55	 166     585.241</p>
+<p> CESKA SPORITELNA	  325.30    325.30	8000    2602.400</p>
+<p> CEZ			  1025.00   1170.00    141000  148477.600</p>
+<p> CKD PRAHA HOLDING	 855.00    903.58     30201   27029.108</p>
+<p> CS.PLAVBA LABSKA	  230.00    230.00     86000   19780.000</p>
+<p> DEZA			 2388.88   2388.88	1552    3707.550</p>
+<p> GALENA		     1480.00   1480.00	1000    1480.000</p>
+<p> IPS PRAHA		   260.00    299.25     59432   16059.057</p>
+<p> KABLO KLADNO		675.00    675.00	1440     972.000</p>
+<p> KOMERCNI BANKA	   2405.00   2630.50     54110  131977.300</p>
+<p> KOMERCNI BANKA IF	 630.00    683.22     33132   22134.314</p>
+<p> KVANTO IPF		  227.00    227.00	2500     567.504</p>
+<p> LECIVA PRAHA	     2537.42   2537.42	1697    4306.002</p>
+<p> LITES			 340.50    340.50     57500   19578.750</p>
+<p> NOVA HUT		    542.00    545.00	6200    3368.200</p>
+<p> OBAL ROZKOS		 340.00    400.00     12219    4687.600</p>
+<p> OKD			   154.00    162.00     63000    9902.500</p>
+<p> PIVOV.RADEGAST	   4058.82   4058.82	  50     202.941</p>
+<p> PPF INVEST.HOLDING	240.00    240.00	2613     627.120</p>
+<p> RIF			   990.00   1025.15     37046   37223.944</p>
+<p> RYBARSTVI TREBON	  975.00    975.00	5000    4875.000</p>
+<p> SEPAP			1217.25   1217.25	1992    2424.774</p>
+<p> SOKOLOVSKA UHELNA	 638.00    641.00     20000   12790.000</p>
+<p> SOLNE MLYNY		 285.00    285.00	3252     926.820</p>
+<p> SPT TELECOM		3410.00   3730.00     52970  183959.895</p>
+<p> ST.DLUHOP.9,4/97	   99.50     99.50	 400    4109.512</p>
+<p> SKODA PLZEN		1020.00   1069.26     14500   15382.170</p>
+<p> TEPLARNY BRNO	    1283.55   1283.55	1090    1399.070</p>
+<p> YSE			   148.00    148.00	2000     296.000</p>
+<p> ZIVNOBANKA-PODIL.F	410.00    410.00	3400    1394.000</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="56000" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: TVA boosts output at 1,170 MW Tenn. nuke.</title>
+<headline>TVA boosts output at 1,170 MW Tenn. nuke.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>Tennessee Valley Authority (TVA) said Monday it was boosting output at its 1,170 megawatt (MW) Watts Bar 1 nuclear power unit after &quot;insulator smoldering&quot; Friday forced it to throttle back production.</p>
+<p>TVA spokesman Tom Tohill blamed the smoking insulation on &quot;a very small oil leak&quot; in the unit's feedwater pump.</p>
+<p>While repairs were underway, Watts Bar 1's output fell to 66 percent of capacity, Tohill said, adding it was operating earlier today at approximately at 1,038 MW, or 88.7 percent power.</p>
+<p>He did not have a time for when the plant likely would again reach full output.</p>
+<p>Watts Bar 1, located between Chattanooga and Knoxville, Tenn., accounts for three percent of TVA's total generation capacity.</p>
+<p>--New York Power desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

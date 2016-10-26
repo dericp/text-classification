@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141328" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: CytRx Corp Q3 full results.</title>
+<headline>CytRx Corp Q3 full results.</headline>
+<dateline>ATLANTA 1996-10-23</dateline>
+<text>
+<p>CYTRX CORPORATION AND SUBSIDIARIES</p>
+<p>		 Condensed Consolidated Statements Operations</p>
+<p>		  (Amounts in thousands except per share data)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				   9/30/96  9/30/95  9/30/96  9/30/95</p>
+<p> Total revenues		$ 1,119  $   617  $ 2,640  $ 1,857</p>
+<p> Net loss		     (1,120)  (1,952)  (3,577)  (8,670)*</p>
+<p> Net loss per common share   (.15)    (.25)    (.46)   (1.10)</p>
+<p>Summary of net loss by corporate entity:</p>
+<p> CytRx Corporation	     (420)  (1,566)  (1,475)  (6,955)</p>
+<p> Proceutics, Inc.		(166)	---    (725)	---</p>
+<p> Vaxcel, Inc.		    (264)    (246)    (777)  (1,138)</p>
+<p> Vetlife, Inc.		   (270)    (140)    (600)    (577)</p>
+<p> Net loss			(1,120)  (1,952)  (3,577)  (8,670)</p>
+<p>Cash and short-term investments</p>
+<p>				    19,392   27,099	---	---</p>
+<p>Common shares outstanding</p>
+<p>				   7,587**    7,908	---	---</p>
+<p>*  Includes $1,103 of realized investment losses previously reflected on</p>
+<p>	 the balance sheet as of December 31, 1994, and a charge of $1,395</p>
+<p>	 related to a change in the method of accounting for patent costs.</p>
+<p>** Net of 351 treasury shares. SOURCE  CytRx Corporation</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

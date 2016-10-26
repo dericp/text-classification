@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71248" id="root" date="1996-09-23" xml:lang="en">
+<title>MALTA: Malta to hold general election October 26. [corrected 13:57 gmt]</title>
+<headline>Malta to hold general election October 26. [corrected 13:57 gmt]</headline>
+<dateline>VALLETTA 1996-09-23</dateline>
+<text>
+<p>Maltese Prime Minister Edward Fenech Adami announced on Monday that general elections would be held on October 26, eight months before the expiry of his mandate.</p>
+<p>Fenech Adami told a news conference he had advised President Ugo Mifsud Bonnici to dissolve parliament as from Monday.</p>
+<p>Parliament was due to reconvene on Monday after the summer recess.</p>
+<p>The Nationalist Party led by Fenech Adami has a three-seat majority in the 65-seat parliament. It has been in power since February 1987, applied for membership of the European Union in 1990 (corrects from 1989), and was returned to power in 1992 elections.</p>
+<p>Elections had to be held by the end of June next year but have widely been expected earlier.</p>
+<p>Unofficial campaigning has already started, with the opposition Labour Party, headed by Alfred Sant, on Monday being quoted as saying his party would provide &quot;a government for all the people&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

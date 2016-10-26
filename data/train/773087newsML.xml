@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="773087" id="root" date="1997-08-01" xml:lang="en">
+<title>USA: Brandywine buys 2 office parks for $77.2mln.</title>
+<headline>Brandywine buys 2 office parks for $77.2mln.</headline>
+<dateline>NEWTOWN SQUARE, Pa. 1997-08-01</dateline>
+<text>
+<p>Brandywine Realty Trust said  Friday it bought two office parks with a total of 816,000 rentable  square feet for $77.2 million.</p>
+<p>The trust bought Green Hills Corporate Center in Reading, Pa., which  consists of five office properties totaling 574,241 square feet and  147 acres of undeveloped land.  Green Hills is 85 percent leased,  the trust said.</p>
+<p>Brandywine also bought Berwyn Park in Berwyn, Pa., which contains  three office properties totaling 241,458 square feet and 12.5 acres  of undeveloped land.  Berwyn is 98 percent leased, the trust said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWTOWN SQUARE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

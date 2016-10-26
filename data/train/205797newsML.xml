@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205797" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: ALPINE SKIING-ITALY'S PANZANINI GRABS LEAD IN GIANT SLALOM.</title>
+<headline>ALPINE SKIING-ITALY'S PANZANINI GRABS LEAD IN GIANT SLALOM.</headline>
+<dateline>PARK CITY, Utah 1996-11-21</dateline>
+<text>
+<p>Italy's Sabina Panzanini, without a victory for more than two years, grabbed the lead after the first leg of a women's giant slalom on Thursday.</p>
+<p>Panzanini, a 24-year-old in her fifth World Cup season, had a first-run time of 1:18.88, nearly half a second ahead of Austrian veteran Anita Wachter, timed in 1:19.36. Katja Seizinger of Germany, the defending overall champion who won the season's first race three weeks earler, was third in 1:19.72.</p>
+<p>Still within striking distance, Hilde Gerg of Germany had 1:19.75 and Sonja Nef of Switzerland 1:19.84.</p>
+<p>Early casualties included World Champion Deborah Compagnoni of Italy, who had the lead before skiing off the course halfway down. A similar fate befell Karin Roten of Switzerland, the World silver medalist. Mojca Sumadolc of Slovenia also failed to finish the first run.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARK CITY, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

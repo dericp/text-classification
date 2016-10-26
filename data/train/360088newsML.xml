@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="360088" id="root" date="1997-02-06" xml:lang="en">
+<title>CZECH REPUBLIC: Czech 96 real ind output up 6.9 pct (+9.2 pct).</title>
+<headline>Czech 96 real ind output up 6.9 pct (+9.2 pct).</headline>
+<dateline>PRAGUE 1997-02-06</dateline>
+<text>
+<p>Czech preliminary real industrial output in December rose 1.4 percent, year-on-year, putting output 6.9 percent higher for the whole of 1996, the Czech Statistical Bureau (CSU) said on Thursday.  </p>
+<p> CZECH INDUSTRIAL OUPUT   DEC 96   NOV 96   DEC 95   FY 96</p>
+<p>  real pct chg yr/yr	 +1.4     +1.4     +6.8     +6.9</p>
+<p>AVERAGE INDUST WAGES</p>
+<p>  nominal chg yr/yr	 +21.2    +14.4     +9.9    +17.5</p>
+<p>Note. December 1996 and full year 1996 figures are preliminary. Definitive results from the CSU are expected to be released on February 17.</p>
+<p>Wage results are taken from a survey of 210 firms with 100 or more employees. Production results also contain estimates from firms with up to 100 workers, as well as persons registered in the trades offices.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105488" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Asian migrants taken from Bermuda to Guantanamo.</title>
+<headline>Asian migrants taken from Bermuda to Guantanamo.</headline>
+<dateline>WASHINGTON 1996-10-09</dateline>
+<text>
+<p>The United States has transported some 100 Asian migrants intercepted off Bermuda to the U.S. naval base at Guantanamo Bay on Cuba, the State Department said on Wednesday.</p>
+<p>Spokesman Nicholas Burns said this was a temporary measure and the refugees would be taken, probably next week, to another location -- which he would not identify -- to be questioned by U.S. officials.  </p>
+<p>The U.S. Coast Guard towed the cargo vessel Xing Da, carrying the migrants and a crew of suspected smugglers, into sheltered waters off Bermuda after it broke down at sea.</p>
+<p>Burns said the refugees, who were &quot;Asian and we suspect Chinese from a particular province in China,&quot; had been taken to Guantanamo by Coast Guard aircraft.</p>
+<p>&quot;They will not be screened and they will not be interviewed by our law enforcement agencies and our immigration agencies at Guantanamo,&quot; Burns told reporters. &quot;They are being held there simply so they can be fed and housed because they were living in unacceptable conditions on this refugee migrant ship.&quot;</p>
+<p>&quot;They will be taken to another location, probably as early as next week, so that they can be questioned by U.S. government authorities,&quot; Burns said. &quot;This is a very mysterious case.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BERM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

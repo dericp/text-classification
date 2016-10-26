@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68095" id="root" date="1996-09-20" xml:lang="en">
+<title>AUSTRALIA: Australia's BHP hit by weak copper price in Q1.</title>
+<headline>Australia's BHP hit by weak copper price in Q1.</headline>
+<dateline>MELBOURNE 1996-09-20</dateline>
+<text>
+<p>Australia's largest company, The Broken Hill Proprietary Co Ltd (BHP), said on Friday weak copper and steel prices combined with a strong Australian dollar to drag its net profit 23 percent lower in its first quarter.</p>
+<p>The steel, petroleum and copper giant reported a net profit of A$287 million (US$227 million) for the three months to August 31, down from A$372 million a year earlier, but within market expectations.</p>
+<p>Analysts have been trimming back their BHP earnings estimates due to weaker copper prices and a flat steel market.</p>
+<p>However, although the result was within market expectations, it was not enough to stop BHP's share price falling. In mid-afternoon trade, BHP shares were 19 cents down at A$15.90 and have now fallen about 20 percent since May.</p>
+<p>BHP results were largely hit by copper, a metal in which BHP invested heavily earlier this year before copper prices plummeted on the Sumitomo copper trading scandal in May.</p>
+<p>BHP became the world's second largest copper producer when it bought the United States-based Magma Copper Co for US$2.4 billion in January.</p>
+<p>BHP's copper division reported a 56 percent fall in net profit to A$85 million for the first quarter, despite increased copper sales.</p>
+<p>BHP's total sales rose a marginal 2.7 percent to A$4.84 billion in the quarter. Sales growth was constrained by a stronger Australian dollar, which rose to an average 79 U.S. cents from 73 U.S. cents a year earlier.</p>
+<p>BHP has said a one cent increase in the Australian dollar cuts A$40 million from its bottom line profit.</p>
+<p>Of the four key divisions -- steel, petroleum, copper and minerals -- only the petroleum group increased profit.</p>
+<p>(A$1.00 = 79 US cents)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

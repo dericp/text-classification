@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191797" id="root" date="1996-11-15" xml:lang="en">
+<title>UK: BOE gives UK money market 180 mln stg late help.</title>
+<headline>BOE gives UK money market 180 mln stg late help.</headline>
+<dateline>LONDON 1996-11-15</dateline>
+<text>
+<p>The Bank of England said it provided the UK money market with around 180 million stg of unspecified late assistance.</p>
+<p>(FURTHER DETAILS FOLLOW)  </p>
+<p>			    EARLY	1200 GMT   1400 GMT   LATE</p>
+<p> FORECAST SHORTAGE    500 MLN    500 MLN    550 MLN    550 MLN</p>
+<p> CUMULATIVE SUPPLY    =	    200 MLN    350 MLN    530 MLN</p>
+<p> DETAILS</p>
+<p> BAND 2  BANK BILLS   =	    200 MLN*   150 MLN*   =</p>
+<p> UNSPECIFIED LATE ASSISTANCE	=	     =	  180 MLN</p>
+<p>* INTEREST RATE - 5-15/16 PCT (INDICATES UNCHANGED BASE RATES)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

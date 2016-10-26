@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238609" id="root" date="1996-12-05" xml:lang="en">
+<title>AUSTRALIA: RTRS-Weak Australian bonds still outclass Canada.</title>
+<headline>RTRS-Weak Australian bonds still outclass Canada.</headline>
+<dateline>SYDNEY 1996-12-05</dateline>
+<text>
+<p>Australian bonds finished weaker, but still managed to outpace the Canadian market which dropped heavily on Wednesday.</p>
+<p>A combination of a weaker Canadian dollar, new supply and an unwinding of recent spread tightening plays to the U.S. all contributed to the slide.</p>
+<p>Against the U.S., local bonds slightly underperformed against a growing feeling that the dramatic narrowing seen since April may have found a base around the 100 basis points level.</p>
+<p>New Zealand bonds, meanwhile, reversed an initial tightening trend to Australia after comments by RBNZ governor Don Brash saying the N.Z. dollar was near the top of its cycle.</p>
+<p>--Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

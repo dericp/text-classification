@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="416097" id="root" date="1997-03-03" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia petroleum refinery output up in Dec.</title>
+<headline>RTRS-Australia petroleum refinery output up in Dec.</headline>
+<dateline>CANBERRA 1997-03-03</dateline>
+<text>
+<p>Australia's petroleum refinery production rose to 3,671.9 megalitres in December from 3,569.0 in November, the Department of Primary Industries and Energy said on Monday.</p>
+<p>In its Australian Petroleum Statistics bulletin, the department issued the following data for Australia's refinery input and production.</p>
+<p>Australian refinery input and production:</p>
+<p>		    (megalitres)</p>
+<p>			Input	 Production of Marketable Products:</p>
+<p>Total Indigenous  LPG   Auto   Aviation  Aviation</p>
+<p>			  (percent)	 Gasoline Gasoline  Turbine</p>
+<p>									   Fuel</p>
+<p>Dec 96	  3,829.1  41.8    144.0  1,522.8   7.4     400.7</p>
+<p>Nov 96	  3,773.1  37.9    130.0  1,438.7  10.1     480.5</p>
+<p>Dec 95	  3,589.9  41.3    129.6  1,536.7  13.5     462.5</p>
+<p>Fiscal 95/96 43,203.2  45.3  1,448.4 18,357.8 168.7    4,882.1</p>
+<p>Fiscal 94/95 41,127.6  48.9  1,205.1 17,910.5 155.6    4,409.9</p>
+<p>December percentage change on year-to-date:</p>
+<p>Fiscal	     4.1    2.5    13.4    -1.6   -16.4	6.2</p>
+<p>Calendar	   5.5   -0.1    19.9     1.3     4.3	7.4</p>
+<p>Production of Marketable Products:</p>
+<p>		  Kerosine   Heating Auto Diesel  Industrial, Marine</p>
+<p>				    Oil     Oil	     Diesel Oil</p>
+<p>Dec 96	    83.5	 15.6   1,134.6		 2.3</p>
+<p>Nov 96	     1.4	  5.4   1,110.5		 6.3</p>
+<p>Dec 95	     0.1	  4.2   1,118.8		 2.4</p>
+<p>Fiscal 95/96   176.5	219.1  12,201.9		78.2</p>
+<p>Fiscal 94/95   100.3	189.9  11,365.3	     128.6</p>
+<p>December percentage change on year-to-date:</p>
+<p>Fiscal	 1,198.9	 19.5     4.9		  -51.1</p>
+<p>Calendar	 280.0	 25.6     6.8		  -46.3</p>
+<p>December percentage change on year-to-date:</p>
+<p>Fiscal	    -27.0	 -11.5	  -3.6   -10.1	0.3</p>
+<p>Calendar	  -32.2	  -1.5	   2.7    -9.8	2.3</p>
+<p>NOTE: The department did not supply calendar 1996 data for products. One megalitre equals 6,290 barrels.</p>
+<p>-- Sydney newsroom 61-2 9373-1800  </p>
+<p>Production of Marketable Products:</p>
+<p>		   Fuel   Lubricating Oils, Bitumen  Other     Total</p>
+<p>Oil	Greases etc		  Prods</p>
+<p>Dec 96	   138.8	  85.2	   51.3    85.7    3,671.9</p>
+<p>Nov 96	   164.3	  70.0	   67.3    84.5    3,569.0</p>
+<p>Dec 95	   209.1	  67.2	   62.5    82.5    3,688.9</p>
+<p>Fiscal 95/96 1,997.6	 810.5	  635.2 1,082.6   42,058.6</p>
+<p>Fiscal 94/95 2,430.9	 776.0	  621.2 1,084.6   40,377.9</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807446" id="root" date="1997-08-18" xml:lang="en">
+<title>SOUTH KOREA: Bank of Korea sells dollars at 896.80 won-dealers.</title>
+<headline>Bank of Korea sells dollars at 896.80 won-dealers.</headline>
+<dateline>SEOUL 1997-08-18</dateline>
+<text>
+<p>The central Bank of Korea (BOK) intervened in the inter-bank foreign exchange market in morning trading on Monday, selling dollars at 896.80 won in spot trading, dealers said.  </p>
+<p>Dealers said the central bank hoped to prevent the dollar from rising further.</p>
+<p>The dollar fell to 896.60 won after the intervention, compared with a morning high of 897.00.</p>
+<p>The Bank of Korea earlier tried in vain to intervene in forward trading to cap the rise in the U.S. currency.</p>
+<p>-- Seoul Newsroom (822) 727 5647</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

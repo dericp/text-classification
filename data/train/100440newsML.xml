@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100440" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Va. Power sees 552 MW coal unit up early Nov.</title>
+<headline>Va. Power sees 552 MW coal unit up early Nov.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Virginia Power said Monday a 552 megawatt coal-fired unit at Mount Storm, Va., generating facility was scheduled to resume service on Nov 9 after being shut for seasonal maintenance on Sept 7.</p>
+<p>Technical crews were performing repairs on the unit's turbine and boiler, said company spokesman Jonathan Rhudy, adding &quot;This type of work is done every two years.&quot;</p>
+<p>Two other similar-sized power units on site continued to operate. &quot;Both of them are running fine,&quot; he said.</p>
+<p>Virginia Power, a subsidiary of Dominion Resources Inc, serves 1.9 million customers in Virginia and North Carolina.</p>
+<p>--New York Power Desk 212-859-1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

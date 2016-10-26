@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159309" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Cambridge Technology to acquire Ramos.</title>
+<headline>Cambridge Technology to acquire Ramos.</headline>
+<dateline>CAMBRIDGE, Mass. 1996-11-01</dateline>
+<text>
+<p>Cambridge Technology Partners Inc said on Friday it agreed to acquire Ramos &amp; Associates Inc in accordance with an agreement signed on October 31.</p>
+<p>The transaction, expected to close by December 2, will be completed in a stock-for-stock acquisition in which Cambridge will issue up to 1,175,200 shares for all of Ramos' outstanding securities.</p>
+<p>Cambridge shares were trading up 1-1/2 to 34-1/2 at midday.</p>
+<p>Cambridge is an international client or server and Internet systems integrator.</p>
+<p>Ramos is a strategic information solutions consulting firm. Its revenues for 1995 were $11.8 million, and $17.5 million for the first nine months of 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

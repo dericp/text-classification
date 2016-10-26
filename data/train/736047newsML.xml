@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="736047" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: Chase venture wins United Airlines deal.</title>
+<headline>Chase venture wins United Airlines deal.</headline>
+<dateline>MELVILLE, N.Y. 1997-07-17</dateline>
+<text>
+<p>Chase Merchant Services LLC, a joint venture between Chase Manhattan Bank and First Data Corp said Thursday it has agreed to process Visa and MasterCard sales for United Airlines.</p>
+<p>The multi-year merchant processing agreement is effective October 1 and includes transaction authorization and processing, settlement and funding services, it said.</p>
+<p>The agreement also provides United, a unit of UAL Corp,  with access to U$A Value Exchange, a marketing program available only through a limited partnership of financial institutions served by First Data, it said. The program allows merchants to target market to credit card users with special offers, it said.</p>
+<p>Chase Manhattan Bank is a unit of Chase Manhattan Corp.</p>
+<p>First Data, based in Hackensack, N.J., provides payment systems, electronic commerce and information products and services.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="588409" id="root" date="1997-05-15" xml:lang="en">
+<title>JAPAN: DDI - 96/97 group results.</title>
+<headline>DDI - 96/97 group results.</headline>
+<dateline>TOKYO 1997-05-15</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Group)	(in billions of yen unless specified)</p>
+<p> Sales		  1.02 trln	 vs	  669.61</p>
+<p> Operating	   33.93		vs	   69.11</p>
+<p> Current	     21.40		vs	   61.75</p>
+<p> Net	    loss 26.16		vs     prft 4.28</p>
+<p> EPS	  loss 12,031.35 yen	vs  prft 1,968.62 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p>NOTE - DDI Corp is a communications company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

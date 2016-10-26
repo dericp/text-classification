@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39300" id="root" date="1996-09-07" xml:lang="en">
+<title>USA: U.S. Northwest spot products notionally steady.</title>
+<headline>U.S. Northwest spot products notionally steady.</headline>
+<dateline>SEATTLE 1996-09-07</dateline>
+<text>
+<p>U.S. Northwest gasoline was notionally unchanged late Friday, in line with flat California material.</p>
+<p>Regular unleaded gasoline was assessed at 68.00 cents to 69.00 cent a gallon, flat from Thursday.</p>
+<p>Premium remained about six cents over regular.</p>
+<p>Distillates also stayed flat, though traders saw prices ready to rise once cooler weather settles into the Pacific Northwest.</p>
+<p>Low sulphur held around 74/75 cents a gallon in Seattle, while high sulphur maintained its typical two cent discount.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

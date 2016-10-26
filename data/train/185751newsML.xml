@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185751" id="root" date="1996-11-13" xml:lang="en">
+<title>CANADA: Ontario winter wheat plantings seen down 40 pct.</title>
+<headline>Ontario winter wheat plantings seen down 40 pct.</headline>
+<dateline>CHATHAM, Ontario 1996-11-13</dateline>
+<text>
+<p>Winter wheat plantings were likely down 40 percent from last year with 480,000 acres seeded to Ontario's biggest milling wheat crop, an Ontario Wheat Producers' Marketing Board official told Reuters.</p>
+<p>&quot;We're guessing that plantings are down by about 40 percent, so we could be in the 480,000 acre range. We get a tonne and a half an acre so you get about 720,000 tonnes,&quot; OWPMB secretary manager William McClounie said.</p>
+<p>Ontario farmers seeded 800,000 acres to winter wheat last year but a severe outbreak of fusarium headblight downgraded most of the crop to feed grades.</p>
+<p>Normally, two-thirds of the crop is exported to the United States or overseas as milling wheat.</p>
+<p>&quot;The low plantings are a combination of a wet fall, a late soybean harvest and producers are maybe a little gun shy on replanting wheat because of fusarium. I think a lot of them wanted to get back into crop rotations again,&quot; McClounie said.</p>
+<p>At 480,000 acres, this would be Ontario's smalled winter wheat crop since the fall of 1991, McClounie said.</p>
+<p>--Gilbert Le Gras 204-947-3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATHAM, Ontario"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

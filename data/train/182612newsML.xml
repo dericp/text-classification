@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182612" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Gillette says cut back on animal tests in 1996.</title>
+<headline>Gillette says cut back on animal tests in 1996.</headline>
+<dateline>BOSTON 1996-11-12</dateline>
+<text>
+<p>Gillette Co, attacked for years by animal rights groups, said Tuesday it did not use any animals for testing its personal care products or other consumer products or ingredients in 1996.</p>
+<p>The only laboratory animals used during the year were rodents for prescription drug testing. No rabbits were used in the tests.</p>
+<p>However, the company said in a statement that &quot;laboratory animal usage may change from year-to-year with the company's new product development needs.&quot;</p>
+<p>People for the Ethical Treatment of Animals (PETA), which has waged a high-profile campaign against Gillette for 10 years, said it would continue to press the company to end animal testing.</p>
+<p>&quot;We want a complete definition of what they call prescription drug testing,&quot; PETA president Ingrid Newkirk said in a press statement. &quot;In the past they have described medical products as anti-perspirants, shaving cream and dental products.&quot;</p>
+<p>A Gillette spokesperson was unavailable for further comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

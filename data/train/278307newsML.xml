@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278307" id="root" date="1996-12-27" xml:lang="en">
+<title>EGYPT: Sudan's Mahdi arrives in Cairo for talks.</title>
+<headline>Sudan's Mahdi arrives in Cairo for talks.</headline>
+<dateline>CAIRO 1996-12-27</dateline>
+<text>
+<p>Ousted Sudanese prime minister Sadeq al-Mahdi arrived in Cairo on Friday for talks with Egyptian officials and exiled Sudanese opposition members.</p>
+<p>Mahdi travelled from Eritrea, where he fled two weeks ago from Sudan. Eritrea hosts and encourages the Sudanese opposition.</p>
+<p>&quot;I left Sudan to prevent the Sudanese regime from using my presence there as a hostage,&quot; he said.</p>
+<p>Sudanese President Omar Hassan al-Bashir overthrew Mahdi's democratically elected government in a bloodless coup in 1989.</p>
+<p>Mahdi is expected to spend about 10 days in Egypt and also visit other Arab, European and Asian countries as part of a tour which he said was intended to discuss the situation in Sudan and the &quot;needs of the Sudanese people&quot;.</p>
+<p>Farouq Abu Eissa, spokesman for the opposition umbrella group the National Democratic Alliance, told Reuters on Thursday that Mahdi would have an extended visit in Egypt.</p>
+<p>The opposition alliance has started attacking Sudan from its base in Eritrea.</p>
+<p>Eissa said Mahdi would meet members of the NDA and Egyptian officials &quot;as part of the NDA's drive to remove the regime in Sudan and establish peace, democracy and the rule of law.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="ERTRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="359424" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Seitel has South Texas deep natgas find.</title>
+<headline>Seitel has South Texas deep natgas find.</headline>
+<dateline>HOUSTON 1997-02-06</dateline>
+<text>
+<p>Seitel Inc said Thursday it is a participant in an apparent deep natural gas discovery that encountered pay zones in two Lower Cretaceous formations near Kenedy, Texas, in southern Karnes County.</p>
+<p>The well, known as the Cheyenne Petroleum No. 1 Ruby Young, was drilled to a total depth of 16,713 feet and encountered natural gas pay in both the Edwards and Sligo formations.</p>
+<p>In the Edwards formation, over 140 feet of calculated net pay was encountered, covering a gross interval from 12,898 to 13,390 feet.  </p>
+<p>The Sligo is an established producing horizon along trend to the Ruby Young No. 1 from a carbonate complex that extends from Mexico to Louisiana. Although few wells to date produce from the Sligo in the immediate vicinity, individual Sligo wells at LaJolla and Pawnee fields have produced from 10 to 30 billion cubic feet of natural gas.</p>
+<p>The initial Ruby Young No. 1 completion, which is planned to take place during the next 30 days, will be made in the Sligo section, the company said.</p>
+<p>It said plans are also underway to evaluate the feasibility of drilling a separate development well, offsetting the Ruby Young No. 1, to establish production from the Edwards section.</p>
+<p>Seitel has a 22.5 percent working interest in the Edwards section and a 15 percent working interest in the Sligo section within the Kenedy project area. Its partners are privately owned, a spokesman noted.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

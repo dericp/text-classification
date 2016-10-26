@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429059" id="root" date="1997-03-09" xml:lang="en">
+<title>TANZANIA: Rinderpest hits Tanzania's northern region.</title>
+<headline>Rinderpest hits Tanzania's northern region.</headline>
+<dateline>DAR ES SALAAM 1997-03-09</dateline>
+<text>
+<p>Rinderpest, a highly infectious cattle disease, is threatening livestock and wildlife in northern Tanzania, the official Shihata news agency said on Sunday.</p>
+<p>Shihata quoted a senior agriculture ministry official as saying Tanzania needed $3 million to fight the epidemic which has already swept across large areas of East Africa.</p>
+<p>A campaign to vaccinate cattle in northern Tanzania was launched in January but is likely to require additional funding, the official said. The European Union (EU) has contributed $300,000 towards the cost of vaccines and transport.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

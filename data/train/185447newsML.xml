@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185447" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Integ Inc Q3 loss widens.</title>
+<headline>Integ Inc Q3 loss widens.</headline>
+<dateline>ST. PAUL, Minn. 1996-11-12</dateline>
+<text>
+<p>Third Quarter		 Nine Months</p>
+<p>		     1996	   1995	   1996	   1995</p>
+<p>Operating expenses:</p>
+<p>    R &amp; D   $1,126,364     $658,189   $2,972,888  $ 1,613,663</p>
+<p>Gen. and admin.</p>
+<p>		   790,384	419,586    1,882,380	998,925</p>
+<p>Clinical &amp; reg.</p>
+<p>		   199,138	 91,227	455,994	215,986</p>
+<p>Manufac. devel.</p>
+<p>		   305,002	252,725	908,263	446,813</p>
+<p>Sales and mktg.</p>
+<p>		   190,082	102,027	588,389	247,190</p>
+<p>Operating loss</p>
+<p>	     (2,610,970)  (1,523,754)  (6,807,014)  (3,522,577)</p>
+<p>Non-operating income</p>
+<p>    (expense)  423,174	178,783	690,585	 78,147</p>
+<p>Net loss  (2,187,796)  (1,344,971)  (6,117,329)  (3,444,430) Net loss per share,</p>
+<p>fully diluted*</p>
+<p>		     (.24)	  (.17)	  (.81)	  (.60)</p>
+<p>Avg shrs outstanding, fully</p>
+<p>    diluted* 9,237,000    7,912,000    7,580,000    5,707,000</p>
+<p>* Assumes conversion of all previously outstanding convertible preferred stock into common stock during each reporting period prior to July 1, 1996, the closing date of the company's initial public offering, at which time all convertible preferred stock was automatically converted into common stock.</p>
+<p>NOTE: Integ is a development stage company.</p>
+<p>		 Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

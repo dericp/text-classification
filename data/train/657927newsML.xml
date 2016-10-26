@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657927" id="root" date="1997-06-12" xml:lang="en">
+<title>LATVIA: LATEST ECONOMIC INDICATORS - LATVIA.</title>
+<headline>LATEST ECONOMIC INDICATORS - LATVIA.</headline>
+<text>
+<p>RIGA, Reuter - Latvia's latest economic statistics for</p>
+<p>1997, in percentage changes on a month-to-month basis unless</p>
+<p>otherwise indicated. (* = updated at the end of last week)</p>
+<p> INDICATOR		    PERIOD    PCT    A YR AGO</p>
+<p> Consumer Price Index	May	0.6	0.4*</p>
+<p> Consumer prices (Yr/Yr)   May	9.1	17.4*</p>
+<p> Trade balance (mln lats) Jan-Mrch -111.4   -112.2</p>
+<p> GDP (real prices, prelim) 1996     2.77 bln 2.35 bln</p>
+<p> Producer Price Index (PPI)April   -0.1	1.2</p>
+<p> PPI (yr/yr)		   April    3.8	15.4</p>
+<p> Unemployment		  April    7.6	7.1</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

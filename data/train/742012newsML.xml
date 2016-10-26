@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742012" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: SA Telecommunications names Curd chairman.</title>
+<headline>SA Telecommunications names Curd chairman.</headline>
+<dateline>DALLAS 1997-07-21</dateline>
+<text>
+<p>SA Telecommunications said Monday, that it has named Howard Curd as the chairman of its board of directors. Curd replaces Jack Matz, who resigned as chairman and chief executive officer. The company told Reuters that currently there is no search for a new chief executive officer.</p>
+<p>Matz, the company said in a statement, will remain a company director and consultant.</p>
+<p>Curd also currently serves as the chief executive officer of Jesup &amp; Lamont Capital Holdings, Inc., a diversified financial holdings company. SA Telecommunications said he has been one of its directors since Sept 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

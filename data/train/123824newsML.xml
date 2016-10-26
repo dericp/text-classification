@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123824" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: U.S. West power flat to higher amid heating demand.</title>
+<headline>U.S. West power flat to higher amid heating demand.</headline>
+<dateline>LOS ANGELES 1996-10-17</dateline>
+<text>
+<p>Spot power prices in the U.S. West were flat to slightly higher amid increased heating demand in the Northwest, market sources said Thursday.</p>
+<p>&quot;It's been dipping into the upper 30s (degrees) and foggy,&quot; said a Portland, Ore.-based trader. &quot;Our system loads are up.&quot;</p>
+<p>For Friday pre-schedulings, the Bonneville Power Administration (BPA) raised firm and non-firm offers during off-peak hours for all delivery points by $1.00 to $2.00 per megawatt hour (MWh) to $17.00.</p>
+<p>Traders also cited higher natural gas prices and continued constraints on transmission from the Northwest to the Southwest as helping to support spot power prices.</p>
+<p>&quot;Availability isn't that great,&quot; said a Southwest trader. &quot;A lot of surplus sales have already been made. Generators with extra power are using gas, which is higher-cost.&quot;</p>
+<p>Next-day spot quotes for firm, peak deliveries at the California-Oregon border (COB) were unchanged at $19.25-19.50 per MWh.</p>
+<p>Friday peak quotes at Mid-Columbia were $17.50-18.00, with off-peak close behind at $16.00-16.50.</p>
+<p>Palo Verde electricity for Friday delivery was last quoted $20.00-23.00, up from $20.00-20.50.</p>
+<p>Palo Verde for November was higher at $17.00-17.50, compared with $16.80-17.25 on Wednesday. November COB was quoted close to $18.00, up from $17.45-17.60 on Wednesday.</p>
+<p>--Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

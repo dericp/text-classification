@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63285" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Johnson &amp; Johnson expands AIDS test sales.</title>
+<headline>Johnson &amp; Johnson expands AIDS test sales.</headline>
+<dateline>NEW BRUNSWICK, N.J. 1996-09-19</dateline>
+<text>
+<p>CONFIDE, the first FDA-approved home collection HIV testing and counseling service, is now available to consumers throughout the United States, Johnson &amp; Johnson said Thursday.</p>
+<p>CONFIDE can be purchased in pharmacies, mass merchandisers, clinics and college health centers, the company said.</p>
+<p>CONFIDE provides access to HIV testing for people who might be reluctant to test in other settings, Johnson &amp; Johnson said.</p>
+<p>In June, following the May 14 FDA approval, CONFIDE became available in Texas, and by mail order only in Florida. The national expansion is based on the experience gained in these pilot markets, the company said.</p>
+<p>CONFIDE was developed by Direct Access Diagnostics, a Johnson &amp; Johnson company, in conjunction with Chiron Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW BRUNSWICK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

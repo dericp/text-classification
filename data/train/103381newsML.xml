@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103381" id="root" date="1996-10-08" xml:lang="en">
+<title>UK: Nobel winner says UK tax rates could be higher.</title>
+<headline>Nobel winner says UK tax rates could be higher.</headline>
+<dateline>LONDON 1996-10-08</dateline>
+<text>
+<p>British professor James Mirrlees, joint winner of the Nobel prize for Economics, said on Tuesday he believed tax rates in Britain could be higher.</p>
+<p>Mirrlees, speaking to Reuters after his work on tax incentives won international recognition, said: &quot;Tax rates in this country could reasonably be higher, particularly for middle income earners.&quot;</p>
+<p>He put the average level of income tax and VAT combined at less than 50 percent. &quot;I think it could well go above. It would become a disincentive but you could use the revenue for health services, education and welfare payments,&quot; he said.</p>
+<p>Mirrless and Canadian William Vickrey won the 1996 Nobel Economics Prize for what the academy said was &quot;their fundamental contributions to the economic theory of incentives under asymmetric information.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

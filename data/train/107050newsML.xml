@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107050" id="root" date="1996-10-09" xml:lang="en">
+<title>FINLAND: Aamulehti 8-mth profit up 11 percent.</title>
+<headline>Aamulehti 8-mth profit up 11 percent.</headline>
+<dateline>HELSINKI 1996-10-09</dateline>
+<text>
+<p>Eight months to end-Aug, 1996</p>
+<p>				    (million markka unless stated)</p>
+<p> Profit before extraordinary items	63 vs 57</p>
+<p> Earnings per share (markka)	    6.41 vs 7.92</p>
+<p> Diluted EPS (markka)		     5.03 vs 6.03</p>
+<p> Net sales				   1,030 vs 941</p>
+<p> Operating profit			     79 vs 82</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

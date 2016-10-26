@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249800" id="root" date="1996-12-11" xml:lang="en">
+<title>INDIA: Morgan Stanley names India chief operating officer.</title>
+<headline>Morgan Stanley names India chief operating officer.</headline>
+<dateline>BOMBAY 1996-12-11</dateline>
+<text>
+<p>Investment bank Morgan Stanley said on Wednesday it has appointed Vikram Gandhi as the chief operating officer of Morgan Stanley India.</p>
+<p>He will take up his new position in Bombay in January, the company said in a statement.</p>
+<p>Gandhi is at present an executive director in the Financial Institutions Group of Morgan Stanley's investment banking department in New York, it said.</p>
+<p>The statement said Morgan Stanley is currently involved in infrastructure finance in the telecom, power and refining sectors. These sectors will have an estimated capital requirement in excess of $25 billion over the next five to six years, it added.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

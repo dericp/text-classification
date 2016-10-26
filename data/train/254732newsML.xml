@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254732" id="root" date="1996-12-13" xml:lang="en">
+<title>ARGENTINA: Argentina says to release jobless figure Friday.</title>
+<headline>Argentina says to release jobless figure Friday.</headline>
+<dateline>BUENOS AIRES 1996-12-13</dateline>
+<text>
+<p>The Argentine government will announce the official unemployment figure for October later Friday, Economy Ministry spokesman Augusto Rodriguez Larreta said.</p>
+<p>Economy Minister Roque Fernandez said Thursday that October unemployment would be about 17 percent or slightly higher. The latest figure, for May, was 17.1 percent.</p>
+<p>Rodriguez Larreta did not say why the joblessness figure -- originally due to be announced December 18 -- is to be released early.</p>
+<p>-- Patrick Adam, Buenos AIRES NEWSROOM +541 318-0655</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="787911" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: BRENT CRUDE CLIMBS IN THIN U.S. AFTERMARKET.</title>
+<headline>BRENT CRUDE CLIMBS IN THIN U.S. AFTERMARKET.</headline>
+<dateline>NEW YORK 1997-08-08</dateline>
+<text>
+<p>North Sea Brent crude oil climbed in the U.S. aftermarket on Friday, although activity was exceptionally light.</p>
+<p>Two exchange-for-physical deals were transacted at $18.52 for a total of 150 lots, putting cash Brent at $18.55-58 a barrel, factoring in the EFP premium of around four cents a barrel.</p>
+<p>London's IPE closed at $18.49 for September.</p>
+<p>No intermonths traded. September/October was talked at minus 18/17 cents a barrel, while October/November was pegged at minus 17/14 cents a barrel.</p>
+<p>--Patricia Garip-Bertuol NY Energy Desk ((+1 212 859 1620))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

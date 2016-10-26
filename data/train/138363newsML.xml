@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138363" id="root" date="1996-10-23" xml:lang="en">
+<title>UK: UK to get second weekly Lottery draw -- newspaper.</title>
+<headline>UK to get second weekly Lottery draw -- newspaper.</headline>
+<dateline>LONDON 1996-10-23</dateline>
+<text>
+<p>Britain's National Lottery regulator will on Wednesday approve plans for a second weekly draw, the Daily Telegraph reported.</p>
+<p>The draw, likely to take place on Wednesdays, is expected to be launched early next year by lottery operator Camelot Group Plc.</p>
+<p>National Heritage Secretary Virginia Bottomley has already given her approval for the second draw.</p>
+<p>The National Lottery draw is televised live on Saturday night and watching it has become a ritual for millions of Britons since it was launched in November 1994.</p>
+<p>But it has proved less popular with bookmakers and soccer pools companies who say it has taken a large bite out of their profits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

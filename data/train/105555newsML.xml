@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105555" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: Fla. to seek federal disaster aid after Josephine.</title>
+<headline>Fla. to seek federal disaster aid after Josephine.</headline>
+<dateline>TALLAHASSEE, Fla. 1996-10-09</dateline>
+<text>
+<p>Florida will seek federal government disaster aid in the wake of Tropical Storm Josephine, according to a state official.</p>
+<p>Damage assessment teams made up of federal, state and local officials are assessing damage in the state to support a request for a presidential disaster declaration, he said.</p>
+<p>&quot;This process is a crucial part of helping Florida's storm victims,&quot; said Joe Myers, director of the division of emergency management, in a statement. &quot;Gathering this information to support a request for a presidential declaration and the need for federal assistance is key to recovering over the long term.&quot;</p>
+<p>Teams were expected to visit 14 counties -- Baker, Citrus, Clay, Dixie, Duval, Hernando, Hillsborough, Levy, Manatee, Pasco, Pinellas, Putnam, Taylor and Volusia. Additional counties might be added to that list.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLAHASSEE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

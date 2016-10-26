@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479544" id="root" date="1997-04-01" xml:lang="en">
+<title>BANGLADESH: Bangladesh buys white sugar at $346.9 per tonne.</title>
+<headline>Bangladesh buys white sugar at $346.9 per tonne.</headline>
+<dateline>DHAKA 1997-04-01</dateline>
+<text>
+<p>Bangladesh's state-owned Sugar and Food Industries Corporation has bought 25,000 tonnes of white sugar at a C&amp;F value of $346.9 per tonne for shipment by June 9, corporation officials said on Wednesday.</p>
+<p>They said the deal was won by E.D &amp; F.Man (Sugar) Ltd of Britain in a weekend bidding.</p>
+<p>The officials said out of the total cargo 12,500 tonnes should reach the Chittagong port by May 29 and the rest by June 9.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

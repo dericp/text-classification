@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264036" id="root" date="1996-12-18" xml:lang="en">
+<title>AUSTRALIA: RTRS-LAST QUOTES - Australian Eurobond benchmarks.</title>
+<headline>RTRS-LAST QUOTES - Australian Eurobond benchmarks.</headline>
+<dateline>SYDNEY 1996-12-19</dateline>
+<text>
+<p>Last quotes from the International Securities Market Association for benchmark Australian dollar Eurobonds issued by Australian entities.</p>
+<p>	     Coupon  Maturity     Bid/Ask	   Previous</p>
+<p>SAFA     6.50 pct  30.11.98   99.88/100.50  ( 100.00/100.38)</p>
+<p>NAB     10.50 pct  23.02.98  104.50/104.75  ( 104.38/104.88)</p>
+<p>SAFA     6.25 pct  25.02.99   99.13/ 99.38  (  99.38/ 99.63)</p>
+<p>NAB	7.75 pct  04.01.99  101.75/102.50  ( 102.00/102.50)</p>
+<p>CBA	8.25 pct  23.04.99  103.25/103.50  ( 103.38/103.63)</p>
+<p>NAB	8.50 pct  11.08.00  104.38/105.00  ( 104.63/105.13)</p>
+<p>AIDC     7.00 pct  30.10.00  101.38/102.13  ( 101.63/102.13)</p>
+<p>SBNSW    7.75 pct  21.02.01  102.25/102.63  ( 102.50/102.88)</p>
+<p>CBA	7.75 pct  08.03.01  102.13/102.63  ( 102.38/102.75)</p>
+<p>NAB	8.00 pct  10.04.01  102.88/103.13  ( 103.25/103.50)</p>
+<p>AIDC     7.50 pct  27.09.01  102.13/102.88  ( 102.38/103.13)</p>
+<p>SBNSW    7.75 pct  01.10.01  102.38/102.63  ( 102.00/102.50)</p>
+<p>NAB	7.50 pct  26.11.01  101.50/101.88  ( 101.88/102.13)</p>
+<p>CBA	7.63 pct  05.08.03  100.38/100.88  ( 101.00/101.50)</p>
+<p>SAFA     7.75 pct  30.06.03  100.75/101.25  ( 101.25/101.75)</p>
+<p>CBA	9.00 pct  15.08.05  107.38/107.75  ( 108.25/108.63)</p>
+<p>--Sydney newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

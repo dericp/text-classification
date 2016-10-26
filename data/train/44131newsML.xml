@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44131" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Senior U.S., Japan trade officials to meet in DC.</title>
+<headline>Senior U.S., Japan trade officials to meet in DC.</headline>
+<dateline>WASHINGTON 1996-09-10</dateline>
+<text>
+<p>Senior U.S. Trade Representative negotiator Ira Shapiro plans to meet his Japanese counterpart, Vice Minister for International trade Hisashi Hosokawa Tuesday to discuss a wide range of trade issues, a USTR spokesman said.</p>
+<p>It will be the first meeting of the two senior trade officials since Hosokawa replaced Yoshihiro Sakamoto as vice minister for international trade.</p>
+<p>The two officials planned to get together over dinner in Washington Tuesday evening, USTR spokesman Jay Zeigler said.</p>
+<p>He said the two planned to discuss a number of issues including next week's review of the year-old car trade agreement, the photo film case currently pending before the World Trade Organization and issues concerning the upcoming meeting of trade ministers of Canada, the European Union, Japan and the United States in Seattle, Washington.</p>
+<p>The discussion could also touch on expert level talks on insurance scheduled to take place next week in Tokyo. Negotiators so far have failed to resolve the touchy trade dispute in which Washington accuses Tokyo of reneging on a 1994 agreement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

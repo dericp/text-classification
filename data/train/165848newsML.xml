@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165848" id="root" date="1996-11-05" xml:lang="en">
+<title>UK: UK financial watchdog investigates press leak.</title>
+<headline>UK financial watchdog investigates press leak.</headline>
+<dateline>LONDON 1996-11-05</dateline>
+<text>
+<p>Britain's Personal Investment Authority (PIA) said on Tuesday its is investigating a leak of confidential information to the press.</p>
+<p>The PIA said it has appointed Brian Cubbon, formerly permanent secretary at the Home Office, to establish how a confidential PIA board paper relating to a review of the pensions industry was disclosed.</p>
+<p>The October 30 edition of the Independent newspaper carried a story on the review into the mis-selling of pensions, saying that Prudential, the country's biggest personal pensions provider, was dragging its feet on the investigation.</p>
+<p>The paper said that Prudential topped a PIA list of the worst offenders, having completed only 10 assessments of over 41,000 pension review cases.</p>
+<p>At the time, Prudential strenously denied the charge that it was dragging its feet.</p>
+<p>The report will be compiled for the chairman of the PIA, Joe Palmer and will then &quot;be made available to the relevant authorities.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I8150214">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

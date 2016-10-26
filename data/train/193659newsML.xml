@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193659" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: US Treasury's Hawke supports wholesale bank plan.</title>
+<headline>US Treasury's Hawke supports wholesale bank plan.</headline>
+<dateline>WASHINGTON 1996-11-14</dateline>
+<text>
+<p>U.S. Treasury Undersecretary John Hawke said Thursday he supported the concept of a wholesale bank proposed by House Banking Committee Chairman James Leach, an Iowa Republican.</p>
+<p>The proposal would allow the establishment of wholesale banks in which customers could open accounts that would not be federally insured. Those accounts would offer higher interest rates than others and require a minimum $100,000 deposit.</p>
+<p>&quot;That's an idea we find attractive,&quot; he said during a panel discussion sponsored by The Federalist Society.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

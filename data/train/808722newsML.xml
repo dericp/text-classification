@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="808722" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: FOB Gulf Grain- Soy and corn offers mostly lower.</title>
+<headline>FOB Gulf Grain- Soy and corn offers mostly lower.</headline>
+<dateline>CHICAGO 1997-08-19</dateline>
+<text>
+<p>U.S. FOB Gulf soybean and corn offers were mostly lower on Tuesday while wheat values were unchanged amid subdued activity, dealers said.</p>
+<p>Dealers cited a slowdown in export activity and the waning influence of the August/November soybean futures spread on the Chicago Board of Trade as August exits the board on Wednesday.</p>
+<p>On the export front, Pakistan will tender on August 27 for 200,000 tonnes of optional origin soft white wheat for September delivery, a Pakistan embassy official said.  </p>
+<p>CORN (No. 3 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Sept 1-20   +22   + U     dn 2.5   +25    +  U    dn .5</p>
+<p>Sept 11-30  +23   + U     dn 2     +27    +  U    dn 1</p>
+<p>October 1-20+24.5 + Z     up 1     +25.5  +  Z    dn 1</p>
+<p>Oct 12-31   +25.5 + Z     nc	 +28    +  Z    dn .5</p>
+<p>November    +28   + Z     dn .5    +29.5  +  Z    dn .5</p>
+<p>--------</p>
+<p>--------</p>
+<p>--------</p>
+<p>Note: U=CBOT Sept, Z=CBOT Dec, nc=no comparison.</p>
+<p>SOYBEANS (No. 2 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu)</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Sept 1-20   unq	     nc     +160    +  X    dn 10</p>
+<p>Sept 11-30  unq	     nc     +150    +  X    dn 30</p>
+<p>Oct 1-20    unq	     nc     + 90    +  X    unc</p>
+<p>Oct 16-31   unq	     nc	+55    +  X    up 5</p>
+<p>Oct25-Nov15 unq	     nc	+45    +  X    unc</p>
+<p>---</p>
+<p>---</p>
+<p>---</p>
+<p>Note: X=CBOT November, nc=no comparison  </p>
+<p>SRW WHEAT (FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>August	unq	     nc	+13    +  U    unc</p>
+<p>September   unq	     nc	+20    +  U    unc</p>
+<p>October     unq	     nc	+15    +  Z    unc</p>
+<p>---</p>
+<p>HRW WHEAT (FOB, U.S. Gulf, basis KCBT, cts/bu) -</p>
+<p>August	unq	     nc	+41    +  U    unc</p>
+<p>September   unq	     nc	+44    +  U    unc</p>
+<p>October     unq	     nc	+36    +  Z    unc</p>
+<p>---</p>
+<p>Note:  U=September futures. Z=December futures.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

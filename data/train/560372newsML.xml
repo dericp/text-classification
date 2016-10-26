@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560372" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: US OPTIONS FOCUS/Cisco ahead of earnings.</title>
+<headline>US OPTIONS FOCUS/Cisco ahead of earnings.</headline>
+<dateline>CHICAGO 1997-05-05</dateline>
+<text>
+<p>Cisco Systems Inc options traded heavily on Monday, with implied volatilities inflated to very high levels, ahead of the company's earnings results expected on Tuesday, traders said.</p>
+<p>&quot;With the volume in out-of-the-money options, it looks like people are leveraging themselves for an earnings surprise,&quot; said Michael Schwartz, a managing director of Oppenheimer &amp; Co.</p>
+<p>Cisco May 60.0 was by far the most actively traded option on the Chicago Board Options Exchange (CBOE) with about 8,300 contracts trading by late afternoon.  </p>
+<p>The stock was off early highs at 58-3/8 in late trade, up 1-1/8 on the day, after leading the market's rally last week from a low last Monday of 45-7/8.</p>
+<p>Schwartz said the public appeared to be buying the 60.0 calls, while market-makers were hedging with the in-the-money and deep out-of-the-money strikes.</p>
+<p>In-the-money May 55.0 calls traded about 3,900 lots and relatively deep out-of-the-money May 65.0 calls about 3,400.</p>
+<p>Schwartz noted that the 60.0 call was about 100 percent overpriced relative to the theoretical value based on the stock's historical volatility.  </p>
+<p>&quot;It just seems kind of expensive, which is understandable after this big run-up,&quot; said Rod Jamieson, vice president of option strategies at EVEREN Securities.</p>
+<p>Traders said speculation to the upside stemmed from recent upgrades in major brokerages' estimates of Cisco's earnings and stunningly good earnings reports from Microsoft Corp and International Business Machines Corp last month that fuelled the market's recent rally.</p>
+<p>According to First Call, an investment research network, analysts have, on average, forecast Cisco's quarterly earnings to come in at $0.52 a share versus $0.37 a year earlier.  </p>
+<p>&quot;It will be a surprise to everyone if they don't have a great quarter,&quot; said Jon Najarian, president of Mercury Trading, a market-maker at CBOE.</p>
+<p>But he warned that the stock's direction from here hinged on what the company might say about its earnings in the coming quarters.</p>
+<p>&quot;That's why you're seeing volatilities up where they are for out-of-the-money puts,&quot; he said, noting that there was also good interest in puts.</p>
+<p>May 55.0 puts were CBOE's heaviest traded puts, with about 5,800 contracts changing hands.  </p>
+<p>Implied volatilities for May 55 and May 50 puts stood at 72 and 75 percent respectively.</p>
+<p>Najarian said front-month Cisco puts usually traded at implied volatilities in the low 60s.</p>
+<p>If the stock stabilized at current levels, the rich premiums on May options were likely to come under heavy pressure, with less than two weeks to expiration at the end of next week.</p>
+<p>May 60.0 calls and 55.0 puts have theta decay of around 0.12-0.13 point, or about 1/8, a day against premiums of 2-1/2 and 1-1/2 respectively.</p>
+<p>-- Shin Kishima/Chicago Derivatives Desk (((312) 408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

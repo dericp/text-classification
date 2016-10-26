@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="435278" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: U.S. Republicans say they are committed to tax cut.</title>
+<headline>U.S. Republicans say they are committed to tax cut.</headline>
+<dateline>WASHINGTON 1997-03-12</dateline>
+<text>
+<p>House Majority Leader Dick Armey on Wednesday said Republicans were committed to adopting a tax cut as part of legislation to balance the budget.</p>
+<p>&quot;Last month, the president met with the congressional leadership, and all agreed to work together to enact a balanced buget with tax relief,&quot; he said in a statement.</p>
+<p>&quot;Congressional Republicans fully intend to fulfill the commitment we made to a balanced budget with tax relief,&quot; the Texas Republican said in a statement. House Republicans have said the size of the tax cut will depend on how much the country can afford once the budget is developed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

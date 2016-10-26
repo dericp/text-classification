@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352267" id="root" date="1997-02-03" xml:lang="en">
+<title>SWITZERLAND: Swiss ban pig imports from four German states.</title>
+<headline>Swiss ban pig imports from four German states.</headline>
+<dateline>BERNE 1997-02-03</dateline>
+<text>
+<p>Switzerland banned the import of live pigs and pork meat from four German states on Monday to prevent an outbreak of swine fever in Switzerland, the Swiss Veterinary Department said on Monday.</p>
+<p>The ban covers the import of live pigs, pork meat and other pork products, including crackling and bristles from the German states of Brandenburg, Mecklenburg-Vorpommern, North Rhine-Westfalia and Lower Saxony.</p>
+<p>German authorities slaughtered more than 20,000 pigs in January to prevent the spreading of swine fever after an outbreak in November that infected some 10,000 animals.</p>
+<p>Swine fever is not harmful to humans, but the veterinary department said in a statement the disease could be passed on to other pigs from leftover meat in waste products that are not properly heated.</p>
+<p>Switzerland was hit by an outbreak of swine fever in 1993, but there have been no cases since 1994. REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

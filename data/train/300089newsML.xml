@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300089" id="root" date="1997-01-10" xml:lang="en">
+<title>USA: CME feeder cattle tumble on USDA corn data.</title>
+<headline>CME feeder cattle tumble on USDA corn data.</headline>
+<dateline>CHICAGO 1997-01-10</dateline>
+<text>
+<p>CME feeder cattle futures fell sharply on USDA data on corn production and usage was viewed as bearish for feeder cattle, traders said.</p>
+<p>At 0915 CST feeder cattle were down 0.500 to 0.950 cent per lb paced by March at 68.150 cents. The market had expected the grain report to show larger corn supplies but USDA indicated smaller supplies than the trade expected, sources said.</p>
+<p>Live cattle ranged mixed early with wintry weather and active boxed beef sales providing support and offset spillover selling from feeders, they said.</p>
+<p>((Jerry Bieszk 312-408-8725))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

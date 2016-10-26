@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100093" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: U.S. High Court allows roadblocks for drugs.</title>
+<headline>U.S. High Court allows roadblocks for drugs.</headline>
+<dateline>WASHINGTON 1996-10-07</dateline>
+<text>
+<p>The Supreme Court Monday let stand a precedent-setting ruling that states may establish roadblocks for the chief purpose of intercepting illegal drugs.</p>
+<p>The high court rejected a challenge that argued the roadblocks had been established on the pretext of ensuring compliance with traffic laws and violated the constitutional protections against unreasonable searches and seizures.</p>
+<p>The case arose out of roadblocks Florida law enforcement officials set up on four state highways near the Georgia border in January 1984.</p>
+<p>As part of the two-day operation, Florida law enforcement officials set up temporary checkpoints along the highways to stop traffic and to use drug-sniffing dogs to check the vehicles.</p>
+<p>About 2,100 vehicles passed through the roadblocks, of which approximately 1,300 were stopped. In all, one person was arrested for the possession of illegal drugs while 61 traffic-related citations were also issued.</p>
+<p>The roadblocks lasted for several hours throughout the evening rush, causing backups and delays of up to 45 minutes.</p>
+<p>A lawsuit was filed by two people on behalf of all motorists who were stopped. It sought compensatory and punitive damages for violations of their constitutional rights.</p>
+<p>A federal judge dismissed the lawsuit and a U.S. Court of Appeals in Atlanta agreed. It said the chief purpose of the operation was to intercept drugs, but ruled the state does have the power to conduct roadblocks to check drivers' licenses and vehicle registrations.</p>
+<p>When the full appeals court declined to review the case, the three dissenting judges said the ruling marked the first time any federal appeals court has upheld roadblocks to intercept drugs as legal.</p>
+<p>The attorneys for the motorists urged the Supreme Court to hear the case, saying law enforcement officials around the country were likely to adopt similar temporary, unannounced roadblocks for drugs. But the high court sided with the state of Florida, denying the appeal without any comment or dissent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

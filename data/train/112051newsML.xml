@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112051" id="root" date="1996-10-11" xml:lang="en">
+<title>JAPAN: Tokyo corn futures slip in line with Chicago.</title>
+<headline>Tokyo corn futures slip in line with Chicago.</headline>
+<dateline>TOKYO 1996-10-11</dateline>
+<text>
+<p>Tokyo corn futures ended lower across the board on Friday, pressured by the Chicago market's losses overnight, traders said.</p>
+<p>Prices ranged from 240 yen to 420 yen per tonne lower. Benchmark September was down 240 yen at 15,060 yen. Daily volume was 45,122 lots.</p>
+<p>The market opened lower as selling emerged from the opening, but short-covering below the 15,000 yen level for the benchmark September prevented prices from falling further.</p>
+<p>Activity was lacklustre ahead of the USDA's production report to be released later today.  </p>
+<p>&quot;Market players were wary of taking fresh positions ahead of the USDA report. If U.S. corn production for 1996 is above 9.0 billion bushels, the Tokyo corn futures market could fall by around 500 yen per tonne from the current levels,&quot; one trader said.</p>
+<p>The spot December contract on the CBOT Project A trading system was being traded at $2.89-1/2 per bushel at 0830 GMT, down by one U.S. cent from Thursday's close.</p>
+<p>The spot November CBOT soybean futures contract was at $7.28-1/4 at 0830 GMT, down by two cents from Thursday's close.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

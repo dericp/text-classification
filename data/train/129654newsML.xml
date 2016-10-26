@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129654" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Hallmark Capital Q1 Sept 30 net loss.</title>
+<headline>Hallmark Capital Q1 Sept 30 net loss.</headline>
+<dateline>WEST ALLIS, Wisconsin 1996-10-21</dateline>
+<text>
+<p>1996			 1995</p>
+<p> Shr loss		   $0.06   profit	 $0.29</p>
+<p> Net loss			82   profit	   402</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full name of company is Hallmark Capital Corp.</p>
+<p>NOTE: The above are tabulated figures for the three months ending September 30.</p>
+<p>NOTE: The company attributed the loss during the three months ending September 30 1996 to an industry-wide Federal Deposit Insurance Corp (FDIC) special assessment charge of $486,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST ALLIS, Wisconsin"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

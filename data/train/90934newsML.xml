@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90934" id="root" date="1996-10-02" xml:lang="en">
+<title>CHILE: Chilean September consumer prices rise 0.5 pct.</title>
+<headline>Chilean September consumer prices rise 0.5 pct.</headline>
+<dateline>SANTIAGO 1996-10-02</dateline>
+<text>
+<p>Chilean consumer prices rose 0.5 percent last month from August, bringing the increase in the first nine months of 1996 to 5.1 percent against seven percent in the same period in 1995, said the National Statistics Institute.</p>
+<p>The figures take the rise in consumer prices over the last 12 months to 6.3 percent compared with 8.6 percent in the year to September 1995.</p>
+<p>Chile reported inflation at 0.6 percent in September last year, with prices rising seven percent in the January-September 1995 period.  </p>
+<p>Areas with greatest price rises included food, up 0.4 percent; housing, up 0.5 percent; and the group known as &quot;other,&quot; where prices increased 0.8 percent.</p>
+<p>The sharpest fall was seen in clothing costs, which fell 0.6 percent from August.</p>
+<p>--Margaret Orgill, Santiago newsroom, 562-699-5595x212</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798031" id="root" date="1997-08-13" xml:lang="en">
+<title>SOUTH KOREA: DAEWOO HEAVY H1 NET AT 37.7 BLN WON.</title>
+<headline>DAEWOO HEAVY H1 NET AT 37.7 BLN WON.</headline>
+<dateline>SEOUL 1997-08-13</dateline>
+<text>
+<p>Six months to June 30</p>
+<p>(In billion won unless stated)</p>
+<p>    Shr (won)		 106	 vs     103</p>
+<p>    Net			  37.7     vs	36.8</p>
+<p>    Turnover		2,839.2     vs   2,542.2</p>
+<p>Note - Daewoo Heavy Industries Co is a machinery and shipbuilding unit of the Daewoo Group. A company director forecast six trillion won in sales for calendar 1997 from 5.1 trillion won a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

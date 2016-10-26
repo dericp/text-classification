@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482440" id="root" date="1997-04-02" xml:lang="en">
+<title>FRANCE: French food industry sales up two percent in 1996.</title>
+<headline>French food industry sales up two percent in 1996.</headline>
+<dateline>PARIS 1997-04-02</dateline>
+<text>
+<p>French food firms' sales rose by two percent in 1996 despite a consumer scare sparked by mad cow disease, national agro-food industries asociation ANIA said on Wednesday.</p>
+<p>Sales rose to 756.9 billion francs last year from 742.1 billion in 1995 as consumers, concerned about food quality and safety, turned to top of the line brands, president Victor Scherrer said.</p>
+<p>&quot;The food industry achieved the recovery forecast in 1995, despite a difficult year in 1996 marked by the mad cow crisis,&quot; Scherrer told a news conference.</p>
+<p>Demand for processed food rose 1.5 percent as sales of premium products offset an eight percent fall in beef sales.</p>
+<p>Ready-to-cook food, confectioneries, chocolate and fresh products showed the highest growth rates among valued-added goods.</p>
+<p>The food trade surplus hit a new record in 1996, jumping to 51.8 billion francs from 49.5 billion francs in 1995.</p>
+<p>Scherrer urged the state to help promote food exports, notably in an expected new farm law. He also said he would like to see more French food giants like Danone competing on world markets.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

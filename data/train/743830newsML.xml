@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="743830" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: Boeing profits fell in quarter as sales surged.</title>
+<headline>Boeing profits fell in quarter as sales surged.</headline>
+<dateline>SEATTLE 1997-07-21</dateline>
+<text>
+<p>Boeing Co. said Monday that its profits fell in the second quarter from the year-earlier period, when results were boosted by one-time gains, while sales jumped on strong demand for aircraft and other products.</p>
+<p>The world's largest commercial aircraft maker said net income fell to $399 million, or 55 cents a share, in the quarter, excluding the effects of an employee stock plan, from $468 million, or 68 cents a share, a year earlier. One-time gains of $176 million, or 25 cents a share, boosted 1996 results.</p>
+<p>Sales surged 48 percent to $9.29 billion from $6.28 billion as the company ramped up commercial aircraft production and expanded its space and missiles business.</p>
+<p>The results for the latest quarter fell below Wall Street estimates of 59 cents a share, according to First Call, which tracks analysts' forecasts. Boeing stock fell $1.19 to $54.875 in morning trading on the New York Stock Exchange.</p>
+<p>Boeing Chairman Phil Condit said the rapid increase in production resulted in &quot;a substantial increase in employment, material and fabrication demand at the company and its suppliers.&quot; High overtime levels and parts shortages have caused a &quot;near-term decline in productivity,&quot; he added.</p>
+<p>Boeing said it expects to deliver 340 to 350 commercial jetliners this year, up from a previous projection of 340. Last year Boeing delivered just 218 jets as the company reached the end of a long industry downturn.</p>
+<p>Boeing said it expects revenues of $34 billion this year excluding sales at McDonnell Douglas Corp., which it plans to acquire in a deal scheduled to close next week despite an expected vote by European regulators to reject it.</p>
+<p>Boeing's results were stated excluding the effects of the company's employee stock plan, which would have trimmed earnings in the latest quarter to $334 million, or 48 cents a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="308604" id="root" date="1997-01-15" xml:lang="en">
+<title>BRAZIL: At least three killed in Brazil peasant clash.</title>
+<headline>At least three killed in Brazil peasant clash.</headline>
+<dateline>SAO PAULO 1997-01-14</dateline>
+<text>
+<p>At least three people were killed on Tuesday in a clash between landless peasants and armed guards in a remote region of the Amazon state of Para, a police official said.</p>
+<p>Civil police chief Savio Rodrigues said the killings took place after members of the Landless Peasants Movement (MST) occupied a large estate in the region of Ourelandia do Norte, 435 miles (700 km) south of the city of Belem.</p>
+<p>Rodrigues said it was unclear whether the victims were among the landless peasants or the guards who were hired by the owner of the estate to protect his property.</p>
+<p>He said the exact number of dead, which could be as high as 20 people, was difficult to confirm as Ourelandia do Norte could only be reached by foot or on horse.</p>
+<p>&quot;We are sending a team to find out what happened,&quot; Rodrigues told Reuters in a telephone interview.</p>
+<p>Ourelandia do Norte is close to the Carajas region where last March 19 protesting peasants were massacred by police in the bloodiest incident so far involving members of the Landless Peasants Movement.</p>
+<p>A growing political force in the Brazilian hinterland, thousands of MST members have occupied vast tracts of land which they claim are not being properly exploited by their owners.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

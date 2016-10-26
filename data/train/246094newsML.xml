@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246094" id="root" date="1996-12-10" xml:lang="en">
+<title>MEXICO: Mexico eyes lifting milk price controls - Labastida.</title>
+<headline>Mexico eyes lifting milk price controls - Labastida.</headline>
+<dateline>MEXICO CITY 1996-12-10</dateline>
+<text>
+<p>Mexican Agriculture Minister Francisco Labastida Ochoa said Tuesday the government was eyeing lifting price controls on pasteurized milk.</p>
+<p>&quot;It is under discussion and analysis at this moment,&quot; Labastida told Reuters in an interview. He gave no indication of when a decision might be made.</p>
+<p>Dairymen and farm leaders have pressed the government for the last six months to lift controls on such milk.</p>
+<p>Price restrictions on long-life milk ended in March. The price of pasteurised milk was also raised to 3.60 pesos from 2.75 pesos, but price controls remained in place.</p>
+<p>--Chris Aspin, Mexico City newsroom (525) 7289530. E-mail at chris.aspin@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

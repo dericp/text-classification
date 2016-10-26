@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="413924" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Timing of IMF Albania mission uncertain - sources.</title>
+<headline>Timing of IMF Albania mission uncertain - sources.</headline>
+<dateline>WASHINGTON 1997-03-03</dateline>
+<text>
+<p>The timing of a International Monetary Fund mission to Albania, originally scheduled for mid-March, is now uncertain because of the unheaval in the country, monetary sources said Monday.</p>
+<p>&quot;It depends on the preparedness of the new government to engage in policy discussions and on the broad security situation,&quot; the sources said.</p>
+<p>The mission, according to the sources, had planned to discuss current economic conditions with a view of eventually negotiating a specific loan program with the country.</p>
+<p>The IMF had approved a $58 million three-year loan program with Albania in July 1993, but Albania was unable to meet the conditions and it went off track in mid-1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512291" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: US to sell $29.5 bln 2-, 5-yr notes April 22, 23.</title>
+<headline>US to sell $29.5 bln 2-, 5-yr notes April 22, 23.</headline>
+<dateline>WASHINGTON 1997-04-16</dateline>
+<text>
+<p>The Treasury Department said on Wednesday that it will sell $17 billion of 2-year notes on April 22 and $12.5 bln of 5-yr notes on April 23 to refund $28.449 billion of securities maturing April 30 and to raise $1.05 billion of new cash.</p>
+<p>The notes will be issued on April 30. The two-year notes mature on April 30, 1999 and the five-year notes mature on April 30, 2002.</p>
+<p>The CUSIP number for the 2-year notes will be 9128272R2 and for the five-year notes will be 9128272S0.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

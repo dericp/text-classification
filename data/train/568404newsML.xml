@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="568404" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: Global Industries Q4 shr $0.16 vs $0.11.</title>
+<headline>Global Industries Q4 shr $0.16 vs $0.11.</headline>
+<dateline>LAFAYETTE, La. 1997-05-08</dateline>
+<text>
+<p>Global Industries Ltd</p>
+<p>    Fiscal year ended March 31,	 1997	     1996</p>
+<p>    Contract revenues	   $229,142,000   $148,376,000</p>
+<p>    Net income		     $33,932,000    $20,993,000</p>
+<p>    Average shares (a)	    40,451,000     38,534,000</p>
+<p>    Net income per share (a)	   $0.84	    $0.54</p>
+<p>    Quarter ended March 31,	     1997	     1996</p>
+<p>    Contract revenues	    $49,603,000    $38,788,000</p>
+<p>    Net income			$6,699,000     $4,390,000</p>
+<p>    Average shares (a)	    43,212,000     39,022,000</p>
+<p>    Net income per share (a)	   $0.16	    $0.11</p>
+<p>(a)  After giving effect to the two-for-one common stock split effective in January 1996 and the two-for-one common stock split effective in August 1996.</p>
+<p>((-- New York newsdesk, (212) 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAFAYETTE, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

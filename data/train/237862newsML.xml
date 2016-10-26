@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237862" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Duke N.C.McGuire 1 nuclear unit fully back.</title>
+<headline>Duke N.C.McGuire 1 nuclear unit fully back.</headline>
+<dateline>NEW YORK 1996-12-05</dateline>
+<text>
+<p>Duke Power Co's 1,129 megawatt (MW) McGuire 1 nuclear unit resumed full power after its output was trimmed last week to repair a leaking valve, the Nuclear Regulatory Commission (NRC) said Thursday.</p>
+<p>The adjoining McGuire unit 2, also rate at 1,129 MW, was also producing at full capacity, NRC said in its daily status report.</p>
+<p>The Cornelius, N.C., generating units are operated and wholly-owned by Duke.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

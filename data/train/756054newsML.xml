@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756054" id="root" date="1997-07-25" xml:lang="en">
+<title>LATVIA: LATVIA-C.BANK TO SET 7-DAY, 91-DAY REPO AUCTIONS.</title>
+<headline>LATVIA-C.BANK TO SET 7-DAY, 91-DAY REPO AUCTIONS.</headline>
+<dateline>RIGA 1997-07-25</dateline>
+<text>
+<p>The central bank said on Friday that from August 1 it would introduce two new repurchase rates: seven-day and 91-day.</p>
+<p>The bank said that previously it used 28-day repos.</p>
+<p>&quot;The extension to 91 days is aimed at developing the longer-term use of funds obtained by the banks and for longer-term credits for companies and to further the development of Latvia's economy,&quot; the bank said in a statement.</p>
+<p>-- Riga newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

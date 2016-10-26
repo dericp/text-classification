@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139968" id="root" date="1996-10-24" xml:lang="en">
+<title>HUNGARY: Bristol-Myers opens Hungary research centre.</title>
+<headline>Bristol-Myers opens Hungary research centre.</headline>
+<dateline>BUDAPEST 1996-10-24</dateline>
+<text>
+<p>U.S. pharmaceuticals company Bristol-Myers Squibb (BMS) on Thursday opened its new clinical research centre in Budapest, as part of its Pharmaceutical Research Institute (PRI), company officials announced.</p>
+<p>The centre's most important task is to organise and coordinate clinical research in Hungarian hospitals in areas such as cardiovascular or oncology illnesses, BMS said in a statement. These illnesses are among the leading causes of death in Hungary.</p>
+<p>The centre will also contribute to enhancing BMS's position in Hungary.</p>
+<p>&quot;It will support our business which is currently expanding in Hungary,&quot; Sebastian Wanless, BMS PRI central and east European managing director, told a news conference.</p>
+<p>The centre will operate within the framework of Pharmavit Rt, its Hungarian subsidiary, whose takeover by BMS was completed earlier this year.</p>
+<p>BMS PRI's European director, Annick Schwebig said BMS spends over $1 billion this year on research and development.</p>
+<p>-- Emese Bartha, Budapest newsroom (36 1) 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265914" id="root" date="1996-12-18" xml:lang="en">
+<title>GREECE: Table of Greek mutual fund flows, assets.</title>
+<headline>Table of Greek mutual fund flows, assets.</headline>
+<dateline>ATHENS 1996-12-18</dateline>
+<text>
+<p>Ionian BanK reported the following daily and year-to-date changes in the volume of Greek mutual fund outstanding shares, net assets and net share prices.</p>
+<p>					Dec 17/Dec 16    Dec 17/Dec 31,95</p>
+<p>						 (%)		  (%)</p>
+<p>NET SHARE PRICES*</p>
+<p>  Total market			    0.07		12.12</p>
+<p>  Fixed income mutual funds	   0.04		13.29</p>
+<p>  International funds		   0.21		 8.03</p>
+<p>  Growth Funds			    0.55		-3.89</p>
+<p>* Prices include distributed dividends</p>
+<p>VOLUME OF SHARES</p>
+<p>  Total market			   -1.01		38.80</p>
+<p>  Fixed income mutual funds	  -1.07		44.57</p>
+<p>  International funds		   0.03	     -24.70</p>
+<p>  Growth funds			   -0.08		-8.26</p>
+<p>NET ASSETS</p>
+<p>  Total market			   -0.94		54.11</p>
+<p>  Fixed income mutual funds	  -1.02		61.57</p>
+<p>  International funds		   0.27	     -20.10</p>
+<p>  Growth funds			    0.45	     -12.61</p>
+<p>All calculations are based on a performance index of mutual funds whose base was set to be equal to 100 on December 31, 1991.</p>
+<p>--George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

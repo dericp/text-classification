@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="248288" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: US Mint buys 186,000 kg nickel for avg $6.8495/kg.</title>
+<headline>US Mint buys 186,000 kg nickel for avg $6.8495/kg.</headline>
+<dateline>WASHINGTON 1996-12-11</dateline>
+<text>
+<p>The U.S. Mint said Wednesday that it bought a total of 186,000 kg of surplus nickel from two firms at an average price of $6.8495 per kg.</p>
+<p>Awards went to:</p>
+<p>-- Hochschild Partners, 137,900 kg of nickel for $943,127.65</p>
+<p>-- Phoenix, 48,100 kg nickel for $330,879.03</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

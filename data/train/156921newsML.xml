@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156921" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. breaks up alleged credit-card fraud ring.</title>
+<headline>U.S. breaks up alleged credit-card fraud ring.</headline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>The U.S. Secret Service has arrested 32 members of a suspected Nigerian crime ring for allegedly defrauding a credit card company of $2 million, the Treasury Department said on Thursday.</p>
+<p>The arrests were made on Wednesday after a five-month investigation by the Secret Service's West African Crime Task Force. Charges brought against the suspects included counterfeiting and trafficking in American Express cards and conspiring to commit fraud.</p>
+<p>The Secret Service, working with American Express security officials, found that two company employees were gaining access to account and cardholder information and providing it to outsiders.</p>
+<p>The Treasury Department said the information was used to commit fraud by manufacturing, trafficking in and using counterfeit and unauthorised cards in Canada, the United States and Britain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

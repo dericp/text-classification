@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="598225" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: SEC chief says decimal stock quoting is desirable.</title>
+<headline>SEC chief says decimal stock quoting is desirable.</headline>
+<byline>Joanne Morrison</byline>
+<dateline>WASHINGTON 1997-05-20</dateline>
+<text>
+<p>Securities and Exchange Commission Chairman Arthur Levitt has told key lawmakers that it makes sense for stocks to be traded in dollars and cents rather than in fractions.</p>
+<p>&quot;A transition to decimal pricing is both desirable and inevitable,&quot; Levitt wrote in a May 19 letter obtained by Reuters on Tuesday. The letter was sent to Rep. John Dingell, a Michigan Democrat and ranking minority member on the House Commerce Committee, and to Thomas Manton of New York, the ranking Democrat on the panel's finance subcommittee.  </p>
+<p>The comments of Wall Street's top regulator came as lawmakers on the House Commerce Committee's finance subcommittee were to vote Wednesday on a bill that would move stock quoting in the United States to decimals from fractions.</p>
+<p>The bill would call on the Securities and Exchange Commission to develop a plan within a year to move stock and options markets away from trading in fractions.</p>
+<p>&quot;People are being 8thed and 16thed right out of their stock profits,&quot; finance subcommittee chairman Michael Oxley, an Ohio Republican, said in a statement on Tuesday.  </p>
+<p>In his letter, Levitt noted that several market makers this month have narrowed their trading increments for New York Stock Exchange listed securities to sixteenths and thirty-seconds and the American Stock Exchange has made the shift as well. In addition, several regional exchanges and the National Association of Securities Dealers' automated stock quoting system have made similar proposals.</p>
+<p>&quot;In light of these developments, it is even more likely that the industry, in time, will move to decimal pricing,&quot; Levitt wrote.  </p>
+<p>He warned that market players would need enough time to implement such a move. &quot;While investors and our equity markets will likely benefit from decimal pricing, there are, of course, implementation issues that should be addressed to ensure an orderly transition,&quot; he said.</p>
+<p>Meanwhile, supporters of the legislation being considered say a shift to decimals from fractions would enable investors to save money in transaction costs.</p>
+<p>Oxley said that trading in dollars and cents would narrow spreads and could ultimately benefit American investors by as much as $2.5 billion annually.  </p>
+<p>The bi-partisan measure, introduced by Oxley and Massachusetts Democrat Edward Markey, is supported by Commerce Committee Chairman Thomas Bliley, a Virginia Republican. However, some members of the panel have raised concerns about the legislation.</p>
+<p>Manton and Rick Lazio, a Republican also from New York, have echoed the concerns raised by securities industry officials. The New York lawmakers have cautioned that such a move should be studied thoroughly first.</p>
+<p>&quot;I don't think there is any hurry to do this,&quot;  Rep. Scott Klug, a Wisconsin Republican and also a member of the subcommittee, told a group of state securities regulators late last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

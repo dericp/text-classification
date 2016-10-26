@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49512" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: PRESALE-$4.380 mln Tennessee School Bond Authority.</title>
+<headline>PRESALE-$4.380 mln Tennessee School Bond Authority.</headline>
+<text>
+<p>AMT: 4,380,000	DATE: 09/17/96	NYC Time: 1030	CUSIP: 880557</p>
+<p>ISSUER: Tennessee State School Bond Authority		   ST: TN</p>
+<p>ISSUE: Higher Educational Facilities 1996 Rfdg Series D    TAX STAT: Exempt-REV</p>
+<p>M/SP/F: A1/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/15/96							     SURE BID: N</p>
+<p>DUE: 5/1/04-11						SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: 5/1/06 @ 101.5, dtp 5/1/09			TIC</p>
+<p>DELIVERY: 10/3/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: First Tennessee Bank N.A., Nashville</p>
+<p>L.O.: Hawkins, Delafield &amp; Wood, New York City</p>
+<p>F.A.: Alex. Brown &amp; Sons Inc., Charlotte</p>
+<p>LAST SALE: $48,670,000 6/30/92 @ 6.18570% TIC; 16yrs 5mos Avg; BBI-6.42%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2004		    265,000</p>
+<p>2005		    500,000</p>
+<p>2006		    525,000</p>
+<p>2007		    555,000</p>
+<p>2008		    585,000</p>
+<p>2009		    615,000</p>
+<p>2010		    650,000</p>
+<p>2011		    685,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

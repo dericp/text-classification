@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80069" id="root" date="1996-09-26" xml:lang="en">
+<title>CHINA: Summer rains slake China capital's thirst.</title>
+<headline>Summer rains slake China capital's thirst.</headline>
+<dateline>BEIJING 1996-09-26</dateline>
+<text>
+<p>Heavy summer rains have ended a drought in the Chinese capital Beijing and have raised underground water levels in surrounding areas by more than a metre (three ft), the Xinhua news agency said on Thursday.</p>
+<p>Frequent downpours over the past three months had ensured the city an ample supply of water for at least two years, the agency quoted an official water survey as saying.</p>
+<p>As much as 3.89 billion cubic metres (137 billion cu ft) of water had been stored in 16 large reservoirs around the city, a rise of 350 million cu metres (12.36 billion cu ft) compared with last year, it said but gave no details.</p>
+<p>The capital's water managers had moved some reservoir water underground, adding to the rise in water levels, it said.</p>
+<p>Beijing, like many areas in northern China, has for years suffered water shortages caused by dry weather and spiralling demand for water for irrigation, industry and growing urban populations.</p>
+<p>Beijing officials have said the capital's water deficit is expected to hit 1.0 billion cu metres (35 billion cu ft) a year by the year 2010.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

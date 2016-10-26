@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206928" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: CBOE begins trading new S&amp;P 500 index put warrants.</title>
+<headline>CBOE begins trading new S&amp;P 500 index put warrants.</headline>
+<dateline>CHICAGO 1996-11-21</dateline>
+<text>
+<p>The Chicago Board Options Exchange said Thursday it began trading new put warrants on the S&amp;P 500 stock index that expire on November 20, 1997.</p>
+<p>The warrants, issued by the International Finance Corp, a subsidiary of the World Bank, have a strike price of 743.95, but the strike price will be reset in three months if the index is above that level.</p>
+<p>The S&amp;P 500 was trading at around 742, down two points, at 1140 CST (1740 GMT) Thursday.  </p>
+<p>Oppenheimer &amp; Co and EVEREN Securities underwrote the offering of 1.25 million capitalized warrants, called International Finance Corp S&amp;P 500 Index Bear Market Warrants.</p>
+<p>The warrants are American style, meaning they can be exercised at any time up to expiration.</p>
+<p>At 1140 CST (1740 GMT), the warrants were trading at 3-3/4 on volume of 38,500.</p>
+<p>OTA Limited Partnership is the designated primary market maker for the warrants, which trade during normal stock market hours of 0830 to 1500 CST (1430 to 2100 GMT). --Derivatives desk, 312 408 8750/Email: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

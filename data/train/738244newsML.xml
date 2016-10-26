@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738244" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: Wall Street stocks bruised, see broad-based slump.</title>
+<headline>Wall Street stocks bruised, see broad-based slump.</headline>
+<dateline>NEW YORK 1997-07-18</dateline>
+<text>
+<p>Wall Street stocks were weak in afternoon trading on Friday, failing to make much headway against a heavy dose of profit-taking which erased many of the week's exuberant gains.</p>
+<p>The Dow Jones Industrial average was down around 96 points, or 1.18 percent, to 7924.</p>
+<p>Stocks tumbled after a Microsoft Corp earnings report triggered selling in the technology sector, which then spread to other areas, analysts said.</p>
+<p>The Nasdaq composite was down 19 points at 1549.</p>
+<p>The long bond was down 10/32 at 6.51 percent.</p>
+<p>((Wall Street desk 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

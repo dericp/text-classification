@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91995" id="root" date="1996-10-02" xml:lang="en">
+<title>TUNISIA: Tunisia paid $356.50 c&amp;f for white sugar - traders.</title>
+<headline>Tunisia paid $356.50 c&amp;f for white sugar - traders.</headline>
+<dateline>TUNIS 1996-10-02</dateline>
+<text>
+<p>Tunisia bought a cargo of white sugar for shipment in June 1997 at a snap tender on Monday, traders in Tunis confirmed on Wednesday.</p>
+<p>They said the price paid was $356.50 per tonne c &amp; f. Earlier, traders in London said the price was $354.50.</p>
+<p>Tunisia bought two 14,000-tonne cargoes of whites on September 18 for May and July, at an undisclosed price. It bought a same-sized cargo the day before from a London-based trade house at $366 per tonne c &amp; f.  </p>
+<p>The quality was 45 ICUMSA.</p>
+<p>The supplier was not disclosed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

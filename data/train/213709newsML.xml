@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213709" id="root" date="1996-11-25" xml:lang="en">
+<title>AUSTRALIA: RTRS-Cricket-Australia v West Indies scoreboard.</title>
+<headline>RTRS-Cricket-Australia v West Indies scoreboard.</headline>
+<dateline>BRISBANE 1996-11-25</dateline>
+<text>
+<p>Scoreboard on the fourth day of the first test between Australia and West Indies at the Gabba on Monday.</p>
+<p>Australia first innings 479 (Ian Healy 161 not out)</p>
+<p>West Indies first innings 277 (Carl Hooper 102)</p>
+<p>Australia second innings (overnight eight for no wicket)</p>
+<p> M.Taylor c Browne b Benjamin		    36</p>
+<p> M.Elliott b Bishop				  21</p>
+<p> R.Ponting c Browne b Bishop			9</p>
+<p> M.Waugh c Browne b Bishop			 57</p>
+<p> M.Bevan c Griffith (sub) b Ambrose	    20</p>
+<p> I.Healy not out				     45</p>
+<p> P.Reiffel run out				   11</p>
+<p> Extras (b-1 lb-3, nb-14)			  18</p>
+<p>Total (for six wickets declared, 65 overs)  217</p>
+<p>Fall of wickets: 1-55, 2-74, 3-82, 4-147, 5-189, 6-217.</p>
+<p>Did not bat: S.Waugh, S.Warne, M.Kasprowicz, G.McGrath.</p>
+<p>Bowling: Ambrose 18-2-47-1 (nb-6), Walsh 17-1-58-0 (nb-4), Benjamin 15-1-52-1 (nb-1), Bishop 13-2-49-3 (nb-3), Hooper 2-0-7-0.</p>
+<p>West Indies second innings</p>
+<p> S.Campbell not out		     28</p>
+<p> R.Samuels c Taylor b Warne	   29</p>
+<p> B.Lara not out			   29</p>
+<p> Extras (nb-3)			     3</p>
+<p> Total (for one wicket, 29 overs)   89</p>
+<p>Fall of wicket: 1-54.</p>
+<p>To bat: C.Hooper, S.Chanderpaul, J.Adams, C.Browne, K.Benjamin, I.Bishop, C.Ambrose, C.Walsh.</p>
+<p>Bowling: McGrath 10-5-15-0, Kasprowicz 5-1-15-0, Reiffel 4-0-25-0 (nb-3), Warne 10-4-34-1.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="WEIND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

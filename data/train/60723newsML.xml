@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60723" id="root" date="1996-09-18" xml:lang="en">
+<title>POLAND: KABLE AUG NET SWINGS TO LOSS PLN 0.4 MLN.</title>
+<headline>KABLE AUG NET SWINGS TO LOSS PLN 0.4 MLN.</headline>
+<dateline>WARSAW 1996-09-18</dateline>
+<text>
+<p>Preliminary results August</p>
+<p>(in million zlotys unless stated)</p>
+<p>AUGUST</p>
+<p> Net loss		 0.40 vs   0.25 profit</p>
+<p> Pre-tax loss	   0.40 vs   0.26 profit</p>
+<p> Operating loss	 0.18 vs   0.33 profit</p>
+<p> Sales		   11.12 vs   9.84</p>
+<p>JANUARY-AUGUST</p>
+<p> Net loss		 0.38 vs   2.16</p>
+<p> Pre-tax loss	   0.38 vs   2.17</p>
+<p> Operating profit     0.53 vs   2.27</p>
+<p> Sales		   86.17 vs  68.11</p>
+<p>Note. Full name of the Polish cable maker is Slaska Fabryka</p>
+<p>Kabli SA.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

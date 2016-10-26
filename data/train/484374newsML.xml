@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="484374" id="root" date="1997-04-03" xml:lang="en">
+<title>TAIWAN: Two killed, 65 injured in Taiwan train accident. [CORRECTED 16:58 GMT]</title>
+<headline>Two killed, 65 injured in Taiwan train accident. [CORRECTED 16:58 GMT]</headline>
+<dateline>TAIPEI 1997-04-03</dateline>
+<text>
+<p>Two people were killed and 65 injured when a gravel truck rammed into a moving train in central Taiwan late on Thursday, police said.</p>
+<p>&quot;The truck driver, identified as Chen Cheng-chin, 33, was killed instantly, while two cars of the train were derailed because of the impact,&quot; an officer told Reuters by telephone.</p>
+<p>One of the train's 200 passengers was killed, police said. Five were critically injured.</p>
+<p>Police said they were investigating the accident in Wujih.</p>
+<p>It was the second accident involving a train in a week. On March 27 a passenger train derailed and smashed into a cement truck in northeastern Touchen, killing the truck driver and injuring 20 people. (Corrects total number of people injured from 200 to 20.)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

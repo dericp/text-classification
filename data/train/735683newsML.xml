@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="735683" id="root" date="1997-07-17" xml:lang="en">
+<title>ARGENTINA: Argentine jobless rate 16.1 percent - source.</title>
+<headline>Argentine jobless rate 16.1 percent - source.</headline>
+<dateline>BUENOS AIRES 1997-07-17</dateline>
+<text>
+<p>Argentina's unemployment rate in May, scheduled for release Friday, was 16.1 percent, down from 17.3 percent in October and 17.1 percent in May 1996, a senior government official said Thursday.</p>
+<p>The official, who requested anonymity, told Reuters that Carlos Rodriguez, the chief advisor to the economy minister, informed President Carlos Menem of the semi-annual figure during Thursday morning's cabinet meeting.  </p>
+<p>The unemployment rate was scheduled to be announced at 1100 local/1400 GMT Friday. Additional details, including how many jobs were created, were set for release at 1530 local/1830 GMT.</p>
+<p>Earlier Thursday, Economy Minister Roque Fernandez told reporters in London that the May jobless survey would probably show a drop to about 16.2 percent. ((--Patrick Adam, Buenos Aires newsroom, 541 318-0618))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

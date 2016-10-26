@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720441" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Chicago pork belly storage movement - July 10.</title>
+<headline>Chicago pork belly storage movement - July 10.</headline>
+<text>
+<p>Chicago daily pork belly storage movement in stocks, in CME approved warehouses for Wednesday July 9 as posted on Thursday July 10, in 000 lbs.</p>
+<p> In				     0</p>
+<p> Out				    0</p>
+<p> On hand			    823</p>
+<p> Year ago on Hand	     1,221</p>
+<p> Year ago net movement    out 118</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

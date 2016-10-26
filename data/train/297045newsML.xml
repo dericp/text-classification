@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297045" id="root" date="1997-01-09" xml:lang="en">
+<title>USA: Finlay Nov-Dec same-store sales up 5.4 pct.</title>
+<headline>Finlay Nov-Dec same-store sales up 5.4 pct.</headline>
+<dateline>NEW YORK 1997-01-09</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month	     $258.2     $245.5	+5.2	 +5.4</p>
+<p>Year-to-date    $662.3     $625.7	+5.8	 +5.8</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>Sales cover two mth period, including November and December.</p>
+<p>    Full company name is	    Finlay Enterprises Inc</p>
+<p>Dec same-store figures are domestic, and total sales include international.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

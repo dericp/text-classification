@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="661314" id="root" date="1997-06-13" xml:lang="en">
+<title>JAPAN: Japan Energy refinery closed due to power outage.</title>
+<headline>Japan Energy refinery closed due to power outage.</headline>
+<dateline>TOKYO 1997-06-13</dateline>
+<text>
+<p>Japan Energy Corp said on Friday that its 95,000 barrel-per-day (bpd) refinery in Chita, central Japan, had halted operations due to a power outage on Thursday.</p>
+<p>A company spokesman said the refinery's crude distillation unit would resume operation on Saturday.  </p>
+<p>The Japan Energy spokesman said power supply to the Chita refinery was disrupted before noon yesterday for about 30 minutes.</p>
+<p>He said the company had decided to stop all operations at the complex, including operations of a petrochemical production unit, to make emergency checks.</p>
+<p>&quot;We halted operation at all the facilities as a precautionary measure,&quot; he said.</p>
+<p>The spokesman added that the company is taking necessary steps to resume full operation of the refinery.</p>
+<p>He could not immediately comment on when the company would resume operation of the petrochemical unit.  </p>
+<p>Japan Energy does not produce any ethylene at its petrochemical facility in Chita, the spokesman said.</p>
+<p>It has facilities to produce an annual 350,000 tonnes of paraxylene and 100,000 tonnes of cyclohexane.</p>
+<p>The company also has a 17,000 barrel-per-stream day aromatic recovery unit at the complex.</p>
+<p>The spokesman said: &quot;We are checking the petrochemical facilities, and cannot yet say when we can resume operations.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

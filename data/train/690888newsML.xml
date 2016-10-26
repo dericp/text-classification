@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="690888" id="root" date="1997-06-26" xml:lang="en">
+<title>AUSTRALIA: RTRS-Brierley lifts Fairfax stake.</title>
+<headline>RTRS-Brierley lifts Fairfax stake.</headline>
+<dateline>SYDNEY 1997-06-26</dateline>
+<text>
+<p>The Brierley Investments Ltd group has bought an extra 2.1 percent in newspaper publisher John Fairfax Holdings Ltd, the investment company said in a substantial shareholder notice to the Australian Stock Exchange on Thursday.  </p>
+<p>Separately, a spokeswoman for the Australian Securities Commission said the ASC was examining recent share trades in Fairfax.</p>
+<p>The spokeswoman said the examination was termed a preliminary inquiry and was not a formal investigation.</p>
+<p>She said the trades focussed on dealings between brokerage firm Merrill Lynch and Brierley, but would not elaborate.</p>
+<p>At 3.30 p.m. (0530 GMT), Fairfax shares were three cents higher at A$3.21.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

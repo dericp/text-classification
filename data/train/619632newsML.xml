@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="619632" id="root" date="1997-05-28" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa grounds five African aircraft since 1995.</title>
+<headline>S.Africa grounds five African aircraft since 1995.</headline>
+<dateline>CAPE TOWN 1997-05-28</dateline>
+<text>
+<p>Civil aviation authorities have since 1995 grounded five aircraft belonging to African airlines following spot checks at South African airports, Transport Minister Mac Maharaj said on Wednesday.</p>
+<p>He said in a written response to a parliamentary question that since January 1, 1995, five Boeing 707 aircraft operating from Liberia, Ghana and Zaire were inspected and found unsafe.</p>
+<p>Their airworthiness certificates were cancelled.</p>
+<p>Maharaj said the Civil Aviation Authority carried out spot checks on aircraft flying into South Africa, but did not have the capacity to inspect every one.</p>
+<p>-- South African parliament newsroom +27 21 4032502</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="LIBER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

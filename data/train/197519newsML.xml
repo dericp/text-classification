@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197519" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 18-NOV.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 18-NOV.</headline>
+<text>
+<p>A tropical disturbance in the western Caribbean is bringing heavy rain to the Jamaica, the Cayman Islands and Cuba. Flooding may be the result. A tropical depression may form here within the next day or two.  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS  </p>
+<p>THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAYI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

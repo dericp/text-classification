@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629224" id="root" date="1997-06-01" xml:lang="en">
+<title>AUSTRALIA: Australian companies ex-div to June 13.</title>
+<headline>Australian companies ex-div to June 13.</headline>
+<dateline>SYDNEY 1996-06-02</dateline>
+<text>
+<p>The following is a list of</p>
+<p>companies going ex-dividend to June 13, compiled from</p>
+<p>information supplied by the Australian Stock Exchange.</p>
+<p>Monday, June 2</p>
+<p>    Consolidated Foods		  1.0 cents</p>
+<p>Tuesday, June 3</p>
+<p>    Westpac Banking Corporation    19.0 cents</p>
+<p>Wednesday, June 4</p>
+<p>    Bank of Queensland		 65.0 cents</p>
+<p>    Public Holdings		     5.0 cents</p>
+<p>    St George Bank		     26.0 cents</p>
+<p>Thursday, June 5</p>
+<p>    Westpac Banking Corporation   24.38 cents</p>
+<p>Friday, June 6</p>
+<p>    Australian Chemical Holdings    9.0 cents</p>
+<p>Monday, June 9</p>
+<p>    Nil</p>
+<p>Tuesday, June 10</p>
+<p>    David Jones Ltd		     4.0 cents</p>
+<p>    Incitec Ltd			  35.0 cents</p>
+<p>Wednesday, June 11</p>
+<p>    Singleton Group Ltd special dividend A$1.70</p>
+<p>Thursday, June 12</p>
+<p>    Harris Scarfe Ltd		   7.0 cents</p>
+<p>    Carter Holt Harvey		NZ6.34 cents</p>
+<p>Friday, June 13</p>
+<p>Nil</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I02000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I25100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

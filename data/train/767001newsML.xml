@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="767001" id="root" date="1997-07-30" xml:lang="en">
+<title>INDIA: India CRISIL assigns P1 rating to RML.</title>
+<headline>India CRISIL assigns P1 rating to RML.</headline>
+<dateline>BOMBAY 1997-07-30</dateline>
+<text>
+<p>India's Credit Rating Information Services of India Ltd (CRISIL) said in a statement on Wednesday that the P1 rating has been assigned to 45 million rupees commercial paper programme of Rajapalayam Mills Limited (RML).</p>
+<p>The rating indicates that the degree of safety with regard to timely payment of interest and principal is high.</p>
+<p>RML is part of the textile division of the Madras-based RAMCO group of companies. The company is one of the oldest spinning mills in the country but has invested regularly in modernisation and replacement to maintain productivity.</p>
+<p>In addition to selling its yarn in the domestic market, the company also has two export-oriented units which accounted for over 40 percent of sales in 1996/97.</p>
+<p>The company has reported a considerable improvement in turnover and profits in 1996/97 which have increased to 987.9 million rupees and 68.3 million rupees respectively as compared to 801.8 million rupees 15.3 million rupees in 1995/96.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

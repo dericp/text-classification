@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133634" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: BALANCE - Michigan at $860,000.</title>
+<headline>BALANCE - Michigan at $860,000.</headline>
+<text>
+<p>STATE OF MICHIGAN</p>
+<p>RE: $54,500,000</p>
+<p>STATE TRUNK LINE FUND BONDS, SERIES 1996A</p>
+<p>    MOODY'S: Aaa		   S&amp;P: AAA</p>
+<p>Delivery Date: 11/07/1996</p>
+<p>FGIC INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>11/01/1999		35M    6.25	  4.25</p>
+<p>11/01/2000	     260M    6.25	  4.40</p>
+<p>11/01/2002	     240M    6.25	  4.65</p>
+<p>11/01/2007	     275M    5.25	  5.15</p>
+<p>11/01/2016		50M    5.50	  5.68</p>
+<p>  Total:		 860M</p>
+<p>Morgan Stanley &amp; Co. Incorporated</p>
+<p>Goldman, Sachs &amp; Co.</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>J.P. Morgan Securities Inc.</p>
+<p>Lehman Brothers</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>First Chicago Capital Markets, Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="25799" id="root" date="1996-08-31" xml:lang="en">
+<title>USA: ICE HOCKEY-CANADA'S SHANAHAN SUSPENDED ONE GAME IN WORLD CUP.</title>
+<headline>ICE HOCKEY-CANADA'S SHANAHAN SUSPENDED ONE GAME IN WORLD CUP.</headline>
+<dateline>NEW YORK 1996-08-30</dateline>
+<text>
+<p>Team Canada left wing Brendan Shanahan was suspended Friday for one game for a high-sticking incident in Thursday's World Cup victory over Russia.</p>
+<p>Shanahan, of the Hartford Whalers, will sit out Saturday's game against the United States at Philadelphia. He received a minor penalty early in the second period Thursday after he struck Russia's Alexander Semak with a two-handed slash. Semak suffered a broken cheekbone.</p>
+<p>&quot;While Mr Shanahan was quite apologetic about the incident, a player is always responsible for his stick,&quot; said National Hockey League senior vice president and director of operations Brian Burke.</p>
+<p>NHL rules are being used during the World Cup.</p>
+<p>Shanahan scored a goal for Canada, which leads the North American pool with a 1-0 record.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

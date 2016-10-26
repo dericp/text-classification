@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121135" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: Standex International Corp Q1 profit drops.</title>
+<headline>Standex International Corp Q1 profit drops.</headline>
+<dateline>SALEM, N.H. 1996-10-16</dateline>
+<text>
+<p>(In thousands, except per share data)</p>
+<p> FIRST QUARTER ENDED SEPTEMBER 30	  1996		1995</p>
+<p> Net Sales				    $140,199	 $142,235</p>
+<p> Income before taxes			  12,327	   14,906</p>
+<p> Provision for taxes			   4,785	    5,596</p>
+<p> Net income					7,542	    9,310</p>
+<p> Earnings per share				.56		.66</p>
+<p> Average shares outstanding		 13,574	   14,207</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SALEM, N.H."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

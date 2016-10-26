@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182250" id="root" date="1996-11-12" xml:lang="en">
+<title>RUSSIA: Kohl advises Yeltsin not to overdo things - Kremlin.</title>
+<headline>Kohl advises Yeltsin not to overdo things - Kremlin.</headline>
+<dateline>MOSCOW 1996-11-12</dateline>
+<text>
+<p>President Boris Yeltsin spoke to German Chancellor Helmut Kohl on the telephone on Tuesday and Kohl advised the Russian leader not to overdo things after his heart operation, a Kremlin spokesman said.</p>
+<p>Presidential press spokesman Sergei Yastrzhembsky said the two leaders spoke for seven minutes. Kohl congratulated Yeltsin on his speedy recovery after last week's surgery and repeated an invitation that the Russian president convalesce in Germany.</p>
+<p>It was Yeltsin's first telephone conversation with a foreign leader since his quintuple bypass operation. The two men regard each other as friends and Kohl visited Moscow just before the operation, passing on his best wishes to Yeltsin.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

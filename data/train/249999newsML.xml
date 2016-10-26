@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249999" id="root" date="1996-12-11" xml:lang="en">
+<title>USA: American Radio stake lifted by Baron group.</title>
+<headline>American Radio stake lifted by Baron group.</headline>
+<dateline>WASHINGTON 1996-12-10</dateline>
+<text>
+<p>New York investor Ronald Baron said on Tuesday he and his affiliates raised their stake in American Radio Systems Corp to 2,106,800 class A common shares or 14.5 percent of the class outstanding.</p>
+<p>In a filing with the U.S. Securities and Exchange Commission, Baron said partnerships that he controls bought 280,400 additional shares of American Radio between December 3 and 10 at prices ranging from $26.8438 to $27.2768 a share.</p>
+<p>The group, which holds the shares for investment purposes, previously held 12.6 percent of the class A stock.</p>
+<p>Baron is president of Baron Capital Management Inc, a New York-based investment firm.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

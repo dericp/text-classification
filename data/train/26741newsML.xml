@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26741" id="root" date="1996-09-02" xml:lang="en">
+<title>MEXICO: BOXING-JUDGE ORDERS ARREST OF CHAVEZ.</title>
+<headline>BOXING-JUDGE ORDERS ARREST OF CHAVEZ.</headline>
+<dateline>MEXICO CITY 1996-09-02</dateline>
+<text>
+<p>A Mexican judge has ordered the arrest of former world champion boxer Julio Cesar Chavez on tax fraud charges, the Finance Ministry said on Monday.</p>
+<p>Mexican Chavez and his business partners in his home state of Sinaloa failed to pay some 10.58 million pesos ($1.39 million) in taxes to the government, according to the ministry.</p>
+<p>Tax officials have been auditing Chavez's tax records for more than a year. He has denied any wrongdoing and said his former business partners, family and friends have betrayed him in order to get at his money.</p>
+<p>Chavez lost his WBC super-lightweight title to American Oscar De La Hoya in Las Vegas on June 7. He was stopped in the fourth round.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

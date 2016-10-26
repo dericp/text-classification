@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465023" id="root" date="1997-03-24" xml:lang="en">
+<title>ISRAEL: Israel accuses PLO of &quot;political terrorism&quot;.</title>
+<headline>Israel accuses PLO of &quot;political terrorism&quot;.</headline>
+<dateline>JERUSALEM 1997-03-24</dateline>
+<text>
+<p>Israeli Foreign Minister David Levy on Monday accused the Palestinian Authority of employing &quot;political terrorism&quot; to press Arab countries to freeze ties with the Jewish state.</p>
+<p>&quot;This path which (Palestinian Authority) elements are employing is akin to political terrorism to influence Qatar, Oman and northern Africa ... this is a violation of the agreement,&quot; Levy told Israel radio.</p>
+<p>Oman, which along with Qatar forged ahead of other Gulf Arab states to open economic ties with Israel in the wake of a 1993 Israel-PLO peace deal, said on Sunday it had frozen ties with the Jewish state over its settlement policies in occupied lands.</p>
+<p>The Organisation of Islamic Conference (OIC) urged its 54-member states on Sunday to &quot;review relations with Israel and make them contingent on the progress achieved in the peace process, and on the extent to which Israel complies with U.N. resolutions and with agreements, commitments and obligations reached by the parties concerned&quot;.</p>
+<p>Palestinian leader Yasser Arafat used the opening session of the one-day OIC summit in Islamabad, Pakistan, to attack what he called Israeli aggression.</p>
+<p>Levy blasted Arafat for pleading his case before world bodies instead of negotiating with Israel.</p>
+<p>&quot;Arafat must understand that the problems won't be solved in international arenas ... he must be here, to decide which path he takes,&quot; Levy said.</p>
+<p>Israeli-Palestinian relations have plummeted and tensions soared since Israeli Prime Minister Benjamin Netanyahu sent bulldozers last Tuesday to a hill in Arab East Jerusalem to begin work on a new Jewish settlement.</p>
+<p>A suicide bombing, claimed by the militant Islamist group Hamas, killed three Israeli women in Tel Aviv on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISLAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

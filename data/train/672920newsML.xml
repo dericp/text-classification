@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="672920" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: U.S. debt futures finish narrowly mixed.</title>
+<headline>U.S. debt futures finish narrowly mixed.</headline>
+<text>
+<p>June 19 - U.S. debt futures finished narrowly mixed in quiet trading, most ending midrange. Sept T-bonds drifted up from lows, end positive. Traders said June T-bond expired without a hitch, down 5/32 at 112-12/32. Sept resistance seen at 112-16/32, support at 111-16/32.</p>
+<p>((Chicago Derivatives Desk(312)408-8750))</p>
+<p>E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

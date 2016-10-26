@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570930" id="root" date="1997-05-08" xml:lang="en">
+<title>HONG KONG: Sterlite launches US$70 mln FRN.</title>
+<headline>Sterlite launches US$70 mln FRN.</headline>
+<dateline>HONG KONG 1997-05-08</dateline>
+<text>
+<p>The following issue was announced by lead manager Union Bank of Switzerland.</p>
+<p> BORROWER   STERLITE INDUSTRIES (INDIA) LTD</p>
+<p> AMOUNT     US$70 MLN  COUPON     6ML+130BP  MATURITY  10 YRS</p>
+<p> TYPE	 FRN	  ISS PRICE  PAR	  LAUNCH    08.MAY.97</p>
+<p> PUTS	 YR 7	 CALLS	NONE	 REPLIES   20.MAY.97</p>
+<p> LISTING    NONE	 REPAYMENT  BULLET     DENOMS    N/A</p>
+<p> RATING     NONE	 SALE LMTS  US/UK/HK/SING/INDIA</p>
+<p> NEG PLG    YES	  CRS DEF    YES	  FORCE MAJ YES</p>
+<p> HOME CTRY  INDIA	GOV LAW    ENGLISH</p>
+<p> PAY DATE   30.MAY.97 (TENTATIVELY)</p>
+<p> MGT LEVELS AND FEES</p>
+<p>   CO-LEAD MANAGERS    US$8 MLN   60BP   ALL-IN  138.57</p>
+<p>   CO-MANAGERS	   US$4 MLN   40BP   ALL-IN  135.71</p>
+<p> LEAD MANAGER    UNION BANK OF SWITZERLAND</p>
+<p> NOTES	     FINANCIAL CONVENANTS</p>
+<p>-- Hong Kong newsroom (852) 2843 6960</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

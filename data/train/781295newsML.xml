@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="781295" id="root" date="1997-08-06" xml:lang="en">
+<title>NIGERIA: Nigeria releases $145.8 mln to state oil company.</title>
+<headline>Nigeria releases $145.8 mln to state oil company.</headline>
+<dateline>LAGOS 1997-08-06</dateline>
+<text>
+<p>Nigeria's finance ministry has released $145.833 million to state-run oil company (NNPC) for its priority projects, including rehabilitating the country's ailing four refineries, a local newspaper reported on Wednesday.</p>
+<p>The independent Vanguard said oil minister Dan Etete had ordered that the shut northern Kaduna refinery be allocated $40 million from the grant for repairs.</p>
+<p>Kaduna, with an installed capacity of 110 barrels per day (bpd), was shut down last week due to faults in its cooling unit.</p>
+<p>Lack of maintenance and funds to purchase spare parts have made Nigeria's refineries, with a combined capacity of 445,000 bpd, produce about one-third of their total output. Fuel shortages are common in Africa's largest oil-producing nation which pumps over two million bpd.</p>
+<p>State-run News Agency of Nigeria said on Monday that the finance ministry had released 32.8 naira ($397.6 million) from the 89 billion naira ($1,072 million) budgeted for capital projects in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

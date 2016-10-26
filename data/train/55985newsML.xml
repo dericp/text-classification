@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55985" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: New York City sets $1.6 bln note sale for Oct 1.</title>
+<headline>New York City sets $1.6 bln note sale for Oct 1.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>New York City, one of the largest issuers in the municipal market, on Monday said it had set a $1.6 billion sale of revenue anticipation notes for October 1.</p>
+<p>The notes, which will be sold by competitive bid, will have two maturities, with $575 million maturing in April 1997, and $1.025 billion maturing on June 30, said Alan Anders, director of financing, Office of Management and Budget.</p>
+<p>A city official last week said the October 1 sale of revenue anticipation notes could include as much as $550 of issues maturing at the end of March, and up to $1.25 billion of notes that would expire at the end of June.</p>
+<p>Because New York state has a history of failing to approve on time its budgets, which are due on April 1, the city plans to back the June portion of the notes with a letter of credit. This is a strategy the city has used in the past, and on a net basis, will reduce its borrowing costs, Anders said.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

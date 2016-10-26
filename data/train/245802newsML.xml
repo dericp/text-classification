@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245802" id="root" date="1996-12-10" xml:lang="en">
+<title>CANADA: Alberta Agriculture details Nov 1996 output, yield.</title>
+<headline>Alberta Agriculture details Nov 1996 output, yield.</headline>
+<dateline>WINNIPEG 1996-12-10</dateline>
+<text>
+<p>Alberta Agriculture on Tuesday issued its November output, yield and quality estimates.</p>
+<p>	     NOVEMBER ALBERTA PRODUCTION ESTIMATES</p>
+<p>Crop	 Yield (bu/ac) Output ('000 T) Change 96 vs 95</p>
+<p>W. Wheat	 35.6	   87.1	   +6.74 percent</p>
+<p>S. Wheat	 40.1	7,261.1	  +13.24 percent</p>
+<p>Durum Wheat    32.8	  713.7	  -15.41 percent</p>
+<p>All Wheat	39.3	8,061.2	   +9.87 percent</p>
+<p>Oats	     67.3	1,141.2	  +48.00 percent</p>
+<p>Barley	   62.0	7,293.8	  +15.12 percent</p>
+<p>Canola	   24.7	1,678.3	  -30.84 percent</p>
+<p>Fall Rye	 32.1	   57.2	   +2.33 percent</p>
+<p>Spring Rye     27.0	    6.9	  +35.29 percent</p>
+<p>All Rye	  31.5	   64.1	   +5.08 percent</p>
+<p>Flaxseed	 22.9	   20.3	  -61.91 percent</p>
+<p>Dry Peas	 38.5	  365.5	  -11.35 percent</p>
+<p>Lentils	 740.0 lb/ac    8.4	  -45.10 percent</p>
+<p>Hay		 1.5 ton/ac 7,076.0	 -7.14 percent</p>
+<p>Sugar Beets    20.0 ton/ac 707.6	  +11.43 percent</p>
+<p>Color Beans    20.0 cwt     18.1	  -33.46 percent</p>
+<p>Mustard	 865.0 lb/ac   39.3	  -17.95 percent</p>
+<p>Sunflwr     1,600.0 lb/ac    2.2	  -48.84 percent</p>
+<p>Canary Sd     960.0 lb/ac   10.9	 +142.22 percent</p>
+<p>Fdr Corn	 15.0 ton/ac 136.1	   -6.20 percent</p>
+<p>TOTAL:			26,030.3	   +2.30 percent</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

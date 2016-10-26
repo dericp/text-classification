@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38050" id="root" date="1996-09-06" xml:lang="en">
+<title>USA: Net $207 mln of US securities reconstituted in Aug.</title>
+<headline>Net $207 mln of US securities reconstituted in Aug.</headline>
+<dateline>WASHINGTON 1996-09-06</dateline>
+<text>
+<p>The Treasury Department said on Friday a net $207 million of government securities were reconstituted in August, compared with $360 million that were stripped in July.</p>
+<p>The Strips, or Separate Trading of Registered Interest and Principal of Securities program, are created by separating the interest coupon from the principal payment. Securities can be reconstituted by rejoining the principal and coupon.</p>
+<p>Treasury said $914.45 billion of securities were eligible for stripping in August.  Of the total, $227.19 billion were held in stripped form on Aug 31, compared with $227.40 billion on July 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

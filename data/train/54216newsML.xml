@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54216" id="root" date="1996-09-14" xml:lang="en">
+<title>PAKISTAN: Pakistan cotton market closed by strike.</title>
+<headline>Pakistan cotton market closed by strike.</headline>
+<dateline>KARACHI, Pakistan 1996-09-14</dateline>
+<text>
+<p>The Karachi cotton market was shut on Saturday owing to a protest general strike in Karachi called by the ethnic Mohajir National Movement, dealers said.</p>
+<p>On Thursday, spot rates issued by the Karachi Cotton Association had eased 27.50 rupees to 2,618 ($70.64) per maund (37.32 kg) for the NIAB-78 variety and 38.50 to 2,590 for the MNH-93.</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

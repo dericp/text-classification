@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="311639" id="root" date="1997-01-16" xml:lang="en">
+<title>CHILE: RESEARCH ALERT-Chile's Polar started buy.</title>
+<headline>RESEARCH ALERT-Chile's Polar started buy.</headline>
+<text>
+<p>-- Santander Investment said it started Chilean Coca-Cola bottler Embotelladoras Polar SA with a buy recommendation.</p>
+<p>In a report by analysts alexander robarts and heinrich Lessau, Santander said the company had a proven track record in Chile and a well-timed entry into Argentina with the purchase of five franchises.</p>
+<p>It estimated earnings per share of 11 Chilean pesos in 1996, 18.4 pesos this year and 24.7 pesos in 1998.</p>
+<p>--Santiago newsroom +56-2-6995595 x211</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

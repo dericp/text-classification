@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93577" id="root" date="1996-10-03" xml:lang="en">
+<title>CHILE: Chile's Endesa prepares Colombia bid.</title>
+<headline>Chile's Endesa prepares Colombia bid.</headline>
+<dateline>SANTIAGO 1996-10-03</dateline>
+<text>
+<p>Chilean generator Empresa Nacional de Electricidad (Endesa) said it expects to strike a deal this week with a consortium to bid in the sale of two hydro-electric power stations in Colombia.</p>
+<p>&quot;At the moment (Endesa) general manager Jaime Bauza is in Colombia closing the deal with the partners,&quot; president Jose Yuraszeck told reporters at a regional energy confernce. &quot;The agreement is likely to be signed tomorrow (Friday).&quot;</p>
+<p>Yuraszeck declined to give details of the other firms which will link up with Endesa to bid for the Chivor and Betania electricity plants.</p>
+<p>Endesa, Chile's largest electricity generator, already has investments in Peru and Argentina and is also studying moving into the Brazilian and Mexican markets. --Rodrigo Martinez, Santiago newsroom, 562-699-5595x205</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

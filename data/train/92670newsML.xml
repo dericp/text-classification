@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92670" id="root" date="1996-10-02" xml:lang="en">
+<title>GREECE: BZW, Sanwa set a $113 mln facility for Greek bank.</title>
+<headline>BZW, Sanwa set a $113 mln facility for Greek bank.</headline>
+<dateline>ATHENS 1996-10-02</dateline>
+<text>
+<p>The following information on a structured sale and repurchase facility for the National Mortgage Bank of Greece was provided by arrangers BZW and the Sanwa Bank, Limited.</p>
+<p>The facility of up to $113 million consists of three tranches, each being in respect of a specific bond series, and has an overall maturity of 4.0 years and two months and an average maturity of 3.1 years.</p>
+<p>The bonds to be purchased have been issued by the Hellenic Republic and are denominated in Greek drachmas.</p>
+<p>Barclays Bank will provide a swap to complete the transaction and it will be risk managed by Barclays' Athens branch.</p>
+<p>The proceeds will be used by the National Mortgage Bank of Greece for liquidity purposes.</p>
+<p>				 Tranche A  Tranche B   Tranche C</p>
+<p>    Margin			0.30%     0.30%	 0.45%</p>
+<p>    Total amount		$23ml     $51ml	 $39ml</p>
+<p>    Maturity		31.12.1998  30.4.1999   31.12.2000</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

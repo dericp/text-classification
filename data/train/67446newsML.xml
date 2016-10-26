@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67446" id="root" date="1996-09-20" xml:lang="en">
+<title>CANADA: Telepanel Q2 July 31 shr loss flat.</title>
+<headline>Telepanel Q2 July 31 shr loss flat.</headline>
+<dateline>TORONTO 1996-09-20</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr	   loss	C$0.06     loss	C$0.06</p>
+<p> Net	   loss	   978     loss	   993</p>
+<p> Revs			   672			539</p>
+<p>	    6 MONTHS</p>
+<p> Shr	   loss	C$0.11     loss	C$0.12</p>
+<p> Net	   loss	 1,762     loss	 1,912</p>
+<p> Revs			 1,402		    1,733</p>
+<p> Avg shrs		  16,659		   15,584</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Note: Full name is Telepanel Systems Inc.</p>
+<p>-- Reuters Toronto Bureau  (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

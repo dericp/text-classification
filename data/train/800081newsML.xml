@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="800081" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE-Collins Industries Q3 shr $0.39.</title>
+<headline>TABLE-Collins Industries Q3 shr $0.39.</headline>
+<dateline>HUTCHINSON, Kansas 1997-08-14</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr			  $0.39		    $0.25</p>
+<p> Net			  3,073		    1,965</p>
+<p> Revs			42,203		   40,180</p>
+<p> Avg shrs	     7,817,795		7,826,589</p>
+<p>	  6  MONTHS</p>
+<p> Shr			  $0.79		    $0.53</p>
+<p> Net			  6,121		    4,036</p>
+<p> Revs		     118,896		  110,227</p>
+<p> Avg shrs	     7,757,506		7,545,406</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUTCHINSON, Kansas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233096" id="root" date="1996-12-04" xml:lang="en">
+<title>CANADA: Royal Bank Canada sees lower '97 credit loss.</title>
+<headline>Royal Bank Canada sees lower '97 credit loss.</headline>
+<dateline>TORONTO 1996-12-04</dateline>
+<text>
+<p>Royal Bank of Canada said on Wednesday that its provision for credit losses was C$440 million in 1996, down C$140 million from a year earlier and that it expected a lower 1997 loss provision.</p>
+<p>&quot;The bank expects its provision for credit losses in 1997 to be lower than this year's C$440 million level,&quot; Royal Bank said in its earnings statement. Net impaired loans dropped 54 percent to C$524 million in 1996, reflecting the resolution of a number of accounts during the year. As a percentage of total loans and bankers' acceptances, net impaired loans improved to 0.4 percent in 1996 from 0.9 percent in 1995.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

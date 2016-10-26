@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="798139" id="root" date="1997-08-13" xml:lang="en">
+<title>SOUTH KOREA: HANSOL PAPER TO PUT $100 MLN IN CHINA JV.</title>
+<headline>HANSOL PAPER TO PUT $100 MLN IN CHINA JV.</headline>
+<dateline>SEOUL 1997-08-13</dateline>
+<text>
+<p>Hansol Paper Co Ltd, a unit of South Korea's Hansol Group, said on Wednesday it had agreed with its Chinese partner Jincheng Paper Corp Ltd to jointly invest $100 million to build a paper plant in Liaoning Province.  </p>
+<p>&quot;We signed a letter of intent on the joint venture on Tuesday,&quot; said a Hansol spokesman.</p>
+<p>He said the joint venture would be capitalised at $40 million, with more than 50 percent held by Hansol.</p>
+<p>Construction of the plant would be completed by 2000 with an annual capacity of 100,000 tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

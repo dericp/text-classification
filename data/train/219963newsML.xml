@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219963" id="root" date="1996-11-27" xml:lang="en">
+<title>MEXICO: Banco de Mexico to inject 5.046 bln pesos.</title>
+<headline>Banco de Mexico to inject 5.046 bln pesos.</headline>
+<dateline>MEXICO CITY 1996-11-26</dateline>
+<text>
+<p>Banco de Mexico sought to inject 5.046 billion pesos in the secondary market on Wednesday through four credit auctions, dealers said.</p>
+<p>The auctions were offered as follows:</p>
+<p>    AMOUNT     TERM</p>
+<p>    1.348 bln   7 days</p>
+<p>    1.349 bln   6 days</p>
+<p>    1.349 bln   5 days</p>
+<p>    1.000 bln   1 day</p>
+<p>*Amounts in pesos</p>
+<p>-- Mexico City newsroom 525 728-9559</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

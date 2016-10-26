@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122180" id="root" date="1996-10-16" xml:lang="en">
+<title>SWEDEN: Frontec says in co-op deal with AT&amp;T.</title>
+<headline>Frontec says in co-op deal with AT&amp;T.</headline>
+<dateline>STOCKHOLM 1996-10-16</dateline>
+<text>
+<p>Swedish information technology group Frontec said on Wednesday it had signed a cooperation deal with U.S. telecoms giant AT&amp;T under which AT&amp;T will integrate Frontec's Intelligent Messaging Technology product into its Easy Commerce Services network.  </p>
+<p>&quot;Our goal is to increase the existing applications so the information which is critical to our customers is delivered in the same moment that it is released,&quot; said Andrew Gale, managing director for Frontec ATM, Inc.</p>
+<p>The Frontec system includes e-mail, pagers and fax.</p>
+<p>-- Stockholm newsroom +46-8-700-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="795481" id="root" date="1997-08-13" xml:lang="en">
+<title>USA: TABLE - Moovies Inc Q2 shr loss vs profit.</title>
+<headline>TABLE - Moovies Inc Q2 shr loss vs profit.</headline>
+<dateline>GREENVILLE, S.C. 1997-08-13</dateline>
+<text>
+<p>Three months ended  Six months ended</p>
+<p>					    June 30,	   June 30,</p>
+<p>				     1997    1996	  1997    1996</p>
+<p>Revenues:</p>
+<p> Rental revenues	   $22,809  $15,676	$45,458 $32,634</p>
+<p> Product sales		 4,753    2,609	  8,693  4,967</p>
+<p> Total			  27,562   18,285	 54,151  37,601</p>
+<p>Operating costs and expenses:</p>
+<p> Operating expenses	 21,521  12,609	 41,003  26,338</p>
+<p> Cost of product sales     3,329   1,631	  6,481  3,168</p>
+<p>Selling, genl and administ.</p>
+<p>				   3,919   2,281	  6,533  4,610</p>
+<p> Amortization of goodwill    622     393	  1,140    754</p>
+<p>   Total			29,391  16,914	 55,157  34,870</p>
+<p> Operating income	   (1,829)   1,371	(1,006)  2,731</p>
+<p> Interest expense, net	(907)   (399)	(1,378)  (701)</p>
+<p> Other, net			(83)	 6	  (101)   (14)</p>
+<p>Income (loss) before income</p>
+<p>taxes and extraordinary</p>
+<p>   item			 (2,819)     978	(2,485)  2,016</p>
+<p> Income tax exp. benefit  (1,128)     387	  (994)    802</p>
+<p>Income (loss) before</p>
+<p>   extraordinary item     (1,691)     591	(1,491)  1,214</p>
+<p>Extraordinary item - loss</p>
+<p>on early extinguishment</p>
+<p>   of debt			  ---     ---	  (229)    ---</p>
+<p> Net income (loss)	  (1,691)     591	(1,720)  1,214</p>
+<p>Net income (loss) per share:</p>
+<p>Income (loss) before</p>
+<p>     extraordinary item    (0.13)    0.07	 (0.12)   0.14</p>
+<p>   Extraordinary item	   ---     ---	 (0.02)    ---</p>
+<p>Net income (loss) per</p>
+<p>   share			 (0.13)    0.07	 (0.14)   0.14</p>
+<p>Weighted average shares</p>
+<p>   outstanding		 12,532   8,887	 12,362  8,931</p>
+<p>NOTES: 1997 Q2 loss included a $1.5 million pre-tax or $0.07-per-share one-time charge associated with a reduction in the company's growth plans.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENVILLE, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

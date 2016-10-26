@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="128681" id="root" date="1996-10-19" xml:lang="en">
+<title>YEMEN: Yemen plans to retire over 35,000 civil servants.</title>
+<headline>Yemen plans to retire over 35,000 civil servants.</headline>
+<dateline>SANAA 1996-10-19</dateline>
+<text>
+<p>Yemen plans to retire over 35,000 civil servants under IMF-agreed economic reforms, an official said on Saturday.</p>
+<p>&quot;We are working on plans to retire over 35,000 people who either reached 60 years of age or have been working for the government for over 35 years,&quot; said the Ministry of Labour and Social Development official who requested anonymity.</p>
+<p>In the past, the impoverished Arab state never observed such service regulations, economists said.</p>
+<p>The public sector employs between 650,000 to 700,000 people -- excluding army and police personnel, they added.</p>
+<p>Yemen has raised prices of fuel and electricity, water and telephone rates as part of an economic reform plan launched in March 1995 in agreement with the World Bank and the International Monetary Fund.</p>
+<p>Unemployment, which stood at between 30 and 50 percent in 1994, dropped to 25 percent since it began the reforms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANAA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

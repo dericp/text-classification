@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739989" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: U.S. municipal bond market indicators -- update.</title>
+<headline>U.S. municipal bond market indicators -- update.</headline>
+<text>
+<p>DAILY INDICATORS</p>
+<p>				   Latest     Previous  Last Date</p>
+<p>Blue List  BLT735	 $0.989 bln  $1.056 bln   7/17/97</p>
+<p>Reuters</p>
+<p> 30-day Visible Supply   $6.239 bln  $6.338 bln   7/17/97</p>
+<p> Competitive Visible     $2.245 bln  $2.383 bln   7/17/97</p>
+<p> Negotiated Visible	$3.994 bln  $3.955 bln   7/17/97</p>
+<p>Bond Buyer</p>
+<p> 30-day Visible Supply   $3.287 bln  $2.885 bln   7/17/97</p>
+<p> Competitive Visible     $1.229 bln  $1.105 bln   7/17/97</p>
+<p> Negotiated Visible	$2.057 bln  $1.780 bln   7/17/97</p>
+<p>Bond Buyer 40-Bond Index	5.47%	 5.49%   7/17/97</p>
+<p>(yield to maturity)</p>
+<p>Lipper general muni index    131.92	131.44   7/16/97</p>
+<p>CRB Index  .CRB		 234.19	234.02   7/17/97</p>
+<p>Lehman long govt index	  -0.03	  0.69   7/17/97</p>
+<p>(total return)</p>
+<p>WEEKLY INDICATORS</p>
+<p>Reuters 10-Year GO Index	4.64%	 4.74%   7/17/97</p>
+<p>Bond Buyer 20 Bond Index	5.32%	 5.38%   7/17/97</p>
+<p>Bond Buyer 11 Bond Index	5.24%	 5.31%   7/17/97</p>
+<p>Bond Buyer Revenue Bond Index 5.59%	 5.68%   7/17/97</p>
+<p>Bond Buyer 1-Year Note Index  3.88%	 3.85%   7/16/97</p>
+<p>PSA Municipal Swap Index	3.45%	 3.71%    7/9/97</p>
+<p>----------------------------------------------</p>
+<p>Moody's Weekly Municipal Bond Yield Averages</p>
+<p>			  Latest   Previous    Last Date</p>
+<p>    10-year Aaa	4.64%	4.78%	7/11/97</p>
+<p>    10-year Aa	 4.74%	4.87%	7/11/97</p>
+<p>    20-year Aaa	5.24%	5.29%	7/11/97</p>
+<p>    20-year Aa	 5.32%	5.35%	7/11/97</p>
+<p>    20-year A	  5.35%	5.38%	7/11/97</p>
+<p>    20-year Baa	5.41%	5.48%	7/11/97</p>
+<p>    VMIG weekly	3.49%	3.72%	7/11/97</p>
+<p>Delphis Hanover weekly muni bond yields calculated July 10.*</p>
+<p>		Aaa		Aa	     A	     Baa</p>
+<p> 1998    3.70  3.70    3.85  3.00   4.05  4.05   4.35  4.35</p>
+<p> 2002    4.25  4.30    4.40  4.45   4.65  4.70   4.95  5.00</p>
+<p> 2007    4.65  4.70    4.80  4.85   5.00  5.05   5.30  5.35</p>
+<p> 2012    5.05  5.05    5.20  5.20   5.40  5.40   5.70  5.70</p>
+<p> 2017    5.25  5.25    5.40  5.40   5.60  5.60   5.90  5.90</p>
+<p> 2022    5.30  5.30    5.45  5.45   5.65  5.65   5.95  5.95</p>
+<p> 2027    5.35  5.35    5.50  5.50   5.70  5.70   6.00  6.00</p>
+<p>*from previous calculation on July 3.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

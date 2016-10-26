@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204091" id="root" date="1996-11-20" xml:lang="en">
+<title>LEBANON: Sweden reopens its embassy in Beirut.</title>
+<headline>Sweden reopens its embassy in Beirut.</headline>
+<dateline>BEIRUT 1996-11-20</dateline>
+<text>
+<p>Sweden reopened its embassy in Beirut on Wednesday after a 10-year closure at the height of the 1975-90 civil war, Swedish ambassador to Lebanon Jan Nordlander said.</p>
+<p>Nordlander, who will continue to reside in Damascus, told reporters after meeting Lebanese Foreign Minister Fares Bouez that the Swedish mission in Beirut will be run by charge d'affaires Leif Rensfelet.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

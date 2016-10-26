@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273759" id="root" date="1996-12-23" xml:lang="en">
+<title>BAHRAIN: GCC chief briefs Bahrain emir on Gulf Arab summit.</title>
+<headline>GCC chief briefs Bahrain emir on Gulf Arab summit.</headline>
+<dateline>MANAMA 1996-12-23</dateline>
+<text>
+<p>The secretary-general of the Gulf Cooperation Council (GCC) on Monday briefed Bahrain's emir on the outcome of a Gulf Arab summit in Doha this month which Manama boycotted because of a border and espionage row with Qatar.</p>
+<p>Jameel Hujilan briefed Sheikh Isa bin Sulman al-Khalifa and Foreign Minister Sheikh Mohammad bin Mubarak al-Khalifa on the summit's decision to set up a committee on the decades-long Bahrain-Qatar border row, Bahrain's official Gulf News Agency (GNA) said.</p>
+<p>Sheikh Isa renewed Bahrain's support for the GCC, it added.</p>
+<p>It was Hujilan's first visit to Bahrain since leaders of Saudi Arabia, Qatar, United Arab Emirates, Oman and Kuwait ended the annual GCC summit on December 9.</p>
+<p>Bahrain, locked in a dispute with Qatar over small islands in the Gulf controlled by Bahrain, has put two Qataris on trial for spying.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

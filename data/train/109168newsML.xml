@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109168" id="root" date="1996-10-10" xml:lang="en">
+<title>ISRAEL: Israel Sept trade deficit narrows to $705 mln.</title>
+<headline>Israel Sept trade deficit narrows to $705 mln.</headline>
+<dateline>TEL AVIV 1996-10-10</dateline>
+<text>
+<p>Israel's trade deficit in September totalled $705 million, the Central Bureau of Statistics said.</p>
+<p>	     Sept 96   Aug 96     Sept 95</p>
+<p>Exports     1,609     1,290	1,471</p>
+<p>Imports     2,316     2,346	1,941</p>
+<p>Balance     - 705    -1,055	- 470</p>
+<p>Note - Figures are in millions of dollars.</p>
+<p>In the first nine months of the year the trade deficit totalled $8.158 billion compared with $7.344 billion in the same period of last year.</p>
+<p>The statistics bureau said that in the past few months imports have stabilised while exports have grown slightly and therefore the trade deficit has contracted a bit.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273383" id="root" date="1996-12-23" xml:lang="en">
+<title>FRANCE: Elf Aquitaine cuts stake in Technip.</title>
+<headline>Elf Aquitaine cuts stake in Technip.</headline>
+<dateline>PARIS 1996-12-23</dateline>
+<text>
+<p>Oil group Elf Aquitaine said on Monday that it had sold 500,000 shares in Technip on the stock market, cutting its stake in the French engineering group to 6.2 percent from 9.4 percent previously.  </p>
+<p>In a statement Elf Aquitaine also confirmed that it sold its remaining 10 percent interest or about 400,000 shares in Compagnie Generale de Geophysique to Internationale de Services Industriels et Scientifiques (Isis), a unit of Institut Francais du Petrole (IFIP).</p>
+<p>It also sold to Isis 3.6 percent of Coflexip Stena Offshore.</p>
+<p>Elf retains a 1.1 percent stake in Coflexip while the Elf Atochem unit will keep a 3.1 percent interest in Coflexip, a company spokesman said.</p>
+<p>-- Paris newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

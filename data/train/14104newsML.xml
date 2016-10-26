@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14104" id="root" date="1996-08-26" xml:lang="en">
+<title>ETHIOPIA: One person killed, 20,000 moved in Ethiopia flood.</title>
+<headline>One person killed, 20,000 moved in Ethiopia flood.</headline>
+<dateline>ADDIS ABABA 1996-08-26</dateline>
+<text>
+<p>One person was killed and 20,000 evacuated after a river burst its banks in central Ethiopia, the Ethiopian News Agency reported on Monday.</p>
+<p>The Awash river flooded on Friday, submerging the Wonji Sugar Estate. The agency said plantation workers whose homes were flooded, some 100 km (60 miles) east of Addis Ababa, were moved to nearby Nazareth town.</p>
+<p>Some 2,000-hectare (4,942-acre) of cane fields -- about half of the plantation -- and the vast building housing Wonji Sugar Factory were submerged in the waters, the agency reported.</p>
+<p>It said the Ethiopian military had to use helicopters and inflatable rubber boats on Sunday to rescue Wonji residents.</p>
+<p>Water Resources Minister Shiferaw Jarso said floods followed the release of 300 cubic metres of water per second into the river from nearby Koka Dam, which had reached dangerous levels.</p>
+<p>Shiferaw warned residents of the area to move to emergency shelters prepared by the government because staying could be hazardous. Ethiopian authorities say shelters are stocked with food, blankets and medicine for up to 150,000 in the area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ETHPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADDIS ABABA"/>
+<dc element="dc.creator.location.country.name" value="ETHIOPIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

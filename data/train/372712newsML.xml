@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="372712" id="root" date="1997-02-12" xml:lang="en">
+<title>USA: USDA allows field work in advance of CRP expiry.</title>
+<headline>USDA allows field work in advance of CRP expiry.</headline>
+<dateline>WASHINGTON 1997-02-12</dateline>
+<text>
+<p>Farmers will be allowed to begin field preparations for fall-planted crops in advance of expiration of Conservation Reserve contracts, U.S. Agriculture Department officials said Wednesday.</p>
+<p>As in the past, field preparation can begin 90 days prior to expiration without any penalty on rental payment. Work can begin as early as May 1 in arid areas but two months' rent must be forfeited for such an early start.</p>
+<p>Farmers can use the &quot;early out&quot; option at any point. Payment would be prorated to the date land left the reserve. Contract years begin each Oct 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

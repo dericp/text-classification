@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="749026" id="root" date="1997-07-23" xml:lang="en">
+<title>ARGENTINA: Argentine monthly grain/oilseed shipments.</title>
+<headline>Argentine monthly grain/oilseed shipments.</headline>
+<dateline>BUENOS AIRES 1997-07-23</dateline>
+<text>
+<p>Agriculture Secretariat May grain shipment figures (tonnes), followed by January-May totals (year-earlier in brackets).</p>
+<p> Wheat	380,765   (351,281)    6,137,842  (2,512,628)</p>
+<p> Maize    1,871,471 (1,122,343)    6,004,436  (3,116,369)</p>
+<p> Sorghum    172,937    226,223	 421,359    (342,008)</p>
+<p> Barley	38,240	(nil)	 198,459	(6,888)</p>
+<p> Soybeans   206,004   (235,765)	393,413  (1,027,500)</p>
+<p> Sunseed	1,341    (40,935)	  8,737    (525,818)</p>
+<p> Others	 5,777     (9,962)	 14,990     (71,270)</p>
+<p>Principal destinations in May were as follows (tonnes):  </p>
+<p>WHEAT: Brazil 324,939; Peru 2,528; Holland 604</p>
+<p>MAIZE: Iran 221,270; Malaysia 198,042; Korea 185,550; Japan 184,424</p>
+<p>SOYBEANS: Japan 52,296; France 36,941; Spain 34,250; Italy 33,000</p>
+<p>((-- Buenos Aires Newsroom +541 318-0655))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

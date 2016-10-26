@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565783" id="root" date="1997-05-07" xml:lang="en">
+<title>CZECH REPUBLIC: DIRECT BOND TRADES ON THE CZECH PSE - MAY 7.</title>
+<headline>DIRECT BOND TRADES ON THE CZECH PSE - MAY 7.</headline>
+<dateline>PRAGUE 1997-05-07</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price  Volume  Turnover</p>
+<p> CAC 11,9/98		  99.50     99.50	1500   15673.710</p>
+<p> CEZ 10,90/01		 98.75     99.70	4000   43437.118</p>
+<p> CEZ 11,0625/08	     99.45     99.90     13000  142046.232</p>
+<p> CEZ 11,3/05		  99.75    100.49     13100  129879.591</p>
+<p> CEZ 14 3/8 /01	    102.25    102.25	1000   10648.260</p>
+<p> CSOB 11,00/00		99.32    100.75     76736  842518.192</p>
+<p> CSOB 11,125/97	     99.40     99.40	4444   95406.386</p>
+<p> IPB 11,125/98	     100.00    100.00	2500   25934.800</p>
+<p> IPB VAR/01		   98.50     98.80	5500   54210.365</p>
+<p> KB 11,1/98		   99.10     99.10	1000   10887.420</p>
+<p> KB 11,4/01		  100.00    100.15	7000   75027.500</p>
+<p> KB 2 VAR/99		  99.95    100.05	3000   29922.680</p>
+<p> KB VAR/02		    99.85     99.85	3400   34959.752</p>
+<p> NOVA HUT 12,7/03	  100.05    100.50	2000   21261.500</p>
+<p> RYCHNOV/KN 13,1/02	100.15    100.15	  74     765.076</p>
+<p> SPT TELCOM 12,5/99	101.20    101.20	1000   11168.610</p>
+<p> ST.DLUHOP. 8,7/00	  95.80    100.17     14000  140129.310</p>
+<p> ST.DLUHOP.10,55/02	 99.55     99.65	4000   40878.280</p>
+<p> ST.DLUHOP.10,95/01	104.65    105.20     17000  192126.200</p>
+<p> ST.DLUHOP.11,4/98	 100.76    101.90	 535    5697.675</p>
+<p> ST.DLUHOP.9,15/00	  96.80     99.60     13000  135712.160</p>
+<p> ST.DLUHOP.9,4/97	   99.91     99.91	4000   41802.622</p>
+<p> ST.DLUHOP.9,45/01	 100.50    100.85	5000   51494.270</p>
+<p> SKOFIN 11,625/98	   99.55     99.60	6800   69699.157</p>
+<p> ZETOR 10 7/8 /00	   98.69     98.69	1000   10325.150</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45425" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: CompUSA completes leases on three new stores.</title>
+<headline>CompUSA completes leases on three new stores.</headline>
+<dateline>DALLAS 1996-09-11</dateline>
+<text>
+<p>CompUSA Inc said Wednesday it has completed three lease agreements for new locations in Connecticut, Washington and Wisconsin. Earlier this year the company said it would open 25 to 30 new stores in fiscal 1997.</p>
+<p>The Connecticut and Washington superstores, to be 26,900 sq.ft. and 30,600 sq.ft. respectively, are scheduled to open by December, and the 22,200 sq.ft. Wisconsin store would open in the Spring of 1997, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

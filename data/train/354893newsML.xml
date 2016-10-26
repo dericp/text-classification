@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="354893" id="root" date="1997-02-04" xml:lang="en">
+<title>USA: Weirton sees Q1 hurt by hot mill outage.</title>
+<headline>Weirton sees Q1 hurt by hot mill outage.</headline>
+<dateline>WEIRTON, W. Va. 1997-02-04</dateline>
+<text>
+<p>Weirton Steel Corp said it expects 1997 first quarter operating performance to be hurt by about $5 million by an outage at its hot strip mill.</p>
+<p>The outage, which began late last week, was caused by an electrical short circuit.  </p>
+<p>The hot strip mill was idled January 31, after an electrical short circuit halted a 7,000 horsepower motor which drives the mill's reversing rougher, Weirton said.</p>
+<p>The reversing rougher is a step in reducing nine-inch thick steel slabs into thin coils of steel.</p>
+<p>Originally, the company said, it expected the hot strip mill to return to service over the weekend.  However, it now expects the mill to resume operations by the end of this week.</p>
+<p>&quot;The necessary repairs, installation and testing of replacement components means that we will incur about a week of downtime on our hot strip mill in addition to some of our other downstream finishing operations,&quot; Weirton said.</p>
+<p>The company said it plans to mitigate the impact of the hot strip mill outage by scheduling one additional turn per week on the unit once it has been returned to service.</p>
+<p>Weirton said the loss of production from this incident, together with minor disruptions in its primary metals facilities in January, will reduce the company's first quarter operating income by about $5 million.</p>
+<p>In early trading, the company's stock was down an 1/8 at 2-7/8.</p>
+<p>((-- Jim Brumm 212-859-1710.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEIRTON, W. Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

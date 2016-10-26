@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284075" id="root" date="1997-01-02" xml:lang="en">
+<title>BELGIUM: Belgian share market closing report.</title>
+<headline>Belgian share market closing report.</headline>
+<dateline>BRUSSELS 1997-01-02</dateline>
+<text>
+<p>The Brussels bourse got off to a bad start of the new year, closing 1.29 percent lower in a session marred by technical problems.</p>
+<p>The Bel-20 index closed down 24.44 points at 1,871.05. Nineteen of the index components closed lower, only oil group Petrofina ended unchanged at 10,100 francs.</p>
+<p>The start of trade was delayed by almost three hours as the bourse's computerised trading system was unable to cope with the New Year date change.</p>
+<p>Dealers said that trade was thin as many investors are still on holidays. Trade is seen returning to normal on Monday.  </p>
+<p>&quot;It's difficult to work because the market is empty,&quot; said trader Paul de Lophem at Mignon, Hanart, Declerck.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

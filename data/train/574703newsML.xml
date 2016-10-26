@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574703" id="root" date="1997-05-11" xml:lang="en">
+<title>JAPAN: N.Korea says military joins work to boost harvest.</title>
+<headline>N.Korea says military joins work to boost harvest.</headline>
+<dateline>TOKYO 1997-05-11</dateline>
+<text>
+<p>North Korea announced on Sunday that its armed forces were joining an all-out battle against food shortages in the communist nation.</p>
+<p>An official Korean Radio report, monitored in Tokyo, said the armed forces would take on any agricultural task to ensure a &quot;bumper harvest&quot; this year.  </p>
+<p>The radio said meetings of commanding officers and soldiers from the army, navy, and airforce, communist party officials and people from all walks of life had decided on a war on food shortages caused by two years of record floods.</p>
+<p>The meetings agreed that soldiers &quot;must further solidify the unity of the army and people and achieve a bumper harvest this year without fail by launching into the struggle to assist rural areas and actively contribute to agricultural production.&quot;</p>
+<p>Soldiers would take &quot;a plunge into water or fire for any task to increase grain output for the people,&quot; the radio said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245467" id="root" date="1996-12-10" xml:lang="en">
+<title>USA: Chip stocks extend gains after upbeat report.</title>
+<headline>Chip stocks extend gains after upbeat report.</headline>
+<dateline>NEW YORK 1996-12-10</dateline>
+<text>
+<p>Semiconductor stocks, led by sector flagship Intel Corp, were mostly higher after the release of November figures that offered new evidence of a rebound in demand for computer chips in North America.</p>
+<p>&quot;I didn't think it was a startling figure, but it was a good one,&quot; J.P. Morgan chip analyst Terry Ragsdale said of the rise in November demand versus October.</p>
+<p>Intel swelled 1-3/8 to 131-1/2. Other active stocks included Integrated Device Technology Inc, which gained 1/4 to 14-1/2, and SGS-Thomson Microelectronics NV, up 3/4 to 71-3/8 in U.S. trading.  </p>
+<p>Monday, the Semiconductor Industry Association reported the November book-to-bill ratio -- the industry's key monthly indicator -- rose to 1.15 in November from a revised figure of 1.11 in October, its highest level in more than a year.</p>
+<p>&quot;It was the fourth month in a row of sequential orders growth,&quot; Ragsdale said. &quot;It just tends to confirm the view that we are at the beginning of a cyclical recovery,&quot; he said.</p>
+<p>The 16-stock Philadelphia Semiconductor Index .SOXX opened broadly higher Tuesday, but fell back to show only slight gains by mid-morning. The index gained 2.04 points to 254.32, or roughly 0.81 percent on the day.  </p>
+<p>Half of the component stocks traded in positive territory in early trading, while two were unchanged and four stocks lower.</p>
+<p>Laggards included chipset maker VLSI Technology Inc, which lost 1/2 to 27-7/8. Also, among semiconductor capital equipment suppliers, Applied Materials Inc was off 3/4 to 39, and Novellus Systems Inc was down 1/2 to 61-3/4.</p>
+<p>The fourth index component to lose ground was programmable logic maker Lattice Semiconductor Corp, which dropped 7/8 to 45-1/8. Xilinx Inc shed 3/8 to 43-1/2.</p>
+<p>-- E. Auchard, New York newsdesk, 212-859-1736</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

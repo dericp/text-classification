@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162317" id="root" date="1996-11-03" xml:lang="en">
+<title>COLOMBIA: Colombian police destroy huge drug laboratory.</title>
+<headline>Colombian police destroy huge drug laboratory.</headline>
+<dateline>BOGOTA 1996-11-03</dateline>
+<text>
+<p>Anti-narcotics police destroyed a huge drug laboratory and seized more than 2,300 pounds (1,050 kg) of cocaine in a raid early on Sunday in Colombia's eastern Vichada province, authorities said.</p>
+<p>Col. Leonardo Gallego, chief of the anti-narcotics division of the National Police, said vast quantities of precursor chemicals used for processing cocaine were also seized in the raid on the clandestine drug lab.</p>
+<p>Workers at the lab, which was nestled in a jungle-covered area and built to house at least 60 people, fled as police swooped down on it by helicopter, Gallego said.</p>
+<p>The lab, which Gallego described as having &quot;a very high production capacity,&quot; was the second major drug factory destroyed by police in less than a week.</p>
+<p>Last Thursday, in southeastern Vaupes province, police destroyed a facility with the capacity to produce more than 2,200 pounds (1,000 kg) of cocaine a day.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

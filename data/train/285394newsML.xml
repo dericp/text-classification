@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="285394" id="root" date="1997-01-03" xml:lang="en">
+<title>USA: RESEARCH ALERT - Chile's Iansa started.</title>
+<headline>RESEARCH ALERT - Chile's Iansa started.</headline>
+<text>
+<p>-- Santander Investment said on Friday it had started coverage of Chile's Industria Azucarera Nacional SA (Iansa) with a buy rating.</p>
+<p>-- Analyst Heinrich Lessau wrote in a report that Santander expected the agribusiness company to report earnings per share of 7.8 pesos in 1996, 9.5 pesos in 1997 and 11.1 pesos in 1998.</p>
+<p>-- &quot;The 12- to 18-month target price of 112 pesos implies 23.1 percent upside from the current level,&quot; he wrote. Iansa is Chile's sole sugar producer.</p>
+<p>-- The company's shares were up 1.10 to 92.10 in Santiago trade.</p>
+<p>((-- Ian Simpson, Wall Street desk, (212) 859-1879))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

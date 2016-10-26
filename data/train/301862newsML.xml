@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="301862" id="root" date="1997-01-12" xml:lang="en">
+<title>FRANCE: Chinese minister hails positive Algerian development.</title>
+<headline>Chinese minister hails positive Algerian development.</headline>
+<dateline>PARIS 1997-01-12</dateline>
+<text>
+<p>China's Foreign Affairs Minister Qian Qichen, in a stopover in Algiers, on Sunday hailed what he called &quot;positive development&quot; in violent Algeria, the Algerian official news agency APS reported.</p>
+<p>&quot;Qian Qichen declared he was very happy at the positive development of the situation in Algeria,&quot; APS quoted the Chinese minister as saying.</p>
+<p>He held talks with his Algerian counterpart Ahmed Attaf and the two men pledged to strengthen ties between their countries.</p>
+<p>About 60,000 people have died in Algeria's violence since early 1992 when the authorities cancelled a general election in which Islamists had taken a commanding lead.</p>
+<p>Algeria's President Liamine Zeroual visited China last October, the first such visit by an Algerian president in the past two decades.</p>
+<p>&quot;The president's visit to China opened more prospects for cooperation,&quot; Attaf said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-12"/>
+  </code>
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

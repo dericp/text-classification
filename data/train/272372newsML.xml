@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272372" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Two indicted after Wells Fargo theft in Ohio.</title>
+<headline>Two indicted after Wells Fargo theft in Ohio.</headline>
+<dateline>CLEVELAND 1996-12-23</dateline>
+<text>
+<p>Two people were indicted by a U.S. grand jury in connection with the November theft of about $2.5 million in currency from a Wells Fargo office in Youngstown, Ohio, a federal prosecutor said on Monday.</p>
+<p>Leesa D. Mazon, 27, of Struthers, Ohio, who was a Wells Fargo employee, and Jeffery John Chicase, 33, of Poland, Ohio, were charged with conspiracy and bank larceny, Emily Sweeney, U.S. Attorney for the Northern District of Ohio, said in a statement. In addition, Chicase was charged with receiving stolen property, she said.</p>
+<p>Wells Fargo is a unit of Borg-Warner Security Corp.</p>
+<p>If convicted, Mazon could face up to 15 years in prison and Chicase could face up to 20 years, Sweeney said. The two could also be fined, Sweeney said.</p>
+<p>((Cleveland Newsdesk, Susan Zimmerman 216-579-0077))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

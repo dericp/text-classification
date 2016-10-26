@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246190" id="root" date="1996-12-10" xml:lang="en">
+<title>EL SALVADOR: El Salvador says abiding by ACPC rules.</title>
+<headline>El Salvador says abiding by ACPC rules.</headline>
+<dateline>SAN SALVADOR 1996-12-09</dateline>
+<text>
+<p>El Salvador is exporting its coffee in accordance with the quota scheme agreed by producing nations, Ruben Pineda, the executive director of the Salvadorean Cafe Council, told Reuters Monday.</p>
+<p>Speaking after market rumours that El Salvador was front loading exports against the CSCE March contract to circumvent ACPC limits, Pineda said &quot;the sale of coffee to March will be in accordance with the numbers which El Salvador has negotiated&quot;.</p>
+<p>Nations belonging to the Association of Coffee Producing Countries (ACPC) have agreed to an export program to cap sales, which is divided into two semesters.</p>
+<p>El Salvador's coffee crop is mostly harvested between January and March. Pineda said the country's exports in December should total four percent of the expected harvest of 2.9 million bags of 46 kilos.</p>
+<p>Agreed quotas for the semester between January and June 1997 allow exports of 70 percent of El Salvador's crop, council official Tomas Bonilla said.</p>
+<p>--Alberto Barrera, El Salvador bureau +503 223 1394</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

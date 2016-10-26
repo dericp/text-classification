@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352657" id="root" date="1997-02-03" xml:lang="en">
+<title>CHINA: China interbank market rates (CHIBOR) mixed.</title>
+<headline>China interbank market rates (CHIBOR) mixed.</headline>
+<dateline>SHANGHAI 1997-02-03</dateline>
+<text>
+<p>Following is the China Interbank Offered Rate (CHIBOR) for Monday issued by the official Xinhua news agency on behalf of the People's Bank of China, the central bank.</p>
+<p>The figures represent weighted averages and not closing prices and are annual percentage rates.</p>
+<p>		 1DAY   7DAY   20DAY  30DAY  60DAY  90DAY  120DAY</p>
+<p> MONDAY     11.101 11.317 11.215  11.789 11.819 11.281 12.212</p>
+<p> PREVIOUS   11.754 11.967 11.467  11.585 11.720 12.094 11.856</p>
+<p>Turnover plunged to 2.0 billion yuan from 4.6 billion yuan with most state banks and short-term financial centres, money brokerages run by the central bank, reluctant to trade with the approach of the China lunar new year on February 7.</p>
+<p>In addition, the closure of the Shanghai and Shenzhen stock exchanges greatly reduced money demand on the interbank market, traders said.</p>
+<p>The two exchanges closed on Monday on the lunar new year holiday and trading will not resume until February 17.</p>
+<p>&quot;The rates are likely to move in a narrow range in very thin trading during the lunar new year period,&quot; one trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266877" id="root" date="1996-12-19" xml:lang="en">
+<title>HONDURAS: Honduran president ask Peru to protect ambassador.</title>
+<headline>Honduran president ask Peru to protect ambassador.</headline>
+<dateline>TEGUCIGALPA, Honduras 1996-12-19</dateline>
+<text>
+<p>Honduran President Carlos Roberto Reina on Thursday asked Peruvian President Alberto Fujimori to protect the Honduran ambassador to Peru, one of the hostages held by leftist guerrillas in the Japanese embassy residence in Lima.</p>
+<p>&quot;My only message to President Fujimori is the following: when a diplomat is accredited, the state assumes the responsibility for his personal protection,&quot; Reina said in a statement released by his office.</p>
+<p>&quot;This is the mission that the Peruvian government...should exercise in the dramatic moments that we are experiencing.&quot;</p>
+<p>Honduran ambassador Eduardo Martil is among about 400 hostages held inside the residence since the guerrillas seized the building during a reception on Tuesday night.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEGUCIGALPA, Honduras"/>
+<dc element="dc.creator.location.country.name" value="HONDURAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

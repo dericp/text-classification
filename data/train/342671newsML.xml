@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="342671" id="root" date="1997-01-29" xml:lang="en">
+<title>JAPAN: Stock ratings list-Nikko Research (Jan 29).</title>
+<headline>Stock ratings list-Nikko Research (Jan 29).</headline>
+<dateline>TOKYO 1997-01-29</dateline>
+<text>
+<p>Follows is a list of ratings on Wednesday by Nikko Research Center Ltd.</p>
+<p>--------------------------------------------------</p>
+<p>First time rated:</p>
+<p>Shinko Electric Industries Co Ltd -- &quot;1&quot;</p>
+<p>--------------------------------------------------</p>
+<p>Rating unchanged:</p>
+<p>T.Hasegawa Co Ltd -- &quot;1&quot;</p>
+<p>Ibiden Co Ltd -- &quot;1&quot;</p>
+<p>Q.P. Corp -- &quot;2&quot;</p>
+<p>--------------------------------------------------</p>
+<p>The research institute assigns ratings as follows:</p>
+<p>&quot;1&quot; - issues expected to outperform the key 225-share Nikkei average by more than 10 percentage points over the following six months.</p>
+<p>&quot;2&quot; - issues seen moving within 10 percentage points in either direction of tthe key 225-share Nikkei average over the next six months.</p>
+<p>&quot;3&quot; - issues expected to underperform the key 225-share Nikkei average by morre than 10 percentage points over the following six months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

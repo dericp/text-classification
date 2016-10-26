@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="741712" id="root" date="1997-07-20" xml:lang="en">
+<title>AFGHANISTAN: Bombing raid on Kabul kills seven, wounds 12.</title>
+<headline>Bombing raid on Kabul kills seven, wounds 12.</headline>
+<dateline>KABUL 1997-07-20</dateline>
+<text>
+<p>At least seven people were killed and 12 wounded in a raid by a lone aircraft on suburban Kabul at midday on Sunday, residents at the scene near the city's airport said.</p>
+<p>&quot;Most of the dead and wounded came from a house where the owner was hosting a lunch for his friends and relatives,&quot; one said.</p>
+<p>The bombs hit the roof of the two-storey concrete house in the Khair Khana district and relatives and neighbours were digging through the rubble in a search for survivors, witnesses said.</p>
+<p>As the aircraft flew over the capital, Taleban guns erupted with anti-aircraft fire, but the thumps of the bombs exploding all but drowned out the chatter of small arms fire.</p>
+<p>Sunday's midday raid took place less than 12 hours after another raid in which bombs also landed close to the airport.</p>
+<p>&quot;The air raid did not hit inside the airport perimiter. Two or three bombs landed close to the residential area north of here, but there are no reports of casualties.&quot; Faizullah, head of military security at the airport said on Sunday morning before the second attack.</p>
+<p>The airport is used for both military and civilian traffic and has been frequently targetted in the past. Both the International Committee of the Red Cross and the United Nations use it for the transport of staff and supplies. Both agencies had planes land between the raids.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KABUL"/>
+<dc element="dc.creator.location.country.name" value="AFGHANISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

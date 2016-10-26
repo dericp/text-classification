@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126890" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Nebraska fed cattle light at $114/dressed - trade.</title>
+<headline>Nebraska fed cattle light at $114/dressed - trade.</headline>
+<dateline>CHICAGO 1996-10-18</dateline>
+<text>
+<p>Nebraska feedlot cattle markets near midday Friday were slow, with sales at $114.00 per cwt on a dressed basis, up $1.00 from the bulk of this week's activity, market sources said.</p>
+<p>About 200 to 300 head traded to a smaller packer, and quality was said to high, but not too extreme, they said.</p>
+<p>Cattle next week were expected to be priced at $115.00/dressed amid expectations for strong beef demand and tight supplies of finished cattle.</p>
+<p>Next week's showlist is expected near unchanged with this week's, which was estimated at 55,000 head.</p>
+<p>--Chicago newsdesk 312-408-8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

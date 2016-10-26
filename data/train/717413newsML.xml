@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="717413" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: CBOT corn deliveries - July 9.</title>
+<headline>CBOT corn deliveries - July 9.</headline>
+<dateline>CHICAGO 1997-07-09</dateline>
+<text>
+<p>CBOT corn delivery notices for</p>
+<p>July 10 (In thousand bushels) -</p>
+<p>LOCATION: ST. LOUIS DISTRICT	    GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL    1    2    3</p>
+<p>1051 ADM-ST.LOUIS ELEVATOR	  190	  10  180</p>
+<p>				TOTAL     190</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	ISSUES  CUSTOMER  HOUSE</p>
+<p>135  RAND		 20	 20</p>
+<p>225  AGE		  15	 15</p>
+<p>287  E.D.+F MAN	  5	  5</p>
+<p>405  FCC		   5	  5</p>
+<p>430  ABN AMRO	   65	 65</p>
+<p>455  IOWA GRAIN	  5	  5</p>
+<p>532  LIND-WALD	  25	 25</p>
+<p>560  MERRILL	    20	 20</p>
+<p>685  O'BRIEN	    25	 25</p>
+<p>980  WITTER		5	  5</p>
+<p>     TOTAL	     190	190</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	 STOPS  CUSTOMER  HOUSE</p>
+<p>044  LFG C+I	    15	 15</p>
+<p>090  CIS		   5	  5</p>
+<p>225  AGE		   5	  5</p>
+<p>405  FCC		  10	 10</p>
+<p>455  IOWA GRAIN	 10	 10</p>
+<p>469  LIT AMERIC	 95	 95</p>
+<p>685  O'BRIEN	    15	 15</p>
+<p>825  ING		   5	  5</p>
+<p>905  ADM		  10	 10</p>
+<p>980  WITTER	     20	 20</p>
+<p>     TOTAL	     190	190</p>
+<p>	 LAST DAY ASSIGNED:  03/12/97</p>
+<p>((Chicago newsdesk 312 408 8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205861" id="root" date="1996-11-21" xml:lang="en">
+<title>PORTUGAL: SOCCER-JOAO ALVES RETURNS AS BOAVISTA COACH.</title>
+<headline>SOCCER-JOAO ALVES RETURNS AS BOAVISTA COACH.</headline>
+<dateline>LISBON 1996-11-21</dateline>
+<text>
+<p>Former Portuguese international Joao Alves has been named Boavista coach, replacing Yugoslav Zoran Filipovic who quit after the team were thrashed 5-1 by Italy's Internazionale in the UEFA Cup on Tuesday.</p>
+<p>Club officials said on Thursday Alves, who coached the Portuguese first division side in the 1986/87 and 1990/91 seasons, had signed a contract until the end of the 1997-98 season.</p>
+<p>Alves was sacked by Spanish side Salamanca two months ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

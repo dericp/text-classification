@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238419" id="root" date="1996-12-05" xml:lang="en">
+<title>FINLAND: Baltic Ice - Gulf of Bothnia still almost ice-free.</title>
+<headline>Baltic Ice - Gulf of Bothnia still almost ice-free.</headline>
+<dateline>HELSINKI 1996-12-05</dateline>
+<text>
+<p>Ice levels were still well below average with only bays at the far northern end of the Gulf of Bothnia frozen above 65 degrees north, the Finnish Institute of Marine Research said on Thursday.</p>
+<p>The situation was little changed from Monday.</p>
+<p>Fast ice off the Finnish port of Kemi and off the port of Lulea in Sweden was between five and 10 centimetres thick, and new ice outside Oulu in Finland was transforming to fast ice, it said in its bi-weekly report.</p>
+<p>Ports further south were still completely clear, with water temperatures ranging from one to five degrees Celsius in the Gulf of Bothnia and from three to six degrees in the Gulf of Finland, the institute said.</p>
+<p>(Temperatures of nearby isotherms, degrees Celsius)</p>
+<p> PORT	    TEMP ICE TYPE  THICKNESS  RESTRICTIONS</p>
+<p> St Petersburg  3   None</p>
+<p> Vyborg	   3   None</p>
+<p> Ventspils	6   None</p>
+<p> Riga	     5   None</p>
+<p> Parnu	    5   None</p>
+<p> Tallinn	  5   None</p>
+<p> Kotka, Hamina  4   None</p>
+<p> Porvoo	   5   None</p>
+<p> Helsinki	 5   None</p>
+<p> Rauma	    2   None</p>
+<p> Stockholm	5   None</p>
+<p> Oulu	    n/a  New/fast  n/a</p>
+<p> Kemi	    n/a  Fast	5-10</p>
+<p> Lulea	   n/a  Fast	5-10</p>
+<p> Kokkola	  1   None</p>
+<p> Sundsvall	3   None</p>
+<p> Ornskoldsvik   2   None</p>
+<p>(NOTE: New ice - forming, thin and still moving. Fast ice - not moving level flat ice.)</p>
+<p>-- Roland Moller, Helsinki newsroom +358 0 6805 0242</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

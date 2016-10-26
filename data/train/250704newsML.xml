@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250704" id="root" date="1996-12-11" xml:lang="en">
+<title>AUSTRALIA: RTRS-Rate cut good for small business - Canberra.</title>
+<headline>RTRS-Rate cut good for small business - Canberra.</headline>
+<dateline>CANBERRA 1996-12-11</dateline>
+<text>
+<p>Australian Small Business Minister Geoff Prosser said the interest rate cut announced by the Reserve Bank earlier on Wednesday would boost small business consumer confidence.</p>
+<p>&quot;The cut will provide an important boost to small business consumer confidence and further increase the spending power of the customers of small business as well as making the businesses more competitive,&quot; Prosser said in a statement.</p>
+<p>Prosser said it would provide impetus for small business to hire more staff and invest in capital and new technology.</p>
+<p>The Reserve Bank said it would reduce interest rates to 6.0 percent from 6.5 percent.</p>
+<p>The timing of the movement took markets by surprise after rates were cut on November 6 and July 31 by the same amount.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

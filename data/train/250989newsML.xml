@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250989" id="root" date="1996-12-11" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Dec 11.</title>
+<headline>PRESS DIGEST - Morocco - Dec 11.</headline>
+<dateline>RABAT 1996-12-11</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Crown Prince Mohamed presides over opening of the American-Moroccan trade and investment office in New York.</p>
+<p>- The United States pays homage to King Hassan's leadership.</p>
+<p>L'OPINION</p>
+<p>- Finance Minister Mohamed Kabbaj says despite forecasts of a 10 percent increase of the Gross Domestic Product, debt will absorb more than 80 percent of it.</p>
+<p>AL-BAYANE</p>
+<p>- Crown Prince Mohamed hands message from King Hassan to U.S. President Bill Clinton over the situation in the Middle East.</p>
+<p>AL-MAGHRIB</p>
+<p>- Human rights Organisation (OMDH) says consolidation of a state of law is a necessary condition to ensure economic development and political stability.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

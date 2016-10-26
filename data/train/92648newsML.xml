@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92648" id="root" date="1996-10-02" xml:lang="en">
+<title>BELGIUM: Union Miniere announces 1997 copper premiums.</title>
+<headline>Union Miniere announces 1997 copper premiums.</headline>
+<dateline>BRUSSELS 1996-10-02</dateline>
+<text>
+<p>Belgian non-ferrous metals group Union Miniere SA (UM) said its official 1997 premium applying to sales of copper products produced at its Belgian Olen refinery will be $27 a tonne for average pricing.</p>
+<p>The premium for unknown pricing will be $40 a tonne.</p>
+<p>In a statement dated September 30, UM said the premiums represent cuts of respectively $3 and $5 a tonne compared with its 1996 premiums.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184006" id="root" date="1996-11-12" xml:lang="en">
+<title>PORTUGAL: Yield falls on Portugal 3-yr bonds.</title>
+<headline>Yield falls on Portugal 3-yr bonds.</headline>
+<dateline>LISBON 1996-11-12</dateline>
+<text>
+<p>The following is the result of the Portuguese Treasury's auction of 20 billion escudos of three-year fixed-rate bonds (OT).</p>
+<p>    ISSUER: Republic of Portugal   MATURITY:  23 March 1999</p>
+<p>    COUPON: 8.50 pct   AVERAGE ACCEPTED YIELD: 6.59995</p>
+<p>BID AMOUNT/COVER: 20 billion escudos</p>
+<p>HIGHEST ACCEPTED YIELD: 6.60 pct</p>
+<p>LOWEST ACCEPTED YIELD : 6.59 pct</p>
+<p>PAYMENT FREQUENCY: Annual</p>
+<p>AVERAGE ACCEPTED YIELD AT PREVIOUS AUCTION OF THREE-YEAR BONDS: 6.7995 PCT</p>
+<p>NOTES: The issue is fungible. The auction takes to around 270 billion escudos the total amount of the bonds issued.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

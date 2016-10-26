@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107142" id="root" date="1996-10-10" xml:lang="en">
+<title>SWITZERLAND: OLYMPICS-GOODWILL WINTER GAMES PLANNED BY END OF CENTURY.</title>
+<headline>OLYMPICS-GOODWILL WINTER GAMES PLANNED BY END OF CENTURY.</headline>
+<dateline>LAUSANNE, Switzerland 1996-10-10</dateline>
+<text>
+<p>American media magnate Ted Turner hopes to set up a new Goodwill Games event for winter sports by the end of the century.</p>
+<p>Officials from Turner's company told the International Olympic Committee (IOC) on Thursday about their hopes of staging the event in the 1999-2000 winter.</p>
+<p>The idea of Goodwill Summer Games between the East and West was conceived during the Cold War when international sport was marred by political boycotts of the 1980 and 1984 Olympics.</p>
+<p>Turner has continued to back the event, however, after the political changes in the last decade.</p>
+<p>Winter Games would probably have to take place in venues where all the costly facilities such as bobsleigh tracks and ice skating rinks had already been built.</p>
+<p>Turner official Harvey Schiller said organisers were talking about holding the first event in the Norwegian town of Lillehammer which staged the 1994 Winter Olympics.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAUSANNE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

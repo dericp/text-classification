@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="640916" id="root" date="1997-06-05" xml:lang="en">
+<title>FINLAND: MAJORITY OF FINNS AGAINST JOINING EMU -AGENCY.</title>
+<headline>MAJORITY OF FINNS AGAINST JOINING EMU -AGENCY.</headline>
+<dateline>HELSINKI 1997-06-05</dateline>
+<text>
+<p>Fourty-four percent of Finns oppose joining European economic and monetary union (EMU) against 36 percent in favour, Finnish news agency STT reported on Thursday, citing a new opinion poll.</p>
+<p>The poll was the most recent made by research company Taloustutkimus, and it was made for the Conservative Party's Verkkouutiset paper, STT said, adding that attitudes had not changed much during spring.</p>
+<p>The poll covered 2,000 people, it said, but did not say when it had been made.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 242, news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="G151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157963" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Flight 800 fuel probe tests show no sign of sparks.</title>
+<headline>Flight 800 fuel probe tests show no sign of sparks.</headline>
+<byline>Ellen Wulfhorst</byline>
+<dateline>NEW YORK 1996-10-30</dateline>
+<text>
+<p>Tests on two sections of fuel probes from TWA Flight 800 that might have provided clues to why the plane crashed in July revealed no signs of mechanical failure, investigators said on Wednesday.</p>
+<p>The two sections showed no evidence of electrical arcing, or sparking, which would have indicated a power surge in the Boeing 747's centre fuel tank, Shelly Hazle, a spokeswoman for the National Transportation Safety Board, said.</p>
+<p>&quot;If we had found arcing, we would know there was a surge in that probe,&quot; Hazle said.</p>
+<p>The probes, carrying a small electrical charge, were used to measure the fuel left in the centre tank, where investigators believe the deadly blast was centred.</p>
+<p>Located by recovery teams almost two weeks ago and subjected to intensive testing, the fuel probe sections had been one of the most sought-after pieces of the plane's debris.</p>
+<p>Investigators say there were 50 to 100 gallons (190-380 litres) of jet fuel in the centre tank and normally the electrical current in any of the nearby equipment would not be strong enough to set off such a devastating explosion.</p>
+<p>But investigators have also questioned how much of a spark would have been necesary to ignite the tank. They say a small spark might not have left a trace on the fuel probes.</p>
+<p>Electrical arcing would indicate mechanical failure, one of investigators' three theories about the cause of the July 17 disaster. The other two are that either a bomb or missile brought the plane down.</p>
+<p>The Paris-bound jet exploded and crashed into the Atlantic Ocean off the coast of Long Island, New York, just minutes after taking off from John F. Kennedy International Airport. All 230 poeple on board died.</p>
+<p>One of the fuel probes showed signs of petaling -- the metal was sheared off, leaving a fringe -- Hazle said.</p>
+<p>While petaling can be characteristic of a bomb, tests showed that in this case it apparently occurred just because the aluminum became very hot and then cooled, she said.</p>
+<p>U.S. Navy searchers using high-power sonar and dive teams are almost finished recovering wreckage from the ocean floor. Investigators now plan to scrape the underwater crash site, using trawlers and large rakes, in hopes of finding the key to the disaster.</p>
+<p>The trawling, which would cover an area measuring one-third of a mile by one-half of a mile (0.5 by 0.8 km), could begin by the end of the week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

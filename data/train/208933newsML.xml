@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208933" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: NBA-STANDINGS AFTER THURSDAY'S GAMES.</title>
+<headline>NBA-STANDINGS AFTER THURSDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-11-21</dateline>
+<text>
+<p>Standings of National</p>
+<p>Basketball Association teams after games played on Thursday</p>
+<p>(tabulate under won, lost, percentage, games behind):</p>
+<p>	     EASTERN CONFERENCE</p>
+<p>	     ATLANTIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> NEW YORK	   8    3   .727   -</p>
+<p> ORLANDO	    5    2   .714   1</p>
+<p> MIAMI		7    4   .636   1</p>
+<p> PHILADELPHIA     4    6   .400   3 1/2</p>
+<p> WASHINGTON	 4    6   .400   3 1/2</p>
+<p> BOSTON	     2    7   .222   5</p>
+<p> NEW JERSEY	 1    6   .143   5</p>
+<p>	     CENTRAL DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> CHICAGO	   12    0  1.000   -</p>
+<p> DETROIT	   10    1   .909   1 1/2</p>
+<p> CLEVELAND	  8    3   .727   3 1/2</p>
+<p> MILWAUKEE	  6    5   .545   5 1/2</p>
+<p> ATLANTA	    6    6   .500   6</p>
+<p> CHARLOTTE	  5    5   .500   6</p>
+<p> TORONTO	    3    7   .300   8</p>
+<p> INDIANA	    3    7   .300   8</p>
+<p>	     WESTERN CONFERENCE</p>
+<p>	     MIDWEST DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> HOUSTON	   10    1   .909   -</p>
+<p> UTAH		 7    2   .778   2</p>
+<p> MINNESOTA	  4    6   .400   5 1/2</p>
+<p> DENVER	     4    8   .333   6 1/2</p>
+<p> DALLAS	     3    7   .300   6 1/2</p>
+<p> SAN ANTONIO	2    8   .200   7 1/2</p>
+<p> VANCOUVER	  1   11   .083   9 1/2</p>
+<p>	     PACIFIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> SEATTLE	   10    2   .833   -</p>
+<p> LA LAKERS	  8    4   .667   2</p>
+<p> PORTLAND	   7    5   .583   3</p>
+<p> LA CLIPPERS	6    5   .545   3 1/2</p>
+<p> SACRAMENTO	 4    7   .364   5 1/2</p>
+<p> GOLDEN STATE     3    8   .273   6 1/2</p>
+<p> PHOENIX	    0   11   .000   9 1/2</p>
+<p>FRIDAY, NOVEMBER 22 SCHEDULE</p>
+<p>SEATTLE AT BOSTON		 </p>
+<p>PHILADELPHIA AT WASHINGTON    </p>
+<p>SAN ANTONIO AT LA LAKERS     </p>
+<p>MIAMI AT SACRAMENTO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

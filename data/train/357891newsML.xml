@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357891" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: Fibreboard Corp Q4 oper share rises.</title>
+<headline>Fibreboard Corp Q4 oper share rises.</headline>
+<dateline>DALLAS 1997-02-05</dateline>
+<text>
+<p>FIBREBOARD CORP</p>
+<p>	    SUMMARY OF SALES AND EARNINGS (UNAUDITED)(a)</p>
+<p>				 Qtr ended 12/31   Year ended 12/31</p>
+<p>				   1996	1995	1996	1995</p>
+<p> Net sales		  $127,661  $94,588   $468,938 $335,851</p>
+<p>Income--continuing operations before</p>
+<p>  unusual items		5,408    4,282     17,674    6,977</p>
+<p> Unusual items, net tax (b)   --	 62    (1,890)    2,462</p>
+<p> INCOME-CONTG OPERATIONS   5,408    4,344     15,784    9,439</p>
+<p> Income-disc operations   31,210    1,124     35,917   86,377</p>
+<p> NET INCOME		   36,618    5,468     51,701   95,816</p>
+<p>EPS contg operations</p>
+<p>    before unusual items    0.60     0.48	 1.98     0.78</p>
+<p> Unusual items per share(b)   --     0.01     (0.21)     0.27</p>
+<p> EPS -- continuing operations0.60     0.49	 1.77     1.05</p>
+<p>Net EPS including gains</p>
+<p>   from discontinued ops     4.08     0.62	 5.80    10.67</p>
+<p>	    (Dollar Amounts in Thousands Except Per Share)</p>
+<p>(a) Prior periods have been restated to reflect Resorts Group as a discontinued operation.</p>
+<p>(b) Includes expense of corporate office relocation in 1996 and reversal of asbestos reserve in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

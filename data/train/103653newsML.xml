@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103653" id="root" date="1996-10-08" xml:lang="en">
+<title>REPUBLIC OF IRELAND: No toilet flushes tourists from Ireland's Blarney.</title>
+<headline>No toilet flushes tourists from Ireland's Blarney.</headline>
+<dateline>DUBLIN 1996-10-08</dateline>
+<text>
+<p>Blarney, home of the legendary stone which gives those who kiss it the power of eloquence, is demanding a public toilet.</p>
+<p>Local authorities say the lack of one is turning away tourists, the lifeblood of the economy of the southern Irish village.</p>
+<p>Its long-serving public toilet was removed by Cork County Council which felt it was an eyesore, and the local council says it needs a new one for the comfort of visitors and locals.</p>
+<p>The stone, which gives its name to blarney, or the ability to talk a great deal without saying much, has itself been under attack recently.</p>
+<p>Local authorities say that youths fired with beer have been urinating on it and are taking steps to increase security at the site.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

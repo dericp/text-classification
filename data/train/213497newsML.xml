@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213497" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Fed's new model seen improving forecasting.</title>
+<headline>Fed's new model seen improving forecasting.</headline>
+<byline>Caren Bohan</byline>
+<dateline>SAN FRANCISCO 1996-11-25</dateline>
+<text>
+<p>The Federal Reserve's new economic model should improve its ability to forecast growth and inflation but overall it may have a somewhat limited impact on the course of monetary policy, experts said.</p>
+<p>&quot;One of the things that impresses me is that this new model incorporates information on the way participants react in the economy,&quot; said Anthony Chan, chief economist at Banc One Investment Advisors. &quot;It's a lot more realistic than than the older models for forecasting.&quot;</p>
+<p>Nevertheless, Chan noted that the Fed's new computer model, like its other models, serves primarily as a guide for policy makers but will not be the main force behind the determination of interest-rates.</p>
+<p>At the Carnegie-Rochester monetary policy conference in Pittsburgh last week, Fed economists unveiled their new forecasting model, which takes greater account of the role that expectations of investors, consumers and businesses play in economic activity.</p>
+<p>The new &quot;FRB/US&quot; model replaces a previous domestic economy model that the Fed has been using since the 1960s and is the product of years of research. Its emphasis on expectations stems from research in the 1970s by Nobel laureate Robert Lucas on the &quot;theory of rational expectations.&quot;</p>
+<p>&quot;Incorporating expectations was a fundamental need for doing the type of analysis we need to do,&quot; said Fed economist John Williams.</p>
+<p>The new tool will aid in the development of short-run forecasts and will also help the Fed analyze such questions as how potential budget cuts could affect growth and how confidence in the central bank could influence the transmission of policy decisions.</p>
+<p>&quot;It's an enlightening exercise in terms of the kinds of experiments the Fed will be able to run,&quot; said economist James Glassman at Chase Securities Inc. &quot;It's trying to be smarter about how expectations can play into the economy.&quot;</p>
+<p>Still, Glassman said the model is not capable of answering many of the key questions the Fed has been wrestling with recently. Among those is whether fundamental economic changes have rendered inflation less of a threat than it might have been in the past during similar periods of low unemployment.</p>
+<p>In discussing the model last week, Fed economists David Stockton, David Reifschneider and David Wilcox stressed that while such tools are important in the monetary policy process, human judgment also plays a key role in an approach that is a blend of art and science.</p>
+<p>Stockton also pointed out that among the policy makers themselves there are a variety of opinions about how well any computer model can describe the economy.</p>
+<p>Carnegie-Mellon University economist Allan Meltzer said the focus on expectations was a valuable aspect of the tool's development and was part of a broader trend over the past few decades in which major central banks around the world have become more aware of the importance of that issue.</p>
+<p>On the other hand, Meltzer questioned how useful such an elaborate model might be to Fed policy makers.</p>
+<p>&quot;Do the policy makers really need all of this detail?&quot; he asked at the Carnegie-Rochester conference.</p>
+<p>One shortcoming highlighted by Stanford University's John Taylor was the lack use of money supply.</p>
+<p>In response to Taylor's comment, Fed economists at the conference said they would attempt to integrate that as they further refine the model.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

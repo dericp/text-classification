@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220807" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: EnviroSource sells unit to IMCO.</title>
+<headline>EnviroSource sells unit to IMCO.</headline>
+<dateline>HORSHAM, Pa. 1996-11-27</dateline>
+<text>
+<p>EnviroSource Inc said on Wednesday that it has signed a definitive agreement to sell its IMSAMET subsidiary to IMCO Recycling Inc for $58 million.</p>
+<p>IMSAMET, which has operations in Arizona, Idaho and Utah, serves the aluminum industry by recycling dross, scrap and used beverage cans.</p>
+<p>Envirosource said it is taking this step in order to focus efforts on its steel-related businesses, International Mill Service and EnviroSource Treatment &amp; Disposal Services.</p>
+<p>The company said that the proceeds from the sale would be used to reduce bank borrowings.</p>
+<p>It said it expects the sale to be completed in late December or early January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HORSHAM, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

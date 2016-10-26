@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760851" id="root" date="1997-07-28" xml:lang="en">
+<title>LEBANON: Israeli warplanes strike in south Lebanon.</title>
+<headline>Israeli warplanes strike in south Lebanon.</headline>
+<dateline>BEIRUT 1997-07-28</dateline>
+<text>
+<p>Israeli warplanes rocketed suspected Hizbollah targets in south Lebanon on Monday, security source said.  </p>
+<p>Security sources said two warplanes fired four rockets into the area of Ain Qana in Iqlim al-Toufah -- a pro-Iranian Hizbollah stronghold used for attacks on Israeli forces and their militia allies.</p>
+<p>There was no immediate report of casualties in the air assault which came hours after Hizbollah guerrillas fired rocket-ropelled grenades and machineguns at a pro-Israeli outpost in Jizzine.</p>
+<p>Pro-Israeli South Lebanon Army (SLA) militia sources said no one was injured in the attack. Jizzine is a strip of land officially outside Israel's 15 km (nine miles)-wide south Lebanon occupation zone but under SLA control.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

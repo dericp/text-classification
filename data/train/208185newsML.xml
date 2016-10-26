@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208185" id="root" date="1996-11-21" xml:lang="en">
+<title>SINGAPORE: SingTel service extended to Saudi Arabia.</title>
+<headline>SingTel service extended to Saudi Arabia.</headline>
+<dateline>SINGAPORE 1996-11-21</dateline>
+<text>
+<p>Singapore Telecom said on Thursday its PhoneHome Card service will be extended to Saudi Arabia from December 1 this year.</p>
+<p>A company statement said callers using the facility no longer have to speak to an operator, pay hotel surcharges, or queue for a public telephone. Callers will have the option of charging to international calling cards or calling collect.</p>
+<p>Other Singapore Telecom services such as SingaporeDirect, HomeEasy Dial, and Enhanced Call Home have been available in Saudi Arabia since September this year.</p>
+<p>-- Singapore newsroom 65-8703080</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

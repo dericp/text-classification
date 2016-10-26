@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187777" id="root" date="1996-11-13" xml:lang="en">
+<title>ISRAEL: Dead Sea mulls plant in Egypt or China.</title>
+<headline>Dead Sea mulls plant in Egypt or China.</headline>
+<dateline>TEL AVIV 1996-11-13</dateline>
+<text>
+<p>Israel's Dead Sea Works Ltd is looking into setting up a potassium sulphate and sodium sulphate plant in Egypt or China, the company's managing director Uri Ben Noon said on Wednesday.</p>
+<p>The investment in the plant is estimated at $50 million.</p>
+<p>The proposed plant would use technology developed by Dead Sea Works, which the company has already tested at a pilot plant in Turkey.</p>
+<p>&quot;We're looking at both options and hope to make a decision soon,&quot; Ben Noon told Reuters.</p>
+<p>Potassium sulphate is used in the manufacture of detergents while sodium sulphate is used in the production of fertilisers.</p>
+<p>Dead Sea Works, a subsidiary of Israel Chemicals, would supply the potash and the know-how for the plant.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

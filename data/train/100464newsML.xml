@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100464" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: CUC International files for 11 mln shr offer.</title>
+<headline>CUC International files for 11 mln shr offer.</headline>
+<dateline>STAMFORD, Conn. 1996-10-07</dateline>
+<text>
+<p>CUC International Inc said on Monday that it has filed a registration statement with the U.S. Securities and Exchange Commission for an 11 million common share secondary offering by certain stockholders.</p>
+<p>Robert Davidson, Janice Davidson and certain charitable and family trusts established by them were offering the shares, the membership services company said.</p>
+<p>CUC said that,  adjusted for the company's three-for-two stock split, a total of 16.5 million shares would be offered. This did not include 2.48 million shares subject to the underwriters over-allotment option.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

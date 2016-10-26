@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91137" id="root" date="1996-10-02" xml:lang="en">
+<title>LEBANON: Lebanon's banking activity up in July.</title>
+<headline>Lebanon's banking activity up in July.</headline>
+<dateline>BEIRUT 1996-10-02</dateline>
+<text>
+<p>The consolidated balance sheet of Lebanon's commercial banks rose 2.88 percent in July to 32,481 billion Lebanese pounds, the Bank of Lebanon said in its latest monthly bulletin.</p>
+<p>Total deposits in foreign currencies and Lebanese pounds rose 2.86 percent to 27,048 billion pounds from 26,295 billion in June, it said.</p>
+<p>Lebanese pound deposits grew 3.72 percent to 10,995 billion pounds from 10,601 billion a month earlier.</p>
+<p>Deposits in foreign currencies rose 2.57 percent to $10.247 billion in July compared with $9.990 in June, the Bank added.</p>
+<p>Loans and credits to the private sector rose 2.07 percent in July over June, increasing to 11,736 billion pounds.</p>
+<p>Credits in Lebanese pounds rose 3.48 percent in July to 1,567 billion from 1,514 billion pounds a month earlier. Credits in foreign currencies rose 2.15 percent to $6.509 billion from $6,372 billion.</p>
+<p>($1= 1,558.25 Lebanese pounds)</p>
+<p>-Beirut editorial (961 1) 864148 645456 353078 861723</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

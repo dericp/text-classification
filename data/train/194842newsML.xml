@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194842" id="root" date="1996-11-16" xml:lang="en">
+<title>USA: Fair weather forecast for U.S. shuttle.</title>
+<headline>Fair weather forecast for U.S. shuttle.</headline>
+<dateline>CAPE CANAVERAL, Fla 1996-11-16</dateline>
+<text>
+<p>Bad weather should blow out of central Florida by Tuesday, clearing the way for the delayed launch of space shuttle Columbia, NASA said on Saturday.</p>
+<p>Weather forecasters predicted favourable conditions for Columbia's planned 2:53 p.m. EST (1953 GMT) blastoff from NASA's Kennedy Space Centre on Florida's east coast.</p>
+<p>&quot;The chance of not meeting the launch weather criteria on Tuesday afternoon is just 20 percent,&quot; said NASA spokesman George Diller.</p>
+<p>Columbia's blastoff, which had been scheduled for Friday, was delayed four days by unusually strong winds and cloudy skies that buffeted most of the state.</p>
+<p>The countdown clocks were due to start ticking again at 1 a.m. EST (0600 GMT) on Monday, Diller said.</p>
+<p>Columbia and its crew of five astronauts are due to spend 16 days in orbit conducting scientific research with a pair of free-flying satelites. Two spacewalks are also planned to practice construction of the international space station.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

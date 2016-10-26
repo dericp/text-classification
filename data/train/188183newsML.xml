@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="188183" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: U.S. FTC objects to ADP acquisition of AutoInfo.</title>
+<headline>U.S. FTC objects to ADP acquisition of AutoInfo.</headline>
+<dateline>WASHINGTON 1996-11-14</dateline>
+<text>
+<p>U.S. regulators said on Thursday they were seeking an order to require Automatic Data Processing Inc to divest enough assets to restore competition in the salvage information management industry.</p>
+<p>The Federal Trade Commission said ADP's acquisition of AutoInfo Inc in 1995 had created a monopoly that had raised prices and reduced the quality of service in the car salvage yard information management industry,  </p>
+<p>ADP, Roseland, N.J., which had $3 billion in revenues in 1995, provides information services and develops and sells computerized information systems to a variety of industries, including auto salvage yards and insurance companies.</p>
+<p>The FTC said ADP acquired AutoInfo in April 1995, but later paid a $2.97 million civil penalty to resolve federal charges that its statutorily-required filing for pre-merger antitrust review was deficient, omitting for example documents that showed among other things that:</p>
+<p>- there was an anticompetitive intent underlying the proposed acquisition;</p>
+<p>- that the proposed acquisition would create serious compeititive concerns;</p>
+<p>- and that ADP believed the acquisition would give it a monopoly or virtual monopoly in several product markets.</p>
+<p>The FTC said it alleged in its administrative complaint that &quot;the acquisition was part of an ADP plan to acquire the leading information service providers to the salvage industry and thereby acquire monopoly power.&quot;</p>
+<p>Included in ADP's plan was the acquisition of Hollander Inc., completed in 1992, and of AutoInfo, the agency said.</p>
+<p>It said an administrative hearing would be scheduled soon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123591" id="root" date="1996-10-17" xml:lang="en">
+<title>EGYPT: Israel committed to peace accords - Netanyahu.</title>
+<headline>Israel committed to peace accords - Netanyahu.</headline>
+<dateline>CAIRO 1996-10-17</dateline>
+<text>
+<p>Israeli Prime Minister Benjamin Netanyahu said in an interview published on Thursday that Israel was committed to agreements signed with its neighbours by the former government but expected negotiations to be &quot;very difficult&quot;.</p>
+<p>&quot;First of all, we are committed to the Oslo accord and to all our agreements,&quot; Netanyahu told the Arabic daily al-Hayat from his office at the Knesset (Parliament). The paper is based in London.</p>
+<p>Arabs have expressed concern the Israeli government, which took power after elections in May, is reluctant to fulfil the accords signed by the former governments of prime ministers Yitzhak Rabin and Shimon Peres.</p>
+<p>The Israeli Prime Minister denied this. However, he expected complicated, difficult negotiations with the Palestinians.</p>
+<p>&quot;We will not renegotiate anything,&quot; Netanyahu said.</p>
+<p>&quot;But I do not expect they (negotiations with the Palestinian Authority) will be easy.</p>
+<p>&quot;The important point is that each party should abide by peaceful negotiation and contain depressions,&quot; he said. &quot;The Palestinian entity should enjoy autonomy but not sovereignty.&quot;</p>
+<p>Palestinian and Israeli negotiators resumed formal talks late on Wednesday at the Egyptian Red Sea resort of Taba to implement a long-delayed Israeli troop withdrawal from the West Bank town of Hebron.</p>
+<p>Netanyahu declined to set a date for redeployment but said he could meet Palestinian President Yasser Arafat to finalise the Hebron agreement.</p>
+<p>&quot;It's wrong to define a date, because this would lead to pressures that could be used by various parties... If necessity justifies, I can meet Arafat to close the file,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

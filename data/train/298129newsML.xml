@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298129" id="root" date="1997-01-09" xml:lang="en">
+<title>EGYPT: Egypt seeking contractors for $150 mln canal bridge.</title>
+<headline>Egypt seeking contractors for $150 mln canal bridge.</headline>
+<byline>Jonathan Wright</byline>
+<dateline>CAIRO 1997-01-09</dateline>
+<text>
+<p>The Egyptian government is inviting Egyptian and Japanese companies to tender from next week for a 500 million pound ($150 million) project to build a suspension bridge over the Suez Canal.</p>
+<p>The bridge, set 70 metres (230 feet) above the water so that the largest ships can pass, will be the first overland road link between Africa and Asia since the canal was built in the 1860s.</p>
+<p>The only links between African Egypt and the Sinai peninsula are now the Ahmed Hamdi tunnel and a series of seven ferries.</p>
+<p>Fouad Abdel Aziz Khalil, chairman of the government's General Authority for Roads and Bridges, said four Egyptian companies had prequalified for one part of the project and that only Japanese firms would be eligible for the rest of the work.</p>
+<p>&quot;That's because the financing will be grant aid (from Japan),&quot; he told Reuters on Thursday.</p>
+<p>But a spokesman for the Japanese embassy in Cairo said Tokyo had not yet given a commitment to finance the project, beyond the amount granted for the feasibility studies.</p>
+<p>Egyptian and Japanese officials have repeatedly contradicted each other on the financing. The Egyptians say the Japanese will pay many of the costs, the Japanese that nothing is decided.</p>
+<p>Official documents on the project say that an Egyptian contractor will build the approach bridges, up to a height of 49.5 metres (162 feet), and a Japanese contractor the rest of the approach bridges and the main bridge itself.</p>
+<p>Khalil declined to say how he expected the costs to break down between the two parts of the project. He also declined to give the deadline for tenders.</p>
+<p>The bridge, with four lanes, will be near the town of Qantara, 47 km (29 miles) south of Port Said city.</p>
+<p>It will serve mainly northern Sinai, where the government is planning to irrigate 400,000 acres (160,000 hectares). The population of all Sinai is expected to rise to 3.2 million in 2017 from a few hundred thousand today.</p>
+<p>The documents say traffic across the canal is expected to reach 50,000 vehicles a day in 2015. The ferries can take 12,000 and the tunnel about 10,000, leaving 28,000 for the bridge.</p>
+<p>They say it will take 42 months to build the bridge, including six months for preparations.</p>
+<p>In a gesture to Egyptian style, the main pylons, 160 metres (525 feet) high, will be shaped like obelisks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="I5020006">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

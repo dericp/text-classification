@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="442521" id="root" date="1997-03-14" xml:lang="en">
+<title>BAHAMAS: Voting begins in Bahamas election.</title>
+<headline>Voting begins in Bahamas election.</headline>
+<dateline>NASSAU, Bahamas 1997-03-14</dateline>
+<text>
+<p>Polls opened on Friday in the Bahamas' general elections with voters choosing between the father of the nation's independence, Sir Lynden Pindling, and his former protege, incumbent prime minister Hubert Ingraham.</p>
+<p>Lines formed outside voting booths about an hour before the polls opened at 7 a.m EST (1200 GMT). Witnesses said the mood was calm.  </p>
+<p>Both the ruling Free National Movement and the opposition Progressive Liberal Party have pledged to crack down on crime and boost employment.</p>
+<p>Ingraham has pledged to take the Caribbean archipelago nation further down the free market road while Pindling's PLP advocates more state involvement in the economy.</p>
+<p>Forty constituencies are at stake and almost 130,000 Bahamians are registered to vote.</p>
+<p>Polls close at 6 P.M. (2300 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NASSAU, Bahamas"/>
+<dc element="dc.creator.location.country.name" value="BAHAMAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

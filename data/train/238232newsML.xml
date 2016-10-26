@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238232" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Emery in holiday postal freight pact.</title>
+<headline>Emery in holiday postal freight pact.</headline>
+<dateline>REDWOOD CITY, California 1996-12-05</dateline>
+<text>
+<p>Emery Worldwide Express said it has been awarded a $13-million to provide additional freighter lift to support the US Postal Service peak Christmas delivery schedule.</p>
+<p>Emery said the contract,which runs from December 15 to 24, involves operating 31 Douglas DC-8s and Boeing 727s to and from the postal service's Indianapolis hub, linking cities across the country.</p>
+<p>It will also fly four B-727 freighters from Ontario, California, to various destinations along the U.S. West Coast.</p>
+<p>The company said it is the seventh succesive year that it has has won the postal service's Christmas network contract and in 1995 it moved almost one million pounds of mail and parcels during the airlift.</p>
+<p>- Air Cargo Newsroom Tel+44 171 542 7706 Fax+44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="REDWOOD CITY, California"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

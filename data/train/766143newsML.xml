@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="766143" id="root" date="1997-07-30" xml:lang="en">
+<title>CHILE: Chile's Cristalerias first half net falls.</title>
+<headline>Chile's Cristalerias first half net falls.</headline>
+<dateline>SANTIAGO 1997-07-30</dateline>
+<text>
+<p>Glass-maker Cristalerias de Chile SA on Wednesday reported net consolidated earnings of 3.73 billion pesos in the first six months of 1997, down 19 percent from the same period last year.</p>
+<p>It said the fall was the result of the drop in operating margins in glass business and higher losses in the CIECSA unit, partly offset by strong results from winery Santa Rita.</p>
+<p>The company reported operating earnings of 4.7 billion pesos in the first half and a non-operating loss of 228 million pesos, on sales of 41.37 billion pesos.</p>
+<p>((-- Margaret Orgill, Santiago Newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

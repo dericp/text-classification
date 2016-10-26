@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58161" id="root" date="1996-09-17" xml:lang="en">
+<title>ARGENTINA: Argentine Central Bank reserves detailed.</title>
+<headline>Argentine Central Bank reserves detailed.</headline>
+<dateline>BUENOS AIRES 1996-09-17</dateline>
+<text>
+<p>The Argentine Central Bank Tuesday released the following international reserve and currency liability data, in millions:</p>
+<p>*A = International reserves (gold, currency, securities, including repos and reverse repos).</p>
+<p>B = Liquidity requirements.</p>
+<p>C = International reserves in the financial system.</p>
+<p>*D = Monetary base.</p>
+<p>E = Currency liabilities.</p>
+<p>F = Net repurchase tender agreements.</p>
+<p>G = Bank liquidity paper.</p>
+<p>H = Financial liabilities.</p>
+<p>   Date	*A*   *B*    *C*    *D*    *E*   *F*   *G*    *H*</p>
+<p>  Sep 04  18,611 3,253 21,864 12,703 12,726 3,817   626 17,285</p>
+<p>  Sep 05  18,543 3,276 21,819 12,875 12,897 3,608   626 17,246</p>
+<p>  Sep 06  18,590 3,293 21,883 12,972 12,993 3,595   636 17,339</p>
+<p>  Sep 09  18,445 3,237 21,682 12,947 12,986 3,556   636 17,183</p>
+<p>  Sep 10  18,378 3,248 21,626 12,762 12,801 3,692   636 17,132</p>
+<p>  Sep 11  18,376 3,329 21,705 12,614 12,650 3,836   636 17,274</p>
+<p>  Sep 12  18,276 3,330 21,606 12,538 12,573 3,785   636 17,160</p>
+<p>  Sep 13  18,318 3,306 21,624 12,450 12,484 3,948   646 17,200</p>
+<p>*A  Of the $18.32 billion in international reserves, $2.62 billion (14.28 pct) are in securities.</p>
+<p>*D  There are currently no peso-denominated current accounts at the Central Bank.</p>
+<p>-- Buenos Aires Newsroom +54 1 318-0652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22394" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: NBA sues America Online over scores.</title>
+<headline>NBA sues America Online over scores.</headline>
+<dateline>NEW YORK 1996-08-29</dateline>
+<text>
+<p>The National Basketball Association has sued America Online Inc, alleging that the United States' No 1 on-line service is delivering real-time information about league games without its permission, The Wall Street Journal reported on Thursday.</p>
+<p>The suit was filed on Wednesday in federal court in Manhattan and is another legal skirmish over what constitutes a &quot;broadcast&quot; in the computer age.</p>
+<p>The suit contends America Online was misappropriating NBA property by providing a site containing continually updated scores and statistics of NBA games in progress.</p>
+<p>America Online chairman and chief executive Steve Case said, &quot;We believe the new online medium should have the same right to report on real-time events and news as television and radio.&quot;</p>
+<p>America Online said its dispute with the NBA began three weeks ago, when the online company filed suit against the league in Virginia.</p>
+<p>The earlier lawsuit seeks to have a court declare that American Online is within its rights in using the real-time NBA scores and statistics and that the NBA may not legally bar the company from doing so.</p>
+<p>The cases are related to a suit that the NBA filed earlier this year against Sports Team Analysis and Tracking Systems Inc. The company provides data to America Online and is also a defendant in the case.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

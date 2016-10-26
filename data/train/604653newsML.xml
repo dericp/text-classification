@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604653" id="root" date="1997-05-22" xml:lang="en">
+<title>ESTONIA: ASA 1997 PROFIT ESTIMATE 18.8 MLN KROONS.</title>
+<headline>ASA 1997 PROFIT ESTIMATE 18.8 MLN KROONS.</headline>
+<dateline>TALLINN 1997-05-22</dateline>
+<text>
+<p>ASA Kindlustus, Estonia's insurance company which hopes to list its shares on the Tallinn bourse, said on Thursday that it estimates its net profit at 18.8 million kroons in 1997.</p>
+<p>The estimate is conservative, Sergei Netsajev, the company's managing director, added in a statement.</p>
+<p>ASA had a net profit of one million kroons and turnover of 125 million kroons in 1996.</p>
+<p>ASA plans to make a share issue at the beginning of June to institutional investors to set the market price for the public offer. The issue will increase its present share capital of 25.4 million kroons to 28.9 million kroons.</p>
+<p>-- Eva Palu, Tallinn Newsroom, +372 630 8400, reuters@reuters.ee</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

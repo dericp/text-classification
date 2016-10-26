@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341214" id="root" date="1997-01-29" xml:lang="en">
+<title>ITALY: Venice to introduce family planning for pigeons.</title>
+<headline>Venice to introduce family planning for pigeons.</headline>
+<dateline>VENICE, Italy 1997-01-29</dateline>
+<text>
+<p>Venice plans to introduce a family planning programme to curb the city's large and growing population of pigeons, officials said on Wednesday.</p>
+<p>Although the pigeons are an attraction for tourists who can buy bags of grain to feed them from sellers in St Mark's Square, the city says it needs to reduce their numbers. The pigeon population is estimated at more than 100,000.</p>
+<p>Under a new city ordinance to be enforced soon, the pigeons must be given only a special feed which has been treated to sterilise their eggs as well as free them of internal parasites.</p>
+<p>Officials said the pigeons would be fed at special &quot;distribution centres&quot; and that anyone violating the ordinance could face fines.</p>
+<p>They said the ordinance would also institute fines for owners of abandoned or rundown buildings in which fertile pigeons could build nests.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VENICE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="413887" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: New York Bagel buy two Texas restaurants.</title>
+<headline>New York Bagel buy two Texas restaurants.</headline>
+<dateline>WICHITA, Kan. 1997-03-03</dateline>
+<text>
+<p>New York Bagel Enterprises Inc said Monday it acquired two New York Bagel restaurants from its Austin, Texas, franchisee, Bagel Buds Inc, in a deal worth about $415,000.</p>
+<p>The deal gives the company 36 company-owned restaurants, which is in line with its expansion strategy, New York Bagel said. The company also expects to open more restaurants in the Austin area over the next 24 months.</p>
+<p>-- New York Bagel shares were up 1/4 Monday at 4-1/2.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WICHITA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

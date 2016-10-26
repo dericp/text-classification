@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261968" id="root" date="1996-12-17" xml:lang="en">
+<title>SWITZERLAND: Baloise sees double-digit profit growth.</title>
+<headline>Baloise sees double-digit profit growth.</headline>
+<dateline>BASLE, Switzerland 1996-12-17</dateline>
+<text>
+<p>Swiss life and non-life insurer Baloise Insurance Group confirmed an earlier forecast that net profit would rise this year by a double-digit percentage.</p>
+<p>&quot;Baloise continues to expect profits for 1996 to increase by a double-digit percentage,&quot; the company said in a statement released at a news conference.</p>
+<p>In October, Baloise said it expected 1996 net profit to rise by around 14 percent.</p>
+<p>Baloise posted a 1995 net profit of 161.1 million Swiss francs after 135.3 million in 1994. Gross premium income last year was 6,479 million Swiss francs after 6,280 million in 1994.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

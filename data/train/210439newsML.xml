@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210439" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Lukens ups some steel prices about 5 pct.</title>
+<headline>Lukens ups some steel prices about 5 pct.</headline>
+<dateline>COATESVILLE, Pa. 1996-11-22</dateline>
+<text>
+<p>Lukens Inc said Friday it would cut service center and direct customer discount rates by three percentage points, which would have the effect of raising prices on some products by about five percent.</p>
+<p>The steel products affected were stainless sheet, strip, continuous mill plate and plate mill plate. All 200-, 300- and 400-series stainless steel grades were included in the discount cut, which is effective with shipments on March 3, 1997, the company said.</p>
+<p>On Thursday, J&amp;L Specialty Steel Inc said it will decrease market discounts by three percentage points, thus increasing prices about five percent for all the sames series grades of stainless steel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COATESVILLE, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

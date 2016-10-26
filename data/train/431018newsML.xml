@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431018" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: SigmaTron says constraints continue.</title>
+<headline>SigmaTron says constraints continue.</headline>
+<dateline>ELK GROVE VILLAGE, Ill. 1997-03-10</dateline>
+<text>
+<p>SigmaTron International Inc said it continues to encounter capacity constraints at its Las Vegas and Elk Grove Village, Ill., operations.</p>
+<p>&quot;But we are currently studying options for expansion at Elk Grove and are expecting to enter into a new lease in the near future,&quot; said the maker of electronic components.</p>
+<p>In December, SigmaTron said it signed a lease for more manufacturing space in Mexico.</p>
+<p>&quot;We will start relocating some current operations to our new Mexico location in March.  While this move will cause us to incur higher levels of expense for the next several quarters, it is a necessary step,&quot; the company said.</p>
+<p>((--Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ELK GROVE VILLAGE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

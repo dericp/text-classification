@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40979" id="root" date="1996-09-09" xml:lang="en">
+<title>POLAND: Polish wholesale wheat/barley prices ease, rye up.</title>
+<headline>Polish wholesale wheat/barley prices ease, rye up.</headline>
+<dateline>WARSAW 1996-09-09</dateline>
+<text>
+<p>Polish wholesale wheat and barley prices eased slightly last week while rye prices continued to rise, the Agriculture Ministry said on Monday.</p>
+<p>Polish farm auction prices (average/zloty per quintal)</p>
+<p>Product    wk to Sept.3   pvs week   six-wk range yr/yr change</p>
+<p>Wheat	 61 zl/q	 62 zl/q    61-67 zl/q	69 pct</p>
+<p>Rye	   40 zl/q	 39 zl/q    38-44 zl/q	60 pct</p>
+<p>Barley	52 zl/q	 53 zl/q    52-58 zl/q	63 pct</p>
+<p>--Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

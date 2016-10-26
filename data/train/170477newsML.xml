@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170477" id="root" date="1996-11-06" xml:lang="en">
+<title>GREECE: NET ASSET BREAKDOWN OF GREEK MUTUAL FUNDS ON OCT 31.</title>
+<headline>NET ASSET BREAKDOWN OF GREEK MUTUAL FUNDS ON OCT 31.</headline>
+<dateline>ATHENS 1996-11-06</dateline>
+<text>
+<p>The Greek mutual funds' assets under management rose by 198 billion drachmas to 3.568 trillion drachmas at the end of October, Ionian Research said in its monthly report.</p>
+<p>Net assets were up 44.89 percent year-to-date in October, it said.</p>
+<p>Information on the breakdown of net assets among different classes of mutual funds had as follows:</p>
+<p>				   Oct 31   Sept 30   Dec 31, 95</p>
+<p>Fixed income/money funds    94.2%     93.6%	90.3%</p>
+<p>International funds	    2.2%	2.4%	 4.0%</p>
+<p>Growth funds		     3.5%	4.0%	 5.7%</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

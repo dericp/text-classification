@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73206" id="root" date="1996-09-24" xml:lang="en">
+<title>CANADA: Foreigners buy Canada securities in July.</title>
+<headline>Foreigners buy Canada securities in July.</headline>
+<dateline>OTTAWA 1996-09-24</dateline>
+<text>
+<p>Foreign investors bought a net C$174.0 million Canadian securities in July, after selling a net C$2.01 billion in June, Statistics Canada said on Tuesday.</p>
+<p>Canadian residents bought a net C$2.38 billion of foreign securities in July after buying C$393 million in June  </p>
+<p>Foreign investments in Canadian securities (blns of dollars)</p>
+<p>				  July	 June    Year to date</p>
+<p>    Total		    +0.17	-2.01     +10.33</p>
+<p>    Bonds		    +0.95	+0.70	+7.21</p>
+<p>    Money mkt paper	-1.18	-3.54	-3.47</p>
+<p>    Stocks		   +0.41	+0.83	+6.58</p>
+<p>Canadian investment in foreign securities (blns of dollars)</p>
+<p>				  July	 June	Year to date</p>
+<p>    Total		    -2.38	-0.39	 -7.94</p>
+<p>    Bonds		    -1.48	+0.66	 -0.19</p>
+<p>    Stocks		   -0.90	-1.05	 -7.75</p>
+<p>(A minus sign indicates more purchases from than sales of securities to non-residents, i.e. an outflow of money from Canada, Statistics Canada said.).</p>
+<p>(For more information from Statistics Canada, contact Balance of Payments Division, Don Granger at 613-951-1864.)</p>
+<p>-- Reuters Ottawa Bureau 613-235-6745</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

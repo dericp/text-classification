@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151393" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: Passenger jet lands without nose gear in New York.</title>
+<headline>Passenger jet lands without nose gear in New York.</headline>
+<byline>Jeanne King</byline>
+<dateline>NEW YORK 1996-10-28</dateline>
+<text>
+<p>An American Airlines MD-80 with no front wheels made an emergency landing at John F. Kennedy International Airport Monday night, officials said.</p>
+<p>Three people suffered minor injuries as the jet bumped down the runway and skidded to a halt, said Andrea Rader, a spokeswoman for American Airlines, a unit of AMR Corp.</p>
+<p>American Airlines Flight 346 was flying from Chicago to New York's La Guardia airport with 88 passengers and crew of five when a landing gear warning light started flashing, a New York Port Authority spokesman said.</p>
+<p>After flying past the La Guardia control tower to confirm the wheel were not deployed, the plane was diverted to JFK airport as a precaution because it has longer runways than La Guardia, he said.</p>
+<p>The McDonnell Douglas Super 80 landed on runway 31-R at 10:30 EST and skidded to a halt. The pilot deployed the evacuation shutes and the passengers got off, he said.</p>
+<p>&quot;It was a rough ride down the runway, but there was no fire,&quot; the spokesman said.</p>
+<p>Airport emergency crews sprayed foam on a section of the plane's nose.</p>
+<p>JFK airport was closed for 30 minutes, after which its three other runways were back in operation.</p>
+<p>&quot;We have three injuries. They are all minor,&quot; Rader told Reuters. She could not identify the injured passengers.</p>
+<p>One passenger had a leg injury and another a foot injury, while the third suffered an asthma complication and was being treated in hospital.</p>
+<p>&quot;As they were approaching La Guardia airport, they got an unsafe nose-gear warning light,&quot; the New York Port Authority spokesman said.</p>
+<p>&quot;They did a fly-by of La Guardia control tower and the controllers confirmed to them that the nose gear was not down,&quot; he added.</p>
+<p>Rader said &quot;(The pilot) apparently did a great job landing the plane and obviously put the nose down last.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

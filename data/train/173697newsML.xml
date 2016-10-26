@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173697" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Consoltex Q3 shr hits profit at $0.02.</title>
+<headline>Consoltex Q3 shr hits profit at $0.02.</headline>
+<dateline>NEW YORK 1996-11-07</dateline>
+<text>
+<p>1996		    1995</p>
+<p> Shr profit	$0.02	     loss $0.11</p>
+<p> Net profit	300		 loss 1,500</p>
+<p> Sales	     125,900		  105,600</p>
+<p>	  9  MONTHS</p>
+<p> Shr primary     $0.11		    $0.65</p>
+<p> Net		 1,400		    8,800</p>
+<p> Sales	     370,000		  351,700</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full company name is Consoltex Group Inc.</p>
+<p>1995 nine-month net includes $11.8 million foreign exchange gain on prepayment of peso denominated debt recorded in the first quarter of 1995.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

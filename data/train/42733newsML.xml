@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42733" id="root" date="1996-09-10" xml:lang="en">
+<title>SINGAPORE: Singapore MAS accepts invitation to be BIS member.</title>
+<headline>Singapore MAS accepts invitation to be BIS member.</headline>
+<dateline>SINGAPORE 1996-09-10</dateline>
+<text>
+<p>The Monetary Authority of Singapore (MAS) said on Tuesday it is accepting an invitation to become a member of the Bank for International Settlements (BIS).</p>
+<p>&quot;MAS is pleased to accept the BIS' invitation to become its member,&quot; it said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="735197" id="root" date="1997-07-17" xml:lang="en">
+<title>UK: British Aerospace Hawks to be sold to Indonesia-FT.</title>
+<headline>British Aerospace Hawks to be sold to Indonesia-FT.</headline>
+<dateline>LONDON 1996-07-18</dateline>
+<text>
+<p>The British government is to give British Aerospace the go-ahead to sell 16 Hawk fighters to Indonesia despite human rights concerns, the Financial Times said on Friday.</p>
+<p>The paper, citing ministers, said the 160 million pound ($268 million) deal would go ahead despite allegations that Indonesia was using jets it had acquired earlier against opponents in East Timor.</p>
+<p>&quot;There is no evidence that the aircraft is being used in East Timor,&quot; one senior minister was quoted as saying. &quot;Our intelligence on that is very clear,&quot; he said.</p>
+<p>The paper said the decision was taken following advice that there were &quot;formidable obstacles&quot; in the way of revoking the contract.</p>
+<p>Britain, one of the world's leading arms exporters, announced on Thursday it would clamp down on sales to certain countries under its commitment to put human rights at the heart of its foreign policy.</p>
+<p>The curbs were on a 12-point list of measures unveiled by Foreign Secretary Robin Cook. ($ = 0.596 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="TIMOR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

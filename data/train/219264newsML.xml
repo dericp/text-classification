@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219264" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: China says it will accept IMF's Article VIII.</title>
+<headline>China says it will accept IMF's Article VIII.</headline>
+<dateline>WASHINGTON 1996-11-27</dateline>
+<text>
+<p>China informed the International Monetary Fund (IMF) Wednesday that it will accept current account convertibility under the IMF's Article VIII effective December 1, the IMF said in a statement.</p>
+<p>Article VIII is an undertaking to refrain from imposing restrictions on the making of payments and transfers for current international transactions, or from engaging in discriminatory currency arrangements, the statement said.</p>
+<p>&quot;The achievement of current account convertibility will further strengthen domestic and international confidence in a very promising reform process,&quot; IMF Managing Director Michel Camdessus said in the statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

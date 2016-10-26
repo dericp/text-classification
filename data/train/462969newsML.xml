@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462969" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: Winnebago Industries Inc Q2 loss vs profit.</title>
+<headline>Winnebago Industries Inc Q2 loss vs profit.</headline>
+<dateline>FOREST CITY, Iowa 1997-03-24</dateline>
+<text>
+<p>(in thousands except per share amounts)</p>
+<p>					Quarter Ended  Six-Months Ended</p>
+<p>				   Mar 1,   Mar 2,    Mar 1,   Mar 2,</p>
+<p>				     1997     1996	1997     1996</p>
+<p> Net Revenues		$105,702 $106,161  $219,594 $219,896</p>
+<p> Cost of goods sold	  95,503   92,639   194,316  190,405</p>
+<p>  Gross Profit		 10,199   13,522    25,278   29,491</p>
+<p>Operating expenses:</p>
+<p>  Selling and delivery	6,663    5,139    13,001   11,578</p>
+<p>  General and admin.	  6,866    5,510    11,751   11,073</p>
+<p>   Total operating exp.    13,529   10,649    24,752   22,651</p>
+<p> Operating (loss) income  (3,330)    2,873	 526    6,840</p>
+<p> Financial income		 745	384     1,114	707</p>
+<p>Pre-tax (loss) income</p>
+<p>from continuing</p>
+<p>  operations		  (2,585)    3,257     1,640    7,547</p>
+<p> Provision for taxes	  1,089    1,059     2,608    2,677</p>
+<p>(Loss)income from</p>
+<p>  continuing operations   (3,674)    2,198     (968)    4,870</p>
+<p>Discontinued operations:</p>
+<p>Income from discontinued</p>
+<p>Cycle-Sat operations</p>
+<p>(less applicable income</p>
+<p>tax provisions of</p>
+<p>$17, and $157,</p>
+<p>    respectively)		 ---	 40	 ---	358</p>
+<p>Gain from sale of dis-</p>
+<p>continued Cycle-Sat</p>
+<p>subsidiary (less applicable</p>
+<p>income tax provision of  </p>
+<p>   $13,339)			 ---	---    16,472	---</p>
+<p> Net (loss) income	  (3,674)    2,238    15,504    5,228</p>
+<p>Net (loss)income</p>
+<p>per common share:</p>
+<p>(Loss) income from</p>
+<p>     cont. oper.		(.15)	.09     (.04)	.20</p>
+<p>Discontinued operations:</p>
+<p>Income from discontinued</p>
+<p>     Cycle-Sat subsidiary     ---	---	 ---	.01</p>
+<p>Gain from sale of</p>
+<p>discontinued Cycle-Sat</p>
+<p>     subsidiary		   ---	---	 .65	---</p>
+<p>	Net (loss)income	(.15)	.09	 .61	.21</p>
+<p>Weighted average number</p>
+<p>   of shares outstanding   25,431   25,346    25,405   25,346</p>
+<p>NOTE: Q2 1997 includes charges of $5 million for writedown of selected assets of the company's subsidiary, Winnebago Industries Europe, GmbH, caused by excess inventory buildup and the company's decision to close the rental and retail operations at the Kirkel, Germany location,</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOREST CITY, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

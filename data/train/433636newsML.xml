@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="433636" id="root" date="1997-03-11" xml:lang="en">
+<title>USA: Some US corn gluten meal up sharply on supply.</title>
+<headline>Some US corn gluten meal up sharply on supply.</headline>
+<dateline>CHICAGO 1997-03-11</dateline>
+<text>
+<p>Some corn gluten meal prices were sharply higher Tuesday on supply tightness, cash dealers said. Gluten feed pellet prices were steady.</p>
+<p>    CHICAGO AREA MILLS (dollars/short ton)   Today     Prev</p>
+<p>Gluten feed 21 pct bulk	    Spot     -  unq	 unq</p>
+<p>Gluten feed pellets		  Spot     -   99.00     99.00</p>
+<p>Gluten meal 60 pct bulk rail     Spot     -  345.00    345.00</p>
+<p>DECATUR, IL/CLINTON AND CEDAR RAPIDS, IA</p>
+<p>Gluten feed 18 pct pellets	 Spot     -   96.00     96.00</p>
+<p>Gluten meal 60 pct bulk	    Spot     -  355.00    335.00</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

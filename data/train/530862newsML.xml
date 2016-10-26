@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530862" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Sterling Chemicals Q2 loss vs profit.</title>
+<headline>Sterling Chemicals Q2 loss vs profit.</headline>
+<dateline>HOUSTON 1997-04-23</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr loss	  $0.72	 profit   $0.12</p>
+<p> Net loss	  7,800	 profit   6,400</p>
+<p> Revs		239,700		  190,900</p>
+<p> Avg shrs primary11,100		   55,700</p>
+<p>	  6  MONTHS</p>
+<p> Shr loss	  $1.38	 profit   $0.35</p>
+<p> Net loss	  15,000	profit   19,200</p>
+<p> Revs		426,700		  382,400</p>
+<p> Avg shrs	  10,900		   55,700</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: EPS are after preferred dividends.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

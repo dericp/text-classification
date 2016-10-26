@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65224" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Apple Computer, Sun Micro in technology alliance.</title>
+<headline>Apple Computer, Sun Micro in technology alliance.</headline>
+<dateline>ATLANTA</dateline>
+<text>
+<p>Apple Computer Inc. and Sun Microsystems Inc. on Wednesday unveiled an agreement to link their technologies, including connecting Apple's Macintosh personal computers 'seamlessly' with Sun's network servers, or computers that manage networks.</p>
+<p>&quot;We believe it is a very major step forward for both companies,&quot; Apple's Chief Administrative Officer, George Scalise, said in a conference call.</p>
+<p>He said the move offers customers an alternative to the dominant technology suppliers in the PC industry, Microsoft Corp. and Intel Corp, which together supply up to 90 percent of the personal computers produced.</p>
+<p>&quot;They now have a compelling alternative to the 'Wintel' offering,&quot; he said, referring to the industry term for the combination of Windows software and Intel microchips.</p>
+<p>The announcement is particularly important for Apple's large customers, who will be able now to combine Apple's desktop machines and technologies with networks operating on Sun Microsystems' Solaris system.</p>
+<p>Apple Chief Technolology Officer Ellen Hancock, who joined Apple along with Scalise as part of chief executive Gilbert Amelio's effort to turn around the struggling PC pioneer, said Sun and Apple are building a joint interoperability lab.</p>
+<p>Apple also agreed to support integration with Sun's Java computer language for its QuickTime multimedia technology and the OpenDoc initiative, with International Business Machines Corp., for accessing documents on various computer platforms.</p>
+<p>Janpieter Scheerder, the president of Sun's Sunsoft unit, the alliance furthers Sun's effort to enable developers to make products under a &quot;write once, run everywhere&quot; framework using Java to enable products to run on many computer systems.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

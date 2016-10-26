@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288936" id="root" date="1997-01-06" xml:lang="en">
+<title>SRI LANKA: Ceylon Brewery up 1.9 pct at 35 rupees.</title>
+<headline>Ceylon Brewery up 1.9 pct at 35 rupees.</headline>
+<dateline>COLOMBO 1997-01-06</dateline>
+<text>
+<p>Ceylon Brewery Ltd rose 1.9 percent, or one rupee, to 35, as retail investors bought 7,000 shares on Monday, brokers said.</p>
+<p>&quot;The company is doing very well since late 1995 when the government slashed excise duty by over 70 percent,&quot; said a broker dealing with retail investors.</p>
+<p>Demand for the company's beers had risen sharply after the price reduction, the broker said.</p>
+<p>-- Colombo newsroom (941) 434319</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

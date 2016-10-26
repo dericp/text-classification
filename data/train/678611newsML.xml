@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678611" id="root" date="1997-06-22" xml:lang="en">
+<title>UK: CRICKET-AUSTRALIA 213-7 V ENGLAND (77), 2ND TEST - CLOSE.</title>
+<headline>CRICKET-AUSTRALIA 213-7 V ENGLAND (77), 2ND TEST - CLOSE.</headline>
+<text>
+<p>M.Taylor b Gough		    1</p>
+<p> M.Elliott c Crawley b Caddick 112</p>
+<p> G.Blewett c Hussain b Croft    45</p>
+<p> M.Waugh c Malcolm b Caddick    33</p>
+<p> S.Warne c Hussain b Gough	 0</p>
+<p> S.Waugh lbw b Caddick	     0</p>
+<p> M.Bevan c Stewart b Caddick     4</p>
+<p> I.Healy not out		    13</p>
+<p> P.Reiffel not out		   1</p>
+<p> Extras				  4</p>
+<p>Fall of wickets: 1-4 2-73 3-147 4-147 5-147 6-159 7-212.</p>
+<p>To bat: M.Kasprowicz, G.McGrath</p>
+<p>England first innings 77 all out (G.McGrath 8-38)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

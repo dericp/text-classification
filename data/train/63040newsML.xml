@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="63040" id="root" date="1996-09-18" xml:lang="en">
+<title>SPAIN: Spain's Aznar says cannot meet some budget demands.</title>
+<headline>Spain's Aznar says cannot meet some budget demands.</headline>
+<dateline>MADRID 1996-09-18</dateline>
+<text>
+<p>Spanish Prime Minister Jose Maria Aznar told Spanish radio on Wednesday that not all health spending demands could be met with the 1997 budget draft.</p>
+<p>&quot;We can't address all needs, for example those of the autonomous communities,&quot; Aznar told Radio Ser.</p>
+<p>The ruling Popular Party's Catalan allies have tied their approval of the budget to earmarking 32 billion pesetas from the central government for its health budget.</p>
+<p>Aznar said the health budget is projected to grow six percent according to the budget draft, while overall budget expenditure will not grow by more than two percent.</p>
+<p>--Sharman Esarey, Madrid Newsroom, +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

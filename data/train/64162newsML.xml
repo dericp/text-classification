@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64162" id="root" date="1996-09-19" xml:lang="en">
+<title>CHINA: China, Britain set Hong Kong container accord.</title>
+<headline>China, Britain set Hong Kong container accord.</headline>
+<dateline>BEIJING 1996-09-19</dateline>
+<text>
+<p>China and Britain have reached an agreement allowing a major container terminal project in Hong Kong to proceed after years of delays, officials of the two sides said on Thursday.</p>
+<p>The two sides failed to reach a final agreement on ceremonies that will mark the transfer of power in Hong Kong next year, although Britain voiced cautious optimism an accord would be achieved soon.</p>
+<p>The agreement on the container terminal, seen as vital for Hong Kong's continued role as a major port, was reached at a meeting of the Sino-British Joint Liaison Group, formed to handle issues related to the transfer of power in Hong Kong, which reverts to Chinese rule on July 1, 1997.</p>
+<p>&quot;This is excellent news for Hong Kong, not only because of the economic benefits that will flow from this agreement, but also because of the positive signal it sends to the international investment community,&quot; Hugh Davies, Britain's chief representative at the talks told reporters.</p>
+<p>Development of Hong Kong's ninth container port has been held up for four years by Chinese objections to the way the contract was awarded and to the presence of the Jardine Matheson Holding Ltd group in the consortium.</p>
+<p>Beijing had refused to give the project its approval, needed because the contract straddles Hong Kong's handover.</p>
+<p>Davies said he was cautiously optimistic an agreement on the handover ceremonies could be reached at a meeting between the foreign ministers of the two countries next week.</p>
+<p>Chinese Foreign Minister Qian Qichen and his British counterpart, Malcolm Rifkind, are scheduled to meet in New York next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

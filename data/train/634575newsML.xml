@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="634575" id="root" date="1997-06-03" xml:lang="en">
+<title>PAKISTAN: Pakistani stocks slip below 1,500 points at close.</title>
+<headline>Pakistani stocks slip below 1,500 points at close.</headline>
+<dateline>KARACHI, Pakistan 1997-06-03</dateline>
+<text>
+<p>Pakistani stocks sank below the 1,500-point barrier at Tuesday's close on settlement day selling of blue chips by jobbers, dealers said.</p>
+<p>The Karachi 100-share index ended 4.88 points, or 0.32 percent, down at 1,499.66 amid 224 losers and 64 gainers.</p>
+<p>The index fell after jobbers sold blue chips and squared their holdings on settlement day, one dealer said.</p>
+<p>Cynamid fell 17 rupees to 569, Dawood Hercules 16 to 160, Ciba Geigy 4.75 to 35.25 and Engro 4.0 to 128.</p>
+<p>-- Ibrahim Khan 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

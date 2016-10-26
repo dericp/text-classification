@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="286442" id="root" date="1997-01-03" xml:lang="en">
+<title>USA: Clinton extends suspension of Cuban trade action.</title>
+<headline>Clinton extends suspension of Cuban trade action.</headline>
+<dateline>WASHINGTON 1997-01-03</dateline>
+<text>
+<p>President Bill  Clinton has decided to extend the suspension of a law that would allow U.S. citizens to sue foreign companies that have invested in confiscated property in Cuba, U.S. sources said Friday.  </p>
+<p>The White House was expected to announced later on Friday the president's decision to extend for six more months a provision of the so-called Helms-Burton law. The measure would allow lawsuits against foreign companies that do business with property seized by Cuba's communist government after Fidel Castro took power in 1959.</p>
+<p>&quot;We've been notified that's what the president has decided to do,&quot; said a Republican Congressional source.</p>
+<p>The law, enacted in March, enraged Europeans, Canadians and Mexicans who argued the United States was trying to impose its anti-Cuba trade sanctions on them.</p>
+<p>Clinton, seeking to calm some of the tensions, had suspended the lawsuit provision in July for a six-month period. Many countries have moved to counter the law and challenged it in the World Trade Organisation. The European Union, however, in December agreed to press Cuba on human rights and democracy issues giving Clinton a reason to continue suspension of the Helm-Burton provision.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

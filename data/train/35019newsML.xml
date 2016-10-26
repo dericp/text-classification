@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35019" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: BALANCE - Austin, Texas, sale at $9.125 million.</title>
+<headline>BALANCE - Austin, Texas, sale at $9.125 million.</headline>
+<text>
+<p>CITY OF AUSTIN, TEXAS</p>
+<p>RE: $42,305,000</p>
+<p>					   30,550,000.00</p>
+<p>			   PUBLIC IMPROVEMENT BONDS, SERIES 1996</p>
+<p>MOODY'S: Aa		    S&amp;P: AA		    FITCH: AA</p>
+<p>Delivery Date: 10/03/1996 FIRM</p>
+<p>TRADE DATE 9/5/96</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>----------------------------------------------------------------09/01/1999A</p>
+<p>     100M    4.40	  4.45</p>
+<p>09/01/2000A	     50M    4.50	  4.55</p>
+<p>09/01/2002A	    100M    4.70	  4.75</p>
+<p>09/01/2003A	    100M    4.80	  4.85</p>
+<p>09/01/2004A	     75M    4.90	  4.95</p>
+<p>09/01/2005A	     65M    5.00	  5.05</p>
+<p>09/01/2006A	  1,365M    6.00	  5.20</p>
+<p>09/01/2007A	  2,105M    6.00	  5.30</p>
+<p>09/01/2010A	  2,505M    5.25	  5.60</p>
+<p>09/01/2011A	  2,660M    5.375	 5.65</p>
+<p>  Total:	     9,125M</p>
+<p>Smith Barney Inc.</p>
+<p>ABN Amro Securities</p>
+<p>Prudential Securities Incorporated</p>
+<p>Dean Witter Reynolds Inc.</p>
+<p>Alex. Brown &amp; Son Incorporated</p>
+<p>Grigsby Brandford &amp; Co., Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

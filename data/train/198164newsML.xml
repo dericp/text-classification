@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198164" id="root" date="1996-11-18" xml:lang="en">
+<title>HONG KONG: Peregrine sets call warrants on Hopewell.</title>
+<headline>Peregrine sets call warrants on Hopewell.</headline>
+<dateline>HONG KONG 1996-11-18</dateline>
+<text>
+<p>Peregrine Derivatives Ltd is issuing 424.8 million American-style call warrants on shares of Hopewell Holdings Ltd, a Peregrine official said on Monday.</p>
+<p>Ten warrants control one share.</p>
+<p> STRIKE PRICE	HK$4.635     PREMIUM	 13.8 PCT</p>
+<p> ISSUE PRICE	 HK$0.1228    GEARING	 4.2X</p>
+<p> EXPIRATION	  28.NOV.97    MIN EXER LOT  10,000</p>
+<p> LISTING	     HONG KONG    PAYDATE	 2 WKS AFTER LAUNCH</p>
+<p> SPOT PRICE	  HK$5.15</p>
+<p> NOTE		  GOVERNING LAW IS HONG KONG</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

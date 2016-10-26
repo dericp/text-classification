@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="293449" id="root" date="1997-01-08" xml:lang="en">
+<title>BRAZIL: Brazil president signs shipping bill.</title>
+<headline>Brazil president signs shipping bill.</headline>
+<dateline>BRASILIA 1997-01-08</dateline>
+<text>
+<p>Brazilian President Fernando Henrique Cardoso Wednesday signed a bill opening river and coastal shipping to foreign companies, officials in the Presidential Palace said.</p>
+<p>The bill, passed last year by Congress, will come into effect once published in the government's Official Journal, possibly on Thursday.</p>
+<p>The Transport Ministry said in a statement that the law would create the Brazilian Special Register, entitling national firms and foreign shipping companies with Brazilian bases to lower tax and employee contributions.</p>
+<p>Companies which qualify under the register must employ Brazilian commanders and chief engineers on the vessels. Foreign companies without a base in Brazil can also operate but must employ crews that are two-thirds Brazilian.</p>
+<p>Federal deputy Jose Carlos Aleluia, who drafted the law, said at a signing ceremony that the new regulations would reduce shipping costs in Brazil by 40 percent, the private Invest News agency reported.</p>
+<p>The Transport Ministry concurred. &quot;The benefits will be economic and environmental: reducing the cost of doing business in Brazil, reducing congestion on road networks and boosting the construction of vessels in national boatyards,&quot; it said.</p>
+<p>((--Michael Christie, Brasilia newsroom 55-61-2230358))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403520" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Boston Scientific Q4 earnings summary.</title>
+<headline>Boston Scientific Q4 earnings summary.</headline>
+<dateline>NATICK, Mass. 1997-02-25</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr profit		 $0.42     loss	 $0.16</p>
+<p> Net profit		76,744     loss	27,883</p>
+<p> Net sales		408,728		  305,230</p>
+<p> Avg shrs		 183,076		  176,488</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>			  Year</p>
+<p> Shr profit		 $0.92   profit	 $0.04</p>
+<p> Net profit	     167,106   profit	 6,440</p>
+<p> Net sales	    1,462,043		1,129,185</p>
+<p> Avg shrs		 181,293		  177,534</p>
+<p>	 (All Data Above 000s Except Per Share Numbers)</p>
+<p>NOTE: Full company name is Boston Scientific Corp.</p>
+<p>1995 Q4 results included $112.3 million in special charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NATICK, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

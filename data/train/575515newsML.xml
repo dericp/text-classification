@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575515" id="root" date="1997-05-12" xml:lang="en">
+<title>KENYA: Kenya tea prices mixed at weekly auction.</title>
+<headline>Kenya tea prices mixed at weekly auction.</headline>
+<dateline>NAIROBI 1997-05-12</dateline>
+<text>
+<p>Kenyan tea prices were mixed at the weekly auction in Mombasa, auction officials said.</p>
+<p>Brighter BP1s eased by 4-8 U.S. cents while lower mediums were firm. Brighter PF1s shed 2-6 cents while Brighter P DUSTs were irregularly mixed. Brighter and medium DUST1s gained 5-11 cents.</p>
+<p>Fannings and Dusts were dearer.</p>
+<p>There was good support from Pakistan and strong enquiry from Britain.</p>
+<p>--Wambui Chege, Nairobi Newsroom ++254-2 330-261.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KENYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666372" id="root" date="1997-06-17" xml:lang="en">
+<title>BULGARIA: Bulgaria 4-wk T-bill yield falls to 0.72 pct.</title>
+<headline>Bulgaria 4-wk T-bill yield falls to 0.72 pct.</headline>
+<dateline>SOFIA 1997-06-17</dateline>
+<text>
+<p>Yield fell further on Bulgaria's Finance Ministry four-week discount T-bills at the daily auction on Tuesday as the issue was oversubscribed, a central bank official said.</p>
+<p>The average yield to maturity on the issue was 0.72 percent, down from 0.78 percent at Monday's auction and 0.90 percent on Friday, said the official.</p>
+<p>The issue was offered with a par value of 15 billion levs and no minimum acceptable price set in advance.</p>
+<p>Details of the issue follow. Prices in percent of par:</p>
+<p> Issue number		  BG3039197002</p>
+<p> Maturity			four weeks</p>
+<p> Par value		     15,000 million levs</p>
+<p> Issue date		    June 18</p>
+<p> Maturity date		 July 16</p>
+<p> Bids received		 27,648.5 million levs</p>
+<p> Avg price of bids	   99.25 pct</p>
+<p> Bids approved		 15,000 million levs</p>
+<p> Avg accepted price	  99.29 pct</p>
+<p> Avg yield to maturity     0.72 pct</p>
+<p>-- Sofia Newsroom, (++359-2) 91188</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

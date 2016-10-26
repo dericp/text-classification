@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="451736" id="root" date="1997-03-18" xml:lang="en">
+<title>CHINA: Special flight leaves Beijing for Xiamen to Manila.</title>
+<headline>Special flight leaves Beijing for Xiamen to Manila.</headline>
+<dateline>BEIJING 1997-03-18</dateline>
+<text>
+<p>A special flight left Beijing's Xiyuan airport for the southeastern coastal city of Xiamen, carrying a passenger who would take a connecting flight to Manila, airport officials in Xiamen said on Tuesday.</p>
+<p>The officials said they were unable to identify the passenger. However, North Korean defector Hwang Jang-yop was expected to take that route to the Philippines and South Korean reports said he had left Beijing early on Tuesday.  </p>
+<p>The special flight took off at about 7.00 a.m. (2300 GMT) from the Xiyuan military airport and was en route for Xiamen, the airport official said by telephone.</p>
+<p>The passenger was expected to take the scheduled 10.10 a.m. (0210 GMT) Southern Airlines flight to Manila, the Xiamen airport official said.</p>
+<p>Security remained tight around the South Korean consulate in Beijing where Hwang sought shelter on February 12, becoming the most senior official to defect from the Stalinist North.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

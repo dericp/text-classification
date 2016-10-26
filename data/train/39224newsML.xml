@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="39224" id="root" date="1996-09-07" xml:lang="en">
+<title>SINGAPORE: Singaporeans urged to show a little kindness.</title>
+<headline>Singaporeans urged to show a little kindness.</headline>
+<dateline>SINGAPORE 1996-09-07</dateline>
+<text>
+<p>Singapore has started a movement to make random acts of kindness second nature to citizens of the bustling city-state, the Straits Times reported on Saturday.</p>
+<p>The Small Kindness Movement aims to encourage Singaporeans to commit themselves to gracious living by performing daily acts of kindness, like giving up a parking spot to another driver.</p>
+<p>The movement comes in response to Prime Minister Goh Chok Tong's appeal to Singaporeans to build a gracious society even as the country strives to maintain its competitive edge.</p>
+<p>The newspaper quoted Noel Hon, chairman of the movement and of the Singapore Courtesy Council, as saying: &quot;Being gracious and economically competitive are not mutually exclusive.&quot;</p>
+<p>The &quot;be kind&quot; message will initially be targeted at students and later spread to government ministries, private companies and members of the public.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

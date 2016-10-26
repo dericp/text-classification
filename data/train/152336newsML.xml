@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152336" id="root" date="1996-10-29" xml:lang="en">
+<title>INDIA: Israel says ready to discuss India free trade pact.</title>
+<headline>Israel says ready to discuss India free trade pact.</headline>
+<dateline>NEW DELHI 1996-10-29</dateline>
+<text>
+<p>Israel is ready to discuss a free trade agreement with India to boost their business ties, a visiting Israeli foreign ministry offical said in New Delhi on Tuesday.  </p>
+<p>&quot;We are ready to negotiate a free trade agreement with India on the same level of pacts we have with the United States, Canada and the European Union,&quot; said Itzhak Shelef, the Israeli foreign ministry's deputy director general, Asia and Pacific.</p>
+<p>Shelef told reporters that trade between the two countries had increased steadily after they established diplomatic ties in 1992.</p>
+<p>Bilateral trade between India and Israel stood at $600 million in 1995, with Israel's export share at $350 million, an Israeli diplomat said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

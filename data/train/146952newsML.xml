@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146952" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: First Charter Bank Q3 loss narrows.</title>
+<headline>First Charter Bank Q3 loss narrows.</headline>
+<dateline>BEVERLY HILLS, Calif. 1996-10-28</dateline>
+<text>
+<p>Three months ended  Nine months ended</p>
+<p>($ in thousands, except</p>
+<p> for earnings per share)  1996    1995	 1996	 1995</p>
+<p> Net interest income    1,167     1,741	3,558	5,810</p>
+<p> Net earnings (loss)     (82)   (1,011)    (3,056)    (1,463)</p>
+<p>Earnings (loss)</p>
+<p>   per share		(.04)     (.44)     (1.33)	(.64)</p>
+<p>Weighted average</p>
+<p>number of shares</p>
+<p>			 2,289,779  2,289,779  2,289,779  2,289,779</p>
+<p>First Charter is a national banking association headquartered in Beverly Hills with a branch office in West Los Angeles.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEVERLY HILLS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

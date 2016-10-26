@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254784" id="root" date="1996-12-13" xml:lang="en">
+<title>MEXICO: Mexican army general killed in helicopter incident.</title>
+<headline>Mexican army general killed in helicopter incident.</headline>
+<dateline>CHILPANCINGO, Mexico 1996-12-12</dateline>
+<text>
+<p>A Mexican army general was killed Thursday when a military helicopter smashed into a remote mountainside in the troubled southern state of Guerrero, the defence ministry said.</p>
+<p>Gen. Gilberto Renato Garcia Gonzalez, the commander of the 27th Military Zone based in Acapulco, died and three other soldiers were injured, the ministry said in a statement, adding that a sudden air current threw the helicopter out of control as it was landing.  </p>
+<p>Guerrero, one of Mexico's poorest and most lawless states, is an area of operations of the leftist Popular Revolutionary Army (EPR) guerrilla movement and is also an important center of illegal drugs production.</p>
+<p>Although the EPR said recently that it was not planning to attack military and police forces unless threatened, rumours circulated in the state, unconfirmed by any official source, that the craft might have been shot down.</p>
+<p>Local journalists said the helicopter came down in mountains above the village of Atoyac where armed drugs gangs grow poppies, used in the manufacture of heroin. The EPR also has a presence in the area.</p>
+<p>No more details were immediately available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHILPANCINGO, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

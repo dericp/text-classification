@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167483" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Apogee Medicare billings under review.</title>
+<headline>Apogee Medicare billings under review.</headline>
+<dateline>KING OF PRUSSIA 1996-11-05</dateline>
+<text>
+<p>Apogee Inc said Tuesday that the Department of Health and Human Services and the Department of Justice are reviewing certain Medicare Part B and related co-insurance billings submitted by a subsidiary.</p>
+<p>Apogee said it cannot predict when the review will be completed, the outcome, or the potential impact on earnings. The company, however, does not expect the ultimate outcome to have a material adverse impact on its financial condition.</p>
+<p>The review is a civil matter relating to billings for services to Medicare patients in long-term care facilities in the State of Florida from January 1, 1994 through mid-1995, Apogee said.</p>
+<p>Apogee, which operates outpatient mental health group practices, said it fully cooperating with the review.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KING OF PRUSSIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

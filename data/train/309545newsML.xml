@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309545" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: Barry's Jewelers Inc Q2 loss.</title>
+<headline>Barry's Jewelers Inc Q2 loss.</headline>
+<dateline>MONROVIA, Calif. 1997-01-14</dateline>
+<text>
+<p>BARRY'S JEWELERS INC.</p>
+<p>				  Financial Highlights</p>
+<p>	    (Unaudited, in 000s except share data)</p>
+<p>			 Three months ended     Six months ended</p>
+<p>				Nov. 30,		   Nov. 30,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net sales	    $ 29,348   $ 33,124   $ 55,449   $ 59,864</p>
+<p>Operating (loss) income</p>
+<p>			   (3,396)	1,974    (5,655)	2,956</p>
+<p>Loss before taxes and</p>
+<p>extraordinary item</p>
+<p>			   (6,655)	(745)   (11,526)    (2,421)</p>
+<p> Income taxes		 --	(298)	   --	(968)</p>
+<p>Loss before</p>
+<p>extraordinary item</p>
+<p>			   (6,655)	(447)   (11,526)    (1,453)</p>
+<p> Extraordinary item	 --	   --	  876	   --</p>
+<p> Net loss		(6,655)	(447)   (12,402)    (1,453)</p>
+<p>Net loss per share</p>
+<p>before extraordinary</p>
+<p>  item		    (1.66)     (0.11)     (2.88)     (0.36)</p>
+<p> Extraordinary item	 --	   --     (0.22)	   --</p>
+<p> Net loss per share   (1.66)     (0.11)     (3.10)     (0.36)</p>
+<p>Weighted average common</p>
+<p>shares outstanding</p>
+<p>			 3,999,416  3,968,975  3,999,416  3,968,975</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONROVIA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="670114" id="root" date="1997-06-18" xml:lang="en">
+<title>PHILIPPINES: Manila international coconut oil prices.</title>
+<headline>Manila international coconut oil prices.</headline>
+<dateline>MANILA 1997-06-18</dateline>
+<text>
+<p>International Philippine coconut oil prices as reported by the United Coconut Associations of the Philippines (dollars per tonne cif Europe).</p>
+<p>	     Buyers   Sellers   Last     Prev</p>
+<p>  MayJun   nq	 650	 nq	 nq</p>
+<p>  JunJul   635	640	 nq	 nq</p>
+<p>  JulAug   631.25   637.50    nq	 637.50</p>
+<p>  AugSep   627.50   635	 nq	 630</p>
+<p>  SepOct   625	632.50    nq	 nq</p>
+<p>  OctNov   nq	 nq	  nq	 627.50</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

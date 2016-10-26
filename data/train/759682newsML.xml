@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="759682" id="root" date="1997-07-28" xml:lang="en">
+<title>COLOMBIA: TABLE - Nacional de Chocolates H1 net up 27.9 pct.</title>
+<headline>TABLE - Nacional de Chocolates H1 net up 27.9 pct.</headline>
+<dateline>BOGOTA 1997-07-28</dateline>
+<text>
+<p>Colombia's Compania Nacional de Chocolates posted the following first half results:</p>
+<p>    First half 1997		    First half 1996</p>
+<p>Net profit   28.26 billion pesos    22.09 billion</p>
+<p>Oper revs   159.52 billion	   130.59 billion</p>
+<p>NOTE: All figures in Colombian pesos and results subject to verification by Securities Superintendency.</p>
+<p>((-- Karl Penhaul, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="246871" id="root" date="1996-12-10" xml:lang="en">
+<title>FRANCE: French gross farm income seen steady in 1996-INSEE.</title>
+<headline>French gross farm income seen steady in 1996-INSEE.</headline>
+<dateline>PARIS 1996-12-10</dateline>
+<text>
+<p>French gross farm income is expected to remain steady in 1996 after jumping 10.4 percent in 1995 and 11.5 percent in 1995, national statistics institute INSEE said on Tuesday.</p>
+<p>Provisional accounts for agriculture in 1996 showed the beef, milk and wine sectors were hit by lower sales volume and prices, while grain producers just maintained revenue.</p>
+<p>In a statement INSEE said deliveries of farm products rose 1.5 percent in volume but were down 1.2 percent in value.</p>
+<p>Grain deliveries jumped by 13 percent on record yields and increased area to reach their highest level in 10 years.</p>
+<p>But bumper crops in France and elsewhere in the European Union and prospects of higher end-season stocks may drive grain prices down by five percent in 1996, INSEE said.</p>
+<p>Cattle prices slumped a provisional 12 percent in 1996 after a consumer scare over so-called mad cow disease.</p>
+<p>Despite lower beef consumption, cattle deliveries rose 1.5 percent in volume due to buying by intervention stores, higher exports and lower imports.</p>
+<p>Overall compensation payments to the farm sector rose by 2.7 billion francs in 1996.</p>
+<p>But this included 1.6 billion francs in aid paid to the beef sector.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I0100136">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

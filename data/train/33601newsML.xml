@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33601" id="root" date="1996-09-04" xml:lang="en">
+<title>DUBAI: U.S. says it fired 17 missiles against Iraq.</title>
+<headline>U.S. says it fired 17 missiles against Iraq.</headline>
+<dateline>DUBAI 1996-09-04</dateline>
+<text>
+<p>United States vessels fired 17 missiles against targets in southern Iraq early on Wednesday, a U.S. military spokesman in the Gulf told Reuters.</p>
+<p>He said the missiles were fired from two surface vessels and one submarine. The United States had fired 27 cruise missiles at military targets in Iraq on Tuesday morning, saying Iraqi President Saddam Hussein had re-emerged as a threat to world security.  </p>
+<p>The spokesman said the missiles were launched shortly after 2.50 a.m. (2350 GMT Tuesday).</p>
+<p>Western military sources said the second wave of strikes involved only the U.S. navy. There was no air force involvement.</p>
+<p>In Washington, White House spokesman Mike McCurry said of the second wave of attacks: &quot;This operation is designed to eliminate sites not destroyed in Tuesday morning's initial cruise missile strike.&quot;</p>
+<p>There was no immediate word from Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

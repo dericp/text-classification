@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381461" id="root" date="1997-02-16" xml:lang="en">
+<title>PAKISTAN: Pakistani stocks surge 4.39 percent at close.</title>
+<headline>Pakistani stocks surge 4.39 percent at close.</headline>
+<dateline>KARACHI, Pakistan 1997-02-16</dateline>
+<text>
+<p>Pakistani stocks surged above 1,700 points near the close on Sunday on euphoria fuelled by hopes that a new Nawaz Sharif-led government will stabilise politics and pursue pro-business policies, dealers said.</p>
+<p>&quot;The market is on fire. Political uncertainty has ended and people see a stable government,&quot; dealer Zaina Norsherwan said. &quot;Sharif enjoys the confidence of trade and business people.&quot;</p>
+<p>The Karachi 100-share index rose 71.97 points, or 4.39 percent, to end at 1,711.25. Gainers led losers 329 to 37. Hub Power rose 2.15 rupees to 41.25 and PTCL 1.15 to 34.30.</p>
+<p>-- Amir Zia 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

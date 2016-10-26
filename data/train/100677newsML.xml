@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100677" id="root" date="1996-10-07" xml:lang="en">
+<title>UK: INTERVIEW - Chiroscience weighs cancer drugs.</title>
+<headline>INTERVIEW - Chiroscience weighs cancer drugs.</headline>
+<byline>Jonathan Birt</byline>
+<dateline>LONDON 1996-10-07</dateline>
+<text>
+<p>Drug discovery specialist Chiroscience Group plc said on Monday it is testing two anti-cancer compounds before deciding which will go forward into human trials before the end of the year.</p>
+<p>Both are MMP inhibitors, the same novel class of drug as British Biotech Plc's potential blockbuster Marimastat, which are believed to stop cancer cells from spreading.</p>
+<p>In an interview, chief executive John Padfield said Chiroscience hoped to have its own competitor to Marimastat in early trials next year and Phase III trials in 1998.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

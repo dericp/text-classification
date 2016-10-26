@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221039" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Primark to buy Bowne unit.</title>
+<headline>Primark to buy Bowne unit.</headline>
+<dateline>WALTHAM, Mass.</dateline>
+<text>
+<p>Primark Corp., an information technology provider, said Wednesday it will buy Baseline Financial Services from Bowne &amp; Co. and the company's founder, Robert Patterson, for $40 million in cash.</p>
+<p>Patterson will continue to manage Baseline under a long-term employment contract, Primark said.</p>
+<p>Baseline provides financial information on more than 7,000 U.S. companies to investment managers at more than 450 client companies in North America, mostly institutional portfolio managers.</p>
+<p>Waltham, Mass.-based Primark plans to integrate its data products with those of Baseline.</p>
+<p>The deal is expected to close within 30 days, it said.</p>
+<p>Primark's stock rose 37.5 cents to $26.375 early on the New York Stock Exchange. Bowne edged down 25 cents to $23.75 on the American Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

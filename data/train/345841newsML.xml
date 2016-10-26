@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345841" id="root" date="1997-01-30" xml:lang="en">
+<title>SWITZERLAND: ABB to supply deepwater platform.</title>
+<headline>ABB to supply deepwater platform.</headline>
+<dateline>ZURICH 1997-01-30</dateline>
+<text>
+<p>Electrical engineering group ABB Asea Brown Boveri AG said it had signed a turnkey agreement with Amoco Corp of the U.S. to build a tension leg platform (TLP) for the Marlin field of the Viosca Knoll area in the Gulf of Mexico.</p>
+<p>The total contract is valued at around $300 million, ABB said in a statement.  </p>
+<p>This floating production platform will be tethered by tendons, or tension legs, to the sea bed at a depth of 3,240 feet.</p>
+<p>Oil and gas production form the Marlin TLP is expected to come on stream in the second quarter of 1999.</p>
+<p>The TLP facilities will be designed to produce 250 million standard cubic feet per day of natural gas and 40 thousand barrels of oil a day.</p>
+<p>The contact is the first ever awarded to a single supplier to carry out all engineering, procurement, construction and installation of a TLP production facility and its associated pipelines, ABB said.</p>
+<p>ABB will also supply the rise and tendon systems.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="763383" id="root" date="1997-07-29" xml:lang="en">
+<title>FRANCE: Basle-Mulhouse top French regional freight airport.</title>
+<headline>Basle-Mulhouse top French regional freight airport.</headline>
+<dateline>PARIS 1997-07-29</dateline>
+<text>
+<p>Basle-Mulhouse maintained its position as the top French regional airport in terms of cargo tonnage handled despite a drop of 12 percent on the same period of last year, airpoort authority figures show.</p>
+<p>France's top ten regional airports for flown airfreight in January-June 1997, in tonnes, with percentage change on the same period last year, were as follows:</p>
+<p>					   TONNES    PCT CHANGE</p>
+<p>   1. Basle-Mulhouse*		21,145    down  12.0</p>
+<p>   2. Marseille			20,435    down   6.6</p>
+<p>   3 .Lille **			 13,243	up  13.0</p>
+<p>   4. Toulouse			 12,581	up   1.0</p>
+<p>   5. Lyon-Satolas		   11,913	up  13.8</p>
+<p>   6. Nice				8,717	up   1.2</p>
+<p>   7. Montpellier		     5,316	up 117.6</p>
+<p>   8. Bordeaux			  3,107    down  18.0</p>
+<p>   9. Strasbourg			2,398    down  31.3</p>
+<p>  10. Rennes			    2,164	up  47.2</p>
+<p>     *   includes traffic  handled in Swiss zone of airport</p>
+<p>    **   also includes trucked air freight</p>
+<p>The figures do not include France's major gateways for airfreight, Paris.CDG and Paris/Orly.</p>
+<p>- Reuters Air Cargo Service Tel+ 44 171 542 7706 Fax +5017 - www.racs.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

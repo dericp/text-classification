@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114106" id="root" date="1996-10-14" xml:lang="en">
+<title>GUATEMALA: Two dead in Guatemala City explosion.</title>
+<headline>Two dead in Guatemala City explosion.</headline>
+<dateline>GUATEMALA CITY 1996-10-14</dateline>
+<text>
+<p>Two women died in an unexplained explosion on Monday on the fourth floor of an office building one block from the offices of President Alvaro Arzu in the heart of Guatemala's capital, firemen said.</p>
+<p>&quot;It may have been a fragmentation grenade that they were handling,&quot; Jorge Molina of the Municipal Fire Department told reporters.</p>
+<p>Emergency workers at the scene told witnesses the explosion may have been a bomb in a briefcase.</p>
+<p>Molina said a secretary in the office where the explosion occured was one of the women killed. The other woman has not been identified. One other person was injured, he said.</p>
+<p>The blast took place just before noon near the National Palace, the seat of government, but it was not immediately clear if Arzu was in the palace at the time of the explosion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

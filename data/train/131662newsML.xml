@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131662" id="root" date="1996-10-21" xml:lang="en">
+<title>SWITZERLAND: Swiss sight deposits rise to 3,192.7 million Sfr.</title>
+<headline>Swiss sight deposits rise to 3,192.7 million Sfr.</headline>
+<dateline>ZURICH 1996-10-21</dateline>
+<text>
+<p>The Swiss National Bank said sight deposits rose by 98.8 million Swiss francs 3.19 billion in the reporting period ended October 18.</p>
+<p>Statement of October 18 in millions of Swiss francs:</p>
+<p>					 Latest   Change since Oct 10</p>
+<p> Sight deposits		   3,192.7	plus	98.8</p>
+<p> Currency reserves	     38,901.0	plus	46.7</p>
+<p> Domestic securities	    3,048.2	minus	6.5</p>
+<p> Notes in circulation	  27,599.9	minus    271.2</p>
+<p> Other call deposits		499.8	plus	50.3</p>
+<p> Government time deposits     2,100.0	plus	20.0</p>
+<p>Borrowing at the emergency Lombard window rose by 1.7 million francs to 1.7 million in the reporting period.</p>
+<p>Outstanding borrowing via the discount facility and swaps of money market certificates fell by 119.2 million francs to 1,314.0 million.</p>
+<p>The relatively high level of sight deposits reflected the continued flexibility of the central bank, an SNB spokesman said.</p>
+<p>He said the low level of Lombard borrowings also illustrated the relaxed situation in the money market. -- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

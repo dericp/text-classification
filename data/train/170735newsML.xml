@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170735" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Democrat Harkin holds Iowa Senate seat.</title>
+<headline>Democrat Harkin holds Iowa Senate seat.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Liberal Democrat Tom Harkin held on to his Iowa Senate seat to serve a third term after defeating Republican Rep. Jim Ross Lightfoot in a close race, the ABC television network projected on Tuesday.</p>
+<p>Harkin, a strong supporter of the minimum wage increase that passed Congress last summer, had been expected to win easily but Lightfoot mounted a strong challenge late in the campaign.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

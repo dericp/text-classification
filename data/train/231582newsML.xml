@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231582" id="root" date="1996-12-03" xml:lang="en">
+<title>FRANCE: Corsican separatists bomb tax office on mainland.</title>
+<headline>Corsican separatists bomb tax office on mainland.</headline>
+<dateline>TOULOUSE, France 1996-12-03</dateline>
+<text>
+<p>Corsican separatists claimed responsibility on Tuesday for a bomb attack on a tax office in the southern French city of Perpignan, which badly damaged the front of the building but caused no injuries.</p>
+<p>The Corsican National Liberation Front (FLNC) &quot;Historical Wing&quot; said it had carried out the bombing early on Tuesday, as well as four other recent blasts on the French Mediterranean island.</p>
+<p>In eastern Corsica, a bomb exploded at a savings bank and police defused a second device planted by suspected separatists on the island.</p>
+<p>No one was hurt when the bomb, linked to a gas canister, exploded outside a savings bank in Ghisonaccia, smashing windows and damaging the facade and furniture inside, para-military gendarmes said.</p>
+<p>They said a similar device was found outside a branch of the Credit Agricole Mutuel de la Corse bank in the town. The detonator had failed to work and bomb disposal experts safely defused the device.</p>
+<p>No one immediately claimed responsibility for either bomb.</p>
+<p>Corsican separatists seeking greater autonomy for the Mediterranean resort island have carried their guerrilla campaign to mainland France in recent months and frequently target public buildings.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOULOUSE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

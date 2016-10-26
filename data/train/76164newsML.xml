@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76164" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Athena Medical wins FDA okay for Affirm.</title>
+<headline>Athena Medical wins FDA okay for Affirm.</headline>
+<dateline>PORTLAND, Ore. 1996-09-25</dateline>
+<text>
+<p>Athena Medical Corp said Wednesday it has won U.S. Food and Drug Administration approval to sell its home pregnancy test called Affirm.</p>
+<p>The company, which does business under the name A-FEM Medical Corp, said Affirm has shown an accuracy rate higher than 99 percent in laboratory tests, and it gives results in one to two minutes.</p>
+<p>The company expects to market this new product at very competitive prices compared with home pregnancy products currently available, it said. It currently is talking with potential partners for domestic and international marketing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

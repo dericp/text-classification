@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182608" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Showers stall Missouri row crop harvest.</title>
+<headline>Showers stall Missouri row crop harvest.</headline>
+<dateline>COLUMBIA, Mo. 1996-11-12</dateline>
+<text>
+<p>Missouri farmers made limited row crop harvesting progress in the week ended Sunday as heavy showers interrupted fieldwork in many areas, the state's Agriculture Statistics Service said.</p>
+<p>Soybeans were 83 percent harvested as of Sunday, 11 days behind last year's average of 94 percent and six days behind the five-year average of 88 percent.</p>
+<p>The corn crop was 84 percent harvested, equal to last year's pace and behind the five-year average of 85 percent.</p>
+<p>Sorghum was 85 percent harvested, slightly below the five-year average of 86 percent.</p>
+<p>Winter wheat was 88 percent seeded, eight days behind last year's pace but one day ahead of the five-year average. The crop was rated two percent poor, 35 percent fair, 55 percent good and eight percent excellent.</p>
+<p>Topsoil moisture was rated three percent short, 54 percent adequate and 43 percent surplus.</p>
+<p>Pasture and range rated one percent very poor, 10 percent poor, 38 percent fair, 44 percent good and seven percent excellent.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBIA, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

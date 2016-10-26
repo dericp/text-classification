@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="725029" id="root" date="1997-07-13" xml:lang="en">
+<title>USA: Apple cuts 6500/6400n series prices.</title>
+<headline>Apple cuts 6500/6400n series prices.</headline>
+<dateline>CUPERTINO, Calif. 1997-07-13</dateline>
+<text>
+<p>Apple Computer Inc said Saturday it has reduced prices to resellers on select Power Macintosh 6500 and Macintosh Performa 6400 series computers by up to $300.</p>
+<p>Apple, which was rocked by the departure of Chairman Gilbert Amelio on Tuesday, said the price cuts aim to provide users with powerful and easy-to-use computers at competitive prices.  </p>
+<p>It said that the price of a 6500 Series has been reduced to $2,800 from $3,000; the 6500/300 to $2,800 from $3,000; the 6500/275 Creative Studio to $2,800 from $3,000; the 6500/250 Small Business to $2,300 from $2,600; the Power 6500/250 to $2,000 from $2,300; the 6500/225 to $1,800 from $2,000; the Performa 6400/200 Video Editing Edition to $1,800 from $2,100; the Performa 6400/200MHz with Home Solution Bundle to $1,500 from $1,800 and the Performa 6400/200MHz to $1,400 from $1,700.</p>
+<p>Actual U.S. prices may vary and customers should consult their local Apple authorized reseller, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

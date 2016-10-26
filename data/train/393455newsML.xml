@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="393455" id="root" date="1997-02-21" xml:lang="en">
+<title>SENEGAL: Taiwanese visit Senegal to discuss fishing.</title>
+<headline>Taiwanese visit Senegal to discuss fishing.</headline>
+<dateline>DAKAR 1997-02-21</dateline>
+<text>
+<p>A delegation of Taiwanese experts arrived in Senegal on Friday for a five-day visit and talks on investment opportunities in the fishing industry, Senegalese officials said.</p>
+<p>Fishing port director Aly Diouf told Reuters that Senegal was interested in Taiwanese fishing boats using Dakar as their home port on the West African coast.</p>
+<p>Last November Senegal and the European Union failed to agree a deal on fishing rights in Senegalese waters.</p>
+<p>The Taiwanese delegation would visit Gambia after Senegal, the officials said.</p>
+<p>China and Taiwan, which it regards as a renegade province, have a history of vying for the loyalty of countries in Africa. Senegal and Gambia are among African nations that have opted for ties with Taiwan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

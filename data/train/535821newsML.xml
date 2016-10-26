@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535821" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: USDA opposes cut in EEP,  cap on new CRP entries.</title>
+<headline>USDA opposes cut in EEP,  cap on new CRP entries.</headline>
+<dateline>WASHINGTON 1997-04-24</dateline>
+<text>
+<p>A U.S. House committee acted prematurely in voting to limit new enrollments in the Conservation Reserve Program and to limit the Export Enhancement Program to $10 million this fiscal year, an Agriculture Department spokesman said Thursday.</p>
+<p>&quot;We believe in full funding for EEP,&quot; said spokesman Tom Amontree.</p>
+<p>Amontree reiterated USDA opposition to capping new CRP enrollments at 14 million acres this year.</p>
+<p>EEP, the major U.S. export subsidy program, initially was given $100 million for this fiscal year.</p>
+<p>The committee also voted to reduce funding for USDA export credit guarantees to $3.5 billion.</p>
+<p>The reductions were part of an emergency spending bill to aid victims of floods and other disasters. It may be debated by the full House as early as next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

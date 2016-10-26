@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="419774" id="root" date="1997-03-04" xml:lang="en">
+<title>NORWAY: Nera wins NOK 100 mln deal from Telenor.</title>
+<headline>Nera wins NOK 100 mln deal from Telenor.</headline>
+<dateline>OSLO 1997-03-04</dateline>
+<text>
+<p>Norwegian telecommunications company Nera ASA said on Tuesday it had signed a 100 million crown deal with state-owned Telenor for equipment and services to GrameenPhone in Bangladesh.  </p>
+<p>GrameenPhone is a cooperation between Telenor, Grameen Bank and Marubeni, together with other local interests, and has a licence to establish and run a GSM mobile service in Bangladesh, a statement from Nera said.</p>
+<p>Telenor has responsibility to develop the telecommunications network, which it estimates will take three years. The contract with Nera incorporates most of the company's radios, antennae, additional other equipment and engineering services.</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

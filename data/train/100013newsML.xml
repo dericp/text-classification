@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100013" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Coconino acquires Utah oil &amp; gas well.</title>
+<headline>Coconino acquires Utah oil &amp; gas well.</headline>
+<dateline>PARK CITY, Utah 1996-10-07</dateline>
+<text>
+<p>Coconino S.M.A. Inc said Monday it has acquired the L.E. Font 3-2722 oil and gas well in Duchesne County, Utah, through its Uinta Oil &amp; Gas Inc subsidiary for undisclosed terms.</p>
+<p>The company said there are four 9,500 foot gas well locations to be drilled on the 640-acre lease. Other area wells which have been drilled to less than 9,000 foot level have produced over 4.1 billion cubic feet of natural gas, the company said.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARK CITY, Utah"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

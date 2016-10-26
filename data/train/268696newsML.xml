@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268696" id="root" date="1996-12-19" xml:lang="en">
+<title>JAPAN: Tonen Corp 1997 refinery shutdown schedule.</title>
+<headline>Tonen Corp 1997 refinery shutdown schedule.</headline>
+<dateline>TOKYO 1996-12-19</dateline>
+<text>
+<p>Oil refiner Tonen Corp said on Thursday it plans to shut its 175,000 barrel-per-day (bpd) crude distillation unit (CDU) at its Kawasaki plant near Tokyo from mid-May to early July next year for routine maintenance.</p>
+<p>The other CDU at the plant, with a capacity of 65,000 bpd, will be closed for about a month from early September, a Tonen spokeswoman said.</p>
+<p>At Tonen's Wakayama plant in western Japan, a 36,000 bpd topper is scheduled to be shut from early July to early August, while the other CDU with a processing capacity of 130,000 bpd will be up and running throughout the year, she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560832" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Universal Studios to extend Florida theme park.</title>
+<headline>Universal Studios to extend Florida theme park.</headline>
+<dateline>ORLANDO, Fl. 1997-05-05</dateline>
+<text>
+<p>Universal Studios plans to announce a major new expansion to its Florida vacation theme park Tuesday, company officials said.</p>
+<p>Film director Steven Spielberg, a creative consultant on the new $2.6 billion development, will take part in the announcement, Universal spokeswoman Yvonne Goforth said.</p>
+<p>Universal was releasing no more details, but some accounts of the expansion have appeared in newspapers and trade publications in recent weeks.</p>
+<p>Plans include a second Orlando theme park -- Islands of Adventure -- hotels and nightclubs. Together with the Universal Studios theme park, the resort will become known as Universal City Florida, according to the reports.</p>
+<p>Islands of Adventure will feature five islands built around popular stories and characters such as Spiderman, Jurassic Park and the children's characters of Dr. Seuss, the reports said.</p>
+<p>The company is expected to announce that Islands of Adventure will open in the summer of 1999.</p>
+<p>Universal is 80 percent owned by Seagram Co Ltd. --Miami bureau (305) 374-5013</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fl."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

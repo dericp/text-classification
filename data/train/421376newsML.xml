@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421376" id="root" date="1997-03-05" xml:lang="en">
+<title>SWITZERLAND: Swiss KOF indicator falls 0.2 pct in January.</title>
+<headline>Swiss KOF indicator falls 0.2 pct in January.</headline>
+<dateline>ZURICH 1997-03-05</dateline>
+<text>
+<p>Switzerland's Centre for Research of Economic Activity (KOF), part of the Swiss Federal Institute of Technology (ETH), said its economic barometer fell 0.2 percent in January versus December.</p>
+<p>The January index compared with a year ago rose 0.8 percent. December was revised to up 0.4 percent from an unchanged reading reported last month.</p>
+<p>KOF said, based on the fourth quarter reading, that the economy appeared likely to start recovering by the second half.</p>
+<p>&quot;In its adjusted form, the KOF/ETH barometer in the fourth quarter nearly reached the longer-term average for the first time since May 1996,&quot; KOF said.</p>
+<p>It said orders on hand in the machinery sector had fallen to a record low of four months in the fourth quarter, but the decline had &quot;significantly slowed.&quot;</p>
+<p>The construction indicator also showed signs that its declines were coming to an end.</p>
+<p>The job sector appeared mixed. The outlook for employment in the industrial sector had stopped deteriorating, but the Manpower index for open positions showed no sign of steadying. Overall, the picture appeared to point to further worsening, KOF said. -- Zurich Editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101305" id="root" date="1996-10-07" xml:lang="en">
+<title>JAPAN: Japan police arrest former Prudential Sec manager.</title>
+<headline>Japan police arrest former Prudential Sec manager.</headline>
+<dateline>TOKYO 1996-10-07</dateline>
+<text>
+<p>Police on Monday arrested a former assistant manager of Prudential Securities (Japan) Ltd on suspicion of embezzling 1.13 billion yen from the company, a Tokyo Metropolitan Police spokesman said.</p>
+<p>The company, a subsidiary of Prudential Securities Inc of the United States, last week accused Atsumi Kikuchi, 37, its former assistant general manager, of pocketing shares entrusted to the firm by customers since around 1993. It said it also suspected him of embezzling settlement money for share trading transactions.</p>
+<p>The former executive was laid off in May 1995 as part of the firm's restructuring, company officials said.</p>
+<p>They said the loss had been fully covered by an insurance policy and had not had any impact on the company's performance.</p>
+<p>The officials said the firm reported the loss to police in July 1995 and in April this year asked for legal action against the man.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122995" id="root" date="1996-10-17" xml:lang="en">
+<title>UK: Libya postpones sugar tender deadline to Friday.</title>
+<headline>Libya postpones sugar tender deadline to Friday.</headline>
+<dateline>LONDON 1996-10-17</dateline>
+<text>
+<p>Libya postponed the deadline for bids in its white sugar buying tender until Friday, European sugar traders said on Thursday. Replies would be issued sometime on Monday, they said.</p>
+<p>Earlier, brokers said Libya might ask the trade houses involved in the tender to re-submit their bids at lower levels to take account of weaker prices on the London futures market. Libya tendered on Tuesday to buy 14,000 tonnes of 45 ICUMSA white sugar for shipment in November/December. Replies were originally scheduled for Thursday.</p>
+<p>-- Jeremy Smith, London Newsroom +44 171 542 8064</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

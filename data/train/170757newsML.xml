@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170757" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Republican Brownback wins Kansas Senate seat.</title>
+<headline>Republican Brownback wins Kansas Senate seat.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Kansas selected freshman Republican congressman Sam Brownback over Democrat Jill Docking to fill the remaining two years of Sen. Bob Dole's term, major television networks reported Tuesday.</p>
+<p>Docking, a stockbroker and moderate who favored abortion rights, would have been the first Democratic senator from the state since the Great Depression. Brownback, a conservative, had defeated Dole's temporary replacement, politically moderate Sen. Sheila Frahm, in the primary.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

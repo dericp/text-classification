@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35696" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Exploration sets Williston drilling.</title>
+<headline>Exploration sets Williston drilling.</headline>
+<dateline>SAN ANTONIO, Texas 1996-09-05</dateline>
+<text>
+<p>Exploration Co said Thursday that it has begun the process of filing for permits to drill 10 horizontal wells in the Red River &quot;B&quot; formation on its newly acquired leasehold in the Williston Basin in conjunction with its joint venture partner, Retamco Operating Inc.</p>
+<p>Exploration Co noted it previously reported its purchase of a 25 percent interest in 130,000 acres in portions of North Dakota and Montana.</p>
+<p>Concurrently with the permitting, the company said, it will contract a drilling rig to begin the program as soon as possible.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

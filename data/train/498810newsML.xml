@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="498810" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Court okays $35 mln DIP financing for McCrory Corp.</title>
+<headline>Court okays $35 mln DIP financing for McCrory Corp.</headline>
+<dateline>NEW YORK 1997-04-10</dateline>
+<text>
+<p>McCrory Corp, a retailer operating in Chapter 11 bankruptcy since 1992, said Thursday that the U.S. Bankruptcy Court in the Southern District of New York has approved a previously-announced 16-month agreement with privately-held Foothill Capital Corp for $35 million of debtor-in-possession (DIP) financing.</p>
+<p>The company said the proceeds will be used, among other purposes, to repay $11 million in DIP financing from another lender, and for ongoing capital needs.</p>
+<p>Advances by Foothill under the DIP financing, said the company, will be secured by super priority liens on substantially all of its assets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

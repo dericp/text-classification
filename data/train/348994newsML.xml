@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="348994" id="root" date="1997-01-31" xml:lang="en">
+<title>MALTA: PRESS DIGEST - Malta - Jan 31.</title>
+<headline>PRESS DIGEST - Malta - Jan 31.</headline>
+<dateline>VALLETTA 1997-01-31</dateline>
+<text>
+<p>The following are the leading stories in the Maltese press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>THE TIMES</p>
+<p>- Government publishes white paper on new tax system. The system, consisting mostly of customs and excise duties, will replace Value Added Tax.</p>
+<p>IN-NAZZJON</p>
+<p>- Opposition Nationalist Party says government's proposals for an alternative system to VAT is nothing more than a re-packaging, with the main aspects of VAT being retained.</p>
+<p>L-ORIZZONT</p>
+<p>-  Tax white paper published.</p>
+<p>- Historic Super Constellation aircraft burnt and destroyed. The four-engined Constellation last flew in 1968.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

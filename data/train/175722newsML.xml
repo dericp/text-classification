@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175722" id="root" date="1996-11-08" xml:lang="en">
+<title>CANADA: Toronto bond market to close early today.</title>
+<headline>Toronto bond market to close early today.</headline>
+<dateline>TORONTO 1996-11-08</dateline>
+<text>
+<p>The Toronto Bond Traders Association recommended an early 3 p.m. EST (2000 GMT) close for bond trading Friday to commemorate Canada's Remembrance Day holiday on Monday.</p>
+<p>Bonds resume trading on Monday, although many dealers said they would take the day off. Banks are closed on Monday for the holiday.</p>
+<p>Normal trading is expected to resume on Tuesday.</p>
+<p>-- Reuters Toronto Bureau 416 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

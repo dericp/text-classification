@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212451" id="root" date="1996-11-23" xml:lang="en">
+<title>USA: International Paper workers reject union.</title>
+<headline>International Paper workers reject union.</headline>
+<dateline>JAY, Maine 1996-11-22</dateline>
+<text>
+<p>Workers at International Paper Co's Androscoggin mill in Jay, Maine rejected a proposal to rejoin the United Paperworkers International Union, company officials said Friday.</p>
+<p>The proposal by the UPIU to return as the employees' bargaining agent was rejected 511 to 392. The central Maine facility employs about 1,200 people, of whom about a thousand were eligible to vote.</p>
+<p>Mill employees decertified the UPIU and other unions in 1992 after a bitter dispute in which replacement workers were given the jobs of striking employees. An effort to unionize the mill also failed in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAY, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

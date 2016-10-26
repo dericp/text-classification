@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="519763" id="root" date="1997-04-18" xml:lang="en">
+<title>SWEDEN: SWIMMING-BOWRON WINS WOMEN'S 800 FREESTYLE WORLD TITLE.</title>
+<headline>SWIMMING-BOWRON WINS WOMEN'S 800 FREESTYLE WORLD TITLE.</headline>
+<dateline>GOTHENBURG, Sweden 1997-04-18</dateline>
+<text>
+<p>Natasha Bowron claimed Australia's sixth title at the world short-course swimming championships by winning the women's 800 metres freestyle on Friday.</p>
+<p>Bowron, 15, set the pace throughout and left Australia top of the medals table at the end of the second day of the four-day championships.</p>
+<p>She won in eight minutes 26.45 seconds from Germany's Kerstin Kielgass, who clocked 8:28.10, and Carla Geurts of the Netherlands, the silver medallist in 1995, who finished in 8:28.96.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOTHENBURG, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

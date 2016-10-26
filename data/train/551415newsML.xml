@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="551415" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Cincinnati Purchasing Managers say April growth up.</title>
+<headline>Cincinnati Purchasing Managers say April growth up.</headline>
+<dateline>CHICAGO 1997-04-30</dateline>
+<text>
+<p>The Cincinnati chapter of the National Association of Purchasing Management said on Wednesday its April report showed business activity in the area was slightly stronger from March.</p>
+<p>The group said growth was reflected in the report's new orders, backlog of orders and dollars spent by purchasing components.</p>
+<p>New orders rose to 27 in April, from 18 in March, but was below the three-month average.  However, new orders, as well as the production and employment components, remain higher than the three-year average.</p>
+<p>Employment rose to 20, from March's 12, but the group said employment in the area &quot;does not seem to be adding significant pressure on service prices.&quot;</p>
+<p>Commodity prices fell to 16 in April, from 18 in March.</p>
+<p>&quot;This index continues to show stability with a low rate of increase for a six-month period, indicating at this point the strength in the economy is not resulting in alarming levels of higher prices,&quot; the group said. ((Derivatives desk 312-408-8750))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156556" id="root" date="1996-10-31" xml:lang="en">
+<title>VENEZUELA: Venezuela Vensaeta Q1 shr up.</title>
+<headline>Venezuela Vensaeta Q1 shr up.</headline>
+<dateline>CARACAS 1996-10-31</dateline>
+<text>
+<p>Earnings per share 2.40 bolivars vs 2.34 bolivars</p>
+<p>Net profit 888 million bolivars vs 866 million bolivars</p>
+<p>Costs 13 million bolivars vs 361,000 bolivars</p>
+<p>Financing cost 43 million bolivars vs 73 million</p>
+<p>Revenues 940 million bolivars vs 939 million bolivars</p>
+<p>NOTES: Results are inflation-adjusted in constant September 30, 1996 bolivars and consolidated. Period ends September 30.</p>
+<p>Venezuela's Venaseta CA is a holding company for Venezuelan textile company Sudamtex.</p>
+<p>-- Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88315" id="root" date="1996-10-01" xml:lang="en">
+<title>MALAYSIA: Malaysia monthly palm oil exports - SGS (M) SDN.</title>
+<headline>Malaysia monthly palm oil exports - SGS (M) SDN.</headline>
+<dateline>KUALA LUMPUR 1996-10-01</dateline>
+<text>
+<p>The following table shows Malaysian monthly palm oil exports (crude, processed palm oil, palm/laurics and other downstream products) from cargo surveyor, Societe Generale de Surveillance (SGS) Malaysia Sdn Bhd.</p>
+<p>	  (All quoted in metric tonnes)</p>
+<p>     1996			   1995</p>
+<p>1.  January   - 531,944.     January   -  450,150.</p>
+<p>2.  February  - 461,734.     February  -  456,909.</p>
+<p>3.  March     - 593,029.     March     -  463,793.</p>
+<p>4.  April     - 548,790.     April     -  460,964.</p>
+<p>5.  May	 - 560,320.     May	 -  460,971.</p>
+<p>6.  June	- 604,053.     June	-  529,445.</p>
+<p>7.  July	- 649,331.     July	-  600,769.</p>
+<p>8.  August    - 708,601.     August    -  622,651.</p>
+<p>9.  September - 672,153.     September -  626,501.</p>
+<p>10. October   -		  October   -  642,928.</p>
+<p>11. November  -		  November  -  563,931.</p>
+<p>12. December  -		  December  -  497,462.</p>
+<p>	 -- KUALA LUMPUR (603-230-7510)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

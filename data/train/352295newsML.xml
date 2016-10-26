@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352295" id="root" date="1997-02-03" xml:lang="en">
+<title>NETHERLANDS: EOE sees record options volume in January.</title>
+<headline>EOE sees record options volume in January.</headline>
+<dateline>AMSTERDAM 1997-02-03</dateline>
+<text>
+<p>The European Options Exchange (EOE) said on Monday that January had been its busiest ever month, with 3.9 million options and futures contracts traded, beating the previous record of 3.19 million chalked up in October 1996.</p>
+<p>During January the EOE also had its busiest single day, when some 177,000 contracts were traded on Friday, January 17.</p>
+<p>Options on the AEX index itself recorded the largest total over the whole month at 752,000, with calls outnumbering puts. Options on the stocks of banking groups ING and ABN AMRO were placed second and third respectively.</p>
+<p>--Amsterdam Newsroom +31 20 504 5000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

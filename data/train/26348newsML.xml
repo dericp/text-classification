@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26348" id="root" date="1996-09-01" xml:lang="en">
+<title>AUSTRALIA: RTRS - Best Australian bank/non-bank term deposits.</title>
+<headline>RTRS - Best Australian bank/non-bank term deposits.</headline>
+<text>
+<p>(updated on August 16)</p>
+<p>BANKS</p>
+<p>    PERIOD	BANKS		 RATE   EFFECTIVE RATE</p>
+<p>    30 days     HKBK		  6.45	  --</p>
+<p>    90 days     Arab Bank	   7.00	  --</p>
+<p>   180 days     Arab Bank	   7.00	  --</p>
+<p>   270 days     Arab Bank	   7.05</p>
+<p>    1 year	Arab Bank	   7.15	  7.15</p>
+<p>    2 years     Advance	     7.50	  7.50</p>
+<p>    3 years     SBNSW		 7.75	  7.75</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

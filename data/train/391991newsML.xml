@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391991" id="root" date="1997-02-20" xml:lang="en">
+<title>UK: HSBC up after Hong Kong market rally.</title>
+<headline>HSBC up after Hong Kong market rally.</headline>
+<dateline>LONDON 1997-02-20</dateline>
+<text>
+<p>Shares in HSBC Holdings Plc were up 18-1/2p to 15.72-1/2 stg by 0855 GMT, following a strong performance by shares in the Hong Kong market, market makers said.</p>
+<p>&quot;HSBC is up in line with the Hang Seng this morning,&quot; one market maker said. &quot;There hasn't been any big buyer yet but considering the(London share) market is weak, it's putting in a good show.&quot;</p>
+<p>Hong Kong's blue-chip Hang Seng Index was up over 300 points or 2.3 percent by 0855 GMT following news of the death of China's paramount leader Deng Xiaoping.</p>
+<p>Dealers in Hong Kong said Deng's death removed the uncertainty overhanging the market during recent sessions.</p>
+<p>--Dale Faulken, London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

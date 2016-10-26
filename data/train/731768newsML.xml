@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731768" id="root" date="1997-07-16" xml:lang="en">
+<title>COTE D'IVOIRE: AfDB gives Uganda $38.5 mln adjustment loan.</title>
+<headline>AfDB gives Uganda $38.5 mln adjustment loan.</headline>
+<dateline>ABIDJAN 1997-07-16</dateline>
+<text>
+<p>The African Development Fund (ADF) has approved a loan of $38.5 million for Uganda to support its structural adjustment programme, the African Development Bank (AfDB) said on Wednesday.</p>
+<p>The money will be disbursed in two equal tranches, and will provide balance of payments and budget support to help Uganda meet macroeconomic targets agreed with the International Monetary Fund.</p>
+<p>It will also help the country improve the efficiency of its tax system and the management of the state budget.</p>
+<p>The ADF is the development bank's soft loan window. Its loans are interest-free, although the borrower pays a service charge of 0.75 percent per annum. The money is repayable over 50 years, with 10 years grace.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UGANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

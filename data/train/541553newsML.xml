@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541553" id="root" date="1997-04-26" xml:lang="en">
+<title>MEXICO: Two killed in clash between Mexican police, Indians.</title>
+<headline>Two killed in clash between Mexican police, Indians.</headline>
+<dateline>SAN CRISTOBAL DE LAS CASAS, Mexico 1997-04-26</dateline>
+<text>
+<p>Two people were killed and four others injured in a shootout between police and Chol Indians in the troubled southern Mexican state of Chiapas, officials said on Saturday.</p>
+<p>Police agent Gabriel Galdamez Sanchez, 23, died after he and other officers were ambushed by Chol Indians early on Friday near the village of Sabanilla, some 60 miles (100 km) northeast of state capital Tuxtla-Gutierrez, the state government said in a statement.</p>
+<p>Police repelled the attack, killing an unidentified Indian and wounding two others, according to the statement. Two policemen were injured in the incident and another Chol Indian arrested.</p>
+<p>Mexico City daily La Jornada on Saturday reported that local villagers disputed the official version of events, saying police and paramilitary groups were harassing the group of Indians and provoked the incident.</p>
+<p>La Jornada said the group was headed to join a cross-state march by some 500 Indian activists, who were forced out of their homes by paramilitary groups in the northern part of the state.</p>
+<p>Violence in Chiapas has been on the rise in the three months since Zapatista Indian rebels and the government suspended peace talks. A ceasefire still holds.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN CRISTOBAL DE LAS CASAS, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

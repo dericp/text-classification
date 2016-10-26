@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="342465" id="root" date="1997-01-29" xml:lang="en">
+<title>JAPAN: Kobe rubber futures mostly up in after-hours trade.</title>
+<headline>Kobe rubber futures mostly up in after-hours trade.</headline>
+<dateline>TOKYO 1997-01-29</dateline>
+<text>
+<p>Kobe rubber futures were mostly higher in after-hours trade on Wednesday, as sentiment remained bullish from the day trade, traders said.</p>
+<p>The benchmark July contract was at 143.7 yen per kg, up by 0.2 yen from the day's close. The volume was 3,948 lots.</p>
+<p>During the day, all months gained on the dollar's gains against the yen, traders said. The dollar soared to 122.75 yen during Tokyo trading, its highest level in almost four years.</p>
+<p>&quot;But the distant months' price gains were less than we expected,&quot; a trader said. Open interest fell to 36,335 lots as of January 28 from 40,115 lots as of January 6.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161741" id="root" date="1996-11-02" xml:lang="en">
+<title>UK: Alleged British war criminal has Alzheimer's - paper.</title>
+<headline>Alleged British war criminal has Alzheimer's - paper.</headline>
+<dateline>LONDON 1996-11-02</dateline>
+<text>
+<p>An 85-year old Belarussian refugee facing a war crimes trial in Britain has Alzheimer's disease, the Observer newspaper reported.</p>
+<p>It said Szymon Serafinowicz would probably be found unfit to stand trial on charges of murdering Jews in Byelorussia (now Belarus) during World War Two.</p>
+<p>A hearing preparing for Serafinowicz's trial -- to be Britain's first war crimes trial -- is scheduled for next week, on November 6.</p>
+<p>But the Observer said psychiatrists would testify that the frail-looking Serafinowicz had Alzheimer's, an incurable and progressive brain disease that causes dementia and death.</p>
+<p>Serafinowicz has said he is innocent of charges he killed the Jews in 1942 while commander of a German-organised police unit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

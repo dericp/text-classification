@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="697195" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: Planet Polymer in venture with Israeli co.</title>
+<headline>Planet Polymer in venture with Israeli co.</headline>
+<dateline>SAN DIEGO 1997-06-29</dateline>
+<text>
+<p>Planet Polymer Technologies Inc said Sunday it has an agreement to enter into a joint venture with Environmental Services Co (Ramat Hovav) Ltd to market and manufacture Planet's environmental products and processes throughout Israel and neighboring regions.</p>
+<p>Environmental Services is a company under the guidance of the Israeli Ministry of Environment.</p>
+<p>Under their memorandum of understanding, Environmental Services would own 50 percent of the joint venture and contribute the initial financial capital required through the first year of commercialization.</p>
+<p>Planet Polymer would own the other 50 percent and would contribute technological and scientific expertise, marketing collateral and technical support, it said.</p>
+<p>The scope of the joint venture and the level of funding and other resources involved are still being explored by the two companies.</p>
+<p>Environmental Services was founded in 1990 and manages the hazardous wastes treatment center at Ramat Hovav under the guidance of the Ministry of Environment.</p>
+<p>((-- New York Newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

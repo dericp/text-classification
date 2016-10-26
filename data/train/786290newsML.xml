@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786290" id="root" date="1997-08-07" xml:lang="en">
+<title>UK: LW RENTENBANK SETS 500 MLN TEC-10 LINKED BOND.</title>
+<headline>LW RENTENBANK SETS 500 MLN TEC-10 LINKED BOND.</headline>
+<dateline>LONDON 1997-08-07</dateline>
+<text>
+<p>The following bond was announced</p>
+<p>by joint lead managers BNP and CDC.</p>
+<p> BORROWER   LANDWIRTSCHAFLICHE RENTENBANK</p>
+<p> AMT    500 MLN FFR   COUPON   **4.285     MATURITY    03.SEP.07</p>
+<p> TYPE   TEC10-LINKED  ISS PRICE  101.675   PAY DATE    03.SEP.97</p>
+<p> FULL FEES  2.0	 REOFFER    PAR	 SPREAD	=</p>
+<p> MOODY	AAA	 LISTING    PARIS     PAY FREQ    **</p>
+<p> S&amp;P	  AAA	 DENOMS (M) ONE	 SALE LIMITS =</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES</p>
+<p> MGT/UND    0.325     SELL CONC  1.675     PRAECIPUUM  =</p>
+<p> NOTES    **FOR YEARS 1-5, THEN TEC-10 FLAT, PAYABLE QUARTERLY</p>
+<p>		ISSUED OFF MTN PROGRAMME</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191641" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Digi to make high-speed modems.</title>
+<headline>Digi to make high-speed modems.</headline>
+<dateline>MINNEAPOLIS 1996-11-14</dateline>
+<text>
+<p>Digi International Inc said Thursday it was awarded a contract to make wireline modems featuring AetherWorks Corp's high-speed modem technology.</p>
+<p>Under terms of the deal, Digi could convert secured notes it acquired from AetherWorks into a majority interest in that company, a St. Paul, Minnesota, developer of computer telephony, wireless and dial-up remote access technology.</p>
+<p>The technology, called V.Mach, will be unveiled at a technology show next week in Las Vegas, the companies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

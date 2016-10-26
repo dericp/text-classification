@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="324284" id="root" date="1997-01-22" xml:lang="en">
+<title>CROATIA: Croatia c.bank sells HRK22.5 mln bills, rates flat.</title>
+<headline>Croatia c.bank sells HRK22.5 mln bills, rates flat.</headline>
+<dateline>ZAGREB 1997-01-22</dateline>
+<text>
+<p>Rates were steady and volume dipped to only 22.5 million kuna on Wednesday, Croatia's central bank said after its weekly auction.</p>
+<p>The 91-day rate was unchanged at 9.0 percent as the bank accepted all bids totalling 6.0 million kuna.</p>
+<p>It sold 16.5 million worth of 35-day bills at a steady 7.50 percent rate.</p>
+<p>The banks still stayed out of the longest term, 182-day bills, last issued at 17.50 percent in 1996. -- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

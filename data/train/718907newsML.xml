@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718907" id="root" date="1997-07-10" xml:lang="en">
+<title>HUNGARY: Hungary forint ends firmer vs dlr.</title>
+<headline>Hungary forint ends firmer vs dlr.</headline>
+<dateline>BUDAPEST 1997-07-10</dateline>
+<text>
+<p>The Hungarian forint closed sharply firmer against the dollar on Thursday as the U.S. currency slid against the German mark, dealers said.</p>
+<p>They added the forint remained unchanged against the currency basket as it was stuck at the central bank's resistance level.</p>
+<p>The forint finished at 188.47/52 to the dollar, compared to 189.58/63 at opening.</p>
+<p>(The NBH's floating intervention band is 4.5 percent wide. The forint floats against a currency basket made up 30 percent of the dollar and 70 percent of the mark.)</p>
+<p>-- Budapest newsroom +36 1 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178929" id="root" date="1996-11-11" xml:lang="en">
+<title>CANADA: BioChem says study results promising.</title>
+<headline>BioChem says study results promising.</headline>
+<dateline>MONTREAL 1996-11-11</dateline>
+<text>
+<p>BioChem Pharma Inc said on Monday that preliminary results from an ongoing study of 24 chronically infected hepatitis B patients showed encouraging results for treatment using its lamivudine drug.</p>
+<p>The interim results were released on Sunday in Chicago at the annual meeting of the American Association for the Study of Liver Diseases, the company said.</p>
+<p>BioChem said investigators concluded that extended lamivudine therapy appeared to maintain persistent suppression of the hepatitis B virus in most patients for at least one year. The drug is not yet approved for commercial sale.  </p>
+<p>The interim results, presented by Dr. Jules Dienstag, were observed from 23 patients with chronic hepatitis B who participated in earlier Phase II lamivudine trials for one or two months and who were still positive for hepatitis e antigen and hepatitis B virus DNA, BioChem Pharma said.</p>
+<p>In the latest Phase II study, those patients received extended retreatment with lamivudine (100 mg orally, once daily, for a mean duration of 59 weeks. Persistent hepatitis B virus DNA suppression was observed in 87 percent (20 of 23) of evaluable patients, the company said.  </p>
+<p>Nine of 23 (39 percent) patients lost detectable hepatitis e antigen, five of whom (22 percent) acquired anti-hepatitis e antigen antibodies, with two patients (9 percent) having lost hepatitis hepatitis e antigen.</p>
+<p>Overall, lamivudine was well tolerated, although one patient experienced elevations of CPK enzyme of indeterminate significance. About one-third of patients experienced transient, mild ALT elevations, generally in the second or third month.</p>
+<p>Three patients in the study were reported to have developed resistance to lamivudine.  </p>
+<p>Those breakthroughs were subclinical, BioChem said, adding that as with other viral infections, some degree of resistance was a common feature of anti-infective drug therapy, including antivirals such as lamivudine.</p>
+<p>It said that while the interim results were encouraging, definitive conclusions about the clinical profile of lamivudine as a treatment for hepatitis B could only be drawn after randomized placebo-controlled Phase III trials were concluded. Such studies were under way, comprising more than 1,000 patients in 22 countries in the Far East, North America and Europe.</p>
+<p>Lamivudine was discovered by BioChem and licensed to Glaxo Wellcome Plc in 1990.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

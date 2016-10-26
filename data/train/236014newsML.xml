@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="236014" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 05-DEC.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 05-DEC.</headline>
+<text>
+<p>Tropical cyclone 08b is still off the coast of Andhra Pradesh about 75 miles east of Nellore. It is rapidly weakening as winds have diminished to 55 mph. It will still be a risk to shipping as it drifts slowly towards the southeast coast of Andhra Pradesh during the next 12-18 hours, although it will continue to weaken. It should be dissipating as it makes landfall this period but could still cause locally heavy rain and flash flooding.  </p>
+<p>Tropical Cyclone 08S is a moderate to strong risk to shipping in the southwest Indian Ocean as winds reach 100 mph. It remains as a significant risk to shipping during the next 24-48 hours as it tracks southwest in the region east of northern Madagascar. Eventually it may threaten the eastern coast of Madagascar, in about 72 hours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

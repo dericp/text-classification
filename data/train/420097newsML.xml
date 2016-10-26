@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="420097" id="root" date="1997-03-05" xml:lang="en">
+<title>USA: PTI Holding Inc oper shr $0.10 vs $0.07.</title>
+<headline>PTI Holding Inc oper shr $0.10 vs $0.07.</headline>
+<dateline>HASTINGS-ON-HUDSON, N.Y. 1997-03-05</dateline>
+<text>
+<p>PTI HOLDING INC. AND SUBSIDIARIES</p>
+<p>			    Three Months Ended   Year Ended</p>
+<p>				 December 31,	 December 31,</p>
+<p>			   1996	 1995	  1996	  l995</p>
+<p> Net sales	$3,997,146 $1,660,769 $17,529,509  $8,166,788</p>
+<p>Income from</p>
+<p>continuing operations</p>
+<p>			 404,999    278,495   1,691,118     787,936</p>
+<p>Income (loss) from</p>
+<p>discontinued operations</p>
+<p>				--     80,000	    --	80,000</p>
+<p> Net income	  404,999    358,495   1,691,118     867,936</p>
+<p>Net income per share</p>
+<p>of common stock</p>
+<p>Continuing operations</p>
+<p>			     .10	  .07	   .43	   .22</p>
+<p>Discontinued operations</p>
+<p>				--	  .02	    --	   .02</p>
+<p>	  TOTAL	    .10	  .09	   .43	   .24</p>
+<p>Weighted average shares</p>
+<p>  outstanding    4,151,184  3,794,206   4,103,964   3,637,025</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HASTINGS-ON-HUDSON, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

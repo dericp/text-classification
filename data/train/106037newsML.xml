@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106037" id="root" date="1996-10-09" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1996-10-09</dateline>
+<text>
+<p>COAL - TBN 150,000 tonnes caol Richards Bay/Ensted 16-30/11 $5.60 fio scale load/35,000 shinc Elsam.</p>
+<p>Artemis - 55,000 tonnes coal Roberts Bank/UK 22-31/10 $9.00/$9.25 fio five days shinc Lomar.</p>
+<p>ORE - Farenco - 130,000 tonnes Saldanha/Beilun 1-10/11 apporox. $6.50 fio scale load/15,000 shex Tristar.</p>
+<p>TBN 70,000 tonnes ore Ponta da Madeira/Adriatic prompt $7.50 fio three days shinc/15,000 shinc Duferco.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

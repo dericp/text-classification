@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="631253" id="root" date="1997-06-02" xml:lang="en">
+<title>SRI LANKA: Sri Lanka stocks end ranged, blue chips lead trade.</title>
+<headline>Sri Lanka stocks end ranged, blue chips lead trade.</headline>
+<dateline>COLOMBO 1997-06-02</dateline>
+<text>
+<p>Sri Lanka stocks closed in a tight range on Monday, amid trade dominated by foreign buying of blue chips, brokers said.</p>
+<p>The all share index closed 0.15 points lower at 732.75. Price gains nudged out losses by 26 to 23. The highly capitalised blue chip John Keells Holdings rose 5.25 rupees to 240.25, while Richard Pieris Exports was up 3.75 at 37.</p>
+<p>&quot;Foreign buyers were willing to take John Keells Holdings even at a premium, because they were able to get decent quantities of the stock,&quot; said a broker who declined to be identified.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="691300" id="root" date="1997-06-26" xml:lang="en">
+<title>ITALY: Italy approves third mobile phone licence decree.</title>
+<headline>Italy approves third mobile phone licence decree.</headline>
+<dateline>ROME 1997-06-26</dateline>
+<text>
+<p>The Senate or upper house of the Italian parliament approved a decree on Thursday which will open the way for a tender for the country's third mobile phone licence, meaning the bill now becomes law.</p>
+<p>Sources at the Senate said the decree, which has already been approved by the lower house, had passed without any modification to the text.  </p>
+<p>The third licence is to be for a manager of a PCN standard mobile phone service.</p>
+<p>Italy already has two GSM mobile phone service operators, state-controlled Telecom Italia Mobile (TIM) and Omnitel, which is controlled by an international consortium led by information technology group Olivetti.</p>
+<p>Several companies have expressed interest in the third licence, including a consortium consisting of Albacom, a joint venture between British Telecom, Banca Nazionale del Lavoro and Italian private broadcaster Mediaset.</p>
+<p>A joint venture consisting of Italian electricity utilitity Enel and Deutsche Telekom is also interested.</p>
+<p>The government has said the tender will open towards the middle of July and the licence will be awarded between the end of November and middle of December.</p>
+<p>--Milan bureau +39 2 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

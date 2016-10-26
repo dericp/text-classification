@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535703" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: PRESALE - Winston Co. Miss..</title>
+<headline>PRESALE - Winston Co. Miss..</headline>
+<text>
+<p>AMT: 1,550,000	DATE: 04/30/97	NYC Time: 1100	CUSIP: 975621</p>
+<p>ISSUER: Winston Co							ST: MS</p>
+<p>ISSUE: General obligation industrial, series 1997	     TAX STAT:Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 05/01/97							     SURE BID: N</p>
+<p>DUE: 5/1/98-12						SR MGR:</p>
+<p>1ST CPN: 11/01/97</p>
+<p>CALL: 5/1/05 @ par					  NIC</p>
+<p>DELIVERY: 60 days					   ORDERS:</p>
+<p>PAYING AGENT: To be agreed upon</p>
+<p>L.O.: Watkins Ludlam &amp; Stennis, Jackson</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $6,000,000 P/AMBAC 6/14/95 @ 5.4962% NIC; 13yrs 1mos avg;BBI- 5.75%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     55,000</p>
+<p>1999		     60,000</p>
+<p>2000		     65,000</p>
+<p>2001		     70,000</p>
+<p>2002		     75,000</p>
+<p>2003		     85,000</p>
+<p>2004		     90,000</p>
+<p>2005		    100,000</p>
+<p>2006		    105,000</p>
+<p>2007		    115,000</p>
+<p>2008		    125,000</p>
+<p>2009		    135,000</p>
+<p>2010		    145,000</p>
+<p>2011		    155,000</p>
+<p>2012		    170,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

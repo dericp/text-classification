@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="461017" id="root" date="1997-03-21" xml:lang="en">
+<title>JAPAN: Bunkahoso Brain -96/97 parent forecast.</title>
+<headline>Bunkahoso Brain -96/97 parent forecast.</headline>
+<dateline>TOKYO 1997-03-21</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    PREVIOUS	   ACTUAL</p>
+<p> (Parent)	     FORECAST	   FORECAST	  YEAR-AGO</p>
+<p> Sales		  4.00		 4.60		 3.60</p>
+<p> Current     loss 470    million  loss 300    million  loss 994    million</p>
+<p> Net	   loss 470    million  loss 300    million    loss 1.35</p>
+<p>NOTE - Bunkahoso Brain Co Ltd is a management consultant and systems developer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237515" id="root" date="1996-12-05" xml:lang="en">
+<title>FRANCE: French team lets handicapped talk on the Internet.</title>
+<headline>French team lets handicapped talk on the Internet.</headline>
+<byline>Marcel Michelson</byline>
+<dateline>PARIS 1996-12-05</dateline>
+<text>
+<p>Within a few years, some two million severely handicapped people in Europe could communicate with each other over the global Internet using a special eye-movement control to run a personal computer.</p>
+<p>A small French team of researchers on Thursday showed the latest prototype of an Apple Macintosh computer that reacts to the subtle movements of the eye.</p>
+<p>This system, which follows a clinical test with 30 people in France to evaluate a word processor commanded by eye movement, opens the world of multimedia to the handicapped and will allow them to entertain themselves with electronic books, compact discs or computer games.</p>
+<p>&quot;Severely handicapped people are mainly young people in the 15 to 31 years category who have had a road accident. They have not always been handicapped, they still have all their intellectual facilities and they have a very long life expectancy,&quot; said Bernard de Groc of social researchers Delta 7.</p>
+<p>Doctor Philippe Thoumie, who coordinated clinical tests in three hospitals in France this year, said that of the 30 people that had tried to use it, 22 had managed to do so with success.</p>
+<p>&quot;The main advantage of this system is that it is not a heavy system that makes a patient feel bad. They do not want to be robocops with special helmets on or with wires all over them,&quot; he told a news conference.</p>
+<p>The idea of letting the handicapped, especially those that have lost control of their upper body functions and sometimes even their speech faculty, communicate through the use of a computer is not new.</p>
+<p>There are systems that let a person &quot;push&quot; buttons on a screen by means of a mounted headset with a laserbeam.</p>
+<p>Other systems let the alphabet pass by on a screen and the patient can indicate the right letter. Yet another system puts sensors on the patient's face. There are also mouse-based systems for people who have still some control over their hands.</p>
+<p>&quot;The difficult thing was to be able to track eye-movements with a fixed camera in a head which is not being kept still,&quot; said Jacques Charnier, a researcher of the INSERM institute in Lille who has been working on the system since 1990.</p>
+<p>The Deltavision system they developed allows the handicapped to use ordinary computers and standard software applications.</p>
+<p>For that they have to sit in front of a computer screen above which there is a small box. This box contains a small camera in the middle of a field of characters and symbols.</p>
+<p>The camera tracks the eye when the handicapped person looks at a character to write a sentence in a word processor programme, or to give commands to execute other programmes.</p>
+<p>Charnier said the system could be coupled to infrared sensors that can change the volume of a music system or the temperature in a room. It can be used to play compact discs, make recordings of telephone conversations, browse through an encylopaedia on CD-Rom or surf the Internet.</p>
+<p>Delta 7 will test four of the upgraded prototypes in 1997, at a cost of some 150,000 French francs ($28,460) each, and hopes to be able to start commercialising the system in 1998.</p>
+<p>Financed by mutual insurance fund Mutuelles de Mans and a French medical charity, Delta 7's Groc is not dreaming of the commercial value of the machine but of new applications.</p>
+<p>&quot;What we want to do next is to make a system than can be used by people who have to stay in bed,&quot; he said. ($1=5.270 French Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

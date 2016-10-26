@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432635" id="root" date="1997-03-11" xml:lang="en">
+<title>UK: UK FTSE pares gains with Dow but hits record close.</title>
+<headline>UK FTSE pares gains with Dow but hits record close.</headline>
+<dateline>LONDON 1997-03-11</dateline>
+<text>
+<p>London's FTSE 100 index of leading shares finished Tuesday at its sixth consecutive record close but well short of its new all-time peak as Wall Street inspired UK shares to ascend new heights and then dragged them back down to earth.</p>
+<p>The FTSE soared to a record 4,466.3 points within minutes of opening, on the back of Monday's 78-point Dow advance. But Wall Street appeared to falter when it opened on Tuesday, and when the Dow turned back after failing to breach 7,100 points, the FTSE also gave up most of the day's gains.</p>
+<p>It ended 6.9 points firmer at 4,444.3, and the mid-cap FTSE 250 index also set new intraday and closing highs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

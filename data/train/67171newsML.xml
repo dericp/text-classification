@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67171" id="root" date="1996-09-20" xml:lang="en">
+<title>USA: ADM sues Whitacre for alleged $9 mln fraud.</title>
+<headline>ADM sues Whitacre for alleged $9 mln fraud.</headline>
+<dateline>CHICAGO 1996-09-20</dateline>
+<text>
+<p>Archer Daniels Midland Co, in a lawsuit obtained by Reuters Friday, accused government informant and former employee Mark Whitacre with a pattern of fraud that took more than $9 million from the company from 1991 through at least 1995.</p>
+<p>The lawsuit was filed Thursday in state court in Macon County, Illinois.  </p>
+<p>The lawsuit alleges ADM discovered in 1995 that Whitacre had engaged in theft, conversion, fraud and breach of fiduciary duties against ADM, including submitting phony invoices and contracts.</p>
+<p>Whitacre, who headed ADM's BioProducts division, was fired by ADM in August, 1995, for allegedly stealing millions of dollars from the company.</p>
+<p>Whitacre has contended that the money was not stolen, but was part of an off the books bonus system, according to press reports.</p>
+<p>Whitacre acted as informant for three years in an ongoing federal anti-trust investigation into possible price fixing in the lysine, citric acid and high-fructose corn syrup market.</p>
+<p>According to a source familiar with the investigation, the Justice Department is pressing ADM to enter pleas to charges of price fixing in those markets.</p>
+<p>--Reuters Chicago newsdesk, 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

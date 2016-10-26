@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94005" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: Environmental Tectonics contract reinstated.</title>
+<headline>Environmental Tectonics contract reinstated.</headline>
+<dateline>SOUTHAMPTON, Pa. 1996-10-03</dateline>
+<text>
+<p>Environmental Tectonics Corp said Thursday that its contract with the Royal Thai Air Force was reinstated after its appeal was granted by the Thai Trade Arbitration Council.</p>
+<p>The $4.6 million contract for an aircraft simulator was terminated in 1993, when the company was about 90 percent finished with the project, it said.</p>
+<p>At that time, the Thai Air Force also called a $229,000 performance bond and a $1.1 million advance payment guarantee, and assessed a penalty. The company did not disclose the level of penalties assessed.  </p>
+<p>Environmental Tectonics appealed the decision. On October 1, the arbitration panel issued a decision reinstating the contract in full.</p>
+<p>At that time, the company was instructed to complete the rest of the work under the contract.</p>
+<p>When the contract is completed, the Thai Air Force will pay the company the 10 percent balance due, and will release the performance bond and advance payment guarantee that were called.</p>
+<p>Additionally, no penalties are to be assessed against Environmental Tectonics.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTHAMPTON, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

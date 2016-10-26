@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641910" id="root" date="1997-06-05" xml:lang="en">
+<title>PHILIPPINES: Manila Central Banks lowers term rates.</title>
+<headline>Manila Central Banks lowers term rates.</headline>
+<dateline>MANILA 1997-06-05</dateline>
+<text>
+<p>The Philippine Central Bank said on Thursday it lowered term reverse repo (rrp) rates by 0.375 percentage points each.</p>
+<p>The five day and one-month rrp rates are now 10.5 percent from 10.875, two-month rrp 10.625 percent from 11.0 percent, three-month rrp 10.8125 percent from 11.1875 percent, and six-month rrp 11.125 percent from 11.50 percent.</p>
+<p>The adjustment in rates followed the two percentage point-cut in the Central Bank's overnight rates early on Thursday.</p>
+<p>- Manila newsroom 63 2 841-8937 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

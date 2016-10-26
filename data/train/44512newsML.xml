@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44512" id="root" date="1996-09-10" xml:lang="en">
+<title>JORDAN: Jordan overnight rates tend softer at 5.00-5.50pct.</title>
+<headline>Jordan overnight rates tend softer at 5.00-5.50pct.</headline>
+<dateline>AMMAN 1996-09-10</dateline>
+<text>
+<p>Overnight rates on the Jordanian dinar closed at 5.00-5.50 percent on Tuesday against 5.00-6.00 percent on Monday amid ample dinar funds, dealers said.</p>
+<p>Dealers attribute the softer market since the start of the trading week on Saturday to over 13 million dinars of maturing CDs that reverted back to the banking system and were not all tied back in a new 15 million dinar CD auction.</p>
+<p>Rates hovered around 7.75-8.50 percent on Thursday, the end of the previous trading week, after a week of tight liquidity.</p>
+<p>$1 = 0.0708 dinar</p>
+<p>-- Amman newsroom takes queries on +962 6 623 776</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

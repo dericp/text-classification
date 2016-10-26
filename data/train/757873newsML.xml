@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="757873" id="root" date="1997-07-25" xml:lang="en">
+<title>GERMANY: British, Dutch and Danes boost German wine exports.</title>
+<headline>British, Dutch and Danes boost German wine exports.</headline>
+<dateline>BONN 1997-07-25</dateline>
+<text>
+<p>Wine-drinkers in Britain, the Netherlands and Denmark helped boost German wine exports which rose nearly five percent last year, the ZMP farm price and marketing office said on Friday.</p>
+<p>Despite tough competition, particularly on European markets, German wine exports increased by 4.7 percent to about 2.3 million hectolitres from the previous year.</p>
+<p>Three-quarters of German wine exports were delivered to European Union countries with the most, 900,000 hectolitres to Britain, 289,000 to the Netherlands and 163,000 hectolitres to Denmark, the ZMP said in a statement.</p>
+<p>Outside the EU, the main takers were the Japanese with 140,000 hectolitres, the United States with 113,000 hectolitres and Brazil with 81,000 hectolitres.</p>
+<p>The statistics were for wines with up to 15 percent alcohol.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

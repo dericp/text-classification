@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="324471" id="root" date="1997-01-22" xml:lang="en">
+<title>CUBA: Cuban authorities detain three dissidents.</title>
+<headline>Cuban authorities detain three dissidents.</headline>
+<dateline>HAVANA 1997-01-22</dateline>
+<text>
+<p>Authorities in Cuba have detained three dissidents involved in trying to produce independent economic reports and news articles, diplomatic sources said on Wednesday.</p>
+<p>The sources said that Marta Beatriz Roque, director of a group called the Association of Independent Economists, and journalists Tania Quintero and Juan Antonio Sanchez were detained on Tuesday afternoon near the Czech embassy, which they had apparently been visiting.</p>
+<p>The three were under investigation at a Havana police station, the sources added. They had no other details of the case.</p>
+<p>There was no confirmation of the detentions by Cuban authorities, who rarely comment on cases involving the communist-ruled island's small, illegal opposition groups.</p>
+<p>The detentions coincided with a 24-hour visit by Canadian Foreign Minister Lloyd Axworthy.</p>
+<p>Axworthy, who was leaving Cuba later Wednesday, told reporters late on Tuesday he had raised Canadian concerns about human rights during talks with President Fidel Castro.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

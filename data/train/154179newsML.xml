@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="154179" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Rural Cellular Corp Q3 net, revenues rise.</title>
+<headline>Rural Cellular Corp Q3 net, revenues rise.</headline>
+<dateline>ALEXANDRIA, Minn. 1996-10-30</dateline>
+<text>
+<p>Third Quarter	 Nine Months</p>
+<p>				   1996	 1995     1996	1995</p>
+<p> REVENUES		   $ 9,046    $ 6,030 $ 22,173  $ 14,861</p>
+<p> OPERATING EXPENSES	 6,692	4,497   19,175    12,269</p>
+<p> OPERATING INCOME	   2,354	1,533    2,998     2,592</p>
+<p>OTHER INCOME</p>
+<p>  (EXPENSE), NET	     (24)	(388)	122     (767)</p>
+<p>INCOME BEFORE INCOME</p>
+<p>  TAXES			 2,330	1,145    3,120     1,825</p>
+<p> INCOME TAX PROVISION	 150	  350	176	 575</p>
+<p> NET INCOME		   2,180	  795    2,944     1,250</p>
+<p>WEIGHTED AVERAGE COMMON</p>
+<p>  SHARES OUTSTANDING	8,862	5,983    8,394     5,983</p>
+<p> EARNINGS PER SHARE	  0.25	 0.13     0.35	0.21</p>
+<p>BALANCED CELLULAR</p>
+<p>GROWTH INDICATORS</p>
+<p> Penetration		   6.6%	 3.8%     6.6%	3.8%</p>
+<p> Monthly Retention Rate   98.9%	99.1%    98.9%     99.1%</p>
+<p>Average Monthly Revenue</p>
+<p>  per Subscriber		 77	   86	 69	  74</p>
+<p>Acquisition Cost per</p>
+<p>  Gross Subscriber	    362	  420	334	 409</p>
+<p>		 (in thousands, except per share data)</p>
+<p>		     Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALEXANDRIA, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

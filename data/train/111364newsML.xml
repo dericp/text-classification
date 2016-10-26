@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111364" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: Goodyear expects Q3 flat sales, higher EPS.</title>
+<headline>Goodyear expects Q3 flat sales, higher EPS.</headline>
+<dateline>AKRON, Ohio 1996-10-11</dateline>
+<text>
+<p>Goodyear Tire &amp; Rubber Co said Friday its sales wil be flat for the third quarter because of competitive pricing pressures that hurt revenues.</p>
+<p>The company said revenues also were reduced by lower original equipment volume in North America and the international currencies against a stronger U.S. dollar.</p>
+<p>Goodyear said it expected sales to be &quot;essentially flat compared to last year's record level of $3.31 billion.&quot;  </p>
+<p>The company also said it expects to post net income for the quarter of between $166 million and $171 million, or $1.07 to $1.10 per share. For the third quarter in the prior year, the company reported net income of $157.5 million, or $1.03 per share.</p>
+<p>&quot;In addition to lower raw-material costs, Goodyear's improvement in net income will reflect productivity improvements and on-going cost containment measures ...&quot; Goodyear Chairman and Chief Executive Samir Gibara said in a statement.  </p>
+<p>The company said it also expects its worldwide tire unit sales to be higher than they were in the same period in the prior year. It did not specify the level of sales for that unit in the 1995 third quarter.</p>
+<p>Third quarter results are expected to be released on October 21.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AKRON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

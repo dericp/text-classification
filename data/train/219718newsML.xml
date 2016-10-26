@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219718" id="root" date="1996-11-27" xml:lang="en">
+<title>SENEGAL: Senegal holds re-runs after chaotic local polls.</title>
+<headline>Senegal holds re-runs after chaotic local polls.</headline>
+<dateline>DAKAR 1996-11-27</dateline>
+<text>
+<p>Senegal re-ran its local elections in 100 polling centres in the capital Dakar on Wednesday after organisational chaos prevented many people from voting, particularly in the suburbs.</p>
+<p>The main opposition Senegalese Democratic Party (PDS), which has called for the results nationwide of Sunday's poll to be scrapped, nevertheless took part in the re-runs.</p>
+<p>Polls opened on time at 8 a.m. (0800 GMT) after the army ensured that voting materials were in the right place on Tuesday evening. They were due to close at 6 p.m.</p>
+<p>Results from other areas have yet to be formally declared.</p>
+<p>PDS leader Abdoulaye Wade, defeated by President Abdou Diouf in disputed presidential elections in 1993, was running for the job of mayor of the capital Dakar.</p>
+<p>The ruling Socialist Party was trying on Sunday to recapture the urban vote which it lost to the opposition during presidential and parliamentary polls in 1993.</p>
+<p>The opposition boycotted the last municipal polls which took place in 1989 before Senegal's transition to more open multi-party politics.</p>
+<p>Fourteen political parties were contesting seats on regional, municipal, district and rural councils on Sunday. Just over three million people were eligible to vote then.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SENEG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAKAR"/>
+<dc element="dc.creator.location.country.name" value="SENEGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

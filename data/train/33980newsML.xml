@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33980" id="root" date="1996-09-05" xml:lang="en">
+<title>UK: Photocopiers can cause lung disease -- study.</title>
+<headline>Photocopiers can cause lung disease -- study.</headline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>Photocopier dust can cause serious lung disease, Austrian doctors said on Friday.</p>
+<p>Christine Armbruster and colleagues at the University of Vienna described the case of a man who evidently developed two conditions from the tiny metal particles in photocopier toner.</p>
+<p>In a letter to the Lancet medical journal, they said a 39-year-old man who did not smoke had suffered a persistent dry cough for a year. He was diagnosed with granulomatous pneumonitis, caused by breathing in tiny particles of metal, and lymphadenopathy -- a swelling of the lymph glands. &quot;With increasing use of photocopiers, more patients with pulmonary disease due to exposure to toner dust are expected,&quot; they wrote.</p>
+<p>Two years ago Spanish doctors wrote to the Lancet about a 44-year-old woman who suffered another lung disease, siderosilicosis, from working in a photocopying shop.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

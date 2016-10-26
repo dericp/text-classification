@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="305836" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: St Louis deliverable wheat and corn stocks.</title>
+<headline>St Louis deliverable wheat and corn stocks.</headline>
+<dateline>CHICAGO 1997-01-14</dateline>
+<text>
+<p>The Chicago Board of Trade reported the following stocks of wheat and corn in St Louis, deliverable against CBOT futures. (in 000's bushels)</p>
+<p>						1/10     WEEK    YEAR</p>
+<p>							   AGO     AGO</p>
+<p>Soft Red Winter			     977   1,026   2,209</p>
+<p>Hard Red Winter				NA	NA	NA</p>
+<p>Dark Northern Spring			 NA	NA	NA</p>
+<p>Northern Spring				NA	NA	NA</p>
+<p>Total Deliverable Grades		  977   1,026   2,209</p>
+<p>Non-Del Grades/Ungraded		 1,257   1,309   3,079</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL ST. LOUIS WHEAT STOCKS	  2,234   2,335   5,288</p>
+<p>Total Deliverable Grades		  315     270     574</p>
+<p>Non-Del Grades/Ungraded		     0	 0	 0</p>
+<p>CCC Stocks					0	 0	 0</p>
+<p>TOTAL ST. LOUIS CORN STOCKS	     315     270     574</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

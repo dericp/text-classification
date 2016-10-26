@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122809" id="root" date="1996-10-17" xml:lang="en">
+<title>GERMANY: SOCCER-COACH HAS HEART ATTACK DURING FIRST TRAINING SESSION.</title>
+<headline>SOCCER-COACH HAS HEART ATTACK DURING FIRST TRAINING SESSION.</headline>
+<dateline>LUEBECK, Germany 1996-10-17</dateline>
+<text>
+<p>Heinz Hoeher, new coach of struggling German second division side VfB Luebeck, suffered a heart attack at his first training session on Thursday, the club said.</p>
+<p>Shortly after being presented to the media as sacked trainer Michael Lorkowski's replacement, Hoeher, 58, was taken ill on the training pitch.</p>
+<p>He was taken to a nearby hospital in the north German port.</p>
+<p>Last week Dieter Fischdick, chairman of first division Duisburg, died after suffering a heart attack at a news conference. He was also 58.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LUEBECK, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

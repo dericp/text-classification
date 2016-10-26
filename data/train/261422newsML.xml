@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261422" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: FOB Gulf Grain - Soybean values up slightly.</title>
+<headline>FOB Gulf Grain - Soybean values up slightly.</headline>
+<dateline>CHICAGO 1996-12-17</dateline>
+<text>
+<p>U.S. Gulf FOB soybean basis offers were one cent higher in reaction to light pipeline supply, grain dealers said.</p>
+<p>Corn and winter wheat basis values were unchanged with dealers reporting a lack of trading in those markets.</p>
+<p>Results were awaited on Algeria's tender for 100,000 tonnes of wheat this week and India's for 500,000 tonnes. Some U.S. exporters relayed talk that Algeria may have bought 50,000 tonnes of French wheat as part of its tender, but by late Tuesday that had not been confirmed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

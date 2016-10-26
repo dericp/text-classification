@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="408181" id="root" date="1997-02-27" xml:lang="en">
+<title>UK: Baltic Freight Index fell to 1,458.</title>
+<headline>Baltic Freight Index fell to 1,458.</headline>
+<dateline>LONDON 1997-02-27</dateline>
+<text>
+<p>The Baltic Freight Index for spot dry cargo shipping rates fell to 1,454 today from 1,458 on Feb 26, with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.</p>
+<p>  Route Index     Rate     Prev Index  Rate</p>
+<p>   1    1525    13.844	  1531    13.900</p>
+<p>   1a   1466 11106.000	  1470 11131.000</p>
+<p>   2    1781    25.450	  1796    25.656</p>
+<p>   2a   1802 14781.000	  1818 14913.000</p>
+<p>   3    1704    15.725	  1702    15.700</p>
+<p>   3a   1500 11838.000	  1518 11981.000</p>
+<p>   6    1229    12.675	  1229    12.675</p>
+<p>   7    1157     5.631	  1159     5.644</p>
+<p>   8     887     9.750	   881     9.688</p>
+<p>   9     866  7569.000	   854  7469.000</p>
+<p>  10    1102     5.569	  1102     5.569</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="309713" id="root" date="1997-01-15" xml:lang="en">
+<title>CANADA: Cam-Net granted relief from creditors.</title>
+<headline>Cam-Net granted relief from creditors.</headline>
+<dateline>VANCOUVER 1997-01-15</dateline>
+<text>
+<p>Cam-Net Communications Network Inc said late on Tuesday that it and three of its subsidiaries were granted interim relief under the Companies' Creditors Arrangement Act, allowing Cam-Net to determine definitively the liabilities and claims made against it.</p>
+<p>The long-distance service provider said it took the action reluctantly to protect it from actions by its creditors and to stabilize its business operations while it prepares a restructuring plan for its creditors and shareholders.</p>
+<p>Cam-Net said its next step is to stabilize the company and increase revenues. It said management is committed to preserving the maximum value for creditors and shareholders and is seeking new financing to take the company to profitability.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

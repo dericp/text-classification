@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313939" id="root" date="1997-01-16" xml:lang="en">
+<title>SWITZERLAND: Roche sees higher 1996 profit.</title>
+<headline>Roche sees higher 1996 profit.</headline>
+<dateline>BASLE, Switzerland 1997-01-16</dateline>
+<text>
+<p>Swiss pharmaceuticals group Roche Holding AG said its 1996 net profit was expected to show another rise due to higher operating profits and good results from its non-operating business.  </p>
+<p>On October 15, 1996 Roche also forecast another rise in its 1996 profit.</p>
+<p>Roche had a 1995 group net profit of 3.37 billion Swiss francs.</p>
+<p>During 1996 Roche said significant gains in sales volumes helped it expand its position in important sectors and markets despite sustained price pressures.</p>
+<p>Sales of its leading products continued to grow and new products were very well received in the market.</p>
+<p>Capacity utilisation at its plants continued to rise and coupled with steady gains in efficiency, this helped operating profits show another rise.</p>
+<p>&quot;Taking into account another good result for the group's non-operating activities as well, Roche expects to see consolidated net income increase once again,&quot; Roche said in a statement.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

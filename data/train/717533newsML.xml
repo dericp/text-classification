@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="717533" id="root" date="1997-07-09" xml:lang="en">
+<title>ITALY: TABLE - Italian June new car registrations detailed.</title>
+<headline>TABLE - Italian June new car registrations detailed.</headline>
+<dateline>MILAN 1997-07-09</dateline>
+<text>
+<p>Italian new car registrations in June rose 50.71 percent to 222,800 compared with 147,838 in June 1996, Ministry of Transport figures showed.</p>
+<p>	 June 97 registrations   Mkt shre    June 96  Mkt shre</p>
+<p>Fiat			102,100   45.82	 61,586  41.66</p>
+<p>Ford			 20,680    9.28	 14,456   9.78</p>
+<p>Volkswagen		 20,420    9.17	 16,923  11.44</p>
+<p>General Motors	   19,620    8.81	 12,659   8.56</p>
+<p>Renault		    15,330    6.88	 10,229   6.92</p>
+<p>PSA Peugeot		14,570    6.54	 10,138   6.86</p>
+<p>BMW			  10,060    4.51	  7,021   4.75</p>
+<p>Nissan			4,030    1.81	  2,917   1.97</p>
+<p>Mercedes		    3,090    1.39	  3,310   2.24</p>
+<p>Volvo			 2,200    0.99	  1,531   1.04</p>
+<p>NOTE - Fiat comprises Fiat, Alfa Romeo, Lancia Autobianchi, and Fiat-Innocenti. Volkswagen comprises VW, Audi, Skoda and Seat. General Motors comprises Opel and Saab.</p>
+<p>PSA-Peugeot comprises Peugeot and Citroen. BMW comprises BMW and Rover.</p>
+<p>-- Milan bureau +392 66129502</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

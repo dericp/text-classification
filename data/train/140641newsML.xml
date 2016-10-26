@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140641" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: U.S. to send burn specialists to aid Ecuador.</title>
+<headline>U.S. to send burn specialists to aid Ecuador.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>The United States will send burn specialists and medical supplies to Ecuador to help victims of a recent plane crash, a State Department spokesman said on Thursday.</p>
+<p>&quot;The Defence Department is airlifting today 29 military burns specialists from Fort Sam Houston in Texas, as well as some very urgently needed medication, to Ecuador to cope with this terrible tragedy,&quot; spokesman Nicholas Burns said.</p>
+<p>The Boeing 707 chartered by a U.S. cargo company crashed into the port city of Manta shortly after takeoff on Tuesday night. Ecuadoran authorities say 25 people have been confirmed dead, while Burns said the U.S. Embassy in Quito estimated the toll on the ground at 40.</p>
+<p>The aircraft's three crew members, two of them believed to be American citizens, also perished in the crash, he said. He said U.S. Ambassador to Ecuador Les Alexander had requested authorisation to spend up to $25,000 of State Department funds to respond to the emergency.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ECU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

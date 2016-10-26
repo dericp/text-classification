@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592880" id="root" date="1997-05-17" xml:lang="en">
+<title>KENYA: Kabila says rebels entering Kinshasa.</title>
+<headline>Kabila says rebels entering Kinshasa.</headline>
+<dateline>NAIROBI 1997-05-17</dateline>
+<text>
+<p>Zaire rebel leader Laurent Kabila on Saturday said his forces were entering the Zaire capital Kinshasa from the airport about 25 km (16 miles) away.</p>
+<p>&quot;Our troops are marching in from the airport. We are singing as we are going, and people are cheering&quot;, Kabila told Reuters by telephone from rebel-occupied Zaire. There was no independent confirmation.  </p>
+<p>Kabila spoke after President Mobutu Sese Seko's ethnic guardsmen killed Zaire's army chief on Friday night, after the embattled president quit Kinshasa for his northern jungle palace Gbadolite. He left his emergency-rule government in charge.</p>
+<p>When asked about the death of General Mahele Lieko Bokungu, defence minister and chief of army staff, Kabila said he had not heard of it but that it was &quot;very, very bad.&quot;</p>
+<p>Zairean and diplomatic sources said Mahele was killed late on Friday night at Camp Tshatshi, the barracks residence of the ailing president.</p>
+<p>&quot;Mahele was killed at the camp by the Special Presidential Division (DSP),&quot; a senior Western diplomat told Reuters in neighbouring Congo by telephone. &quot;He went to calm the guys down and then he was shot,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAIROBI"/>
+<dc element="dc.creator.location.country.name" value="KENYA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

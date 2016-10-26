@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="706957" id="root" date="1997-07-04" xml:lang="en">
+<title>UK: LIFFE cocoa ends up as industry buys, coffee flat.</title>
+<headline>LIFFE cocoa ends up as industry buys, coffee flat.</headline>
+<text>
+<p>COCOA - Up on industry buying. Sept last traded 20 stg higher at 1,039 stg.</p>
+<p>COFFEE - Stagnant, with little change after AM moves. Sept unchanged at $1,795</p>
+<p>SUGAR - Lower in slow trade on NY holiday. August 70 cents down at $319.20 at 1604 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

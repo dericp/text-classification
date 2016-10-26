@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40860" id="root" date="1996-09-09" xml:lang="en">
+<title>CANADA: WCE Aug '96 futures, options up 28 pct on Aug '95.</title>
+<headline>WCE Aug '96 futures, options up 28 pct on Aug '95.</headline>
+<dateline>WINNIPEG 1996-09-09</dateline>
+<text>
+<p>The volume of futures and options traded on the Winnipeg Commodity Exchange in August reached 134,401 contracts, up 28 percent from August 1995, a WCE statement said.</p>
+<p>Western barley futures led the rise with 24,878 futures contracts trading, up from 10,145 the previous August. Open interest Aug 31, 1996, was 15,437, up 49 percent from the previous period.</p>
+<p>Canola futures volume totaled 87,896 contracts traded, up 24 percent from the same month a year earlier. Options volume fell to 4,146 contracts from 5,188 the year before.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

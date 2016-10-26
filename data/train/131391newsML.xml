@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131391" id="root" date="1996-10-21" xml:lang="en">
+<title>UK: Rentenbank sets 100 mln mark 10-year reverse FRN.</title>
+<headline>Rentenbank sets 100 mln mark 10-year reverse FRN.</headline>
+<dateline>LONDON 1996-10-21</dateline>
+<text>
+<p>The following bond was announced</p>
+<p>by lead manager Morgan Stanley Bank AG.</p>
+<p> BORROWER   LANDWIRTSCAFTLICHE RENTENBANK</p>
+<p> AMT    100 MLN DEM   COUPON    *10 PCT    MATURITY    13.NOV.06</p>
+<p> TYPE    REVERSE FRN  ISS PRICE  100.10    PAY DATE    13.NOV.96</p>
+<p> FULL FEES  2.50	REOFFER    97.925    SPREAD	 =</p>
+<p> NOTES     *FOR YEARS ONE AND TWO, STEPPING UP TO 17 PCT</p>
+<p>		LESS TWO TIMES 6M MARK LIBOR FLAT.</p>
+<p> MOODY	AAA	 LISTING    FFRT	PAY FREQ    =</p>
+<p> S&amp;P	  AAA	 DENOMS (K) ONE	 SALE LIMITS US/UK</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   HOME CTRY  =	   TAX PROVS   STANDARD</p>
+<p> MGT/UND    0.325     SELL CONC  2.175</p>
+<p> NOTES	ISSUED OFF AN EMTN PROGRAMME.</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

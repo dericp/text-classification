@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14559" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: IMM currency futures dip again late, end mixed.</title>
+<headline>IMM currency futures dip again late, end mixed.</headline>
+<text>
+<p>Aug 26 - IMM currency futures edged off again late on position-squaring, ended thin trading mixed. Currencies glossed over drop in U.S. bond, stock prices. U.K. holiday, uncertainty over Weds' quarterly BoJ Tankan survey, upcoming U.S. Labor Day holiday, kept many players on sidelines. Some said lack of followthrough from Friday rally spurred sales. -Derivatives Desk(312)408-8750/E-mail:derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

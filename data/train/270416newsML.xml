@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270416" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Franklin Bank sets 5 pct stock dividend.</title>
+<headline>Franklin Bank sets 5 pct stock dividend.</headline>
+<dateline>SOUTHFIELD, Mich. 1996-12-20</dateline>
+<text>
+<p>Franklin Bank NA said Friday its board of directors declared a five percent stock dividend for common shareholders.</p>
+<p>The dividend is payable in common shares on January 24, 1997 to shareholders of record as of January 7, 1997. Eligible shareholders will receive certificates representing the number of whole shares to which they are entitled and cash in lieu of any fractional shares.</p>
+<p>This is the fifth stock dividend Franklin has declared in the past five years for shareholders of its common stock.</p>
+<p>Franklin Bank had 3,153,932 common shares outstanding and assets of $487.8 million at November 30, 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOUTHFIELD, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74430" id="root" date="1996-09-25" xml:lang="en">
+<title>ITALY: TENNIS-SICILIAN CHAMPIONSHIP RESULTS.</title>
+<headline>TENNIS-SICILIAN CHAMPIONSHIP RESULTS.</headline>
+<dateline>PALERMO, Sicily 1996-09-25</dateline>
+<text>
+<p>Sicilian International championship results on Wednesday.</p>
+<p>Second round</p>
+<p>Adrian Voinea (Romania) beat Diego Nargiso (Italy) 6-4 6-4</p>
+<p>First round:</p>
+<p>Hernan Gumy (Argentina) beatr Ignacio Truyol (Spain) 6-1 6-2</p>
+<p>Fernando Meligeni (Brazil) beat Miguel Zabaleta (Argentina) 6-2 6-2</p>
+<p>Marcelo Filipini (Uruguay) beat Marcos Ondruska (South Africa) 1-6 6-1 6-2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALERMO, Sicily"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

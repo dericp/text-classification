@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="102576" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: PRESALE- Glenview, Ill.</title>
+<headline>PRESALE- Glenview, Ill.</headline>
+<text>
+<p>AMT: 8,435,000	DATE: 10/15/96	NYC Time: 1300	CUSIP: 378892</p>
+<p>ISSUER: Glenview							  ST: IL</p>
+<p>ISSUE: General obligation, series 1996			   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 11/01/96							     SURE BID: Y</p>
+<p>DUE: 12/1/99-08					     SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: 12/1/03 @ par					 NIC</p>
+<p>DELIVERY: 11/4/96 approx				  ORDERS:</p>
+<p>PAYING AGENT: American National Bank &amp; Trust Co. of Chicago, Chicago</p>
+<p>L.O.: Chapman &amp; Cutler, Chicago</p>
+<p>F.A.: R.V. Norene &amp; Assocs., Glenview</p>
+<p>LAST SALE: $8,040,000 8/30/97 @ 4.9844% NIC; 6yrs 4mos avg; BBI- 6.21%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999		    675,000</p>
+<p>2000		    705,000</p>
+<p>2001		    735,000</p>
+<p>2002		    775,000</p>
+<p>2003		    810,000</p>
+<p>2004		    850,000</p>
+<p>2005		    895,000</p>
+<p>2006		    945,000</p>
+<p>2007		    995,000</p>
+<p>2008		  1,050,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

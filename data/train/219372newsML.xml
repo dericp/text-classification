@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219372" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: NYSE to suspend WCI Steel, move to delist.</title>
+<headline>NYSE to suspend WCI Steel, move to delist.</headline>
+<dateline>NEW YORK 1996-11-27</dateline>
+<text>
+<p>The New York Stock Exchange said on Wednesday it would immediately suspend trading in the common stock of WCI Steel Inc since fewer than 600,000 shares remained publicly held after a tender offer.</p>
+<p>An application would also be made to the U.S. Securities and Exchange Commission to delist the issue, NYSE said.</p>
+<p>WCI Steel Holdings Inc's offer to buy all outstanding WCI shares expired on November 26, and the company said about 95.46 percent of the shares not already owned by WCI Steel Holdings were tendered.</p>
+<p>As a result of this tender offer, the exchange said fewer than 600,000 common shares remained publicly held. NYSE said it was exchange policy to consider suspending and delisting a company when this happened.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

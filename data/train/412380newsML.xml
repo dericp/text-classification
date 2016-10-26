@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="412380" id="root" date="1997-02-28" xml:lang="en">
+<title>JAPAN: M'bishi Oil chairman, v.president to resign.</title>
+<headline>M'bishi Oil chairman, v.president to resign.</headline>
+<dateline>TOKYO 1997-02-28</dateline>
+<text>
+<p>Mitsubishi Oil Co Ltd said on Friday its chairman Kikuo Yamada will resign and become an advisor to the oil firm effective March 31.</p>
+<p>The company did not give a reason for the resignation.</p>
+<p>Vice president Masafumi Kishi will also resign and become an advisor, Mitsubishi said in a statement.</p>
+<p>Yamada came under fire over a series of oil product deals with Mitsui Mining Co Ltd brokered by Osaka-based oil wholesaler Junichi Izui.</p>
+<p>Izui was indited in November on charges of evading 330 million yen in income tax on oil trade commissions between 1992 and 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

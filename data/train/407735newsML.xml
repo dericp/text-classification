@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="407735" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: San Francisco Bay bridge funding talks break down.</title>
+<headline>San Francisco Bay bridge funding talks break down.</headline>
+<dateline>SACRAMENTO, Calif. 1997-02-27</dateline>
+<text>
+<p>California Gov. Pete Wilson has withdrawn his offer to provide $500 million of state highway funds to help pay for the replacement and retrofit of San Francisco Bay area bridges, a spokesman for the governor said Thursday.</p>
+<p>The Republican governor had offered to provide the $500 million in state highway funds as part of a $1.15 billion package to retrofit several toll bridges in northern California in need of repair.  </p>
+<p>But Wilson spokesman Sean Walsh said Thursday that talks between the Wilson administration and Senate President Pro Tem Bill Lockyer, a Democrat, over bridge funding broke down and that the governor's $500 million offer has been withdrawn.</p>
+<p>Walsh said the governor withdrew from negotiations because Lockyer had demanded that Wilson increase the amount of state highway funds for the projects.</p>
+<p>&quot;The governor believes that his ($500 million state highway funds) offer is the most realistic, balanced, and politically viable option when weighed against the demands placed upon the state's roads, bridges, and infrastructure,&quot; Walsh said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="I5020006">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

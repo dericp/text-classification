@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="303496" id="root" date="1997-01-13" xml:lang="en">
+<title>USA: Uno seeks okay to move listing to Nasdaq.</title>
+<headline>Uno seeks okay to move listing to Nasdaq.</headline>
+<dateline>BOSTON 1997-01-13</dateline>
+<text>
+<p>Uno Restaurant Corp said on Monday that it will seek shareholder approval to remove its common stock from listing on the New York Stock Exchange at the company's annual shareholders' meeting on February 26, 1997.</p>
+<p>The company said that the company's board of directors voted to apply for listing of the company's common stock on the Nasdaq stock market.  </p>
+<p>In a press release, the company said that it believes Nasdaq is a more appropriate market considering the company's current circumstances, its industry peer group, and its relatively small market capitalization.</p>
+<p>Company officials were not avialable for further comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

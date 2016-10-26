@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183731" id="root" date="1996-11-12" xml:lang="en">
+<title>CANADA: Manitoba Pool 1996 net earnings fall to C$5.5 mln.</title>
+<headline>Manitoba Pool 1996 net earnings fall to C$5.5 mln.</headline>
+<dateline>WINNIPEG 1996-11-12</dateline>
+<text>
+<p>Manitoba Pool Elevators fiscal 1996 (Aug/July) net earnings fell 45 percent from fiscal 1995, said the privatelly held firm's annual report released on Tuesday.</p>
+<p>				1996			    1995</p>
+<p> Net			 $5,545		  $10,051</p>
+<p> Revs		  $1,220,534	     $1,232,454</p>
+<p>		(All data above in 000s)</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

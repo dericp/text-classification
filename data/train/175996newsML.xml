@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175996" id="root" date="1996-11-08" xml:lang="en">
+<title>MEXICO: Mexico, U.S. agree on D-T-H satellite protocols.</title>
+<headline>Mexico, U.S. agree on D-T-H satellite protocols.</headline>
+<dateline>MEXICO CITY 1996-11-08</dateline>
+<text>
+<p>The Mexican and U.S. governments have agreed on the rules governing the use of satellites that will distribute direct-to-home satellite television in both countries, the Mexican government said.</p>
+<p>Mexico's Communications and Transport Ministry said the agreement allows both countries to use their own satellites to beam television signals to the neighboring country.  </p>
+<p>The accord will allow Hughes Electronics Corp to immediately begin selling &quot;DIRECTV&quot; D-T-H in the Mexican market -- a move that has been ready for several months but was held up by the need for a protocol. Hughes' local partner is cable company Multivisin.</p>
+<p>The other big competitor in Mexico will by SKY TV, a consortium of News Corp, Mexico's Televisa, Brazil's Globo and U.S. cable company TCI. SKY TV is slated to begin offering service in late November or early December.  </p>
+<p>The accord allows each country to set restrictions on the content of channels to be aired in their respective countries as long as the restrictions are non-discriminatory to companies offering the services, the ministry said in a statement.</p>
+<p>Mexico demanded that any company beaming a signal to Mexico from a U.S. satellite must operate with a majority Mexican franchisee.  </p>
+<p>The ministry said Mexican companies will be allowed to sell signals from Mexican satellites to the United States as long as they obtain a license that complies with existing U.S. rules for D-T-H.</p>
+<p>&quot;This is something no other country has been able to acheive and opens great opportunities for Mexican programmers in the United States market. It will also help spread Mexican culture beyond our borders,&quot; the statement said.</p>
+<p>The protocol will allow Mexican satellites to position themselves to cover the entire U.S. market, it added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

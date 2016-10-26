@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="732108" id="root" date="1997-07-16" xml:lang="en">
+<title>PERU: Peru to suspend anchovy fishing due to El Nino.</title>
+<headline>Peru to suspend anchovy fishing due to El Nino.</headline>
+<dateline>LIMA 1997-07-16</dateline>
+<text>
+<p>The Peruvian government announced Wednesday an anchovy fishing ban starting July 18 to protect the species from the damaging effects of the growing weather phenomenon El Nino.</p>
+<p>The ban was decreed in the official daily El Peruano and signed by temporary Fisheries Minister Gustavo Caillaux Zazzali.</p>
+<p>El Nino has raised the Pacific water temperatures and disrupted the distribution of fishing stocks, especially anchovies, affecting reproduction cycles and pushing them further south in search of cooler waters.</p>
+<p>El Peruano said El Nino could be particularly damaging this year because it will occur during the anchovy reproductive season.</p>
+<p>Fishing industry leaders have objected to the ban, saying it gives an unfair advantage to competitors in Chile.</p>
+<p>The El Peruano decree did not say how long the ban would last. It reversed the government's decision earlier this year to allow a total of 4,300,000 tones of anchovies to be fished in Peruvian waters between April and September.</p>
+<p>((-- Lima newsroom, 511 221-2134))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

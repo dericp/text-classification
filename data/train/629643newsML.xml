@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629643" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: Tiffany president gets international duty.</title>
+<headline>Tiffany president gets international duty.</headline>
+<dateline>NEW YORK 1997-06-02</dateline>
+<text>
+<p>Tiffany &amp; Co Inc said Monday that several members of senior management would take on additional duties to capitalize on growth opportunities in selected international markets.</p>
+<p>Among the changes, the company said, are that president Michael Kowalski will assume direct responsibility for Tiffany's sales organizations in the Asia-Pacific regions, with the company's international vice presidents for those regions reporting directly him.</p>
+<p>In separate news, Tiffany also said that its expansion plans in 1997 include four new US stores: Palo Alto, California, which will be opening next week; Cincinnati, Ohio; Chestnut Hill, Massachusetts and Charlotte, North Carolina.</p>
+<p>The Charlotte store will be located in the prestigious Southpark Mall and comprise 3,700 feet. It is expected to open in the fall.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243162" id="root" date="1996-12-09" xml:lang="en">
+<title>RUSSIA: Russia's ARS sees 96 rough diamond output up 3 pct.</title>
+<headline>Russia's ARS sees 96 rough diamond output up 3 pct.</headline>
+<dateline>MOSCOW 1996-12-09</dateline>
+<text>
+<p>Russian diamond producer Almazy Rossii-Sakha (ARS) will increase its output of rough diamonds this year by three percent over 1995's level, Interfax news agency quoted the company's president as saying on Monday.</p>
+<p>Vyacheslav Shtyrov gave no absolute figures at a news conference in Siberia's Yakutsk.</p>
+<p>He also said he expected the government would soon order ARS to sign a new export agreement with South Africa's De Beers.</p>
+<p>ARS supplies a quarter of De Beers output, nearly all of Russia's diamonds, and is Russia's sole authorised diamond exporter.</p>
+<p>--Peter Henderson, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

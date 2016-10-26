@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="550920" id="root" date="1997-04-30" xml:lang="en">
+<title>USA: Freeze cuts Oklahoma wheat crop 40.9 pct - survey.</title>
+<headline>Freeze cuts Oklahoma wheat crop 40.9 pct - survey.</headline>
+<dateline>KANSAS CITY, Mo. 1997-04-30</dateline>
+<text>
+<p>Oklahoma's 1997 wheat production potential was cut by 40.9 percent because of damage from the freeze in the U.S. Plains earlier in April, according to a survey released Wednesday by Oklahoma State University.  </p>
+<p>Total potential wheat production after the freeze was estimated at 121.34 million bushels, down 40.9 percent from the pre-freeze estimate of 205.39 million bushels.</p>
+<p>The survey pegged the state's potential yield at 26 bushels per acre, down 33 percent from the prior estimate of 39 bushels per acre.</p>
+<p>The survey, which was released by the Department of Agronomy at Oklahoma State University, was based on the findings of county extension agents in 37 counties in western Oklahoma. A department spokeswoman said the agents took samples in eight fields per county.  </p>
+<p>The spokeswoman said the worst-hit counties were Texas County and Kiowa County. According to the survey, Texas County will suffer an estimated 60 percent reduction in yields, while yields in Kiowa County will be lowered by 67 percent as a result of freeze damage.</p>
+<p>Harvested wheat acreage in Oklahoma was estimated to decline 12.6 percent to 4.621 million acres from 5.287 million, the survey said.</p>
+<p>((--Greg Frost, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

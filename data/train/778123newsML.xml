@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="778123" id="root" date="1997-08-05" xml:lang="en">
+<title>SAN MARINO: TENNIS-SPANISH SEEDS STRUGGLE IN SAN MARINO.</title>
+<headline>TENNIS-SPANISH SEEDS STRUGGLE IN SAN MARINO.</headline>
+<dateline>SAN MARINO 1997-08-05</dateline>
+<text>
+<p>Third seed Albert Portas suffered a first round exit from a clay court tournament in San Marino on Tuesday while fellow-Spaniard and top seed Felix Mantilla made heavy weather of reaching round two.</p>
+<p>Portas, world-ranked 41, took the first set of his clash with Romanian Adrian Voinea 6-3 but then lost the second and third sets 6-4 and 6-0.</p>
+<p>Mantilla, ranked 12th in the world, needed a third set tie-break to defeat Australia's Richard Fromberg.</p>
+<p>The Spaniard took the first set 6-4, lost the second by the same score and then squeezed through 7-6 (7-5) in the decider.</p>
+<p>Mantilla joins second seed and compatriot Alberto Beresategui, who beat Italian Diego Nargiso on Monday, in the next round.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SMARNO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN MARINO"/>
+<dc element="dc.creator.location.country.name" value="SAN MARINO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

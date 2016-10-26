@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="794841" id="root" date="1997-08-12" xml:lang="en">
+<title>UK: NWE OIL PRODUCTS MIXED, FUEL BARGES EDGE UP $1.</title>
+<headline>NWE OIL PRODUCTS MIXED, FUEL BARGES EDGE UP $1.</headline>
+<dateline>LONDON 1997-08-12</dateline>
+<text>
+<p>NWE oil products were mixed on Tuesday morning with heavy fuel edging higher but other products steady.</p>
+<p>Heavy fuel gained $1 a tonne traded from $94.50 to $95.50 on Rotterdam barges but swaps were little changed at $93.75 for August and September.</p>
+<p>Gas oil edged up 25 cents to $168.25 on the IPE for August but that contract expires at midday on Tuesday. September was 25 cents at $170 but premiums for Rotterdam barges were unchanged at 75 cents.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

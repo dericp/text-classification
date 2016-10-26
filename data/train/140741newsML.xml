@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140741" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Manufactured Home buys resort communities.</title>
+<headline>Manufactured Home buys resort communities.</headline>
+<dateline>CHICAGO 1996-10-24</dateline>
+<text>
+<p>Manufactured Home Communities Inc said Thursday it acquired two resort manufactured housing communities in Phoenix, Ariz., for a total price of $17 million in an all-cash transaction.  </p>
+<p>In addition to the Casa del Sol I, a 246-site community and and Casa del Sol II, a 239-site community, Manufactured Home said it obtained the right to acquire Case del Sol III, which is adjacent to Case del Sol II.</p>
+<p>Manufactured Home now owns ten communities comprising 2,972 sites in Arizona.</p>
+<p>The company, a real estate investment trust, is the largest owner and operator of manufactured housing communities in the United States.</p>
+<p>Shares of Manufactured Home were trading unchanged at 19-7/8.</p>
+<p>Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

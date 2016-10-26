@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="341512" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Japanese gov't to let market forces prevail - WSJ.</title>
+<headline>Japanese gov't to let market forces prevail - WSJ.</headline>
+<dateline>NEW YORK 1997-01-29</dateline>
+<text>
+<p>The government of Japanese Prime Minister Ryutaro Hashimoto appears committed to proposed economic reforms and to relying on market forces to determine asset values, according to Wednesday's Wall Street Journal.</p>
+<p>Japan's decision not to buy stocks to support its recently crumbling equity market highlights the shift away from bureaucratic meddling in the markets and toward a more open financial sector, the Journal reported.</p>
+<p>With official interest rates near zero percent and most analysts forecasting 1997 Japanese economic growth near 1.0 percent, Japan is seen having no alternative to deregulation as an economic stimulant, the Journal reported.</p>
+<p>(( --N.A. Treasury desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

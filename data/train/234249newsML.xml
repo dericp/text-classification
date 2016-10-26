@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="234249" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: AMEX to list LEAPS on U.S. Robotics.</title>
+<headline>AMEX to list LEAPS on U.S. Robotics.</headline>
+<dateline>CHICAGO 1996-12-04</dateline>
+<text>
+<p>The American Stock Exchange said it would list long-term equity anticipation securities (LEAPS) on U.S. Robotics Corp shares on December 6.</p>
+<p>The LEAPS, which are basically long-term equity options, will have initial strike prices of 60, 70, 80 and 90, with expirations in January 1998 and January 1999.</p>
+<p>AGS Specialist Partners will be the specialist unit on the AMEX floor.</p>
+<p>((Chicago Derivatives Desk 312-408-8750))</p>
+<p>((E-mail: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284432" id="root" date="1997-01-02" xml:lang="en">
+<title>USA: PRESALE - Seymour, Conn..</title>
+<headline>PRESALE - Seymour, Conn..</headline>
+<text>
+<p>AMT: 11,785,000     DATE: 01/08/97	NYC Time: 1130	CUSIP: 818546</p>
+<p>ISSUER: Seymour							   ST: CT</p>
+<p>ISSUE: General obligation					     TAX STAT:Exempt-ULT</p>
+<p>M/SP/F: A/NA/NA							   BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 01/21/97							     SURE BID: N</p>
+<p>DUE: 3/1/98-17						SR MGR:</p>
+<p>1ST CPN: 09/01/97</p>
+<p>CALL: 3/1/07 @ 102, dtp 2009			    TIC</p>
+<p>DELIVERY: 1/21/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: State Street Bank &amp; Trust Co., NYC</p>
+<p>L.O.: Updike, Kelly &amp; Spellacy, Hartford</p>
+<p>F.A.: Bank of Boston Connecticut, Hartford</p>
+<p>LAST SALE: $2,000,000 6/23/93 @ 5.0561% TIC; 8yrs 7mos avg; BBI- 5.61%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    835,000</p>
+<p>1999		    835,000</p>
+<p>2000		    835,000</p>
+<p>2001		    835,000</p>
+<p>2002		    835,000</p>
+<p>2003		    835,000</p>
+<p>2004		    835,000</p>
+<p>2005		    835,000</p>
+<p>2006		    830,000</p>
+<p>2007		    825,000</p>
+<p>2008		    345,000</p>
+<p>2009		    345,000</p>
+<p>2010		    345,000</p>
+<p>2011		    345,000</p>
+<p>2012		    345,000</p>
+<p>2013		    345,000</p>
+<p>2014		    345,000</p>
+<p>2015		    345,000</p>
+<p>2016		    345,000</p>
+<p>2017		    345,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

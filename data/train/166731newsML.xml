@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166731" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Christopher meets Clinton in Little Rock.</title>
+<headline>Christopher meets Clinton in Little Rock.</headline>
+<dateline>WASHINGTON 1996-11-05</dateline>
+<text>
+<p>Secretary of State Warren Christopher flew on Tuesday from Washington to Little Rock, Arkansas, to meet with President Bill Clinton, who was awaiting election results.</p>
+<p>State Department spokesman Nicholas Burns said Christopher made the trip at Clinton's request and that the two men had a &quot;variety of things&quot; to talk about.</p>
+<p>Burns said foreign policy issues were on the agenda and did not rule out the possibility that Christopher's future may also be discussed. But he refused to give any details.</p>
+<p>It is widely expected that Christopher, who just turned 71, will not serve a second term if Clinton is re-elected, as many predict.</p>
+<p>Speculation on a successor has included U.N. Ambassador Madeleine Albright, former Sen. George Mitchell, National Security Adviser Anthony Lake and others.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

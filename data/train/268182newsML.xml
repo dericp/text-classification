@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268182" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: AWAY ON BUSINESS: On-time flights.</title>
+<headline>AWAY ON BUSINESS: On-time flights.</headline>
+<byline>Michael Conlon</byline>
+<dateline>CHICAGO 1996-12-19</dateline>
+<text>
+<p>The U.S. government's monthly report on how often major airlines get their customers to destinations on time is frequently quoted but perhaps not completely understood.</p>
+<p>Or as a reader asks: &quot;How do they (or how can they) figure on-time performance when the time from departure point to destination is so horribly inflated to begin with?</p>
+<p>&quot;Ever since the on-time performance has been closely watched, the airlines have inflated times so they can pretend they are on time. An hour flight might be inflated to an hour and a half, then when they are 45 minutes late, they can actually say they are on time.&quot;</p>
+<p>The same reader also says he thinks the airlines too often use &quot;air traffic delays&quot; as an excuse for being late when other factors, such as mechanical trouble, are really the culprit, and wonders if a flight is not counted as being late if it is due to traffic.</p>
+<p>The Department of Transportation, which publishes the monthly figures, explains the reporting system this way:</p>
+<p>-- Only airlines with larger shares of domestic U.S. business are counted, and the time of arrival recorded is at the gate, not on touchdown.</p>
+<p>-- There are no exceptions for traffic delays or anything else in counting arrival times. Up until 1995 mechanical delays were not counted but now no flight can be excluded, according to DOT spokesman Bill Mosley.</p>
+<p>-- The carriers are encouraged to be realistic when they list departure and arrival times but &quot;We don't have any indication that airlines are excessively padding their schedules&quot; to improve on-time performances, Mosley said.</p>
+<p>On that last point the government found out a decade ago that some carriers were publishing schedules that were unrealistic and understated travel times, the spokesman said, and encouraged them to fatten estimated trip times.</p>
+<p>If it turns out that some carriers are going to the opposite extreme and padding travel times the government could act against them for deceptive advertising, he said. But there is an incentive not to pad, Mosley said, in that travelers would start to avoid airlines that appeared to be arriving far later than their competitors.</p>
+<p>The on-time performance chart for October of this year put USAir on top with nearly 84 percent of its flights arriving on time, followed in the top five by Northwest, Continental, Southwest and American.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

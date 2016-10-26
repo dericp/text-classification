@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273804" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Ballot questions and bond referendums by state.</title>
+<headline>Ballot questions and bond referendums by state.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following is a list of upcoming ballot initiatives and measures. The list will be updated as information is made available.</p>
+<p>P - passed. D - defeated. NA - not available</p>
+<p>FLORIDA</p>
+<p>March 25</p>
+<p>--Pinellas County, 10-year extension of one-cent sales tax</p>
+<p>increase for schools.</p>
+<p>NEW JERSEY</p>
+<p>January 28</p>
+<p>--$10 million Willingboro bonds for school renovations.</p>
+<p>February 11</p>
+<p>--$2.57 million Bergenfield bonds for school repairs.</p>
+<p>OHIO</p>
+<p>February 4</p>
+<p>--$16.5 million Highland bonds.</p>
+<p>--$15 million Cleveland Heights bonds.</p>
+<p>--$6.9 million Chardon bonds.</p>
+<p>OKLAHOMA</p>
+<p>January 4</p>
+<p>--$2.7 million Alva bonds.</p>
+<p>February 4</p>
+<p>--$550,000 Pocola bonds.</p>
+<p>SOUTH CAROLINA</p>
+<p>March 8</p>
+<p>--$12.9 million Lexington County School District 3, GO</p>
+<p>bonds for schools.</p>
+<p>TEXAS</p>
+<p>Jan. 25</p>
+<p>-- $89.6 million McKinney Independent Sch Dist, Texas, GO</p>
+<p>school construction and renovations.</p>
+<p>WASHINGTON</p>
+<p>February 4</p>
+<p>--$10.5 million Bothell bonds.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163246" id="root" date="1996-11-04" xml:lang="en">
+<title>central african republic: Former Central African dictator Bokassa dead.</title>
+<headline>Former Central African dictator Bokassa dead.</headline>
+<dateline>BANGUI 1996-11-04</dateline>
+<text>
+<p>Jean-Bedel Bokassa, self-proclaimed erstwhile emperor of the Central African Republic, has died, his son Jean Charles told Reuters on Monday. He was 75.</p>
+<p>Bokassa died of a heart attack on Sunday night at a clinic in the capital Bangui.</p>
+<p>He seized power in the impoverished country he grandly called the Central African Empire when he deposed and arrested his nephew David Dacko in a 1965 coup.</p>
+<p>His rule was one of cruelty and extravagance as he gradually elevated his own status from president to president-for-life and then marshall of the landlocked, diamond-producing state.</p>
+<p>He was ousted by the French in September 1979 following charges that he had directed the deaths of up to 200 schoolchildren. He was later sentenced to death in his absence for assassinations, concealing corpses and embezzlement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGUI"/>
+<dc element="dc.creator.location.country.name" value="CENTRAL AFRICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

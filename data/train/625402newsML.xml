@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="625402" id="root" date="1997-05-30" xml:lang="en">
+<title>CANADA: CBRS confirms United Grain Growers rating.</title>
+<headline>CBRS confirms United Grain Growers rating.</headline>
+<dateline>MONTREAL 1997-05-30</dateline>
+<text>
+<p>Canadian Bond Rating Service said on Friday it reaffirmed United Grain Growers' ratings at B++ (Low) for debentures, P-3 (Low) for preferred shares and A-1 (Low) for commercial paper, all with a stable outlook.</p>
+<p>United Grain Growers and U.S. giant Archer Daniels Midland Co announced a strategic alliance on Thursday.  </p>
+<p>&quot;The alliance will also allow for larger and more consistent grain volumes, shared market information and communications systems and commercial agreements linking UGG procurement with ADM processing,&quot; CBRS said.</p>
+<p>&quot;This bodes well for higher future revenue and cash flow growth, and will benefit UGG's coverage ratios, which have been on an improving trend.&quot;</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="515101" id="root" date="1997-04-16" xml:lang="en">
+<title>UK: UK polls show Labour widening gap on Conservatives.</title>
+<headline>UK polls show Labour widening gap on Conservatives.</headline>
+<dateline>LONDON 1997-04-16</dateline>
+<text>
+<p>Britain's opposition Labour Party has increased its lead over the ruling Conservatives, according to opinion polls published on Wednesday.</p>
+<p>A Gallup poll in the Daily Telegraph newspaper put Labour up three points to 51 percent, giving it a 21-point lead over the Conservatives.</p>
+<p>&quot;The swing towards Labour since the 1992 election now stands at 14.3 percent and the projected Labour majority is now 221,&quot; the newspaper said in a statement.</p>
+<p>The Telegraph said the rolling poll, based on interviews with a sample of 1,025 voters interviewed by telephone, would be updated every day until the May 1 general election.</p>
+<p>Labour also gained in the Guardian's ICM poll, picking up two points over the Conservatives for a 14-point margin.</p>
+<p>The adjusted figures showed Labour on 45 percent, the Conservatives down three at 31 percent and the Liberal Democrats gaining four to 19 percent.</p>
+<p>While Labour regained after a fall last week, party leader Tony Blair's personal rating dipped five points to 35 percent since last week following sustained attacks by the Conservatives. Prime Minister John Major's rating fell one point to 28 percent.</p>
+<p>ICM spoke to 1,007 adults by telephone on April 13-14 for the survey.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

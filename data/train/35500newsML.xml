@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35500" id="root" date="1996-09-05" xml:lang="en">
+<title>INDIA: Death toll in India building collapse rises to 18.</title>
+<headline>Death toll in India building collapse rises to 18.</headline>
+<dateline>BOMBAY 1996-09-05</dateline>
+<text>
+<p>Relief workers searching through the debris of a building that collapsed in India's commercial capital found one more body on Thursday taking the death toll to 18, fire brigade officials said.</p>
+<p>&quot;We found one more body today,&quot; a fire brigade spokesman told Reuters. The number of those injured when the three-storey building suddenly collapsed in Bombay on Tuesday remained at 10, he added.</p>
+<p>Civic authorities, who have almost finished clearing the rubble, said they expected to stop the search later on Thursday.</p>
+<p>&quot;It is not likely that there are any more bodies left,&quot; a fireman at the site said.</p>
+<p>Authorities had initially feared more than 25 people were trapped amid confusion over the total number of people in the building, which housed both offices and homes.</p>
+<p>Relief workers have spent two days sifting through the debris by hand as they could not bring heavy lifting machinery into the maze of narrow alleys around the building.</p>
+<p>Neither residents nor officials knew why the structure came down without warning. The landlord was among the dead.</p>
+<p>&quot;It was quite sturdy,&quot; said Hilda Furtado, a resident.</p>
+<p>Many of Bombay's buildings are in poor shape because the city has frozen rents at 40-year-old levels for many years.</p>
+<p>Landlords have no financial incentive to maintain them.</p>
+<p>Civic officials estimate at least 20,000 buildings all over the city are in imminent danger of collapse.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

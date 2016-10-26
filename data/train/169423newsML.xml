@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="169423" id="root" date="1996-11-06" xml:lang="en">
+<title>COLOMBIA: Two policemen gunned down on Bogota's streets.</title>
+<headline>Two policemen gunned down on Bogota's streets.</headline>
+<dateline>BOGOTA 1996-11-06</dateline>
+<text>
+<p>The mean streets of Bogota, where traffic accidents are the second leading cause of violent death, aren't getting any kinder or gentler for the city's policemen, local news reports said Wednesday.</p>
+<p>A report in Bogota's El Espectador newspaper said two traffic cops were shot and killed in the downtown area Tuesday after pulling over a red Mazda sedan to check the driver's papers.</p>
+<p>Another traffic cop was run down and killed by city bus driver last Friday, enraged by the fact that he had just been ticketed for a minor infraction.</p>
+<p>The bus driver was arrested, but the two gunmen who opened fire from the Mazda managed to escape.</p>
+<p>Reports of shootouts and violent confrontations stemming from accidents or traffic jams are commonplace in Bogota, a city of about six million people where the Forensic Medical Institute said a record total of 840 pedestrians were run down and killed between Jan. 1995 and June 1996.</p>
+<p>Authorities said guns are the leading cause of violent death in the city, followed by traffic accidents</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

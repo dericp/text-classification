@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53081" id="root" date="1996-09-13" xml:lang="en">
+<title>INDONESIA: Bank Niaga proposes rights issue.</title>
+<headline>Bank Niaga proposes rights issue.</headline>
+<dateline>JAKARTA 1996-09-13</dateline>
+<text>
+<p>Details of Bank Niaga's proposed one-for-five rights issue.</p>
+<p>    Ex-date			 : November 1, 1996</p>
+<p>    Last date of registration : November 11, 1996</p>
+<p>    Present shares		: 157,574,834</p>
+<p>    New shares		    : 31,514,967</p>
+<p>Note : The rights shares will be priced at 3,300 rupiah each. The rights issue is subject to approval by an extraordinary shareholders' meeting on October 28, 1996.</p>
+<p>The bank said the proceeds would be used to strengthen working capital, to meet the central bank's new capital adequacy ratio requirements and to invest in technology.</p>
+<p>-- Jakarta newsroom +6221 384-6364</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

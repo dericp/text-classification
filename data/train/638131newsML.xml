@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638131" id="root" date="1997-06-04" xml:lang="en">
+<title>ITALY: Italy's Ansaldo in accord with India's Kirloskar.</title>
+<headline>Italy's Ansaldo in accord with India's Kirloskar.</headline>
+<dateline>GENOA, Italy 1997-06-04</dateline>
+<text>
+<p>Italy's Ansaldo has concluded a collaboration accord in industrial automation and energy generation with India's Kirloskar Vijav group.</p>
+<p>The agreement also envisages the creation of a 50-50 joint venture for the integrated development of systems know-how in the industrial automation field, an Ansaldo statement said.</p>
+<p>This will allow Ansaldo to design and manufacture locally complete generators at competitive prices, it said.</p>
+<p>Kirloskar is one of India's major industrial groups with a turnover of $700 million. Ansaldo has been present in India since 1958.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GENOA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="644755" id="root" date="1997-06-06" xml:lang="en">
+<title>JAPAN: Dog bites 19 children in rampage at Japan school.</title>
+<headline>Dog bites 19 children in rampage at Japan school.</headline>
+<dateline>TOKYO 1997-06-06</dateline>
+<text>
+<p>A homeless dog bit 19 students on Friday in a frightening rampage through classrooms of a primary school on Japan's northernmost island of Hokkaido, a police spokesman said.</p>
+<p>The spokesman said hospital authorities were checking to ensure the animal, a long-haired Shetland Collie, was not a rabies carrier.</p>
+<p>He said the dog's attack was triggered when children surrounded the animal to pet it after it strayed onto the school's playground in the village of Asahikawa.</p>
+<p>Confused and angered by the attention, the animal snapped at the children and chased them when they fled from the playground into the school's classrooms.</p>
+<p>The dog continued to chase the children as they ran from room to room until it was subdued by the school's headmaster.</p>
+<p>Hospital authorities treated 19 children, mainly nine-year-olds, for minor scratches and bites.</p>
+<p>The animal had no collar and its shaggy hair and half-starved condition indicated it had lived in the wild for some time, the police spokesman said.</p>
+<p>Police have caged the animal until a decision is made on its fate.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

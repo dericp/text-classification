@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="310844" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Quickturn Q4 shr $0.26 vs $0.45.</title>
+<headline>Quickturn Q4 shr $0.26 vs $0.45.</headline>
+<dateline>MOUNTAIN VIEW, Calif 1997-01-16</dateline>
+<text>
+<p>(amounts in thousands except per share data)</p>
+<p>				    Three Months Ended   Year Ended</p>
+<p>					   Dec. 31,	   Dec. 31,</p>
+<p>				    1996(a)  1995(b)  1996(a) 1995(b)</p>
+<p>					(unaudited)</p>
+<p> Revenue			  $ 28,786$ 23,000 $104,370$ 81,800</p>
+<p> Cost of revenue		   8,934   7,012   32,383  25,082</p>
+<p>  Gross profit		    19,852  15,988   71,987  56,718</p>
+<p>Operating expenses:</p>
+<p>  Research and development     5,226   4,152   18,548  14,864</p>
+<p>  Sales and marketing	    8,069   7,004   30,694  25,439</p>
+<p>  General and administrative   1,751   1,216    6,476   4,681</p>
+<p>   Total operating expenses   15,046  12,372   55,718  44,984</p>
+<p>   Operating income		4,806   3,616   16,269  11,734</p>
+<p> Other income, net		   505     192    1,785     737</p>
+<p>Net income before provision</p>
+<p>for (benefit from) income</p>
+<p>   taxes			     5,311   3,808   18,054  12,471</p>
+<p>Provision for (benefit from)</p>
+<p>  income taxes		     1,216  (2,778)   5,415   (612)</p>
+<p>  Net income			 4,095   6,586   12,639  13,083</p>
+<p> Net income per share	     0.26    0.45     0.83    0.90</p>
+<p>Shares used in per share</p>
+<p>  calculations		    15,583  14,735   15,204  14,605</p>
+<p>(a) The 1996 results include a net year-to-date tax benefit of</p>
+<p>$542,000 or $0.03 per share. (b) The 1995 results include a net year-to-date tax benefit of</p>
+<p>$3.7 million or $0.26 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOUNTAIN VIEW, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

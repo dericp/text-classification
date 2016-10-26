@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14690" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: Stiglitz says US economy should grow faster - RFTV.</title>
+<headline>Stiglitz says US economy should grow faster - RFTV.</headline>
+<dateline>CHICAGO 1996-08-26</dateline>
+<text>
+<p>Joseph Stiglitz, chairman of the White House Council of Economic Advisers, said Monday that he would like the U.S. economy to grow faster.</p>
+<p>Interviewed on Reuters Financial Television, Stiglitz said &quot;we think the economy should grow faster and have tried to put in place policies that will make the economy grow faster.&quot;</p>
+<p>He said these policies included getting the deficit and interest rates down, which helps set the foundation for future growth of the economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="655650" id="root" date="1997-06-12" xml:lang="en">
+<title>POLAND: POLAND HAILS U.S. NATO BACKING.</title>
+<headline>POLAND HAILS U.S. NATO BACKING.</headline>
+<dateline>WARSAW 1997-06-12</dateline>
+<text>
+<p>Poland on Thursday hailed the U.S. message that it favours inviting Poland, the Czech Republic and Hungary to join NATO next month but said the enlargement should later embrace other former Soviet bloc states.</p>
+<p>&quot;This is a happy news for the three states involved. We welcome the U.S. support for our membership,&quot; the president's spokesman Antoni Styrczula told Reuters.</p>
+<p>Earlier on Thursday,  U.S. Defence Secretary William Cohen informed the NATO allies that Washington thought only three new members -- Poland, Hungary and the Czech Republic -- should be invited into the alliance at its Madrid summit next month.</p>
+<p>&quot;This shows that our state of preparedness for NATO membership is evaluated positively,&quot; Stryczula said.</p>
+<p>He added Poland also welcomed the U.S. declaration that other Eastern European countries, notably Romania and Slovenia, would later be considred for membership. REUTER</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

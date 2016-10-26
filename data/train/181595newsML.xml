@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181595" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Marisa Christina Q3 shr falls to $0.25.</title>
+<headline>Marisa Christina Q3 shr falls to $0.25.</headline>
+<dateline>NEW YORK 1996-11-12</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net sales		     $33,148  $30,220  $82,797  $61,248</p>
+<p> Cost of goods sold	   21,524   17,820   53,581   36,775</p>
+<p>	Gross profit	    11,624   12,400   29,216   24,473</p>
+<p>Selling, general and</p>
+<p>  administrative expenses    8,650    5,927   22,552   14,208</p>
+<p>	Operating earnings     2,974    6,473    6,664   10,265</p>
+<p> Other income, net		 804	 35    1,722	624</p>
+<p>Interest income</p>
+<p>  (expense), net		 (289)	128    (645)	503</p>
+<p>Earnings before provision</p>
+<p>  for income taxes	     3,489    6,636    7,741   11,392</p>
+<p> Provision for income taxes  1,388    2,578    3,015    4,462</p>
+<p> Net earnings		    2,101    4,058    4,726    6,930</p>
+<p>Weighted average shares</p>
+<p>  outstanding		    8,422    8,434    8,530    8,434</p>
+<p> Earnings per share	     0.25     0.48     0.55     0.82</p>
+<p>Full company name is Marisa Christina Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

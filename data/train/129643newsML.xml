@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129643" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: OMAP Holdings Inc Q2 full results.</title>
+<headline>OMAP Holdings Inc Q2 full results.</headline>
+<dateline>KEW GARDENS, N.Y. 1996-10-21</dateline>
+<text>
+<p>OMAP Holdings Incorporated Selected Operating Statistics</p>
+<p>				   Quarter Ended     Six Months Ended</p>
+<p>					June 30,	     June 30,</p>
+<p>				1996	1995	   1996	1995</p>
+<p> Revenue		 672,370	   0     1,526,573	  0</p>
+<p> Net earnings	(341,098)	   0     (767,289)	  0</p>
+<p> EPS			(0.01)    (0.01)	  (0.04)   (0.01)</p>
+<p>Weighted Average</p>
+<p>  Shares	    22,985,133   827,679    20,940,875  827,679</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I67000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KEW GARDENS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

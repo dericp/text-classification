@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592970" id="root" date="1997-05-17" xml:lang="en">
+<title>CAMBODIA: Cambodian police seize 800 kg of marijuana.</title>
+<headline>Cambodian police seize 800 kg of marijuana.</headline>
+<dateline>PHNOM PENH 1997-05-17</dateline>
+<text>
+<p>Cambodian police seized about 800 kg (1,760 lb) of marijuana at a Phnom Penh home on Saturday and arrested two policemen, officials said.</p>
+<p>Police General Skavdavy M. Ly Roun said the wife of one of the two arrested was also being held in connection with the case. Drug processing equipment was also seized.</p>
+<p>The marijuana had a street value of up to $2.4 million, officials said. Skavdavy said the seizure could be linked to the seizure of 706 kg (1,550 lb) of marijuana on Thursday.</p>
+<p>Eight Cambodians have been charged with trafficking in connection with that case, he said.</p>
+<p>Last year, the United States placed Cambodia on its list of leading drug producing and transit countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHNOM PENH"/>
+<dc element="dc.creator.location.country.name" value="CAMBODIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720344" id="root" date="1997-07-10" xml:lang="en">
+<title>UK: LW Rentenbank sets 10 bln peseta seven-year bond.</title>
+<headline>LW Rentenbank sets 10 bln peseta seven-year bond.</headline>
+<dateline>LONDON 1997-07-10</dateline>
+<text>
+<p>The following bond was announced by joint lead managers Banco Bilbao Vizcaya and Merrill Lynch.</p>
+<p> BORROWER   LW RENTENBANK</p>
+<p> AMT    10 BLN PTA    COUPON     5.6 PCT   MATURITY    30.JUL.04</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  100.945   PAY DATE    30.JUL.97</p>
+<p> FULL FEES  1.75	LISTING    =	   PAY FREQ    =</p>
+<p> MOODY/S&amp;P  AAA/AAA   DENOMS (K) 100	 GOV LAW     SPANISH</p>
+<p> MGT/UND    0.75	SELL CONC  1.0	 PRAECIPUUM  =</p>
+<p> NOTES	10 BILLION PESETA ($67.2 MILLION)</p>
+<p>					($ = 148.9 SPANISH PESETAS)</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212188" id="root" date="1996-11-23" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION SUMMARIES.</headline>
+<dateline>BONN 1996-11-23</dateline>
+<text>
+<p>Summaries of Bundesliga matches</p>
+<p>played on Saturday:</p>
+<p>St Pauli 3 (Trulsen 7th minute, Driller 15th, Woerns own goal</p>
+<p>79th) Bayer Leverkusen 1 (Sergio 87th). Halftime 2-0. Attendance</p>
+<p>20,057.</p>
+<p>Werder Bremen 0 Borussia Dortmund 4 (Chapuisat 30th, Herrlich</p>
+<p>35th and 39th, Pfeifenberger own goal 63rd). 0-3. 36,200.</p>
+<p>Schalke 4 (Mulder 14th, Wilmots 37th, Anderbrugge penalty 72nd,</p>
+<p>Max 78th) 1860 Munich 1 (Winkler 45th). 2-1. 29,360.</p>
+<p>Arminia Bielefeld 2 (Kuntz 2nd, Reina 72nd) Freiburg 0. 1-0.</p>
+<p>16,000.</p>
+<p>Bayern Munich 2 (Basler 31st penalty and 43rd) Hansa Rostock 1</p>
+<p>(Akpoborie 64th). 2-0. 55,000.</p>
+<p>Cologne 2 (Polster 3rd, Gaissmayer 83rd) Hamburg 2</p>
+<p>(Salihamidzic 4th, Kmetsch 22nd). 1-2. 27,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

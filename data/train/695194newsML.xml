@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="695194" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: U.S. seeks consensus on Internet commerce.</title>
+<headline>U.S. seeks consensus on Internet commerce.</headline>
+<dateline>WASHINGTON 1997-06-30</dateline>
+<text>
+<p>The Commerce Department said on Monday it was seeking a consensus on how to allocate new Internet addresses to help develop Internet commerce.</p>
+<p>In a statement, the department said it would publish its proposal on Tuesday at www.ntia.doc.gov/new.html and on Wednesday in the Federal Register. The notice will request public comments on the proposals by August 18.</p>
+<p>&quot;The enormous growth and commercialization of the Internet has burdened current domain name registration systems and raised numerous issues, including questions about the interrelationship of domain name registrations and registered trademarks,&quot; the statement said.</p>
+<p>Governance of domain names, conflicts among domanin name systems, processes for dispute resolution and the international implications of these issues would also be scrutinized.</p>
+<p>Domain names are the Internet equivalent of addresses.</p>
+<p>In the statement, Commerce Secretary William Daley said the Clinton administration would seek to resolve the issues without upsetting the decentralized structure of the Internet.</p>
+<p>Also on Tuesday, the Clinton administration will unveil a separate report on the Internet and electronic commerce.</p>
+<p>((--Washington Newsroom 202 898-8300))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="I81000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

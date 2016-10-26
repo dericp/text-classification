@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229280" id="root" date="1996-12-02" xml:lang="en">
+<title>TUNISIA: Tunis bourse inaugurates computer trading system.</title>
+<headline>Tunis bourse inaugurates computer trading system.</headline>
+<dateline>TUNIS 1996-12-02</dateline>
+<text>
+<p>The Tunis Stock Exchange on Monday inaugurated its computerised trading system which French exchange officials described as the first system of its kind to be installed in an emerging market.</p>
+<p>&quot;It is the first installation in an emerging market of the Paris Bourse system called SUPERCAC, which I believe is the most up to date one in the world,&quot; Paris bourse chairman Jean Francois Theodore said at the official ceremony.</p>
+<p>The system was introduced on the Paris bourse in June 1995, he said. &quot;The version installed at the Tunis bourse is an adaptable one to be used in whatever environment to ensure transparency and efficiency,&quot; he added.</p>
+<p>The modern dealing and settlement system was supported by a French government grant announced during President Jacques Chirac's visit to Tunisia last year.</p>
+<p>Thirty firms are listed on the Tunis Stock Exchange. All of them will be traded on the new system by the end of January, said bourse head Mohamed Hadouej.</p>
+<p>After two years of explosive growth the Tunis share market has spent the last 12 months going nowhere.</p>
+<p>But market officials say the market downturn is the price of a soft landing after rocketing growth and they hope computerised dealing will boost trading by improving transparency.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="340941" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Reader's Digest to meet EPS expectations.</title>
+<headline>Reader's Digest to meet EPS expectations.</headline>
+<dateline>PLEASANTVILLE, N.Y. 1997-01-29</dateline>
+<text>
+<p>James P. Schadt, chairman of Reader's Digest Association Inc, said the company expects the improving trend in its quarter-to-quarter results to continue and meet expectations for earnings per share.</p>
+<p>In a statement, Schadt said the $0.78 earnings per share for the second quarter ended Dec 31 were in line with market expectations and showed a marked improvement over the first quarter.</p>
+<p>He said the company expects modest full-year operating profit growth compared to last year, saying while customer and revenue-led growth in the latter part of the year was anticipated, momentum going into next year may not be as great as previously indicated.</p>
+<p>&quot;The turnaround of our European operations is taking even longer than we originally expected,&quot; he said, but said the company is convinced it is on the right track worldwide.</p>
+<p>At the same time, the company said recent promotional mailings resulted in lower than anticipated customer responses.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PLEASANTVILLE, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

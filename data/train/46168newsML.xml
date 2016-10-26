@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46168" id="root" date="1996-09-11" xml:lang="en">
+<title>BRAZIL: Brazil INPC price index slows to 0.5 pct in August.</title>
+<headline>Brazil INPC price index slows to 0.5 pct in August.</headline>
+<dateline>RIO DE JANEIRO 1996-09-11</dateline>
+<text>
+<p>Brazilian inflation in August as measured by the National Consumer Prices Index (INPC) fell to 0.5 percent against 1.2 percent in July, the government's National Statistics Institute (IBGE) said.</p>
+<p>The INPC is based on the spending of families earning up to eight minimum salaries.</p>
+<p>The Wider Consumer Price Index (IPCA), which measures the spending of families earning up to 40 minimum salaries, registered inflation of 0.44 percent, down from 1.11 percent July, the IBGE said in a statement.  </p>
+<p>The slowing in the INPC index was mainly due to a 0.7 percent fall in food prices, a 0.05 percent fall in household goods prices and a 0.53 percent decline in clothing prices, the IBGE added.</p>
+<p>August's result means that the cumulative INPC index this year has slowed to 7.96 percent compared to 15.24 percent in the period January to August 1995. The cumulative INPC index in the past 12 months has decelerated to 14.28 percent in August from 14.87 percent in July, the IBGE said.</p>
+<p>-- Simona de Logu, Rio de Janeiro newsroom, 5521 507 4151</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="434504" id="root" date="1997-03-11" xml:lang="en">
+<title>FINLAND: LATEST FORECASTS FOR FINNISH ECONOMIC INDICATORS.</title>
+<headline>LATEST FORECASTS FOR FINNISH ECONOMIC INDICATORS.</headline>
+<dateline>HELSINKI 1997-03-11</dateline>
+<text>
+<p>Latest consensus forecasts for</p>
+<p>Finnish economic indicators:</p>
+<p> Date  ----Key indicator-----------  average   range    previous</p>
+<p> n/a   Feb jobless rate (lab min)    18.1%  18.0%/18.2%   18.5%</p>
+<p> 14/3  Feb CPI yr/yr		     +0.5%  +0.4%/+0.5%   +0.6%</p>
+<p> 14/3  Feb CPI mth/mth		   +0.3%  +0.1%/+0.3%   -0.1%</p>
+<p> 14/3  Feb core inflation yr/yr	+0.4%  +0.2%/+0.5%   +0.4%</p>
+<p> 17/2  Jan industrial prod yr/yr     +9.8%  +9.0%/+11.5%  +8.8%</p>
+<p>Forecasts by Merita Bank, OKOBANK, Postipankki and</p>
+<p>Interbank.</p>
+<p>--Helsinki newsroom +358-9-680 50 245, e-mail news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

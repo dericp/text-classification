@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140572" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: ACI Telecentrics closes IPO.</title>
+<headline>ACI Telecentrics closes IPO.</headline>
+<dateline>MINNEAPOLIS 1996-10-24</dateline>
+<text>
+<p>ACI Telecentrics Inc said Thursday it closed its initial public offering of 1,400,000 shares of its common stock priced at $5.00 a share.</p>
+<p>The stock, which began trading October 21, traded up 3/8 at 6-1/8 in the mid-afternoon Thursday.</p>
+<p>The offering was underwritten by Miller, Johnson &amp; Kuehn, Inc.</p>
+<p>The company now has 5,600,000 shares outstanding. Prior to the initial public offering, shares in the company were held by two principals of the firm.</p>
+<p>Miller, Johnson &amp; Kuehn indicated that it expects to exercise its overallotment option for the purchase of an additional 210,000 shares by November 20, the company added.</p>
+<p>ACI provides outbound teleservices, primarily to corporations in the financial services, publishing, and telecommunications industries, operating five call centers throughout the Midwest.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I8395448">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

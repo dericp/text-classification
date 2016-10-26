@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="216187" id="root" date="1996-11-26" xml:lang="en">
+<title>CANADA: Bank of Canada 91-day T-bill yields avg 2.690.</title>
+<headline>Bank of Canada 91-day T-bill yields avg 2.690.</headline>
+<dateline>OTTAWA 1996-11-26</dateline>
+<text>
+<p>The Bank of Canada said the average yield at this week's auction of C$2.4 billion of 91-day Government of Canada treasury bills due February 27, 1997 was 2.690 percent, down from 2.893 percent last week.</p>
+<p>The average yield on C$1.2 billion of 175-day T-bills due May 22, 1997 was 2.871 percent, down from 3.035 percent last week, and on C$1.2 billion of 364-day T-bills due November 27, 1997 was 3.167 percent, down from 3.340 percent.</p>
+<p>The Bank bought C$675 million three-month, C$225 million six-month and C$175 million one-year bills. It holds C$1.25 billion of C$6.6 billion of bills due Dec 5. (Details follow)  </p>
+<p> 3-MO 2.40 BLN DUE 02/27/97   * 6-MO 1.20 BLN DUE 05/22/97</p>
+<p>	YIELD  PRICE		*	YIELD  PRICE</p>
+<p>AVG  2.690  99.33381  PCT AT * AVG  2.871  98.64218  PCT AT  LO   2.679  99.33652  HI YLD * LO   2.864  98.64545  HI YLD</p>
+<p> HI   2.700  99.33135  12.856 * HI   2.880  98.63799   5.974</p>
+<p> 1-YR 1.20 BLN DUE 11/27/97   *----NEXT WEEK-----------------</p>
+<p> AVG  3.167  96.93837  PCT AT *   3-MO DUE 03/06/97 2.40 BLN</p>
+<p> LO   3.155  96.94962  HI YLD *   6-MO DUE 06/05/97 1.40 BLN</p>
+<p> HI   3.177  96.92900  27.444 *   1-YR DUE 11/27/97 1.00 BLN</p>
+<p> AMT MAT 12/05/96 -- 6.60 BLN *		TOTAL -  4.80 BLN</p>
+<p>--Reuter Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

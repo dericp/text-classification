@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119039" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: St. Jude sees 1996 revenues near $825 mln.</title>
+<headline>St. Jude sees 1996 revenues near $825 mln.</headline>
+<dateline>CHICAGO 1996-10-16</dateline>
+<text>
+<p>St. Jude Medical Inc chief executive Ronald Matricaria said the medical device company expects revenues this year to approach $825 million.</p>
+<p>&quot;It will be on the light side of $825 million,&quot; he said in an interview with Reuters on Wednesday evening.</p>
+<p>He also said he is comfortable with the First Call consensus earnings forecast of $1.86 per share for 1996, and a range of $0.47 to $0.53 per share for the fourth quarter.</p>
+<p>The St. Paul, Minn.-based company had revenues of $723.5 million and earnings of $1.82 per share in 1995.</p>
+<p>Fourth-quarter 1995 earnings were $0.47 per share.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

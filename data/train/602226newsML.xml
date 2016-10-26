@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="602226" id="root" date="1997-05-21" xml:lang="en">
+<title>USA: Dredging company settles Chicago flood suits-paper.</title>
+<headline>Dredging company settles Chicago flood suits-paper.</headline>
+<dateline>CHICAGO 1997-05-21</dateline>
+<text>
+<p>Great Lakes Dredge &amp; Dock Co settled the last of business lawsuits against it stemming from the 1992 Chicago flood for $8 million, Chicago newspapers reported Wednesday.</p>
+<p>A federal court judge in Chicago on Tuesday approved the settlements between Great Lakes and more than 120 businesses that claimed losses from a subterranean flood, the Tribune and Sun-Times said.</p>
+<p>The businesses could claim up to another $14 million if Great Lakes wins a lawsuit against its insurers now pending before another U.S. District Court judge, the newspapers said.</p>
+<p>The settlements range from a few hundred dollars for some businesses to nearly $1.2 million for the Chicago Transit Authority, $459,218 for Commonwealth Edison, $457,975 to First National Bank of Chicago and $439,013 to Swiss Bank Corp, the newspapers said.</p>
+<p>The businesses had sought $38.7 million in damages for the flooding. The businesses still have lawsuits pending against the city.</p>
+<p>Most basements and sub-basements in downtown Chicago flooded in 1992 when an old freight tunnel under the Chicago River collapsed sending millions of gallons of water rushing through the maze of buildings connected to the system, the newspapers said.</p>
+<p>Great Lakes apparently pierced the tunnel several months before while executing a city contract to replace rotted pilings near a bridge. The company contends that the city failed to notify it of the freight tunnel's existence, and city employees discovered the breach at least a month before the collapse.</p>
+<p>((--David Bailey, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

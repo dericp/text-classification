@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244309" id="root" date="1996-12-09" xml:lang="en">
+<title>CYPRUS: UN peacekeepers investigate Cyprus shooting.</title>
+<headline>UN peacekeepers investigate Cyprus shooting.</headline>
+<dateline>NICOSIA 1996-12-09</dateline>
+<text>
+<p>United Nations forces in Cyprus are investigating shooting on the ceasefire line dividing the island and the felling of a Turkish flagpost on Monday morning, officials said.</p>
+<p>&quot;The only facts we have until now is that shots were fired and a flagpole right behind the Turkish forces position on the ceasefire line snapped.&quot; a U.N. source told Reuters.</p>
+<p>&quot;How this happened is still a matter for investigation,&quot; the source added, refusing to specify which side the shots came from.</p>
+<p>The Greek and Turkish Cypriot sides immediately blamed each other for the incident, which occured in the western area of the &quot;green line&quot; that divides Nicosia.</p>
+<p>&quot;Around 4 a.m. (0200 GMT) this morning three men were seen attempting to lower the Turkish flag around 40 metres (yds) from the front line of Turkish Cypriot security forces,&quot; a Turkish Cypriot military spokesman told reporters.</p>
+<p>He said a Turkish Cypriot sentry fired warning shots and the three men were seen running toward Greek Cypriot military positions.</p>
+<p>Cypriot government spokesman Yiannakis Cassoulides said officials were not aware of any suspicious movement: &quot;We have absolutely no information of any provocation from our side either by the national guard or by civilians.&quot;</p>
+<p>Cassoulides said a solar heater and a car were hit. He said U.N. officers inspected weapons of Greek Cypriot sentries and ascertained they had not been fired. A U.N. spokesman declined to comment.</p>
+<p>Tension has been high since August, when two Greek Cypriots were killed by Turks and Turkish Cypriot civilians during a buffer zone protest against the division of the island.</p>
+<p>A month later a Turkish Cypriot sentry was shot dead at the ceasefire line and a retired Greek Cypriot fireman was subsequently shot dead after straying into Turkish-held positions.</p>
+<p>Turkey occupied the northern third of Cyprus shortly after a brief Greek Cypriot coup engineered by the military ruling in Greece in 1974.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

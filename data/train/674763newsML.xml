@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="674763" id="root" date="1997-06-19" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR rates fall across the board.</title>
+<headline>Manila's PHIBOR rates fall across the board.</headline>
+<dateline>MANILA 1997-06-19</dateline>
+<text>
+<p>The Philippine interbank offered rates (PHIBOR) fell in all maturities after the Central Bank cut its overnight rates by 0.25 percentage points.</p>
+<p>The Central Bank announced at midday it was raising its overnight borrowing rate to 15 percent from 12.75 percent.</p>
+<p>The Central Bank move was meant to protect the peso on fears of a spillover from Thailand's troubles. The resignation of Thai finance minister Amnuay Viravan is causing renewed weakness in Thailand's financial markets.</p>
+<p>Banks will be adjusting their swap points in line with the increase in the Central Bank's overnight rate, traders said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

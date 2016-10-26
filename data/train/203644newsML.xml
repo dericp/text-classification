@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="203644" id="root" date="1996-11-20" xml:lang="en">
+<title>BANGLADESH: Bangladesh taka ends steady against dollar.</title>
+<headline>Bangladesh taka ends steady against dollar.</headline>
+<dateline>DHAKA 1996-11-20</dateline>
+<text>
+<p>The Bangladesh taka closed steady at 42.5485/42.5495 to the dollar in the interbank market on Wednesday against its previous close of 42.5490/5495, dealers said.</p>
+<p>&quot;There was demand for dollar. One state-owned bank sold actively and kept the market steady,&quot; said one dealer.</p>
+<p>The interbank call money rates ended unchanged at 4.5 percent to 5.5 percent, dealers said.</p>
+<p>-- Dhaka Newsroom 880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

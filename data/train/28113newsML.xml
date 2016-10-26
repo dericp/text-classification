@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28113" id="root" date="1996-09-02" xml:lang="en">
+<title>AUSTRALIA: RTRS-Southern Cross year net down 3 pct.</title>
+<headline>RTRS-Southern Cross year net down 3 pct.</headline>
+<dateline>SYDNEY 1996-09-02</dateline>
+<text>
+<p>Year ended June 30</p>
+<p>	    (million A$ unless stated)</p>
+<p>    Operating profit		 13.51 vs   9.32</p>
+<p>    Net profit			  9.11 vs   9.38</p>
+<p>    Sales				87.98 vs  68.12</p>
+<p>    Total dividend		    26.0 vs  21.0</p>
+<p>NOTE: Southern Cross Broadcasting (Australia) Ltd operates commercial radio and television stations. The net profit result for 1994/95 included an abnormal gain of A$3.3 million arising from the revaluation of licences. Southern Cross said it was confident the total dividend for 1996/97 would rise to 28 cents</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

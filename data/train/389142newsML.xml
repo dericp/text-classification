@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389142" id="root" date="1997-02-19" xml:lang="en">
+<title>FRANCE: Bus drivers strike hits French cities for 14th day.</title>
+<headline>Bus drivers strike hits French cities for 14th day.</headline>
+<dateline>PARIS 1997-02-19</dateline>
+<text>
+<p>A stoppage by bus drivers gripped several French provincial cities on Wednesday for the 14th successive day in the latest labour challenge to the government of Prime Minister Alain Juppe.</p>
+<p>In the south-western city of Toulouse, a bastion of the stoppages where drivers have been on strike for 24 days, about half the usual buses were running, staffed by non-striking drivers under police protection for a third day in a row.</p>
+<p>The strike, for shorter working hours and early retirement, continued to hit transport in Cannes, Nice, Le Mans, Clermont-Ferrand and Sete.</p>
+<p>On Tuesday, buses had got back to normal in the Mediterranean port of Toulon and in the north-eastern city of Lille after drivers accepted a management offer of shorter hours.</p>
+<p>The nationwide stoppages, inspired by Toulouse, began 14 days ago in 20 provincial cities with unions seeking a cut in working hours to 35 hours from 39 with no pay cut, and retirement at 55 years rather than at 60.</p>
+<p>Transport companies have given ground on working hours but less on early retirement. Juppe last year bowed to truckers' demands for retirement at 55 after they blocked roads.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

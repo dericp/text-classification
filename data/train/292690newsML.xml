@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292690" id="root" date="1997-01-08" xml:lang="en">
+<title>CANADA: Derlan gets C$42 mln in aerospace orders.</title>
+<headline>Derlan gets C$42 mln in aerospace orders.</headline>
+<dateline>TORONTO 1997-01-08</dateline>
+<text>
+<p>Derlan Industries Ltd said on Wednesday that its aerospace division in Milton, Ontario had entered into a C$42 million letter of agreement to manufacture and supply parts for a U.S.-based aircraft engine company.</p>
+<p>The letter of intent signed between Derlan and GE Aircraft Engines of Cincinnati, Ohio, calls for the delivery of 600 accessory gearboxes and 600 power take-off assemblies for CF34 turbofan engines, Derlan said.</p>
+<p>The CF34 is used on the Canadair regional and challenger jets.</p>
+<p>The agreement is the second order under Derlan's CF34 program and brings the company's overall backlog to C$416 million at November 30, 1996, Derlan said.</p>
+<p>Delivery of the parts is expected to begin in 1997 and run through the year 2000, the company added.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

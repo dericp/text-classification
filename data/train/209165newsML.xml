@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209165" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Nasdaq closing most actives - Nov 22.</title>
+<headline>Nasdaq closing most actives - Nov 22.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following were the most active issues in Nasdaq trading Friday.</p>
+<p>  Applied Material 26,049,100	38 5/8     up    6 5/8</p>
+<p>  Intel Corp	  9,495,600     122 3/8     up    3 1/2</p>
+<p>  VLSI Tech	   8,323,400	22 5/8     dn    2 3/8</p>
+<p>  KLA		   8,054,400	38 1/2     up    5 1/4</p>
+<p>  Tele-comm	   7,588,100	23 1/2     dn    1 5/8</p>
+<p>  Cascade	     7,258,100	65 1/2     dn    4 1/2</p>
+<p>  Cisco		 6,992,700	67 5/8     up    1 5/8</p>
+<p>  Integrated Dev    6,298,100	11 7/8     up	1/2</p>
+<p>  Lam Research	6,125,600	34 1/16    up    4 9/16</p>
+<p>  Tencor		6,106,200	27	   up    5 3/4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

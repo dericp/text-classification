@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230107" id="root" date="1996-12-02" xml:lang="en">
+<title>DUBAI: PRESS DIGEST - United Arab Emirates - Dec 2.</title>
+<headline>PRESS DIGEST - United Arab Emirates - Dec 2.</headline>
+<dateline>DUBAI 1996-12-02</dateline>
+<text>
+<p>These are some of the leading stories in the United Arab Emirates press on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>GULF NEWS</p>
+<p>- President Sheikh Zaid bin Sultan al-Nahayan issued a decree raising salaries, wages and bonuses of federal government employees by 15 to 30 percent.</p>
+<p>KHALEEJ TIMES</p>
+<p>- The UAE said it would sell more shipments of liquefied natural gas to the United States and Spain in deals that will allow it to dispose of capacity surpluses.</p>
+<p>- A UAE trade team is to go to Iraq next month.</p>
+<p>AL KHALEEJ</p>
+<p>- The UAE on Monday celebrates its silver jubilee and the 30th anniversary of the accession of Sheikh Zaid.</p>
+<p>- Abu Dhabi National Oil Company (ADNOC) said it was implementing programmes to fulfil the growing gas needs of the domestic market until 2005.</p>
+<p>- ADGAS has signed a deal with U.S. company Cabot Oil and Gas Corp and a Spanish company to increase its shipments of liquefied natural gas in November and December to 37,000 tonnes and 57,000 tonnes respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

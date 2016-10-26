@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257789" id="root" date="1996-12-16" xml:lang="en">
+<title>CANADA: Imperial Oil raises Canada oil prices.</title>
+<headline>Imperial Oil raises Canada oil prices.</headline>
+<dateline>CALGARY 1996-12-16</dateline>
+<text>
+<p>Imperial Oil Ltd said it raised the price it would pay for Edmonton light sweet crude oil by C$11.00/cubic metre or C$1.75/barrel, to C$217.00/cubic metre or C$34.50/barrel, effective immediately.</p>
+<p>Other new prices were listed as follows:</p>
+<p>Cromer light sour C$210.00/cubic metre, or C$33.39/barrel</p>
+<p>Bow River at Hardisty C$176.00/cubic metre, or C$27.98/barrel</p>
+<p>Midale at Cromer C$184.00/cubic metre, or C$29.25/barrel</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

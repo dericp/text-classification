@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421900" id="root" date="1997-03-05" xml:lang="en">
+<title>FRANCE: Rhone-Poulenc names Langlois fin dir.</title>
+<headline>Rhone-Poulenc names Langlois fin dir.</headline>
+<dateline>PARIS 1997-03-05</dateline>
+<text>
+<p>Rhone-Poulenc said in a statement that Patrick Langlois would from July 1, 1997 become finance director of the chemcials and drugs group, reporting to his predecessor Jean-Pierre Tirouflet.</p>
+<p>Tirouflet, group executive vice president and supervisor of the Fibres and Polymers sector, will take direct management responsibility of the sector.</p>
+<p>Langlois was finance director of Rhone-Poulenc Rorer, where he will be succeeded by Guillaume Prache.</p>
+<p>Prache used to be director of finance and adminstration at Rhone-Poulenc Agro.</p>
+<p>The former head of Rhone-Poulenc's Fibers and Polymers sector, Martin Pinot, has been promoted as executive vice president of the chemical sector and president of the sector's European zone.</p>
+<p>Pinot also joins the executive committe, as will human resources director Rene Penisson, bringing the number of members on the committee to nine.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

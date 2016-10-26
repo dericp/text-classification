@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242037" id="root" date="1996-12-08" xml:lang="en">
+<title>USA: NBA BASKETBALL-SATURDAY'S RESULTS.</title>
+<headline>NBA BASKETBALL-SATURDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-12-08</dateline>
+<text>
+<p>Results of National Basketball</p>
+<p>Association games on Saturday (home team in CAPS):</p>
+<p> ATLANTA	   101   Toronto	  75</p>
+<p> NEW YORK	   89   LA Clippers    80</p>
+<p> Milwaukee	 126   WASHINGTON    118</p>
+<p> Detroit	    95   NEW JERSEY     69</p>
+<p> Miami		83   CHICAGO	  80</p>
+<p> DALLAS	     96   Vancouver	85</p>
+<p> HOUSTON	   123   Philadelphia  108</p>
+<p> Utah		104   DENVER	   91</p>
+<p> Charlotte	  94   SEATTLE	  92</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

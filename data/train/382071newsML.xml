@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="382071" id="root" date="1997-02-17" xml:lang="en">
+<title>ARGENTINA: Argentina's Bansud reaches agreement on IFC credit.</title>
+<headline>Argentina's Bansud reaches agreement on IFC credit.</headline>
+<dateline>BUENOS AIRES 1997-02-17</dateline>
+<text>
+<p>Argentina's Bansud bank said Monday it reached agreement with the International Finance Corp to draw $25 million in credits for small and medium-sized firms.</p>
+<p>The loans to the firms can be as long as eight years with a grace period of up to two years with payments based 180-day LIBOR plus a fixed spread.</p>
+<p>The maximum amount of each loan will be $5 million.</p>
+<p>Bansud will evaluate the smaller firms' projects that need financing.</p>
+<p>((--Axel Bugge, Buenos Aires Newsroom, 541 318-0668))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

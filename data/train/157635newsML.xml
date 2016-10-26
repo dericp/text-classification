@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157635" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Lightbridge Inc Q3 net profit vs loss.</title>
+<headline>Lightbridge Inc Q3 net profit vs loss.</headline>
+<dateline>WALTHAM, Mass. 1996-10-30</dateline>
+<text>
+<p>(In thousands, except for per share data)</p>
+<p>				Three months ended  Nine months ended</p>
+<p>				     September 30,     September 30,</p>
+<p>					1996	1995    1996     1995</p>
+<p> Revenues			 $ 7,372  $ 4,833 $20,635  $13,836</p>
+<p> Gross Profit		     3,549    1,472   9,300    4,244</p>
+<p>Operating expenses:</p>
+<p>  Development		     1,155    1,151   3,126    3,014</p>
+<p>  Sales and marketing	   1,055	530   2,971    1,468</p>
+<p>  General and administration    806	653   1,979    1,955</p>
+<p> Total operating expenses     3,016    2,334   8,076    6,437</p>
+<p> Income (loss) from operations  533    (862)   1,224  (2,193)</p>
+<p> Other income (expense)	 (159)    (247)   (528)    (652)</p>
+<p>Net income (loss) before</p>
+<p>  provision for income taxes    374  (1,109)     696  (2,845)</p>
+<p> Provision for income taxes	20		   40</p>
+<p> Net income (loss)		 354  ( 1,109)    656  ( 2,845)</p>
+<p>Proforma net income (loss)</p>
+<p>  per share			  0.03  ( 0.09)    0.05  ( 0.22)</p>
+<p>Proforma Weighted average</p>
+<p>number of common and</p>
+<p>common equivalent shares</p>
+<p>  outstanding		    13,933   12,662  13,752   12,662</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALTHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

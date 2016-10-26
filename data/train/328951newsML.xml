@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328951" id="root" date="1997-01-23" xml:lang="en">
+<title>GREECE: Greek Natl Stats body takes on board new official.</title>
+<headline>Greek Natl Stats body takes on board new official.</headline>
+<dateline>ATHENS 1997-01-23</dateline>
+<text>
+<p>Greece's National Statistics Service (NSS) new secretary Nicos Karavitis was sworn in today and assumed his duties, the national economy ministry said in a statement.</p>
+<p>Karavitis, 38, studied economics at the Athens University and holds a masters' degree and a Ph.D from the University of Leicester, England.</p>
+<p>He has been a member of the economic research and analysis unit of the council of economic advisors at the national economy ministry since 1991, it said.</p>
+<p>He was elected lecturer of the public administration department at Panteion University in 1993.</p>
+<p>Karavitis is a former member of the European Union council of economic policy and is now representing Greece at the monetary committee of the EU, it said. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

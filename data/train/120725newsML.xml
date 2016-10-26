@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120725" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: U.S. average retail beef prices rise in month - NCBA.</title>
+<headline>U.S. average retail beef prices rise in month - NCBA.</headline>
+<dateline>DENVER 1996-10-16</dateline>
+<text>
+<p>Average retail beef prices rose during the past month, the National Cattlemen's Beef Association (NCBA) said in a report.</p>
+<p>The NCBA, summarizing its regular monthly 19-city survey of supermarkets, said the average price of six cuts of beef on October 10 was $3.02 per lb., compared with $2.97 on September 12 and $3.00 a year ago.</p>
+<p>It said beef production continued to decrease and cattle and wholesale beef prices rose to their highest level in a year. Meanwhile retail featuring of beef decreased somewhat but remained widespread, the NCBA said.</p>
+<p>The NCBA six-cut average on Oct 10 was up from a month earlier in only seven cities but the increases were large enough to raise the overall average slightly.</p>
+<p>The 19-city averages for the six cuts on Oct 10 were as follows: regular ground beef, $1.41 per pound; lean ground beef, $1.87; boneless round steak, $3.05; boneless top sirloin steak, $3.79; T-bone steak, $5.74; and boneless chuck roll roast $2.29.</p>
+<p>(Chicago newsdesk 312-408-8749)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

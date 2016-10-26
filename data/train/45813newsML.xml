@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45813" id="root" date="1996-09-11" xml:lang="en">
+<title>CANADA: NW Saskatchewan crops hit by 8-hour frost.</title>
+<headline>NW Saskatchewan crops hit by 8-hour frost.</headline>
+<dateline>WINNIPEG 1996-09-11</dateline>
+<text>
+<p>Northwestern Saskatchewan saw an eight hour frost Wednesday morning while southeast and central Saskatchewan saw a three-hour frost, Environment Canada meteorologist Mike Russo told Reuters.</p>
+<p>&quot;Spiritwood hit zero (freezing) at midnight and stayed below to eight in the morning,&quot; Russo said.</p>
+<p>Spring wheat harvest in that region ranged from 10 to 15 percent, barley was 20 to 30 percent done, canola was 20 to 30 percent complete, Saskatchewan Agriculture said.</p>
+<p>Spiritwood reported 0 degrees Celsius at chest level at 2400 CDT/0500 GMT and returned to 0 C at 0800 CDT/1300 GMT.</p>
+<p>Spiritwood is north of North Battleford.</p>
+<p>An area 60 to 90 miles wide extending from Estevan in the southeast to Prince Albert in the north central region to Lynn Lake, Manitoba, north of the grainbelt, reported temperatures at or below 0 C at chest level between 0500 CDT/1000 GMT to 0800 CDT/1300 GMT, Russo said.</p>
+<p>The average fall frost for most of the Prairies is Sept 12 based on a 59-year study by Environment Canada, the University of Manitoba and Manitoba Agriculture.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="321014" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: UK MPs approve EU membership referendum plan.</title>
+<headline>UK MPs approve EU membership referendum plan.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>Parliament on Tuesday technically approved an application by a Conservative MP for permission to bring in a bill to allow Britons a referendum on whether the country should remain a member of the European Union.</p>
+<p>But Eurosceptic Teresa Gorman lost an opportunity to demonstrate the depth of opposition to the EU within the ruling Conservative Party when the measure passed without any MPs opposing it.  </p>
+<p>The vote on the issue was called off by speaker Betty Boothroyd when no members of parliament offered to act as tellers to count MPs voting against it.</p>
+<p>Gorman's bill has no chance of making any further progress in parliament. But Conservative parliamentary business managers had feared that party splits over Europe would be reopened by a vote on it.</p>
+<p>Introducing her proposed bill, Gorman said that European Union directives were disrupting and in some cases destroying small businesses in Britain.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

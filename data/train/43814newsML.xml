@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43814" id="root" date="1996-09-10" xml:lang="en">
+<title>HONG KONG: Sino-British group to hold talks on Hong Kong.</title>
+<headline>Sino-British group to hold talks on Hong Kong.</headline>
+<dateline>HONG KONG 1996-09-10</dateline>
+<text>
+<p>China and Britain will hold talks in Beijing next week on arrangements for Hong Kong's 1997 reversion to Chinese sovereignty, the Hong Kong government said on Tuesday.</p>
+<p>The Sino-British Joint Liaison Group (JLG), which is hammering out details of the handover, will meet on September 17 to 19 in its 37th round of talks.</p>
+<p>The British team will be led by senior diplomat Hugh Davies.</p>
+<p>With fewer than 300 days left before the change in sovereignty, the JLG is expected to discuss plans for the handover ceremony and endorse a long-delayed plan to expand Hong Kong's container port.</p>
+<p>-- Hong Kong Newsroom (852) 2843-6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

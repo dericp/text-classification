@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109654" id="root" date="1996-10-10" xml:lang="en">
+<title>AUSTRALIA: Australian dlr dips, bonds jump on jobs data.</title>
+<headline>Australian dlr dips, bonds jump on jobs data.</headline>
+<dateline>SYDNEY 1996-10-10</dateline>
+<text>
+<p>The Australian dollar fell and bond futures prices rose slightly on news that Australian employment fell 34,100 in September, producing an unemployment rate of 8.7 percent compared with 8.8 percent in August.</p>
+<p>The median forecasts had been for a 7,500 fall in employment and an unemployment rate of 8.6 percent.</p>
+<p>The Australian dollar was trading at US$0.7886/91 shortly after the data release from a pre-data level of US$0.7899/04.</p>
+<p>December 10-year bond futures moved to 92.415 after being at 92.390 just before the data was released at 11.30 a.m. (0130 GMT).</p>
+<p>     -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

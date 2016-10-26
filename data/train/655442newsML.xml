@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="655442" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: ValuJet offers expanded service, fare cuts.</title>
+<headline>ValuJet offers expanded service, fare cuts.</headline>
+<dateline>ATLANTA 1997-06-12</dateline>
+<text>
+<p>ValuJet Inc said Thursday that the company will expand its schedule to offer new nonstop service between Washington D.C.'s Dulles International Airport and Chicago's Midway Airport, and between Boston's Logan International Airport and Philadelphia International Airport effective July 10.</p>
+<p>One-stop service between Boston and Chicago via Washington D.C. will also be included in the new schedule.</p>
+<p>The company said that it will waive the 14-day advance purchase requirement for travel completed by July 31, and offer every seat on every flight between Boston and Philadelphia for just $39, between Washington D.C. and Chicago for $59, and on one-stop service between Boston and Chicago for $89.</p>
+<p>ValuJet said that expanded service on other routes includes the addition of one daily round trip flight between Atlanta and each of the following cities: Memphis, Tenn.; Louisville, Ky.; Jacksonville, Fla.; Newport News, Va.; and Chicago.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

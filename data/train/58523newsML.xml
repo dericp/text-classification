@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58523" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: Sports Authority to offer $150 mln in notes.</title>
+<headline>Sports Authority to offer $150 mln in notes.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-09-17</dateline>
+<text>
+<p>Sports Authority Inc said Tuesday it was issuing $149.5 million worth of convertible subordinated notes to repay debt and finance the acquisition and development of new stores.</p>
+<p>The company said it was offering the 5.25-percent notes due September 15, 2001 to institutional buyers in a private placement.</p>
+<p>The closing of the issue is expected by September 20, it said.</p>
+<p>The company said the notes would be convertible into common stock at a conversion price of $32.635 per share.</p>
+<p>Its stock closed at $26 on the New York Stock Exchange on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

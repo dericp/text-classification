@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="232455" id="root" date="1996-12-03" xml:lang="en">
+<title>GERMANY: German industrial output falls further in October.</title>
+<headline>German industrial output falls further in October.</headline>
+<dateline>BONN 1996-12-03</dateline>
+<text>
+<p>German industrial output fell 1.8 percent in October compared to September according to provisional figures released by the German economics ministry on Tuesday.</p>
+<p>The fall marks the second consecutive month-on-month slide in German output following September's 0.6 percent fall. German production had been rising gently for most of the earlier part of the year.</p>
+<p>The latest decline includes a 2.7 percent fall in east German industrial output compared to September. Production in the west of the country fell at the slower rate of 1.7 percent compared to the month before.</p>
+<p>The biggest drops in output during October were in the consumer durables, capital goods and manufacturing sectors, while the mining industry was the only area were a gain was seen.</p>
+<p>However, total capital goods output showed an overall rise during September and October compared to the same two months last year, while both mining and construction output fell by more than five percent each over the same period.</p>
+<p>--Bonn Newsroom +49 228 260 97 150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

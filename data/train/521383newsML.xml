@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521383" id="root" date="1997-04-18" xml:lang="en">
+<title>UK: NWE oil products slightly up, helped by futures.</title>
+<headline>NWE oil products slightly up, helped by futures.</headline>
+<dateline>LONDON 1997-04-18</dateline>
+<text>
+<p>NWE oil products were up slightly on Friday, helped by stronger futures, traders said.</p>
+<p>Naphtha remained easy despite early crude gains. Thin buying and good avails kept downward pressure on prices.</p>
+<p>Gasoline was stable to up $1 or so for Eurogarde barges, in line with crude gains and as NYMEX unleaded edged higher in ACCESS trade.</p>
+<p>Gas oil was nudged $1 or so higher on the back of firmer IPE futures. Premiums were stable in a quiet market.</p>
+<p>High sulphur fuel oil barges gained $1 on better bunker demand but markets in other grades were inactive</p>
+<p>-- London newsroom +44 171 542 8060</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

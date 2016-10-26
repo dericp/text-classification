@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61535" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Texas electricity lower with clouds, cool forecast.</title>
+<headline>Texas electricity lower with clouds, cool forecast.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>Spot electricity prices in the Electric Reliability Council of Texas (ERCOT) were said to have eased Wednesday with cloud and rains through much of the state and forecasts of normal to below-normal temperatures through next week, brokers and marketers said.</p>
+<p>Next-day on-peak ERCOT power was talked in the $19.00-20.00 range for a 12-hour block, while eight to 10 hour blocks were priced more in the $20.00-21.00 per megawatt hour (MWh) range, the sources said.</p>
+<p>On-peak electricity for a 16 hour block was talked at $20.00-21.00 on Tuesday.</p>
+<p>Off-peak next-day power was talked in the $12.00-13.00 per MWh range, from $13.00-15.00 on Tuesday, the sources said.</p>
+<p>September on-peak electricity in ERCOT was pegged steady in the $20.25-20.50 range, while October physical power was assessed at $17.75-18.10 from $18.25-18.75 on Tuesday, the brokers and marketers said.</p>
+<p>October paper ERCOT was said to be talked nearer to the $18.00-18.25 mark on Wednesday.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

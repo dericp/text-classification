@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782898" id="root" date="1997-08-06" xml:lang="en">
+<title>TURKEY: Turk planes bomb rebel Kurd camps in north Iraq.</title>
+<headline>Turk planes bomb rebel Kurd camps in north Iraq.</headline>
+<dateline>ISTANBUL 1997-08-06</dateline>
+<text>
+<p>Turkish military aircraft bombed and destroyed five rebel Kurd camps inside northern Iraq on Wednesday, state-run Anatolian news agency said.</p>
+<p>It said F-4 fighter planes and helicopters supported by around 10,000 pro-state Kurd militiamen mounted the operation in the early hours of Wednesday, destroying camps named as Kelmehmet, Besta, Yassikaya, Karakovan and Meydankol.</p>
+<p>There were no details of casualties during the operation but the bodies of five people killed in earlier clashes were found. The operation was continuing, the agency said.</p>
+<p>Thousands of Turkish troops launched a six-week-long operation into northern Iraq in May in an attempt to eliminate Kurdistan Workers Party (PKK) units who use the area to mount raids into southeastern Turkey.</p>
+<p>More than 26,000 people have died in 13 years of conflict between the Turkish armed forces and the PKK which is fighting for self-rule in the mainly Kurdish southeast of Turkey.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

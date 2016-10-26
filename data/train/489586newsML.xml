@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489586" id="root" date="1997-04-06" xml:lang="en">
+<title>INDONESIA: TENNIS-NEW ZEALAND BEAT INDONESIA 5-0 IN DAVIS CUP TIE.</title>
+<headline>TENNIS-NEW ZEALAND BEAT INDONESIA 5-0 IN DAVIS CUP TIE.</headline>
+<dateline>JAKARTA 1997-04-06</dateline>
+<text>
+<p>New Zealand completed a 5-0 win over Indonesia in their Davis Cup Asia/Oceania zone group one second round tie after victories in Sunday's reverse singles matches.</p>
+<p>Results (best-of-three sets):</p>
+<p>Glenn Wilson beat Suwandi 6-4 7-5</p>
+<p>Mark Nielsen beat Adrian Raturandang 6-2 7-5</p>
+<p>New Zealand promoted to World Group qualifying round.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

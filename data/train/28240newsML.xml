@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28240" id="root" date="1996-09-02" xml:lang="en">
+<title>JAPAN: Marubeni eyes China zinc-coated steel deal.</title>
+<headline>Marubeni eyes China zinc-coated steel deal.</headline>
+<dateline>TOKYO 1996-09-02</dateline>
+<text>
+<p>Marubeni Corp has reached a basic agreement on the details of a joint venture to build a 50,000 tonne-per-year zinc-coated steel sheet plant in Kunming, in China's Yunnan province, a spokesman said on Monday.</p>
+<p>He said the trade house had not yet made a final decision on whether to proceed with the project, although one was expected soon.</p>
+<p>Confirming a report in a Japanese trade publication on Monday, he said Marubeni planned to take a 55 percent stake in the project with the remainder held by Yunnan Metallurgical Group. The venture is to be capitalised at $10 million.</p>
+<p>The new company is scheduled to be set up next month, with operations likely to begin in the autumn of 1997.</p>
+<p>The plant is expected to supply zinc-coated steel sheet to the machinery and construction sectors. -- Tokyo Commodities Desk (81-3 3432 6179)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="423022" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: Kelley Oil sells Louisiana stake.</title>
+<headline>Kelley Oil sells Louisiana stake.</headline>
+<dateline>HOUSTON 1997-03-06</dateline>
+<text>
+<p>Kelley Oil &amp; Gas Corp said Thursday Williams Cos Inc has purchased a 50 percent interest in Kelley's 27,000 net acreage position as well as 23 wells and related facilities in the Houma Embayment in Terrebonne Parish, La.</p>
+<p>The company said the sale of the south Louisiana interest, effective December 1, reduced its net production in December 1996 by 4.2 million cubic feet per day and year-end proved reserves by 5.0 billion cubic feet equivalent.</p>
+<p>The purchase price was $20.5 million, a portion of which is committed under the joint venture to fund the full cost of drilling up to eight exploration prospects to casing point in the area, Kelley Oil said.</p>
+<p>Pursuant to the joint venture, the company said, it and Williams have begun an exploratory drilling program, completion of which is expected by the end of 1997.</p>
+<p>Kelley Oil also said its capital budget, set at $34 million for 1997, will be supplemented as determined by the success level of the exploratory efforts in south Louisiana.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

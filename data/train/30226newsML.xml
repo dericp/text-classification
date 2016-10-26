@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30226" id="root" date="1996-09-03" xml:lang="en">
+<title>UK: Fedex to acquire ex-American, United DC-10s.</title>
+<headline>Fedex to acquire ex-American, United DC-10s.</headline>
+<byline>Ian Verchere</byline>
+<dateline>FARNBOROUGH, England 1996-09-03</dateline>
+<text>
+<p>Federal Express Corp said it would conclude &quot;in the next few days&quot; a multi-million dollar deal to acquire up to 50 second-hand McDonnell Douglas DC-10-10s from American Airlines and United Airlines.</p>
+<p>Company vice-president James Parker told Reuters that all the aircraft would be converted to cargo configuration by their original manufacturer, McDonell Douglas, at the latter's Longbeach, California, facility.  </p>
+<p>Fedex already operates a fleet of 13 DC-10-10s and 22 DC-10-30s conversions on its domestic U.S. services.</p>
+<p>Parker, who is responsible for fleet development and acquisition, said the principals &quot;were hammering out mutually acceptable terms&quot; before work started on converting the 50 tri-jets to freight use.</p>
+<p>The additional aircraft will also be used for US domestic express service.</p>
+<p>The conversion purchase comes in the wake of Fedex's announcement that it would buy 11 more Airbus Industrie A300-600 freighters for delivery between 1998 and 2000.  </p>
+<p>Fedex also said earlier today that it might eventually be interested in a freighter version of a super-jumbo if this comes into service. --Air Cargo Newsroom Tel+44 171 542 7706 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARNBOROUGH, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

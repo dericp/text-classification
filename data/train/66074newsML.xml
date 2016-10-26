@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66074" id="root" date="1996-09-19" xml:lang="en">
+<title>SWEDEN: Volvo says German truck sales rise.</title>
+<headline>Volvo says German truck sales rise.</headline>
+<dateline>STOCKHOLM 1996-09-19</dateline>
+<text>
+<p>Swedish vehicle manufacturer AB Volvo on Thursday said Germany has become its second biggest market for its FH trucks, delivering 1,944 heavy duty trucks to the German market in the first seven months of 1996.</p>
+<p>Volvo said in calendar 1995 a total of 2,740 trucks were registered in Germany which was the second best year after 1991, the year after reunification, when Volvo sold 4,768 medium and heavy duty trucks in Germany.</p>
+<p>The company said in a statement 1996 sales so far had given it a market share of 8.1 percent and a position as the biggest imported truck marque in Germany.</p>
+<p>The Volvo's FH range was introduced in 1993.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

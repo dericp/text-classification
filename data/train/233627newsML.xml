@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233627" id="root" date="1996-12-04" xml:lang="en">
+<title>NIGERIA: Opposition figure detained in Nigeria.</title>
+<headline>Opposition figure detained in Nigeria.</headline>
+<dateline>LAGOS 1996-12-04</dateline>
+<text>
+<p>A politician opposed to Nigeria's military government, Olabiyi Durojaiye, has been detained by security forces, his associate said on Wednesday.</p>
+<p>Veteran opposition lawyer Abraham Adesanya told journalists Durojaiye was arrested by seven men at around 4.a.m (0300 GMT) on Tuesday after they searched  home at Ikeja, near Lagos.</p>
+<p>Adesanya said he did not know where Durojaiye had been taken.</p>
+<p>There has been no official confirmation of the arrest.</p>
+<p>Durojaiye is a former presidential aspirant who lost in his bid for the nomination of one of the political parties in annulled elections in 1993.</p>
+<p>The presumed winner of the election, Moshood Abiola, has been among dozens of political detainees since he declared himself president in 1994 in defiance of the military.</p>
+<p>Africa's most populous nation is been under fire from Western countries for human rights abuses and lack of democracy.</p>
+<p>Three prominent prisoners were released last month to coincide with a visit by a delegation of the Commonwealth of Britain and its former colonies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

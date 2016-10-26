@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="188337" id="root" date="1996-11-14" xml:lang="en">
+<title>VENEZUELA: SOCCER-VENEZUELAN COACH LEAVES JOB.</title>
+<headline>SOCCER-VENEZUELAN COACH LEAVES JOB.</headline>
+<dateline>CARACAS 1996-11-14</dateline>
+<text>
+<p>The coach of Venezuela's soccer team, Rafael Santana, left his job on Thursday, following the national team's poor results in World Cup qualifying games.</p>
+<p>Venezuelan soccer federation president Rafael Esquivel told Reuters that &quot;the selection committee met and it is confirmed that Santana will not coach the team against Colombia.&quot;</p>
+<p>He did not say if Santana offered his resignation or was sacked after Venezuela lost their last four World Cup qualifiers. No replacement was named.</p>
+<p>Venezuela have lost all hopes of reaching the World Cup finals in France in 1998, languishing in the ninth and final place of the South American single qualifying group, with five losses and one draw.</p>
+<p>They next play host to group leaders Colombia on December 15.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

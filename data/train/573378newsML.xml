@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="573378" id="root" date="1997-05-09" xml:lang="en">
+<title>FRANCE: French shares drop at start, Lagardere gains.</title>
+<headline>French shares drop at start, Lagardere gains.</headline>
+<dateline>PARIS 1997-05-09</dateline>
+<text>
+<p>French shares started 0.6 percent lower on Friday on the back of a drop on Wall Street, a lower dollar and an opinion poll giving the centre-right government a thin lead.</p>
+<p>The CAC-40 index was down 0.51 percent at 2629.87 0807 GMT.</p>
+<p>Lagardere Groupe gained 1.14 percent to 178 francs after it said on Wednesday it had lined up both British Aerospace Plc and Germany's Daimler-Benz Aerospace in its bid for the state's stake in Thomson-CSF. Alcatel-Alsthom, which is bidding jointly with Dassault Industries, was down 1.08 percent at 640 francs.  </p>
+<p>The Paris market was closed on Thursday for Ascension Day as well as to commemorate the end of World War Two.</p>
+<p>An opinion poll on Thursday showed France's parliamentary election race growing even closer, with the left-wing opposition snapping at the heels of the ruling centre-right coalition.</p>
+<p>The Ipsos survey for the weekly Le Point magazine projected the centre-right would get 290 of the National Assembly's 577 seats in the May 25-June 1 vote, just one more than is needed for a majority. The Socialists and their allies would win 264, the Communists 22 and the far-right National Front one seat.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114760" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Chrysler Q3 international sales up 19 pct.</title>
+<headline>Chrysler Q3 international sales up 19 pct.</headline>
+<dateline>AUBURN HILLS, Mich. 1996-10-14</dateline>
+<text>
+<p>Chrysler Corp said its international retail vehicle sales rose 19 percent in the third quarter of 1996, to 57,209 cars and trucks from 48,207 units a year earlier.</p>
+<p>Chrysler said in Europe, it sold 28,079 vehicles in the July-September period, up 28 percent from the 21,918 vehicles it sold in the third quarter of 1995.</p>
+<p>The automaker is now receiving full production of its new- generation minivans from its Eurostar joint-venture plant Graz, Austria, plant, where it builds the Chrysler Voyager and the Jeep Grand Cherokee. Steyer-Daimler-Puch AG also is a partner in the plant.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AUBURN HILLS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

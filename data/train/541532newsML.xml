@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="541532" id="root" date="1997-04-26" xml:lang="en">
+<title>RUSSIA: China's Jiang flies home after Moscow visit.</title>
+<headline>China's Jiang flies home after Moscow visit.</headline>
+<dateline>MOSCOW 1997-04-26</dateline>
+<text>
+<p>Chinese President Jiang Zemin flew home on Saturday after a four-day visit to Russia during which he signed a treaty with President Boris Yeltsin and the presidents of Kazakhstan, Tajikistan and Kyrgyzstan on cutting troop levels along the old Sino-Soviet border.</p>
+<p>Yeltsin and Jiang also issued a declaration outlining their vision of the post-Cold War world and opposition to claims by any country for world leadership -- a clear, albeit implicit, reference to the United States.</p>
+<p>Moscow and Beijing see both the treaty and the declaration as part of their new relationship of &quot;partnership aimed at strategic cooperation in the 21st century,&quot; but both sides ruled out any closer union.</p>
+<p>Yeltsin left Moscow on Thursday for the Black Sea resort of Sochi to resume a holiday he broke off to meet Jiang. Yeltsin, 66, is expected to return to Moscow on May 4.</p>
+<p>Jiang was seen off on Saturday at Moscow's Vnukovo-2 government airport by Prime Minister Viktor Chernomyrdin.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="KIRGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="TADZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

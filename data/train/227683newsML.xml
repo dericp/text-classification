@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227683" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Laidlaw names S. Kennard as CEO.</title>
+<headline>Laidlaw names S. Kennard as CEO.</headline>
+<dateline>NEW YORK 1996-12-02</dateline>
+<text>
+<p>International investment firm Laidlaw &amp; Co on Monday said it named Stephen Kennard as president and chief executive officer.</p>
+<p>Kennard replaces Paul Bagley, who sold his shares in the firm to Pacific USA Holdings Corp, a significant investor in Laidlaw, a Laidlaw spokesman sid.</p>
+<p>The company also said that Kennard had aquired a stake in the firm.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

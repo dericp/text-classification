@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="103179" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Comprehensive ex-execs face fraud charges.</title>
+<headline>Comprehensive ex-execs face fraud charges.</headline>
+<dateline>WEST BABYLON, NY 1996-10-08</dateline>
+<text>
+<p>Comprehensive Environmental Systems said Tuesday that its former chief operating offier and a second former executive have been indicted for securities fraud and stock</p>
+<p>The company said Leo Mangan, a director and chief operating officer, and James Nearen, a director and special securities council, were indictmented for alleged securities fraud and stock manipulation involving two companies, including Comprehensive Environmental Systems.</p>
+<p>Comprehensive said both men left the company on September 12.  </p>
+<p>The hazardous-waste removal company said it is reviewing &quot;the legal options it may have against Mangan and Nearen as a result of the indictments.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST BABYLON, NY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

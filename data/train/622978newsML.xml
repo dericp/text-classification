@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622978" id="root" date="1997-05-29" xml:lang="en">
+<title>UK: Doubling up boosts antidepressant efficacy-trial.</title>
+<headline>Doubling up boosts antidepressant efficacy-trial.</headline>
+<dateline>LONDON 1996-05-30</dateline>
+<text>
+<p>A drug normally used to treat high blood pressure can help to make the popular anti-depressant Prozac work better, researchers reported on Friday.</p>
+<p>They said combining pindolol with fluoxetine (best known as Eli Lilly and Co's Prozac) helped the antidepressant to work faster and longer in severely depressed patients.</p>
+<p>Fransesc Artigas of the Consejo Superior de Investigaciones Cientificas in Barcelona and colleagues noted that fluoxetine and pindolol might have complementary actions and decided to see if they could work together.</p>
+<p>Fluoxetine is a class of drug known as a specific serotonin reuptake inhibitor (SSRI). Basically, it stops the body re-absorbing serotonin, an important neurotransmitter or message-carrying chemical linked with mood.</p>
+<p>But the body has complicated systems for making sure the delicate levels of these chemicals are correct, so SSRIs are not totally effective.</p>
+<p>Pindolol is a beta-blocker -- a kind of drug that blocks the cell receptors involved in this process. Although their known action is on blood pressure, Artigas's group decided to see if it would help fluoxetine to work better.</p>
+<p>They gave fluoxetine and either pindolol or a placebo pill to 111 depressed volunteers.</p>
+<p>&quot;The proportion of patients who responded to treatment with fluoxetine and pindolol was greater than that with fluoxetine and placebo,&quot; they wrote in a report in the Lancet medical journal.</p>
+<p>They said 75 percent of the patients given pindolol showed an improvement in symptoms, while 59 percent of the placebo group did.</p>
+<p>But they said they were not sure exactly why this happened as the two drugs did not seem to interact. Beta-blockers normally do not work against depression and sometimes cause it.</p>
+<p>Major depression affects about five percent of the population. Current antidepressants work on only about two-thirds of patients and are often slow in taking effect.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

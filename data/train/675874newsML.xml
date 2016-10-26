@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="675874" id="root" date="1997-06-20" xml:lang="en">
+<title>CHILE: Chilean paper turns to Internet to skirt gag rule.</title>
+<headline>Chilean paper turns to Internet to skirt gag rule.</headline>
+<dateline>SANTIAGO 1997-06-20</dateline>
+<text>
+<p>A Chilean newspaper has begun using the Internet to skirt a judge's widely criticised gag order in one of the country's most sensational court cases, its editors said on Friday.</p>
+<p>In a move unprecedented in Chile, La Tercera opened a site on the World Wide Web to give readers the stories it would have published on its front page if a judge had not barred the news media from reporting on a money-laundering case.</p>
+<p>The case involves businessman Mario Silva Leiva, known as the Horse Racing Kid because of his penchant for betting on horses, who is accused of leading a multimillion-dollar drug trafficking and money-laundering ring.</p>
+<p>&quot;The information we are including (on the Web site) is a journalistic coup that would have been splashed over the paper but that we can't publish because of the gag rule,&quot; La Tercera's national editor, Luis Alvarez, said.</p>
+<p>Judge Beatriz Pedrals imposed the news blackout last week, three months after Silva was arrested in what police called their biggest blow against the drug trade in Chile. The country has so far been spared the violence and corruption associated with drug-trafficking elsewhere in Latin America.</p>
+<p>Politicians and newspapers accused Pedrals of imposing the gag order only after top court officials were implicated in the case. President Eduardo Frei also criticised the move, saying it &quot;only feeds rumours.&quot;</p>
+<p>About 15 people have been arrested and bank accounts worth more than $100 million frozen in the case, which was front-page news in Chile until the news blackout.</p>
+<p>Alvarez said the newspaper had to create the Web site through an intermediary in New York to avoid legal tangles. The paper's lawyers believe &quot;that the judge's authority does not go beyond the border of Chile,&quot; he said.</p>
+<p>The paper's regular Website is at http://www.tercera.cl. News of the drugs case is at http://www.infochile.com/tercera.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

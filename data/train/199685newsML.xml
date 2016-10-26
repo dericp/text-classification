@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="199685" id="root" date="1996-11-19" xml:lang="en">
+<title>BRAZIL: Brazil Central Bank bond rate drops to 2.516 pct.</title>
+<headline>Brazil Central Bank bond rate drops to 2.516 pct.</headline>
+<dateline>SAO PAULO 1996-11-19</dateline>
+<text>
+<p>Brazil's benchmark overnight rate dropped to 2.516 percent a month, from 2.5844 percent last week, at today's 6.5 billion real sale of 56-day Central Bank Bonds (BBC), dealers said.</p>
+<p>The auction's result was in line with market expectations, they added.</p>
+<p>The 56-day bonds will mature on January 15. Today's auction is expected to add 204 million reais to the banking system, with 6.5 billion reais in old bonds coming due Wednesday.</p>
+<p>-- Alexandre Caverni, Sao Paulo newsroom, 5511 248 5415</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

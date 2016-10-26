@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173228" id="root" date="1996-11-07" xml:lang="en">
+<title>SWEDEN: FORECAST - Sandvik 9 mo profit 16 pct down.</title>
+<headline>FORECAST - Sandvik 9 mo profit 16 pct down.</headline>
+<dateline>STOCKHOLM 1996-11-07</dateline>
+<text>
+<p>Swedish tool maker and engineering group Sandvik was expected to post a lower profit after financial items of 3.60 billion crowns for the first nine months of 1996, a Reuter poll of 10 analysts found on Thursday.</p>
+<p>Forecasts varied between 3.45 billion and 3.77 billion crowns.</p>
+<p>In the same period a year ago Sandvik posted a profit of 4.31 billion crowns so the average forecast for the nine months to 1996 represented a fall of 16 percent.</p>
+<p>For the full year 1996 the average of 10 analysts' forecast was for a profit of 4.87 billion crowns.</p>
+<p>Analysts interviewed for the poll were from Handelsbanken, Swedbank, Foreningsbanken, Matteus, Deutsche Morgan Grenfell, Carnegie, Goldman Sachs, Kleinwort Benson, Merrill Lynch, Morgan Stanley.</p>
+<p>Sandvik's nine month report is due to be released on November 12.</p>
+<p> (Million crowns)	  AVG	    RANGE	ANALYSTS</p>
+<p> Profit 9 mo 96	    3,604	 3,450-3,765	10</p>
+<p> Profit 1996		 4,866	 4,560-5,189	10</p>
+<p> Profit 1997		 5,368	 4,753-6,395	 9</p>
+<p> Profit 1998		 6,269	 5,854-7,206	 4</p>
+<p>-- Jorgen Osterberg, Stockholm newsroom +46-8-700 1011</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

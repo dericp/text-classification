@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="294587" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Promus Hotels in deal with GM.</title>
+<headline>Promus Hotels in deal with GM.</headline>
+<dateline>MEMPHIS, Tenn. 1997-01-08</dateline>
+<text>
+<p>Promus Hotel Corp said Wednesday it entered into an agreement with General Motors Corp to offer reservations at its Embassy Suites, Hampton Inn, Hampton Inn &amp; Suites and Homewood Suites hotels through GM's new OnStar technology.  </p>
+<p>Promus said it is the first hotel company to affiliate with GM to provide this type of consumer service.  OnStar, GM's new communication system, uses an in-vehicle cellular telephone and an advanced satellite tracking system to put drivers in touch with customer service advisers at the OnStar Center.  OnStar has been introduced as an option in the 1997 Cadillac automobiles, and eventually will be available on all GM vehicles.</p>
+<p>Subscribers who call the OnStar Center requesting hotel accommodations will be offered reservations assistance in identifying a specific hotel location.  The adviser at GM's OnStar Center first will determine the type of hotel that meets the subscriber's needs, and then will locate the nearest hotels.</p>
+<p>If the subscriber indicates a preference for an Embassy Suites, Hampton Inn, Hampton Inn &amp; Suites or Homewood Suites hotel, the OnStar advisor will offer to conference in the Promus Hotels reservation center, where a reservation agent will be able to fulfill the subscriber's request.</p>
+<p>This hotel reservation option represents one of several convenience services being offered through OnStar, which also include arranging restaurant reservations, sending flowers, or locating the nearest hospital.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

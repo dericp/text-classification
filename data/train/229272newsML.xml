@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229272" id="root" date="1996-12-02" xml:lang="en">
+<title>CANADA: Saskatchewan Ag sees 950,000 acres not harvested.</title>
+<headline>Saskatchewan Ag sees 950,000 acres not harvested.</headline>
+<dateline>WINNIPEG 1996-12-02</dateline>
+<text>
+<p>About 950,000 acres of Saskatchewan farmland had not been harvested by the time heavy snow fell on fields in late October, a Saskatchewan Agriculture official said.</p>
+<p>&quot;The unharvested acres are primarily in the northeast of the province. It's between 900,000 to one million acres, I'd say about 950,000 acres,&quot; Saskatchewan Agriculture's director of statistics Dave Boehm told Reuters.</p>
+<p>Assuming an average production of 0.8 tonnes an acre from fields seeded to the six major grains and oilseeds, about 760,000 tonnes of grain and seed are under snow, Boehm said.</p>
+<p>&quot;You can lose between half a tonne to three quarters of a tonne depending on winter damage and weight loss,&quot; Boehm added.</p>
+<p>Canadian Agriculture Minister Ralph Goodale on Nov 18 approved an emergency fund for Prairie farmers who had not harvested wheat and barley or who harvested tough and damp grain.</p>
+<p>Four percent of crops were standing in the Alberta and Saskatchewan fields when snow fell, Agriculture Canada said.</p>
+<p>The fund will pay up to C$15,000 a farmer for unharvested wheat and barley and C$3,000 a farmer to dry grain.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

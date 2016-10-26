@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453520" id="root" date="1997-03-19" xml:lang="en">
+<title>FRANCE: Delta upgrades Paris-Atlanta services.</title>
+<headline>Delta upgrades Paris-Atlanta services.</headline>
+<dateline>PARIS 1997-03-19</dateline>
+<text>
+<p>Delta Air Lines said it will operate a bigger aircraft on its daily Paris-Atlanta passenger service from June 12.</p>
+<p>&quot;We are going to switch to an MD-11 from a Boeing 767 on the route and this will result in an increase in both passenger and cargo capacity,&quot; a Delta official told Reuters.</p>
+<p>The passenger MD-11 has a cargo capacity of approximately 17 tonnes compared to around 10 tonnes for the 767.</p>
+<p>Delta's daily flights from Paris to New York and a four-times-weekly service to Cincinnati will continue to be operated by 767s, the official said.</p>
+<p>Delta was currently in the process of moving its Paris activities from Orly airport to CDG airport and will be operating its first flight from thr latter on April 7, the official added.</p>
+<p>&quot;MATS will continue to be our cargo sales agent in Paris following our move to CDG,&quot; he said.</p>
+<p>-Reuters Air Cargo Service Tel +44 171 542 7706; fax +5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

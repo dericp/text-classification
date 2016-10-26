@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130862" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: White House's Stiglitz - 96 deficit about $109 bln.</title>
+<headline>White House's Stiglitz - 96 deficit about $109 bln.</headline>
+<dateline>WASHINGTON 1996-10-21</dateline>
+<text>
+<p>Joseph Stiglitz, the chairman of the White House Council of Economic Advisers, said Monday that the U.S. budget deficit for fiscal 1996 ended September 30 will be &quot;about $109 billion.&quot;</p>
+<p>Stiglitz, speaking to reporters, confirmed an earlier report from the Congressional Budget Office which said that the range would be from $107 billion to $111 billion.</p>
+<p>The precise amount, computed by the Treasury Department, will be released later this month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

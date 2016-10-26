@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156182" id="root" date="1996-10-31" xml:lang="en">
+<title>CANADA: Canada weekly canola/flax/oats elevator stocks-WCE.</title>
+<headline>Canada weekly canola/flax/oats elevator stocks-WCE.</headline>
+<text>
+<p>Week ending Oct 25. WCE deliverable grades breakdown in licensed elevators. In thousand tonnes.</p>
+<p>Region	     Flax  Canola  Canola  Canola  Canola  Canola</p>
+<p>Man./Ont./East   No1CW No1C  No1C NCC* No2C  No2 NCC*   Total</p>
+<p>stocks on Friday 4.872  9.009  22.162  0.594   0.668   32.433</p>
+<p>ttl receipts wk  2.926  1.061  14.391  0.194   0.013   15.659</p>
+<p>ttl shipmnts wk  1.565  0.000  13.362  0.000   0.008   13.370</p>
+<p>clsg stocks Thur 6.233 10.070  23.191  0.788   0.673   34.722</p>
+<p>Canola futures par region 150 radius centered on Saskatoon</p>
+<p>stocks on Friday 2.768 44.486  30.690  2.784   0.818   78.778</p>
+<p>ttl receipts wk  5.266  3.581   8.248  0.464   0.000   12.293</p>
+<p>ttl shipmnts wk  2.663  5.640   2.458  0.065   0.074    8.237</p>
+<p>clsg stocks Thur 5.371 42.427  36.480  3.183   0.744   82.834</p>
+<p>Saskatchewan/Central</p>
+<p>stocks on Friday 5.066 18.658 15.018   0.839    0.883   35.398</p>
+<p>ttl receipts wk  1.414  0.141  7.393   0.000    0.020    7.554</p>
+<p>ttl shipmnts wk  5.174  0.000  7.842   0.000    0.000    7.842</p>
+<p>clsg stocks Thur 1.306 18.799 14.569   0.839    0.903   35.110</p>
+<p>Alta./Western</p>
+<p>stocks on Friday 0.000 83.031  55.659  4.511   0.994  144.195</p>
+<p>ttl receipts wk  0.000 32.812  32.476  0.751   1.170   67.209</p>
+<p>ttl shipmnts wk  0.000 23.777  37.386  4.086   0.796   66.045</p>
+<p>clsg stocks Thur 0.000 92.066  50.749  1.176   1.368  145.359</p>
+<p>B.C./Pacific</p>
+<p>stocks on Friday	  6.537  12.619  1.145   2.673   22.974</p>
+<p>ttl receipts wk	   7.127  10.556  0.981   1.053   19.717</p>
+<p>ttl shipmnts wk	   0.000  17.395  0.000   1.611   19.006</p>
+<p>clsg stocks Thur	 13.664   5.780  2.126   2.115   23.685</p>
+<p>Thunder Bay</p>
+<p>stocks on Friday31.442</p>
+<p>ttl receipts wk 11.813</p>
+<p>ttl shipmnts wk  6.886</p>
+<p>clsg stocks Thur36.369</p>
+<p>Oats		 Man.   Sask.  Alta.</p>
+<p>		     No3 CW or better</p>
+<p>stocks on Friday 17.839 17.271  3.820 ttl receipts wk   7.442  7.122  1.612</p>
+<p>ttl shipmnts wk   7.517  9.025  2.286</p>
+<p>clsg stocks Thur 17.764 15.268  3.146 *NCC: Non Commercially Cleaned.</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

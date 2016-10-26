@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91387" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: World Bank sees Latam growth, lower inflation.</title>
+<headline>World Bank sees Latam growth, lower inflation.</headline>
+<dateline>WASHINGTON 1996-10-02</dateline>
+<text>
+<p>The World Bank expects Latin America's economic output to grow and inflation to fall over the next two years, according to figures released on Wednesday by the bank's leading economists.</p>
+<p>The region will grow on average by about 2.7 percent in 1996, 4.1 percent in 1997 and 4.6 percent in 1998, the figures handed out during the IMF/World Bank annual meeting showed.</p>
+<p>Meanwhile, inflation is likely to drop from 18.6 percent in 1996 to 11.4 percent in 1997 and 4.3 percent in 1998.</p>
+<p>World Bank authorities stressed these were not official forecasts but rather their experts' best estimates.</p>
+<p>In 1995, the year of the Mexican peso crisis, Latin America grew by a disappointing 0.7 percent, down from 4.9 percent in 1994, its best year in more than a decade.</p>
+<p>Despite that setback, inflation decrease last year, ending at 25 percent, against 348.5 percent for 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

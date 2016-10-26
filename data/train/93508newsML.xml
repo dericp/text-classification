@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93508" id="root" date="1996-10-03" xml:lang="en">
+<title>HUNGARY: Hungary Sept unemployment rate 11.0 pct.</title>
+<headline>Hungary Sept unemployment rate 11.0 pct.</headline>
+<dateline>BUDAPEST 1996-10-03</dateline>
+<text>
+<p>Hungary's unemployment rate rose to 11.0 percent in September from 10.8 percent in August, the National Labor Centre (OMK) said on Thursday.</p>
+<p>    HUNGARY JOBLESS	   Sept 96   Aug 96    Sept 95</p>
+<p>    registered unemployed   501,102   494,900   491,400</p>
+<p>    rate (pct)		   11.0	10.8	10.3</p>
+<p>NOTE - All percentage figures are based on size of the active population in January 1995.</p>
+<p>-- Budapest newsroom (36 1) 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

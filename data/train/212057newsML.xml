@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212057" id="root" date="1996-11-22" xml:lang="en">
+<title>GERMANY: German Krones expects to double profit in 96.</title>
+<headline>German Krones expects to double profit in 96.</headline>
+<dateline>FRANKFURT 1996-11-22</dateline>
+<text>
+<p>German drinks technology and beverages maker Krones AG said it expects its 1996 net profit to nearly double from last year's 13.2 million mark level.</p>
+<p>In a mandatory statement the group also said it expects group sales to be 1.6 billion marks, nearly flat from last year's 1.58 billion mark turnover. Sales would be largely fuelled by foreign sales, with turnover in Asia and Latin America making up the lion's share of sales, it said.</p>
+<p>Looking ahead, Krones said it expected to post a satisfactory result next year as well.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

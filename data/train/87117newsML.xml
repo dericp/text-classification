@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87117" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Foxmoor Industries Ltd year end results.</title>
+<headline>Foxmoor Industries Ltd year end results.</headline>
+<dateline>DENVER 1996-10-01</dateline>
+<text>
+<p>Foxmoor Industries Ltd (Audited Results of Operations)</p>
+<p>				12-months			 12-months</p>
+<p>				   ended			     ended</p>
+<p>				06/30/96			  06/30/95</p>
+<p> Contract Assignment Sales   $---		     $31,000,000</p>
+<p> Assignment Revenue	 369,016			   742,490</p>
+<p> Interest Income	     94,912			    51,853</p>
+<p> Loss on Stock Investment     ---			   (7,500)</p>
+<p> Total Revenue		463,928			   786,843</p>
+<p> Operating Expenses	 437,834			   882,985</p>
+<p> Net Income		    16,594			    70,558</p>
+<p> Net Income Per Share	  0.01				0.03</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

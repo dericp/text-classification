@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79233" id="root" date="1996-09-26" xml:lang="en">
+<title>FRENCH GUIANA: Second Ariane-5 to launch &quot;dummy&quot; satellites.</title>
+<headline>Second Ariane-5 to launch &quot;dummy&quot; satellites.</headline>
+<byline>Alex Miles</byline>
+<dateline>KOUROU, French Guiana 1996-09-26</dateline>
+<text>
+<p>Europe's second Ariane-5 rocket, due to be launched in mid-April 1997 at the earliest, will put two &quot;dummy&quot; satellites into orbit after the first heavy launcher blew up last June with the loss of four scientific satellites, space officials said on Thursday.</p>
+<p>&quot;The objective of Ariane flight 502 is to demonstrate the rocket's capacity to launch double satellite payloads into Geostationary Transfer Orbit (GTO),&quot; Jean-Marie Luton, director of the European Space Agency (ESA), told a news conference.</p>
+<p>&quot;We will launch two instrument platforms that represent satellite masses,&quot; Luton told a news conference in Paris broadcast to the ESA launch centre in French Guiana.</p>
+<p>In a major setback for the European space programme, the first Ariane-5 exploded less than 40 seconds after lift-off on June 4. It was carrying an uninsured payload of four scientific satellites with a value of $500 million.</p>
+<p>Specialists in Kourou said that the &quot;dummy&quot; satellites would cost less than $3 million.</p>
+<p>An inquiry board investigating the explosion concluded in July that the failure was caused by software design errors in the rocket's inertial reference guidance system.</p>
+<p>The explosion was a major setback for Western Europe's effort to maintain its position as leader in launching commercial satellites, and to launch eventually a manned mission aboard Ariane-5 for Europe's participation in the international space station Alpha.</p>
+<p>The Paris-based Arianespace company that launches the Ariane rocket series said it would make an additional order for more flight proven Ariane-4 rockets.</p>
+<p>The company had plannned to phase out gradually use of Ariane-4 and use exclusively Ariane-5 by the year 2000.</p>
+<p>&quot;This transition period has now become delicate. We have taken the decision to order more Ariane-4 rockets,&quot; Arianespace president Charles Bigot said.</p>
+<p>&quot;I cannot now give you an exact number but I would estimate it to be about five or six to meet the demands of our clients scheduled for launch in 1999,&quot; he added.</p>
+<p>Arianespace has on order 22 more Ariane-4 rockets and 14 Ariane-5 rockets to service a customer backload of 42 heavy satellites to launch worth an estimated $4.1 billion.</p>
+<p>It was scheduled to begin using Ariane-5 for its customers in early 1997 but that will now be delayed for at least a year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FGNA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KOUROU, French Guiana"/>
+<dc element="dc.creator.location.country.name" value="FRENCH GUIANA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

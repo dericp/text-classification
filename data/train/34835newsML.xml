@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34835" id="root" date="1996-09-05" xml:lang="en">
+<title>JAPAN: Tokyo rubber futures slip on long-liquidation.</title>
+<headline>Tokyo rubber futures slip on long-liquidation.</headline>
+<dateline>TOKYO 1996-09-05</dateline>
+<text>
+<p>Tokyo rubber futures ended lower across the board on Thursday, as long-liquidation in nearby months spilled over into other contracts, traders said.</p>
+<p>Amid continued concerns over abundant near-term supplies, the market was mainly spurred by technical factors.</p>
+<p>Prices ranged from 2.2 yen to 3.2 yen per kg lower. Benchmark February was 2.2 yen weaker at 141.9 yen.</p>
+<p>The market opened weaker, as the yen's firmer tone against the dollar also undermined market sentiment, they said.</p>
+<p>Price losses in distant months were limited, supported by some fresh buying by trade houses, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228652" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: McDonald's makes Dominican Republic debut.</title>
+<headline>McDonald's makes Dominican Republic debut.</headline>
+<dateline>OAK BROOK, Ill. 1996-12-02</dateline>
+<text>
+<p>McDonald's Corp. said Monday it opened its first restaurant in the Dominican Republic on Saturday, expanding its fast-food network to 99 countries.</p>
+<p>It was the third new country for the fast-food chain in a month, after Jordan and Paraguay.</p>
+<p>&quot;We're on target with our growth strategy around the world,&quot; said Jim Cantalupo, president of McDonald's International, &quot;And we will cap a year of unprecedented international development with our 100th country milestone on Dec. 10.&quot;</p>
+<p>In the last five years, the number of McDonald's restaurants in Latin America and the Caribbean has more than tripled, to over 650 restaurants. McDonald's has more than 20,000 outlets worldwide.</p>
+<p>Oak Brook, Ill.-based McDonald's stock fell 87.5 cents to $45.875 on the New York Stock Exchange in afternoon trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OAK BROOK, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

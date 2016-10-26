@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70031" id="root" date="1996-09-23" xml:lang="en">
+<title>ZIMBABWE: Zimbabwe July M3 money supply up 35.86 pct yr/yr.</title>
+<headline>Zimbabwe July M3 money supply up 35.86 pct yr/yr.</headline>
+<dateline>HARARE 1996-09-23</dateline>
+<text>
+<p>Zimbabwe's year-on-year broadly defined M3 money supply grew 35.86 percent in July after a rise of 33.66 percent in June, the Reserve Bank said.</p>
+<p>				    July 1996   June 1996   July 1995 M3</p>
+<p>(Z$ million)		 20,977.1    19,768.3    15,439.9 M2</p>
+<p>    &quot;			  19,027.0    18,153.9    14,055.8 M1</p>
+<p>    &quot;			  12,215.5    11,244.3     7,688.7</p>
+<p>-- Harare Newsroom: +2634 72 52 27/8/9 --</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

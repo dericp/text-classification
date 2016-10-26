@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110820" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: U.S. Sen. Specter has benign brain tumor removed.</title>
+<headline>U.S. Sen. Specter has benign brain tumor removed.</headline>
+<dateline>PITTSBURGH 1996-10-11</dateline>
+<text>
+<p>Republican Sen. Arlen Specter of Pennsylvania underwent outpatient treatment Friday to remove a benign brain tumour and his doctor said the lawmaker's prognosis was highly favourable.</p>
+<p>&quot;We're very optimistic about the outcome ... The success rate for this procedure is 98 percent,&quot; Dr. L. Dade Lunsford, chief of neurosurgery at Presbyterian University Hospital, told a news conference with Specter following the treatment.</p>
+<p>Said Specter: &quot;I feel fine. I had a good lunch. They served me a big piece of cake, that's what this day has been, a piece of cake.&quot;</p>
+<p>Specter, 66, underwent a &quot;Gamma Knife&quot; radiation treatment to remove a small benign tumour that apparently resulted from the growth of tiny cells left from an operation Specter underwent in 1993 to remove a larger benign tumour.</p>
+<p>He entered the hospital Friday morning and planned to leave later in the day. He underwent surgery in June 1993 to remove a benign tumour and a brain scan this year showed a small tumour had grown on the outer edge of the left, frontal brain between the brain and the skull.</p>
+<p>The &quot;Gamma Knife&quot; procedure was developed in Sweden in 1967 and has been in use at the University of Pittsburgh since 1987. It focuses high-powered rays on a tumour, cutting off blood supply and causing it to shrivel up.</p>
+<p>Specter was an early entry in the campaign for the 1996 Republican presidential nomination but withdrew early in the race.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

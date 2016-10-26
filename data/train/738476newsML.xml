@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738476" id="root" date="1997-07-18" xml:lang="en">
+<title>LITHUANIA: VINGIS FIRST-HALF LOSS RISES.</title>
+<headline>VINGIS FIRST-HALF LOSS RISES.</headline>
+<dateline>VILNIUS 1997-07-18</dateline>
+<text>
+<p>First half of 1997,</p>
+<p>					(million litas unless stated)</p>
+<p>    Net losses		     1.675  vs  losses 477,000</p>
+<p>    Turnover			 28.3   vs  22.1</p>
+<p>    Operating costs		3.304  vs  3.097</p>
+<p>    Operating loss		 1.239  vs  loss 64,000</p>
+<p>    Extraordinary gain	   46,000 vs  24,000</p>
+<p>-- Vilnius newsroom +370 2 223 518</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LITH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VILNIUS"/>
+<dc element="dc.creator.location.country.name" value="LITHUANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

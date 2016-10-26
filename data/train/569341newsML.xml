@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569341" id="root" date="1997-05-08" xml:lang="en">
+<title>SINGAPORE: Singapore bunker final report and prices - May 8.</title>
+<headline>Singapore bunker final report and prices - May 8.</headline>
+<text>
+<p>(DELIVERED U.S.$/TONNE)  380 CST   180 CST     MDO     GAS OIL</p>
+<p> SINGAPORE CARGO	    94/96    102/103     UNQ     188/190</p>
+<p> SINGAPORE BUNKER	  101/102   107/108   193/195   205/208</p>
+<p>--------</p>
+<p>COMMENTS - Singapore bunker suppliers raised their quotes on Thursday in line with cargo strength and traders said offers could go up further. However, many shipowners were sidelined, unwilling to pay high prices.</p>
+<p>-- Singapore newsroom (65-870-3571)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

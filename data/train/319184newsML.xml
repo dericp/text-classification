@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319184" id="root" date="1997-01-20" xml:lang="en">
+<title>USA: Eaton sees possible record sales, profits in 1997.</title>
+<headline>Eaton sees possible record sales, profits in 1997.</headline>
+<dateline>CLEVELAND 1997-01-20</dateline>
+<text>
+<p>Eaton Corp said Monday that, assuming that the markets it serves hold up, it intends to achieve record sales and earnings in 1997.</p>
+<p>On balance, the company said it has continued to make progress turning around those businesses that have been a drag on operating results in prior years.</p>
+<p>Restructuring charges and tough actions by Eaton managers are focused on these lagging operations, the company said.  </p>
+<p>The company said it expects $50 million in annual mature year savings from these moves, with $25 million in net savings falling to the bottom line in 1997.</p>
+<p>The company said sales of Specialty Controls in the fourth quarter were comparable to one year ago, due in large part to the sharp downturn in the worldwide market for semiconductor capital equipment.</p>
+<p>The company said sales of semiconductor equipment stabilized in the second half of 1996 at levels about 23 percent below first half levels.</p>
+<p>The company said it continues to be encouraged by increases in the semiconductor industry's book-to-bill ratio, which are now beginning to be reflected in the equipment industry's order boards. The company said is sees year-to-year improvement in sales beginning in the second half of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

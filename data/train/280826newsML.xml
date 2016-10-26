@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="280826" id="root" date="1996-12-30" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Dec 30.</title>
+<headline>PRESS DIGEST - New York Times front page - Dec 30.</headline>
+<dateline>NEW YORK 1996-12-30</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Monday:</p>
+<p>- Optimism is growing in Lima, Peru, that the hostage crisis in the Japanese Ambassador's residence can be resolved without bloodshed after the Government and Marxist rebels met Saturday for the first time.</p>
+<p>- North Korea expressed &quot;deep regret&quot; for sending a submarine filled with armed commandos into South Korean waters and for &quot;the tragic loss of human life,&quot; and promised not to do it again.</p>
+<p>- The Clinton Administration is facing increased diplomatic pressure to pay America's outstanding United Nations dues.</p>
+<p>- Brooklyn Union Gas and Long Island Lighting Co agreed to a merger that would create a new utility and perhaps lead to deep cuts in electric rates for 1.1 million Long Island, N.Y., customers.</p>
+<p>- U.S. Representative Michael Forbes of Long Island, N.Y., became the first Republican to say he would not vote for Newt Gingrich for a second term as Speaker of the House.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

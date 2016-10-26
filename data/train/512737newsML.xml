@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512737" id="root" date="1997-04-16" xml:lang="en">
+<title>CANADA: Canada to allow cod fishing despite misgivings.</title>
+<headline>Canada to allow cod fishing despite misgivings.</headline>
+<dateline>OTTAWA 1997-04-16</dateline>
+<text>
+<p>Canada has decided to allow some commercial harvesting of cod off its Atlantic coast, bringing some hope to fishermen who have been out of work for years but some scientists criticised the plan.</p>
+<p>Fisheries Minister Fred Mifflin said on Wednesday he would announce on Thursday in Newfoundland, the hardest-hit province, a partial reopening of the cod fishery, which was closed in 1993 to let it recover from overfishing.</p>
+<p>&quot;The precedent of reopening after having been closed for several years is the good news,&quot; Mifflin told reporters in Ottawa. He was to fly to Newfoundland later in the day.</p>
+<p>He said he would be implementing recommendations made in October by the Fisheries Resource Conservation Council (FRCC), a government advisory body. Among the recommendations were that 22,000 tonnes of cod could be taken this season from the south coast of Newfoundland and the Gulf of St. Lawrence, compared with the 38,000 tonnes taken in those zones in 1993.</p>
+<p>Some fisheries scientists say the move is premature. &quot;The most reliable abundance statistics we have show the populations have not recovered to any detectible extent,&quot; Dalhousie University Professor Ransom Myers said, adding &quot;we can't have a reopening when the stocks are still at a very low level.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

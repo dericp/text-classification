@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74644" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: U.S. Treasury balances at Fed fell on Sept 24.</title>
+<headline>U.S. Treasury balances at Fed fell on Sept 24.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>U.S. Treasury balances at Federal Reserve based on Treasury Department's latest budget statement.</p>
+<p>			  (BILLIONS OF DLRS)</p>
+<p>				 Sept 24		Sept 23</p>
+<p>Fed acct			 7.366		  7.635</p>
+<p>Tax/loan note acct	  35.098		 32.663</p>
+<p>Cash balance		  42.464		 40.297</p>
+<p>---</p>
+<p>Total public debt,</p>
+<p> subject to limit	5,109.974	     5,104.541</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

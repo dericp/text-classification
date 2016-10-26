@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="703934" id="root" date="1997-07-02" xml:lang="en">
+<title>AUSTRALIA: El Nino could be costly, warn scientists.</title>
+<headline>El Nino could be costly, warn scientists.</headline>
+<byline>James Regan</byline>
+<dateline>MELBOURNE 1997-07-02</dateline>
+<text>
+<p>International scientists warned on Wednesday that a major El Nino weather pattern was occurring with the potential to cause billions of dollars of damage in key agricultural regions worldwide.</p>
+<p>Meteorogical and oceanographic readings from the tropical Pacific ocean point to formation of an El Nino possibly rivalling the one in 1982 and 1983, the largest this century, which was responsible for hurricanes, droughts, fires and flooding in over 15 countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

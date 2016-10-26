@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33747" id="root" date="1996-09-05" xml:lang="en">
+<title>TAIWAN: Taiwan to stay in 16MB DRAMs despite price war.</title>
+<headline>Taiwan to stay in 16MB DRAMs despite price war.</headline>
+<byline>Alice Hung</byline>
+<dateline>TAIPEI 1996-09-05</dateline>
+<text>
+<p>Taiwan chipmakers said on Thursday that a shakeup in the global memory-chip market had run its course, and forecast profits for the hard-hit 16-megabit sector despite a long and precarious downturn in prices.</p>
+<p>Several Taiwan semiconductor companies said production of 16MB dynamic random-access memory chips, called DRAMs, would continue to dominate the island's chip-making industry rather than the costlier, next-generation 64MB DRAMs.</p>
+<p>&quot;We have no plan to follow other foreign firms' suit to cut back production in 16-megabit DRAMs,&quot; said a spokeswoman at TI-Acer Inc, a joint venture of Taiwan's computer giant Acer Inc and U.S. giant Texas Instruments.</p>
+<p>&quot;In fact, we have decided to concentrate on production of 16-megabit DRAMs this year. We intend to run at full capacity. The price for 16-Megabit DRAMs has stabilised,&quot; she said.</p>
+<p>Winbond Electronics Corp, Taiwan's third largest semiconductor maker, has even more ambitious plans.</p>
+<p>&quot;Not only will we retain our total investment but also we will continue our expansion plans,&quot; Winbond spokesman Liu Chung-kwang said by telephone.</p>
+<p>Winbond planned to start making 16MB DRAMs in 1997.  </p>
+<p>Taiwan Semiconductor Manufacturing Co, the island's largest semiconductor maker, would also start producing 16MB DRAMs or more advanced products for Fujitsu Ltd at a new plant between 1997 and 2000.</p>
+<p>DRAMs are rapidly becoming a commodity in the microcomputer industry. Because the amount of memory installed in a computer is a key measure of its speed and efficiency, market demand to cram more megabits of memory onto a chip is enormous.</p>
+<p>Many Japanese semiconductor makers have announced cutbacks in memory-chip investments in recent months and begun shifting production to 64MB DRAMs following a fall in 16MB chip prices.</p>
+<p>While 4MB DRAMS are industry dinosaurs and 16MB technology may have seen better days, the market has yet to fully embrace the far more expensive 64-megabit benchmark -- leaving plenty of life for manufacturers in the 16MB range.</p>
+<p>&quot;Local makers may still find profits in the 16-megabit market this year. But 16-megabit DRAMs will be a short-lived product,&quot; said Nikko Securities research chief Michael Hung. &quot;They'll have to shift to 64-megabit chips sooner or later.&quot;</p>
+<p>Analysts say a shift to 64MB chips is inevitable.</p>
+<p>TI-Acer has stopped making 4MB DRAM chips altogether, phasing them out since June due to plunging prices.  </p>
+<p>Both TI-Acer and Winbond said they planned to shift to 64MB chips from the second half of 1997.</p>
+<p>&quot;I don't see a huge demand for 64-megabit chips at the moment,&quot; the TI-Acer spokeswoman said. &quot;We are not eager to jump into the market.&quot;</p>
+<p>Liu said Winbond, which has a 64MB production technology agreement with Japan's Toshiba Corp, will use the higher technology to produce its lower-tech 16MB DRAMs next year.</p>
+<p>Toshiba has said Winbond may start mass-production of 64MB DRAMs in Taiwan by the end of 1998, but a final decision has not been made.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

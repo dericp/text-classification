@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641039" id="root" date="1997-06-05" xml:lang="en">
+<title>CANADA: Canada help wanted index rises 4.0 pct in May.</title>
+<headline>Canada help wanted index rises 4.0 pct in May.</headline>
+<dateline>OTTAWA 1997-06-05</dateline>
+<text>
+<p>Canada's help wanted index, seasonally adjusted, rose four percent in May to 106 (1991=100) from 102 in April, Statistics Canada said on Thursday.</p>
+<p>The index was at its highest point since March 1991, Statistics Canada officials said.</p>
+<p>The help wanted index monitors changes in help wanted advertisements in 20 cities. It reflects the intent of employers in these labor markets to hire new workers. Increases in the index are usually followed by drops in the unemployment rate.</p>
+<p>A Reuters survey of economists had forecast no change in the index from April's 102 points.</p>
+<p>Statistics Canada said the rise in May was the eighth consecutive rise. Since October 1996, the index has increased by 20 percent, the federal agency said.</p>
+<p>(For more information on this release from Statistics Canada's Labour Division, contact Michael Scrim at 613-951- 4090.)</p>
+<p>((Reuters Ottawa Bureau (613) 235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

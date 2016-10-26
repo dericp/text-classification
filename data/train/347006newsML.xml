@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="347006" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: Court Ok's Coram class action settlement.</title>
+<headline>Court Ok's Coram class action settlement.</headline>
+<dateline>DENVER 1997-01-31</dateline>
+<text>
+<p>Coram Healthcare Corp Friday said it received approval from the U.S. District Court in Denver of its agreement to settle a securities class action and a related derivative lawsuit.</p>
+<p>In addition to certain cash consideration, Coram is issuing five million new shares of its common stock pursuant to the settlement of the class action.</p>
+<p>The court noted that the defendants in the subject actions were not in any way admitting liability or the truth of any of the allegations asserted.</p>
+<p>The litigation involved claims asserted against Coram and certain of its present and former directors and former officers based on events that occurred in 1995, including Coram's purchase of the alternate site infusion business and certain related businesses from a subsidiary of Caremark International Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="346246" id="root" date="1997-01-31" xml:lang="en">
+<title>UK: European VGO heads to U.S., cargoes hit $165 fob N.</title>
+<headline>European VGO heads to U.S., cargoes hit $165 fob N.</headline>
+<dateline>LONDON 1997-01-31</dateline>
+<text>
+<p>bid/ask	prev bid/ask</p>
+<p> Low sulphur cargoes fob NWE	  164/165	  165/167</p>
+<p> High sulphur cargoes fob NWE	 155/156	  153/155</p>
+<p> High sulphur barges fob ARA	  158/159	  154/156</p>
+<p> Formula quotation fob Med	     08/12	    08/12</p>
+<p>--------------------------------------------------------------</p>
+<p>European vacuum gas oil prices were firm on Friday, boosted by U.S. demand which has lifted prices over the past two weeks by some $8 a tonne.</p>
+<p>A cargo sold early this week at $159.50 fob Scandinavia was re-sold later at $165 fob and is expected to head for the U.S. Demand from the U.S. Gulf was heard around four cents below the 70/30 NYMEX formula with offers at 3.50 under.</p>
+<p>Dealers said cargoes were expected to move from Italy and possibly Spain to the U.S. over the next few days.</p>
+<p>&quot;The arb from the Med is still open. Any low sulphur material is snapped up pretty quickly,&quot; said a trader.</p>
+<p>High sulphur VGO barges were pegged around $158 fob Rotterdam but activity was slow.</p>
+<p>-- London newsroom +44 171 542 8167</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

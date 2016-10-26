@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83365" id="root" date="1996-09-28" xml:lang="en">
+<title>FRANCE: French RATP sets telecoms unit.</title>
+<headline>French RATP sets telecoms unit.</headline>
+<dateline>PARIS 1996-09-28</dateline>
+<text>
+<p>French bus and underground rail operator RATP has decided to create a telecommunications subsidary to take advantage of the opening up of the domestic telecoms market in 1998, newspapers reported on Saturday.</p>
+<p>The RATP, which runs the Paris Metro, could open up the capital of its wholly-owned Telecom Reseaux to minority partners, the Figaro Economie section of Le Figaro reported.</p>
+<p>The RATP has 300 km (186 miles) of track on which it can lay fibre optic cable for lease to telecom firms, large companies or institutions, daily newspaper Liberation reported.</p>
+<p>The new company will have capital of 10 million French francs ($1.94 million) and expects to have annual sales of 30 million francs eventually.</p>
+<p>Installation of more than 200 kilometres of fibre optic cable is expected to cost 56 million francs over 10 years, 28 million francs being invested in the first year, Le Figaro reported.</p>
+<p>The French government is breaking France Telecom's monopoly on the domestic market as of January 1, 1998, in accordance with European Union competition rules, ushering in competition for long-distance and local calls as well as lucrative business networks for large companies.</p>
+<p>French utility Cie Generale des Eaux last Thursday announced British Telecommunications Plc as its major partner in its Cegetel telecoms subsidary, which will rival France Telecom after 1998.</p>
+<p>-- Paris newsroom +331 4221 5452 ($1=5.150 French Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="I72101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

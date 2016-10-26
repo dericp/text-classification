@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456846" id="root" date="1997-03-20" xml:lang="en">
+<title>UK: Oil price rally hesitates as confidence drains.</title>
+<headline>Oil price rally hesitates as confidence drains.</headline>
+<dateline>LONDON 1997-03-20</dateline>
+<text>
+<p>Oil prices shifted lower on Thursday as traders' confidence in this week's unexpectedly sharp rally began to slip away.</p>
+<p>London May futures for international bellwether North Sea Brent blend closed 13 cents lower at $20.19 a barrel.</p>
+<p>Lower prices came in spite of the closure for the second time this week of the Mississippi River to barge traffic, delaying shipments of oil products into the U.S. Midwest.</p>
+<p>Dealers in the United States said the closure, after 100 barges broke loose in swollen waters, had proven bearish for oil prices because crude stocks would rise as a result.</p>
+<p>European petroleum product traders were looking east to shift a surplus which has kept refining profits in the doldrums over the past month.</p>
+<p>&quot;Most oil products are oversupplied in Europe and the United States. The only real demand is in Asia,&quot; said an oil market analyst.</p>
+<p>Asian traders were looking to soak up European cargoes to take advantage of usually high refinery profit margins, measured at just under $5 a barrel in Singapore on Thursday.</p>
+<p>Eastbound oil shipments from the Middle East also have risen sharply this year to feed newly commissioned refineries.</p>
+<p>&quot;It looks as though the east has bailed out the west again,&quot; said consultancy Oil Movements in a weekly report.</p>
+<p>Two European refiners, feeling a little more confident about profits in the past few days, have decided to restore operations after cutting crude throughputs early this month.</p>
+<p>But other refiners were putting off a decision, citing profits before fixed costs still at just $1.14 in Rotterdam.</p>
+<p>Crude oil prices in dollars per barrel:</p>
+<p>						 Mar 20   Mar 19</p>
+<p>						(close)  (close)</p>
+<p>    Dated Brent			    $19.44   $19.62</p>
+<p>    IPE London Brent futures  (May)  $20.19   $20.32</p>
+<p>    NYMEX light crude futures (Apr)  $22.10   $22.04</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

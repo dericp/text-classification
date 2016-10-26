@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290326" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: America West December load factor 69.5 pct.</title>
+<headline>America West December load factor 69.5 pct.</headline>
+<text>
+<p>PHOENIX, Jan 7 (Reuter)</p>
+<p>The following is a summary of America West's December, 4th quarter and full year traffic results:</p>
+<p>						 Dec. 1996	 Dec. 1995	 % Change</p>
+<p>    Passengers Enplaned		  1,592,203	 1,376,716	   15.7</p>
+<p>    Revenue Passenger Miles (000)    1,376,808	 1,077,371	   27.8</p>
+<p>    Available Seat Miles (000)	 1,982,124	 1,629,273	   21.7</p>
+<p>    Load Factor (%)			     69.5		66.1     3.4 points</p>
+<p>					     4th Qtr. 1996    4th Qtr. 1995     % Change</p>
+<p>    Passengers Enplaned		  4,615,565	 4,195,454	   10.0</p>
+<p>    Revenue Passenger Miles (000)    3,973,874	 3,277,245	   21.3</p>
+<p>    Available Seat Miles (000)	 5,761,761	 4,918,765	   17.1</p>
+<p>    Load Factor (%)			     69.0		66.6     2.4 points</p>
+<p>						  Year 1996	 Year 1995     % Change</p>
+<p>    Passengers Enplaned		 18,173,521	16,848,329	    7.9</p>
+<p>    Revenue Passenger Miles (000)   15,314,897	13,312,742	   15.0</p>
+<p>    Available Seat Miles (000)	21,624,600	19,421,451	   11.3</p>
+<p>    Load Factor (%)			     70.8		68.5     2.3 points</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

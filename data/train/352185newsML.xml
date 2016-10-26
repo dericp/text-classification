@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352185" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: U.S Dec personal income shows wages under pressure.</title>
+<headline>U.S Dec personal income shows wages under pressure.</headline>
+<byline>Roanne Daniels</byline>
+<dateline>NEW YORK 1997-02-03</dateline>
+<text>
+<p>December U.S. personal income and consumption data, as expected, showed wages benefitted from a tighter labor market and that a steady rate of spending helped fuel robust economic growth in the fourth quarter, analysts said.</p>
+<p>&quot;It's just another sign that as 1996 came to a close, the economy was operating in a rather vigorous fashion,&quot; said Kevin Flanagan, economist at Dean Witter Reynolds Inc.</p>
+<p>&quot;You continue to see wage gains and that has been a byproduct of the tightening in the labor force.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="E141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51134" id="root" date="1996-09-12" xml:lang="en">
+<title>DUBAI: Refugee killed in Iraq-Iran border shooting - IRNA.</title>
+<headline>Refugee killed in Iraq-Iran border shooting - IRNA.</headline>
+<dateline>DUBAI 1996-09-12</dateline>
+<text>
+<p>One person was killed and another was wounded when Iraqi troops and Kurdish Democratic Party (KDP) forces fired at Kurdish refugees on the Iran-Iraq border, the official Iranian news agency IRNA said on Thursday.</p>
+<p>The incident occurred late on Wednesday near the Bashmaq border crossing, IRNA said.</p>
+<p>It quoted the governor of Marivan in western Iran as saying one refugee was killed in the shooting and another was wounded. A third refugee was captured. Some refugees then crossed into Iran.</p>
+<p>On Tuesday four people were killed and about 100 were wounded at Bashmaq, refugees and local Iranian authorities at the border crossing have said. That incident prompted about 5,000 refugees to stream into Iran.</p>
+<p>Tehran said on Wednesday it was sheltering 39,000 Kurds who have fled the KDP's takeover of northern Iraq completed this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DUBAI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

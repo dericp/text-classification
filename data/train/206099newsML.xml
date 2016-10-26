@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206099" id="root" date="1996-11-21" xml:lang="en">
+<title>CANADA: Canadian Exchanges Closing - Nov 21.</title>
+<headline>Canadian Exchanges Closing - Nov 21.</headline>
+<text>
+<p>T-BILLS</p>
+<p> CAN.DOLLAR 1.3392-97	1M   2.82  CALL LOAN 3.05</p>
+<p>   CAD/DEM  1.1181-91	2M   2.84</p>
+<p>   CAD/JPY  83.06-16	 3M   2.84</p>
+<p>   CAD/CHF  0.9454-64	WI   2.87  CANADA BONDS YIELD</p>
+<p>   GBP/CAD  2.2621-31	6M   3.01     2YR    104.11 3.879</p>
+<p>				   WI   3.01     5YR    107.37 5.233</p>
+<p> CANADA DOLLAR FORWARDS    1Y   3.28    10YR    106.40 6.135</p>
+<p>	 1MTH 27.3-26.8	WI   3.26    30YR    115.25 6.756</p>
+<p>	 2MTH 56.7-55.7</p>
+<p>	 3MTH 86-85</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

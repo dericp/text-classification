@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="578866" id="root" date="1997-05-13" xml:lang="en">
+<title>HUNGARY: Zalakeramia reports rising profits for Q1.</title>
+<headline>Zalakeramia reports rising profits for Q1.</headline>
+<dateline>BUDAPEST 1997-05-13</dateline>
+<text>
+<p>Three-month period ending March 31, 1997.</p>
+<p>(Figures in millions of forints unless stated)</p>
+<p>					  Jan-March 1997   Jan-March 1996</p>
+<p>    Operating profit		   156.3	vs     114.3</p>
+<p>    Pre-tax profit		     159.8	vs     119.8</p>
+<p>    Net profit			   144.2	vs     105.4</p>
+<p>    Sales revenue		    1,028.8	vs     743.9</p>
+<p>    Costs of sales		     657.2	vs     485.7</p>
+<p>    Gross margin			 371.5	vs     258.2</p>
+<p>    Selling, gen. and admin costs  195.5	vs     176.5</p>
+<p>    Other operating revenue	   36.8	vs	85.2</p>
+<p>    Other operating expenditure     56.6	vs	52.6</p>
+<p>    Interest revenue		    26.0	vs	15.6</p>
+<p>    Interest expenditure		22.5	vs	10.1</p>
+<p>    Taxation				15.6	vs	14.4</p>
+<p>NOTE - Zalakeramia Rt is a tile manufacturer. The figures are not audited and they were calculated in accordance with International Accounting Standards.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="310900" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: Bristol markets Zerit AIDS drug for children.</title>
+<headline>Bristol markets Zerit AIDS drug for children.</headline>
+<dateline>PRINCETON, N.J. 1997-01-16</dateline>
+<text>
+<p>Bristol-Myers Squibb Thursday unveiled a new oral formulation of its ZERIT drug, for the treatment of infants and children infected with the human immunodeficiency virus, which causes AIDS.</p>
+<p>ZERIT, also called &quot;stavudine, d4T&quot; has been available for adults in the U.S. since June 1994, in Europe since May 1996, and in several other countries worldwide, the company said.</p>
+<p>Bristol-Myers said that in a recently completed AIDS Clinical Trials Group Study, children receiving ZERIT had fewer side effects than those taking AZT, an AIDS drug made by Glaxo Wellcome Plc.  </p>
+<p>&quot;Children receiving stavudine experienced better weight gain, and their absolute CD4+ lymphocyte counts were better maintained than children taking AZT,&quot; said Mark Kline of Baylor College of Medicine in Houston.</p>
+<p>&quot;Patients in the d4T group encountered significantly fewer episodes of low white blood cell counts compared to the AZT group,&quot; he said.</p>
+<p>A number of clinical trials are underway to determine the safety and efficacy of ZERIT in combination with other HIV/AIDS treatments, including nucleoside analogues and protease inhibitors, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRINCETON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

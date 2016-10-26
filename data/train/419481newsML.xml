@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="419481" id="root" date="1997-03-04" xml:lang="en">
+<title>JAPAN: Limits set on borrowing of Tokuyo City Bank shares.</title>
+<headline>Limits set on borrowing of Tokuyo City Bank shares.</headline>
+<dateline>TOKYO 1997-03-04</dateline>
+<text>
+<p>Japan Securities Finance Co Ltd, which engages in the lending and borrowing of shares with brokerage firms, said on Tuesday that it would set limits on its lending of shares of Tokuyo City Bank Ltd.</p>
+<p>Brokerages borrow shares from the company for clients wishing to sell them short in margin transactions.</p>
+<p>Japan Securities said it would set limits on the number of Tokuyo City Bank shares it would lend to brokerages to cover fresh sales on margin. The restrictions will take effect on March 5, the company said in a statement.</p>
+<p>The restrictions reflect the current number of Tokuyo shares on loan in the stock market and in margin transactions, and have nothing to do with Tokuyo's business performance or outlook, a Japan Securities official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

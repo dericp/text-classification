@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="343299" id="root" date="1997-01-30" xml:lang="en">
+<title>UK: London coal/ore fixtures.</title>
+<headline>London coal/ore fixtures.</headline>
+<dateline>LONDON 1997-01-30</dateline>
+<text>
+<p>Georgios M - 110,000 tonnes Hampton Roads/Le Havre 10-25/2 $6.30 fio three days shinc/25,000 shinc Bocimar (amended).</p>
+<p>China Glory - 60,000 tonnes Banjarmasin/El Ferrol 12-25/2 $8.90 fio 15,000/25,000 shinc Carboex.</p>
+<p>Oinoussian Strength - 60,000 tonnes Richards Bay/Rotterdam 2-16/2 $7.45 fio scale load/25,000 shinc Preag.</p>
+<p>ORE - China Prosperity - 140,000 tonnes Hedland/Redcar 15-28/2 $8.75 fio six days shinc British Steel.</p>
+<p>Leon - 130,000 tonnes Tuburao/Beilun 10-20/3 $10.10 fio scle load/30,000 shinc Minmetal.</p>
+<p>Navarino - 60,000 tonnes New Mangalore/Kaohsiung 24/2-6/3 $6.10 fio 30,000/38,000 shinc CSC.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

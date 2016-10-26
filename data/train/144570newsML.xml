@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144570" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Former U.S. SEC chairmen oppose California measure.</title>
+<headline>Former U.S. SEC chairmen oppose California measure.</headline>
+<dateline>PALO ALTO, Calif. 1996-10-24</dateline>
+<text>
+<p>Seven former chairmen of the U.S. Securities and Exchange Commission have joined current SEC Chairman Arthur Levitt in opposing California's Proposition 211 securities lawsuit initiative. In a letter released late on Thursday by the office of Rep. Anna Eshoo, a California Democrat, former SEC Chairman David Ruder said he and all six other living former SEC chairmen were unanimous in opposition to the ballot measure. The initiative on the state's November 5 ballot would roll back federal legislation enacted late last year to limit use of shareholder suits and it would make directors of companies personally liable to pay damages in shareholder lawsuits. Opponents of Proposition 211, including major Silicon Valley companies, argue the legislation could impact any company which has a shareholder or a customer in the state and claim it could jeopardize businesses and new startups.</p>
+<p>Proponents of the ballot initiative, including securities lawyers who specialize in shareholder class action lawsuits, argue it would help protect pensioners from cases of financial fraud.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

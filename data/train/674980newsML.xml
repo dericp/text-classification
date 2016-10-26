@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="674980" id="root" date="1997-06-19" xml:lang="en">
+<title>FRANCE: French government removes Paris police chief.</title>
+<headline>French government removes Paris police chief.</headline>
+<dateline>PARIS 1997-06-19</dateline>
+<text>
+<p>France's new left-wing government on Thursday removed the head of Paris criminal police, who was suspended for refusing to help a corruption probe into conservative Paris mayor Jean Tiberi.</p>
+<p>Olivier Foll, 58, was transferred to the less sensitive post of police inspector general. A decree published in the official gazette said he was replaced by Patrick Riou, 50, formerly the spokesman of the national police headquarters.</p>
+<p>The decree, prepared by Interior Minister Jean-Pierre Chevenement, was countersigned by President Jacques Chirac, who was Paris mayor until 1995 when Tiberi, his deputy and close associate, took over.</p>
+<p>The case was a test of the &quot;cohabitation&quot; between the conservative president and the Socialist-led government.</p>
+<p>The previous conservative government kept Foll in his job in an open challenge to courts which had suspended his investigative capacities.</p>
+<p>The supreme court in February upheld a six-month suspension on Foll after he ordered his men to refuse to help an investigating magistrate search Tiberi's home last year.</p>
+<p>Magistrate Eric Halphen was looking for evidence in a far-reaching investigation into alleged illicit funding of Chirac's Gaullist RPR party through rake-offs on public housing contracts.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571600" id="root" date="1997-05-09" xml:lang="en">
+<title>CHAD: Chad police open fire to disperse hungry prisoners.</title>
+<headline>Chad police open fire to disperse hungry prisoners.</headline>
+<dateline>NDJAMENA 1997-05-09</dateline>
+<text>
+<p>Police fired automatic weapons to disperse hungry inmates who threw stones and took guards hostage at a prison in Chad's capital Ndjamena on Friday and many prisoners were wounded, a judicial source said.</p>
+<p>The source could not say whether there had been any deaths.</p>
+<p>It was the fourth riot at the prison this year.</p>
+<p>&quot;The prisoners attacked us early in the morning because they were hungry,&quot; one prison guard told Reuters.</p>
+<p>&quot;The prisoners live in very difficult conditions, they eat little or nothing for days on end, their conditions of health and hygiene are deplorable,&quot; he added.</p>
+<p>Chad, a landlocked and arid state in Central Africa, is one of the world's poorest countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHAD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NDJAMENA"/>
+<dc element="dc.creator.location.country.name" value="CHAD"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

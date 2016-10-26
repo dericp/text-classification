@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604480" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Texas Bio Novastan trial successful.</title>
+<headline>Texas Bio Novastan trial successful.</headline>
+<dateline>HOUSTON 1997-05-22</dateline>
+<text>
+<p>Texas Biotechnology Corp said Thursday that results of its Phase III trial showed that Novastan significantly increased platelet counts of tested patients.</p>
+<p>In the clinical trial of Novastan as anticoagulant therapy for patients with heparin-induced thrombocytopenia (HIT), platelet counts increased 129 percent.</p>
+<p>Platelet counts in heparin-induced thrombocytopenia and thrombosis syndrome (HITTS) patients improved by 198 percent.</p>
+<p>According to the company, development of new thrombosis and death due to thrombosis were significantly decreased in these patients with Novastan.</p>
+<p>Texas Bio said that there was no change in the number of amputations due to ischemic complications and says that the data indicate that the majority of amputations were deemed necessary prior to a patient entering the trial.</p>
+<p>It said that based on these results, the company will move forward as quickly as possible with the New Drug Application submission for Novastan to the U.S. Food and Drug Administration.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

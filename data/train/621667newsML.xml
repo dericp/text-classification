@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="621667" id="root" date="1997-05-28" xml:lang="en">
+<title>GERMANY: Cologne air cargo grows 24.2pct in April '97.</title>
+<headline>Cologne air cargo grows 24.2pct in April '97.</headline>
+<dateline>FRANKFURT 1997-05-28</dateline>
+<text>
+<p>Total flown air cargo handled at Cologne/Bonn airport (CGN) rose 24.2 percent in April 1997 to 32,687 tonnes, figures from the German airports association ADV showed.</p>
+<p>Over the first four months, total flown cargo increased 8.1 percent to 116,265 tonnes, the monthly ADV traffic report showed.</p>
+<p>The following tables show cargo handled at Cologne airport in April and for the year to date in tonnes and with year-on-year percentage changes.</p>
+<p>    April 1997		    Monthly total	Pct change</p>
+<p>    Total flown cargo	     32,687		Up  24.2</p>
+<p>    Exports			   16,144		Up  30.6</p>
+<p>    Imports			   15,885		Up  16.5</p>
+<p>    Transit				658		     n/a</p>
+<p>    (Trucked cargo		   1,701		     n/a)</p>
+<p>    Jan-April 1997	     Cumulative total    Pct change</p>
+<p>    Total flown cargo	    116,265		Up   8.1</p>
+<p>    Exports			   56,520		Up  11.7</p>
+<p>    Imports			   56,365		Up   2.1</p>
+<p>    Transit			    3,380		     n/a</p>
+<p>    (Trucked cargo		   6,458		     n/a)</p>
+<p>Source: German Airports Association ADV, market research dept.</p>
+<p>-- Reuters Air Cargo Newsroom. Tel +44 171 542 7706; Fax: 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

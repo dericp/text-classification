@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="738943" id="root" date="1997-07-18" xml:lang="en">
+<title>MEXICO: Banco de Mexico to auction 3.0 bln pesos of Cetes.</title>
+<headline>Banco de Mexico to auction 3.0 bln pesos of Cetes.</headline>
+<dateline>MEXICO CITY 1997-07-18</dateline>
+<text>
+<p>Banco de Mexico said on Friday it would auction 3.0 billion pesos of Cetes at its primary auction next Tuesday.</p>
+<p>It will also auction 900 million pesos of Bondes and 700 million UDIs of UDI bonos.</p>
+<p>CETES</p>
+<p>    Term	   Amount	   Fixed rate</p>
+<p>    28  days     800 million pesos  18.97 pct</p>
+<p>    91  days     800 million pesos  18.81 pct</p>
+<p>    182 days     800 million pesos  18.97 pct</p>
+<p>    343 days     600 million pesos  17.43 pct</p>
+<p>BONDES</p>
+<p>    728 days     900 million pesos</p>
+<p>UDIBONOS</p>
+<p>    1,022 days   350 million UDIs</p>
+<p>    1,750 days   350 million UDIs</p>
+<p>((--Timna Tanners, Mexico City Newsroom 525 728-7902))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265666" id="root" date="1996-12-18" xml:lang="en">
+<title>JAPAN: Japan panel calls for oil product tariff cuts.</title>
+<headline>Japan panel calls for oil product tariff cuts.</headline>
+<dateline>TOKYO 1996-12-18</dateline>
+<text>
+<p>An advisory panel to the Finance Minister on Wednesday finalised a proposal for cuts in import tariffs on some oil products in the fiscal year starting on April 1, the ministry said in a statement.  </p>
+<p>The government is expected to adopt the Customs Tariff Council's proposals and submit them to the next parliamentary session in January.</p>
+<p>The decision to cut tariffs on oil products follows a decision already been made to reduce tariffs on crude oil as drafted under a long-term programme, a Ministry official said.</p>
+<p>The import tariff on crude will be lowered to 215 yen per kilolitre (kl) for the five year period starting fiscal 1997/98 (April/March) to 2001/02, from 315 yen at present.  </p>
+<p>The proposed new tariffs are as follows (in yen per kilolitre):</p>
+<p>		    --current tariff--  --proposed--</p>
+<p>jet/kerosene	580		   570</p>
+<p>gas oil	   1,290		 1,270</p>
+<p>fuel oil A	for refining</p>
+<p>			315		   215</p>
+<p>		    for other purposes</p>
+<p>		    sulphur content below 0.3 percent</p>
+<p>		    2,770		 2,620</p>
+<p>		    sulphur content above 0.3 percent</p>
+<p>		    3,750		 3,410</p>
+<p>fuel oil B and C  for refining</p>
+<p>			315		   215</p>
+<p>		    for other purposes</p>
+<p>		    sulphur content below 0.3 percent</p>
+<p>		    2,540		 2,400</p>
+<p>		    sulphur content above 0.3 percent</p>
+<p>		    3,750		 3,410</p>
+<p>gasoline	  for petrochemical product production</p>
+<p>			 19		    12</p>
+<p>		    for fuel</p>
+<p>			760		   750</p>
+<p>		    for other purposes</p>
+<p>		    1,430		 1,400</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

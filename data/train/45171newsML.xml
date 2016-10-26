@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45171" id="root" date="1996-09-10" xml:lang="en">
+<title>MALAYSIA: Malaysia Westmont 6-month net up 24 pct.</title>
+<headline>Malaysia Westmont 6-month net up 24 pct.</headline>
+<dateline>KUALA LUMPUR 1996-09-10</dateline>
+<text>
+<p>Period to June 30</p>
+<p>		     (In million ringgit unless stated)</p>
+<p>    Net profit		48.89    vs	 39.38</p>
+<p>    Shr	 (cents)     23.60    vs	 20.26</p>
+<p>    Turnover		 327.53    vs	288.04</p>
+<p>    Pre-tax profit	  60.05    vs	 47.52</p>
+<p>NOTE: Full name of company is Westmont Industries Bhd. Its businesses include engineering, construction, servicing and repair of ships.</p>
+<p>- Kuala Lumpur newsroom (603 230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

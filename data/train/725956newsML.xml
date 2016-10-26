@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="725956" id="root" date="1997-07-14" xml:lang="en">
+<title>USA: Arlington, Wash., yields 5.40 pct in 2017.</title>
+<headline>Arlington, Wash., yields 5.40 pct in 2017.</headline>
+<text>
+<p>PRICING</p>
+<p>AMT: 7,635,000	DATE: 07/14/97</p>
+<p>ISSUER: Arlington							 ST: WA</p>
+<p>ISSUE: Water &amp; Sewer Revenue, 1997				  TAX STAT: Exempt</p>
+<p>M/SP/F: NA/NA/NA</p>
+<p>ENHANCEMENTS: MBIA NR/AAA/NA</p>
+<p>DTD: 08/01/97</p>
+<p>DUE: 12/1/98-14, 17					 SR MGR: Key Bank Capital</p>
+<p>1ST CPN: 12/01/97</p>
+<p>CALL: 12/1/07 @ par</p>
+<p>DELIVERY: 8/4/97 approx				   ORDERS: 11:30AM PDST</p>
+<p>Year		     Amount    Coupon     Yield</p>
+<p>1998		    235,000     4.750     4.000</p>
+<p>1999		    245,000     4.750     4.150</p>
+<p>2000		    260,000     4.800     4.250</p>
+<p>2001		    270,000     4.800     4.350</p>
+<p>2002		    285,000     4.800     4.450</p>
+<p>2003		    300,000     4.800     4.550</p>
+<p>2004		    310,000     4.800     4.600</p>
+<p>2005		    325,000     4.650     4.650</p>
+<p>2006		    340,000     4.700     4.700</p>
+<p>2007		    360,000     4.750     4.750</p>
+<p>2008		    375,000     4.800     4.800</p>
+<p>2009		    395,000     4.900     4.900</p>
+<p>2010		    410,000     5.000     5.000</p>
+<p>2011		    430,000     5.000     5.100</p>
+<p>2012		    455,000     5.100     5.150</p>
+<p>2013		    475,000     5.150     5.250</p>
+<p>2014		    500,000     5.200     5.300</p>
+<p>2017		  1,665,000     5.350     5.400</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

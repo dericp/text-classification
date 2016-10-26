@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323777" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: U.S. OPTIONS FOCUS/Some sell calls into divergence.</title>
+<headline>U.S. OPTIONS FOCUS/Some sell calls into divergence.</headline>
+<dateline>CHICAGO 1997-01-22</dateline>
+<text>
+<p>A sharp divergence between the Dow industrial average .DJI and S&amp;P 500 futures had some options investors selling calls, but traders said a clear bias to options trading had not emerged.</p>
+<p>By 1330 CST/1930 GMT, the Dow was down 55 points, or 0.8 percent, at 6,829. It hit a session low of 6,808.</p>
+<p>At the same time, the leading S&amp;P March futures contract was up 1.75 at 788.70, just off its session high of 790.25 which was a record.</p>
+<p>Options participants often use the futures in conjunction with index options for various strategies.  </p>
+<p>&quot;It's a very strange day,&quot; one index options broker said. &quot;We're not used to seeing the Dow doing what it's doing and watching the S&amp;Ps doing what they're doing.</p>
+<p>&quot;IBM is a tremendous factor in all that,&quot; he said, referring to International Business Machines Corp, which was down sharply after reporting quarterly earnings that disappointed some analysts and investors late Tuesday.</p>
+<p>IBM shares were off nine at 159 in heavy trading.</p>
+<p>&quot;IBM is a major factor in the Dow, but only one stock in the (S&amp;P) 500, so the divergence is normal,&quot; one index options trader in Chicago said.  </p>
+<p>&quot;People are selling calls into the rally,&quot; the trader said, adding that some investors were selling call spreads and others were buying vertical put spreads.</p>
+<p>A vertical spread is a position made up of a long option at one strike price and a short option at a different strike.</p>
+<p>The broker said the divergence of the major indices contributed to a pickup in options index activity in the first few hours of trading but action had slowed after noon.</p>
+<p>&quot;It was a very busy morning all over,&quot; he said. &quot;People were doing a little of everything.&quot;  </p>
+<p>The market's action led to a slight decline in volatility, with the Chicago Board Options Exchange's volatility index .VIX down about half a point at 18.99.</p>
+<p>The index had been holding above the key 20 level since the beginning of January, and closed just below 20 on Tuesday.</p>
+<p>At the CBOE, the bias continued to be on the put side, with S&amp;P 100 index .OEX put volume by 1330 CST/1930 GMT topping call volume by 43,376 to 29,775.</p>
+<p>Turnover in S&amp;P 500 .SPX index options at the CBOE was relatively heavy and put volume also led call volume. Put volume was 46,127 compared to call volume of 24,351.  </p>
+<p>In the OEX, the most active option was the February 690 put, which traded about 4,225 contracts. It had open interest of 6,371 through Tuesday</p>
+<p>Other busy puts included the February 700, 760 and 765.</p>
+<p>With the index trading around 769, the February 760 put was down 1/2 at 11 and the 765 put was down 5/8 at 12-3/4.</p>
+<p>Among OEX calls, the February 765 was most active, with volume of about 3,830. Its premium remained rich at 17-5/8.</p>
+<p>In the SPX, the most active option was the June 650 put, with volume of about 8,155. The option traded at 4-1/8 and had open interest of 25,344. ((-Gregory Crawford, 312 408 8750))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

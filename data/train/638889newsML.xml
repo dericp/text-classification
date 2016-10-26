@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638889" id="root" date="1997-06-05" xml:lang="en">
+<title>CANADA: Canadian Imperial Bank Q2 profits rise.</title>
+<headline>Canadian Imperial Bank Q2 profits rise.</headline>
+<dateline>TORONTO 1997-06-05</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr			 C$0.84		   C$0.76</p>
+<p> Net			370,000		  339,000</p>
+<p> Assets	     227,490,000	    191,700,000</p>
+<p> Deposits	   134,600,000	    123,200,000</p>
+<p> Loans		106,200,000	     99,100,000</p>
+<p>			6  MONTHS</p>
+<p> Shr			 C$1.70		   C$1.52</p>
+<p> Net			745,000		  689,000</p>
+<p>	 (All data above 000s except per share numbers)</p>
+<p>Full name is Canadian Imperial Bank of Commerce</p>
+<p>NOTE: Second quarter 1996 results changed from C$1.51 to reflect share split in March by dividend and include an C$18 million after-tax gain from the sale of Brazilian PDI bonds..</p>
+<p>NOTE 2: Second quarter 1997 results included a net after-tax gain of C$50 million from the sale of land under BCE Place in Toronto and the writedown of other properties.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

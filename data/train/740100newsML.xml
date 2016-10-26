@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740100" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: Software, human error, cause Internet users woes.</title>
+<headline>Software, human error, cause Internet users woes.</headline>
+<byline>Therese Poletti</byline>
+<dateline>NEW YORK 1997-07-17</dateline>
+<text>
+<p>A software glitch followed by a human error at Network Solutions Inc., the company that is the exclusive registrar for the most popular Internet domain names, caused some Net users sporadic problems Thursday.</p>
+<p>The problem was discovered at 2:30 a.m. EDT (0430 GMT) by Network Solutions and was fixed four hours later at 6:30 a.m. EDT (1030 GMT) -- but  it lingered all day, preventing some users from accessing certain Web sites and snarling e-mail traffic.</p>
+<p>Network Solutions, a private company in Herndon, Va., has exclusive rights to register all Internet addresses with domain names ending in &quot;.com&quot;, &quot;.gov&quot;, &quot;.org&quot; and &quot;.net&quot;.</p>
+<p>&quot;It was as if the phone book stopped working,&quot; said Michael O'Dell, vice president and chief scientist at major Internet service provider UUNET Technologies Inc, now owned by WorldCom Inc. &quot;If directory assistance isn't working and you don't have a phone book, then the phone isn't very useful.&quot;</p>
+<p>A spokeswoman for Network Solutions said a failure in a company database occurred early Thursday morning when a new set of files were being loaded into the system.</p>
+<p>The database failure resulted in two files being corrupted. The files, which a computer system administrator mistakenly released, resulted in error messages popping up when users tried to access certain Web sites whose addresses end in &quot;.com.&quot; Many commercial Web sites have &quot;.com&quot; addresses.</p>
+<p>The Network Solutions directory of Internet domain names, also called InterNIC, finds the actual servers where a particular Web site is located.</p>
+<p>Some Internet users did not have a hard time accessing sites or data because if a Web site had been visited very recently, its address and the path travelled to reach it were still in the temporary memory of either their Internet service provider or users' corporate or individual network computers.</p>
+<p>Thursday's problem came just a day after a cut in a fiber optic line disrupted some Internet traffic between Washington and Baltimore for about six hours, industry executives said.</p>
+<p>The incident, which affected the trunk, or &quot;backbone&quot; line of major service provider UUNET, led to spotty outages and sluggishness, and Internet traffic was rerouted.</p>
+<p>A WorldCom spokeswoman said work on a railroad line between the capital and Baltimore caused the cut in its fiber optic line.</p>
+<p>Earlier this month, Network Solutions filed for an initial public offering of its stock. The company has been the subject of great controversy in the industry because of its virtual monopoly to register Internet addresses. It recently received a request for documents from the U.S. Justice Department, which is looking into competition in the Internet address registration business.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

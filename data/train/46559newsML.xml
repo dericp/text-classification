@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46559" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. weekly hog/corn, steer/corn ratio -- USDA.</title>
+<headline>U.S. weekly hog/corn, steer/corn ratio -- USDA.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The U.S. hog/corn ratio for the week ended Sept 7 was 14.0 versus 13.0 in the previous week and 17.4 in the corresponding week a year ago, the U.S. Agriculture Department said.</p>
+<p>The steer/corn ratio in the week was 18.1 versus 14.8 in the previous week and 21.9 in the year-ago week.</p>
+<p>The ratio represents the number of bushels of corn that can be bought at Omaha for 100 lbs of hog or steer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

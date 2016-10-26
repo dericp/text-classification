@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330918" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Southwest Airlines Co Q4 earnings summary.</title>
+<headline>Southwest Airlines Co Q4 earnings summary.</headline>
+<dateline>DALLAS 1997-01-24</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			   $0.19		    $0.29</p>
+<p> Net			  28,163		   43,359</p>
+<p> Revs			831,841		  748,572</p>
+<p> Avg shrs		  150,474		  149,875</p>
+<p>			     YEAR</p>
+<p> Shr			   $1.37		    $1.23</p>
+<p> Net			 207,337		  182,626</p>
+<p> Revs		    3,406,170		2,872,751</p>
+<p> Avg shrs		  151,840		  148,850</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

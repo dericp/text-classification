@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="545083" id="root" date="1997-04-28" xml:lang="en">
+<title>AUSTRALIA: RBA says no desire to reduce inflation target.</title>
+<headline>RBA says no desire to reduce inflation target.</headline>
+<dateline>SYDNEY 1997-04-28</dateline>
+<text>
+<p>Reserve Bank of Australia (RBA) deputy Governor Stephen Grenville said on Monday the central bank had no desire to reduce its target of keeping underlying inflation at two to three percent over the course of a cycle.</p>
+<p>In response to questions at a conference, Grenville said the RBA regarded the current target range as a fair assessment of price stability.</p>
+<p>&quot;So we have no desire to go below that level,&quot; Grenville said.  </p>
+<p>He said central banks which had imposed inflation targets would not consider a much lower inflation target as this would infer deflated economies, which was in no-one's interest.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

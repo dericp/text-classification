@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70215" id="root" date="1996-09-23" xml:lang="en">
+<title>CHILE: Chile August supermarket sales rise 5.4 pct.</title>
+<headline>Chile August supermarket sales rise 5.4 pct.</headline>
+<dateline>SANTIAGO 1996-09-23</dateline>
+<text>
+<p>Chilean supermarket sales grew 5.4 percent last month against August 1995, bringing the increase in the first eight months of the year to nine percent, said trade group Asach.</p>
+<p>&quot;This positive growth is in line with Asach's forecast for eight percent growth this year with total sales of $2.97 billion,&quot; said the group in a statement.</p>
+<p>Supermarket sales are closely watched in Chile as measure of overall consumer spending.</p>
+<p>Chileans are among Latin America's most frequent supermarket shoppers with 90 percent of Santiago food shopping carried out in supermarket stores.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

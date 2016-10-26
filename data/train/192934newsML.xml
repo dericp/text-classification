@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192934" id="root" date="1996-11-15" xml:lang="en">
+<title>SINGAPORE: China slashes oil import tariffs - traders.</title>
+<headline>China slashes oil import tariffs - traders.</headline>
+<dateline>SINGAPORE 1996-11-15</dateline>
+<text>
+<p>China has cut oil product import tariffs, industry sources said on Friday.</p>
+<p>A number of Asian oil traders, including those from China's state-owned SINOCHEM, told Reuters that China has reduced fuel oil import tariffs to three percent from 12 percent.  </p>
+<p>Gas oil import tariffs have also been cut to three percent from six percent, they said. However, there has been no change in China's crude oil import tariff of 2.5 percent and gasoline at nine percent, they said.</p>
+<p>Traders in Singapore, Hong Kong and South Korea, said they were quite certain that China has reduced its oil import tariffs starting November 11.</p>
+<p>&quot;Yes, import tariffs for fuel oil has been cut from the previous 12 percent to three percent from (last) Monday,&quot; an oil trader in Hong Kong said. &quot;That is why there were a lot more buyers and also for prompt (end November) supplies,&quot; he added.</p>
+<p>However, officials from China's customs office in Beijing said that the government had not issued any statements announcing the tariff cuts. Oil importers in China said they had heard that Beijing planned to cut import tariffs, but they had not seen any official documents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

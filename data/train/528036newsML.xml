@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="528036" id="root" date="1997-04-22" xml:lang="en">
+<title>HONG KONG: Trade in First Shanghai shrs suspended.</title>
+<headline>Trade in First Shanghai shrs suspended.</headline>
+<dateline>HONG KONG 1997-04-22</dateline>
+<text>
+<p>Trading in shares of investment concern First Shanghai Investments Ltd was suspended just before the midday break on Tuesday at the company's request pending an announcement, the Hong Kong stock exchange said.  </p>
+<p>First Shanghai shares were up HK$0.10 at HK$1.31 prior to the trading suspension. Volume was 109.17 million shares worth HK$143.45 million.</p>
+<p>The company engages in share investments and stockbroking, general insurance, finance, deposit-taking and banking services.</p>
+<p>-- Hong Kong newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

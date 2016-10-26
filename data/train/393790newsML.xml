@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="393790" id="root" date="1997-02-21" xml:lang="en">
+<title>BRAZIL: Brazil halts trade of Banco Progresso shrs.</title>
+<headline>Brazil halts trade of Banco Progresso shrs.</headline>
+<dateline>SAO PAULO 1997-02-21</dateline>
+<text>
+<p>Brazilian stock exchanges on Friday halted trade in Minas Gerais-based private bank Banco Progresso as the bank was liquidated by the Central Bank, a spokeswoman for the Sao Paulo bolsa said.</p>
+<p>Earlier today, the Central Bank announced it closed the bank and its leasing unit for financial difficulties.</p>
+<p>Central Bank director Claudio Mauch said the liquidation of Banco Progresso has nothing to do with the bank's investigation into alleged fraud at other banks and brokerages.</p>
+<p>((-- Fatima Cristina, Rio de Janeiro Newsroom 5521 5074151))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

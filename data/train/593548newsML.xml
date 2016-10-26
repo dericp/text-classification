@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593548" id="root" date="1997-05-18" xml:lang="en">
+<title>ISRAEL: B.V.R. gets $14.5 mln European contract.</title>
+<headline>B.V.R. gets $14.5 mln European contract.</headline>
+<dateline>TEL AVIV 1997-05-18</dateline>
+<text>
+<p>Israel's B.V.R. Technologies Ltd announced on Sunday it has entered into a contract with a European member of NATO for the supply of a full-scale simulator for F-16 aircraft.</p>
+<p>The contract is worth $14.5 million and delivery of the system is expected in 1998.</p>
+<p>The simulator will train pilots in diversified missions including emergency situations.</p>
+<p>B.V.R. competed for the contract in an open tender against leading companies from the United States and France.</p>
+<p>As reported, in the first quarter the company was awarded a $40 million contract for the supply of a simulator to a Southeast Asian country. As a result of these two contracts, the backlog of B.V.R.'s simulators division increased by about $55 million.</p>
+<p>-Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

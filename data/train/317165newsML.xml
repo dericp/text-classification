@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="317165" id="root" date="1997-01-19" xml:lang="en">
+<title>SWITZERLAND: ALPINE SKIING-MEN'S WORLD CUP SLALOM FIRST LEG PLACINGS.</title>
+<headline>ALPINE SKIING-MEN'S WORLD CUP SLALOM FIRST LEG PLACINGS.</headline>
+<dateline>WENGEN, Switzerland 1997-01-19</dateline>
+<text>
+<p>Leading placings</p>
+<p>after the first leg of a men's Alpine skiing World Cup slalom on</p>
+<p>Sunday:</p>
+<p> 1. Thomas Sykora (Austria)	  45.55 seconds</p>
+<p> 2. Thomas Stangassinger (Austria) 45.81</p>
+<p> 3. Sebastien Amiez (France)	 46.31</p>
+<p> 4. Mario Reiter (Austria)	   46.42</p>
+<p> 5. Kjetil Andre Aamodt (Norway)   46.58</p>
+<p> 6. Kiminobu Kimura (Japan)	  46.67</p>
+<p> 7. Andrei Miklavc (Slovenia)	46.76</p>
+<p> 8. Finn Christian Jagge (Norway)  46.85</p>
+<p> 9. Rene Mlekuz (Slovenia)	   46.86</p>
+<p> 10. Matthew Grosjean (U.S.)	 46.95</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-19"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-19"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WENGEN, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604174" id="root" date="1997-05-21" xml:lang="en">
+<title>SWITZERLAND: Swiss consumer sentiment improves in April.</title>
+<headline>Swiss consumer sentiment improves in April.</headline>
+<dateline>BERNE 1997-05-21</dateline>
+<text>
+<p>Swiss consumer sentiment improved in the latest survey by the Federal Office for Economic Affairs as perceptions of the overall economic situation turned less pessimistic, the agency said in a statement.</p>
+<p>&quot;The quarterly survey of around 1,000 households showed consumer sentiment improved slightly in April 1997,&quot; it said. &quot;The index rose to minus 31 points from a low of minus 41 in July 1996.&quot;</p>
+<p>A spokesman said the index had stood at minus 35 in January 1997 and minus 38 in October 1996. It ranges from plus 200 (all say strongly improved) to minus 200 (strongly worsened).  </p>
+<p>&quot;The decisive factor was the less pessimistic view of the overall economic situation in the past,&quot; it said of the April survey. &quot;Households' financial situation, which is also reflected in the consumer sentiment index, was rated as practically unchanged.&quot;</p>
+<p>It said respondents clearly saw the economy and job security in a less negative light, although these indexes remained at a relatively low level. It said they saw the timing for making major purchases as slightly less favourable than in January 1997.</p>
+<p>Chances to build up savings worsened somewhat. No upward movement in prices was expected. -- Zurich +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="266061" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Integ says glucose monitor tests delayed.</title>
+<headline>Integ says glucose monitor tests delayed.</headline>
+<dateline>ST. PAUL, Minn. 1996-12-19</dateline>
+<text>
+<p>Clinical trials for part of Integ Inc's hand-held glucose monitoring system, LifeGuide, will be delayed until the summer of 1997, Integ said Thursday.</p>
+<p>The delay is not expected to hinder the commercial launch of the LifeGuide System, currently scheduled for 1998, Integ said. The company said it has completed the design of the disposable part of the system, known as the LifeGuide Key.</p>
+<p>The system is designed to allow diabetics to test their blood glucose levels without lancing their fingers.</p>
+<p>Integ develops blood-sugar monitoring devices.</p>
+<p>The company's stock closed unchanged Thursday at 12-3/4.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

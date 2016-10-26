@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809365" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Dove reports Q2 with one-time charge.</title>
+<headline>Dove reports Q2 with one-time charge.</headline>
+<dateline>LOS ANGELES 1997-08-18</dateline>
+<text>
+<p>Dove Entertainment Inc reported a one-time second quarter charge of $564,000 for discontinuation of its Dove Kids and Video Books lines.</p>
+<p>Management has reduced its estimate of future gross revenues associated with certain library product, resulting in a charge of $590,000 to cost of sales in the second quarter.</p>
+<p>Since June 30, Dove has implemented certain cost savings with benefits expected to be realised by the fourth quarter.</p>
+<p>Dove posted a net loss of $4,889,000 or $1.07 loss a share for the quarter following one-time costs of $2,178,000 for employee separation costs, discontinued product lines, versus a net loss of $2,669,000 or $0.47 loss per share a year earlier.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47530">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

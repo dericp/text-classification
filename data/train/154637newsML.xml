@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="154637" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Industry officials reach copyright pact on disk player.</title>
+<headline>Industry officials reach copyright pact on disk player.</headline>
+<byline>Bob Tourtellotte</byline>
+<dateline>LOS ANGELES 1996-10-30</dateline>
+<text>
+<p>Officials from three industries announced an agreement on copyright protection issues that for months have delayed the launch of highly anticipated digital video disk players.</p>
+<p>The pact, reached by a committee of entertainment, electronics and computer industry executives, eases concerns over piracy of music and movies in new digital formats.</p>
+<p>The deal sets a software scheme that scrambles content when making the digital video disks, then provides hardware for unscrambling the signal when played back. This greatly complicates efforts to make pirated copies of the disks.</p>
+<p>Developed by Matsushita Electric Industrial Co. Ltd. and Toshiba Corp., the technology will be licensed through a non-profit entity.</p>
+<p>&quot;This overcomes the major hurdle and enables us to go forward with the actual planning production and marketing titles in the DVD format,&quot; Warren Lieberfarb, president of Time Warner Inc.'s Warner Home Video said.</p>
+<p>While the agreement settles the biggest concern in the industry, the group still must work out issues such as analogue to digital recording, transmission of digital signals to homes and legislation to further protect content.</p>
+<p>Digital video disks, or DVDs, are the size of standard music CDs or computer CD-ROMs but store much more information, allowing them to hold feature length movies, music and other information.</p>
+<p>A single DVD can store movies or albums in several different languages and can be played on a computer or on a home video appliance, much like today's video cassette recorders.</p>
+<p>Makers of stereos, VCRs and other home electronic equipment have looked to DVD as the leap in new technology that would boost slowing sales.</p>
+<p>Entertainment firms believe the format will allow them to use film libraries to generate new sales, much like videotaped movies did when they became a mass-market consumer item in the 1980's.</p>
+<p>Sales of DVD disk drives and players are forecast to generate $349 million in 1997, but that could rise as high as $4.1 billion in the year 2000, according to a recent survey by industry research firm Dataquest.</p>
+<p>In December 1995, electronics manufacturers agreed to a design that unified the hardware format, leading industry executives to push for a Christmas 1996 launch of players.</p>
+<p>But by mid-1996, executives from the computer and entertainment industries had failed to agree on content encryption.</p>
+<p>Manufacturers delayed plans to market the players in the United States this fall and DVD became a product for 1997 and beyond. But electronics makers and entertainment executives downplayed the delays, focusing instead on the agreement.</p>
+<p>&quot;The day will come two or three years from now when we look back and whether the launch was delayed 30 or 60 days will seem insignificant,&quot; said Craig Eggers, director of DVD marketing in the United States for Toshiba.</p>
+<p>He noted Toshiba has not yet announced a U.S. launch date for its players, adding that its plans depend heavily on the number of movie titles available at launch.</p>
+<p>Warner's Lieberfarb declined to say how many disks could be ready by Christmas, but said he hoped to have as many as 50 titles ready in the first quarter of 1997.</p>
+<p>Sony Corp. has delayed the launch of a DVD player until next year. Matsushita, though it launched a player in Japan this fall, will not likely have one available in the United States next year, a source close to the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

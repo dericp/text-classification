@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575948" id="root" date="1997-05-12" xml:lang="en">
+<title>HONG KONG: Fatal E Coli found in beef in Hong Kong.</title>
+<headline>Fatal E Coli found in beef in Hong Kong.</headline>
+<dateline>HONG KONG 1997-05-12</dateline>
+<text>
+<p>Hong Kong's health authority said on Monday the fatal O-157 strain of E coli bacteria, which was found in beef in the territory in March, was detected again in a wholesale butchers this month.</p>
+<p>The shop had formerly supplied meat to a supermarket where the first contaminated sample was found two months ago, the Department of Health said in a statement.</p>
+<p>&quot;This contaminated sample was taken by the Department of Health on May 6 as part of the follow-up work and preventive measures recommended since the detection of the last sample,&quot; a spokesman said.</p>
+<p>The spokesman said all other samples taken recently from other meat shops in the territory were free of the bacteria.</p>
+<p>The strain, blamed for the deaths of at least 11 people in Japan and 20 in Scotland earlier this year, was found in raw beef on sale at a Japanese-owned supermarket chain in Hong Kong in March.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

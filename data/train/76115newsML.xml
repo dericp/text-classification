@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76115" id="root" date="1996-09-25" xml:lang="en">
+<title>CANADA: Cominco expects lower Q3 earnings.</title>
+<headline>Cominco expects lower Q3 earnings.</headline>
+<dateline>VANCOUVER 1996-09-25</dateline>
+<text>
+<p>Cominco Ltd said on Wednesday it expects its third-quarter earnings to be lower than they were in the previous quarter.</p>
+<p>&quot;The corporation's earnings for the third quarter ending September 30, 1996, are likely to be appreciably below those of the previous three months ending June 30, 1996,&quot; said president and chief executive D.A. Thompson in a statement.</p>
+<p>Cominco earned C$106.3 million or C$1.24 a share in the second quarter after unusual items. Without unusuals, the earnings would have been C$21 million or C$0.23 a share.  </p>
+<p>&quot;This is the result of lower London Metal Exchange prices for copper, nickel and zinc, to lower throughput and grade at the Highland Valley Copper mine and to scheduled shutdowns at the Sullivan mine and the Trail smelter,&quot; the company said.</p>
+<p>Cominco also said it did additional drilling at the Red Dog mine in Alaska at a greater depth and immediately north of the Aggaluk deposit. Recent drill hole 635 intersected 20 percent zinc, four percent lead and three ounces of silver per ton over 110 feet, from 725 feet to 835 feet down the hole, which is 400 feet from hole 483.</p>
+<p>Additional drilling will be done in the 1997 season.</p>
+<p>-- Reuters Toronto Bureau (416) 941-8100</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

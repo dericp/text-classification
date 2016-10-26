@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="642213" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: Lotto World Inc seeks capital, cuts 12.</title>
+<headline>Lotto World Inc seeks capital, cuts 12.</headline>
+<dateline>NAPLES, Fla 1997-06-06</dateline>
+<text>
+<p>Lotto World Inc said Friday that it is seeking additional capital to fund current and future operations and that it is negotiating capital investments with several firms.</p>
+<p>The company also said that in an effort to conserve available capital, it was implementing the dismissal of 12 employees.</p>
+<p>Lotto World is a publisher of lottery related magazines. It said Friday that it has signed an exclusive agreement with the Iowa Lottery to publish a new magazine, the Iowa Lottery Players Digest. The agreement, said the company follows similar ones in Georgia, Nebraska and Virginia in 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPLES, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

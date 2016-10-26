@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228227" id="root" date="1996-12-02" xml:lang="en">
+<title>MEXICO: Banco de Mexico assigns all secondary credits.</title>
+<headline>Banco de Mexico assigns all secondary credits.</headline>
+<dateline>MEXICO CITY 1996-12-02</dateline>
+<text>
+<p>Banco de Mexico has completed all five credit auctions in the secondary market.</p>
+<p>CREDIT AUCTIONS   TERM     MAX    MIN    AVERAGE  BIDS BIDDERS</p>
+<p>1.597  bln pesos  8 days   29.52  29.30  29.45    7    4</p>
+<p>1.596  bln pesos  7 days   29.40  29.28  29.35    8    4</p>
+<p>1.596  bln pesos  4 days   29.27  29.12  29.20    6    4</p>
+<p>1.596  bln pesos  3 days   29.15  29.09  29.11    7    4</p>
+<p>1.000  bln pesos  1 day    29.10  28.96  29.01    3    3</p>
+<p>NOTE - The maximum, minimum and average are percentages.</p>
+<p>-- Mexico City newsroom +525 728-9500</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

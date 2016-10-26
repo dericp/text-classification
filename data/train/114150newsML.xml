@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114150" id="root" date="1996-10-14" xml:lang="en">
+<title>MEXICO: Mexico CCP rate falls to 7.08 pct for September.</title>
+<headline>Mexico CCP rate falls to 7.08 pct for September.</headline>
+<dateline>MEXICO CITY 1996-10-14</dateline>
+<text>
+<p>Banco de Mexico announced on Monday that the Cost of Contracting Debt (CCP) in dollars for Mexican banks in September was 7.08 percent, compared with 7.12 percent in August.</p>
+<p>The central bank in April began calculating the CCP, which may be used as a benchmark rate to determine interest rates for credits denominated in dollars.</p>
+<p>The CCP is the average bank term desposit cost measured in pesos in Mexican banks.</p>
+<p>The monthly calculation of the CCP-dollar rate includes loans extended by foreign banks and financing from Export-Import banks, the Commodity Credit Corporation and other similar organizations.</p>
+<p>The CCP-dollar rate is published between the 8th and 12th of the month following the basis month in the Mexican Government's Official Gazette.</p>
+<p>-- Cecilia Cardenas, Mexico City newsroom +525 728-9552</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

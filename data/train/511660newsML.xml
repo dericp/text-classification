@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="511660" id="root" date="1997-04-15" xml:lang="en">
+<title>JAPAN: OSE to start individual stock option trade in July.</title>
+<headline>OSE to start individual stock option trade in July.</headline>
+<dateline>OSAKA, Japan 1997-04-15</dateline>
+<text>
+<p>Osaka Securities Exchange (OSE) president Kyoji Kitamura said Tuesday that the bourse planned to start trade in individual stock options on July 18, although it has not yet decided what issues will be offered.</p>
+<p>&quot;The starting date for individual stock options trade was formally decided among executives at a meeting today, but the issues which will be offered have yet to be decided,&quot; Kitamura told reporters. &quot;I believe that the issues will be decided by the next meeting in May.&quot;</p>
+<p>The next meeting is scheduled for May 20.</p>
+<p>The shares will be selected from stocks included in both the Nikkei 225 and Nikkei 300 indices, based on how international they are and what industries they represent, Kitamura said.</p>
+<p>He said another consideration would be whether or not the firm is based in western Japan.</p>
+<p>&quot;At first only a few issues will be offered, but the number will be increased depending on how well they do,&quot; he added.</p>
+<p>The OSE said that the transaction fee for individual options would be a minimum of 2,500 yen and would vary according to trade volume. The fee for trades of more than five billion yen would be 0.6 percent of the total trade, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSAKA, Japan"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

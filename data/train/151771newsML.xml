@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151771" id="root" date="1996-10-29" xml:lang="en">
+<title>AUSTRALIA: RTRS-BHP Steel to axe 250 jobs at Whyalla.</title>
+<headline>RTRS-BHP Steel to axe 250 jobs at Whyalla.</headline>
+<dateline>MELBOURNE 1996-10-29</dateline>
+<text>
+<p>The Broken Hill Proprietary Co Ltd said on Tuesday it planned to cut about 250 jobs from its Whyalla integrated steel mill in South Australia by next April.  </p>
+<p>&quot;The action is required to improve the current financial performance and is part of a programme to develop a business plan for a long-term viable Whyalla steelworks,&quot; BHP said in a statement.</p>
+<p>The Whyalla plant produces 1.1 million tonnes of steel each year. The job cuts would leave it with a workforce of 2,100, a spokesman for the Whyalla steelworks, Les Jones, told Reuters.</p>
+<p>The existing workforce is covered by a security of employment agreement and the job cuts would be achieved through voluntary severence packages, the statement said.  </p>
+<p>&quot;The workforce reduction is one action amongst a range of initiatives designed to improve the business performance of Whyalla steelworks,&quot; it added, citing exploration, environmental and plant-upgrade initiatives.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

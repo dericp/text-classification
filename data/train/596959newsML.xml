@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596959" id="root" date="1997-05-20" xml:lang="en">
+<title>USA: Newpark Resources to buy barite milling co.</title>
+<headline>Newpark Resources to buy barite milling co.</headline>
+<dateline>METAIRIE, La. 1997-05-20</dateline>
+<text>
+<p>Newpark Resources Inc said Tuesday it entered into an agreement to acquire the privately-held Excalibar Minerals Inc in exchange for 166,667 shares of Newpark common stock.</p>
+<p>The transaction, which is valued at about $7.5 million and is expected to be accounted for as a pooling of interests, should close by the end of May, a news release issued by Newpark said.</p>
+<p>Excalibar Minerals is a specialty milling company, grinding barite and other industrial minerals at facilities in Houston and New Iberia, La., for oilfield and industrial markets.</p>
+<p>Excalibar will continue to provide wholesale barite and other industrial minerals to the Gulf Coast drilling fluids market, Newpark said.</p>
+<p>Newpark Resources provides integrated environmental and oilfield services to the exploration and production industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="METAIRIE, La."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371751" id="root" date="1997-02-12" xml:lang="en">
+<title>UK: European cotton markets see patchy demand.</title>
+<headline>European cotton markets see patchy demand.</headline>
+<dateline>LONDON 1997-02-12</dateline>
+<text>
+<p>Cotton sellers in Poland and France found fresh demand for Central Asian styles for nearby delivery at relatively steady prices, industry sources reported on Wednesday.</p>
+<p>Elsewhere Europe's markets were quiet with only occasional spinner enquiry for low-volume shipments to cover gaps caused by delayed deliveries of Central Asian origins, they said.</p>
+<p>The common cry from suppliers was that the strong U.S. dollar was discouraging mill-buyers from re-entering the market, they added. --London Newsroom, +44 171 542 8071</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

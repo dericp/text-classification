@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230120" id="root" date="1996-12-02" xml:lang="en">
+<title>GREECE: Expiries of Greek T-bills, FRNs in December.</title>
+<headline>Expiries of Greek T-bills, FRNs in December.</headline>
+<dateline>ATHENS 1996-12-02</dateline>
+<text>
+<p>Following is information on expiries of Greek T-bills and FRNs in December.</p>
+<p>				     T-BILLS</p>
+<p>    Maturity		  Interest		Amount</p>
+<p>    Dec 2		     12.60%		  51.8 bln drachmas</p>
+<p>    Dec 2		     13.90%		  283.4 bln drachmas</p>
+<p>    Dec 18		    13.90%		  211.8 bln drachmas</p>
+<p>				     FRNs</p>
+<p>    Issue	  Maturity   Current coupon Spread  Amount</p>
+<p>    Dec 16, 93   Dec-16     15.15%	   1.25%   2.8  bln drs</p>
+<p>    Dec 31, 92   Dec-31     15.4%	    1.50%   0.4  bln drs</p>
+<p>    Dec 31, 93   Dec-31     15.15%	   1.25%  110.7 bln drs</p>
+<p>All figures are rounded off to one decimal point. If a maturity date falls on a weekend or a holiday, the finance ministry's payment rules hold. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

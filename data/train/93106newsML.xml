@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93106" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: GOLF-FIRST ROUND LEADERS AT LAS VEGAS INVITATIONAL.</title>
+<headline>GOLF-FIRST ROUND LEADERS AT LAS VEGAS INVITATIONAL.</headline>
+<dateline>LAS VEGAS 1996-10-02</dateline>
+<text>
+<p>Leaders after the first round</p>
+<p>of the $1.65 million Las Vegas Invitational golf tournament on</p>
+<p>Wednesday (U.S. unless noted):</p>
+<p>62 Keith Fergus</p>
+<p>63 Payne Stewart, Fred Funk</p>
+<p>64 Mike Sullivan, Wayne Levi, Ronnie Black, Rick Fehr</p>
+<p>65 David Frost (South Africa)</p>
+<p>66 Dicky Pride, Glen Day, Fred Couples, Jim Furyk, Brian</p>
+<p>Henninger, Marco Dawson, Woody Austin, Davis Love, Vijay Singh</p>
+<p>(Fiji), Olin Browne, Mike Heinen, Patrick Burke, Willie Wood,</p>
+<p>Bruce Lietzke, Lee Janzen</p>
+<p>Non-U.S. scores:</p>
+<p>68 Craig Parry (Australia)</p>
+<p>70 Steve Rintoul (Australia)</p>
+<p>71 Denis Watson (Zimbabwe)</p>
+<p>73 Grant Waite (New Zealand), Fulton Allem (South Africa),</p>
+<p>Stuart Appleby (Australia)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAS VEGAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

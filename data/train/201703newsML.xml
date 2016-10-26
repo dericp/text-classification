@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201703" id="root" date="1996-11-19" xml:lang="en">
+<title>FRANCE: French truckers cause traffic chaos for second day.</title>
+<headline>French truckers cause traffic chaos for second day.</headline>
+<dateline>PARIS 1996-11-19</dateline>
+<text>
+<p>Truckers demanding more money and shorter working hours caused traffic chaos by blocking roads in cities and towns across France for the second day running on Tuesday.</p>
+<p>All main access roads to Bordeaux in south-western France, whose mayor is Prime Minister Alain Juppe, were blocked by hundreds of lorries, local road traffic officials said.</p>
+<p>Roadblocks also disrupted traffic in Caen, Rennes, and Le Mans in western France, on the Paris-Toulouse road, and in the south near Marseille among other areas.</p>
+<p>In eastern France, protesters again cut off a bridge connecting France and Germany over the river Rhine at Strasbourg by parking trucks on either side of the border. Unlike yesterday, they did not allow private cars through.</p>
+<p>Five trade unions and the independent FNCR truckers' federation had called a second day of protests after talks with Transport Minister Bernard Pons on Monday failed to resolve the dispute.</p>
+<p>Adding to travellers' woes, snow, wind and rain hit traffic especially in the Lorraine, Alsace, Jura and France-Comte regions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

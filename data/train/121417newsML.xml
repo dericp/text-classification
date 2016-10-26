@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="121417" id="root" date="1996-10-16" xml:lang="en">
+<title>UK: Shell sees Brent throughput falling in November.</title>
+<headline>Shell sees Brent throughput falling in November.</headline>
+<dateline>LONDON 1996-10-16</dateline>
+<text>
+<p>Brent system operator Shell Exploration and Production (Shell Expro) on Wednesday estimated North Sea Brent crude system throughput in November at 476,965 barrels per day (bpd), down from 499,985 bpd in October.</p>
+<p>Average Brent pipeline throughput for the year to the end of September was 483,549 bpd, Shell said.</p>
+<p>Shell Expro is a joint venture between Royal Dutch/Shell Group and Exxon Corp.  </p>
+<p>Brent system throughput includes crude produced from 13 fields and several satellite wells piped to the Sullom Voe terminal in the Shetland Islands for blending with Ninian crude and exported as Brent Blend.</p>
+<p>Shell Expro said the throughput forecast was preliminary and may be &quot;subject to significant fluctuation.&quot;</p>
+<p>-- London Newsroom +44 171 542 7930</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

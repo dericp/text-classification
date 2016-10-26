@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687477" id="root" date="1997-06-25" xml:lang="en">
+<title>FRANCE: French stocks surge three percent to record close.</title>
+<headline>French stocks surge three percent to record close.</headline>
+<dateline>PARIS 1997-06-25</dateline>
+<text>
+<p>French stocks surged three percent on Wednesday to an all-time closing high, powered by gains on Wall Street, a rebound in the dollar and higher bond prices.</p>
+<p>The bourse's blue-chip CAC-40 index closed up 82.68 points, or 2.97 percent, at 2,867.44, and the CAC-40 June futures contract rose 68 points to 2,844.</p>
+<p>The CAC index's previous closing record of 2,808.52 points was set on June 13.</p>
+<p>The market's rise was helped by a rally in banking stocks after Compagnie Bancaire proposed to buy out minority holders in finance firms Cardif and Locabail.</p>
+<p>Volume was heavy, with a hefty 14.66 billion francs changing hands.</p>
+<p>Cie Bancaire closed up 6.83 percent at 735 francs. Several brokers raised earnings estimates for the banking group on the view that the buyouts would help results.</p>
+<p>Cie Financiere Paribas, which controls Cie Bancaire, gained 4.16 percent to 403.20 francs. Brokers said they believe Paribas has more restructuring moves in the pipeline.</p>
+<p>Other stocks driven higher included Societe Generale, up 4.23 percent at 665 francs, and BNP, up 3.78 percent at 244.20.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

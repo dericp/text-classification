@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224248" id="root" date="1996-11-28" xml:lang="en">
+<title>JAPAN: Japan Oct service price index down 0.6 pct yr/yr.</title>
+<headline>Japan Oct service price index down 0.6 pct yr/yr.</headline>
+<dateline>TOKYO 1996-11-28</dateline>
+<text>
+<p>Japan's corporate service price index (CSPI) in October fell 0.6 percent from a year earlier to 101.9, the Bank of Japan (BOJ) said on Thursday.  </p>
+<p>The following are percentage changes in index components:</p>
+<p>			     yr/yr   mo/mo</p>
+<p> Overall		   -0.6    0.0</p>
+<p> Finance/Insurance     -0.1    0.0</p>
+<p> Real estate	     -1.9   -0.1</p>
+<p> Transport		  0.2    0.0</p>
+<p> Information services   0.0   +0.1</p>
+<p> Communications	  -1.4    0.0</p>
+<p> Advertising services  +1.6   +1.5</p>
+<p> Lease/rental services -5.8   -1.3</p>
+<p> Other services	  +0.5    0.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

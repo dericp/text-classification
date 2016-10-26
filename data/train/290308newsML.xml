@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290308" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Petrocorp to acquire Millarville Ltd.</title>
+<headline>Petrocorp to acquire Millarville Ltd.</headline>
+<dateline>HOUSTON 1997-01-07</dateline>
+<text>
+<p>PetroCorp Inc said Tuesday it acquired Millarville Oil &amp; Gas Ltd, a privately held Alberta corporation that owns and operates oil and gas properties in Alberta, Canada. The transaction was completed on December 23, 1996.</p>
+<p>Proved developed reserves acquired in the transaction total 0.9 million barrels of oil and 6.4 Bcf of natural gas.</p>
+<p>Average net daily production from the properties in 1996 was 443 barrels of oil and 2,770 Mcf of natural gas. The cash acquisition price was $11.7 million ($US). PetroCorp, through its Canadian subsidiary PCC Energy Limited, will become operator of about 65 percent of the acquired reserves.</p>
+<p>On an unaudited pro forma basis, as though the transaction occurred at the beginning of 1996, the Millarville acquisition would have increased PetroCorp's 1996 revenues by $4.3 million, earnings by $0.9 million and cash flow by $2.9 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

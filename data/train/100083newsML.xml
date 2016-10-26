@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100083" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: PS New Mexico San Juan unit 1 up, 2 off-line.</title>
+<headline>PS New Mexico San Juan unit 1 up, 2 off-line.</headline>
+<dateline>LOS ANGELES 1996-10-07</dateline>
+<text>
+<p>Public Service Co of New Mexico's 361 megawatt (MW) unit 1 at the San Juan coal-fired power plant in New Mexico was restarted Saturday, as expected, but the plant's 350 MW unit 2 remains off-line, sources familiar with the plant's operations said Monday.</p>
+<p>Unit 2 is expected to restart sometime Tuesday, they said.</p>
+<p>Both units were shut late last week for tube leak repairs -- unit 1 since Wednesday and unit 2 since Friday.</p>
+<p>San Juan's other two 540 MW units are said to be running normally.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

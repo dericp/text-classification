@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="805405" id="root" date="1997-08-18" xml:lang="en">
+<title>BRAZIL: Brazil Jan-July home aluminium sales up 10.8 pct.</title>
+<headline>Brazil Jan-July home aluminium sales up 10.8 pct.</headline>
+<dateline>RIO DE JANEIRO 1997-08-18</dateline>
+<text>
+<p>Brazilian internal sales of all primary aluminium reached 121,700 tonnes in the first seven months of 1997, up 10.8 percent on the 109,800 tonnes sold in January-July 1996, said the Brazilian Aluminium Association.</p>
+<p>Sales in July reached 16,900 tonnes, down however 2.3 percent from 17,300 tonnes in July last year and also below the 17,700 tonnes sold in June 1997.</p>
+<p>Forecasts for total 1997 sales are around of 210,000 tonnes which would be a growth of 6.9 percent on the 196,500 tonnes sold in 1996, the association said.</p>
+<p>((-Caroline Bulloch, Rio de Janeiro newsroom, 5521 5074151))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

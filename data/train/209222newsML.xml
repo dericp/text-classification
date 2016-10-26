@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209222" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Carmakers say US air bag proposals are like theirs.</title>
+<headline>Carmakers say US air bag proposals are like theirs.</headline>
+<dateline>WASHINGTON 1996-11-22</dateline>
+<text>
+<p>The American Automobile Manufacturers Association on Friday welcomed federal proposals to improve the safety of car air bags, but questioned whether some timetables could be met, especially for so-called smart air bags.</p>
+<p>Association president Andrew Card said &quot;America's car companies welcome the NHTSA's (National Highway Traffic Safety Adminstration) proposals to further enhance airbag safety.&quot;</p>
+<p>The &quot;smart bags,&quot; proposed for the 1999 year model year, would &quot;sense&quot; the size of the passenger and then deploy the bag at the best speed for protection.  </p>
+<p>Robert Lange, General Motors Corp. director of vehicle development methodology and labs, said &quot;I think 1999 wlll be a stretch to get smart air bags.&quot;</p>
+<p>Card said group members Chrysler Corp., Ford Motor Co., and GM had already taken several of the steps proposed by the agency.</p>
+<p>He said these include reducing the speed of air bag deployment, developing smart air bags and to send air bag warning letters to car owners.</p>
+<p>Card said &quot;We are pleased that NHTSA's announcement today endorses many of these intiatives by the NHTSA.&quot;  </p>
+<p>Asked if the NHTSA's admission that bags were dangerous for children might prompt law suits, Helen Petrauskas, Ford's vice president for environmental and safety engineering, said law suits were a fact of life, adding &quot;We can't run our business based on product liability concerns.&quot;</p>
+<p>The advocacy group Public Citizen said the NHTSA's action was long overdo and should begin the process of improving airbags, but the agency's plan to allow people to disconnect the bags could be misinterpreted.</p>
+<p>&quot;For the government to authorize disconnection sends the wrong message to motorists who wil interpret this as a recommendation to disconnect,&quot; Public Citizen said.</p>
+<p>It added that the solution was in the long-overdue smart bags, which it said had been delayed by carmakers. &quot;Depowering appears to be the only feasible interim solution until more advanced designs go into production.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

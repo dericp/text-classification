@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="580042" id="root" date="1997-05-13" xml:lang="en">
+<title>USA: U.S. weekend box office chart - May 9-11.</title>
+<headline>U.S. weekend box office chart - May 9-11.</headline>
+<dateline>LOS ANGELES 1997-05-12</dateline>
+<text>
+<p>Following are the final data for the top 10 movies at the May 9-11 box office, according to Exhibitor Relations Co.</p>
+<p>    Film		   Three-day gross    Cumulative Gross</p>
+<p>1. The Fifth Element	$17,031,345	 $  ----</p>
+<p>2. Fathers' Day	     $ 8,776,159	 $  ----</p>
+<p>3. Breakdown		  $ 7,618,238	 $ 23,181,708</p>
+<p>4. Austin Powers:</p>
+<p>   International Man</p>
+<p>    of Mystery		$ 7,064,984	 $ 19,495,896</p>
+<p>5. Volcano		    $ 4,494,695	 $ 34,099,934</p>
+<p>6. Liar Liar		  $ 3,618,295	 $156,452,370</p>
+<p>7. Romy and Michele's</p>
+<p>    High School Reunion   $ 2,897,452	 $ 19,112,633</p>
+<p>8. Anaconda		   $ 2,665,442	 $ 53,080,185</p>
+<p>9. The Saint		  $ 1,562,444	 $ 54,816,617</p>
+<p>10 Murder at 1600	   $ 1,296,494	 $ 21,671,510</p>
+<p>NOTE: &quot;The Fifth Element&quot; was produced by Gaumont SA and released in the United States by Columbia Pictures, a unit of Sony Corp, which also released &quot;Anaconda.&quot;</p>
+<p>&quot;Fathers' Day&quot; and &quot;Murder at 1600&quot; are released by Warner Bros., a unit of Time Warner Inc.. Time Warner's New Line Cinema released &quot;Austin Powers: International Man of Mystery.&quot;</p>
+<p>&quot;Breakdown&quot; and &quot;The Saint&quot; are released by Paramount Pictures, a unit of Viacom Inc.</p>
+<p>&quot;Volcano&quot; is released by 20th Century Fox, a unit of News Corp.</p>
+<p>&quot;Liar Liar&quot; is released by Universal Pictures, a unit of Seagram Co Ltd.</p>
+<p>&quot;Romy and Michele's High School Reunion&quot; is released by Walt Disney Co.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="298986" id="root" date="1997-01-10" xml:lang="en">
+<title>SLOVAKIA: Slovak c.bank sets tender for 3-day repo - 1000 CET.</title>
+<headline>Slovak c.bank sets tender for 3-day repo - 1000 CET.</headline>
+<dateline>BRATISLAVA 1997-01-10</dateline>
+<text>
+<p>The National Bank of Slovakia (NBS) on Friday said it had set a tender for a three-day securities repurchase for 1000 CET, offering banks liquidity of a fixed volume of one billion crowns.</p>
+<p>The NBS said in a statement that the American-style tender would have a minimum rate of 9.7 percent.  </p>
+<p>According to official NBS figures, the Slovak banking sector is short of liquidity, with banks' minimum reserve demands fulfilled at 98.18 percent as of Thursday.</p>
+<p>The NBS holds tenders on a daily basis if needed at 1000 CET (0900 GMT), instead of quoting securities repo and reverse repo rates.</p>
+<p>Tender results are released by 1100 CET with allocations following later in the day.</p>
+<p>-- Tatiana Vacova, Bratislava Newsroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

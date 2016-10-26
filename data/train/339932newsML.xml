@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="339932" id="root" date="1997-01-29" xml:lang="en">
+<title>USA: Sherwin-Williams raises qtly dividend.</title>
+<headline>Sherwin-Williams raises qtly dividend.</headline>
+<dateline>CLEVELAND 1997-01-29</dateline>
+<text>
+<p>The Sherwin-Williams Co said on Wednesday its board increased its quarterly common stock dividend from $0.175 per share to $0.20 per share on common stock, payable March 17 to shareholders of record on March 3.</p>
+<p>The directors also declared a two-for-one common stock split to be distributed on or about March 28 to holders of record on March 3, 1997. The Company has about 85.9 million common shares outstanding.</p>
+<p>The pre-split quarterly dividend of $0.20, payable on March 17 is the equivalent of $0.10 per share on a post-split basis, the company said. Sherwin said its last two-for-one common stock split was announced on February 20, 1991.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

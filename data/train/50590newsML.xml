@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50590" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Sept 12.</title>
+<headline>PRESS DIGEST - New York Times front page - Sept 12.</headline>
+<dateline>NEW YORK 1996-09-12</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Thursday:</p>
+<p>* Two assistant secretaries at the U.S. Department of Health and Human Services resigned in protest over the sharp cuts contained in the welfare bill recently signed by President Clinton.</p>
+<p>* The United States sent more warplanes to the Middle East in preparation for heavier attacks on Iraq after Iraq fired a missile at U.S. jets patrolling the no-fly zone.</p>
+<p>* Voter turnout by Republicans has become a growing issue as GOP nominee Sen. Bob Dole trails President Clinton.</p>
+<p>* Economists debated whether the Federal Reserve should raise interest rates, asserting that the central bank should allow the economy to grow at its current pace a while longer.</p>
+<p>* President Clinton is planning for a star-studded fundraiser in Beverly Hills, Calif., that is expected to yield $3.5 million.</p>
+<p>* Network Solutions Inc, the private company commissioned by the federal government to register Internet and World Wide Web addresses, is considering a public stock offering.</p>
+<p>* Despite years of claims by the Brazilian government that cutting of rain forests has slowed, new figures show the opposite.</p>
+<p>--New York Newsdesk  (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526136" id="root" date="1997-04-21" xml:lang="en">
+<title>ITALY: FINNISH GONDOLA THIEF ALL AT SEA IN VENICE.</title>
+<headline>FINNISH GONDOLA THIEF ALL AT SEA IN VENICE.</headline>
+<dateline>VENICE, Italy 1997-04-20</dateline>
+<text>
+<p>A Finnish tourist who tried night-time joyriding in a Venetian gondola was caught by police whose suspicions were aroused by his incompetence, Italian newspapers reported on Sunday.</p>
+<p>Police suspected the Finn, who was not named, might not be one of the lagoon city's famous singing watermen because of his unorthodox use of the boat's single oar and his inability to steer.</p>
+<p>The man was brought back to land and accused of attempted theft. The gondola was returned to its owner.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VENICE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

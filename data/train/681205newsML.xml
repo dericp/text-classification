@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="681205" id="root" date="1997-06-23" xml:lang="en">
+<title>USA: High Plains Wheat - Scattered protection taken.</title>
+<headline>High Plains Wheat - Scattered protection taken.</headline>
+<dateline>KANSAS CITY, Mo. 1997-06-23</dateline>
+<text>
+<p>U.S. High Plains grain dealers were taking scattered two cents per bushel protection on hard red winter wheat Monday amid expectations that KCBT wheat futures will open lower.</p>
+<p>Dealers said harvesting progressed rapidly over the weekend in Texas, Oklahoma and Kansas, and that yields were coming in well above expectations.</p>
+<p>&quot;Yields are excessive -- we are consistently hearing 70 to 80 bushels per acre,&quot; a northeast Oklahoma dealer said.</p>
+<p>Dealers said that transportation was at a premium because harvest was unfolding in three states.</p>
+<p>Cool, wet weather earlier this month delayed harvesting in Texas.</p>
+<p>&quot;There's two things that stand out about the harvest so far -- one is how high the yields are, and the other is how we're cutting simultaneously in Texas, Oklahoma and Kansas. Texas is usually done by now,&quot; a south central Kansas dealer said. &quot;The result is that transportation is very tight right now.&quot;  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     -31  +  N     -31  +  N	     3.1800</p>
+<p> Dodge City	-38  +  N     -38  +  N	     3.1100</p>
+<p> Hutchinson	- 3  +  N     - 3  +  N	     3.4600</p>
+<p> Newton	    - 4  +  N     +10  +  N	     3.4500</p>
+<p> Salina	    - 8  +  N     - 4  +  N	     3.4100</p>
+<p> Topeka	    +20  +  N     +15  +  N	     3.6900</p>
+<p> Wichita	   - 4  +  N     +10  +  N	     3.4500</p>
+<p> Kansas City     +20  +  N     +10  +  N	     3.6900</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+10  +  N     +10  +  N	     3.5900</p>
+<p> Galveston	 +35  +  N     +36  +  N	     3.8400</p>
+<p> Houston	   +37  +  N     +37  +  N	     3.8600</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +14  +  N     +14  +  N	     3.6300</p>
+<p> Enid		- 1  +  N     - 1  +  N	     3.4800</p>
+<p> Guymon	    -36  +  N     -36  +  N	     3.1300</p>
+<p>(Note: N=KCBT July. unq- unquoted, na - not applicable)</p>
+<p>((--Kansas City bureau, 816 561-8671))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

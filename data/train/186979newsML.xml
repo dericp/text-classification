@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186979" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: PRESALE - Westchester Cty, N.Y..</title>
+<headline>PRESALE - Westchester Cty, N.Y..</headline>
+<text>
+<p>AMT: 59,505,000     DATE: 11/14/96	NYC Time: 1100	CUSIP: 957365</p>
+<p>ISSUER: Westchester Cty						 ST: NY</p>
+<p>ISSUE: GO, 1996							   TAX STAT:Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 10/31/96							     SURE BID: N</p>
+<p>DUE: 11/15/97-16					    SR MGR:</p>
+<p>1ST CPN: 05/15/97</p>
+<p>CALL: 11/15/06 at 101, dtp 11/15/08		   NIC</p>
+<p>DELIVERY: 11/21/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: Commissioner of Finance's Office, White Plains</p>
+<p>L.O.: Whitman Breed Abbott &amp; Morgan, New York</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $36,350,000 10/27/93 @ 4.2869% NIC; 7yrs 11 mos Avg; BBI-5.20%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		  7,945,000</p>
+<p>1998		  7,945,000</p>
+<p>1999		  7,135,000</p>
+<p>2000		  7,050,000</p>
+<p>2001		  6,015,000</p>
+<p>2002		  2,380,000</p>
+<p>2003		  2,375,000</p>
+<p>2004		  2,275,000</p>
+<p>2005		  2,275,000</p>
+<p>2006		  2,175,000</p>
+<p>2007		  1,635,000</p>
+<p>2008		  1,620,000</p>
+<p>2009		  1,620,000</p>
+<p>2010		  1,615,000</p>
+<p>2011		  1,485,000</p>
+<p>2012		    810,000</p>
+<p>2013		    810,000</p>
+<p>2014		    805,000</p>
+<p>2015		    805,000</p>
+<p>2016		    730,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

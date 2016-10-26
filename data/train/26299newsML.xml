@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="26299" id="root" date="1996-09-01" xml:lang="en">
+<title>SOUTH AFRICA: Wage talks stall in S.African petroleum sector.</title>
+<headline>Wage talks stall in S.African petroleum sector.</headline>
+<dateline>CAPE TOWN 1996-09-01</dateline>
+<text>
+<p>South Africa's petroleum industry said on Sunday talks with the chemical workers' union on wages and working hours had stalled.</p>
+<p>&quot;The union rejected a ten percent across the board wage offer and a reduction in average hours worked, taking the maximum in the sector to 43 hours a week,&quot; said a statement by Simon Drysdale, chief negotiator for the petroleum industry.</p>
+<p>He said the union wanted shorter hours, a 12 percent across the board increase and a mimimum wage of 1,800 rand a month.</p>
+<p>The union had refused to give an undertaking beyond Sunday (September 1) that it would not strike during wage negotiations, Drysdale said.</p>
+<p>-- Cape Town newsroom 2721 252238</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

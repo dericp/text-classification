@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="100299" id="root" date="1996-10-07" xml:lang="en">
+<title>PAKISTAN: Pakistan auctions six-month bonds.</title>
+<headline>Pakistan auctions six-month bonds.</headline>
+<dateline>KARACHI, Pakistan 1996-10-07</dateline>
+<text>
+<p>The State (central) Bank of Pakistan said on Monday it auctioned six-month maturity short-term federal investment bonds worth 53.225 million rupees at a weighted average yield of 13.6406 percent per annum.</p>
+<p>The auction will be settled on Wednesday, it said.</p>
+<p>The bank had set a pre-auction target of 4.089 billion rupees but it received bids worth 353.225 million rupees, of which bids worth 53.225 million were accepted.</p>
+<p>In the previous auction on September 17, bids worth 50 million rupees were accepted at a weighted average yield of 13.4995 percent per annum.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

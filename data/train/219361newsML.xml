@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219361" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: Great Western to sell student loan business.</title>
+<headline>Great Western to sell student loan business.</headline>
+<dateline>CHATSWORTH, Calif. 1996-11-27</dateline>
+<text>
+<p>Great Western Financial Corp said it reached an agreement to sell its studend loan business to Crestar Financial Corp based in Richmond.</p>
+<p>It expects to realize an after-tax gain of $13.8 million from the sale in the fourth quarter of 1996.</p>
+<p>Great Western said the sale, which is expected to close before the end of the year, involves the bank's entire student loan operation, including a portfolio of about $370 million of student loans in California and Florida.  Specific terms of the sale were not disclosed.  </p>
+<p>Great Western said the sale is the latest step in a program to restructure its retail lines of business.  Last month the bank said it is exploring strategic alternatives, including a sale or joint venture, for its mutal funds subsidiary, Sierra Capital Management.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATSWORTH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

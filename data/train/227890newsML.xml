@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227890" id="root" date="1996-12-02" xml:lang="en">
+<title>UK: Hong Kong stocks slide in London with Wall Street.</title>
+<headline>Hong Kong stocks slide in London with Wall Street.</headline>
+<dateline>LONDON 1996-12-02</dateline>
+<text>
+<p>Hong Kong stocks closed around the day's lows in quiet London trading as the Dow tumbled after two economic indicators pointed to surprising strength in the U.S. manufacturing and construction sectors, dealers said.</p>
+<p>The Hang Seng London Reference Index ended 53.21 points lower at 13,464.35.</p>
+<p>In Hong Kong, the Hang Seng index closed up 123.63 points at 13,517.56.</p>
+<p>Hong Kong shares open in London slightly below Hong Kong levels, under pressure from the weakness in the UK stock market.</p>
+<p>&quot;Pressure accelerated when the Dow Jones opened up 40 points down,&quot; one dealer said.</p>
+<p>Dealers said the market could move up again, based on Hong Kong futures, which finished at a 90-point premium.</p>
+<p>&quot;But all eyes will be on major figures in the States this week,&quot; he said.</p>
+<p>&quot;You may have a slight stutter tomorrow but the general uptrend appears to be intact,&quot; another dealer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

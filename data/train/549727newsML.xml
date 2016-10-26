@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="549727" id="root" date="1997-04-30" xml:lang="en">
+<title>UK: Studies home in on targets for obesity drugs.</title>
+<headline>Studies home in on targets for obesity drugs.</headline>
+<byline>Maggie Fox</byline>
+<dateline>LONDON 1997-04-30</dateline>
+<text>
+<p>Two reports published on Wednesday offered more hope to dieters and drug companies seeking a sure-fire way to lose fat -- but experts warned no quick fix was in sight yet.</p>
+<p>The reports targeted the role of uncoupling protein (UCP), which plays a vital role in metabolism by helping convert fat into body heat. Early research indicates it could somehow be harnessed to help slimmers burn off extra calories.</p>
+<p>It works in so-called brown fat, a specialised fat that can be turned into body heat more quickly than white fat. Brown fat is what keeps hibernating animals warm and alive and is found in human babies, but mostly disappears in adults.</p>
+<p>Leslie Kozak of the Jackson Laboratory in Bar Harbour, Maine and colleagues showed that mice genetically engineered to lack UCP have trouble keeping warm but do not become obese, even when fed a high-fat diet.</p>
+<p>The mice did not eat more, either. Kozak's group proposed that a second, newly discovered gene producing a protein called UCP2 somehow makes up for some of the effects of UCP1.</p>
+<p>&quot;We certainly found that the animals were very sensitive to cold and that, I think, establishes beyond doubt that brown fat is central in thermogenesis (generating heat),&quot; Kozak said.</p>
+<p>&quot;The question is therefore why did these animals not become obese.&quot;</p>
+<p>Unlike humans, adult mice have plenty of brown fat -- so knocking out its ability to burn off calories should have made the mice fat. &quot;So why didn't we find this? I think first of all...the body defends a normal body weight,&quot; Kozak said.</p>
+<p>There must be another mechanism that maintains body mass that does not protect against the cold. This could be UCP2.</p>
+<p>Brown fat, and the fact that adult humans lacked it, could be the secret. Perhaps there was a mechanism for determining whether brown fat or white fat developed that could somehow be switched, Kozak said.</p>
+<p>&quot;I think we have been selected for an extremely efficient metabolism.&quot; Primitive peoples often had diets containing less than 10 percent of calories from fat -- the average Western diet has up to 40 percent -- and were physically active.</p>
+<p>Natural selection probably dictated that people who were good at putting on body fat survived -- and passed on their genes. Several mechanisms were probably involved, Kozak said.</p>
+<p>In a second study, Steven Thomas and Richard Palmiter at the University of Washington in Seattle looked at a different aspect of metabolism in mice.</p>
+<p>They created mice that could not produce adrenaline or noradrenaline, which are believed to control fat levels and metabolism in several different ways.</p>
+<p>These mice also could not adjust to the cold. &quot;The mutants have increased food intake but do not become obese because their basal metabolic rate is also elevated,&quot; Thomas and Palmiter wrote. But they said UCP2 was not involved here.</p>
+<p>Jules Hirsch of Rockefeller University in New York said much mystery remained about what makes animals and people fat.</p>
+<p>&quot;In spite of these findings, the long search to find the heat producer that keeps its lucky possessors svelte is far from over,&quot; he wrote in a commentary on the reports.</p>
+<p>&quot;We may soon learn how UCP1 is involved in caloric exchange, but its roles in obesity treatment...are uncertain.&quot;</p>
+<p>Hirsch advised: &quot;As of this moment stick to your diet, keep up your jogging, and wait for the continuation of this fascinating story.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

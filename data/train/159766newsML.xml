@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159766" id="root" date="1996-11-01" xml:lang="en">
+<title>HUNGARY: Zeppelin to invest over 60 mln DM in Hungary plant.</title>
+<headline>Zeppelin to invest over 60 mln DM in Hungary plant.</headline>
+<dateline>BUDAPEST 1996-11-01</dateline>
+<text>
+<p>Germany's Ferdinand Zeppelin (FZ) group plans to invest more than 60 million marks in its gearbox plant in Hungary over the next two years, the MTI news agency said on Friday.</p>
+<p>MTI quoted Ulrich Diller, chairman and chief executive of FZ Hungaria Kft, FZ's subsidiary in Hungary, as saying that the plant -- located in Eger, 120 km east of Budapest -- planned to produce an annual 70,000 gearboxes a year from 1998.</p>
+<p>The German group bought the plant in 1995 and transferred the whole production line from its Brandenburg plant, MTI said.</p>
+<p>FZ Hungaria expects a turnover of 10 million marks this year and plans to reach an annual turnover of 55 million marks by 1998.</p>
+<p>- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

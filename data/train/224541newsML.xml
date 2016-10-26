@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224541" id="root" date="1996-11-29" xml:lang="en">
+<title>AUSTRALIA: CRICKET-AUSTRALIA V WEST INDIES SCOREBOARD.</title>
+<headline>CRICKET-AUSTRALIA V WEST INDIES SCOREBOARD.</headline>
+<dateline>SYDNEY 1996-11-29</dateline>
+<text>
+<p>Scoreboard on the first day of the</p>
+<p>second test between Australia and West Indies at the Sydney</p>
+<p>Cricket Ground on Friday.</p>
+<p>Australia first innings</p>
+<p> M.Taylor c Chanderpaul b Bishop	 27</p>
+<p> M.Elliott c Lara b Bishop		 29</p>
+<p> R.Ponting c Samuels b Walsh		9</p>
+<p> M.Waugh c Lara b Walsh		    19</p>
+<p> M.Bevan c Hooper b Benjamin	     16</p>
+<p> G.Blewett not out			   58</p>
+<p> I.Healy not out			     44</p>
+<p> Extras (nb-14 w-1 lb-7)		   22</p>
+<p> Total (for five wickets, 90 overs)   224</p>
+<p>Fall of wickets: 1-54, 2-68, 3-73, 4-94, 5-131.</p>
+<p>To bat: S.Warne, M.Kasprowicz, J.Gillespie, G.McGrath.</p>
+<p>Bowling: Ambrose 18-4-41-0 (nb-5), Walsh 19-4-52-2 (nb-3), </p>
+<p>Hooper 13-5-15-0, Bishop 18-4-44-2 (nb-4 w-1), Benjamin</p>
+<p>18-4-56-1 (nb-2), Adams 4-1-9-0.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

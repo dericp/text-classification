@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782481" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: Toll sees record FY97 amid Q3 record orders.</title>
+<headline>Toll sees record FY97 amid Q3 record orders.</headline>
+<dateline>HUNTINGDON VALLEY, Pa. 1997-08-06</dateline>
+<text>
+<p>Toll Brothers Inc said Wednesday its signed $251 million in contracts in the third quarter ended July 31 and predicted record fiscal year results.</p>
+<p>&quot;Fiscal 1997 (ending September 31) will be our fifth consecutive record year and we believe Fiscal 1998 is shaping up to be very strong as well,&quot; said chief executive Robert Toll in a statement.</p>
+<p>The builder of luxury homes said third-quarter orders rose 22 percent to a record $251 million, or 638 homes, from $206.1 million or 558 homes in the prior-year period.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HUNTINGDON VALLEY, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

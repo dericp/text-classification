@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127360" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 17-OCT.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 17-OCT.</headline>
+<text>
+<p>Typhoon Beth is expected to cause winds up to 100 mph and a strong storm surge as it makes landfall along the northeast coast of Luzon during the next few hours. Rainfall of at least 5-10 inches is expected through north and central Luzon as the system moves westward across northern Luzon during this period. This likely causes flooding and mudslides. Damage is expected to be high in Luzon during this period. Beth strengthens again when it moves off the west coast of Luzon in about 18-24 hours. It should then threaten shipping as it moves into the South China Sea.  </p>
+<p>Hurricane Lili is expected to track across western Cuba and the Isle of Youth during the next 24-36 hours. Strong winds and a storm surge will likely cause damage during this time. Rains of at least 5-10 inches will cause flooding and mudslides. Damage may become severe in some areas due to these floods. Cuba's sugarcane crop may be at risk. Lili turns more towards the east after crossing Cuba. This will bring flooding rains and strong winds to the Bahamas islands and extreme southeast Florida later in the period. Shipping and boating in the region is also at risk.  </p>
+<p>Tropical cylone 04s has formed in the south Indian Ocean near 10s/83e. This system will mainly threaten shipping as it tracks towards the west-southwest during this period.</p>
+<p>Tropical depression 30w (Abel) may cause local flooding as it moves into south Vietnam during this period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

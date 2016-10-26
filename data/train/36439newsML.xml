@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36439" id="root" date="1996-09-05" xml:lang="en">
+<title>GREECE: Greek premier inaugurates new Athens airport.</title>
+<headline>Greek premier inaugurates new Athens airport.</headline>
+<dateline>ATHENS 1996-09-05</dateline>
+<text>
+<p>Prime Minister Costas Simitis launched construction work on Athens' new international airport on Thursday, saying that it would establish Greece as a bridge between Europe and the Middle East.</p>
+<p>&quot;This is a project which is linked to Greece's modernisation and development. It establishes Greece as a gate and bridge between Europe and the Middle East, a stop-over between East and West,&quot; Simitis said in a speech inaugurating construction work.</p>
+<p>The new airport is being built in Spata, east of Athens. It will be named after statesman Eleftherios Venizelos and replace the old airport at Hellenikon, which is plagued by lack of space and long flight delays.</p>
+<p>The new airport is due to be completed by the year 2000. It will have two runways and cover an area of 4,000 acres with a capacity to handle 16 million passengers a year.</p>
+<p>Builder Hochtief owns 45 percent of a company set up with the state -- Athens International Airport SA -- to operate the facility for 30 years. Greece will subsequently gain full control.</p>
+<p>&quot;It is a project that will play a decisive role in our economic recovery, a project that will set the pace of the future,&quot; Simitis said. &quot;Greece has to improve its image in Europe and this will be achieved only if the country has such projects to show.&quot;</p>
+<p>The German consortium includes Hochtief Aktiengesellschaft of Essen, Flughafen Frankfurt Main AG, ABB Schaltanlagen Gmbh of Mannheim and Krantz-TKT Gmbh. --George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

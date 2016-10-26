@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="361066" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Manpower Inc Q4 net rises.</title>
+<headline>Manpower Inc Q4 net rises.</headline>
+<dateline>MILWAUKEE, Wis. 1997-02-06</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.58		    $0.45</p>
+<p> Net			 48,085		   36,564</p>
+<p> Revs		   1,992,859		1,744,025</p>
+<p> Avg shrs		  83,337		   81,522</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Q4 1996 earnings include after-tax income of $4.8 million or $0.06 a share from the sale of assets.</p>
+<p>Revs reflect systemwide sales. Q4 revs from services were $1.6 billion vs $1.4 billion.  </p>
+<p>	  12 MONTHS</p>
+<p> Shr			  $1.95		    $1.65</p>
+<p> Net			162,298		  128,042</p>
+<p> Revs		   7,474,212		6,883,605</p>
+<p> Avg shrs		  83,106		   77,644</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1996 full-year earnings include after-tax income of $10.3 million or $0.12 a share from the sale of assets.</p>
+<p>Revs reflect systemwide sales. Year revs from services were $6.1 billion vs $5.5 billion.</p>
+<p>((--Chicago Newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILWAUKEE, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

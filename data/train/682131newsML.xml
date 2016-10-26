@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="682131" id="root" date="1997-06-24" xml:lang="en">
+<title>USA: Campo Electronics says Q3 sales decrease.</title>
+<headline>Campo Electronics says Q3 sales decrease.</headline>
+<dateline>NEW ORLEANS 1997-06-24</dateline>
+<text>
+<p>Campo Electronics, Appliances and Computers Inc said its sales for the third quarter ended May 31 decreased by 15.2 percent to $51.0 million from $60.2 million last year.</p>
+<p>The company's sales for the first nine months of 1997 decreased 14.8 percent to $195.1 million from $229.0 million for the same period last year.</p>
+<p>Earlier this month, Campo said its board devised a turnaround plan which involved the filing for Chapter 11 bankruptcy and the closing of nine unprofitable stores.  </p>
+<p>Campo is a specialty retailer of name brand consumer electronics, major appliances and home office products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30789" id="root" date="1996-09-03" xml:lang="en">
+<title>JAPAN: Koken sets terms on SFR CB.</title>
+<headline>Koken sets terms on SFR CB.</headline>
+<dateline>TOKYO 1996-09-03</dateline>
+<text>
+<p>BORROWER - Koken Ltd</p>
+<p>LEAD MGR - Nomura Bank (Switzerland) Ltd</p>
+<p> TYPE convertible     ISSUE NO		AMT   20 million SFR</p>
+<p> COUPON 0.25%	   ISS PRICE	     MATURITY 31.Dec.00</p>
+<p>CONV PRICE 1476 yen  CURR RATE 91.50/SFR</p>
+<p> CONV FROM 3.Oct.96   CONV TO 22.Dec.00</p>
+<p> LAST MOODY	     PAY DATE 19.Sep.96  INT PAY 19.Sep</p>
+<p> LAST S&amp;P		 SIGN DATE 3.Sep.96  SUB DATE</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

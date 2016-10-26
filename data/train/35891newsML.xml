@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35891" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Pier 1 Aug same-store sale rise 2 pct.</title>
+<headline>Pier 1 Aug same-store sale rise 2 pct.</headline>
+<dateline>FORT WORTH, Texas 1996-09-05</dateline>
+<text>
+<p>Percent change</p>
+<p>		    1996	 1995	     Total     Same-Store</p>
+<p>Month		$71.5	$65.9	+8.5	 +2.0</p>
+<p>Q2		  $231.1	  N/A     +15.8	+10.0</p>
+<p>Year-to-date    $436.3	  N/A     +16.0	+10.4</p>
+<p>NOTE: Figures in millions except percentage.</p>
+<p>    Full company name is   Pier 1 Imports Inc.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT WORTH, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

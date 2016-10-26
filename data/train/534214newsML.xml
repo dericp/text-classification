@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="534214" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Delphi Financial Q1 net shr $1.03 vs $0.61.</title>
+<headline>Delphi Financial Q1 net shr $1.03 vs $0.61.</headline>
+<dateline>WILMINGTON, Del. 1997-04-24</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>			    Three Months Ended  Twelve Months Ended</p>
+<p>			     03/31/97  03/31/96  12/31/96  12/31/95</p>
+<p>Revenue:</p>
+<p>Income from continuing operations</p>
+<p>				    20,298   10,246   53,854   32,742</p>
+<p>Discontinued operations, net of taxes</p>
+<p>					 ---    (371)  (6,601)  (2,278)</p>
+<p> Net income		     20,298    9,875   47,253   30,464</p>
+<p> Net income			 1.03     0.61     2.53     2.10</p>
+<p>Weighted average</p>
+<p>  shares outstanding(A)     19,615   16,085   18,693   14,532</p>
+<p>NOTE: Delphi Financial Group Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

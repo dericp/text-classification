@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="571089" id="root" date="1997-05-08" xml:lang="en">
+<title>TAIWAN: Taiwan buys T$2b U.S. Stinger missile system - paper.</title>
+<headline>Taiwan buys T$2b U.S. Stinger missile system - paper.</headline>
+<dateline>TAIPEI 1997-05-08</dateline>
+<text>
+<p>Taiwan has signed a contract to buy an anti-aircraft missile system from the United States for about T$2 billion (US$72 million), the China Times reported on Thursday.</p>
+<p>The system includes more than 700 Stinger missiles, the newspaper said. A defence ministry spokesman was not available immediately for comment.</p>
+<p>Defence minister Chiang Chung-ling said in March Taiwan planned to buy Stinger missiles, but declined to give details of their price or how many would be bought.</p>
+<p>Taiwan on Thursday commissioned two tank landing ships (LSTs) leased from the United States. The ministry said it had leased a total of six LSTs but did not say when the remaining four might arrive in Taiwan.</p>
+<p>Separately, Taiwan has ordered six Lafayette-class missile frigates from France and taken delivery of two so far.</p>
+<p>It is also paying T$15 million (US$590,000) each for 160 second-hand U.S. M60A3 tanks, all of which are more than 10 years old.</p>
+<p>Taiwan maintains it needs advanced weapons to counter the rapid military modernisation of China, the island's arch rival since a civil war separated them in 1949.</p>
+<p>China held war games and missile tests in the Taiwan Strait in the weeks before Taiwan's presidential election last year in what Beijing acknowledged was a bid to intimidate voters against pursuing independence.</p>
+<p>Beijing vows to retake Taiwan by force if the island opts for independence.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="I3640026">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

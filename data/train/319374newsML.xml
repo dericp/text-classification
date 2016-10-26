@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="319374" id="root" date="1997-01-20" xml:lang="en">
+<title>UK: C&amp;W says no decision on Singapore partners.</title>
+<headline>C&amp;W says no decision on Singapore partners.</headline>
+<dateline>LONDON 1997-01-20</dateline>
+<text>
+<p>Cable and Wireless, Britain's second biggest telecoms company, said on Monday that it had not finalised details about which companies it would team up with to bid for a telecoms licence in Singapore.</p>
+<p>&quot;No decision has been made on the partnerships for this bid,&quot; a company spokesman told Reuters.</p>
+<p>He said a state television report from Singapore, that the company would tie up with Hong Kong Telecom, two Singapore groups and possibly one other firm was &quot;inaccurate&quot;.</p>
+<p>Singapore has said it will award up to two additional public telecommunciations services licences.</p>
+<p>Foreign interests in joint ventures pursuing a telecoms licence in Singapore are limited to 49 percent.</p>
+<p>-- London Newsroom +44 171 542 7987</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

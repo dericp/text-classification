@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="696690" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: TABLE-Measurement Specialties Q4 shr $0.31.</title>
+<headline>TABLE-Measurement Specialties Q4 shr $0.31.</headline>
+<dateline>FAIRFIELD, N.J. 1997-06-30</dateline>
+<text>
+<p>Year ended March 31,</p>
+<p>					  1997	  1996	  1995</p>
+<p> Net sales		    $25,004,000 $23,060,000 $17,039,000</p>
+<p> Net income		     1,175,000     987,000     334,000</p>
+<p> Earnings per share		$0.31	 $0.27	 $0.09</p>
+<p>				     Fourth quarter ended March 31,</p>
+<p>					   1997	 1996	  1995</p>
+<p> Net sales			6,615,000   5,046,000   3,936,000</p>
+<p> Net income (loss)		402,000     155,000   (328,000)</p>
+<p>Earnings (net loss) per share</p>
+<p>					 $0.11	 $0.05	($.10)</p>
+<p>-- New York Newsdesk 212 603-3310</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFIELD, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

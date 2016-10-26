@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391607" id="root" date="1997-02-20" xml:lang="en">
+<title>PORTUGAL: Portugal may not reach 1997 foreign debt ceiling.</title>
+<headline>Portugal may not reach 1997 foreign debt ceiling.</headline>
+<dateline>LISBON 1997-02-20</dateline>
+<text>
+<p>Portugal may not issue the full 350 billion escudos net of foreign-currency denominated debt permitted in the 1997 budget, the state's debt manager said.</p>
+<p>Vitor Bento, chairman of the Institute for Public Credit Management (IGCP), told Reuters in an interview that there were sound macro-economic reasons for favouring the issue of domestic debt.</p>
+<p>He noted the differential in costs of borrowing -- between the foreign and domestic markets -- had narrowed significantly.</p>
+<p>&quot;At the moment, it is probable that (the limit) for foreign debt will not be reached,&quot; he said.</p>
+<p>Net foreign debt issues in 1996 totalled 320 billion escudos.</p>
+<p>He noted that Portugal's foreign exchange reserves were &quot;comfortable&quot; and that there was no problem with the balance of payments. --Sergio Goncalves, Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

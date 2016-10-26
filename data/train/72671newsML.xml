@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72671" id="root" date="1996-09-24" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia sees rise in Malaysia meat exports.</title>
+<headline>RTRS-Australia sees rise in Malaysia meat exports.</headline>
+<dateline>SYDNEY 1996-09-24</dateline>
+<text>
+<p>Australian exports of chilled beef and veal to Malaysia are expected to climb to as much as 400 tonnes this year from 332 tonnes in 1995, the Australian Meat &amp; Livestock Corp (AMLC) said on Tuesday.</p>
+<p>Australian exports of non-loin meats are also forecast to rise as the cuts gain greater acceptance in the Malyasian retail sector, Rose Young, managing director of the AMLC's Malaysia operations told Reuters.</p>
+<p>&quot;We're seeing more use of non-loins in traditional Malaysian diets, much of which is based on rice,&quot; Yong said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

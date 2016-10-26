@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="348683" id="root" date="1997-01-31" xml:lang="en">
+<title>TAIWAN: Taiwan January corn/soybean stocks movements.</title>
+<headline>Taiwan January corn/soybean stocks movements.</headline>
+<dateline>TAIPEI 1997-01-31</dateline>
+<text>
+<p>The following is a record of Taiwan's corn and soybean inventories over the past four weeks, as detailed on Friday by Taiwanese surveyors:</p>
+<p> Commodity		 Jan 30   Jan 23   Jan 16    Jan 9</p>
+<p> Corn			45,139   44,029   39,109   45,119</p>
+<p> Soybeans		  74,441   49,450   65,164   22,845</p>
+<p>These inventories were stored at Taiwan's five major silos, four of which are owned and operated by Far Eastern Silo and Shipping Corp and one of which belongs to state-run Taiwan Sugar Co.  </p>
+<p>Inventories stored at the silos of individual corn and soybean processors are not included.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

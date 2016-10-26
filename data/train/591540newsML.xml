@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="591540" id="root" date="1997-05-16" xml:lang="en">
+<title>GREECE: Strong quake hits southern Balkans, no injuries.</title>
+<headline>Strong quake hits southern Balkans, no injuries.</headline>
+<dateline>ATHENS 1997-05-16</dateline>
+<text>
+<p>An earthquake measuring 5.5 on the open-ended Richter scale shook northern Greece, Albania and Macedonia on Friday, causing panic but no injuries, police said.</p>
+<p>The quake hit at about 0700 GMT, jolting the northern Greek towns of Florina, Edessa, Kozani and Kastoria where people rushed out of their homes.</p>
+<p>The Salonika University seismological department said the quake had its epicentre in the neighbouring former Yugoslav republic of Macedonia, near Lake Ohrid, where a number of old houses were damaged.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

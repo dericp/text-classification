@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125652" id="root" date="1996-10-18" xml:lang="en">
+<title>UK: HORSE RACING-DEWHURST STAKES RESULT.</title>
+<headline>HORSE RACING-DEWHURST STAKES RESULT.</headline>
+<dateline>NEWMARKET, England 1996-10-18</dateline>
+<text>
+<p>Result of the group</p>
+<p>one Dewhurst Stakes for two-year-olds, run over seven furlongs</p>
+<p>(1.4 kms) on Friday:</p>
+<p>1. In Command 10-1 (ridden by Michael Hills)</p>
+<p>2. Musical Pursuit 13-2 (Pat Eddery)</p>
+<p>3. Air Express 50-1 (Brett Doyle)</p>
+<p>8 ran. Bahamian Bounty and Kahal 7-2 joint favourites</p>
+<p>Distances: Head, neck</p>
+<p>Winner owned by Maktoum al Maktoum and trained in England by</p>
+<p>Barry Hills.</p>
+<p>Value to winning owner: 83,535 pounds ($132,600)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWMARKET, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

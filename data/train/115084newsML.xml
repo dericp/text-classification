@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115084" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: Albertson's foresees lower Q3, Q4 net shrs.</title>
+<headline>Albertson's foresees lower Q3, Q4 net shrs.</headline>
+<dateline>BOISE, Idaho 1996-10-14</dateline>
+<text>
+<p>Albertson's Inc said Monday it foresaw earnings per share for the third quarter ending October 31 at about $0.42 and fourth quarter earnings ending January 30, 1997 at $0.61.  </p>
+<p>The company said the earnings would fall below analysts' projections with those for the fourth quarter at the same level as those for the same period last year. It did not give a comparative figure for the third quarter.</p>
+<p>&quot;Although sales continue to increase, the increases are not meeting the company's expectations,&quot; it said. &quot;Costs are above the originally projected amounts as a result of investments in programs to enhance long-term sales growth.&quot;</p>
+<p>The company is a U.S. retail food-drug chain.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="592302" id="root" date="1997-05-16" xml:lang="en">
+<title>JAPAN: Sun-wa Technos - 96/97 group results.</title>
+<headline>Sun-wa Technos - 96/97 group results.</headline>
+<dateline>TOKYO 1997-05-16</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Group)	(in billions of yen unless specified)</p>
+<p> Sales		 43.81		vs	   37.35</p>
+<p> Operating	  834    million    vs	  620    million</p>
+<p> Current	    851    million    vs	  633    million</p>
+<p> Net		  253    million    vs	  225    million</p>
+<p> EPS		   28.22 yen	  vs	   25.23 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p>NOTE - Sun-wa Technos Corp is a trading company engaged in industrial electronic machinery and parts.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

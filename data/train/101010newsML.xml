@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101010" id="root" date="1996-10-07" xml:lang="en">
+<title>GERMANY: BUBA'S KOEPNICK EXPECTS EIGHT TO MEET EMU TARGET.</title>
+<headline>BUBA'S KOEPNICK EXPECTS EIGHT TO MEET EMU TARGET.</headline>
+<dateline>SAARBRUECKEN, Germany 1996-10-05</dateline>
+<text>
+<p>Hans-Juergen Koebnick, Rhineland-Pfalz/Saarland central bank president and Bundesbank council-member, said he expects up to eight European countries to qualify for currency union by January 1, 1999.</p>
+<p>Speaking in a radio interview with Saarland Radio on Saturday, Koebnick said he expected Germany, France, Luxembourg, Belgium and the Netherlands to meet requirements for European Monetary Union in 1997.</p>
+<p>&quot;We then have to see if Ireland or Finland or Austria are still there at that time,&quot; Koebnick said, adding that 1997 would be a decisive year for currency union.</p>
+<p>Koebnick said he thought the introduction of the Euro was becoming &quot;increasingly likely.&quot;</p>
+<p>Koebnick was positive on the development of price stability in Europe, but said fiscal criteria needed more attention and called for a stability plan to regulate budgetary deficits and debt.</p>
+<p>&quot;Correct economic and financial behaviour&quot; was necessary, Koebnick said.</p>
+<p>--Clifford Coonan, Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="G151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAARBRUECKEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

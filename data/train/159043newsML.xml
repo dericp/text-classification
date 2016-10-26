@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159043" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: JMC Group Inc Q3 loss.</title>
+<headline>JMC Group Inc Q3 loss.</headline>
+<dateline>SAN DIEGO 1996-11-01</dateline>
+<text>
+<p>THIRD QUARTER	  YEAR TO DATE</p>
+<p>			  1996	 1995	   1996	  1995</p>
+<p> TOTAL REVENUE $2,385,711 $7,260,768   $7,772,996 $17,428,592</p>
+<p>TOTAL OPERATING</p>
+<p>  EXPENSES	3,504,072  4,205,678    9,440,455  14,220,701</p>
+<p>INCOME (LOSS)</p>
+<p>BEFORE INCOME TAXES</p>
+<p>		  (1,118,361)  3,055,090  (1,667,459)   3,207,891</p>
+<p>INCOME TAX PROVISION</p>
+<p>  (BENEFIT)     (435,955)  1,222,301    (637,690)   1,290,910</p>
+<p>NET INCOME</p>
+<p>  (LOSS)	  (682,406)  1,832,789  (1,029,769)   1,916,981</p>
+<p>EARNINGS (LOSS)</p>
+<p>  PER SHARE	  (0.11)	 0.30	 (0.17)	  0.31</p>
+<p>WEIGHTED AVERAGE</p>
+<p>SHARES OUTSTANDING</p>
+<p>PRIMARY AND</p>
+<p>FULLY DILUTED</p>
+<p>		    6,218,898  6,200,181    6,218,898   6,200,136</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

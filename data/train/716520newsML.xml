@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="716520" id="root" date="1997-07-09" xml:lang="en">
+<title>USA: CME to trade mini-S&amp;P 500 contracts electronically.</title>
+<headline>CME to trade mini-S&amp;P 500 contracts electronically.</headline>
+<dateline>CHICAGO 1997-07-09</dateline>
+<text>
+<p>The Chicago Mercantile Exchange board of directors approved a small-order electronic order routing and execution system for its planned &quot;mini&quot; S&amp;P 500 stock index futures, the exchange said on Wednesday.</p>
+<p>The contracts, dubbed &quot;E-mini,&quot; will trade on the GLOBEX electronic trading system, with orders routed through a variety of means, including the Internet, the CME said.</p>
+<p>Pending regulatory approval, the E-mini contracts could begin trading in September, the CME added.  </p>
+<p>&quot;Ease of access to the widest range of economically literate investors is the goal of this innovative electronic order entry, execution and confirmation system,&quot; CME chairman Jack Sandner said in a statement.</p>
+<p>E-mini S&amp;P 500 futures, one-tenth the size of existing S&amp;P 500 futures, are aimed at attracting a wider range of investors, particularly retail customers, for whom the current contract size is too large, the exchange said.</p>
+<p>The E-minis will be sized at $50 times the S&amp;P 500 index, or about $45,000 at current trading levels. The size of minimum price movement will be 0.25 point, valued at $12.50.  </p>
+<p>Orders of 50 contracts or less will use the new completely electronic order entry, routing and matching system -- the first of its kind in the futures industry, the CME said. Larger orders will be executed in an open outcry pit to be set up adjacent to the current S&amp;P pit, through an all-or-none facility.</p>
+<p>Initially, the contract will be launched through the existing GLOBEX network. In the second stage, the exchange will integrate the CME's order routing system and its members' proprietary order entry systems. The CME said it plans to permit access via the Internet in the third stage.</p>
+<p>GLOBEX is an electronic trading system owned by the CME, Marche a Terme Internationale de France (MATIF) and Reuters Holdings Plc.</p>
+<p>-- Chicago Derivatives Desk ((312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

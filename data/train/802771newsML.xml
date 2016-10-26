@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802771" id="root" date="1997-08-15" xml:lang="en">
+<title>SRI LANKA: S.Lanka stocks end flat, cheap shares dominate.</title>
+<headline>S.Lanka stocks end flat, cheap shares dominate.</headline>
+<dateline>COLOMBO 1997-08-15</dateline>
+<text>
+<p>Sri Lanka stocks closed flat on Friday in trade dominated by cheaper counters, brokers said.</p>
+<p>The all share index closed 0.1 point lower at 848.8, with gainers outnumbering losers by 34 to 27. Among highly capitalised blue-chips, Development Finance fell 14.75 rupees to 300.25, and Hayleys rose 12.50 to 287.5.</p>
+<p>&quot;The contradicting price movements between Development Finance and Hayleys kept the all share on an even keel,&quot; said a broker who declined to be identified.</p>
+<p>Turnover was 87.5 million rupees, supported by 100,000 Hayleys shares, 1.2 million Asia Capital, 100,000 Kegalle Plantations, and 100,000 Sapath Bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

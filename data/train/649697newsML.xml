@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="649697" id="root" date="1997-06-10" xml:lang="en">
+<title>COLOMBIA: Swiss-bound tarantulas discovered in Bogota.</title>
+<headline>Swiss-bound tarantulas discovered in Bogota.</headline>
+<dateline>BOGOTA 1997-06-10</dateline>
+<text>
+<p>Colombian authorities intercepted a cargo of 146 tarantulas being shipped by air to a clinic in Switzerland, El Espectador newspaper said on Tuesday.</p>
+<p>It said the furry creatures, all apparently alive and capable of delivering a painful bite, were found on Saturday at Bogota's El Dorado airport when the packages in which they had been packed were sent through a drug-detecting scanner.</p>
+<p>Tarantula spiders, native to the Americas, are large, hairy creatures that can measure three inches (7.6 cm) across and up to 10 inches (25.4 cm) with legs extended. Though their bites can be painful they are not usually dangerous to humans.</p>
+<p>El Espectador said the packages, labeled for air mail delivery and sent anonymously from a hotel in downtown Bogota, were adddressed to Dietter Bretz, a doctor at the Lebende Wogels medical laboratory in Pratetein, Switzerland.</p>
+<p>Instead of making the overseas journey, the spiders will now be returned to their natural habitat, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

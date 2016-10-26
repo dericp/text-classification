@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="222936" id="root" date="1996-11-28" xml:lang="en">
+<title>MALTA: Mediterranean bank network launched in Malta.</title>
+<headline>Mediterranean bank network launched in Malta.</headline>
+<dateline>VALLETTA 1996-11-28</dateline>
+<text>
+<p>Four Mediterranean banks on Thursday launched a Mediterranean Bank Network aimed at promoting and improving cross-border cooperation between banks operating in the Mediterranean.</p>
+<p>The network was launched in Malta by chairman of Bank of Valletta, John Grech, who said the participating banks were Turkiye Garanti Bankasi AS of Turkey, Banque Internationale Arabe de Tunisie SA of Tunisia, Nova Ljubljanska Banka of Slovenia and Bank of Valletta in Malta.</p>
+<p>Grech told a news conference the envisaged cross-border cooperation by the network would enable banks in the region to broaden their international involvement, to better manage risks and address the opportunities related to regional financing.</p>
+<p>&quot;The network shall enable its members to better service the growing segment of their individual customer base trading and investing in other countries in the region,&quot; he said.</p>
+<p>Grech was appointed president of the network.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106145" id="root" date="1996-10-09" xml:lang="en">
+<title>DUBAI: Stocks on Oman's market end the week higher.</title>
+<headline>Stocks on Oman's market end the week higher.</headline>
+<dateline>DUBAI 1996-10-09</dateline>
+<text>
+<p>Shares on Oman's stock exchange moved higher in the week to Wednesday in trade dominated by banking and investment sector stocks, the bourse said.</p>
+<p>The Muscat Securities Market said the index closed at 187.33 points from 186.06 last week.</p>
+<p>Some 187,000 shares in Oman International Bank shares worth 474,000 rials were traded in the week, but the share closed unchanged at 2.580 rials.</p>
+<p>Oman National Holding Co continued its climb, with 87,000 shares worth 359,000 rials changing hands. It closed at 4.110 rials from 4.080 rials last week.</p>
+<p>-- Dubai Newsroom 9714-626990</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

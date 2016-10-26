@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210674" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Virginia killer put to death.</title>
+<headline>Virginia killer put to death.</headline>
+<dateline>JARRATT, Va. 1996-11-21</dateline>
+<text>
+<p>Virginia executed an inmate Thursday night for beating, strangling and stabbing to death a woman during a burglary of her apartment, a prison spokesman said.</p>
+<p>Ronald Bennett, 42, was pronounced dead at 9:19 p.m. EST after officials administed a lethal injection.</p>
+<p>He was the 33rd person to be executed in Virginia since the reinstatement of the death penalty in 1976.</p>
+<p>Bennett was convicted in the Nov. 16, 1985, slaying of Anne Keller Vaden, 28, in her suburban Richmond apartment. Her nude, bloody body was discovered at the foot of her bed by her father when he arrived to pick her up for a family trip.</p>
+<p>The medical examiner testified at the trial that there were so many injuries on her body that the killer may have taken as much as 30 minutes to inflict them all.</p>
+<p>Bennett, a custodian at the apartment, was arrested in 1986 after his former wife told a girlfriend about the murder. She testified at his trial that Bennett arrived home bloody that morning and confessed to killing Vaden.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JARRATT, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

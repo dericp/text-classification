@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="175819" id="root" date="1996-11-08" xml:lang="en">
+<title>SOUTH AFRICA: Publico falls into interim loss, no div.</title>
+<headline>Publico falls into interim loss, no div.</headline>
+<dateline>JOHANNESBURG 1996-11-08</dateline>
+<text>
+<p>Half year ended Aug 31</p>
+<p>			(million rand unless stated)</p>
+<p>    Loss per shr (cts)    1.2	   vs  13.2 profit</p>
+<p>    Net loss		  0.14	  vs   1.05 profit</p>
+<p>    Pre-tax		   0.80	  vs   1.89</p>
+<p>    Tax			 0.23	  vs   0.65</p>
+<p>    Financing charges     0.07	  vs   0.35</p>
+<p>    Turnover		 28.68	  vs  27.36</p>
+<p>Full name: Publico Ltd</p>
+<p>    Loss from associates' 0.89	  vs   -</p>
+<p>Note - Company policy is to declare a single dividend at year end.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

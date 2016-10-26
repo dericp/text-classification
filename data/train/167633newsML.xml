@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167633" id="root" date="1996-11-05" xml:lang="en">
+<title>DENMARK: EIB issues 500 mln DKK 4 pct 7-year bond.</title>
+<headline>EIB issues 500 mln DKK 4 pct 7-year bond.</headline>
+<dateline>COPENHAGEN 1996-11-05</dateline>
+<text>
+<p>The following new issue was announced on Tuesday in a statement distributed by the Copenhagen Stock Exchange.</p>
+<p>BORROWER - THE EUROPEAN INVESTMENT BANK  AMOUNT - 500 MLN DKK</p>
+<p>MATURITY - SEVEN YEARS (NO DATE GIVEN)   COUPON - FOUR PERCENT</p>
+<p>LEAD MANAGER - BG BANK    ISS PRICE - UNSTATED</p>
+<p>TO BE LISTED ON COPENHAGEN STOCK EXCHANGE ON 10 DECEMBER 1996</p>
+<p>--Steve Weizman, Copenhagen newsroom, 45 33 969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

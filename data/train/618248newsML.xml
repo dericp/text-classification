@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="618248" id="root" date="1997-05-27" xml:lang="en">
+<title>AUSTRALIA: Australian police investigating ASC break-in.</title>
+<headline>Australian police investigating ASC break-in.</headline>
+<dateline>MELBOURNE 1997-05-27</dateline>
+<text>
+<p>Police are looking into a reported break-in at Australian Securities Commission offices which a newspaper on Tuesday linked to an ongoing investigation into dealings in shares of retailing giant Coles Myer Ltd.</p>
+<p>&quot;The Australian Federal Police can confirm that we are undertaking initial inquiries into a reported incident at the offices of the Australian Securities Commission,&quot; police spokesman Keith Livingston told Reuters.</p>
+<p>&quot;As those inquiries are ongoing it would be inappropriate to make any further comment,&quot; he said.</p>
+<p>Melbourne's Herald Sun newspaper reported on Tuesday that intruders broke into the ASC's Melbourne offices over the weekend to &quot;spy&quot; on documents relating to Coles Myer, Australia's largest retailing group.</p>
+<p>&quot;They ignored money, valuables and unlocked doors and made for the 'Coles Myer room',&quot; the newspaper said.</p>
+<p>The locked room contained sensitive documents concerning the so-called Yannon transaction, a 1990 deal which cost Coles Myer A$18 million (US$13.9 million) and benefitted a company associated with former chairman Solomon Lew by a similar amount.</p>
+<p>The break-in was discovered by staff on Monday morning, the newspaper said. The ASC said it had no immediate comment.</p>
+<p>(A$=US$0.77)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

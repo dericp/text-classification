@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131313" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: United Stationers Inc Q3 net up.</title>
+<headline>United Stationers Inc Q3 net up.</headline>
+<dateline>DES PLAINES, Ill. 1996-10-21</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr diluted		$0.56		    $0.27</p>
+<p> Net			  8,781		    4,173</p>
+<p> Revs		     576,254		  537,624</p>
+<p> Avg shrs		  14,842		   13,911</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>	   9 MONTHS</p>
+<p> Shr dil profit	   $1.40     loss	 $0.15</p>
+<p> Net profit		22,263   profit	    15</p>
+<p> Revs		   1,698,825		1,202,050</p>
+<p> Avg shrs		  14,975		   10,265</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: 1995 9-mos net and shr includes extraordinary charge of $1.4 million, or $0.14 per share, on early debt retirement.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES PLAINES, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

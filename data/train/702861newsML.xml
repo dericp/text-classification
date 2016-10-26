@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702861" id="root" date="1997-07-02" xml:lang="en">
+<title>UK: Australian/N.Z. wool prices for June.</title>
+<headline>Australian/N.Z. wool prices for June.</headline>
+<dateline>LONDON 1997-07-02</dateline>
+<text>
+<p>The Commonwealth Secretariat estimated Australian and New Zealand wool prices for June, 1997 as follows, in pence per kilo clean, cif UK dry-combed.</p>
+<p>   70s 510	  64s 423	  60s 321	  58s 295</p>
+<p>   56s 275	  50s 236	  48s 215	  46s 191</p>
+<p>Prices are based on quotations from sales in Australia and New Zealand and represent unweighted average for super, good and average fleeces and skirting (free and light burry). Quotes for 56s and coarser are confined to New Zealand wools.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

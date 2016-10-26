@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146748" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: Dynamic Materials Corp Q3 net, share rise.</title>
+<headline>Dynamic Materials Corp Q3 net, share rise.</headline>
+<dateline>LAFAYETTE, Colo. 1996-10-28</dateline>
+<text>
+<p>(Unaudited)</p>
+<p>			   Three Months Ended   Nine Months Ended</p>
+<p>				September 30	  September 30</p>
+<p>			 1996	   1995	  1996	  1995</p>
+<p> NET SALES    $7,754,903   $5,680,929 $19,458,900 $12,282,723</p>
+<p> NET INCOME	441,318	378,483     945,318     392,368</p>
+<p> PRIMARY E.P.S.     0.17	   0.15	  0.38	  0.16</p>
+<p>WEIGHTED AVERAGE</p>
+<p>  SHARES	 2,527,000    2,495,000   2,516,796   2,493,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAFAYETTE, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

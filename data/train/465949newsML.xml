@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465949" id="root" date="1997-03-25" xml:lang="en">
+<title>CHILE: Chile February retail sales fall one percent.</title>
+<headline>Chile February retail sales fall one percent.</headline>
+<dateline>SANTIAGO 1997-03-25</dateline>
+<text>
+<p>Chilean retail sales fell one percent in February from the same month last year, while sales grew 5.8 percent in January, said the National Chamber of Commerce.</p>
+<p>February was the first month sales have fallen since November 1994, when they dropped 0.8 percent, said chamber president Alfonso Mujica.</p>
+<p>The figures showed sales increased 2.3 percent in the first two months of the year compared with the January-February period last year.  </p>
+<p>Sharpest increases in sales were seen in the footware industry, up 28 percent, and clothing sales, which grew 19 percent in the first two months of the year.</p>
+<p>Lower sales were seen in the furniture sector, down 22 percent and construction material distribution which fell 17 percent.</p>
+<p>((-- Margaret Orgill, Santiago newsroom, 562-699-5595x212))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

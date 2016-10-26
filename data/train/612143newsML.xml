@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="612143" id="root" date="1997-05-24" xml:lang="en">
+<title>UK: SOCCER-KILMARNOCK END 68-YEAR WAIT FOR CUP SUCCESS.</title>
+<headline>SOCCER-KILMARNOCK END 68-YEAR WAIT FOR CUP SUCCESS.</headline>
+<dateline>GLASGOW 1997-05-24</dateline>
+<text>
+<p>Kilmarnock won the Scottish Cup for the first time since 1929 with a 1-0 win over Falkirk in a tense final at Ibrox on Saturday.</p>
+<p>A 21st minute close-range goal from Paul Wright, troubled by a gashed knee in the lead-up to the final, proved decisive although Falkirk looked to have equalised with five minutes left.</p>
+<p>The ball was bundled into the Kilmarnock net by Neil Oliver but his celebrations were cut short by an offside flag which replays showed was justified.</p>
+<p>Otherwise, the 112th Scottish Cup final was scarcely a classic but always held the attention of a crowd of just under 49,000. It was only the seventh Scottish final since 1957 not to feature either Rangers or Celtic.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

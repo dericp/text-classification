@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68121" id="root" date="1996-09-20" xml:lang="en">
+<title>AUSTRALIA: RTRS - Australia industrial disputes down in June.</title>
+<headline>RTRS - Australia industrial disputes down in June.</headline>
+<dateline>CANBERRA 1996-09-20</dateline>
+<text>
+<p>Australia lost 133,400 working days through industrial disputes in June, down 19 percent on the 164,000 days lost in May, the Australian Bureau of Statistics said on Friday.</p>
+<p>The figure compared with the 39,100 working days lost in June a year ago, the bureau said.</p>
+<p>There were 52 disputes in June, involving 156,400 workers, compared with 57 disputes in May, involving 185,600 workers.</p>
+<p>&quot;The construction industry reported the most working lost (103,700), which represented 78 percent of all working days lost during the month,&quot; the bureau said.  </p>
+<p>&quot;This was the highest number of days lost in this industry since November 1981 (119,200).&quot;</p>
+<p>New South Wales was the worst hit state, losing 50,800 working days.</p>
+<p>However, the figure was down from the 64,700 working days lost in May.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

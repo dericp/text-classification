@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611384" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Nippon Carbureter -96/97 parent results.</title>
+<headline>Nippon Carbureter -96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 17.47		vs	   16.91</p>
+<p> Operating	 prft 68 million	  vs   loss 699    million</p>
+<p> Current	   prft 65 million	  vs   loss 721    million</p>
+<p> Net		  prft 2 million	  vs   loss 811    million</p>
+<p> EPS	     prft 0.20 yen	  vs    loss 81.14 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares	     10 million	  vs	  10 million</p>
+<p> Ord div		 nil		vs	     nil</p>
+<p>NOTE - Nippon Carbureter Co Ltd is involved in the manufacture of specialised carburetors.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

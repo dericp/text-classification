@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125520" id="root" date="1996-10-17" xml:lang="en">
+<title>FINLAND: Tamro targets 15 pct EPS growth per year.</title>
+<headline>Tamro targets 15 pct EPS growth per year.</headline>
+<dateline>HELSINKI 1996-10-17</dateline>
+<text>
+<p>Finnish pharmaceutical wholesaler Tamro Oy Ab said on Thursday its board had set a long-term target of 15 percent growth in earnings per share a year.</p>
+<p>&quot;The earnings per share are to increase by over 15 percent annually,&quot; it said in a statement with its interim report.</p>
+<p>&quot;The target for the return on equity is to exceed the yield of long-term risk-free markka investments by five percentage points,&quot; it added.</p>
+<p>-- Helsinki Newsroom +358-9-680 50 242</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

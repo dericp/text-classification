@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="318545" id="root" date="1997-01-20" xml:lang="en">
+<title>EL SALVADOR: Three killed in soccer dispute in El Salvador.</title>
+<headline>Three killed in soccer dispute in El Salvador.</headline>
+<dateline>SAN SALVADOR, El Salvador 1997-01-20</dateline>
+<text>
+<p>An argument following a local soccer match in El Salvador turned deadly when one of the players set off a hand grenade, killing two and injuring three, including himself, police said on Monday.</p>
+<p>Tomas Ortiz, 18, and Francisco Ortiz, 45, died on Sunday from injuries sustained by the grenade blast, police said. The two were related but officials were unsure how.</p>
+<p>Police said the grenade was triggered following the Sunday match by Concepcion Miranda, a former army soldier and member of the opposing team. Miranda, who was jailed pending charges, allegedly stole the grenade from an army armory.</p>
+<p>The argument developed after a victory celebration by one of the teams, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR, El Salvador"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

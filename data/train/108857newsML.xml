@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108857" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: Good Guys Q4 same store sales fall.</title>
+<headline>Good Guys Q4 same store sales fall.</headline>
+<dateline>SAN FRANCISCO 1996-10-10</dateline>
+<text>
+<p>Good Guys Inc said total sales for the fourth quarter ended September 30, 1996 were $212.0 million, down from $213.5 million in the year-ago fourth quarter. It said same store sales in the quarter fell 10 percent.</p>
+<p>For the fiscal year ended September 30, it said sales rose four percent to $925.7 million, and same store sales fell eight percent.</p>
+<p>During the quarter, the company opened one store in Oregon and relocated its San Jose, Calif., store to a larger site.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

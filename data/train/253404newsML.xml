@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253404" id="root" date="1996-12-12" xml:lang="en">
+<title>SWEDEN: Sweden's LKAB to invest 394 mln SKR in mining ops.</title>
+<headline>Sweden's LKAB to invest 394 mln SKR in mining ops.</headline>
+<dateline>STOCKHOLM 1996-12-12</dateline>
+<text>
+<p>Swedish state-owned mining company LKAB said on Thursday that it will invest 394 million crowns to mine iron ore that partly is located under lake Luossajarvi in Kiruna, Sweden.</p>
+<p>The ore is part of the main iron ore body in Kiruna and the investment is expected to extend the new main level's life span by four years, the company said in a statement.</p>
+<p>&quot;We will thereby increase our iron ore base by about 100 million tonnes and secure mining in Kiruna during a long period,&quot; project leader Jan-Olov Nilsson told Reuters.</p>
+<p>The decision also means that the old investments will get a longer lifespan, he said.</p>
+<p>As the iron ore has a relatively high phosphate content, it is planned to be used for pellets.</p>
+<p>Mining is expected to start in 2001, LKAB said. Preparations will start in 1997 with a dam construction, the company said. In 1998, LKAB will start draining the lake, a project expected to be finalised in the year 2002.</p>
+<p>-- Stockholm newsroom, +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

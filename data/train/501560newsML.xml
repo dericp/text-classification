@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="501560" id="root" date="1997-04-10" xml:lang="en">
+<title>JAPAN: Tokyo stocks end down, NCB fails to ignite market.</title>
+<headline>Tokyo stocks end down, NCB fails to ignite market.</headline>
+<dateline>TOKYO 1997-04-10</dateline>
+<text>
+<p>Tokyo stocks ended with losses on Thursday as buying of bank shares on news of a business tie-up between Nippon Credit Bank Ltd (NCB) and Bankers Trust New York Corp waned in the afternoon session, brokers said.</p>
+<p>The 225-share Nikkei average lost 217.62 points or 1.23 percent to 17,485.75. Its June futures were 220 points down at 17,490.</p>
+<p>&quot;There were hopes in the morning the NCB news would boost bank shares but support was short-lived,&quot; said Harushige Kobayashi, Yamaichi Securities Co Ltd deputy general manager.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

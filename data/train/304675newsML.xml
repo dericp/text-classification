@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="304675" id="root" date="1997-01-13" xml:lang="en">
+<title>FRANCE: French stocks set new life high in early trading.</title>
+<headline>French stocks set new life high in early trading.</headline>
+<dateline>PARIS 1997-01-13</dateline>
+<text>
+<p>The French stockmarket's blue chip CAC-40 index set a new life high of 2,365.51 points on Monday at 0910 GMT, surpassing the previous record of 2,360.98 set in February 1994.</p>
+<p>The index was up 1.6 percent in early trading after Wall Street set a fresh closing record on Friday.  </p>
+<p>&quot;The bourse is swept up by Wall Street, by the bond markets and by expectations of higher corporate results in France for 1997,&quot; said Jean-Pierre Filbien, director of sales at Deutsche Morgan Grenfell in Paris.</p>
+<p>The French stockmarket had been lagging other bourses, which broke one record after another last year.</p>
+<p>Wall Street's Dow Jones industrial average set its fourth closing record for the week on Friday after rising 78 points to close above 6,700 points.</p>
+<p>The CAC-40 January futures contract was 35 points higher at 2,366.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

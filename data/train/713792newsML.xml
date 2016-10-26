@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="713792" id="root" date="1997-07-08" xml:lang="en">
+<title>SRI LANKA: Tamil Tiger rebels capture Sri Lanka food ship.</title>
+<headline>Tamil Tiger rebels capture Sri Lanka food ship.</headline>
+<dateline>COLOMBO 1997-07-08</dateline>
+<text>
+<p>Tamil Tiger separatists have seized a ship used for transporting food from the capital Colombo to northern Jaffna, and taken it to their northeastern Mullaitivu base, navy officials in the north said on Tuesday.</p>
+<p>They said Liberation Tigers of Tamil Eelam (LTTE) rebels captured the vessel and its crew of 10 while it was anchored some eight km (five miles) off Point Pedro on Jaffna peninsula late on Monday. Initial reports said there was no food on board.  </p>
+<p>A navy spokesman in Colombo told Reuters he did not have any information about the incident.</p>
+<p>Navy officials in the north said the rebels took the ship at around 8 p.m. (1400 GMT, Monday) after forcibly boarding it.</p>
+<p>The LTTE rebels, who are fighting for an independent homeland for minority Tamils in Sri Lanka's north and east, torched a refugee ship off the island's northwestern coast last week and took away its nine crew, including two Indonesians.</p>
+<p>The Indonesians were released last Friday on orders of LTTE leader Vellupillai Prabahakaran, the rebels said. The LTTE had earlier denied they torched the ship and kidnapped the crew.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

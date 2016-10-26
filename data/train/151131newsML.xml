@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="151131" id="root" date="1996-10-29" xml:lang="en">
+<title>USA: AccuMed gets U.S. patent on blood culture bottle.</title>
+<headline>AccuMed gets U.S. patent on blood culture bottle.</headline>
+<dateline>CHICAGO 1996-10-29</dateline>
+<text>
+<p>AccuMed International Inc said Tuesday the U.S. Patent and Trademark Office granted it a patet on a dual-chamber blood culture bottle.</p>
+<p>&quot;The technology covered by this patent reduces the cost of blood culture testing while minimizing the amount of biohazardous waste generated, thereby enhancing laboratory safety,&quot; Dr. Richard Domanik, vice president of technology, said in a statement.  </p>
+<p>AccuMed, a global laboratory diagnostic products company, said it has obtained, through acquisitions or licenses, 17 patents in the cytopathology and microbiology fields and has 28 patent applications in process with the Patent and Trademark Office.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

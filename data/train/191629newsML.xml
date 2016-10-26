@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191629" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: ACT Teleconferencing Inc Q3 loss deepens.</title>
+<headline>ACT Teleconferencing Inc Q3 loss deepens.</headline>
+<dateline>GOLDEN, Colo. 1996-11-14</dateline>
+<text>
+<p>Third Quarter Ended   Nine Months Ended</p>
+<p>				September 30,	  September 30,</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net revenue	$ 1,579,194 $ 919,810$ 4,516,740$ 2,542,341</p>
+<p>Cost of goods</p>
+<p>   and services     1,031,882   526,182  2,779,585  1,417,762</p>
+<p>Marketing, general</p>
+<p>   &amp; admin.	     921,803   442,869  2,361,982  1,104,626</p>
+<p> Net loss	     (396,010) (117,819)  (753,368)  (141,161)</p>
+<p> Net loss per share     (.13)     (.05)	(.26)	(.07)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOLDEN, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

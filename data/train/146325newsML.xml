@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="146325" id="root" date="1996-10-27" xml:lang="en">
+<title>USA: Clinton congratulates Yankee manager.</title>
+<headline>Clinton congratulates Yankee manager.</headline>
+<dateline>SPRINGFIELD, Va. 1996-10-27</dateline>
+<text>
+<p>President Clinton Sunday called New York Yankee manager Joe Torre to congratulate him on the team's World Series victory, White House spokesman Barry Toiv told reporters.</p>
+<p>The Yankees defeated the Atlanta Braves, 3-2, Saturday night to win the series, four games to two.</p>
+<p>&quot;You guys really showed your stuff,&quot; Toiv quoted Clinton as telling Torre. The Yankees won four straight games after the Braves won the first two games of the series.</p>
+<p>Toiv said Clinton also asked Torre about the the health of his brother Frank, who had a heart transplant operation Friday.</p>
+<p>Clinton made the call from a high school field after a rally marking the start of a three-day re-election campaign swing. Toiv said Clinton also planned to call the Braves.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGFIELD, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

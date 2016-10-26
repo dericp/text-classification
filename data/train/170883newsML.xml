@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="170883" id="root" date="1996-11-06" xml:lang="en">
+<title>FRANCE: Bloomberg Information TV joins Canalsatellite.</title>
+<headline>Bloomberg Information TV joins Canalsatellite.</headline>
+<dateline>PARIS 1996-11-06</dateline>
+<text>
+<p>Canalsatellite, the digital satellite pay-television service of Canal Plus, said it had signed an exclusive deal with Bloomberg Information TV to carry a French language service.</p>
+<p>The service, launched by Bloomberg in collaboration with French news agency Agence France Presse (AFP) and business radio station BFM, will be part of Canalsatellite's basic service from November 16 and will run 24 hours a day in December.</p>
+<p>Using split screens, viewers can watch television reports on economic, financial and general news in the upper part of the screen while reading AFP headlines at the bottom.</p>
+<p>Canalsatellite gave no financial details.</p>
+<p>Bloomberg L.P. is an unlisted financial information and media group majority owned by founder Michael Bloomberg. U.S. investment bank Merrill Lynch also has a stake.</p>
+<p>-- Paris newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

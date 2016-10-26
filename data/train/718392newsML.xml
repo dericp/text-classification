@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="718392" id="root" date="1997-07-10" xml:lang="en">
+<title>USA: Gibbs says poised to return to profit.</title>
+<headline>Gibbs says poised to return to profit.</headline>
+<dateline>GARLAND, Texas 1997-07-10</dateline>
+<text>
+<p>Gibbs Construction Inc said Thursday it is poised to return to profitability in the last half of 1997.</p>
+<p>The company said it has entered into contracts totalling more than $5 million for: Just for Feet Inc in Denver; Jo Anns Fabrics in Las Vegas; Pier 1 Imports Inc in Longmont, Colo.; and Microtel Hotels in Longview, Texas.  </p>
+<p>&quot;With these new contracts, plus the $15 million of contracts completed or in progress, Gibbs Construction is poised for a return to profitability in the last half of 1997. The company's retail construction continues to be robust and should yield record revenues of approximately $50 million,&quot; the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GARLAND, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

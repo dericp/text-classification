@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19815" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: Woolwich Building Society seeks 300 mln stg.</title>
+<headline>Woolwich Building Society seeks 300 mln stg.</headline>
+<text>
+<p>LONDON, Aug 28 (LPC) - The Woolwich Building Society has mandated JP Morgan to arrange a 300 million stg revolving credit facility, market sources said.</p>
+<p>The facility includes a $225 million swingline option for same-day advances in US dollars.</p>
+<p>The loan will be used to provide the Woolwich with additional liquidity backstop financing.</p>
+<p>The credit bears interest at 15 bps over LIBOR and carries a commitment fee of 7 bps.</p>
+<p>In May 1995 Woolwich borrowed 300 million stg via a group led by Morgan and WestLB. That five-year deal was priced 18 bps over LIBOR with a 7.25 bps commitment fee.</p>
+<p>--LPC Newsroom 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

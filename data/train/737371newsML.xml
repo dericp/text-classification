@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="737371" id="root" date="1997-07-17" xml:lang="en">
+<title>FRANCE: French govt pledges no austerity, no decisions yet.</title>
+<headline>French govt pledges no austerity, no decisions yet.</headline>
+<dateline>PARIS 1997-07-17</dateline>
+<text>
+<p>The French government will not impose a new austerity plan to curb the budget deficit to qualify for a single European currency but has taken no final decision on how it will tackle this year's expected shortfall, a government spokeswoman said on Thursday.</p>
+<p>&quot;We have not made any decisions,&quot; government spokeswoman Catherine Trautmann said after a ministerial meeting to discuss new budget measures ahead of the release of an audit on Monday on the state of public finances.  </p>
+<p>Trautmann told reporters that decisions would be taken after the submission of the audit, which government sources say is likely to show the deficit running at more than 3.5 percent of gross domestic product.</p>
+<p>Asked whether the government was considering a new austerity plan to bring down the deficit, Trautmann said, &quot;No, it is out of the question&quot;.</p>
+<p>France's new Socialist-led government has said it will take action to curb the budget deficit if needed but has ruled out new austerity just to meet a strict interpretation of Maastricht treaty criteria on monetary union.</p>
+<p>It is expected to use a mix of tax increases on companies and the rich and savings to bring down the deficit to around 3.3 percent of GDP.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

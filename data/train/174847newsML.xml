@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="174847" id="root" date="1996-11-07" xml:lang="en">
+<title>JAPAN: Japan cabinet resigns, new team expected Thursday.</title>
+<headline>Japan cabinet resigns, new team expected Thursday.</headline>
+<dateline>TOKYO 1996-11-07</dateline>
+<text>
+<p>Prime Minister Ryutaro Hashimoto's cabinet, which took office in January, formally resigned after holding a special meeting on Thursday, government sources said.</p>
+<p>Hashimoto, who heads the Liberal Democratic Party (LDP), is set to be re-elected prime minister when parliament reconvenes at 2 p.m. (0500 GMT) and is expected to name a new cabinet later in the day.</p>
+<p>Hashimoto is certain to win the majority of votes in the new 500-seat Lower House on the strength of a loose alliance his party formed last week with the Social Democrats and the tiny Sakigake party.</p>
+<p>But Hashimoto in effect will lead a minority government because his party first failed to win a Lower House majority on its own in general elections held last month and then failed to renew a straightforward coalition with its two allies.</p>
+<p>As a result, Hashimoto's new 20-member cabinet is expected to be an all-LDP team for the first time since 1993.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

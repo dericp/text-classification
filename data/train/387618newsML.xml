@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="387618" id="root" date="1997-02-19" xml:lang="en">
+<title>ROMANIA: Romanian cen.bank gives up computing leu rates.</title>
+<headline>Romanian cen.bank gives up computing leu rates.</headline>
+<dateline>BUCHAREST 1997-02-19</dateline>
+<text>
+<p>Romania's central bank (BNR) said on Wednesday it would no longer compute the reference rate for the local leu currency in the latest of a series of moves to liberalise the foreign exchange market.</p>
+<p>&quot;The new reality on the foreign exchange market was behind the BNR's decision to give up computing the reference rate,&quot; a BNR statement said.</p>
+<p>The reference rate, computed since August 1994 when the BNR introduced a free-floating foreign exchange market, was a weighted average based on daily reports of market operators. It was a guidance rate used for statistical accounting purposes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

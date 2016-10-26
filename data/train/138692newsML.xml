@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138692" id="root" date="1996-10-23" xml:lang="en">
+<title>VIETNAM: Vietnam to sell 70 bln dong worth of T-notes.</title>
+<headline>Vietnam to sell 70 bln dong worth of T-notes.</headline>
+<dateline>HANOI 1996-10-23</dateline>
+<text>
+<p>Vietnam will auction 70 billion dong ($6.32 million) worth of one-year Treasury notes later today, an official at the State Bank of Vietnam said on Wednesday.</p>
+<p>At the last sale of government paper, on October 9, the central bank issued 70 billion dong worth of one-year notes to domestic institutions at an annual rate of 7.90 percent.</p>
+<p>There have been 13 such sales so far this year, through which a total of 860 billion dong worth of Treasury stock has been issued. The central bank is aiming to hold one auction every two weeks to lay the ground for a future secondary market.</p>
+<p>Rates have fallen sharply in recent months, partly due to a dong surplus in the banking system. At the first sale of the year, on March 1, the state bank sold six-month bills at a rate of 15.00 percent.</p>
+<p>($1 = 11,070 dong)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="604810" id="root" date="1997-05-22" xml:lang="en">
+<title>ZAIRE: Kabila's forces take new Congo's only seaport - TV.</title>
+<headline>Kabila's forces take new Congo's only seaport - TV.</headline>
+<dateline>KINSHASA 1997-05-22</dateline>
+<text>
+<p>Laurent Kabila's forces seized control of his new Democratic Republic of Congo's only seaport of Matadi on the Atlantic coast, state television said on Thursday.</p>
+<p>It said Kabila's AFDL took Matadi, close to the border with Angola, &quot;without meeting any resistance&quot;, but did not say when.  </p>
+<p>Matadi is also a rail terminal located close to the former Zaire's only refinery and huge Inga hydro-electric dam. It was the only major city not yet under control of Kabila's guerrillas who captured the capital Kinsaha on Saturday.</p>
+<p>Many former soldiers loyal to ousted dictator Mobutu Sese Seko were reported fleeing in the direction of Matadi. Officials in Angola said on Thursday about 25,000 people, including armed men, had crossed over from Kabila's Congo.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINSHASA"/>
+<dc element="dc.creator.location.country.name" value="ZAIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

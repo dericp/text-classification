@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84648" id="root" date="1996-09-30" xml:lang="en">
+<title>CHINA: Soccer - Results of China soccer league games.</title>
+<headline>Soccer - Results of China soccer league games.</headline>
+<dateline>BEIJING 1996-09-30</dateline>
+<text>
+<p>Results of the 18th round</p>
+<p>matches of China's professional soccer league played on Sunday:</p>
+<p> August First	  2   Guangzhou Apollo    1</p>
+<p> Beijing Guoan	 0   Dalian Wanda	  0</p>
+<p> Jinan Taishan	 1   Shanghai Shenhua    0</p>
+<p> Tianjin Samsung     3   Shenzhen		1</p>
+<p> Yanbian Hyundai     3   Guangzhou Songri    1</p>
+<p> Sichuan Quanxing    1   Guangdong Hongyuan  0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

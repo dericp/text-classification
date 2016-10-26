@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="308410" id="root" date="1997-01-15" xml:lang="en">
+<title>HUNGARY: Hungary Nov s/a constructions fall 3.6 pct m/m.</title>
+<headline>Hungary Nov s/a constructions fall 3.6 pct m/m.</headline>
+<dateline>BUDAPEST 1997-01-15</dateline>
+<text>
+<p>November Hungarian constructions fell a seasonally adjusted 3.6 percent in volume terms month on month, the Central Statistical Office (CSO) said on Wednesday.</p>
+<p>Compared to November 1995, the industry grew 9.6 percent, the CSO added.</p>
+<p>Most of the monthly drop came from an 18.6-percent fall in specialised building and fitting industry, which was partly offset by a 12.5-percent increase in maintainance and refurbishments and by a 1.4-percent rise in high-rise constructions.</p>
+<p>Underground construction shrunk 1.5 percent from October.</p>
+<p>-- Budapest newsroom (36 1) 327 40 40</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

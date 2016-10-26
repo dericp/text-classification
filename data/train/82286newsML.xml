@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82286" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Sept 27.</title>
+<headline>PRESS DIGEST - Washington Post business - Sept 27.</headline>
+<dateline>WASHINGTON 1996-09-27</dateline>
+<text>
+<p>The Washington Post carried the following items on the front page of its business section on Sept 27:</p>
+<p>---</p>
+<p>WASHINGTON - Union janitors who clean nearly half the commercial office buildings in the District are threatening a citywide strike on Monday if they fail to reach agreement on a new contract.</p>
+<p>---</p>
+<p>ABOARD FLIGHT 21 - Cheers erupted from many passengers as they celebrated the maiden voyage of a tiny new airline with a big name - Pan American World Airways.</p>
+<p>---</p>
+<p>WASHINGTON - The Transportation Department declared ValuJet Airlines fit to return to the skies after a three-month shutdown after following a fatal crash in the Everglades last May.</p>
+<p>---</p>
+<p>WASHINGTON - A real estate development group has been briefing government officials and civic groups in Virginia on an ambitious plan to redevelop the Potomac Yard site.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

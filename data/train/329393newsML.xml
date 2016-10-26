@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="329393" id="root" date="1997-01-23" xml:lang="en">
+<title>JAPAN: Japan minister urges power utilities to cut fees.</title>
+<headline>Japan minister urges power utilities to cut fees.</headline>
+<dateline>TOKYO 1997-01-23</dateline>
+<text>
+<p>Japan's trade minister is urging heads of the power utility industry to reduce electricity fees to a level comparable with those overseas, a government official said on Thursday.</p>
+<p>Minister of International Trade and Industry Shinji Sato made the request in a meeting with leaders of the Federation of Electric Power Companies, the official said.</p>
+<p>&quot;The government has pledged to try to bring electricity fee down to international levels,&quot; the MITI official said.</p>
+<p>He said the issue was raised at Wednesday's meeting between the minister and industry chiefs.</p>
+<p>Based on last September's foreign exchange rates, the electricity fee paid by the average Japanese home was roughly 30 percent higher than in the United States and 20 percent higher than in Germany.</p>
+<p>Japan's wholesale electricity business was liberalised following a revision in a utility industry law on December 1995 paving the way for non-utilities to sell electricity on a wholesale basis to power companies.</p>
+<p>Tokyo Energy Desk +81-3-5473-3706</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

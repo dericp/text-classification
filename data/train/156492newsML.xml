@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156492" id="root" date="1996-10-31" xml:lang="en">
+<title>MEXICO: Mexico stocks close higher on bottom-fishing.</title>
+<headline>Mexico stocks close higher on bottom-fishing.</headline>
+<dateline>MEXICO CITY 1996-10-31</dateline>
+<text>
+<p>Mexican stocks rebounded from an early decline to close higher on Thursday as bargain hunters finally stepped in to the market, traders said.</p>
+<p>&quot;Domestic and foreign bottom-fishing buyers stepped in. Anyone with cash to buy got rich today,&quot; a trader said.</p>
+<p>The blue chip IPC index closed up 50.84 points, or 1.61 percent, at 3,213.33 points. Volume was very heavy, at 160 million shares traded.</p>
+<p>Other traders and analysts said many investors were closing month-end positions, and that the bourse was also boosted by Mexican ADRs listed in New York.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

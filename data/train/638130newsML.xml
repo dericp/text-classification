@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638130" id="root" date="1997-06-04" xml:lang="en">
+<title>GERMANY: Kohl leaves for U.S. after Bundesbank row.</title>
+<headline>Kohl leaves for U.S. after Bundesbank row.</headline>
+<dateline>BONN 1997-06-04</dateline>
+<text>
+<p>German Chancellor Helmut Kohl left Bonn on Wednesday for a two-day visit to the United States after a stormy parliament debate on his government's controversial plan to revalue Bundesbank assets.</p>
+<p>Kohl was due to be greeted by U.S. President Bill Clinton at the White House on Wednesday evening and dine with him in an Italian restaurant.</p>
+<p>Earlier, Kohl's majority in parliament beat back an opposition motion to sack Finance Minister Theo Waigel over his bid to force the Bundesbank to help Germany qualify for Europe's single currency by revaluing some of its assets.</p>
+<p>On Thursday, Kohl was set to become the first person to receive the new George C. Marshall prize at celebrations to mark the 50th anniversary of the post-war Marshall Plan, which the former U.S. Secretary of State launched on June 5, 1947.</p>
+<p>Kohl was also due to meet U.S. journalists and visit the Arlington cemetery, where eminent Americans, including former President John F. Kennedy, are buried.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

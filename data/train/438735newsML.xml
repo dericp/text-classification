@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="438735" id="root" date="1997-03-13" xml:lang="en">
+<title>HUNGARY: HUNGARY CUSTOMS SEIZE CIGARETTES WORTH $1 MLN.</title>
+<headline>HUNGARY CUSTOMS SEIZE CIGARETTES WORTH $1 MLN.</headline>
+<dateline>BUDAPEST 1997-03-13</dateline>
+<text>
+<p>Hungarian customs officials seized over 80,000 cartons of American cigarettes worth $1 million hidden in two Macedonian-registered trucks on the Hungarian-Yugoslav border, an offical said Thursday.</p>
+<p>&quot;The cigarettes were discovered in two refigerated trucks, one which came through the border post of Roszke yesterday morning and one yesterday evening,&quot; customs spokesman Jeno Sipo told Reuters.</p>
+<p>The first truck was carrying frozen peppers and the second a consignment of apples, he said.</p>
+<p>Customs officials' suspicions had been raised by the fact that the goods, which were bound for Germany, were not being kept at freezing temperatures.</p>
+<p>&quot;We were suspicious when we discovered the cargoes were being carried at zero degrees and not colder,&quot; he said.</p>
+<p>The two drivers, both with Macedonian passports, were being held pending further investigation, Sipos said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

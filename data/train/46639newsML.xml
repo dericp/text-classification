@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46639" id="root" date="1996-09-11" xml:lang="en">
+<title>USA: U.S. sending stealth fighters to Iraq area.</title>
+<headline>U.S. sending stealth fighters to Iraq area.</headline>
+<dateline>WASHINGTON 1996-09-11</dateline>
+<text>
+<p>The United States will send F-117A &quot;stealth&quot; fighters to the region near Iraq to back up threats of possible new American attacks against Iraqi military targets, U.S. Defense Secretary William Perry said on Wednesday.  </p>
+<p>&quot;We will be sending the F-117s. They already have the deployment order,&quot; Perry told reporters in response to questions. He would not say where the fighters were going but said another country in the area -- not Saudi Arabia -- had given permission to temporarily base the radar-avoiding jets.</p>
+<p>U.S. defence officials said earlier the United States had already sent B-52 heavy bombers armed with cruise missiles to the British base on the island of Diego Garcia in the Indian Ocean.</p>
+<p>Perry said Washington had not asked Saudi Arabia, where other American warplanes are currently based, to accept the F-117s. Such planes were flown from Saudi Arabian bases and used with devastating accuracy against Iraqi targets during the 1991 Gulf War.</p>
+<p>&quot;We did not request the Saudis for permission to base the F-117s,. We requested another country. That request has been granted and we will be sending the F-117s,&quot; the secretary said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

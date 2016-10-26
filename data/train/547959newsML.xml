@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="547959" id="root" date="1997-04-29" xml:lang="en">
+<title>USA: Supertex Inc Q4 net income.</title>
+<headline>Supertex Inc Q4 net income.</headline>
+<dateline>SUNNYVALE, Calif. 1997-04-28</dateline>
+<text>
+<p>Fourth Quarter Ended  Fiscal Year Ended</p>
+<p>					   March 31,	 March 31,</p>
+<p>					1997	1996    1997     1996</p>
+<p>			   (in thousands, except per share amounts)</p>
+<p> Net Sales		    $  12,705 $ 12,168  48,935$  42,802</p>
+<p> Cost of Sales		    6,983    6,276  26,073   22,097</p>
+<p>   Gross Profit		   5,722    5,892  22,862   20,705</p>
+<p> Research and development     1,446    1,588   5,306    5,647</p>
+<p>Selling, general and</p>
+<p>  administrative		  1,628    1,535   6,226    5,700</p>
+<p>    Income from operations    2,648    2,769  11,330    9,358</p>
+<p> Interest and other income	391	390   1,493    1,354</p>
+<p> Income before income taxes   3,039    3,159  12,823   10,712</p>
+<p> Provision for income taxes     972	979   4,103    3,321</p>
+<p>     Net income		   2,067    2,180   8,720    7,391</p>
+<p> Net income per share	    0.17     0.18    0.70     0.60</p>
+<p>Shares used in per</p>
+<p>  share computation	    12,395   12,357  12,509   12,296</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

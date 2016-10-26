@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="508451" id="root" date="1997-04-14" xml:lang="en">
+<title>AUSTRIA: VA Tech gets big German refinery order.</title>
+<headline>VA Tech gets big German refinery order.</headline>
+<dateline>VIENNA 1997-04-14</dateline>
+<text>
+<p>Voest-EBG Anlagentechnik (VEA), a subsidiary of VA Tech units Voest-Alpine MCE and Elin EBG Elektrotechnik, said on Monday it had received an order worth 500 million schillings from a German refinery.</p>
+<p>The order, given by Elf Aquitaine's majority-owned Mitteldeutsche Erdoelraffinerie GmbH, is for maintenance work on the newly-built refinery Leuna 2000, the company said in a statement.</p>
+<p>The contract has a duration of five years. -- Vienna newsroom, +431 531 12256</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="438485" id="root" date="1997-03-13" xml:lang="en">
+<title>USA: Tetra Tech signs contract for $230 mln.</title>
+<headline>Tetra Tech signs contract for $230 mln.</headline>
+<dateline>PASADENA, Calif. 1997-03-13</dateline>
+<text>
+<p>Tetra Tech Inc on Thursday said it has signed a contract valued at $230 million to provide scientific and engineering services for the U.S. Evironmental Protection Agency Region 5 Superfund program.</p>
+<p>The contract follows a $250 million deal for Region 6 that was signed in September and it is part of a larger package of work for which Tetra-Tech won the right to negotiate in 1996.</p>
+<p>Under the new deal, Tetra-Tech will perform site investigations, remedial design, remedial actions/operations and other services at hazardous waste sites Illinois, Indiana, Ohio, Michigan, Wisconsin and Minnesota.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

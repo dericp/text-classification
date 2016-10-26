@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="468493" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Columbia/HCA probed on referrals, rewards - WSJ.</title>
+<headline>Columbia/HCA probed on referrals, rewards - WSJ.</headline>
+<dateline>NEW YORK 1997-03-26</dateline>
+<text>
+<p>Federal investigators in Texas were examing how Columbia/HCA Healthcare Corp rewarded doctors which joined its network and its method of patient referrals, the Wall Street Journal said in Wednesday's electronic edition.</p>
+<p>Federal agents have shown an interest in interviewing those who brought lawsuits against Columbia/HCA of Nashville, Tenn. over patient referral practices, the paper said.</p>
+<p>It cited people who had been interviewed by federal agents as its sources.</p>
+<p>Columbia/HCA was not immediately available to comment.</p>
+<p>The company said in the paper it still had not been notified as to the nature of the investigation.</p>
+<p>On March 19, it said its El Paso, Texas operations were served with search warrants in connection with a federal investigation.</p>
+<p>--New York newsdesk 212-859-1610--</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

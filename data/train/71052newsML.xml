@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="71052" id="root" date="1996-09-23" xml:lang="en">
+<title>UK: ACPC confident of Mexico, Guatemala membership.</title>
+<headline>ACPC confident of Mexico, Guatemala membership.</headline>
+<dateline>LONDON 1996-09-23</dateline>
+<text>
+<p>The Association of Coffee Producing Countries (ACPC) said on Monday it was confident both Mexico and Guatemala would eventually join the group.</p>
+<p>&quot;I am sure we will convince them (to join the ACPC) in the short-term,&quot; ACPC Secretary General Roberio Oliviera Silva told reporters outside a meeting of the International Coffee Organization (ICO).</p>
+<p>Mexico on Friday reaffirmed it had no intention of joining the ACPC's quota scheme and Guatemala said its coffee officials would not attend the meeting.  </p>
+<p>When asked if the rejections by Guatemala and Mexico could affect the ACPC unit, Oliviera said: &quot;I am sure we can convince the government and the private sector that being within the ACPC is more beneficial than being outside of it.&quot;</p>
+<p>--Julia Meehan, London newsroom +4471 542 79 28</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350288" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Airborne Freight Q4 shr $0.50 vs $0.56.</title>
+<headline>Airborne Freight Q4 shr $0.50 vs $0.56.</headline>
+<dateline>SEATTLE 1997-02-03</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>				  Three Months Ended  Year Ended</p>
+<p>				     December 31	December 31</p>
+<p>				 1996     1995	 1996	 1995</p>
+<p> Domestic Revenues   $556,454  $508,080 $2,108,670 $1,871,163</p>
+<p>International Revenues</p>
+<p>			     95,518    94,850    375,636    368,188</p>
+<p> Total Revenues	 651,972   602,930  2,484,306  2,239,351</p>
+<p>Depreciation &amp; Amortization</p>
+<p>			     42,421    38,580    163,645    144,362</p>
+<p>Loss Related to</p>
+<p>  Aircraft Accident     3,737	  --	3,737	   --</p>
+<p>Other Operating Expenses</p>
+<p>			    579,592   536,595  2,237,743  2,026,008</p>
+<p>Earnings from Operations</p>
+<p>			     26,222    27,755     79,181     68,981</p>
+<p> Interest, Net	    8,361     8,315     33,236     29,347</p>
+<p>Earnings Before Income Taxes</p>
+<p>			     17,861    19,440     45,945     39,634</p>
+<p> Income Taxes	     7,130     7,464     18,500     15,814</p>
+<p> Net Earnings	    10,731    11,976     27,445     23,820</p>
+<p>Preferred Stock Dividends</p>
+<p>				   66	  68	  271	  276</p>
+<p>Net Earnings Available</p>
+<p>to Common Shareholders</p>
+<p>			     10,665    11,908     27,174     23,544</p>
+<p>Net Earnings per</p>
+<p>  Common Share:  Primary  .50	 .56	 1.28	 1.11</p>
+<p>    Fully Diluted	   .48	 .53	 1.28	 1.11</p>
+<p>Average Primary Common</p>
+<p>   Shares Outstanding  21,249    21,309     21,282     21,204</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19058" id="root" date="1996-08-28" xml:lang="en">
+<title>ALBANIA: Albania asks Greece to explain deportations.</title>
+<headline>Albania asks Greece to explain deportations.</headline>
+<dateline>TIRANA 1996-08-28</dateline>
+<text>
+<p>Albania asked Greece on Wednesday to explain why it was deporting more Albanian immigrants, Foreign Minister Tritan Shehu said.</p>
+<p>The Albanian daily Koha Jone reported earlier that Greece had deported about 5,000 Albanians in the last five days.</p>
+<p>&quot;The Foreign Ministry is trying to find out from the Greek embassy why Albanian refugees have been deported from Greece,&quot; Shehu told Reuters.</p>
+<p>Athens and Tirana signed an accord in May to legalise the status of Albanian immigrant workers, estimated at 350,000, and remove a long-standing stumbling block in relations between the two Balkan neighbours.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

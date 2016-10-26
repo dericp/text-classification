@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="689737" id="root" date="1997-06-26" xml:lang="en">
+<title>FRANCE: Four French policemen probed on rape charges.</title>
+<headline>Four French policemen probed on rape charges.</headline>
+<dateline>BORDEAUX, France 1997-06-26</dateline>
+<text>
+<p>A French policeman was placed under investigation on rape charges and three others for complicity in rape on Thursday in the southwestern city of Bordeaux, justice sources said.</p>
+<p>One of the police officers was accused of taking a 33-year-old woman to her home and raping her on March 8 after she was in a car accident while under the influence of alcohol, the sources said.</p>
+<p>He was suspected of returning to her home a week later with the three other officers.</p>
+<p>The four men were questioned by police from the internal affairs department and the rapist was detained, the justice sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BORDEAUX, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

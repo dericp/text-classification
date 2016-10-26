@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64291" id="root" date="1996-09-19" xml:lang="en">
+<title>ISRAEL: Israel Aircraft debt accord sent to parliament.</title>
+<headline>Israel Aircraft debt accord sent to parliament.</headline>
+<dateline>TEL AVIV 1996-09-19</dateline>
+<text>
+<p>Finance Minister Dan Meridor submitted to the parliamentary finance committee a proposal enabling banks to renew credit to debt-ridden Israel Aircraft Industries, the ministry said.</p>
+<p>Under the accord the banks will reschedule $330 million in IAI debt for up to eight years and provide the state-owned company with $120 million in new credit, part of which will be backed by government guarantees, the Treasury said.</p>
+<p>At the same time the government will increase the company's equity by $122 million and the banks will release $180 million due IAI and frozen in closed accounts because of the company's debts.</p>
+<p>The ministry did not say when the committee would vote on the accord.</p>
+<p>&quot;IAI is facing temporary difficulties in cash flow because negotiations with the banks over a debt accord has lasted over two years. This is longer than expected,&quot; an IAI spokeswoman said.</p>
+<p>The accord, hammered out between the government, banks and IAI, wiil enable the company to pay off its debts to local suppliers, the IAI spokeswoman said.</p>
+<p>She would not disclose the size of the company's debts TO its suppliers.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

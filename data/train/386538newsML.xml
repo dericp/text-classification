@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386538" id="root" date="1997-02-18" xml:lang="en">
+<title>SWITZERLAND: Ciba rights offer proceeds for Novartis.</title>
+<headline>Ciba rights offer proceeds for Novartis.</headline>
+<dateline>ZURICH 1997-02-18</dateline>
+<text>
+<p>Ciba Specialty Chemicals, which is being spun off from Novartis AG, said it will use &quot;substantially all&quot; the proceeds from its pending Rights Offering to repay an advance from Novartis.</p>
+<p>In accordance with its spin-off agreement, Novartis transferred cash and cash equivalents and marketable securities to Ciba Specialty amounting to 700 million Swiss francs, Ciba said.</p>
+<p>Ciba Specialty has also assumed interest bearing debt from Novartis totalling one billion francs.</p>
+<p>In addition, Novartis transferred 165 million francs to Ciba Specialty in anticipation of restructuring costs which the specialty chemicals company may incur after January 1, 1997.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

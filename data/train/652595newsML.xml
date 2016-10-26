@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652595" id="root" date="1997-06-11" xml:lang="en">
+<title>ZIMBABWE: Zimbabwe's Mugabe urges immediate Congo ceasefire.</title>
+<headline>Zimbabwe's Mugabe urges immediate Congo ceasefire.</headline>
+<dateline>HARARE 1997-06-11</dateline>
+<text>
+<p>The chairman of the  Organisation of African Unity, Zimbabwe's President Robert Mugabe, appealed on Wednesday for an immediate ceasefire in the strife-ridden Congolese capital Brazzaville.</p>
+<p>&quot;In my capacity as current chairman of the Organisation of African Unity...I urgently appeal to all sides to the conflict to agree to an immediate ceasefire, and begin negotiations,&quot; Mugabe said in a statement.</p>
+<p>&quot;In calling for an end to the hostilities, we are mindful of the elections scheduled for July 27 where the people of Congo should be allowed to make their democratic choice in an environment free of violence,&quot; he said.</p>
+<p>Mugabe, who assumed the OAU chairmanship last week at its annual summit in Harare, said the pan-African body was ready to help the government of Congolese President Pascal Lissouba and the rival militia backing former military leader Denis Sassou Nguesso in any way to prevent further loss of lives.</p>
+<p>The Brazzaville clashes flared on June 5 after government soldiers surrounded Sassou Nguesso's home as part of a crackdown on militias and illegal arms ahead of the July 27 presidential election.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="OAU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

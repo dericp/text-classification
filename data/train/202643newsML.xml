@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202643" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: BLC Financial Services Q1 full results.</title>
+<headline>BLC Financial Services Q1 full results.</headline>
+<dateline>NEW YORK 1996-11-20</dateline>
+<text>
+<p>Sep 30, 1996	 Sep 30, 1995</p>
+<p> Total Revenues		   $1,170,000	     $575,000</p>
+<p> Total Expenses		    1,022,000		722,000</p>
+<p>Net Income Before</p>
+<p>Provisions for</p>
+<p>   Income Taxes			148,000	   ( 147,000)</p>
+<p>Provisions for</p>
+<p>   Income Taxes			 35,000		  3,000</p>
+<p> Net Income (Loss)		   113,000	   ( 150,000)</p>
+<p> Net Income Per Common Share	  0.01		( 0.01)</p>
+<p>Weighted Average Number of Common Shares and Equivalents   Outstanding		     18,082,690	   13,178,348</p>
+<p>Note: Full company name is BLC Financial Services Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

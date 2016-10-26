@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="540746" id="root" date="1997-04-25" xml:lang="en">
+<title>UK: FTSE 100 posts loss at opening after Dow weakness.</title>
+<headline>FTSE 100 posts loss at opening after Dow weakness.</headline>
+<dateline>LONDON 1997-04-25</dateline>
+<text>
+<p>The FTSE 100 started Friday's session weaker, tracking losses overnight for U.S. stocks and bonds, dealers said.</p>
+<p>The index was 8.9 points off at 4,379.6 by 0738 GMT.</p>
+<p>&quot;It's a damp start,&quot; said Charterhouse head of research, Richard Jeffrey.</p>
+<p>&quot;Wall Street was mildly off, we are still in the clutch of political uncertainty and there is not a lot of corporate news about. It's all looking pretty lethargic,&quot; he said.</p>
+<p>Dealers said FTSE futures would struggle to hold 4,400 points and the cash index would be pressed to hold 4,380.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

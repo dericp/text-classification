@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110595" id="root" date="1996-10-11" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar softens to 469.50/470.75/dlr.</title>
+<headline>Venezuela bolivar softens to 469.50/470.75/dlr.</headline>
+<dateline>CARACAS 1996-10-11</dateline>
+<text>
+<p>The Venezuelan bolivar softened gently to 469.50/470.75 per dollar even as the Central Bank supplied dollars to meet demand, traders said.</p>
+<p>The unit closed Thursday at 469.25/470.50 per dollar</p>
+<p>&quot;The exchange rate hovered around 470/471 for the whole day with the Central Bank always present to make sure offer met demand,&quot; said one trader.</p>
+<p>Brokers said dollar supply had fallen off after interest rates fell over 400 basis points at Wednesday's auction of Central Bank TEMs.</p>
+<p>-- Silene Ramirez, Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

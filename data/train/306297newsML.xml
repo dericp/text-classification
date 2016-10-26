@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306297" id="root" date="1997-01-14" xml:lang="en">
+<title>INDIA: Indian cotton prices firm on fresh state buying.</title>
+<headline>Indian cotton prices firm on fresh state buying.</headline>
+<dateline>BOMBAY 1997-01-14</dateline>
+<text>
+<p>Indian cotton prices firmed on Tuesday on fresh buying by state agencies and lesser new crops coming into the market, dealers said.</p>
+<p>Mill demand was however low while the Cotton Corp of India was an active buyer. New crop arrivals fell in northern India due to severe cold weather while arrivals in western India were low due to Tuesday's kite festival, they said.</p>
+<p>In the spot deals Bengal-deshi rose by 10 rupees to 840/865 rupees per maund (37.32 kg) while Punjab saw-ginned rose by 5/10 rupees to 1,415/1,650 rupees. F-414 rose by five rupees to 1,825/1,850 rupees per maund.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

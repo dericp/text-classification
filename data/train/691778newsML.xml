@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="691778" id="root" date="1997-06-27" xml:lang="en">
+<title>UK: UK prompt natgas up on Bacton, Theddlethorpe outage.</title>
+<headline>UK prompt natgas up on Bacton, Theddlethorpe outage.</headline>
+<dateline>LONDON 1997-06-27</dateline>
+<text>
+<p>Terminal problems at Bacton and Theddlethorpe, and curtailments at St Fergus, sent prompt spot gas prices higher on Friday afternoon and raised the likelihood of a system buy on the flexibility mechanism, traders and brokers said.</p>
+<p>Problems hit the southern basin terminals at Bacton and Theddlethorpe in the early afternoon, dealers said, although opinions differed over how serious they were. Some claimed there were major difficulties but others played down their significance.</p>
+<p>&quot;We're aware of some sub-terminal problems. Engineers are working on them and they aim to fix the problem quickly,&quot; said a trader. &quot;What's amazing is that we went through such a long period without any problems.&quot;</p>
+<p>He pointed out that many players may be assuming the issue to be more serious than it really is precisely because such problems are so rare.</p>
+<p>But certainly several buyers went looking for material at St Fergus as a result. One seller reported doing a trade at 10.20 pence a therm on the within day market for 600,000 therms, and others were looking for large volumes to replace supplies from the closed terminals.</p>
+<p>The rush of gas from St Fergus is thought to have caused curtailments to transmissions there, although this was not confirmed by Transco. And many players expected to see the flexibility mechanism buying on Friday evening and perhaps again over the weekend to make up the shortfall.</p>
+<p>Some suggested the flexibility mechanism could buy at high prices, with one suggesting 45 pence a therm as a possible level at the margin. This would impact on the System Average Price (SAP) for some time, as the SAP is calculated on a rolling basis. This was seen as the reason why the terminal problems impacted on the July market as well as just the prompt, with July outright trade reported at 9.55 pence a therm shortly after trading at 9.30 pence.</p>
+<p>But further along the forward curve, prices were still relatively stable. There were some minor adjustments seen to prices in the fourth and first quarters, but levels were essentially unchanged and trade was thin.</p>
+<p>IPE futures saw only two deals done, with front-month July trading slightly up on its last day before rolling, while October traded slightly down. October traded and settled at 11.00 pence. New front-month August settled at 9.24 pence a therm on Friday evening.</p>
+<p>-- Sebastian Alison, London Newsroom, +44 171 542 6412</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

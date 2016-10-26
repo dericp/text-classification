@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192308" id="root" date="1996-11-15" xml:lang="en">
+<title>VENEZUELA: Venezuela says demand for CANTV topping $890 mln.</title>
+<headline>Venezuela says demand for CANTV topping $890 mln.</headline>
+<dateline>CARACAS 1996-11-14</dateline>
+<text>
+<p>Total buy orders for shares in Venezuelan telephone company CANTV have reached $890 million, Venezuela's Investment Fund (FIV) said.</p>
+<p>European buy orders are at $350-400 million and orders from the United States are at some $300 million.</p>
+<p>Venezuelan orders are currently about $100 million, which could rise to $130 million once buy orders from the interior of the country are included, the FIV said in a press release.</p>
+<p>With 50 million shares reserved for local markets, some 25,000 Venezuelans have so far registered for the sale -- a figure that is expected to rise further, the release added.</p>
+<p>The government is offering 289 million shares in the company on national and international markets in one of the biggest placements in Latin America this year.</p>
+<p>The reference price for the shares currently ranges between $3.07 and $3.50, but may rise above that once the price is finally settled on November 21, FIV President Alberto Poletto has said.</p>
+<p>-- Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

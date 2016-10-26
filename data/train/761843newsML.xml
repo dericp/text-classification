@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="761843" id="root" date="1997-07-29" xml:lang="en">
+<title>USA: AmeriNet names Eric Cunliffe president.</title>
+<headline>AmeriNet names Eric Cunliffe president.</headline>
+<dateline>ONTARIO, Calif. 1997-07-29</dateline>
+<text>
+<p>AmeriNet Financial Systems Inc said Tuesday it has promoted Eric Cunliffe to the position of president and chief operating officer.</p>
+<p>Cunliffe was previously executive vice president of the company's National Transaction Center in Denver.</p>
+<p>&quot;Mr. Cunliffe has extensive business experience in establishing and managing 'affinity' type business relationships,&quot; said John Pembroke, chairman and chief executive. &quot;AmeriNet is about to launch a real estate referral and mortgage services program with a national affinity organization. We want to give Mr. Cunliffe full authority to use his expertise for the benefit of the affinity membership.&quot;</p>
+<p>AmeriNet also promoted William Yeager, a founder of AmeriNet, to the position of chief financial officer.</p>
+<p>The company was not immediately available for further comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ONTARIO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

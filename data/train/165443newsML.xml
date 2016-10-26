@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="165443" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: U-Ship Inc Q1 net loss.</title>
+<headline>U-Ship Inc Q1 net loss.</headline>
+<dateline>MINNEAPOLIS 1996-11-05</dateline>
+<text>
+<p>3 Months Ended</p>
+<p>						 Sep 30,	   Sep 30,</p>
+<p>						   1996		1995</p>
+<p>Revenues:</p>
+<p>   Package Shipping		    $ 130,364	 $  61,220</p>
+<p>   Machine Sales			    61,547	    47,468</p>
+<p>   Other					 4,875	     3,593</p>
+<p>     Net Sales			     196,786	   112,281</p>
+<p> Cost of Goods Sold		    (170,525)	  (85,166)</p>
+<p> Gross Profit				 26,261	    27,115</p>
+<p> General and Administrative	    416,644	   216,514</p>
+<p> Research and Development		 64,410	    48,901</p>
+<p> Loss from Operations		  (454,793)	 (238,300)</p>
+<p> Interest Expense, Net		  (42,711)	    40,473</p>
+<p> Net Loss				 ( 412,082)	( 278,773)</p>
+<p> Net Loss per Share			 (0.10)	    (0.15)</p>
+<p>Weighted Average Number of</p>
+<p>    Shares Outstanding		 4,014,610	 1,804,397</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

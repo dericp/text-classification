@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596424" id="root" date="1997-05-19" xml:lang="en">
+<title>JAPAN: Hitachi Credit -96/97 group results.</title>
+<headline>Hitachi Credit -96/97 group results.</headline>
+<dateline>TOKYO 1997-05-19</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Group)	(in billions of yen unless specified)</p>
+<p> Sales		437.28		vs	  423.13</p>
+<p> Operating	   34.92		vs	   32.53</p>
+<p> Current	     16.46		vs	   15.43</p>
+<p> Net		    8.66		vs	    7.97</p>
+<p> EPS		   72.84 yen	  vs	   67.07 yen</p>
+<p> Diluted EPS	 69.27 yen	  vs	   63.80 yen</p>
+<p>NOTE - Hitachi Credit Corp is a consumer credit company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="586778" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: Phillips says Sweeny, Tex. refinery shut Tuesday.</title>
+<headline>Phillips says Sweeny, Tex. refinery shut Tuesday.</headline>
+<dateline>NEW YORK 1997-05-15</dateline>
+<text>
+<p>Phillips Petroleum Co said its 205,000 barrel per day (bpd) refinery was shut Tuesday after a power outage in the area and would be restarted in three to seven days.</p>
+<p>&quot;It's going to take several days, since not all the units can come up at once,&quot; said company spokeswoman Melissa Durossette.</p>
+<p>The power outage occurred at 3:45 p.m. local time Tuesday (2045 GMT), shutting the refinery, petrochemical production and natural liquids processing there, Durrossette.</p>
+<p>However, Durrossette said it was unknown if the company would have to purchase products on the open market to meet supply obligations.</p>
+<p>Gulf Coast products traders said unleaded conventional M1 gasoline was offered for sale at 3.50 cents under the June NYMEX gasoline level, about 0.50 cent firmer than late Wednesday differentials, though Phillips could not be confirmed as buyers.</p>
+<p>-- Matt Daily, New York Energy Desk +1 212 859 1620</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

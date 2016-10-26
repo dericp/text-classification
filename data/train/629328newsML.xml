@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="629328" id="root" date="1997-06-01" xml:lang="en">
+<title>LEBANON: Israel said to have arrested Lebanese civilians.</title>
+<headline>Israel said to have arrested Lebanese civilians.</headline>
+<dateline>NABATIYEH, Lebanon 1997-06-01</dateline>
+<text>
+<p>Israeli forces arrested on Sunday six Lebanese civilians in a south Lebanon village just outside Israel's south Lebanon occupation zone, residents said.</p>
+<p>They said Israeli motorised patrol advanced one km (0.5 mile) outside the zone into the village of Arnoun, established a temporary checkpoint and arrested six Lebanese men before pulling back into the occupied area.</p>
+<p>The operation lasted less than two hours, residents who arrived in the nearby village of Kfar Tibnit in south Lebanon's central sector told reporters.</p>
+<p>Israel occupies a 15-km (nine miles)-wide occupation zone in south Lebanon and Moslem guerrillas attack Israeli and allied forces in a bid to oust them from the zone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NABATIYEH, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

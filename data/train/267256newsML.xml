@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="267256" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Nervous bond market rattles weekly mortgage rates.</title>
+<headline>Nervous bond market rattles weekly mortgage rates.</headline>
+<dateline>WASHINGTON 1996-12-19</dateline>
+<text>
+<p>A jittery bond market pushed the U.S. 30-year fixed-rate mortgage up to an average 7.74 percent in the week ending Dec 20 from 7.57 percent the previous week, the Federal Home Loan Mortgage Corp said Thursday.</p>
+<p>Freddie Mac said the average commitment rate on 15-year mortgages rose to 7.21 percent from 7.06 percent in the prior week. Both the 30- and 15-year loans were at their highest levels since early November.</p>
+<p>Adjustable-rate mortgages rose to an average 5.53 percent in the latest week from 5.52 percent in the preceding week.  </p>
+<p>A year ago, the 30-year rate averaged 7.23 percent, the 15-year 6.73 percent, and the ARM 5.64 percent.</p>
+<p>&quot;Because of the better-than-expected figures in the housing starts report released this week (by the Commerce Department), the bond market got a little jittery, causing interest rates to rise,&quot; Freddie Mac chief economist Robert Van Order said.</p>
+<p>Freddie Mac said lenders charged an average 1.8 percent in fees and points on 30- and 15-year loans in the week, both up from 1.4 percent last week. They charged 1.4 percent on ARM loans, unchanged from the previous week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

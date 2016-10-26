@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261991" id="root" date="1996-12-17" xml:lang="en">
+<title>SPAIN: Spain's Oct trade deficit falls to 166 bln ptas.</title>
+<headline>Spain's Oct trade deficit falls to 166 bln ptas.</headline>
+<dateline>MADRID 1996-12-17</dateline>
+<text>
+<p>The customs department of the Economy Ministry gave the following figures (billions of pesetas):</p>
+<p> TRADE BALANCE		OCT 96	SEPT 96     OCT 95</p>
+<p> Exports			1,296.9     1,040.7     1,050.4</p>
+<p> Imports			1,463.0     1,341.8     1,322.7</p>
+<p> Deficit/surplus	     -166.0	-301.0	-272.3</p>
+<p> Def/surplus yr to date  -2,203.1    -2,037.1    -2,506.6</p>
+<p>NOTE - The figures are customs-cleared data.</p>
+<p> TRADE BALANCE (EU)     OCT 96	 SEPT 96	OCT 95</p>
+<p> Exports		     889.8	  757.2	  758.1</p>
+<p> Imports		     983.8	  914.0	  870.8</p>
+<p> Deficit/surplus	   -94.0	 -156.7	 -112.7</p>
+<p> Def/surplus yr to date -830.5	 -736.5	 -940.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

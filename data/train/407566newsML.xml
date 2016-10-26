@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="407566" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: Peco proposes retail pilot program.</title>
+<headline>Peco proposes retail pilot program.</headline>
+<dateline>PHILADELPHIA 1997-02-27</dateline>
+<text>
+<p>PECO Energy Co. filed Thursday with the Pennsylvania Public Utility Commission a pilot programme to enable some 90,000 residential, commercial and industrial customers to choose their electric suppliers beginning as early as October, the utility said.</p>
+<p>PECO, a Philadelphia-based electric and gas utility, said it believes this will be the largest electric pilot programme in the country.</p>
+<p>If it is approved, the company said, the programme would begin in April with the random selection of some 90,000 customers from the PECO Energy service territory.</p>
+<p>Under the programme, PECO said, the 90,000 customers will have the opportunity to buy their electricity from other power companies, brokers or marketers through 1998.</p>
+<p>The power from other suppliers would continue to be delivered over PECO transmission and distribution lines, and the utility would continue to supply customer services such as meter reading, billing and outage restoration, it noted.</p>
+<p>The filing is in compliance with Pennsylvania's recent electric competition legislation, which provided for customer choice pilot programmes for about 5 percent of the peak load of the state's electric utilities, beginning in 1997.</p>
+<p>The pilot programmes will be the first step in the state's transition to full electric competition, under which one-third of a utility's customers will be able to choose their electric suppliers by 1999, another third by 2000 and the final third by 2001.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

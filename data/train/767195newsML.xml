@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="767195" id="root" date="1997-07-30" xml:lang="en">
+<title>UK: Reuters launches air cargo Internet service.</title>
+<headline>Reuters launches air cargo Internet service.</headline>
+<dateline>LONDON 1997-07-30</dateline>
+<text>
+<p>Reuters Holdings Plc said on Wednesday it launched a new information and trading service on the public Internet, targeted at the air cargo market and available by subscription.</p>
+<p>Reuters Air Cargo Service (www.racs.com) provides information and trading opportunities to airlines, forwarders, shippers, brokers and general sales agents worldwide. It contains constantly-updated rates for air freight transport, and exclusive news coverage by specialist Reuters journalists, including market fixings.</p>
+<p>Airlines and charter companies can post available space they have to fill on their aircraft, and shippers post their needs for space to ship cargo. Subscribers can contact each other over the web-site through a structured e-mail system.</p>
+<p>Reuters Air Cargo Service was first launched using the Reuters Terminal and Reuters networks in 1994. Its migration to the public Internet now enables it to be accessed by a wider range of market participants, using standard browser technology which is familiar and easy-to-use.</p>
+<p>-- London Newsroom +44 171 542 7706 fax 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

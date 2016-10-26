@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64948" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: Fed adds reserves with funds below target.</title>
+<headline>Fed adds reserves with funds below target.</headline>
+<dateline>NEW YORK 1996-09-19</dateline>
+<text>
+<p>The Federal Reserve added temporary reserves to the U.S. banking system on Thursday via $1.0 billion customer repurchase agreements, despite a lower federal funds rate, a Fed spokesman said.</p>
+<p>The overnight bank lending, or federal funds rate, was trading at 5-1/16 percent shortly before the Fed entered the market. Earlier Thursday, funds were at 5.0 percent. They closed at 5.5 percent on Wednesday and averaged 4.96 percent.</p>
+<p>Economists had expected the Fed to stay out of the market given what they believed to be an apparent abundance of funds.</p>
+<p>-- N.A. Treasury Desk, 212-859-1679</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

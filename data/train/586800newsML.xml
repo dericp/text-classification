@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="586800" id="root" date="1997-05-15" xml:lang="en">
+<title>USA: Expert identifies truck parts in Okla. bomb trial.</title>
+<headline>Expert identifies truck parts in Okla. bomb trial.</headline>
+<dateline>DENVER 1997-05-15</dateline>
+<text>
+<p>A vehicle expert, testifying in the Oklahoma City bombing trial Thursday, identified mangled, blackened pieces of metal as parts of the model of truck used in the April 1995 attack that killed 168 people.</p>
+<p>Edward Paddock, a mechanical engineer who worked for 34 years for the Ford Motor Co., compared the twisted pieces recovered from the bomb site with identical, but intact, pieces taken from a Ford truck that was next off the assembly line to the one allegedly used in the bombing.  </p>
+<p>Paddock, who retired from Ford last year, works for a consulting firm that specializes in accidents.</p>
+<p>Ford bought the next truck off the assembly line from the one allegedly used in the bombing and cut it to pieces for comparison purposes in court.</p>
+<p>Paddock picked up vehicle parts recovered from the bomb site, including pieces of the frame, brake system and axle attachments, and showed the jury where they fit on the intact truck frame.</p>
+<p>Prosecutors are trying to tie defendant Timothy McVeigh to a Ford F-700 series heavy truck that he allegedly rented two days before the bombing.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

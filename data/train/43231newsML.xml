@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43231" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Butler National sees higher FY97 sales.</title>
+<headline>Butler National sees higher FY97 sales.</headline>
+<dateline>OLATHE, Kan. 1996-09-10</dateline>
+<text>
+<p>Butler National Corp said Tuesday it expects sales for fiscal 1997 ending next April to be above the $17 million posted in fiscal 1996.</p>
+<p>New Florida waste water monitoring contracts for its Butler National Services Inc subsidiary &quot;should allow Butler National Services Inc to make a significant contribution to a record 1997 fiscal year for Butler National,&quot; President Clark Stewart said in a statement.  </p>
+<p>A company spokesman later clarified that the &quot;record year&quot; referred to revenues.</p>
+<p>The new Florida contracts for wastewater pumping station monitoring equipment and services total more than $500,000, the company said.</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OLATHE, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

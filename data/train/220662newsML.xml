@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220662" id="root" date="1996-11-27" xml:lang="en">
+<title>CANADA: Canada and U.S. firms cooperate on PCS services.</title>
+<headline>Canada and U.S. firms cooperate on PCS services.</headline>
+<byline>Robert Melnbardis</byline>
+<dateline>MONTREAL 1996-11-27</dateline>
+<text>
+<p>A Canadian telecommunications company signed a cooperation agreement Wednesday with three big U.S. companies to share their new wireless telephone networks, known as personal communications services (PCS).</p>
+<p>Montreal-based Microcell Telecommunications Inc. signed the &quot;roaming&quot; agreement with Pacific Bell Mobile Services of Pleasonton, Calif.; BellSouth Mobility DCS of Atlanta; and Omnipoint Corp. of Arlington, Va. Pacific Bell is a unit of Pacific Telesis Group.</p>
+<p>Under the accord, subscribers of any one company will be able to use their wireless phones in territories licensed to the other companies.</p>
+<p>Montreal customers, for example, would be able to use their PCS handsets in New York City, while those from New York's Westchester County will able to keep in contact with their head office while in Montreal.</p>
+<p>PCS is seen as the next generation of wireless telecommunications technology and a direct competitor of cellular telephone networks. PCS providers are investing an estimated $5 billion to build their North American networks.</p>
+<p>Microcell, a private company owned by several Canadian telecommunications concerns, including Groupe Videotron Ltee of Montreal and Shaw Communications Inc. of Calgary, is one of two holders of a national Canadian PCS license.</p>
+<p>Pacific Bell holds PCS operating licenses for California and Nevada, while Omnipoint covers many northeastern U.S. states and parts of others such as Arkansas, Texas and Oklahoma. BellSouth Mobility's network includes the Carolinas and eastern Tennessee.</p>
+<p>The agreement came two days ahead of Microcell's launch of Fido, Canada's first PCS network. Microcell said it planned to offer PCS coverage in the greater Montreal area Friday. A Canadian rollout will follow, with Quebec City, Ottawa, Toronto and Vancouver being added by mid-1997.</p>
+<p>Microcell President Andre Tremblay told a news conference that subscribers of the Canadian company will be able to use their Fido handsets in the New York area by the first quarter of 1997.</p>
+<p>&quot;You can expect to see a very quick ramp-up on those agreements,&quot; Tremblay said.</p>
+<p>Pacific Bell Mobile President Lyndon Daniels said the pact adds Canada to the list of about 100 countries worldwide using a standard for wireless communications systems called Global Systems for Mobile Communications (GSM).</p>
+<p>&quot;This is the first North American roaming agreement that goes outside the United States,&quot; Daniels said.</p>
+<p>GSM is fully digital and is based on an Integrated Services Digital Network, or ISDN, that network operators claim offers numerous advantages over analogue cellular telephone networks. Calls made to and from PCS mobile telephones using GSM standards are protected against eavesdropping because they are encoded and the digital handsets use less battery power.</p>
+<p>The executives said more such PCS roaming agreements covering all of North America were expected in the next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287163" id="root" date="1997-01-04" xml:lang="en">
+<title>FRANCE: Moslem guerrillas behead five workers in Algeria.</title>
+<headline>Moslem guerrillas behead five workers in Algeria.</headline>
+<dateline>PARIS 1997-01-04</dateline>
+<text>
+<p>Algerian rebels beheaded five building workers as they slept in a village in northern Algeria on New Year's eve, El Watan newspaper reported on Saturday.</p>
+<p>It was a second night of horror for Douaouda village, 60 km (40 miles) west of the capital Algiers, within two months.</p>
+<p>In November the Liberte newspaper said more than 20 rebels attacked Douaouda, dragged 10 women and three children into the room of a house and slit their throats, one by one.</p>
+<p>More than 80 civilians were reported killed in attacks by Moslem rebels across Algeria in December, including 28 said by security forces to have been slaughtered in Dhamnia village, 120 km (75 miles) southwest of Algiers, on December 29.</p>
+<p>About 60,000 people have died in Algeria's violence since early 1992 when the authorities cancelled a general election in which Islamists had taken a commanding lead.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

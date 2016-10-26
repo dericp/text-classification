@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="663544" id="root" date="1997-06-16" xml:lang="en">
+<title>USA: FTC requests more data on Ultramar, Total merger.</title>
+<headline>FTC requests more data on Ultramar, Total merger.</headline>
+<dateline>SAN ANTONIO 1997-06-16</dateline>
+<text>
+<p>Ultramar Diamond Shamrock Corp said on Monday that the U.S. Federal Trade Commission requested additional information about Ultramar's proposed acqusition of Total Petroleum Ltd.</p>
+<p>The company did not specify what information the FTC had requested.</p>
+<p>Ultramar said in a prepared statement that it remained optimistic the acquisition would be approved.</p>
+<p>The FTC request extends the Hart-Scott-Rodino antitrust waiting period to the 20th calendar day after the companies comply with the request for data, unless the FTC terminates it earlier.</p>
+<p>The proposed deal would give Total Petroleum shareholders 0.322 of an Ultramar share for each Total share they hold. Total shareholders are to vote on the proposal on June 24 at a meeting in Calgary.</p>
+<p>Total, based in Denver, has oil refineries in Colorado, Oklahoma and Michigan.</p>
+<p>Ultramar Diamond Shamrock has four modern refineries in the United States and Canada and 4,300 branded retail gasoline outlets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

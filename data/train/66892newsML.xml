@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66892" id="root" date="1996-09-20" xml:lang="en">
+<title>HONDURAS: Honduras promotes coffee sales in China, Russia.</title>
+<headline>Honduras promotes coffee sales in China, Russia.</headline>
+<dateline>TEGUCIGALPA, Honduras 1996-09-20</dateline>
+<text>
+<p>Honduras is trying to open up China and Russia to its coffee exports, a spokesman for the Honduran Coffee Institute said Friday.</p>
+<p>&quot;We are promoting sales of coffee in China and Russia, giving free supplies to airlines, travel agencies and state offices,&quot; spokesman Milton Mateo told Reuters.</p>
+<p>&quot;We are doing this as part of the policies adopted by producer nations in search of new markets for our coffee.&quot;</p>
+<p>Russia and China &quot;can become important markets for our coffee in the future,&quot; he added.</p>
+<p>Mateo said Honduras would send a delegation to London next week for a meeting of the Association of Coffee Producing Countries but would be taking no firm proposals.</p>
+<p>&quot;Our country is taking no definite proposals, (but) if anything is presented to us there we will take a position,&quot; he said.</p>
+<p>--Gustavo Palencia, Tegucigalpa bureau 504 392885</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEGUCIGALPA, Honduras"/>
+<dc element="dc.creator.location.country.name" value="HONDURAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

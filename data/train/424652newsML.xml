@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="424652" id="root" date="1997-03-06" xml:lang="en">
+<title>USA: U.S. mortgage application volume rose in latest wk.</title>
+<headline>U.S. mortgage application volume rose in latest wk.</headline>
+<dateline>NEW YORK 1997-03-06</dateline>
+<text>
+<p>The volume of U.S. mortgage applications rose 12.3 percent in the week ended February 28, according to a Mortgage Bankers Association of America weekly survey.</p>
+<p>Specifically, the volume of applications to refinance mortgages rose 3.6 percent in the latest survey week, while applications to purchase mortgages increased 15.8 percent.</p>
+<p>The seasonally adjusted refinancing index fell 17.1 percent to 460.9 from 556.0 the previous week.</p>
+<p>The purchase index fell 9.2 percent to 186.4 in the latest survey from 205.3 in the previous week.</p>
+<p>Change in Number of Applications Expressed as a Percent</p>
+<p>Week ended Feb 28	One Week    Four Weeks	One Year</p>
+<p>Mortgage applications     Ago	  Ago		 Ago</p>
+<p> Total			 12.3	 27.4	     -24.1</p>
+<p> Purchase		    15.8	 24.4		 2.2</p>
+<p> Refinancing		  3.6	 36.2	     -55.2</p>
+<p> Fixed-rate mortgages    12.7	 30.1	     -27.4</p>
+<p> Adjustable-rate mort.   10.4	 17.9	     - 8.1</p>
+<p>Composition of Activity for the Week Ended Feb 28</p>
+<p>				 Total		  Conventional</p>
+<p>				No. of   $ Volume    No. of   $ Volume</p>
+<p>				Loans    of Loans    Loans    of Loans</p>
+<p>Percent Refinancing	27.0	27.2	 31.7     30.1</p>
+<p>Percent Adjustable-rate  20.7	27.3	 20.0     27.8</p>
+<p>Percent Balloon	     2.6	 2.5	  3.3	2.9</p>
+<p>Federal Housing Adminstration and Veterans Administration</p>
+<p>Percent Refinancing	11.5     12.1</p>
+<p>Percent Adustable-rate   23.1     24.6</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>			Week Ending  Previous Pct    4 Weeks  1 Year</p>
+<p>Market Composites   Feb 28     Week	Change   Ago	Ago</p>
+<p>Market Index	 226.7	 256.8    -11.7   200.3    305.7</p>
+<p>Purchase Index     186.4	 205.3    - 9.2   176.6    181.3</p>
+<p>Refinancing Index  460.9	 556.0    -17.1   338.4   1029.5</p>
+<p>Fixed-rate Index   188.2	 212.4    -11.4   162.9    265.6</p>
+<p>Adjustable-rate   1029.2	1185.5    -13.2   983.3   1146.3</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>Conventional	 Week Ending Previous Pct    4 Weeks  1 Year</p>
+<p>Market Indexes	Feb 28	Week     Change   Ago	Ago</p>
+<p>Conventional Index  282.2	323.8    -12.8   246.0    386.1</p>
+<p>Purchase Index	229.5	256.6    -10.6   217.8    229.5</p>
+<p>Refinancing Index   496.4	597.1    -16.9   360.8   1022.5</p>
+<p>Fixed-rate Index    236.8	272.7    -13.2   200.2    330.6</p>
+<p>Adjustable-rate    1213.8     1372.5    -11.6  1187.4   1523.3</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>Government	   Week Ending Previous Pct    4 Weeks  1 Year</p>
+<p>Market Indexes	Feb 28	Week     Change   Ago	Ago</p>
+<p>Government Index    134.1	145.0    - 7.5   124.0    171.8</p>
+<p>Purchase Index	124.3	131.5    - 5.5   117.1    112.3</p>
+<p>Refinancing Index   282.8	351.0    -19.4   228.3   1079.7</p>
+<p>Fixed-rate Index    107.8	112.3    - 4.0   100.9    157.2</p>
+<p>Adjustable-rate     703.9	854.1    -17.6   624.6    488.7</p>
+<p>((--N.A. Treasury Desk, 212-859-1660 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

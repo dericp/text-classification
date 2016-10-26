@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555812" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: DeWolfe Q1 shr loss vs profit.</title>
+<headline>DeWolfe Q1 shr loss vs profit.</headline>
+<dateline>LEXINGTON, Mass. 1997-05-02</dateline>
+<text>
+<p>(In thousands, except per share amounts)</p>
+<p>						     First Quarter</p>
+<p>							1997	   1996</p>
+<p> Revenues					$23,469	$21,581</p>
+<p> Net revenues				    8,985	  8,554</p>
+<p> Net income (loss)				(66)	    206</p>
+<p> Earnings (loss) per share		  (0.02)	   0.06</p>
+<p> Average shares outstanding		  3,302	  3,441</p>
+<p>NOTE: Company said it incurred higher expenses during the first quarter of 1997, including the startup of its insurance subsidiary and implementation of technology-based marketing systems that it expects to come into line starting in the second quarter of the year.</p>
+<p>Full company name is DeWolfe Companies Inc.</p>
+<p>--((New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

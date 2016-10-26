@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60563" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: NationsBank sets $1.45 bln in three-part deal.</title>
+<headline>NationsBank sets $1.45 bln in three-part deal.</headline>
+<dateline>NEW YORK 1996-09-18</dateline>
+<text>
+<p>The following debt issue was priced on Wednesday, according to lead manager Nationsbanc Capital Markets Inc.</p>
+<p>BORROWER NATIONSBANK CORP</p>
+<p>AMT $500 MLN	  COUPON 7.00 PCT   MATURITY 09/15/01</p>
+<p>TYPE SNR NOTES	ISS PRICE 99.862  PAY DATE 03/15/97</p>
+<p>LAST MOODY A2	 SPREAD 43 BP	PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P SINGLE-A   YIELD 7.034 PCT   CALLABLE NO</p>
+<p>BORROWER NATIONSBANK CORP</p>
+<p>AMT $500 MLN	  COUPON 7.50 PCT   MATURITY 09/15/06</p>
+<p>TYPE SUB NOTES	ISS PRICE 100.00  PAY DATE 03/15/97</p>
+<p>LAST MOODY A3	 SPREAD 68 BP	PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P A-MINUS    YIELD 7.50 PCT    CALLABLE NO</p>
+<p>BORROWER NATIONSBANK CORP</p>
+<p>AMT $450 MLN	  COUPON 7.80 PCT   MATURITY 09/15/16</p>
+<p>TYPE SUB NOTES	ISS PRICE 99.384  PAY DATE 03/15/97</p>
+<p>LAST MOODY A3	 SPREAD 80 BP	PAY FREQ SEMI-ANNUAL</p>
+<p>LAST S&amp;P A-MINUS    YIELD 7.862 PCT   CALLABLE NO</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

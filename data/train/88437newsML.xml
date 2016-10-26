@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88437" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Calif. State University $13 mln to BA. [CORRECTED 00:37 GMT 2/10]</title>
+<headline>Calif. State University $13 mln to BA. [CORRECTED 00:37 GMT 2/10]</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>(Corrects that BA Securities won the bonds. Also supplies BA's true interest cost.</p>
+<p>An official on the deal said Merrill's bid did not conform to the issuer's specifications and was rejected.)</p>
+<p>BA Securities (corrects from Merrill Lynch &amp; Co) said Tuesday it won $13.13 million California State University, Long Beach, student union revenue bonds, Series B, with a true interest cost of 5.75 percent (corrects from 5.72691 percent).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

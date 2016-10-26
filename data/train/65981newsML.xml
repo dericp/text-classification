@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="65981" id="root" date="1996-09-19" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq - Sept 19.</title>
+<headline>PRESS DIGEST - Iraq - Sept 19.</headline>
+<dateline>BAGHDAD 1996-09-19</dateline>
+<text>
+<p>These are some of the leading stories in the official Iraqi press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>THAWRA</p>
+<p>- Iraq and the U.N. discuss means of hastening the implementation of the oil-for-food deal.</p>
+<p>- Iraq's deputy foreign minister Riydh al-Qassi arrives in Paris to discuss with French officials the recent American aggression against Iraq.</p>
+<p>- U.N. sources say Washington has violated the disarmament zone between Iraq and Kuwait.</p>
+<p>- Iraq and Syria stress their keeness to make the Middle East free from nuclear weapons.</p>
+<p>- The wrong U.S. logic - commentary.</p>
+<p>- The failed (U.S.) adventure - commentary.</p>
+<p>QADISSIYA</p>
+<p>- Iraq protests to the U.N. against U.S. provocation against its vessels in the Gulf.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

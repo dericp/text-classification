@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="783148" id="root" date="1997-08-06" xml:lang="en">
+<title>FRANCE: Paris air cargo imports from Japan soar in Jan-Jun.</title>
+<headline>Paris air cargo imports from Japan soar in Jan-Jun.</headline>
+<dateline>PARIS 1997-08-06</dateline>
+<text>
+<p>The U.S. was the principal country of origin for air cargo imports at Paris airports in January-June 1997, while imports from Japan jumped 41.2 percent to 12,692 tonnes, Paris airport authority, (ADP) figures show.</p>
+<p>Total import traffic in January-June 1997 at Charles de Gaulle and Orly, reached 264,552 tonnes, a rise of 3.2 percent on the same period last year.</p>
+<p>The top 20 countries of origin for ADP imports in January-June 1997 with percentage change on January-June 1996 were as follows:</p>
+<p>	 Origin	   tonnes     Jan-June '96</p>
+<p>					   Pct Change</p>
+<p>    1. United States  72,077     down  4.2</p>
+<p>    2  Japan	    12,692	 up 41.2</p>
+<p>    3. India	    12,109     down 11.4</p>
+<p>    4. Canada	   11,759     down 14.7</p>
+<p>    5. U.K.	     11,291	 up 42.7</p>
+<p>    6. Hong Kong	 9,663	 up 14.6</p>
+<p>    7. Germany	   8,181	 up 14.8</p>
+<p>    8. Thailand	  6,737	 up 33.6</p>
+<p>    9. Italy	     5,767     down  7.6</p>
+<p>   10. Fr.W Indies     4,997	 up  8.4</p>
+<p>   11. Senegal	   4,747	 up  8.7</p>
+<p>   12. Singapore	 4,524	 up 89.8</p>
+<p>   13. Kenya	     4,251     down 23.1</p>
+<p>   14. China	     3,491	 up 70.2</p>
+<p>   15. Brazil	    3,446	 up 21.2</p>
+<p>   16. Morocco	   3,325     down 19.7</p>
+<p>   17. Egypt	     3,268	 up 28.5</p>
+<p>   18. Korea	     3,126	 up 23.9</p>
+<p>   19. U.A.E.	    2,957     down 19.7</p>
+<p>   20. Mauritius	 2,916	 up 18.6</p>
+<p>- Reuters Air Cargo Service Tel+ 44 171 542 7706 Fax +5017 - www.racs.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

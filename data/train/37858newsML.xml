@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="37858" id="root" date="1996-09-06" xml:lang="en">
+<title>BANGLADESH: Ruling party wins most Bangladesh by-election seats.</title>
+<headline>Ruling party wins most Bangladesh by-election seats.</headline>
+<dateline>DHAKA 1996-09-06</dateline>
+<text>
+<p>Bangladesh's ruling Awami League won eight of the 15 seats contested in parliamentary by-elections, election officials said on Friday.</p>
+<p>The main opposition Bangladesh Nationalist Party (BNP) and the Jatiya Party headed by jailed former president Hossain Mohammad Ershad each won three seats and an independent candidate secured one from Thursday's voting.</p>
+<p>Bangladesh held general elections on June 12, with the Awami League winning 146 of 300 parliamentary seats. Awami leader Sheikh Hasina became prime minister on June 23.</p>
+<p>The BNP won 116 seats, followed by the Jatiya Party with 32.</p>
+<p>Bangladeshi law allows candidates to run in more than one constituency, but they can retain only one seat.</p>
+<p>The by-elections were held in districts vacated by winners who had opted for other parliamentary seats. Voting in a 16th constituency has been delayed.</p>
+<p>The BNP, led by former prime minister Begum Khaleda Zia, alleged widespread vote rigging and intimidation by Awami activists, especially in Chittagong port.</p>
+<p>Awami leaders rejected the charges, saying the BNP was &quot;trying to make an issue out of nothing&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

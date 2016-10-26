@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331454" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: Houston Industries Inc Q4 net, shr way up.</title>
+<headline>Houston Industries Inc Q4 net, shr way up.</headline>
+<dateline>HOUSTON 1997-01-24</dateline>
+<text>
+<p>1996			1995</p>
+<p> Oper shr		   $0.15		    $0.02</p>
+<p> Shr			   0.15		     0.02</p>
+<p> Net			 36,326		    3,859</p>
+<p> Revs		     905,961		  799,895</p>
+<p> Avg shrs		 234,851		  248,183</p>
+<p>	  12   MONTHS</p>
+<p> Oper shr		   $1.66		    $1.60</p>
+<p> Shr			   1.66		     4.46</p>
+<p> Net			404,944		1,105,524</p>
+<p> Revs		   4,095,277		3,729,271</p>
+<p> Avg shrs		 244,443		  247,706</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: Reported earnings for 1995 include a $708 million one-time gain in connection with the sale of HI's cable television subsidiary.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

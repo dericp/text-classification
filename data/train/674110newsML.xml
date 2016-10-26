@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="674110" id="root" date="1997-06-19" xml:lang="en">
+<title>USA: Bank reform provision boosts legality of swaps.</title>
+<headline>Bank reform provision boosts legality of swaps.</headline>
+<dateline>WASHINGTON 1997-06-18</dateline>
+<text>
+<p>Banks active in swaps could benefit from a provision added to bank reform legislation on Wednesday classifying the derivative contracts as exempt from securities law oversight, U.S. market participants said.</p>
+<p>The provision, added in an amendment by California Republican Tom Campbell, tagged swap agreements as &quot;qualified financial contracts&quot; and not securities.</p>
+<p>&quot;The Campbell amendment ensures that banks can continue to document swaps under one agreement and easily net down the credit risk of the deals just as they do today,&quot; said Mark Brickell, managing director at J.P. Morgan &amp; Co.  </p>
+<p>A bank typically documents all of its swaps contracts with a single counterparty under a so-called master agreement, even if some of the swaps are on interest rates and others are on forex or equities. That allows the bank to offset winning and losing positions and consider only the net amount of money at risk if the counterparty defaults.</p>
+<p>But banks are afraid some newer types of swaps, such as those on equities or credit risk, could be declared &quot;securities&quot; by federal regulators. That would require a bank to register with securities regulators or enter those transactions on the books of the bank's securities affiliate.  </p>
+<p>If various swaps with the same counterparty were booked in different entities of the bank, the bank could not net the positions. Without netting, the amount of the bank's position considered &quot;at risk&quot; to the counterparty would grow.</p>
+<p>The amendment &quot;keeps credit risk low for banks and for their counterparties, whether those counterparties are securities firms, industrial companies or other banks,&quot; Brickell said.</p>
+<p>Campbell said the amendment was intended to codify and protect existing practices in the derivatives market.  </p>
+<p>&quot;The amendment is intended to preserve a useful risk allocation mechanism in existing law,&quot; Campbell said in a telephone interview. &quot;It's to avoid any inadvertent cutback.&quot;</p>
+<p>The House Banking Committee will continue debating amendments to bank reform legislation on Thursday. If the committee approves the bill, the proposal next goes to the Commerce Committee for further consideration.</p>
+<p>-- Aaron Pressman, 202-898-8312</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

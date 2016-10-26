@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131087" id="root" date="1996-10-21" xml:lang="en">
+<title>INDIA: RBI governor sees India '96/97 GDP growing 6.5 pct.</title>
+<headline>RBI governor sees India '96/97 GDP growing 6.5 pct.</headline>
+<dateline>BOMBAY 1996-10-21</dateline>
+<text>
+<p>India's gross domestic product will grow by around 6.5 percent in 1996/97 (April-March), Reserve Bank of India governor Chakravarty Rangarajan said on Monday.</p>
+<p>&quot;It (GDP) should be around 6.5 percent this year,&quot; Rangarajan told Reuters Financial Television.  </p>
+<p>He said agricultural production would grow at between 3 to 4 percent and industrial production at between 9 to 10 percent this year.</p>
+<p>India's GDP grew by 6.2 percent in 1995/96, below the originally estimated 7.0 percent.</p>
+<p>The RBI outlined its credit policy for the second half of 1996/97 on Saturday, and announced measures to add liquidity to the banking system to bring down interest rates.</p>
+<p>-- Bombay Newsroom 91 22 265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

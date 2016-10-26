@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611875" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: DKB, former Nomura heads called to parliament.</title>
+<headline>DKB, former Nomura heads called to parliament.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>A key committee of the Upper House of Japan's parliament on Friday decided to summon Kuniji Miyazaki, an adviser to Dai-Ichi Kangyo Bank Ltd (DKB), and DKB president Katsuhiko Kondo to a meeting of the committee next Wednesday, a committee official said.</p>
+<p>The committee has also decided to summon Setsuya Tabuchi, former chairman of Nomura Securities Co Ltd, and former Nomura president Hideo Sakamaki to the same committee meeting on Wednesday, the official said.</p>
+<p>Both companies are mired in suspicions that they gave financial favours to a &quot;sokaiya&quot; racketeer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

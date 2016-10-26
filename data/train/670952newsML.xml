@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="670952" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: CBOT 10 Yr T-Note options vol/open int - June 17.</title>
+<headline>CBOT 10 Yr T-Note options vol/open int - June 17.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: 10-YR TREAS	   CALL</p>
+<p>			 EVE   PJA   DAY   GIVE		 LIFFE OPTS OPEN INTEREST</p>
+<p>YR MTH		TRDS  TRDS  TRDS   UPS  TRFRS ADJST  POS  EXER CLOSE  CHANGE</p>
+<p>-- ---	     ----- ----- ------ ----- ----- ----- ----- ---- ----- ------</p>
+<p>97 JUL TOTAL			 1827		  1361		15182   2019-</p>
+<p>97 AUG TOTAL			 1270   120				 4450    780+</p>
+<p>97 SEP TOTAL			 6482  3050	   421	 68  104226   2287+</p>
+<p>97 DEC TOTAL			  420		   130		16672    230+</p>
+<p>COMMODITY: 10-YR TREAS	   PUT</p>
+<p>97 JUL TOTAL			  705   400	   414		18759    122+</p>
+<p>97 AUG TOTAL			 1160   750				 1561   1110+</p>
+<p>97 SEP TOTAL	 145	   2640   984	    47		83352    614+</p>
+<p>97 OCT TOTAL									 370</p>
+<p>97 DEC TOTAL			  201					12578    176+</p>
+<p>CMMDTY TOTAL	 145	  14705  5304	  2373	 68  257150   3300+</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

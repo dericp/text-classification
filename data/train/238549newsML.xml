@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238549" id="root" date="1996-12-05" xml:lang="en">
+<title>GERMANY: WEST GERMAN NOV ADJUSTED UNEMPLOYMENT RISES 34,000.</title>
+<headline>WEST GERMAN NOV ADJUSTED UNEMPLOYMENT RISES 34,000.</headline>
+<dateline>NUREMBERG, Germany 1996-12-05</dateline>
+<text>
+<p>The Federal Labour</p>
+<p>Office reported the following economic indicator:</p>
+<p> W.GERMAN UNEMPLOYMENT   Nov 96	  Oct 96	   Nov 95</p>
+<p> Number (unadj)	    2.825 mln     2.769 mln	2.536 mln</p>
+<p> Number (adj)		2.924 mln     2.890 mln	2.631 mln</p>
+<p> Change (adj)	     +34,000	 +31,000	   n/a</p>
+<p> Rate (unadj)		9.2 pct	 9.0 pct	  8.2 pct</p>
+<p> Short-time workers	171,015	 182,573	  150,770</p>
+<p> Vacancies		   219,176	 235,102	  214,779</p>
+<p> Change in number in work Sept 96	 Aug 96</p>
+<p>				 -31,000	  -60,000</p>
+<p>NOTE - Numbers in work data refer to change from previous</p>
+<p>month. Details on numbers in work to be released later today.</p>
+<p>--Bonn Newsroom 49-228-2609750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NUREMBERG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

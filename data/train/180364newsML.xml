@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180364" id="root" date="1996-11-11" xml:lang="en">
+<title>USA: Colorado voters split over prospect of road tax.</title>
+<headline>Colorado voters split over prospect of road tax.</headline>
+<dateline>DENVER 1996-11-11</dateline>
+<text>
+<p>Colorado residents are evenly divided over supporting a tax increase to improve the state's deteriorating roads, a poll published on Monday showed.</p>
+<p>Of 600 registered voters, some 46 percent would oppose a tax to improve highways, while 42 percent would support it and 12 percent were undecided, according to a poll conducted by the Rocky Mountain News and KMGH-TV. The margin of error was four percentage points.</p>
+<p>Younger people appeared more likely to favor the tax, the newspaper said. The poll was taken on October 29 and October 30.</p>
+<p>A panel that studied transporation needs said earlier this year that Colorado would have a $13 billion shortfall over the next 20 years under current funding levels, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

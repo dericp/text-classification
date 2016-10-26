@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489636" id="root" date="1997-04-06" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>AMSTERDAM 1997-04-06</dateline>
+<text>
+<p>Results of Dutch first</p>
+<p>division soccer matches played on Sunday:</p>
+<p> RKC Waalwijk		 3  Twente Enschede		2</p>
+<p> Volendam		     0  Ajax Amsterdam		 3</p>
+<p> Utrecht			1  NEC Nijmegen		   1</p>
+<p> Feyenoord		    0  Vitesse Arnhem		 0</p>
+<p> NAC Breda		    2  PSV Eindhoven		  2</p>
+<p>Played on Saturday:</p>
+<p> Fortuna Sittard	    0  Groningen			2</p>
+<p> Heerenveen		   3  Willem II Tilburg	    1</p>
+<p> Graafschap Doetinchem    0  Sparta Rotterdam	     2</p>
+<p>	  Standings		P     W     D    L    F    A    Pts</p>
+<p>1.  PSV Eindhoven		27    18    5    4    69   20    59</p>
+<p>2.  Feyenoord		    27    18    5    4    47   24    59</p>
+<p>3.  Twente Enschede	    27    17    4    6    47   22    55</p>
+<p>4.  Ajax Amsterdam	     26    13    9    4    38   21    48</p>
+<p>5.  Heerenveen		   27    12   10    5    48   32    46</p>
+<p>6.  Vitesse Arnhem	     26    12    7    7    42   30    43</p>
+<p>7.  Roda JC Kerkrade	   27    11    7    9    37   36    40</p>
+<p>8.  NAC Breda		    27    10    7   10    36   40    37</p>
+<p>9.  Graafschap Doetinchem    27    10    5   12    39   41    35</p>
+<p>10. Utrecht			27     6   12    9    32   35    30</p>
+<p>11. Willem II Tilburg	  26     8    5   13    30   42    29</p>
+<p>12. Volendam		     28     7    8   13    26   47    29</p>
+<p>13. Sparta Rotterdam	   26     8    4   14    29   37    28</p>
+<p>14. Groningen		    27     6   10   11    31   48    28</p>
+<p>15. Fortuna Sittard	    27     6   10   11    23   41    28</p>
+<p>16. NEC Nijmegen		 28     5    9   14    29   50    24</p>
+<p>17. RKC Waalwijk		 27     5    7   15    28   51    22</p>
+<p>18. AZ Alkmaar		   27     5    6   16    21   35    21</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

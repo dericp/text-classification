@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32833" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: IBM introduces integrated storage solution.</title>
+<headline>IBM introduces integrated storage solution.</headline>
+<dateline>SAN JOSE, Calif. 1996-09-04</dateline>
+<text>
+<p>International Business Machines Corp said Wednesday its 3466 Network Storage Manager, the first in a planned family of integrated storage solutions is planned for general availability in the fourth quarter.</p>
+<p>The 3466 Network Storage Manager -- a StorageSmart Solution -- is useful for Internet and Intranet applications, the company said, explaining it is a self-contained hardware and software product for the automated backup, storage management and recovery of data for businesses with enterprise-wide client server environments.  </p>
+<p>This high-performance solution is capable of backing up as much as 40 terabytes (TB) of data from hundreds of servers and desktop systems across networks.</p>
+<p>With the WebShell interface of the IBM Network Storage Manager, customers can use such popular Internet browsers as Netscape Communications Corp's Navigator or IBM Web Explorer to backup and restore their files through the public Internet international network of computer networks or intra-company Intranets, IBM said.</p>
+<p>Individual telecommuters and remote offices can be linked to a company's main storage facility to back up their data without administrator assistance.</p>
+<p>Pricing information was not provided.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

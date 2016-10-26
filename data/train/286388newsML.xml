@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="286388" id="root" date="1997-01-03" xml:lang="en">
+<title>GREECE: Greek ErgoBank to cut loan rates Jan 7.</title>
+<headline>Greek ErgoBank to cut loan rates Jan 7.</headline>
+<dateline>ATHENS 1997-01-03</dateline>
+<text>
+<p>Greek ErgoBank will cut its working capital loan rate by 300 basis points to 21 percent, its consumer loan rate by 200 basis points to 22 percent effective January 7, it said in a statement.</p>
+<p>The rate on its ErgoBank- Visa credit card will be reduced by 350 basis points to 26 percent effective January 7, it said in a statement.</p>
+<p>The interest rate for commercial mortgages will be slashed to 17 percent from 20 percent, it said.</p>
+<p>ErgoBank will keep its base deposit and current deposit rates unchanged at 11 and 9.5 percent respectively, it added.</p>
+<p>ErgoBank is Greece's second largest private bank. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

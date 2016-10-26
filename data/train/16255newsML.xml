@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16255" id="root" date="1996-08-27" xml:lang="en">
+<title>SOUTH AFRICA: McRetail hikes yr shr, div increased.</title>
+<headline>McRetail hikes yr shr, div increased.</headline>
+<dateline>JOHANNESBURG 1996-08-27</dateline>
+<text>
+<p>Yr ended June 30, 1996</p>
+<p>			(million rand unless stated)</p>
+<p>Shr (cts)</p>
+<p>    - undiluted		 115.3	 vs	  92.5</p>
+<p>    - diluted		   102.6	 vs	  83.9</p>
+<p>    Div (cts)		    34.5	 vs	  28.0</p>
+<p>    Attrib income	    184.55	 vs	147.98</p>
+<p>    Pre-tax		    350.09	 vs	306.12</p>
+<p>    Tax			  107.28	 vs	102.55</p>
+<p>    Interest paid	     30.94	 vs	 69.23</p>
+<p>    Turnover		 9,324.69	 vs    8,002.99</p>
+<p>    Share of associates'   0.57	   vs    0.59 loss</p>
+<p>Div payable October 4</p>
+<p>on register September 13</p>
+<p>Full name: McCarthy Retail Ltd</p>
+<p>NOTE - The consensus earning per share forecast of analysts polled by Reuters was 125 cents, with the range 112.0-149.0 cents. The dividend forecast was at 36.8 cents, with the range 32.0-43.0.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

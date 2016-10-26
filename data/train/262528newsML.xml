@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262528" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Value Line Inc Q2 shr $0.79 vs $0.83.</title>
+<headline>Value Line Inc Q2 shr $0.79 vs $0.83.</headline>
+<dateline>NEW YORK 1996-12-17</dateline>
+<text>
+<p>Value Line Inc</p>
+<p>		   Consolidated Summary of Financial Results</p>
+<p>		    (in thousands except per share amounts)</p>
+<p>			  For the three months    For the six months</p>
+<p>			  ended Oct. 31	     ended Oct. 31,</p>
+<p>			  1996    1995(*)	   1996     1995(*)</p>
+<p> Revenues	     $22,347 $22,811	   $44,804  $42,839</p>
+<p> Operating income     9,024  10,134	    18,445   17,683</p>
+<p>Income from securities</p>
+<p> Transactions	   4,040   3,279	     5,498   12,601</p>
+<p> Income Before Taxes 13,064  13,413	    23,943   30,284</p>
+<p> Net Earnings	   7,839   8,250	    14,365   18,474</p>
+<p> Earnings Per Share   $0.79   $0.83	    $1.44    $1.85</p>
+<p>(*) Revenues and operating income for both the three months</p>
+<p>and six months ended October 31, 1995 include proceeds of</p>
+<p>$2,054,000 received in settlement of a disputed securities</p>
+<p>trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

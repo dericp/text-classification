@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147609" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: U.S. GULF REFORMULATED GASOLINE 1603 - OCT 28.</title>
+<headline>U.S. GULF REFORMULATED GASOLINE 1603 - OCT 28.</headline>
+<text>
+<p>Oct CTS/gal		  DIFFS		    OUTRIGHT</p>
+<p>		     NYMEX   BUY/SELL		    CTS/GAL</p>
+<p>  RFG 93 PPT	DEC6   2.50/2.75  N   PPT   70.70/70.95</p>
+<p>  RFG 93 ANY	DEC6   2.50/2.75  N   ANY   70.70/70.95</p>
+<p>  RFG 87 PPT	DEC6   1.00/1.25  N   PPT   69.20/69.45</p>
+<p>  RFG 87 ANY	DEC6   1.00/1.25  n   ANY   69.20/69.45</p>
+<p>NOTE: RFG=2.0% OXYGEN BY WEIGHT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

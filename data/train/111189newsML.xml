@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111189" id="root" date="1996-10-11" xml:lang="en">
+<title>INDIA: Yield on Indian 91-day t-bill eases to 10.11 pct.</title>
+<headline>Yield on Indian 91-day t-bill eases to 10.11 pct.</headline>
+<dateline>BOMBAY 1996-10-11</dateline>
+<text>
+<p>The Reserve Bank of India (RBI) said it set a cut-off price of 97.54 rupees at the weekly auction of 91-day treasury bills on Friday.</p>
+<p>Dealers said the yield worked out to 10.11 percent, compared to 10.20 percent at last week's auction.  </p>
+<p>The RBI said it accepted 17 of 42 competitive bids (including six partial allotments) for 47.28 billion rupees. Partial allotment to two non-competitive bids amounted to 271.9 million rupees.</p>
+<p>The total applications received in competitive bids amounted to 9.68 billion rupees.</p>
+<p>There was no devolvement on RBI or the primary dealers.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

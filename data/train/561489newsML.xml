@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="561489" id="root" date="1997-05-05" xml:lang="en">
+<title>FRANCE: Remy Cointreau year sales up 4.8 pct.</title>
+<headline>Remy Cointreau year sales up 4.8 pct.</headline>
+<dateline>PARIS 1997-05-05</dateline>
+<text>
+<p>Year to March 31, 1997.</p>
+<p>(All figures in millions of French francs)</p>
+<p>Total sales		 7.132    vs     6.802</p>
+<p>     -- Cognac		   2.322    vs     2.386</p>
+<p>     -- Wines and Spirits    2.251    vs     2.122</p>
+<p>     -- Champagne		  900    vs	 889</p>
+<p>     -- Partner brands	 1.658    vs     1.406</p>
+<p>NOTE - Remy Cointreau said in a statement that it had during the year taken measures to boost its brands which should help results in 1997/1998. It said Remy Martin cognac sales were slightly down in Japan and Thailand. Sales at Piper-Heidsieck, Charles Heisieck and Krug champagnes were up 10 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

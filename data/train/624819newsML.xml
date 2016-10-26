@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624819" id="root" date="1997-05-29" xml:lang="en">
+<title>AUSTRALIA: INSTANT VIEW-Australian trade, stocks data.</title>
+<headline>INSTANT VIEW-Australian trade, stocks data.</headline>
+<dateline>SYDNEY 1997-05-29</dateline>
+<text>
+<p>Australia's international balance of trade in goods and services showd a surplus of A$302 million in April, the Australian Bureau of Statistics reported.</p>
+<p>Forecasts had centred on a surplus of A$100 million, ranging from a deficit of A$100 million to a surplus of A$466 million.</p>
+<p>Separate data showed business inventories fell 2.1 percent in the March quarter. Forecasts for inventories, a component of GDP, had centred on a 0.5 percent rise. A selection of economists immediate reactions to the data follows.</p>
+<p>DAVID BASSANESE, BANKERS TRUST AUSTRALIA:</p>
+<p>&quot;We knew stocks were high and consumer spending had been strong in the first quarter. It was a bigger fall than we'd expected, but you can explain it as partly due to the increase in demand and partly due to the overhang in stocks from the previous quarter. GDP for the quarter now looks like coming in under one percent. We've got it at 0.8.&quot;  </p>
+<p>BRUCE HOCKMAN, SENIOR ECONOMIST, DEUTSCHE MORGAN GRENFELL:</p>
+<p>&quot;I haven't seen the revisions, but the numbers suggest stocks will drag down first quarter GDP below one percent. The interesting thing is it sugests there's an element of an unintended rundown in stocks. On the balance of goods and services, the surprise seems to be the rebound in exports. There's also a decline in imports over the last two months, which is good news. There may be some currency effect there.&quot;</p>
+<p>STEPHEN ROBERTS, CHIEF ECONOMIST, UBS AUSTRALIA:</p>
+<p>&quot;The stocks contribution obviously is a substantial negative for the March quarter but the offsets against that are the positive contribution from private capital spending. We will almost certainly get a positive contribution from housing activity and a very strong contribution from private consumption ... So even when you offset the stocks figure with the consumption spending number, you still end up with a positive GDP, so I wouldn't necessairly be revising any figures on the back of stocks contribution.&quot;  </p>
+<p>DAVID DE GARIS, SENIOR TREASURY ECONOMIST, ANZ BANK:</p>
+<p>&quot;On the basis our preliminary calculations they're (stocks) now suggesting a lower growth number for GDP in the first quarter. We're looking at this stage for growth of around 0.3 (percent) for the quarter, 1.8 (percent) over the year. I think the important point though is that with a lot of sales having been met through stock rundowns, it's important to also look at spending, and that was certainly a lot stronger in the March quarter -- private spending we estimate was up 2.2 (percent).&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="E313">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

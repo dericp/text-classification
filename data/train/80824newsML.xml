@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80824" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: Customedix says its court settlement stands.</title>
+<headline>Customedix says its court settlement stands.</headline>
+<dateline>WALLINGFORD, Conn. 1996-09-27</dateline>
+<text>
+<p>Customedix Corp said on Friday the appeal period on a court decision had expired, clearing the way for a private buyout of the company.</p>
+<p>A Delaware Chancery Court had approved an out-of-court settlement of a shareholder law suit 30 days ago, the company said in a statement. Shareholders had tried to stop Customedix chairman and chief executive Gordon Cohen and a parternership made up of Cohen family trusts from buying the company.</p>
+<p>Under the buyout terms, all Customedix shareholders, apart from Cohen and the partnership, would get $2.375 for each Customedix share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WALLINGFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276359" id="root" date="1996-12-26" xml:lang="en">
+<title>USA: S.D. 420 MW Big Stone coal-fired plant shuts Thurs.</title>
+<headline>S.D. 420 MW Big Stone coal-fired plant shuts Thurs.</headline>
+<dateline>NEW YORK 1996-12-26</dateline>
+<text>
+<p>A 420 megawatt (MW) coal-fired generating station in Big Stone City, S.D., was shut Thursday as engineers began investigating a problem at the plant's fire system, the operator Otter Tail Power Co said today.</p>
+<p>&quot;We're not sure of the cause,&quot; a company spokesman said, adding the manufacturer of the system was contacted.</p>
+<p>The utility anticipated the outage at the Big Stone facility would be brief, the spokesman said.</p>
+<p>&quot;We expect it's a matter of days,&quot; he said, adding there was ample generation capacity to meet current demand.</p>
+<p>Otter Tail Power, based in Fergus Falls, Minn., also has majority ownership of Big Stone. Northwestern Public Service and Montana-Dakota Utilities are the other owners of the plant.</p>
+<p>((--New York Power Desk +1 212 859 1622))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

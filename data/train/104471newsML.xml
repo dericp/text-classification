@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104471" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: SoCal Edison nuclear unit seen up Friday.</title>
+<headline>SoCal Edison nuclear unit seen up Friday.</headline>
+<dateline>LOS ANGELES 1996-10-09</dateline>
+<text>
+<p>Edison International's Southern California Edison Co expects its 1,080 megawatt (MW) unit 2 at the San Onofre nuclear plant to re-synchronize to the regional grid on Friday, a company spokesman said Wednesday.</p>
+<p>The unit will then take another 24 to 72 hours to attain full capacity, said spokesman Ray Golden.</p>
+<p>The unit has been down since September 24 for repairs to a leak in the reactor's coolant system.</p>
+<p>The San Onofre plant's 1,070 MW unit 3 is scheduled to shut for a 70-day refueling on November 30.</p>
+<p>Edison has a 75 percent stake in the San Onofre plant, while San Diego Gas and Electric Co owns 20 percent and two municipal utilities share the remaining five percent.</p>
+<p>-- D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

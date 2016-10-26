@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189811" id="root" date="1996-11-14" xml:lang="en">
+<title>UK: NWE oil products up, crude boosts fuel oil.</title>
+<headline>NWE oil products up, crude boosts fuel oil.</headline>
+<dateline>LONDON 1996-11-14</dateline>
+<text>
+<p>NWE oil products were stronger on Thursday, with crude helping both low and high sulphur fuel.</p>
+<p>Gas oil prices firmed around $3 with futures but traders mostly held back from the market in continuing caution over the fallout from a record high physical delivery against the November IPE contract.</p>
+<p>Naphtha rose sharply but traders said the impetus was from stronger crude and swaps and not its own fundamentals.</p>
+<p>Gasoline prices gained and were waiting for further direction from NYMEX after the U.S. API and EIA reports.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

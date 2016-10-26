@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88471" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Leading economic index up moderately in August.</title>
+<headline>Leading economic index up moderately in August.</headline>
+<byline>Glenn Somerville</byline>
+<dateline>WASHINGTON 1996-10-01</dateline>
+<text>
+<p>A key gauge of economic activity posted a moderate but broad-based gain in August, the Conference Board said Tuesday, pointing to steady expansion ahead.</p>
+<p>The Index of Leading Indicators, which is supposed to forecast economic trends six to nine months down the road, rose 0.2 percent in August after an identical 0.2 percent July gain.</p>
+<p>It was a seventh straight monthly increase for the leading index and fit with other recent signs of slower but continuing growth in the third quarter and beyond.</p>
+<p>The leading index measures a basket of economic indicators, from unemployment benefit claims to building permits. Seven of its 11 components were stronger in August, while four showed some weakening from July.</p>
+<p>The signals of rising activity in August were led by increased commodity prices, higher stock prices and fewer new claims for unemployment pay. In addition, vendor delivery times slowed because companies were busier, the average workweek lengthened, the money supply increased and consumer expectations strengthened.</p>
+<p>The negative indicators were paced by a decline in order backlogs and by fewer new orders for plant and equipment. Consumer goods orders also fell from July and there were fewer applications for building permits.</p>
+<p>The economy's rate of growth is widely perceived to have slowed in the third quarter that ended Sept. 30 from the second quarter's strong 4.7 percent annual rate of expansion.</p>
+<p>But recent government reports indicate it continued to have considerable momentum in its sixth year of expansion from the 1990-91 recession.</p>
+<p>The Commerce Department said Monday that new-home sales hit a 10-year peak in August, while personal incomes and consumer spending each advanced a relatively strong 0.6 percent in August amid robust monthly job growth.</p>
+<p>The leading indicators report suggests some easing in industrial activity, with both new orders and existing-order backlogs down. On Monday, the Chicago Purchasing Managers' September index reported a slight decline in business.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

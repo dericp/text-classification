@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="670383" id="root" date="1997-06-18" xml:lang="en">
+<title>USA: BALANCE -- University of Maryland at $7.4 mln.</title>
+<headline>BALANCE -- University of Maryland at $7.4 mln.</headline>
+<text>
+<p>UNIVERSITY OF MARYLAND SYSTEM</p>
+<p>RE: $60,000,000</p>
+<p>AUXILIARY FACILITY AND TUITION REVENUE BONDS</p>
+<p>1997 SERIES A</p>
+<p>    MOODY'S: Aa3		   S&amp;P: AA+</p>
+<p>Delivery Date: 07/02/1997</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>04/01/2000	   1,415M    5.00	  4.15</p>
+<p>04/01/2001	   1,530M    5.00	  4.25</p>
+<p>04/01/2003	   1,725M    5.00	  4.45</p>
+<p>04/01/2004	   1,810M    5.00	  4.55</p>
+<p>04/01/2008	     930M    5.00	  4.90</p>
+<p>CALL FEATURES: 04/01/2007    101.00</p>
+<p>		   DTP 04/01/2009</p>
+<p>  Total:	     7,410M</p>
+<p>Goldman, Sachs &amp; Co.</p>
+<p>Interstate/Johnson Lane Corporation</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

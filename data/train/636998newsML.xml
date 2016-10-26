@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636998" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: Wisconsin Electric nuclear plants to restart.</title>
+<headline>Wisconsin Electric nuclear plants to restart.</headline>
+<dateline>TWO CREEKS, Wis. 1997-06-04</dateline>
+<text>
+<p>Wisconsin Electric, owner and operator of a facility that provides one-sixth of the state's electricity, said that both units of its Point Beach Nuclear Plant should be returned to service by mid-July,</p>
+<p>According to new estimates, Unit 2 should be returned to service on or about June 25. It has been out of service since October 1996 for refueling, replacement of its steam generators and additional maintenance.</p>
+<p>Unit 1 should be returned to service on or about July 18. Unit 1 was taken out of service for unscheduled maintenance on February 18 and ready to return to service in March, but kept off line since it was scheduled for a refueling outage in May.</p>
+<p>It will return to service in July when electricity demand is highest and will go off line for refueling in September.</p>
+<p>Wisconsin Electric, a subsidiary of Wisconsin Energy Corp, provides electricity, natural gas and/or steam service to about 2.3 million people in parts of Wisconsin and Michigan.</p>
+<p>	  ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TWO CREEKS, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

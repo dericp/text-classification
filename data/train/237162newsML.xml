@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237162" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Poppe Tyson's IPO postponed - underwriter.</title>
+<headline>Poppe Tyson's IPO postponed - underwriter.</headline>
+<dateline>NEW YORK 1996-12-05</dateline>
+<text>
+<p>Poppe Tyson Inc's three million share initial public offering has been &quot;postponed indefinitely&quot; due to market conditions, underwriter Merrill Lynch said on Thursday.</p>
+<p>Last month, the price range on the IPO was dropped to $9 to $11 a share, from an earlier range of $10 to $12.</p>
+<p>The New York-based advertising agency, majority owned by Bozell, Jacobs, Kenyon &amp; Eckhardt Inc, specializes in developing marketing programs using the Internet and CD-ROMs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

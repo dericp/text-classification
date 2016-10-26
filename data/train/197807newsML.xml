@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="197807" id="root" date="1996-11-18" xml:lang="en">
+<title>FRANCE: Valeo active with big blocks traded.</title>
+<headline>Valeo active with big blocks traded.</headline>
+<dateline>PARIS 1996-11-18</dateline>
+<text>
+<p>Two blocks totalling 355,000 shares in car parts maker Valeo, representing 0.5 percent of its capital, were traded on Monday just after 1200 GMT, bourse operators said. The shares were traded at 310.90 francs each.</p>
+<p>Shares accounting for five percent of the capital have changed hands since last week, following an announcement on November 5 that holding company CGIP had bought 20.2 percent of Valeo to become the group's largest shareholder.</p>
+<p>Traders speculated on Monday that insurer Union des Assurances de Paris may be selling its two percent stake in Valeo.</p>
+<p>Officials at Valeo and UAP were not immediately available for comment.</p>
+<p>On Friday, the state-owned Caisse des Depots et Consignations said it had acquired 6.60 percent of Valeo as part of the transaction involving CGIP.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452 nim/cct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

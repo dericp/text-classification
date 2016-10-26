@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57472" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: NYMEX electric futures mostly higher in thin trade.</title>
+<headline>NYMEX electric futures mostly higher in thin trade.</headline>
+<dateline>NEW YORK 1996-09-17</dateline>
+<text>
+<p>NYMEX electricity futures ended mixed in thin trade with little news to move the market and mild temperatures through much of the country, industry sources said.</p>
+<p>&quot;There was a lot of over the counter activity and people were really wrapped up with that, which can sometimes push up futures volumes but that wasn't the case today,&quot; said one power futures broker.</p>
+<p>October California Oregon Border (COB) ended up eight cents at $15.50 after trade in a range of $15.40-15.70, while November ended steady at $16.40 per megawatt hour (MWh).</p>
+<p>Remaining COB deferreds settled between two and 10 cents higher.</p>
+<p>October Palo Verde (PV) closed down five cents at $16.05 after trading as high as $16.15, while November was steady at $15.05.</p>
+<p>Remaining PV deferreds finished up between five and 10 cents, with the exception of October, 1997 which closed up 50 cents at $16.50 per MWh.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

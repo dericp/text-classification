@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="808191" id="root" date="1997-08-19" xml:lang="en">
+<title>RUSSIA: Russia MOF proposes '98 budget deficit 4.8 pct/GDP.</title>
+<headline>Russia MOF proposes '98 budget deficit 4.8 pct/GDP.</headline>
+<dateline>MOSCOW 1997-08-19</dateline>
+<text>
+<p>Russia's finance ministry will propose a 1998 budget deficit to the cabinet on Thursday of 132 trillion roubles or 4.8 percent of gross domestic product (GDP), a senior government source said on Tuesday.</p>
+<p>Russia is now expecting a 1997 deficit of 5.35 percent of GDP, against the 3.5 percent planned in the 1997 budget, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

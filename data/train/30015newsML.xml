@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="30015" id="root" date="1996-09-03" xml:lang="en">
+<title>SRI LANKA: Aitken Spence Q1 net turns to loss.</title>
+<headline>Aitken Spence Q1 net turns to loss.</headline>
+<dateline>COLOMBO 1996-09-03</dateline>
+<text>
+<p>Unaudited results for the three months ended June 30, 1996:</p>
+<p>(in millions of rupees unless stated):</p>
+<p>				   Q1 96/97	    Q1 95/96</p>
+<p>    Turnover		    540.87    vs	607.90</p>
+<p>    Net profit/loss  (loss)  34.43    vs	 14.25 (profit)</p>
+<p>    Tax provision		 2.85    vs	  4.76</p>
+<p>NOTE - Aitken Spence &amp; Co Ltd is a holding company with more than 20 subsidiaries and associated firms, many of which are in the tourist industry. It said the loss was due to a fall in tourist arrivals. -- Colombo newsroom (941) 434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

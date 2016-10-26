@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="410586" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Hormel, union negotiating at Ill pork plant.</title>
+<headline>Hormel, union negotiating at Ill pork plant.</headline>
+<dateline>CHICAGO 1997-02-28</dateline>
+<text>
+<p>Union officials and management at Hormel Foods Corp plant in Rochelle, Ill., were meeting Friday on a new labor contract, a company spokesman said.</p>
+<p>&quot;We do not anticipate a strike or work stoppage,&quot; said Allan Krejci, director of public relations.</p>
+<p>&quot;Our Rochelle people are meeting with union officials, otherwise it's business as usual,&quot; Krejci said.</p>
+<p>The workers' contract reportedly expired last Sunday and there was talk of a possible strike if negotiations fail this weekend, a market source said.</p>
+<p>Company officials and representatives of United Food and Commercial Workers Local 1540, which reportedly represents the plant employees, could not be reached for comment.</p>
+<p>The plant in north central Illinois, has an estimated daily hog slaughter capacity of up to 7,000 head and employs about 600 people, industry sources estimated.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

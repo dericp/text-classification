@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183241" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: ICF Kaiser Q3 shr declines to $0.01.</title>
+<headline>ICF Kaiser Q3 shr declines to $0.01.</headline>
+<dateline>FAIRFAX, Va. 1996-11-12</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr	profit	  $0.01   profit	 $0.05</p>
+<p> Net	profit	    224   profit	 1,002</p>
+<p> Revs		     379,971		  346,591</p>
+<p> Avg shrs		  22,227		   21,565</p>
+<p>	   9 MONTHS</p>
+<p> Shr	profit	  $0.10     loss	 $0.08</p>
+<p> Net	profit	  2,089     loss	 1,689</p>
+<p> Revs		   1,023,410		  731,795</p>
+<p> Avg shrs		  21,955		   21,427</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Full company name is ICF Kaiser International Inc</p>
+<p>NOTE: The company said the revenue increase in the first nine months 1996 was mostly due to increases from the Rocky Flats contract.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FAIRFAX, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

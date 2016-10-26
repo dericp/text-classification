@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429652" id="root" date="1997-03-10" xml:lang="en">
+<title>USA: Lucent unveils Inferno real-time network OS.</title>
+<headline>Lucent unveils Inferno real-time network OS.</headline>
+<dateline>MURRAY HILL, N.J. 1997-03-10</dateline>
+<text>
+<p>Lucent Technologies Inc said it will offer a real-time network operating system designed for use with the public phone network, the Internet, corporate networks, cable TV and satellite broadcast systems.</p>
+<p>Real-time systems are slimmed-down versions of computer operating systems that give computer-like intelligence to a range of appliances and devices linked to networks -- from phones to TV set-top boxes to network routers and switches.</p>
+<p>Lucent said its new Inferno real-time system is targeted at the emerging market for Internet-connected &quot;information appliances&quot; like screen phones and video home terminals.  </p>
+<p>&quot;We are trying to chase the information appliance market for products like network screen phones phones and digital video home terminals,&quot; Mike Skarzynski, general manager of Lucent's Inferno network software unit, said by phone.</p>
+<p>The Lucent official said the company plans to announce about 20 customers for the Inferno system later this month, including several major consumer electronics companies.</p>
+<p>&quot;We are talking with all of them and we hope to do something with several of the major Japanese, Taiwanese and European consumer electronic companies ... and their U.S. representatives,&quot; Skarzynski said.  </p>
+<p>The Inferno operating system, which takes up about one megabyte of computer memory, is available immediately, the Lucent official said. Single copies are free for evaluation at Lucent's web site.</p>
+<p>A license to use Inferno in a PC application runs $25 per single user. The company offers significant discounts to consumer electronics using Inferno in large-volume applications, with prices dropping as low as U.S. $5 per user.</p>
+<p>&quot;We think that's at the middle- to low-end compared to price points for similar products,&quot; Skarzynski said.  </p>
+<p>Competing products include Wind River's Tornado real-time system and a similar product from France's Chorus, he said.</p>
+<p>Potential competitors include Motorola Inc, Acorn Computer Group Plc, Silicon Valley start-up Diba Inc, Psion Plc and Microsoft Corp with its Windows CE operating system.</p>
+<p>Inferno is designed to work with Microsoft's Windows NT and UNIX operating systems. It also software for speech and audio applications, and open database connectivity (ODBC) for Informix, Microsoft, Sybase and Oracle databases, Lucent said.</p>
+<p>Inferno 1.0 runs as a stand-alone operating system on small devices which use microprocessors including Hitachi Ltd's SH3, Digital Equipment Corp StrongArm, Intel Corp's 386 chips and above, Silicon Graphics Inc's MIPS, Motorola's 68030 and Power PC, Sun Microsystems Inc's SPARC.</p>
+<p>Lucent said it plans to incorporate Inferno inside all of the data network hardware and software products it sells.</p>
+<p>((-- E. Auchard, New York newsdesk, 212-859-1736))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MURRAY HILL, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

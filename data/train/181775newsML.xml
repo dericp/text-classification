@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181775" id="root" date="1996-11-12" xml:lang="en">
+<title>SPAIN: SOCCER-BARCELONA DENY INTEREST IN NEWCASTLE'S GINOLA.</title>
+<headline>SOCCER-BARCELONA DENY INTEREST IN NEWCASTLE'S GINOLA.</headline>
+<dateline>BARCELONA 1996-11-12</dateline>
+<text>
+<p>Barcelona have denied reports that they are interested in signing Newcastle United's French forward David Ginola.</p>
+<p>&quot;There is nothing in it,&quot; a Barcelona club source said on Tuesday. &quot;The club looked at signing him in the close season but in the end he was considered too expensive,&quot;</p>
+<p>Several Spanish newspapers reported a transfer was possible after Ginola's agent was seen in the president's box at Barcelona's game against Atletico Madrid on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BARCELONA"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

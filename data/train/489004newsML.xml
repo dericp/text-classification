@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489004" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: Journal.</title>
+<headline>Journal.</headline>
+<dateline>NEW YORK 1997-04-04</dateline>
+<text>
+<p>USX Corp's U.S. Steel Group is actively seeking prospective acquisitions, partnerships or mergers, the Wall Street Journal said Friday.</p>
+<p>U.S. Steel President Paul Wilhelm told analysts in New York it was looking at steelmakers which would make a strategic fit, the paper reported.</p>
+<p>The paper said Wilhelm did not name specific targets but named strengths U.S. Steel was looking for, like contracts with Japanese automakers operating in the United States.</p>
+<p>According to analysts who attended the meeting, Wilhelm cited National Steel Corp and Inland Steel Industries as good fits, the paper said.</p>
+<p>None of the companies was immediately available to comment. The paper said neither Wilhelm nor the other companies would confirm any talks.</p>
+<p>An Inland Steel spokesman was quoted in the paper as saying the &quot;company is not for sale and never has been for sale.&quot; But according to an industry official familiar with Inland and USX, the companies have talked in the past year, the Journal said.</p>
+<p>National Steel is controlled by Japan's NKK Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

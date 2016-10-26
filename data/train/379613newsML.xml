@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379613" id="root" date="1997-02-14" xml:lang="en">
+<title>USA: Applied Cellular completes MVAK Tech buy.</title>
+<headline>Applied Cellular completes MVAK Tech buy.</headline>
+<dateline>NIXA, Mo. 1997-02-13</dateline>
+<text>
+<p>Applied Cellular Technology Inc said Thursday it completed its previously announced acquisition of  MVAK Technologies Inc for an undisclosed price.</p>
+<p>MVAK remanufactures and services vacuum pumps used in semiconductor, medical and electronics manufacruting operations, the company said. MVAK posted annual revenues of $2.6 million in 1996, Applied Cellular said.</p>
+<p>Applied Cellular designs satellite communications subsystems.</p>
+<p>Its shares closed unchanged Thursday at 4-3/8.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIXA, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

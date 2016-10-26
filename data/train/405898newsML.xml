@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="405898" id="root" date="1997-02-26" xml:lang="en">
+<title>GERMANY: Thyssen spins off peripheral units.</title>
+<headline>Thyssen spins off peripheral units.</headline>
+<dateline>ESSEN, Germany 1997-02-26</dateline>
+<text>
+<p>Thyssen Industrie AG said on Wednesday it had sold two peripheral subsidiaries as part of a restructuring to concentrate on core activities.</p>
+<p>The unit of steel and engineering group Thyssen AG said it has sold a ring-rolling plant construction unit to Eumuco Hasenclever GmbH of Leverkusen. That transaction has already been approved by cartel authorities.</p>
+<p>It also sold its Ruhrpumpen pump unit to the Canadian-Mexican Derlan Industries EG.</p>
+<p>Thyssen said the new owners would continue operations of the plants in Witten, preserving 210 jobs.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESSEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

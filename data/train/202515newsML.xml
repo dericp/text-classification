@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202515" id="root" date="1996-11-20" xml:lang="en">
+<title>PERU: Peru says cenbank bought $800 mln to date in 1996.</title>
+<headline>Peru says cenbank bought $800 mln to date in 1996.</headline>
+<dateline>LIMA 1996-11-20</dateline>
+<text>
+<p>Economy Minister Jorge Camet told Congress Wednesday Peru had bought so far this year $800 million on the local exchange market.</p>
+<p>&quot;In order to have a gradual improvement in the exchange rate projected for 1996, in the year to date -- reflecting a big effort by the treasury -- $800 million has been bought,&quot; Camet said.</p>
+<p>In September, Camet estimated the Central Reserve Bank's foreign currency buying this year would total $900 million.</p>
+<p>Camet has said the government's goal for an average exchange rate in 1996 is 2.40 soles to the dollar.</p>
+<p>The central bank has been intervening in the local market this year to maintain a gradual depreciation of the sol.</p>
+<p>The sol began the year at 2.30 to the dollar and is currently trading around 2.57.</p>
+<p>The government has predicted an average annual rate of 2.70 soles to the dollar next year in its 1997 budget proposal.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

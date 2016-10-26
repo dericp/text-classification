@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="278409" id="root" date="1996-12-27" xml:lang="en">
+<title>ITALY: Port conditions update - Italy - Lloyds Shipping.</title>
+<headline>Port conditions update - Italy - Lloyds Shipping.</headline>
+<text>
+<p>Port conditions from Lloyds Shipping Intelligence Service --</p>
+<p>ITALY, Dec 27 - Trieste - Porto Nogaro - Margreth quay operative again on four berths only and with some restrictions on shore operations. It is expected that all blocked vessels will be ready to leave tomorrow. Geological survey of entire quay area will be carried out to find defective zones to be refilled to restore operativity of all berths.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

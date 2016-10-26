@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116045" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: J.B. Hunt Transport Q3 net rises.</title>
+<headline>J.B. Hunt Transport Q3 net rises.</headline>
+<dateline>LOWELL, Ark. 1996-10-15</dateline>
+<text>
+<p>J. B. Hunt Transport Services, Inc.</p>
+<p>		  Comparative Condensed Statement of Earnings</p>
+<p>		     (in thousands, except per share data)</p>
+<p>				 (Unaudited)</p>
+<p>			     Three Months Ended   Nine Months Ended</p>
+<p>				  September 30	   September 30</p>
+<p>				 1996	 1995	1996	 1995</p>
+<p>Operative revenues $  378,739$  355,114 $1,105,326$  993,757  Operating income	 17,433     9,716     45,301    26,668</p>
+<p> Net earnings		7,082     1,840     16,751     4,591</p>
+<p> Earnings per share	 0.19	0.05	 0.44	0.12</p>
+<p>Average number of</p>
+<p>shares</p>
+<p>  outstanding	     38,095    38,669     38,077    38,598</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOWELL, Ark."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

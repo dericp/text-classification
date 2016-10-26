@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351594" id="root" date="1997-02-03" xml:lang="en">
+<title>SWITZERLAND: Swiss purchasing index shows industrial expansion.</title>
+<headline>Swiss purchasing index shows industrial expansion.</headline>
+<dateline>ZURICH 1997-02-03</dateline>
+<text>
+<p>The Swiss Purchasing managers' index (PMI) rose to 51.2 percent from a revised 44.2 percent in December, the first time since February 1996 the PMI indicated a slight expansion in Swiss industry.</p>
+<p>The improvement in the index, which is compiled by Credit Suisse and the Swiss Association for Material Management and Purchasing (SVME), is mainly due to rises in the sub-indicies for production and order levels.</p>
+<p>Apart from the employment index, all sub-indicies rose with production, orders-on-hand, purchasing volume and purchasing prices rising above the critical 50 percent level.</p>
+<p>The production index, which showed the strongest rise, was partially due to a higher number of working days. An increase in purchasing prices was also affected by the weaker Swiss franc.</p>
+<p>The Swiss PMI, published since September 1995, is based on surveys in which companies are asked to rate each sub-index as higher, lower or unchanged from the month before.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

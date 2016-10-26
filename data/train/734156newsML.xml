@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734156" id="root" date="1997-07-16" xml:lang="en">
+<title>UK: German company in Bosnia gas venture - report.</title>
+<headline>German company in Bosnia gas venture - report.</headline>
+<dateline>LONDON 1997-07-16</dateline>
+<text>
+<p>A division of Hoechst AG, Germany's biggest chemicals and pharmaceuticals company, has founded a joint venture in Bosnia in what it says is the first important foreign investment in the region since the end of the war, the Financial Times said on Wednesday.</p>
+<p>Messer Griesheim said it had bought a controlling stake in a company in Mostar to produce and market industrial gases.</p>
+<p>It said it would invest two million marks ($1.1 million) to build a gas filling plant and expand and modernise existing buildings.</p>
+<p>The company, Germany's biggest supplier of industrial gases, did not disclose how much it had paid for its 51 percent stake in the joint venture, to be called Messer Mostar Plin.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BSHZG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

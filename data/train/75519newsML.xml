@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75519" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: PRESALE- $40 mln Ohio.</title>
+<headline>PRESALE- $40 mln Ohio.</headline>
+<text>
+<p>AMT: 40,000,000     DATE: 10/01/96	NYC Time: 1100	CUSIP: 677597</p>
+<p>ISSUER: Ohio								ST: OH</p>
+<p>ISSUE: Mental health capital facil., Series II-1996 B	TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 10/01/96							     SURE BID: Y</p>
+<p>DUE: 6/1/97-11						SR MGR:</p>
+<p>1ST CPN: 12/01/96</p>
+<p>CALL: 6/1/06 at par					 NIC</p>
+<p>DELIVERY: 10/17/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: The Huntington Natl Bank, Columbus</p>
+<p>L.O.: Squire, Sanders &amp; Dempsey, Columbus</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $40,000,000 MBIA 2/6/96 @ 4.672% NIC; 8 yrs 7 mos Avg; BBI-5.40%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		  1,900,000</p>
+<p>1998		  2,000,000</p>
+<p>1999		  2,100,000</p>
+<p>2000		  2,200,000</p>
+<p>2001		  2,300,000</p>
+<p>2002		  2,400,000</p>
+<p>2003		  2,500,000</p>
+<p>2004		  2,700,000</p>
+<p>2005		  2,800,000</p>
+<p>2006		  3,000,000</p>
+<p>2007		  3,100,000</p>
+<p>2008		  3,300,000</p>
+<p>2009		  3,500,000</p>
+<p>2010		  3,600,000</p>
+<p>2011		  2,600,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

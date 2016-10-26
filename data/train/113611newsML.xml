@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113611" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: TRW to cut 2,300 jobs, close plants.</title>
+<headline>TRW to cut 2,300 jobs, close plants.</headline>
+<dateline>CLEVELAND 1996-10-14</dateline>
+<text>
+<p>TRW Inc said Monday it will cut 2,300 jobs and close or consolidate a number of manufacturing facilities after it reported $233.4 million in after-tax third quarter charges.</p>
+<p>The company said the charges related to the reconfiguration of its automotive manufacturing plants, litigation and warranty expenses, contract and employee benefit reserves and impaired asset writedowns.</p>
+<p>As a result, the company said, it will close or consolidate several manufacturing facilities and cut employment company-wide by about 2,300.  </p>
+<p>The facilites to be affected are automotive parts-making plants. Two are in Michigan, one is in Texas and one is in Ontario, said company spokesman Jay McCaffrey.</p>
+<p>McCaffrey said the job cuts would come from these facilities and elsewhere.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

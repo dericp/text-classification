@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="510042" id="root" date="1997-04-15" xml:lang="en">
+<title>USA: Wounded Tennessee policeman who suddenly spoke dies.</title>
+<headline>Wounded Tennessee policeman who suddenly spoke dies.</headline>
+<dateline>CHATTANOOGA, Tenn. 1997-04-15</dateline>
+<text>
+<p>A policeman who nearly died from a head wound then shocked his family a year ago when he suddenly recovered his speech after seven years of virtual silence, died on Tuesday, hospital officials said.</p>
+<p>Gary Dockery, 43, was in a Chattanooga nursing home since his health and level of consciousness had declined in recent months.</p>
+<p>Early last year, Dockery surprised his family and his doctors when he suddenly began speaking clearly after spending seven years in a semi-responsive state. Although not comatose, Dockery's brain damage left him with a limited ability to respond.</p>
+<p>Surgeons had not expected Dockery to live more than a day after a robber's bullet split in two and pierced key areas of his brain.</p>
+<p>But just as family members were making the decision on whether to cut off treatment from him for a case of pneumonia, Dockery's &quot;awakening&quot; brought hope and worldwide publicity.</p>
+<p>Doctors suspected that a fever or some combination of medications triggered Dockery's temporary recovery, which lasted only a few days before he lapsed back into his previous state.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATTANOOGA, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

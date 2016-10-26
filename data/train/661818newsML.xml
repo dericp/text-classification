@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="661818" id="root" date="1997-06-14" xml:lang="en">
+<title>LEBANON: Israeli soldier wounded in Hizbollah shelling.</title>
+<headline>Israeli soldier wounded in Hizbollah shelling.</headline>
+<dateline>MARJAYOUN, Lebanon 1997-06-14</dateline>
+<text>
+<p>An Israeli soldier was wounded on Saturday when Hizbollah guerrillas fired mortar bombs into his outpost in south Lebanon, pro-Israeli militia sources said.</p>
+<p>They said guerrillas fired mortar bombs into the outpost of Ghozlan in the eastern sector of Israel's south Lebanon occupation zone. The injured soldier was taken immediately to Israel.</p>
+<p>In Beirut, Hizbollah claimed responsibility for the attack and said its fighters also clashed with a group of Israeli soldiers in Kassarat al-Oroush and shelled the outposts of Sojoud, Rihan and Kfar Houna in the eastern sector of the zone.</p>
+<p>Militia sources inside the zone confirmed the attacks saying no one was injured. They said a number of shells fell inside the inhabited town of Rihan, causing no casualties or damage.</p>
+<p>Hizbollah guerrillas fight Israeli troops and their local militia allies in a bid to oust them from the 15-km (nine miles)-wide south Lebanon occupation zone.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARJAYOUN, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235519" id="root" date="1996-12-04" xml:lang="en">
+<title>PAPUA NEW GUINEA: PNG islanders evacuated as volcano erupts.</title>
+<headline>PNG islanders evacuated as volcano erupts.</headline>
+<dateline>PORT MORESBY 1996-12-04</dateline>
+<text>
+<p>Thousands of villagers on the Papua New Guinea island of Manam were being evacuated on Wednesday after the island's volcano began erupting violently spewing ash and lava.</p>
+<p>Two people were killed by flying debris, said emergency service officials, and there was an unconfirmed report of a third death.</p>
+<p>The South Pacific island nation's emergency services had been monitoring the erupting volcano for the past month, but declared a stage four alert on Tuesday night.</p>
+<p>Manam island is 15 km (nine miles) off the northeast coast of Papua New Guinea and last erupted in both 1991 and 1992.</p>
+<p>Local provincial government officials told Reuters by telephone that only villages in the path of the lava were being evacuated.</p>
+<p>By Wednesday evening some 1,500 villagers had been ferried by boat to the Papua New Guinea mainland, said an officer for the Madang provincial government. He said a further 1,000 villagers would be evacuated.</p>
+<p>There are a total of 7,000 people on the island.</p>
+<p>By Wednesday afternoon lava flows had destroyed one village, Buduwa and lava had reached the sea.</p>
+<p>&quot;It's very difficult for the vessels to go in, so they are going to have to be taken out by small boats,&quot; said Leith Anderson, director of the National Disaster and Emergency Services in the capital Port Moresby.</p>
+<p>In 1957 the village of Buduwa was relocated after it was destroyed by a volcanic eruption. Papua New Guinea is on the Pacifc's volcanic belt called the &quot;Ring of Fire&quot;.</p>
+<p>Rabaul, a port town located on New Britain island 800 kms (500 miles) northeast of Port Moresby, was devastated in September 1994 when two volcanoes on either side of the town erupted, forcing the evacuation of 30,000 residents.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT MORESBY"/>
+<dc element="dc.creator.location.country.name" value="PAPUA NEW GUINEA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

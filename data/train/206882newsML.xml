@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206882" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Marcus to build theater complex in Michigan.</title>
+<headline>Marcus to build theater complex in Michigan.</headline>
+<dateline>UTICA, Mich. 1996-11-21</dateline>
+<text>
+<p>Marcus Corp said Thursday its Marcus Theatres division planned to build its first movie complex in Michigan.</p>
+<p>The 60,000-square-foot facility in Utica, a northeast suburb of Detroit, will have 14 screens and seat more than 3,300 people. The project's 14-acre site is large enough for future growth to 20 screens.</p>
+<p>Construction is scheduled to begin immediately after plans are approved by the city of Utica, and the company projects an early fall 1997 opening.</p>
+<p>Milwaukee-based Marcus is currently ranked as the 19th largest U.S. theater operator, with 286 screens in Wisconsin and Illinois, it said. The company also is exploring sites in Kansas City and St. Louis, both in Missouri.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I5010031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="I97412">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UTICA, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="287979" id="root" date="1997-01-06" xml:lang="en">
+<title>USA: ConEd sees approval for market-based rates.</title>
+<headline>ConEd sees approval for market-based rates.</headline>
+<dateline>NEW YORK 1997-01-06</dateline>
+<text>
+<p>Consolidated Edison Co of New York Inc (ConEd) said Monday it expects Federal Energy Regulatory Commission (FERC) approval next month allowing its marketing unit to sell bulk electricity at market-based rates.</p>
+<p>&quot;We expect to get approval in early February,&quot; said ConEd spokesman Michael Spall.</p>
+<p>ConEd filed the request December 9 for Megawatt-Hour Store, its marketing subsidiary.</p>
+<p>Currently, ConEd is restricted to buying and selling electricity at cost-based rates.</p>
+<p>Cost-based rates are set by FERC tariffs at the incremental cost of power plus a small but guaranteed profit.</p>
+<p>&quot;With approval of this FERC filing, we expect to enlarge our trading activities to a larger geographic area, and provide better deals,&quot; said Ken Bekman, head of the Megawatt-Hour Store.</p>
+<p>((--New York Power Desk + 212 859 1622))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

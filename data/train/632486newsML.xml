@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632486" id="root" date="1997-06-02" xml:lang="en">
+<title>IRAN: Force 4.3 quake hits western Iran - agency.</title>
+<headline>Force 4.3 quake hits western Iran - agency.</headline>
+<dateline>TEHRAN 1997-06-02</dateline>
+<text>
+<p>An earthquake measuring 4.3 on the Richter scale jolted the city of Boroujerd in Western Iran on Monday, but there was no immediate word on casualties or damage, the official news agency IRNA said.</p>
+<p>It said the quake hit the city at 8.32 a.m. (0402 GMT). &quot;No report has yet been received on possible damage inflicted by the tremor,&quot; it added.</p>
+<p>Earthquakes of force four or more can cause heavy damage in a populated area.</p>
+<p>Earthquakes often hit Iran. Last month a force 7.1 quake devastated nearly 170 villages in the east of the country, killing at least 1,568 people and displacing 50,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

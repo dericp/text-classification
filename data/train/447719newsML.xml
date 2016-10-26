@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="447719" id="root" date="1997-03-17" xml:lang="en">
+<title>USA: Ford may make announcement on Ohio plant.</title>
+<headline>Ford may make announcement on Ohio plant.</headline>
+<dateline>DETROIT 1997-03-17</dateline>
+<text>
+<p>Ford Motor Co said Monday it may make an announcement later in the day regarding the future of its Lorain, Ohio, assembly plant.</p>
+<p>A Ford spokesman declined to elaborate on the nature of the announcement. &quot;I can only say, 'stay tuned',&quot; he said.</p>
+<p>The automaker is expected by industry analysts to acknowledge that it will end production of Ford Thunderbird and Mercury Cougar models at Lorain by the end of the year, and idle the plant's car assembly line.</p>
+<p>A second assembly line at the factory, which produces Econoline full-size vans, will remain in operation, while Cougar production is expected to be shifted in 1998 to a new car platform that will be built in Flat Rock, Mich., at AutoAlliance International Inc, Ford's U.S. joint venture with Mazda Motor Corp.</p>
+<p>The Cleveland Plain Dealer reported over the weekend that industry analysts expect the announcements to be made today. The paper said the partial shutdown of the Lorain plant would idle around 2,000 workers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418034" id="root" date="1997-03-04" xml:lang="en">
+<title>USA: FDA Mad Cow proposal inadequate - consumer group.</title>
+<headline>FDA Mad Cow proposal inadequate - consumer group.</headline>
+<dateline>WASHINGTON 1997-03-04</dateline>
+<text>
+<p>A major U.S. consumer group said proposals by the Food and Drug Administration to ban the feeding of processed ruminant remains to other ruminants is inadequate to completely protect U.S. consumers from the risk of the so-called Mad Cow disease.</p>
+<p>In comments to the FDA filed Feb 18 and made public Tuesday, Consumers Union said that the regulation should be expanded to ban the feeding of all mammal remains to all food animals, as the UK did last year.</p>
+<p>The group said its main criticism of the current proposal is that it should include swine remains in its restrictions on animal feed. The proposed ruminant ban would include cattle, sheep, goats, deer and elk, and also mink.</p>
+<p>Consumers Union argued that Mad Cow disease has been experimentally induced in pigs in the UK, and that if remains of an infected pig were recycled into feed, other animals could become infected.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="I41200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

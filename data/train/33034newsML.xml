@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33034" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Tennessee deal won by Goldman.</title>
+<headline>Tennessee deal won by Goldman.</headline>
+<text>
+<p>AMT: 55,000,000     DATE: 09/04/96	NYC Time: 1030	CUSIP: NA</p>
+<p>ISSUER: Tennessee Housing Development Agency		    ST: TN</p>
+<p>ISSUE: Home ownership program (see note)			 TAX STAT: Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 09/01/96							     SURE BID: N</p>
+<p>DUE: see note						 SR MGR: Goldman Sachs</p>
+<p>1ST CPN: 07/01/97					   DOLLAR BID: NA</p>
+<p>CALL: 7/1/06 @ 102, dtp 7/1/08			  TIC 6.285</p>
+<p>DELIVERY: 9/18/96 approx				  ORDERS: 1 HR</p>
+<p>PAYING AGENT: First Tennessee Bank, N.A., Memphis</p>
+<p>L.O.: Kutak Rock, Atlanta</p>
+<p>F.A.:</p>
+<p>LAST SALE: $62,430,000 AMT 6/5/96 @ 6.2376% TIC; 20yrs 7mos avg;BBI 5.94%</p>
+<p>NOTES: $69,395,000 Issue 1996-4A (AMT), due 7/1/98, 1/1 &amp; 7/1/99-26 &amp; 1/1/27</p>
+<p>NOTES: $605,000 Issues 1996-4B (Non-AMT), due 1/1/11</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>07/01/98		360,000     4.350     4.350		 .125</p>
+<p>01/01/99		370,000     4.550     4.550		 .125</p>
+<p>07/01/99		380,000     4.550     4.550		 .125</p>
+<p>01/01/00		390,000     4.750     4.750		 .125</p>
+<p>07/01/00		400,000     4.750     4.750		 .125</p>
+<p>01/01/01		410,000     4.900     4.900		 .125</p>
+<p>07/01/01		420,000     4.900     4.900		 .125</p>
+<p>01/01/02		430,000     5.050     5.050		 .250</p>
+<p>07/01/02		440,000     5.050     5.050		 .250</p>
+<p>01/01/03		455,000     5.200     5.200		 .250</p>
+<p>07/01/03		465,000     5.200     5.200		 .250</p>
+<p>01/01/04		480,000     5.300     5.300		 .250</p>
+<p>07/01/04		495,000     5.300     5.300		 .250</p>
+<p>01/01/05		505,000     5.400     5.400		 .250</p>
+<p>07/01/05		520,000     5.400     5.400		 .250</p>
+<p>01/01/06		535,000     5.500     5.500		 .250</p>
+<p>07/01/06		555,000     5.500     5.500		 .250</p>
+<p>01/01/07		570,000     5.600     5.600		 .250</p>
+<p>07/01/07		585,000     5.600     5.600		 .250</p>
+<p>01/01/08		605,000     5.700     5.700		 .250</p>
+<p>07/01/08		620,000     5.700     5.700		 .250</p>
+<p>01/01/09		640,000     5.800     5.800		 .250</p>
+<p>07/01/09		660,000     5.800     5.800		 .250</p>
+<p>01/01/10		680,000     5.900     5.900		 .250</p>
+<p>07/01/10		700,000     5.900     5.900		 .250</p>
+<p>01/01/11		120,000     6.000     6.000		 .250</p>
+<p>07/01/11		745,000     6.000     6.000		 .250</p>
+<p>07/01/16	    8,975,000     6.050     6.050		  1pt</p>
+<p>7/1/22		 15,485,000     6.375     6.375		 .250</p>
+<p>1/1/27		 16,400,000	  NA	 NRO		  NRO</p>
+<p>01/01/11		605,000     5.850     5.850		 .250</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

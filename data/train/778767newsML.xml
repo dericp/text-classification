@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="778767" id="root" date="1997-08-05" xml:lang="en">
+<title>SOUTH KOREA: Korean airline says 254 aboard crashed jumbo.</title>
+<headline>Korean airline says 254 aboard crashed jumbo.</headline>
+<dateline>SEOUL 1996-08-06</dateline>
+<text>
+<p>Korean Air Lines (KAL) said 254 people were aboard its Boeing 747 aircraft which crashed on the Pacific island of Guam.</p>
+<p>Airline spokesman Suh Kang-Yoon told Reuters the plane was carrying 231 passengers and 23 crew.</p>
+<p>Earlier a KAL official put the total number on board Flight 801 bound from Seoul to Guam at 257 -- comprising 234 passengers and 23 crewmembers.</p>
+<p>The spokesman just had the bare details: &quot;The plane crashed in a mountainous area about three miles south of Guam airport.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

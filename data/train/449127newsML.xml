@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449127" id="root" date="1997-03-18" xml:lang="en">
+<title>USA: BHI Corp sees fiscal '97 net up 20 pct.</title>
+<headline>BHI Corp sees fiscal '97 net up 20 pct.</headline>
+<dateline>NEW YORK 1997-03-18</dateline>
+<text>
+<p>BHI Corp said Tuesday that with continuing strong performance in banking and financial services business now being matched by the growing contribution from its strategic regional investments, it is confident that growth in earnings per share for the full year which ends April 30 will exceed 20 percent.</p>
+<p>The company reported net income of $12.39 million for the nine months ended January 31, an increase of 17.3 percent over the same period last year.  Earnings per share for the nine months were $1.75, up 18.5 percent over the comparable period last year.</p>
+<p>BHI is a corporation with principal business in banking and financial services, and which makes strategic investments in infrastructure, agro-processing and distribution in Central America and the Caribbean.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

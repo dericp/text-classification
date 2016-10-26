@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="379970" id="root" date="1997-02-14" xml:lang="en">
+<title>AUSTRALIA: Australian farmer finds 220 million-year-old fossil.</title>
+<headline>Australian farmer finds 220 million-year-old fossil.</headline>
+<dateline>SYDNEY 1997-02-14</dateline>
+<text>
+<p>An Australian farmer landscaping his garden with stone blocks has found a 220 million-year-old fossil which scientists believe may be a new type of amphibian.</p>
+<p>Australian Museum paleontologist Alex Ritchie said on Friday the fossil, which pre-dates dinosaurs by 10-15 million years, was the most complete of its type found in Australia since 1910.</p>
+<p>The fossil was of a two-metre (6.4 feet) brachyopid temnospondyl amphibian, whose closest living relatives are salamanders and frogs. The fossil was found in the coastal town of Gosford, 100 km (62 miles) north of Sydney.</p>
+<p>&quot;It's very significant. It's very possible that it is a new type of these amphibians,&quot; Ritchie told Reuters. &quot;It would look a bit like a crocodile but with a shorter, wider head.&quot;</p>
+<p>New South Wales state premier Bob Carr told reporters at a news conference to unveil the fossil that the state was interested in its purchase.</p>
+<p>Ritchie said the 1910 specimen ended up in the British Museum. &quot;We don't want that to happen again,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

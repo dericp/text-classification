@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="517602" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: NYSE April 7-11 program trading 14.5 pct of volume.</title>
+<headline>NYSE April 7-11 program trading 14.5 pct of volume.</headline>
+<dateline>NEW YORK 1997-04-17</dateline>
+<text>
+<p>The New York Stock Exchange said Thursday that program trading amounted to 14.5 percent of its average daily volume for the week of April 7-11.</p>
+<p>The exchange said the trading comprised 64.9 million shares of the 447.5 million average daily volume.</p>
+<p>It did not give comparative figures.</p>
+<p>Brokerage firms BNP Securities, Natwest, Susquehanna Brokerage Services, Salomon Brothers and Goldman Sachs reported the most program activity, it said.</p>
+<p>In all markets, program trading averaged 92.9 million shares a day for the week, about 69.9 percent of which occurred on the exchange, 23.5 percent in foreign markets and 6.6 percent in other U.S. markets like the Nasdaq.</p>
+<p>Program trading encompasses a wide range of portfolio-trading strategies involving the purchase or sale of a basket of at least 15 stocks with a total value of $1 million or more, the exchange said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

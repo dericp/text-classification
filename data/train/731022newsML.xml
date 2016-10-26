@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731022" id="root" date="1997-07-15" xml:lang="en">
+<title>GERMANY: Benetton looking for German publishing partner. [CORRECTED 15/7 04:24]</title>
+<headline>Benetton looking for German publishing partner. [CORRECTED 15/7 04:24]</headline>
+<dateline>HAMBURG 1997-07-14</dateline>
+<text>
+<p>Italian fashion group Benetton is looking for a German publisher for its in-house-produced magazine Colors, marketing newsletter New Business reported on Monday.</p>
+<p>Benetton creative director Oliviero Toscani told New Business he hoped to finding a German publishing house which would serve as a partner of the magazine, but said Colors would continue to be designed by the company.</p>
+<p>Toscani also reiterated that Benetton will continue to plan and realise its own campaigns (corrects to clarify Benetton's plans), New Business reported.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

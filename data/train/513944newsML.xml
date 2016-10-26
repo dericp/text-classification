@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="513944" id="root" date="1997-04-16" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks end lower.</title>
+<headline>Swiss stocks end lower.</headline>
+<dateline>ZURICH 1997-04-16</dateline>
+<text>
+<p>Swiss shares ended weaker on Wednesday after a session which saw prices fluctuate within narrow trading ranges.</p>
+<p>The market ran out of steam after a firm opening and turned lower when U.S. data signaled strong economic growth, share dealers said.</p>
+<p>The blue-chip SMI closed 17.8 points lower at 4,625.6 and the broad SPI was down 8.40 to 2,927.32. SMI futures fell 28 to 4,626.</p>
+<p>Roche, down 25 to 11,825, led the actives list. Novartis was down five to 1,780. The company is due to announce first quarter sales data on Thursday.</p>
+<p>Overall trading volume was 1.88 billion Swiss francs.</p>
+<p>Dealers said the market would remain volatile with U.S. markets determining future direction for the Swiss bourse.</p>
+<p>Holderbank fell 21 francs to 1,116 reflecting market disappointment over last night's news that the cement producer planned to take provisions totalling 450 million Swiss francs.</p>
+<p>Selected cyclical stocks like Fischer, Rieter, Saurer and Sulzer were firm for most of the session but also came under pressure when the broad market turned lower.</p>
+<p>Banks and insurers suffered from an uncertain interest rate outlook.</p>
+<p>UBS, down two francs to 1,322, holds its annual shareholders meeting on Thursday afternoon. Traders expected no surprises from the meeting.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

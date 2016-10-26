@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="67880" id="root" date="1996-09-20" xml:lang="en">
+<title>GERMANY: Frankfurt(FRA) Jan-Aug 1996 cumulative cargo data.</title>
+<headline>Frankfurt(FRA) Jan-Aug 1996 cumulative cargo data.</headline>
+<dateline>FRANKFURT 1996-09-20</dateline>
+<text>
+<p>The following tables show cargo handled at Frankfurt Airport on a monthly cumulative basis in 1996. All figures are in tonnes. The percentage change refers to the same period of time 12 months previously.</p>
+<p>A. Total cargo</p>
+<p>	     Cumulative total	Pct change</p>
+<p>    Jan		 95,458		 - 2.4</p>
+<p>    Feb		201,164		 + 0.1</p>
+<p>    March	    321,879		 + 0.1</p>
+<p>    April	    432,966		 + 0.1</p>
+<p>    May		543,403		 + 1.2</p>
+<p>    June	     655,453		 + 1.6</p>
+<p>    July	     768,268		 + 1.5</p>
+<p>    Aug		878,422		 + 1.9</p>
+<p>B. Cargo by export, import, transit</p>
+<p>		Out     Change    In     Change    Transit Change</p>
+<p>    Jan     49,467    -1.4    43,755  - 3.0     2,236   - 9.5</p>
+<p>    Feb     104,055   -0.3    92,307  + 1.0     4,801   - 4.9</p>
+<p>    March   166,530   +0.4   148,027    0.0     7,322   - 6.7</p>
+<p>    April   224,555   +1.0   198,842  - 0.4     9,569   - 8.0</p>
+<p>    May     283,016   +2.2   248,685  + 0.8    11,702  - 10.7</p>
+<p>    June    344,531   +3.2   297,164  + 0.6    13,758  - 12.8</p>
+<p>    July    407,156   +3.0   345,201  + 0.5    15,912  - 12.6</p>
+<p>    Aug     466,527   +3.5   393,905  + 0.7    17,990  - 11.4</p>
+<p>Source: Flughafen Frankfurt Main AG, market research department. --Air Cargo Newsroom Tel+44 171 542 7706 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

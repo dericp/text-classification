@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700901" id="root" date="1997-07-01" xml:lang="en">
+<title>SPAIN: ETA frees kidnapped Basque businessman.</title>
+<headline>ETA frees kidnapped Basque businessman.</headline>
+<dateline>BILBAO, Spain 1997-07-01</dateline>
+<text>
+<p>The Basque guerrilla group ETA freed kidnapped businessman Cosme Delclaux early on Tuesday after 232 days in captivity, police said.</p>
+<p>Delclaux, 34, was found drugged and tied to a tree about 25 km (15 miles) from Bilbao near the town of Elorrio in the Basque province of Vizcaya after the newspaper EGIN, which is closely tied to ETA, received an anonymous phone call informing it of his release, police said.</p>
+<p>He was picked up by a police patrol 15 minutes later and taken to a police station in the nearby town of Durango where a doctor found he was disoriented from some type of sedative. He was said to be thinner but basically healthy.</p>
+<p>Spain's centre-right government has insisted that no peace talks with ETA were possible as long as the group holds hostages. ETA is also believed to be holding a former prison worker Jose Antonio Ortega Lara, missing for nearly two years.</p>
+<p>Police sources said on Tuesday Delclaux's family had already paid ETA a 1 billion peseta ($7 million) ransom and had promised to pay another 500 million pesetas in the future.</p>
+<p>Delclaux was kidnapped on his way home from work as a consultant at a multimedia firm in a Vizcaya technological park on November 11, 1996. Basque Businessmen have long complained that ETA runs a campaign of extortion aimed at them.</p>
+<p>Delclaux is a lawyer and the son of a wealthy, prominent Basque industrialist.</p>
+<p>ETA, which stands for Basque Homeland and Freedom, has waged a 29-year struggle for independence from Spain in which 800 people have been killed.</p>
+<p>Spanish news agency EFE said ETA had kidnapped 76 people since 1970 and 68 survived the ordeal.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILBAO, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

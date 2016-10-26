@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632408" id="root" date="1997-06-02" xml:lang="en">
+<title>JAPAN: MOF pays 78 bln yen to private sector in May.</title>
+<headline>MOF pays 78 bln yen to private sector in May.</headline>
+<dateline>TOKYO 1997-06-02</dateline>
+<text>
+<p>Japan's Ministry of Finance (MOF) paid out 78.0 billion yen to the private sector in May through its special foreign exchange account, Bank of Japan (BOJ) data showed on Monday.</p>
+<p>Analysts said most of the payments in May were related to the redemption of 74.0 billion yen worth of financing bills (FBs) which had been sold to the private sector.</p>
+<p>MOF does not comment on the details of such payments.</p>
+<p>MOF manages Japan's external reserves, which stood at $219.922 billion at the end of April.</p>
+<p>The private-sector institutions comprise commercial banks, foreign central banks, municipal governments, public funds and quasi-governmental organisations.</p>
+<p>-- Tokyo Treasury Desk +81-3-3432-9780</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

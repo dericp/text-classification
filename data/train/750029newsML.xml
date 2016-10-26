@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750029" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Apple unveils new operating system, hires search firm.</title>
+<headline>Apple unveils new operating system, hires search firm.</headline>
+<dateline>CUPERTINO, Calif. 1997-07-22</dateline>
+<text>
+<p>Apple Computer Inc. Tuesday introduced a new operating system for the Macintosh personal computer, the most significant Mac operating system upgrade since 1984.</p>
+<p>Separately, Apple announced it hired Heidrick &amp; Struggles Inc., an executive search firm, to help find a successor to former Chairman and Chief Executive Gilbert Amelio.</p>
+<p>The troubled computer maker said it could take about 90 days to find a successor for Amelio, who stepped down earlier this month amid concerns that sales were not growing fast enough.</p>
+<p>The Mac OS 8, a new version of the basic software that controls the Macintosh computer, is expected to generate much-needed revenues for Apple as Macintosh users upgrade their software.</p>
+<p>Apple said in a statement that Mac OS 8 also represents the latest milestone in the company's dual strategy of delivering Mac OS updates as well as Rhapsody, the code name for Apple's next-generation operating system.</p>
+<p>Mac OS 8 includes new features and technologies aimed at improving productivity and efficiency, simplifying Internet access and providing state-of-the-art multimedia capabilities.</p>
+<p>&quot;The depth of Internet capabilities in Mac OS 8, along with a dramatically improved user experience ... and industry-leading multimedia technologies will delight Macintosh customers,&quot; said Avie Tevanian, senior vice president for software engineering.</p>
+<p>Included with Mac OS 8 are Netscape Navigator 3.01 and Microsoft Internet Explorer 3.01 for browsing the World Wide Web. It also uses the latest so-called push technologies, such as PointCast Network and Marimba's Castanet Tuner, which allow data to be sent to desktop machines without users having to search the Internet for it.</p>
+<p>The PointCast Network in Mac OS 8 will include an Apple channel that notifies Mac users about breaking Apple-related news stories, software updates, new product announcements, customer support news, and other special information.</p>
+<p>As a starting point for Internet exploration, Apple has collaborated with Web search firm Excite to provide data delivery and Internet navigation services in Mac OS 8.</p>
+<p>Mac OS 8 is expected to be available in the United States and Canada on Saturday. The estimated retail price for Mac OS 8 in the United States is $99 for the CD-ROM version. Current Mac OS 7.6. or Mac OS 7.6.1 owners will be eligible for a $30 rebate, bringing the upgrade for those customers to $69.</p>
+<p>Mac OS 8 will be made available for purchase on CD-ROM only, but customers may request a floppy disk version of Mac OS 8 after buying the CD-ROM version by returning a coupon included inside the box. Customers who want the diskette version will have to pay an additional $25 plus shipping, handling and sales tax.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CUPERTINO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="463602" id="root" date="1997-03-24" xml:lang="en">
+<title>USA: Texas stocks outpace S&amp;P 500 in Feb - comptroller.</title>
+<headline>Texas stocks outpace S&amp;P 500 in Feb - comptroller.</headline>
+<dateline>NEW YORK 1997-03-24</dateline>
+<text>
+<p>The Texas Stock Index posted another record high last month as stock values of Texas-based companies outperformed the Standard &amp; Poor's 500, according to State Comptroller John Sharp.</p>
+<p>The Comptroller's office developed the monthly TSI to help measure investors' confidence in Texas-based businesses, a release from Sharp's office said. The index tracks the prices of approximately 52 stocks in four sectors of the state's economy--finance, technology, energy and general business.</p>
+<p>&quot;The TSI, which grew by 25.1 points in January, added another 6.7 points in February to stand at 292.6,&quot; Sharp said in a release. &quot;The TSI is 36.2 percent higher than the level of one year ago.&quot;</p>
+<p>In comparison, the Standard &amp; Poor's 500, which tracks a sampling of stocks nationwide, rose by 4.6 percent in February, Sharp said. A percentage comparison shows Standard &amp; Poor's index up 0.6 percent, while the TSI rose 2.3 percent, the release said.</p>
+<p>((--U.S. Municipal Desk, 212-859-1650))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

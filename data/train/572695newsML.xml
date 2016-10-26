@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="572695" id="root" date="1997-05-09" xml:lang="en">
+<title>CANADA: Amoco, TransCanada plan Canada NGL plant.</title>
+<headline>Amoco, TransCanada plan Canada NGL plant.</headline>
+<dateline>CALGARY 1997-05-09</dateline>
+<text>
+<p>Amoco Corp unit Amoco Canada Petroleum Co Ltd and TransCanada PipeLines Ltd said on Friday they planned to build a C$100 million natural gas liquids extraction plant in southeastern Alberta.</p>
+<p>The new plant, which would process up to 25,000 barrels per day of ethane, propane, butane and condensate, would be an expansion of Amoco Canada's existing processing capacity at Empress, Alberta, the companies said.  </p>
+<p>Natural gas throughput was expected to total one billion cubic feet a day starting in August 1999.</p>
+<p>The plans are the latest in a string of recent Canadian gas liquids pipeline and plant expansion proposals aimed at moving more of the light hydrocarbons to eastern Canada and the United States.</p>
+<p>Under the proposal, the plant would be jointly owned by Amoco Canada and TransCanada subsidiary Alberta Natural Gas Co Ltd.</p>
+<p>Amoco Canada said it planned to file its applications with the Alberta Energy and Utilities Board in June and if approved, construction would start in the summer of 1998.</p>
+<p>((Reuters Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

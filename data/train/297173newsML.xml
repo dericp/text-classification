@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="297173" id="root" date="1997-01-09" xml:lang="en">
+<title>UK: RESEARCH ALERT-Sainsbury raised at NatWest.</title>
+<headline>RESEARCH ALERT-Sainsbury raised at NatWest.</headline>
+<dateline>LONDON 1997-01-09</dateline>
+<text>
+<p>British supermarket operator J. Sainsbury Plc was raised to &quot;hold&quot; from &quot;reduce&quot; at NatWest Securities, market sources said on Thursday.</p>
+<p>Analysts at the brokerage were not immediately available for comment.</p>
+<p>Sainsbury shares have risen in recent weeks after hitting a low of 341 on November 15, their lowest since January 1992.</p>
+<p>They were quoted at 388-1/2p at 1441 GMT, down 1/2p from Wednesday in a mostly lower market.</p>
+<p>-- David Holmes, London Newsroom +44 171 542 5106</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

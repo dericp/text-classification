@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669808" id="root" date="1997-06-18" xml:lang="en">
+<title>MEXICO: Mexican tequila magnate murdered in his car.</title>
+<headline>Mexican tequila magnate murdered in his car.</headline>
+<dateline>GUADALAJARA, Mexico 1997-06-17</dateline>
+<text>
+<p>Mexican tequila magnate Jesus Lopez Roman was shot in the head and killed on Tuesday in his car, the state attorney general's office said.</p>
+<p>&quot;He was assasinated this morning ... the victim of various shots from 0.45 and 0.38 caliber pistols when in his car,&quot; the statement said.</p>
+<p>Local media reports said he was shot 13 times total from both pistols while in a one-year-old BMW.</p>
+<p>Lopez Roman, about 54 years old, was owner of tequila brands Tequila San Matias and Tequila Pueblo Viego.</p>
+<p>Last year his company ranked fifth in national sales and sixth in exports of tequila made 100 percent from agave, the cactus-like plant that produces the potent drink.</p>
+<p>Police said three or four gunmen fled the scene in a stolen car.</p>
+<p>&quot;It is still being investigated whether the crime was because the victim resisted the theft of his car or if there was another motive,&quot; the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

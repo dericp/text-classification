@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180850" id="root" date="1996-11-11" xml:lang="en">
+<title>NORWAY: Kvaerner 9-month results per division.</title>
+<headline>Kvaerner 9-month results per division.</headline>
+<dateline>OSLO 1996-11-11</dateline>
+<text>
+<p>Norwegian group Kvaerner ASA nine-month results per division:</p>
+<p>				(millions of crowns unless stated)</p>
+<p>Shipbuilding Turnover	 8,994	  vs    10,114</p>
+<p>Operating result		  780	  vs	1,062</p>
+<p>Pre-tax result		    750	  vs	  991</p>
+<p>Process Turnover		5,270	  vs	  n/a</p>
+<p>Operating result		   33	  vs	  n/a</p>
+<p>Pre-tax result		     73	  vs	  n/a</p>
+<p>Construction Turnover   3,307	  vs		 n/a</p>
+<p>Operating result     minus 15	  vs		 n/a</p>
+<p>Pre-tax result	 minus 24	  vs		 n/a</p>
+<p>Oil &amp; Gas Turnover	6,560	  vs	     4,713</p>
+<p>Operating result	     30	  vs		 219</p>
+<p>Pre-tax result		 24	  vs		 163</p>
+<p>Metals Turnover	   3,867	  vs		 n/a</p>
+<p>Operating result	     59	  vs		 n/a</p>
+<p>Pre-tax result		 54	  vs		 n/a</p>
+<p>Pulp and Paper</p>
+<p>	Turnover	    4,329	  vs	     2,019</p>
+<p>Operating result    minus 423	  vs	 minus 161</p>
+<p>Pre-tax result	minus 199	  vs	 minus  70</p>
+<p>Other businesses</p>
+<p>	Turnover	    8,102	  vs	     5,907</p>
+<p>Operating result	    448	  vs		 539</p>
+<p>Pre-tax result		173	  vs		 848</p>
+<p>NOTE -- The results were released in London and Oslo</p>
+<p>-- Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="548783" id="root" date="1997-04-29" xml:lang="en">
+<title>HONG KONG: HK March provisional trade deficit HK$22.6 bln.</title>
+<headline>HK March provisional trade deficit HK$22.6 bln.</headline>
+<dateline>HONG KONG 1997-04-29</dateline>
+<text>
+<p>Hong Kong's Census and Statistics Department released the following data showing a provisional visible trade deficit of HK$22.6 billion in March (rounded figures in billions of H.K. dollars):</p>
+<p>			    Mar '97	Feb '97	 Mar '96</p>
+<p> Trade balance	  -22.6	   -13.21	  -24.13</p>
+<p> Domestic exports	14.8	    12.59	   14.38</p>
+<p> Re-exports		90.7	    76.47	   82.30</p>
+<p> Total exports	  105.5	    89.06	   96.68</p>
+<p> Imports		  128.1	   102.27	  120.81</p>
+<p>Cumulative figures for year-ended</p>
+<p>			   Mar '97	 Feb '97	  Mar '96</p>
+<p> Trade balance	 -146.08	 -147.62	  -151.16</p>
+<p> Domestic exports     209.26	  208.84	   228.63</p>
+<p> Re-exports	   1,195.33	1,186.90	 1,132.12</p>
+<p> Total exports	1,404.59	1,395.75	 1,360.76</p>
+<p> Imports		1,550.66	1,543.37	 1,511.92</p>
+<p>-- Hong Kong newsroom (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

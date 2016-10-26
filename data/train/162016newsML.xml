@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162016" id="root" date="1996-11-02" xml:lang="en">
+<title>BANGLADESH: Dhaka stocks seen continuing their rally.</title>
+<headline>Dhaka stocks seen continuing their rally.</headline>
+<dateline>DHAKA 1996-11-02</dateline>
+<text>
+<p>Shares on the Dhaka Stock Exchange are expected to continue their rally when the market reopens after the Moslem Friday weekend, brokers said.</p>
+<p>&quot;The market is short of securities. Substantial supply of scrips is the only remedy to stabilise the market,&quot; said broker Mahbub Morshed.</p>
+<p>&quot;No one is willing to sell shares,&quot; said another broker. &quot;They are waiting for further gains and this is not a healthy sign.&quot;</p>
+<p>The DSE all share price index closed 162.67 points, or 5.76 percent, higher on Thursday at 2,986.29 on turnover of 491.9 million taka.</p>
+<p>-- Dhaka Newsroom 880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

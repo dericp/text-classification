@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313377" id="root" date="1997-01-16" xml:lang="en">
+<title>GERMANY: Latest opinion polls on German political parties.</title>
+<headline>Latest opinion polls on German political parties.</headline>
+<dateline>BONN 1997-01-16</dateline>
+<text>
+<p>Here are the latest opinion polls tracking national support for Germany's main political parties:</p>
+<p>    JANUARY 1997    CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Forsa Jan 16	   38.0    37.0   5.0   13.0    5.0</p>
+<p> Allensbach Jan 15    36.7    35.1   6.8   13.7    4.7</p>
+<p> Emnid Jan 12	   38.0    36.0   5.0   13.0    4.0</p>
+<p> Emnid Jan 5	    38.0    36.0   5.0   12.0    5.0</p>
+<p>    DECEMBER 1996   CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Allensbach Dec 18    36.7    35.1   6.8   13.7    4.7</p>
+<p> Emnid Dec 15	   38.0    35.0   5.0   10.0    6.0</p>
+<p> Elect Res Dec 13     42.0    34.0   5.0   12.0    4.0</p>
+<p> Forsa Dec 12	   38.0    37.0   5.0   12.0    5.0</p>
+<p> Emnid Dec 8	    38.0    34.0   6.0   12.0    5.0</p>
+<p> Emnid Dec 1	    40.0    35.0   5.0   13.0    4.0</p>
+<p>    NOVEMBER 1996   CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Forsa Nov 28	   39.0    37.0   5.0   12.0    5.0</p>
+<p> Emnid Nov 24	   38.0    34.0   5.0   12.0    6.0</p>
+<p> Allensbach Nov 20    37.6    32.2   7.1   14.4    4.8</p>
+<p> Elect Res Nov 15     42.0    34.0   5.0   12.0    4.0</p>
+<p>    OCTOBER 1996    CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p> Emnid Oct 27	   38.0    34.0   6.0   11.0    5.0</p>
+<p> Forsa Oct 25	   37.0    40.0   4.0   11.0    5.0</p>
+<p> Allensbach Oct 16    36.0    34.8   8.1   12.7    4.8</p>
+<p>OFFICIAL RESULTS OF THE OCTOBER 16, 1994 GENERAL ELECTION:</p>
+<p>			  CDU/CSU   SPD    FDP   Greens  PDS</p>
+<p>			    41.5    36.4   6.9    7.3    4.4</p>
+<p>NOTE: Elect Res = Electoral Research Group (Forschungsgruppe Wahlen)</p>
+<p>-- Bonn newsroom, +49 228 2609760</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150883" id="root" date="1996-10-29" xml:lang="en">
+<title>GERMANY: Germany awards four more local telecoms licences.</title>
+<headline>Germany awards four more local telecoms licences.</headline>
+<dateline>BONN 1996-10-29</dateline>
+<text>
+<p>Germany on Tuesday awarded four more licences to two companies to operate telecommunications networks in competition with Deutsche Telekom AG, Post and Telecommunications Minister Wolfgang Boetsch said.</p>
+<p>Boetsch said in a statement that three of the licences went to Colt Telekom GmbH, covering Berlin and Potsdam, and areas around Darmstadt and Munich.</p>
+<p>The fourth went to Bayernwerk Netcom GmbH, a unit of the VIAG group, covering the regions of Bavaria, Thuringia, Frankfurt and Leipzig.</p>
+<p>The four licences come on top of three already awarded by Boetsch after competitors to state-owned Telekom protested to the European Commission that he was moving too slowly to open access to the German market.</p>
+<p>The statement said that further licences would be issued in the near future.</p>
+<p>Deutsche Telekom will still hold a monopoly on public telecommunications services until the end of 1997.</p>
+<p>But the new licences will allow its competitors to carry communications services in areas already open to competition such as mobile communications and corporate networks on their own networks in competition to Telekom.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

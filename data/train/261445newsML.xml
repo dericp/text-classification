@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="261445" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: US bank regulators may rate banks on market risk.</title>
+<headline>US bank regulators may rate banks on market risk.</headline>
+<dateline>WASHINGTON 1996-12-17</dateline>
+<text>
+<p>A task force of U.S. banking regulators recommended Tuesday that bank examinations explicitly include a rating for an institution's sensitivity to market risks, such as a spike in interest rates or a stock market plunge.</p>
+<p>The Task Force on Supervision, acting under authority from Federal Financial Institutions Examination Council, said such information is already an informal part of bank examinations.</p>
+<p>&quot;It reflects factors that examiners have routinely considered but were not explicitly reflected in the former rating system,&quot; the task force said in a statement.  </p>
+<p>The current rating system, known as CAMEL, includes ratings in five areas: Capital adequacy, Asset quality, Management administration, Earnings and Liquidity.</p>
+<p>The task force recommended a sixth category be added, Sensitivity to market risk, changing CAMEL to CAMELS.</p>
+<p>The updated system also reformats and clarifies descriptions and definitions of the various categories and adds some new details to the rating components.</p>
+<p>Ratings will still be revealed only to a bank's board of directors and senior management, not to the general public, the task force said.  </p>
+<p>The task force recommended that members of the examination council adopt the new rating system effective January 1, 1997.</p>
+<p>The council includes the Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corp, National Credit Union Adminstration, Office of the Comptroller of the Currency and Office of Thrift Supervision.</p>
+<p>The new system reflects a greater emphasis on risk management processes, the task force said.</p>
+<p>The update &quot;addresses changes in the financial services industry and in supervisory policies and procedures occurring since the rating system was adopted in 1979,&quot; the task force said.</p>
+<p>((--Aaron Pressman, 202-898-8312))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701970" id="root" date="1997-07-02" xml:lang="en">
+<title>DUBAI: Iran protests to Azerbaijan on prisoner treatment.</title>
+<headline>Iran protests to Azerbaijan on prisoner treatment.</headline>
+<dateline>DUBAI 1997-07-02</dateline>
+<text>
+<p>Iran on Wednesday protested to neighbouring Azerbaijan over alleged bad conditions for Iranians held in Azeri prisons, the Iranian news agency IRNA said.</p>
+<p>It said Azerbaijan's ambassador in Tehran was summoned to the Iranian foreign ministry where an official told him that &quot;conditions of Iranian detainees in Azeri jails should meet international conventions&quot;.</p>
+<p>Iranian officials said last month that three Iranians had died in Azerbaijani jails due to poor prison conditions. Azeri officials rejected the allegations.</p>
+<p>The protest came as ties between the two countries appeared to be worsening despite their growing cooperation in oil.</p>
+<p>Baku last month stopped daily retransmissions of Iranian television programmes over what it called was &quot;interference in its internal politics&quot; and &quot;one-side propaganda&quot;.</p>
+<p>Islamic Iran's media and some Tehran officials have criticised Azerbaijan's secular and pro-Western policies, including Baku's ties with Israel.</p>
+<p>Baku, developing huge offshore oil resources, has in the past accused Tehran of wanting to overthrow its government and replace it with an Islamist pro-Iranian one.</p>
+<p>Four members of Azerbaijan's banned Islamic party were given long prison terms this year for allegedly spying for Iran. Tehran denied the charges.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AZERB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="208275" id="root" date="1996-11-21" xml:lang="en">
+<title>JAPAN: Mercedes-Benz launches new wagons in Japan.</title>
+<headline>Mercedes-Benz launches new wagons in Japan.</headline>
+<dateline>TOKYO 1996-11-21</dateline>
+<text>
+<p>Mercedes-Benz Japan Co Ltd, the Japanese unit of Mercedes-Benz AG, a unit of Daimler-Benz AG, said on Thursday it has introduced a new C-class station wagon and fully restyled E-class station wagon in Japan.</p>
+<p>The Japanese retail price will be 4.9 million yen for the new C230 station wagon, 100,000 yen higher than for the C230 sedan, and 5.9 million yen for the E230 station wagon, 200,000 yen higher than the E230 sedan.</p>
+<p>MBJ did not disclose its sales target for the new models.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22256" id="root" date="1996-08-29" xml:lang="en">
+<title>USA: Caremark launches diabetes program.</title>
+<headline>Caremark launches diabetes program.</headline>
+<dateline>NORTHBROOK, Ill. 1996-08-29</dateline>
+<text>
+<p>Caremark International Inc said Thursday it launched the CarePatterns Program for Diabetes, which is aimed at reducing health care costs and improving patients' quality of life.</p>
+<p>The program supports patients and their physicians through individualized education, ongoing monitoring and early identification and intervention for those patients at high risk of developing complications from the disease, it added.</p>
+<p>Developed on the basis of American Diabetes Association guidelines, the CarePatterns program is designed to help people with diabetes lead normal, active lives, Caremark said.</p>
+<p>Reuters Chicago Newsdesk - 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORTHBROOK, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

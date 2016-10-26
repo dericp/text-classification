@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="611089" id="root" date="1997-05-23" xml:lang="en">
+<title>JAPAN: Sakura Bank reveals problem loans.</title>
+<headline>Sakura Bank reveals problem loans.</headline>
+<dateline>TOKYO 1997-05-23</dateline>
+<text>
+<p>Sakura Bank Ltd has disclosed its restructured loans (in billions of yen unless specified):</p>
+<p>					end-Mar 97     end-Mar 96</p>
+<p>  Restructured loans	    244.2	    697.2</p>
+<p>  Bad loans			 355.8	    336.7</p>
+<p>  Non-performing loans	  829.1	    898.8</p>
+<p>  Loans to troubled clients   346.3	    373.4</p>
+<p>  Total problem loans	    1.78 trln	2.31 trln</p>
+<p>Restructured loans are those on which interest rates have been cut to help corporate restructuring. Bad loans are to bankrupt firms and non-performing are those with interest payments in arrears by six months or more. Loans to troubled clients are mainly to the bank's non-bank affiliates.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="205523" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: IDT Corp Q1 loss widens.</title>
+<headline>IDT Corp Q1 loss widens.</headline>
+<dateline>HACKENSACK, N.J. 1996-11-21</dateline>
+<text>
+<p>IDT CORPORATION</p>
+<p>	     SELECTED CONSOLIDATED FINANCIAL AND OPERATING DATA</p>
+<p>						     THREE MONTHS ENDED</p>
+<p>						    10-31-96     10-31-95</p>
+<p>STATEMENT OF OPERATIONS DATA:</p>
+<p> REVENUES				     28,317,671    6,600,818</p>
+<p> COST OF SALES				18,012,801    4,172,712</p>
+<p> SGA					    12,597,679    3,953,483</p>
+<p> DEPRECIATION				    963,433	130,755</p>
+<p> TOTAL EXPENSES			     31,573,913    8,256,950</p>
+<p> INCOME (LOSS) FROM OPERATIONS	 (3,256,242)  (1,656,132)</p>
+<p> INTEREST (NET)				  149,599	  2,817</p>
+<p> NET INCOME (LOSS)			 (3,106,643)  (1,653,315)</p>
+<p> EBITDA					(2,292,809)  (1,525,377)</p>
+<p> NET INCOME (LOSS) PER SHARE		 ($0.15)	($0.10)</p>
+<p>WEIGHTED AVE. # OF SHARES</p>
+<p>  USED IN CALCULATION OF EPS	    20,841,230   16,569,292</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HACKENSACK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

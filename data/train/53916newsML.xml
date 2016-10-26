@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="53916" id="root" date="1996-09-14" xml:lang="en">
+<title>ROMANIA: TENNIS-ROMANIAN OPEN SEMIFINAL RESULTS.</title>
+<headline>TENNIS-ROMANIAN OPEN SEMIFINAL RESULTS.</headline>
+<dateline>BUCHAREST 1996-09-14</dateline>
+<text>
+<p>Semifinal results in the</p>
+<p>Romanian Open men's tennis tournament on Saturday (prefix number</p>
+<p>denotes seeding):</p>
+<p>3-Carlos Moya (Spain) beat Andrei Pavel (Romania) 4-6 6-3 6-0</p>
+<p>4-Alberto Berasategui (Spain) beat Christian Ruud (Norway) 6-0</p>
+<p>7-5</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

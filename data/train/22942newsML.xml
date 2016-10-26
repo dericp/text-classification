@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="22942" id="root" date="1996-08-29" xml:lang="en">
+<title>GERMANY: Deutsche Post 1995 profit rises. [CORRECTED 08:00 GMT]</title>
+<headline>Deutsche Post 1995 profit rises. [CORRECTED 08:00 GMT]</headline>
+<dateline>BONN 1996-08-29</dateline>
+<text>
+<p>German post office Deutsche Post AG said on Thursday its result from ordinary business activities rose to around 360 million marks in 1995 from 257 million a year earlier.</p>
+<p>In information released on its Internet page prior to its annual results conference, the company said its turnover rose to 28.8 billion marks last year from 28.4 billion in 1994. Investment totalled 2.5 billion marks.</p>
+<p>Post was scheduled to release more details of its 1995 year later in the day.</p>
+<p>(Corrects to delete reference to due privatisation of Deutsche Post later this year)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

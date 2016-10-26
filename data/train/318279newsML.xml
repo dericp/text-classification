@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="318279" id="root" date="1997-01-20" xml:lang="en">
+<title>NIGERIA: Nigerian 1997 fiscal budget statistics.</title>
+<headline>Nigerian 1997 fiscal budget statistics.</headline>
+<dateline>LAGOS 1997-01-20</dateline>
+<text>
+<p>Statistics from Nigeria's 1997 fiscal budget. (In naira unless otherwise stated).</p>
+<p>		    1995	1996	1997 projection</p>
+<p>Inflation rate</p>
+<p>   (pct)	  72.8	28.0	 15.0</p>
+<p>GDP (pct)	  2.2	 3.25	 5.5</p>
+<p>Surplus (bln)    1.0	37.0	Not given</p>
+<p>External reserve</p>
+<p>   (bln)	   1.441     4.086    Not given</p>
+<p>Oil revenue</p>
+<p>(blns of dollars)   7.899    10.891     11.045</p>
+<p>Non-oil rev(bln)81	 108	  161</p>
+<p>Recurrent expenditure</p>
+<p>   (bln)	  66	  79	   99</p>
+<p>Capital expenditure</p>
+<p>    (bln)	 44.0	51.0	 89.0</p>
+<p>External debt</p>
+<p> (blns of dlars)32.6	28.0	Not given</p>
+<p>Source: Nigerian Ministry of Finance.</p>
+<p>** Note: Nigeria has two exchange rates, a rate of 22 naira to the dollar for official transactions, and a rate of 80 naira to the dollar for all other transactions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

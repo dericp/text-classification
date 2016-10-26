@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="95080" id="root" date="1996-10-03" xml:lang="en">
+<title>SWEDEN: Polish poet Szymborska wins Nobel Literature Prize.</title>
+<headline>Polish poet Szymborska wins Nobel Literature Prize.</headline>
+<dateline>STOCKHOLM 1996-10-03</dateline>
+<text>
+<p>Polish poet Wislawa Szymborska won the 1996 Nobel Literature Prize, the Swedish Academy said on Thursday.</p>
+<p>The academy said that Szymborska, 73, living in Krakow, won the prestigious award for her &quot;poetry that with ironic precision allows the historical and biological context to come to light in fragments of human reality.&quot;  </p>
+<p>The award suprised observers, who had expected a novelist to win the $1.12 million award after Irish poet Seamus Heaney won last year's prize.</p>
+<p>As well as being a poet, Szymborska has published book reviews and translations of French poetry. The academy said her handful of slim volumes of poetry were very difficult to translate because of their stylistic variety.</p>
+<p>&quot;With her distance and commitment, Szymborska accords full support to her idea that no questions are of such significance as those that are naive,&quot; the academy of Swedish academicians said.</p>
+<p>From 1953 to 1981, Szymborska was on the editorial staff of the Polish intellectual magazine Zycie Literackie (Literary Life).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

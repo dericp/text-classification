@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="692729" id="root" date="1997-06-27" xml:lang="en">
+<title>SPAIN: Peseta debt/interbank market closing report.</title>
+<headline>Peseta debt/interbank market closing report.</headline>
+<dateline>MADRID 1997-06-27</dateline>
+<text>
+<p>Spanish government bonds ended lower on Friday after a dull session as dealers positioned themselves for the Treasury's bond auctions next week.</p>
+<p>For the first time, Spain's Treasury will offer strippable debt on Tuesday and Wednesday. Dealers noted a lot of interest in the new issues because domestic legal entities do not have to pay 25-percent withholding taxes.</p>
+<p>&quot;New issues will be cheaper and so, it's likely that investors will sell futures to cover their auction purchases,&quot; said a Madrid-based dealer.  </p>
+<p>But longer-term, the Spanish market is expected to remain positive, dealers said.</p>
+<p>The 10-year spread over Bunds fell to around 67 basis points from 69 at the open and 65 at Thursday's close.</p>
+<p>Money market dealers said short-term interest rates corrected slightly as expectations of an immediate official rate cut faded. Rate cut hopes faded after recent data showed a strong pick-up in the economy.</p>
+<p>-- Madrid Newsroom, + 341 5858.340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

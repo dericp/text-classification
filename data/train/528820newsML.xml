@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="528820" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: Dayton Superior to buy Symons for $79 mln.</title>
+<headline>Dayton Superior to buy Symons for $79 mln.</headline>
+<dateline>MIAMISBURG, Ohio 1997-04-22</dateline>
+<text>
+<p>Dayton Superior Corp said Tuesday that it has signed a letter of intent to acquire Symons Corp for $79 million, in a transaction that would be modestly accretive to earnings per share in 1997.</p>
+<p>Symons is a North American manufacturer of prefabricated concrete forming equipment.  The company also manufactures a broad line of concrete accessories and hardware.</p>
+<p>Dayton said that Symons had sales of $104.5 million for its fiscal year ended August 31, 1996, which would increase Dayton Superior's revenue base by roughly 80 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMISBURG, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

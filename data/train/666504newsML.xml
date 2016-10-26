@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666504" id="root" date="1997-06-17" xml:lang="en">
+<title>MEXICO: Ahmsa says coal reserves 265.1 mln tonnes.</title>
+<headline>Ahmsa says coal reserves 265.1 mln tonnes.</headline>
+<dateline>MONTERREY, Mexico 1997-06-17</dateline>
+<text>
+<p>Mexican steelmaker Altos Hornos de Mexico SA de SV (Ahmsa) on Tuesday said it had 265.1 million tonnes of proven coal reserves.</p>
+<p>Of that total, 131.2 million are fully proven and 133.9 million &quot;require substantial spending for extraction,&quot; the report said.</p>
+<p>Ahmsa, through its Micare subsidiary, is Mexico's top producer of coal, which it sells to the Federal Electricity Commission (CFE). It sold nearly eight million tonnes to the CFE in 1996, which represented 14.6 percent of Ahmsa's revenue.</p>
+<p>Coal operations posted an operating margin of 31.6 percent last year, more than double the 14.8 percent recorded by the steel business.</p>
+<p>((--Daniel Perez-Whitaker, Monterrey newsroom, +528 345-7617))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTERREY, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

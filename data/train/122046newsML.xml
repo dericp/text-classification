@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122046" id="root" date="1996-10-16" xml:lang="en">
+<title>JAPAN: Marubeni to invest up to $150 mln in RR programme.</title>
+<headline>Marubeni to invest up to $150 mln in RR programme.</headline>
+<dateline>TOKYO 1996-10-16</dateline>
+<text>
+<p>Japanese trading house Marubeni Corp said on Wednesday that it may invest between $100 million and $150 million in Rolls-Royce Plc's Trent aircraft engine programme.</p>
+<p>Marubeni said it had joined eight other risk- and revenue-sharing partners already in the programme who will receive revenues from the sale of the engines depending on their share of the total investment in the programme.</p>
+<p>Marubeni has been the agency for Rolls-Royce's airplane engines in Japan since 1992, but has not won any orders from Japanese airlines.</p>
+<p>The Marubeni spokesman said the new contract would enable the company to expand its marketing operations to other parts of Asia.</p>
+<p>Rolls-Royce currently holds about a 50 percent share in the private-sector airline engine market in the Asia-Pacific region, the company said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I3640002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

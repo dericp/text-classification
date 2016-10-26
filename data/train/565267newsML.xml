@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565267" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: Maxim Integrated Q3 shr flat at $0.48.</title>
+<headline>Maxim Integrated Q3 shr flat at $0.48.</headline>
+<dateline>SUNNYVALE, Calif. 1997-05-07</dateline>
+<text>
+<p>1997	 Q3	    1996</p>
+<p> Shr			  $0.48		    $0.48</p>
+<p> Net			 35,403		   34,182</p>
+<p> Revs		     111,005		  109,001</p>
+<p> Avg shrs		  74,375		   71,212</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>					 9  MONTHS</p>
+<p> Shr			  $1.38		    $1.25</p>
+<p> Net			100,109		   88,641</p>
+<p> Revs		     316,691		  311,626</p>
+<p> Avg shrs		  72,394		   70,863</p>
+<p>NOTE: Full company name is Maxim Integrated Products Inc.</p>
+<p>Quarters ended March 31, 1997 and March 31, 1996, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SUNNYVALE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

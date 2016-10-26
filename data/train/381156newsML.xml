@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="381156" id="root" date="1997-02-16" xml:lang="en">
+<title>VENEZUELA: U.S. citizen kidnapped in Venezuela - report.</title>
+<headline>U.S. citizen kidnapped in Venezuela - report.</headline>
+<dateline>CARACAS, Venezuela 1997-02-16</dateline>
+<text>
+<p>Two vacationers, one of them a U.S. citizen, were kidnapped near Venezuela's border with Colombia by presumed leftist guerrillas, local daily El Universal reported on Sunday.</p>
+<p>The two men, identified by military sources as Jerald Shafer from the United States and Elias Eduardo Barando from Venezuela, were snatched on Friday while on a fishing trip in the southwestern Apure state, the paper reported.</p>
+<p>Neither Defence Ministry nor U.S. embassy officials were immediately available to confirm the report.</p>
+<p>The presumed Colombian guerrillas suspected of kidnapping Shafer and Barando took the men in the Cessna 310 light aircraft in which they had travelled to the area, located about 530 miles (850 km) from the capital.</p>
+<p>Six other men also on the fishing trip managed to escape and walked for a day to report the incident.</p>
+<p>The kidnapping was the second in Apure state in three days. Two Venezuelan oil engineers were snatched on Wednesday.</p>
+<p>Kidnapping, smuggling and drug trafficking are commmon along the 1,250-mile (2,000 km) border separating the two countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS, Venezuela"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

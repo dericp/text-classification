@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142595" id="root" date="1996-10-25" xml:lang="en">
+<title>GERMANY: TENNIS-STUTTGART OPEN QUARTER-FINAL RESULTS.</title>
+<headline>TENNIS-STUTTGART OPEN QUARTER-FINAL RESULTS.</headline>
+<dateline>STUTTGART, Germany 1996-10-25</dateline>
+<text>
+<p>Quarter-final results</p>
+<p>at the $2.2 million Stuttgart Open tennis tournament on Friday</p>
+<p>(prefix number denotes seeding):</p>
+<p>Jan Siemerink (Netherlands) beat 5-Goran Ivanisevic (Croatia)</p>
+<p>6-3 7-6 (7-4)</p>
+<p>1-Pete Sampras (U.S.) beat 9-Andre Agassi (U.S.) 6-4 6-1</p>
+<p>2-Michael Chang (U.S.) beat 10-Marcelo Rios (Chile) 6-4 6-3</p>
+<p>6-Boris Becker (Germany) beat Magnus Gustafsson (Sweden) 6-2</p>
+<p>6-2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUTTGART, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

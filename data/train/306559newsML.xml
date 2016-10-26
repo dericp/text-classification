@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306559" id="root" date="1997-01-14" xml:lang="en">
+<title>UK: BTI sets call, put warrants on Nikkei 225 index.</title>
+<headline>BTI sets call, put warrants on Nikkei 225 index.</headline>
+<dateline>LONDON 1997-01-14</dateline>
+<text>
+<p>Bankers Trust International said it had issued a total of four million American-style call and put warrants, in eight equal tranches, on the Nikkei 225 index.</p>
+<p>One unit of the index is controlled by 10 warrants.</p>
+<p> EXERCISE PERIOD 29.JAN.97-14.JAN.98   PAYDATE	28.JAN.97</p>
+<p> LISTING	   LUXEMBOURG		MIN EXER LOT 100</p>
+<p>SPOT REFERENCE  18,100 YEN (FOREX 116.35 YEN/$)</p>
+<p>* * * *</p>
+<p> WARRANT	STRIKE	ISSUE	 PREMIUM	GEARING</p>
+<p> CALL A	 17,500	$1.75	 7.96 PCT     8.87 TIMES</p>
+<p>  PUT A	 17,500	$1.25	11.30 PCT    12.52 TIMES</p>
+<p> CALL B	 18,500	$1.30	10.58 PCT    11.94 TIMES</p>
+<p>  PUT B	 18,500	$1.65	 8.39 PCT     9.44 TIMES</p>
+<p> CALL C	 19,500	$0.93	13.69 PCT    16.78 TIMES</p>
+<p>  PUT C	 19,500	$2.15	 6.16 PCT     7.20 TIMES</p>
+<p> CALL D	 20,500	$0.65	17.47 PCT    23.74 TIMES</p>
+<p>  PUT D	 20,500	$2.75	 4.40 PCT     5.66 TIMES</p>
+<p>--Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181140" id="root" date="1996-11-11" xml:lang="en">
+<title>JAPAN: Saint Marc sets terms on warrant bonds.</title>
+<headline>Saint Marc sets terms on warrant bonds.</headline>
+<dateline>TOKYO 1996-11-11</dateline>
+<text>
+<p>BORROWER - Saint Marc Co Ltd</p>
+<p>LEAD MANAGER - Universal Securities Co Ltd</p>
+<p> TYPE warrant		 ISSUE NO 2	AMOUNT  134 million yen</p>
+<p> COUPON 2.5 pct	     ISS PRICE par   MATURITY 28 Nov 2000</p>
+<p>EXERCISE FRM 16 Dec 1996 EXERCISE TO 27 Nov 2000</p>
+<p> LAST MOODY'S		 PAY DATE 28 Nov 1996</p>
+<p>INT PAY  28 May/Nov</p>
+<p> LAST S&amp;P		     SIGN DATE	    SUB DATE 26-27 Nov</p>
+<p> LAST JCR		     LAST JBRI	    LAST NIS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

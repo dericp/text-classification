@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="306480" id="root" date="1997-01-14" xml:lang="en">
+<title>USA: Lilly, TheraTech in collaborative pact.</title>
+<headline>Lilly, TheraTech in collaborative pact.</headline>
+<dateline>INDIANAPOLIS 1997-01-14</dateline>
+<text>
+<p>Eli Lilly and Co and TheraTech Inc said Tuesday they entered a multi-product collaborative agreement to develop and market peptide drugs using TheraTech's patented oral transmucosal delivery system.</p>
+<p>Lilly said its peptide drugs are at various stages of preclinical and clinical development and a majority are in the endocrine area.  </p>
+<p>Under the agreement, TheraTech will receive initial fees, funding for research, milestone payments and royalties on potential product sales. Lilly will receive exclusive commercialization rights for the oral transmucosal delivery of certain peptide drugs.</p>
+<p>The TheraTech transmucosal delivery system is a small, adhesive-backed tablet that is placed in the mouth between the lip and gum.  As it slowly dissolves, it delivers peptide drugs directly into a patient's bloodstream through the mucous membrane of the mouth.</p>
+<p>TheraTech, headquartered in Salt Lake City, Utah, develops products based on controlled-release drug delivery technologies.</p>
+<p>Lilly is a global research-based pharmaceutical corporation.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="INDIANAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

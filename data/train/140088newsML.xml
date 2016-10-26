@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140088" id="root" date="1996-10-24" xml:lang="en">
+<title>MEXICO: Telmex line growth 0.9 pct in yr to Sept.</title>
+<headline>Telmex line growth 0.9 pct in yr to Sept.</headline>
+<dateline>MEXICO CITY 1996-10-24</dateline>
+<text>
+<p>Telefonos de Mexico said line growth in the year to end-September was 0.9 percent, taking lines in service to 8,851,105.</p>
+<p>Line cancellations in the third quarter totalled 17,789, the company added in a statement.</p>
+<p>In the first nine months, lines contracted grew by 50,075, Telmex said. It gave no separate third quarter figure.</p>
+<p>&quot;In the quarter an increase was seen of 10.7 percent in domestic long distance services and 20.5 percent in international long distance services,&quot; it added, but gave no details.</p>
+<p>Telmex said that, as of September 30, its services were 100 percent digital in the cities of Mexico City, Monterrey and Guadalajara.</p>
+<p>&quot;Digitalization nationally is 89.6 percent,&quot; it said.</p>
+<p>--Maria Luisa Aguilar, Mexico City newsroom 525 7289553</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

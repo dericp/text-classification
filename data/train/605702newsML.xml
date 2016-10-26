@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="605702" id="root" date="1997-05-22" xml:lang="en">
+<title>USA: Major feedlot daily weighted averages - USDA.</title>
+<headline>Major feedlot daily weighted averages - USDA.</headline>
+<dateline>OMAHA 1997-05-22</dateline>
+<text>
+<p>Five area daily weighted averages for Wednesday, May 21, 1997</p>
+<p>Texas-Okla; Kansas; Colorado; Nebraska; Iowa-So. Minn Feedlots</p>
+<p>Confirmed:  48,154    Week Ago: 221,981	Last Year:  63,981</p>
+<p>Week to Date: 303,349 Week Ago: 261,842	Last Year: 220,167</p>
+<p>Live Basis Sales     Weight/lbs  Price/dollars   Weighted Avgs</p>
+<p>Slaughter Steers (Beef Breeds)</p>
+<p>    50 CH    80-100%	 1350		 66.25 1350    66.25</p>
+<p>   934 SE/CH 65-80%  1174 -1225     66.52 - 68.00 1200    67.25</p>
+<p> 2,009 SE/CH 35-65%  1169 -1181     65.80 - 66.00 1175    65.98</p>
+<p>   115 SE/CH 20-35%	  1050		 66.00 1050    66.00</p>
+<p>			  Weight/lbs	 Price/dollars   Weighted Avgs</p>
+<p>Live Basis Sales    - Slaughter Heifers (Beef Breeds)</p>
+<p>  100 CH   80-100%	  1150		 67.50 1150    67.50</p>
+<p>  841 SE/CH 65-80%  1131 -1183     66.14 - 67.40 1154    66.85</p>
+<p>2,326 SE/CH 35-65%  1007 -1098     65.92 - 66.00 1044    65.98</p>
+<p>Dressed Basis Sales - Slaughter Steers (Beef Breeds)</p>
+<p>  248 CH   80-100%	  1236		108.00 1236   108.00</p>
+<p>4,112 SE/CH 65-80%  1222 -1229    107.29 -107.69 1227   107.42</p>
+<p>3,291 SE/CH 35-65%  1050 -1225    106.00 -107.50 1221   106.57</p>
+<p>Dressed Basis Sales  - Slaughter Heifers (Beef Breeds)</p>
+<p>			   Weight/lbs    Price/dollars     Weighted Avgs</p>
+<p>  320 CH   80-100%	  1150		108.00 1150   108.00</p>
+<p>3,636 SE/CH 65-80%  1117 -1123    107.07 -107.70 1120   107.39</p>
+<p>2,280 SE/CH 35-65%  1050 -1110    106.00 -107.50 1095   106.56</p>
+<p>Wednesday's Daily Weighted Averages (Beef Breeds) :</p>
+<p>Live Steer     : 1180  lbs   -    $66.37 -  3,108 Hd.</p>
+<p>Live Heifer    : 1075  lbs   -    $66.25 -  3,267 Hd.</p>
+<p>Dressed Steer  : 1224  lbs   -   $107.07 -  7,651 Hd.</p>
+<p>Dressed Heifer : 1112  lbs   -   $107.11 -  6,236 Hd.</p>
+<p>Total Other:     27,892 Hd.	Total Weighted - 20,262 Hd.</p>
+<p>Week Ago Weighted Averages:</p>
+<p>Live Steer     : 1161  lbs   -    $68.02</p>
+<p>Live Heifer    : 1057  lbs   -    $68.02</p>
+<p>Dressed Steer  : 1227  lbs   -   $110.42</p>
+<p>Dressed Heifer : 1117  lbs   -   $110.22</p>
+<p>Year Ago Weighted Averages:</p>
+<p>Live Steer     : 1207  lbs   -    $58.76</p>
+<p>Live Heifer    : 1111  lbs   -    $58.82</p>
+<p>Dressed Steer  : 1215  lbs   -    $92.66</p>
+<p>Dressed Heifer : 1108  lbs   -    $92.78</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

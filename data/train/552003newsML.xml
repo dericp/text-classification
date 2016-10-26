@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="552003" id="root" date="1997-04-30" xml:lang="en">
+<title>SPAIN: Third case of swine fever confirmed in Spain.</title>
+<headline>Third case of swine fever confirmed in Spain.</headline>
+<dateline>MADRID 1997-04-30</dateline>
+<text>
+<p>Spain's Catalan province of Lerida confirmed on Wednesday a third outbreak of swine fever, the regional Department of Agriculture said.</p>
+<p>A local farmers group estimated that about 86 farms were involved in the new outbreak in the county of Montgai.</p>
+<p>&quot;We estimate a total of around 59,200 pigs (altogether in the province) will be slaughtered as a preventive measure,&quot; a spokesman told Reuters.</p>
+<p>But although farmers associations played down the extent of the outbreak, grains traders were worried about the varying estimates of the number of cases, with farm groups and official bodies giving limited information.</p>
+<p>&quot;It's clear that they're trying to play it down because they don't want to start a scare, but there's been no precise figures supplied about how far the disease has spread,&quot; a Catalan grains trader said.</p>
+<p>&quot;It could affect the grains market a lot. I've heard talk of up to 800,000 pigs being killed. But it's all a bit cloudy at the moment,&quot; he added.</p>
+<p>But agricultural associations said Spain had taken massive measures right from the start to stop the outbreak, adding that this latest case was only a marginal episode.</p>
+<p>An official transport ban has been imposed in five counties in the province.</p>
+<p>The disease, which is highly contagious but not considered harmful to humans, is thought to have been imported with Dutch piglets, a farmers' association source said.</p>
+<p>Since the disease appeared in Spain at least 15,000 pigs have been slaughtered, according to farmers associations, but at present there are no official data.</p>
+<p>There are about five million pigs in the Catalan region, with two million alone in the Lerida province, according to end-1995 official data.</p>
+<p>Yesterday Catalonia's regional government presented a plan to compensate farmer for pigs slaughtered.</p>
+<p>That was mostly financed by the European Union, with 15 percent paid both by the Spanish state and the regional government.</p>
+<p>Weekly pork prices issued by the Agriculture Ministry in Madrid showed increases in the last month.</p>
+<p>During the past week pork traded at around 282.41 pesetas per kilo versus around 269 in April and 256.50 at the end of December.</p>
+<p>-- Madrid newsroom +341 585 2160</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="I0100119">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

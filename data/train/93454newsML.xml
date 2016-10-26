@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="93454" id="root" date="1996-10-03" xml:lang="en">
+<title>RUSSIA: Former Russian naval officer charged with treason.</title>
+<headline>Former Russian naval officer charged with treason.</headline>
+<byline>Konstantin Trifonov</byline>
+<dateline>ST PETERSBURG, Russia 1996-10-03</dateline>
+<text>
+<p>Security police have charged a retired Russian navy captain with treason, alleging he passed state secrets about nuclear submarines to a Norwegian environmental organisation.</p>
+<p>Federal Security Service (FSB) spokesman Valery Kolpachkov said on Thursday the officer, Alexander Nikitin, was charged on three counts -- treason, revealing state secrets and forgery.</p>
+<p>Kolpachkov said he thought the forgery charge related to Nikitin's military identity card. FSB sources say he continued to use it after he was retired from active service to gain access to top secret documents on behalf of the Bellona environmental organisation.</p>
+<p>The charge comes almost exactly a year after the FSB raided Bellona's offices in the Arctic port of Murmansk, where Bellona activists are carrying out research into the risks of the ageing Russian nuclear submarine fleet on Norway's doorstep.</p>
+<p>They confiscated computers, data discs and other material and later said some of them contained state secrets.</p>
+<p>Bellona denied the allegations.</p>
+<p>Nikitin, who helped compile a chapter about nuclear accidents in a report issued by Bellona earlier this year, has been in jail for nearly eight months without being charged.</p>
+<p>The accidents covered in the chapter include the sinking of the Komsomolets, a Soviet nuclear submarine which went down off the coast of Norway in 1989 after catching fire, killing 42 seamen.</p>
+<p>The FSB maintains that the chapter contains secret information. Bellona released the report in Murmansk in August this year to try to convince the authorities that it contained no secrets and was based on publicly available sources.</p>
+<p>Kolpachev said Nikitin was formally charged on September 27. If convicted he faces up to 20 years in prison.</p>
+<p>His family and lawyers have expressed fears that he has suffered mentally and physically in prison and international human rights group Amnesty International has declared him their first prisoner of conscience in post-communist Russia.</p>
+<p>Kolpachev said Nikitin maintained he was innocent of the charges, which his lawyer was studying, and has refused to give testimony. He could not say when the trial would start.</p>
+<p>Nikitin is one of three Russians arrested by the FSB for spying for the West over the past year.</p>
+<p>The FSB arrested a man at a defence ministry research institute in St Petersburg last month on suspicion of giving the United States secret information on Russia's new attack submarines.</p>
+<p>In July it said it had arrested a foreign ministry official in April for passing secrets to Britain. Russia and Britain expelled four diplomats each after the allegations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST PETERSBURG, Russia"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

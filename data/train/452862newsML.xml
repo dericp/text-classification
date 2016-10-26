@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="452862" id="root" date="1997-03-19" xml:lang="en">
+<title>COLOMBIA: Twin blast injures five in northeast Colombia.</title>
+<headline>Twin blast injures five in northeast Colombia.</headline>
+<dateline>BOGOTA 1997-03-19</dateline>
+<text>
+<p>Two bombs exploded in northeast Colombia early on Wednesday, injuring five people, in the latest dynamite attacks by leftist guerrillas, police said.</p>
+<p>The blasts in downtown Bucaramanga, Santander province, came on the same day that President Ernesto Samper and National Police chief Gen. Rosso Jose Serrano were scheduled to visit the city.</p>
+<p>&quot;Terrorism has arrived in our city. This marks the escalation of a wave of bombings in the east of the country,&quot; said city mayor Carlos Ibanez.</p>
+<p>A police spokesman said two men were captured shortly after the explosions, which damaged the premises of a cattle ranchers' association and the chamber of commerce.</p>
+<p>He said the National Liberation Army (ELN), Colombia's second largest rebel group set up by radical Roman Catholic priests in the mid-1960s, was thought to be behind the attacks.</p>
+<p>The attacks came 24 hours after two car bombs exploded in Cucuta, in neighbouring Norte de Santander province, in which an 18-month-old girl died.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99180" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: LCRA sees 430 MW Texas gas plant on line Tuesday.</title>
+<headline>LCRA sees 430 MW Texas gas plant on line Tuesday.</headline>
+<dateline>NEW YORK 1996-10-07</dateline>
+<text>
+<p>Lower Colorado River Authority (LCRA) said Monday its 430 megawatt (MW) natural gas-fired Ferguson generating plant was expected to return on line late Tuesday after being shut last Thursday.</p>
+<p>The station in Marble Falls, Texas, was taken off line after a superheater tube ruptured, said spokesman Bill McCann. &quot;They hope to have the plant back late tomorrow,&quot; he added.</p>
+<p>LCRA shut a 600 MW coal-fired unit at its Fayette Power Project in La Grange, Texas, this past weekend for seasonal maintenance. The unit was scheduled to startup by early December.</p>
+<p>Based in Austin, LCRA is a wholesale supplier of water and electricity.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

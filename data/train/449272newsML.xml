@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="449272" id="root" date="1997-03-18" xml:lang="en">
+<title>SPAIN: SOCCER-RAYO SACK COACH ZAMBRANO AND FINE STRIKER.</title>
+<headline>SOCCER-RAYO SACK COACH ZAMBRANO AND FINE STRIKER.</headline>
+<dateline>MADRID 1997-03-18</dateline>
+<text>
+<p>Rayo Vallecano sacked coach Fernando Zambrano and replaced him with his deputy Maximo Hernandez on Tuesday after the team slumped to six straight defeats in the Spanish first divison.</p>
+<p>Rayo, currently in 17th place, also fined striker Guilherme two million pesetas ($14,000) for insulting the crowd during their 4-0 home defeat to Real Betis on Sunday.</p>
+<p>&quot;They were cheering Betis,&quot; commented the Brazilian.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55811" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: Gas main fire forces evacuation in Philadelphia.</title>
+<headline>Gas main fire forces evacuation in Philadelphia.</headline>
+<dateline>PHILADELPHIA 1996-09-16</dateline>
+<text>
+<p>Fire authorities were forced to evacuate an entire downtown block on Monday while they worked to contain a raging natural gas fire from a ruptured underground pipeline.</p>
+<p>It took several hours for emergency crews of Philadelphia Gas Works to cut off pressure to the affected main, but once the gas was turned off firefighters were able to extinguish the blaze quickly.</p>
+<p>No serious injuries were reported, although several firefighters were treated for heat and smoke inhalation. A 45-foot high column of flame erupted when a construction crew using a concrete saw in the street ruptured a 20-inch gas main in Walnut Street between 19th and 20th streets.</p>
+<p>Firefighters hosed down Holy Trinity Church to minimize chances the heat would set it afire. A nearby tree burst into flames.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

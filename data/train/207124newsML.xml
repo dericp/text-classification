@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207124" id="root" date="1996-11-21" xml:lang="en">
+<title>ITALY: Italian bonds/futures closing report.</title>
+<headline>Italian bonds/futures closing report.</headline>
+<dateline>MILAN 1996-11-21</dateline>
+<text>
+<p>Italian debt markets make a late recovery ahead of preliminary Italian consumer prices data due after the market closed, but traders said the tone was bearish.</p>
+<p>&quot;We've had a sell-off on technical factors and now we're just waiting for the CPI,&quot; one broker in London said.</p>
+<p>&quot;The figures will give new direction. If they're nothing special then the market will go down,&quot; he added.</p>
+<p>Six sample cities publish their data after 1630 GMT today and a further four release theirs on Friday. Forecasts are for 0.25 percent month on month after 0.1 percent in October, and 2.6 percent year on year after October's 3.0 percent.  </p>
+<p>The market is agog with speculation about when the lira might return to the ERM, with differing expectations for this weekend, the end of November and later in December.</p>
+<p>--Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

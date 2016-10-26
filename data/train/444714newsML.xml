@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="444714" id="root" date="1997-03-14" xml:lang="en">
+<title>NORWAY: PRESS DIGEST - Norway - March 14.</title>
+<headline>PRESS DIGEST - Norway - March 14.</headline>
+<dateline>OSLO 1997-03-14</dateline>
+<text>
+<p>Following are some of the leading stories in Norwegian papers this morning:</p>
+<p>AFTENPOSTEN</p>
+<p>-Personal information on Norwegian individuals will be freely available in the European Union from the autumn. The Norwegian body for the protection of information fears that personal privacy will be weakened if Norway adjusts to EU standards.</p>
+<p>-The government wants to bring in a new law to prevent anyone associated with child abuse from working with children. To get a job in a primary school it will be compulsory to present a police certificate showing that the individual has not been convicted or accused of sexual abuse.</p>
+<p>-Norwegian shipyards see increased competition because their European counterparts receive financial support.</p>
+<p>DAGENS NAERINGSLIV</p>
+<p>-Norwegian salmon farmers will lose a hundred million crowns before Easter. Growth in sales is three times higher than expected, but prices fallen to a level which makes it impossible to earn money.</p>
+<p>-The shipping industry wants its part of the state's Petroleum Fund. The Norwegian Shipping Association says part of the money should be invested in Norwegian industry both in Norway and abroad.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

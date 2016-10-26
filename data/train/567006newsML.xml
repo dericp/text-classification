@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="567006" id="root" date="1997-05-07" xml:lang="en">
+<title>USA: L.L. Knickerbocker Co Q1 net shr loss.</title>
+<headline>L.L. Knickerbocker Co Q1 net shr loss.</headline>
+<dateline>RANCHO SANTA MARGARITA, Calif. 1997-05-07</dateline>
+<text>
+<p>Three months ended March 31,</p>
+<p>							  1997	  1996</p>
+<p> Sales, net of returns		    $13,441,000  $3,159,000</p>
+<p> Cost of sales				  6,644,000   1,404,000</p>
+<p> Gross profit				   6,797,000   1,755,000</p>
+<p> Advertising expense			  1,577,000     108,000</p>
+<p> SG&amp;A expenses				  6,269,000   1,156,000</p>
+<p> Operating income			   (1,049,000)     491,000</p>
+<p> Equity in loss of invested companies     305,000	    --</p>
+<p>Other income</p>
+<p>(expense), net (113,000) 44,000</p>
+<p> Interest expense			     3,093,000	    --</p>
+<p>Income before minority interest in loss of</p>
+<p>   subsidiary				 (4,560,000)     535,000</p>
+<p> Minority interest of loss of subsidiary  118,000	    --</p>
+<p> Income tax (benefit) expense	     (603,000)     212,000</p>
+<p> Net income				   (3,839,000)     323,000</p>
+<p> Primary net income (loss) per share	 (0.23)	  0.02</p>
+<p> Avg shrs outstanding			16,933,237  16,057,063</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANCHO SANTA MARGARITA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194610" id="root" date="1996-11-16" xml:lang="en">
+<title>CZECH REPUBLIC: RULING CZECH PARTY WINS 36 PCT OF SENATE VOTE.</title>
+<headline>RULING CZECH PARTY WINS 36 PCT OF SENATE VOTE.</headline>
+<dateline>PRAGUE 1996-11-16</dateline>
+<text>
+<p>The Civic Democratic Party (ODS) of conservative Czech Prime Minister Vaclav Klaus won a commanding 36.47 percent of the national vote in the first round of Senate elections, the Central Election Commission said on Saturday.</p>
+<p>The opposition Social Democrats came second with 20.27 percent in the polls, which operate under a British-style first past the post system rather than the proportional representation used for Czech lower house elections.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

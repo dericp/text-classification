@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123220" id="root" date="1996-10-17" xml:lang="en">
+<title>SLOVAKIA: Nortel, Alcatel win Slovak deal.</title>
+<headline>Nortel, Alcatel win Slovak deal.</headline>
+<dateline>BRATISLAVA 1996-10-17</dateline>
+<text>
+<p>Canada's Northern Telecom Ltd and Alcatel Telecom will be the main equipment suppliers for Slovtel GSM a.s., the operator of one of two planned Slovak GSM mobile phone systems, Slovtel said on Thursday.</p>
+<p>Slovtel's statement did not give any information on how much the contracts were worth and company officials were not immediately available for comment.</p>
+<p>&quot;The main criteria for chosing Nortel and Alcatel as main equipment suppliers were the technical quality of their bids, the price and production capacity, enabling them to carry out supplies in a very short time,&quot; the statement said.  </p>
+<p>Slovtel is a consortium of four Slovak state-owned energy companies, the state-owned monopoly gas distributor SPP and the private firm Hanco sro, which teamed up with France Telecom Mobile International (FTMI) to win a government tender for one of the GSM licences earlier this year.</p>
+<p>Hanco holds 29 percent in the venture, while power company Slovenske Elektrarne has an 11 percent stake, SPP holds 10 percent, and the remaining utilities hold five percent each. FTMI has a 35 percent share.</p>
+<p>Slovtel said earlier this year that it planned to invest some $200 million in building and maintaining its Slovak GSM (General System for Mobile) network over the next 10 years.</p>
+<p>It said it would not subsidise prices of GSM phones in the first year of operation.</p>
+<p>Slovtel's signal is due to cover 90 percent of the population, with 70-75 percent of territory to be covered by the end of next year.</p>
+<p>The second licence was granted to Eurotel sro., a joint venture between the Slovak state-owned telecom operator Slovenske Telekomunikacie s.p. (ST) and two U.S. companies, Bell Atlantic Corp and US West Media Group Inc.</p>
+<p>The three partners are now negotiating the creation of a new joint-stock company to fulfil the main tender condition that the GSM operator must be at least 60 percent Slovak-owned.</p>
+<p>At present, ST holds 51 percent in Eurotel, with the two U.S. telecom groups sharing the remaining 49 percent.</p>
+<p>-- Peter Laca, Bratislava Newsroom, 42-7-563-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

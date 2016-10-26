@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40322" id="root" date="1996-09-09" xml:lang="en">
+<title>SWITZERLAND: C.banks to sign deal with copying machinery makers.</title>
+<headline>C.banks to sign deal with copying machinery makers.</headline>
+<dateline>BASLE, Switzerland 1996-09-09</dateline>
+<text>
+<p>Central banks will sign an agreement with Japanese producers of photocopying machines on moves aiming to reduce the danger of counterfeiting money, Bundesbank president Hans Tietmeyer said on Monday.</p>
+<p>Tietmeyer told reporters during a central bankers' meeting at the Bank for International Settlements that a memorandum of understanding on the issue will be signed with the Japanese Machine Makers Association.</p>
+<p>Under the deal, colour copiers would be fitted with marque recognition and tracing systems to make them more difficult to use for counterfeiting banknotes.</p>
+<p>Tietmeyer said central bank governors from the 10 most industrialised countries (G10) at their regular monthly meeting had continued discussions on the impact of electronic money, both reloadable cards and forms of money on the Internet.</p>
+<p>He said the G10 was preparing a report on electronic money to be presented to G10 finance ministers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BASLE, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

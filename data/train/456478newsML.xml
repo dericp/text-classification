@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="456478" id="root" date="1997-03-20" xml:lang="en">
+<title>USA: U.S. spot natgas mostly steady, up in West on heat.</title>
+<headline>U.S. spot natgas mostly steady, up in West on heat.</headline>
+<dateline>NEW YORK 1997-03-20</dateline>
+<text>
+<p>U.S. spot gas prices were mostly steady Thursday as the market's focus shifted toward the West, where storage was well below year-ago and weather remained hot after reaching record levels earlier in the week.</p>
+<p>Prices in the Permian basin rose by about two cents to the high-$1.60s to mid-$1.70s. Late deals were reported done as high as $1.78 per mmBtu.</p>
+<p>Similarly at the southern California border prices were talked in a wide range of $1.78 to $1.90, up an average of five cents from Wednesday.  </p>
+<p>Temperatures in southern California have dropped slightly to the 80s, Weather Services Corp said, but temperatures in Arizona remain in the 90s.</p>
+<p>WSC is calling for temperatures to be 12-22 degrees above normal this weekend in the Southwest, followed by slightly cooler temperatures early next week.</p>
+<p>American Gas Association said Wednesday gas stocks in the West region were down two bcf last week to 163 bcf, or 34 percent of capacity, compared with 482 bcf a year ago.</p>
+<p>Also supporting the market was the extended shutdown of the 1,070 megawatt San Onofre 2 nuclear unit in southern California.</p>
+<p>Edison International said late Wednesday the unit would not restart Thursday as previously expected due to a small leak in a valve. The company could not comment on when it would restart.</p>
+<p>On the East Coast, where temperatures are climbing, New York city-gate prices drifted about five cents lower to $2.20-2.27.</p>
+<p>Despite early talk of softening prior to the NYMEX open, Louisiana Gulf prices for the most part held in the mid-$1.80s per mmBtu, with Henry Hub again quoted at $1.86-1.88.</p>
+<p>Gulf cash remained in convergence with NYMEX Henry Hub April natgas, which fell 1.1 cents to $1.885 at 1325 EST.</p>
+<p>In south Texas, prices were also steady in the low-$1.80s amid warmer weather. However, cooler weather was forecast for early next week across the state.</p>
+<p>In the Midcontinent, prices were little changed at $1.73-1.75, with Demarcation quoted mostly in the mid-$1.70s.</p>
+<p>Chicago city-gate values were a little softer around $1.94.</p>
+<p>Temperatures throughout the Midwest are forecast to climb to much above-normal levels Friday but then settle to near-normal by the weekend.</p>
+<p>((--H McCulloch, New York Power Desk +212-859-1628))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

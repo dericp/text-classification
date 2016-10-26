@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="126770" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: Scientists sue, seeking access to ancient skeleton.</title>
+<headline>Scientists sue, seeking access to ancient skeleton.</headline>
+<dateline>PORTLAND, Ore. 1996-10-18</dateline>
+<text>
+<p>A group of scientists has filed a lawsuit seeking to block Indian tribes from reburying an ancient skeleton of possible major historic significance.</p>
+<p>In a complaint filed on Thursday in U.S. District Court, the scientists asked for an order blocking the U.S. Army Corps of Engineers from handing over the so-called &quot;Kennewick Man,&quot; which has become embroiled in a cross-cultural controversy since its discovery on July 28.</p>
+<p>The bones, believed to be from a Caucasian male, were found protruding from a bank in the Columbia River at a park in Kennewick, Washington, near the Oregon border, by a pair of college students at a boat racing festival.</p>
+<p>Originally, scientists though they might be the remains of a man of European origin from the 19th century, and were astounded when radiocarbon dating done by the University of California at Riverside concluded the bones were more than 9,000 years old.</p>
+<p>The skeleton is not only the oldest ever found in the Columbia Basin, but it could be the most compelling evidence to date that North America's first settlers migrated across a land bridge that once spanned the Bering Straits.</p>
+<p>The fact that the bones appear to be those of a Caucasian with a large nose and thick bony brows, could cast new light on the question of who were the first Americans.</p>
+<p>But a coalition of tribes, citing the 1990 Native American Graves and Repatriation Act, has claimed jurisdiction over the bones and plans a ceremonial burial.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

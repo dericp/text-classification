@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="166102" id="root" date="1996-11-05" xml:lang="en">
+<title>POLAND: Polish shares end up in live trade.</title>
+<headline>Polish shares end up in live trade.</headline>
+<dateline>WARSAW 1996-11-05</dateline>
+<text>
+<p>Four stocks rose, one fell and seven were flat in Warsaw bourse continuous trade on Tuesday.</p>
+<p>Turnover was at 6.9 million zlotys, up from Monday's 1.7 million zlotys.</p>
+<p>NFI units were flat at 139.5 zlotys in a turnover of eight million zlotys.</p>
+<p>The continuous trading system, which currently lists 15 companies, is separate from the bourse's main single-price auction system in which the same firms and 65 others are traded.</p>
+<p>At the single-price auction session most stocks fell and the main market's index eased 0.5 percent.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

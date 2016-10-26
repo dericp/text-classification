@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="791086" id="root" date="1997-08-11" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH REAL JUNE INDUSTRIAL OUTPUT +7.9 PCT YR/YR.</title>
+<headline>CZECH REAL JUNE INDUSTRIAL OUTPUT +7.9 PCT YR/YR.</headline>
+<dateline>PRAGUE 1997-08-11</dateline>
+<text>
+<p>Czech real industrial output in June rose 7.9 percent, year-on-year, putting real output for the first six months of the year up 0.5 percent year-on-year, the statistical bureau (CSU) said on Monday.</p>
+<p>It added that average industrial monthly wages grew, in nominal terms, 15.9 percent, year-on-year, in June after 11.9 percent growth in May.  </p>
+<p> INDUSTRIAL OUTPUT	  JUNE/97   MAY/97   JUNE/96    H1 97</p>
+<p>  pct change yr/yr	   7.9	 -3.3	1.8	 0.5</p>
+<p>INDUSTRIAL SALES</p>
+<p>  real pct chg yr/yr	10.7	 -0.7	n/a	 n/a</p>
+<p>NOMINAL INDUSTRIAL MONTHLY WAGES</p>
+<p>  pct change yr/yr	  15.9	 11.9	n/a	13.8</p>
+<p>REAL INDEX OF IND WAGES</p>
+<p>  real chg yr/yr	     8.5	  5.3	n/a	 6.5</p>
+<p>CONSTRUCTION OUTPUT</p>
+<p>   real pct chg yr/yr     -2.8	  2.0	9.4	-1.2</p>
+<p>avg nominal monthly</p>
+<p>   wages chg yr/yr	  15.2	  9.6	9.1	 9.8</p>
+<p>NOTE. The average nominal industrial wage in June was 11,446 crowns compared with 11,153 in May.</p>
+<p>In January, the CSU changed its methodology for calculating industrial production. The new methodology excludes multiple calculation of semi-finished products, resources, and other materials and commodities, which were included in output data at every stage under the old method measuring the gross value of all goods produced.</p>
+<p>The new index measures output changes by units, weight or other measurements, of the total of 1,304 products out of 879 product groups consisting of one or more similar products.</p>
+<p>The product groups's output indices are placed in sectors, using weighting equal to their weight in the respective sector. The overall index is calculated from weighted changes in the sectoral indices.</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

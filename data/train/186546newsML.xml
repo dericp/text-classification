@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="186546" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Nebraska fed cattle at $119-$120/dressed - trade.</title>
+<headline>Nebraska fed cattle at $119-$120/dressed - trade.</headline>
+<dateline>CHICAGO 1996-11-13</dateline>
+<text>
+<p>Nebraska feedlot cattle near midday Wednesday were trading in light volume steady to $1.00 per cwt higher at $119.00 to $120.00 per cwt on a dressed basis, market sources said.</p>
+<p>About 3,000 to 4,000 head sold near midday to one major Nebraska packer, they said.</p>
+<p>Prices were not established on a live basis, with no bids reported. Owners were asking $74.00/live.</p>
+<p>Feedlots were working through the week's showlist, with USDA near midday estimating 56,000 head sold for the week to date. Showlists were pegged near 65,000 head.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

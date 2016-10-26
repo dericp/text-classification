@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198789" id="root" date="1996-11-18" xml:lang="en">
+<title>SOUTH AFRICA: PEARSON CONFIRMS INTEREST IN SAFRICA PAPERS.</title>
+<headline>PEARSON CONFIRMS INTEREST IN SAFRICA PAPERS.</headline>
+<dateline>JOHANNESBURG 1996-11-18</dateline>
+<text>
+<p>Britain's Pearson Plc, publisher of the Financial Times, confirmed on Monday it was negotiating to acquire an interest in Business Day and the weekly Financial Mail, two business papers owned by Times Media Ltd.  </p>
+<p>A joint statement said both companies were &quot;involved in negotiations regarding the possible acquisition by Pearson of an interest in Business Day and Financial Mail&quot;.</p>
+<p>TML shareholders were advised to exercise caution pending a further announcement.    </p>
+<p>Industry sources said last week that talks between TML and Pearson were advanced with the two companies planning to parcel off TML's business publications into a new jointly-controlled company.</p>
+<p>The National Empowerment Consortium (NEC), a grouping of black business interests, last month won control of Johnnies Industrial Corporation , which in turn controls TML, by buying a 35 percent stake.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

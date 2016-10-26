@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200806" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Clinton declares state of emergency in Hawaii.</title>
+<headline>Clinton declares state of emergency in Hawaii.</headline>
+<dateline>WASHINGTON 1996-11-18</dateline>
+<text>
+<p>President Clinton declared a state of emergency Monday in Hawaii, freeing up federal aid for areas struck by severe storms and flooding which began Nov. 5.</p>
+<p>Clinton, who flew to Australia after a wet golfing weekend in Hawaii, authorized the Federal Emergency Management Agency to coordinate all emergency responses to the flooding, the White House said in a statement.</p>
+<p>FEMA is authorized to provide assistance for the alleviation of public health and safety concerns resulting from contaminated standing water.</p>
+<p>The federal aid would initially go to the city of Honolulu and Honolulu County, although FEMA officials were continuing to survey damage from the storms, and additional counties may be added to the emergency declaration.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

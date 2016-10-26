@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660118" id="root" date="1997-06-13" xml:lang="en">
+<title>USA: Hovnanian sees 97 oper net similar to 96.</title>
+<headline>Hovnanian sees 97 oper net similar to 96.</headline>
+<dateline>RED BANK, N.J. 1997-06-13</dateline>
+<text>
+<p>Hovnanian Enterprises Inc reaffirmed Friday that it expects operating profits for fiscal 1997, prior to the impact of writeoffs and a change in interest capitalization, to be comparable to fiscal 1996.</p>
+<p>It said the third and fourth quarters for the company are traditionally its best and expects these quarters once again to provide strong operating profits before non-cash charges for the full fiscal year.</p>
+<p>The company earlier reported a second quarter and year-to-date loss after taking about $27.9 million in writeoffs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RED BANK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

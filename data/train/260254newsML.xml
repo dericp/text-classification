@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260254" id="root" date="1996-12-16" xml:lang="en">
+<title>MALAYSIA: KL tin ends down four cents, tracks London's fall.</title>
+<headline>KL tin ends down four cents, tracks London's fall.</headline>
+<dateline>KUALA LUMPUR 1996-12-16</dateline>
+<text>
+<p>Malaysia's tin price ended down four cents at 14.51 ringgit ($5.74) a kg, as the local market tracked Friday's $55 drop on the London Metal Exchange (LME), traders said.</p>
+<p>Traders noted initial bids for 48 tonnes against offers for 98 tonnes. Final turnover was 81 tonnes, up from 75 on Friday, and were again taken up by European, Japanese and Malaysian buyers, they said.</p>
+<p>The local price premium over the LME widened to $125 a tonne against $95 previously, the traders said.</p>
+<p>-- Syed Azman (603-230 8911) ($1=2.5260 ringgit)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

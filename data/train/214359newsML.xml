@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214359" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Deluxe to sell Financial Alliance unit.</title>
+<headline>Deluxe to sell Financial Alliance unit.</headline>
+<dateline>ST. PAUL, Minn. 1996-11-25</dateline>
+<text>
+<p>Deluxe Corp said on Monday it entered into an agreement to sell its Financial Alliance Processing Services Inc subsidiary to  FA Holdings Inc for undisclosed terms.</p>
+<p>Financial Alliance, based in Louisville, Ky., is a credit and debit card processing services company.</p>
+<p>FA Holdings is a company organized by the current management of Financial Alliance and  Inverness/Phoenix LLC, an investment banking company based in Greenwich, Conn.</p>
+<p>Deluxe, which provides imprinted bank checks, said it previously agreed to divest businesses that do not fit its corporate strategy.</p>
+<p>	   -- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PAUL, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

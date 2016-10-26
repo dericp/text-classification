@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="269861" id="root" date="1996-12-20" xml:lang="en">
+<title>VIETNAM: Twenty face trial in Vietnam fraud scandal.</title>
+<headline>Twenty face trial in Vietnam fraud scandal.</headline>
+<dateline>HANOI 1996-12-20</dateline>
+<text>
+<p>The state prosecution office in Vietnam's Ho Chi Minh City said on Friday 20 people would go on trial for alleged involvement in a fraud case that has sent shock waves through the political and financial establishment.</p>
+<p>The prosecution office confirmed newspaper reports that listed the 20 who would be tried in the so-called Tamexco case, probably at the end of next month.</p>
+<p>Among the accused were three former top brass of the communist country's largest state-owned bank, Vietcombank.</p>
+<p>The affair stems from the alleged embezzlement of some $50 million via Tamexco, a Ho Chi Minh City-based import-export company affiliated to the party.</p>
+<p>Local newspapers have given unprecedented coverage to the scandal, which has come at a time when the Communist Party is stepping up efforts to stamp out corruption.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

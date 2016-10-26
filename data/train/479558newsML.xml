@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="479558" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: NYSE closing averages.</title>
+<headline>NYSE closing averages.</headline>
+<dateline>NEW YORK 1997-04-01</dateline>
+<text>
+<p>Prices on the New York Stock Exchange closed mixed in active trade on Tuesday.</p>
+<p>The Dow Jones Industrial Average rose 27.57 to 6,611.05.</p>
+<p>The NYSE Composite rose 1.25 to 399.80.</p>
+<p>The average price per share was up 12 cents.</p>
+<p>Losers beat winners 1,337 to 1,155.</p>
+<p>Volume was 507,038,730 compared with 555,727,090 on Monday.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

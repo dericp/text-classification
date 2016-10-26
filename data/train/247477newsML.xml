@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247477" id="root" date="1996-12-10" xml:lang="en">
+<title>PORTUGAL: Yield falls to 6.07 pct on Portugal 3-yr bonds.</title>
+<headline>Yield falls to 6.07 pct on Portugal 3-yr bonds.</headline>
+<dateline>LISBON 1996-12-10</dateline>
+<text>
+<p>The following is the result of the Portuguese Treasury's auction of three-year fixed-rate bonds (OT).</p>
+<p>The Treasury accepted bids for 16.6 billion escudos of the 20 billion on offer.</p>
+<p>    ISSUER: Republic of Portugal   MATURITY:  March 1999</p>
+<p>    COUPON: 8.50 PCT	    AVERAGE ACCEPTED YIELD: 6.0718</p>
+<p>    BID AMOUNT: 56.35 bln esc HIGHEST ACCEPTED YIELD: 6.09</p>
+<p>    PAYMENT FREQUENCY: Annual</p>
+<p>NOTES: The issue is fungible. The auction takes to 297.67 billion escudos the total amount of the bonds issued.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350927" id="root" date="1997-02-03" xml:lang="en">
+<title>KAZAKHSTAN: Kazakh tenge unchanged to 75.8000 to dlr.</title>
+<headline>Kazakh tenge unchanged to 75.8000 to dlr.</headline>
+<dateline>ALMATY 1997-02-03</dateline>
+<text>
+<p>The tenge closed at 75.8000 per dollar on the Kazakhstan Currency Exchange on Friday after 75.8000 on Monday.</p>
+<p> TENGE PER DOLLAR	     Feb 3		   Jan 31</p>
+<p> High			     75.7600		 75.7700</p>
+<p> Low				75.9480		 75.5000</p>
+<p> Open			     75.9480		 76.5000</p>
+<p> Close			    75.8000		 75.8000</p>
+<p> Volume ($ mln)		  5.305		   5.135</p>
+<p> TENGE PER MARK		 Feb 3		   Jan 31</p>
+<p> High			     46.2300		 47.5400</p>
+<p> Low				46.3501		 46.0000</p>
+<p> Open			     46.3501		 46.5400</p>
+<p> Close			    46.2300		 47.0000</p>
+<p> Volume (DM mln)		 0.060		   0.015</p>
+<p>--Almaty Newsroom, + 7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

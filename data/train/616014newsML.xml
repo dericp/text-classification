@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="616014" id="root" date="1997-05-27" xml:lang="en">
+<title>POLAND: POLISH C.BANK OFFERS PLN 450 MLN NBP-BILLS.</title>
+<headline>POLISH C.BANK OFFERS PLN 450 MLN NBP-BILLS.</headline>
+<dateline>WARSAW 1997-05-27</dateline>
+<text>
+<p>The National Bank of Poland</p>
+<p>offered 250 million zlotys of 91-day NBP-bills and 200 million</p>
+<p>zlotys of 273-day NBP-bills on Tuesday, the central bank said.</p>
+<p>    Deadline hour		 - 12:00</p>
+<p>    Date of settlement	  - May 27, 1997</p>
+<p>Maturity of bills offered - Aug 26, 1997 and Feb 24, 1998</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

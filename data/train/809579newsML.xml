@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="809579" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: Fed Funds effective/range-Federal Reserve Bank-NY.</title>
+<headline>Fed Funds effective/range-Federal Reserve Bank-NY.</headline>
+<text>
+<p>date   effec   trading range  !  date   effec   trading range</p>
+<p>08/18   5.49   5.375 - 5.750  !  08/04   5.53   5.375 - 5.750</p>
+<p>08/15   5.59   4.000 - 5.875  !  08/01   5.65   5.250 - 5.875</p>
+<p>08/14   5.63   5.250 - 6.000  !  07/31   5.96   5.250 - 6.650</p>
+<p>08/13   5.56   4.000 - 5.750  !  07/30   5.78   5.500 - 5.750</p>
+<p>08/12   5.52   5.375 - 6.000  !  07/29   5.52   5.250 - 6.000</p>
+<p>08/11   5.56   5.375 - 6.000  !  07/28   5.59   5.375 - 5.875</p>
+<p>08/08   5.34   4.500 - 6.000  !  07/25   5.51   5.375 - 5.750</p>
+<p>08/07   5.48   5.250 - 5.5625 !  07/24   5.57   5.375 - 5.750</p>
+<p>08/06   5.45   5.750 - 5.375  !  07/23   5.48   5.375 - 6.000</p>
+<p>08/05   5.48   5.250 - 5.5625 !  07/22   5.44   5.250 - 5.750</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

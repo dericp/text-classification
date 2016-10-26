@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="692634" id="root" date="1997-06-27" xml:lang="en">
+<title>USA: U.S. lead stocks down in May - ABMS.</title>
+<headline>U.S. lead stocks down in May - ABMS.</headline>
+<dateline>NEW YORK 1997-06-27</dateline>
+<text>
+<p>Lead stocks held by U.S. refiners fell to 16,669 short tons at the end of May from 21,913 short tons at the end of April, said American Bureau of Metal Statistics.</p>
+<p>Production of lead rose to 33,762 short tons in the month from 33,547 short tons in April.</p>
+<p>Shipments from plants rose to 39,166 short tons in May compared with 35,183 short tons in the previous month.</p>
+<p>--New York Commodity Desk 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

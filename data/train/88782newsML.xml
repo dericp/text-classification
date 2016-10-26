@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88782" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Northern Minn. power plant seen up this wk.</title>
+<headline>Northern Minn. power plant seen up this wk.</headline>
+<dateline>NEW YORK 1996-10-01</dateline>
+<text>
+<p>Northern States Power Co's 567 megawatt coal-fired Allen King power plant was expected to conclude a maintenance outage and resume production later this week, a company spokeswoman said.</p>
+<p>&quot;We're looking at (startup) probably towards the end of this week,&quot; spokeswoman Mary Heimstead said Tuesday.</p>
+<p>The unit, located near Stillwater, Minn., was taken off line September 27 for scheduled, routine maintenance, the spokeswoman said.</p>
+<p>The Allen King plant began operations in 1968.</p>
+<p>-- New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

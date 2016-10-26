@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="173071" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Bob Dole, just another guy on the street.</title>
+<headline>Bob Dole, just another guy on the street.</headline>
+<dateline>WASHINGTON 1996-11-07</dateline>
+<text>
+<p>Former Republican presidential candidate Bob Dole, who said if he lost he would be just another man without a title, proved it on Thursday.</p>
+<p>He left his Watergate apartment complex this morning with a bundle of clothes under his arm and took them to the dry cleaners across the street like other residents in the Foggy Bottom area of Washington.</p>
+<p>The former senator, who had been surrounded by staff for most of his political life during 35 years in Washington, then bought a couple of coffees at a nearby restaurant and gave one to his wife, Elizabeth. Then the couple walked their miniature schnauzer dog, Leader, around the neighbourhood.</p>
+<p>Dole was driven off later to have pictures taken with his staff now dismantling his campaign headquarters across town.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

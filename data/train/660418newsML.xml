@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="660418" id="root" date="1997-06-13" xml:lang="en">
+<title>DUBAI: Saudi beheads Afghan for smuggling heroin.</title>
+<headline>Saudi beheads Afghan for smuggling heroin.</headline>
+<dateline>DUBAI 1997-06-13</dateline>
+<text>
+<p>Saudi Arabia on Friday beheaded an Afghan man for smuggling heroin into the kingdom, the Saudi Interior Ministry said.</p>
+<p>A ministry statement carried by the official Saudi Press Agency said the man was executed in the Red Sea port-city of Jeddah.</p>
+<p>The execution brings to 50 the number of people put to death this year in Saudi Arabia, which enforces Islamic sharia law by publicly beheading convicted murders, smugglers and rapists.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

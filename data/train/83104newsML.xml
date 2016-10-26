@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83104" id="root" date="1996-09-28" xml:lang="en">
+<title>ITALY: SOCCER-MILAN'S REIZIGER HAS WHIPLASH AFTER CAR ACCIDENT.</title>
+<headline>SOCCER-MILAN'S REIZIGER HAS WHIPLASH AFTER CAR ACCIDENT.</headline>
+<dateline>MILAN 1996-09-28</dateline>
+<text>
+<p>AC Milan's Dutch international defender Michael Reiziger is suffering from whiplash after being involved in a car accident on Saturday, Italian media reports said.</p>
+<p>Reiziger was driving to training with Dutch team mate Edgar Davids when the accident happened on a motorway outside Milan, the reports said.</p>
+<p>Reiziger was taken to hospital where he was given a neck brace for mild whiplash. It was not immediately clear for how long he would have to wear the brace.</p>
+<p>Midfielder Davids was unhurt and took part in the warm-up for the Italian champions' match against Perugia on Sunday.</p>
+<p>It was the third car accident involving a Milan player in less than a year.</p>
+<p>Last February, George Weah and French defender Patrick Vieira escaped virtually unharmed when the Liberian striker's car hit a guard rail in northern Italy.</p>
+<p>Speedy striker Marco Simone was also fortunate when he suffered only minor injuries after a crash last summer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

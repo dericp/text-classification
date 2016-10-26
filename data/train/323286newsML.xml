@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323286" id="root" date="1997-01-21" xml:lang="en">
+<title>JAPAN: Suzuki sees 1997 domestic sales up 2 pct.</title>
+<headline>Suzuki sees 1997 domestic sales up 2 pct.</headline>
+<dateline>TOKYO 1997-01-21</dateline>
+<text>
+<p>Suzuki Motor Corp said on Tuesday it expects its domestic sales, including 660 cc minivehicles, to rise 2.0 percent to 635,000 vehicles in calendar 1997, after 1.0 percent growth last year.</p>
+<p>It predicted exports would rise 10.0 percent to 208,000 vehicles this year after a 5.0 percent decline in 1996.</p>
+<p>It saw domestic production rising 3.0 percent in 1997 from the previous year to 877,000 after a 2.0 percent decline last year, and overseas production climbing 1.0 percent to 1.01 million, after 3.0 percent growth last year.</p>
+<p>Suzuki forecast domestic motorcycle sales would rise 13.0 percent to 220,000 in 1997 after growth of 18.0 percent last year, with motorcycle exports falling 8.0 percent to 282,000 after a drop of 17.0 percent in 1996.</p>
+<p>It predicted domestic motorcycle production would fall 1.0 percent to 502,000 this year after a 7.0 percent decline in 1996, while overseas production would rise 9.0 percent to 2.0 million units after a 4.0 percent decline last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

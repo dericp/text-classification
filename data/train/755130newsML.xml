@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755130" id="root" date="1997-07-24" xml:lang="en">
+<title>JAPAN: Sanyo Sec shares hit all-time low.</title>
+<headline>Sanyo Sec shares hit all-time low.</headline>
+<dateline>TOKYO 1997-07-24</dateline>
+<text>
+<p>Shares of Sanyo Securities Co Ltd extended their losses to hit a record low in early afternoon trade on Thursday due to lingering worries about the brokerage's financial health, traders said.</p>
+<p>The share price briefly hit a record low of 144 yen.</p>
+<p>As of 0430 GMT, Sanyo's share price was down seven yen at 148 yen.  </p>
+<p>Sanyo's share price has been on a decline recently, as the brokerage has been asking life insurers for a delay in the repayment of their subordinated loans to Sanyo which come due at the end of July 1998.</p>
+<p>Sanyo said on Thursday that it thinks that its request to life insurers for a delay in the repayment of the subordinated loans will be accepted.</p>
+<p>&quot;We think that our request will be accepted,&quot; said a Sanyo spokesman.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

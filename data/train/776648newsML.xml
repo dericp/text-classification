@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="776648" id="root" date="1997-08-04" xml:lang="en">
+<title>USA: China unlikely to gain WTO entry this year - NY Times.</title>
+<headline>China unlikely to gain WTO entry this year - NY Times.</headline>
+<dateline>WASHINGTON 1997-08-04</dateline>
+<text>
+<p>Clinton administration officials said it was unlikely that a broad agreement will be reached this year to admit China to the World Trade Organization, the New York Times reported on Monday.</p>
+<p>The Times quoted American and European officials, including U.S. trade representative Charlene Barshefsky, as saying China's negotiators offered only piecemeal concessions during talks that ended Friday in Beijing and Geneva.</p>
+<p>The officials had hoped China would make a comprehensive offer to open its markets and allow foreign competitors to challenge state-owned Chinese industries, the paper said.</p>
+<p>According to the officials, China is unwilling to make large-scale concessions that would allow foreign companies to sell stock, deliver packages commercially and sell telecommunications services across China, the paper reported.</p>
+<p>As a result, American officials questioned whether China President Jiang Zemin was ready to take the steps required for China to join the World Trade Organization, which now includes 131 countries and regions, the paper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

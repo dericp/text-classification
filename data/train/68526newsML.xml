@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68526" id="root" date="1996-09-20" xml:lang="en">
+<title>JAPAN: Tokyo stocks slip lower in early morning trade.</title>
+<headline>Tokyo stocks slip lower in early morning trade.</headline>
+<dateline>TOKYO 1996-09-20</dateline>
+<text>
+<p>Tokyo stocks slipped lower in early morning trade on Friday, erasing some of the gains they posted at the end of the session on Thursday, brokers said.</p>
+<p>They said a softening of the New York market's Dow Industrials overnight, as well as a long weekend ahead in Tokyo, was subduing investor buying.</p>
+<p>At  0017 GMT, the cash market's key Nikkei 225 average was down 117.56 points or 0.55 percent at 21,205.29. In the futures market, the December futures were down 70 points at 21,250.</p>
+<p>&quot;Buying factors are scarce but investment trusts are interested in buying lower down, so the falls should be limited,&quot; said Yasuo Ueki, general manager at Nikko Securities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

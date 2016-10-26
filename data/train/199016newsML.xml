@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="199016" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: American Diversified chairman resigns.</title>
+<headline>American Diversified chairman resigns.</headline>
+<dateline>WEST PALM BEACH, Fla. 1996-11-19</dateline>
+<text>
+<p>American Diversified Group Inc said Tuesday that its chairman, Gerard Haryman, has announced his resignation.</p>
+<p>The company said Haryman told its board that &quot;he wished to devote more of his business time to his private business interests.&quot;</p>
+<p>The company said it has not found a successor.</p>
+<p>The company said its president and chief executive, Jerrold Hinton, will remain, following board authorization of a new three-year employment pact with Hinton.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEST PALM BEACH, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

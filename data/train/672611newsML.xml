@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="672611" id="root" date="1997-06-19" xml:lang="en">
+<title>DOMINICAN REPUBLIC: Rights mission cites overcrowded Dominican jails.</title>
+<headline>Rights mission cites overcrowded Dominican jails.</headline>
+<dateline>SANTO DOMINGO 1997-06-19</dateline>
+<text>
+<p>An Organisation of American States human rights delegation said on Thursday that the Dominican Republic's prisons were badly overcrowded and criticised the slow pace of the nation's justice system.</p>
+<p>According to official data, there are 30 prisons in the Dominican Republic designed to hold 6,971 inmates, but they currently house more than 11,000 people.</p>
+<p>But the OAS's Inter-American Commission on Human Rights said the most serious problem in the nation's prisons was the amount of time it took for people arrested to be tried.</p>
+<p>Prisoners &quot;live in very difficult conditions,&quot; Alvaro Tirado Mejia, an official travelling with the mission, told reporters. &quot;The problem is a result of severe overcrowding and a justice system that does not function as quickly as it should.&quot;</p>
+<p>The mission had been in the Dominican Republic since Monday, and operated with the government's cooperation.</p>
+<p>The most well known of the nation's prisons is La Victoria near Santo Domingo, where about 3,000 prisoners are being held in a 40-year-old facility intended to hold only 800. La Victoria, constructed during the dictatorship of Rafael Victoria, has seen several riots in recent months.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="OAMS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTO DOMINGO"/>
+<dc element="dc.creator.location.country.name" value="DOMINICAN REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

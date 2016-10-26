@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="730665" id="root" date="1997-07-15" xml:lang="en">
+<title>AUSTRALIA: St George confirms planned Eurostg issue.</title>
+<headline>St George confirms planned Eurostg issue.</headline>
+<dateline>SYDNEY 1997-07-15</dateline>
+<text>
+<p>St George Bank Ltd confirmed press reports that it is in the process of preparing the launch of its first public Eurosterling debt issue.</p>
+<p>An official for the bank said the issue is still a few weeks away, but added that the transaction is expected to be around 250 million stg and would be lead managed by BZW and UBS.</p>
+<p>The debt raising is expected to be in floating rate notes and would be issued off the bank's Euro medium-term programme.</p>
+<p>St George's long-term debt is rated single A by Standard &amp; Poor's Corp and A3 by Moody's Investors Service.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

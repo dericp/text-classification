@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245978" id="root" date="1996-12-10" xml:lang="en">
+<title>CROATIA: Croatian lending rate inches up to 10.3 pct.</title>
+<headline>Croatian lending rate inches up to 10.3 pct.</headline>
+<dateline>ZAGREB 1996-12-10</dateline>
+<text>
+<p>Croatia's average lending rate inched up ten basis points to 10.3 percent on Tuesday, pulled up by higher rates for term funds.</p>
+<p>Dealers said total settlements shrank to 21.3 million kuna, leaving a surplus of 31.7 million on the supply side.</p>
+<p>New loans totalled 11.5 million kuna, mostly granted at the steady call money rate of 9.0 percent.</p>
+<p>Interbank money ranged between 11.0 percent for two-week fresh funds and 17.0 percent for old loans. Insurers rolled over previous loans at 9.0 percent.</p>
+<p>The central bank calculated its kuna midrates for Wednesday slightly firmer at 5.5436 against the dollar and at 3.5657 versus the German mark. -- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

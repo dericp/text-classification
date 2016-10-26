@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="374930" id="root" date="1997-02-13" xml:lang="en">
+<title>UK: Amsterdam-Rotterdam-Antwerp product stock levels.</title>
+<headline>Amsterdam-Rotterdam-Antwerp product stock levels.</headline>
+<dateline>LONDON 1997-02-13</dateline>
+<text>
+<p>Oil product inventories held in independent tankage in the Amsterdam-Rotterdam-Antwerp area were estimated to be at the following levels currently, a week ago and a year ago, industry sources said.</p>
+<p>All figures in thousands of tonnes:</p>
+<p>			13/2/97		  06/1/97	     16/2/96</p>
+<p>    Gasoline	    600		  575-600		   525</p>
+<p>    Naphtha	  75-100			100		 50-75</p>
+<p>    Gas oil	   1,750		    1,800		 1,650</p>
+<p>    Fuel oil	    350			400	     425-450</p>
+<p>    Jet kero	     15		    15-20</p>
+<p>Gasoline stocks rose as incoming barges and cargoes remained steady but outgoing material to Germany was limited.</p>
+<p>Naphtha stocks decreased with as outgoing cargoes and barges into Germany outweighed and limited incoming material.</p>
+<p>Gas oil supplies also dipped as incoming cargoes and barges were thin but outgoing barges and cargoes into Germany and Switzerland remained steady.</p>
+<p>Fuel oil stocks were slightly lower with outgoing straight run fuel moving into ARA, Germany and bunker supply.</p>
+<p>Jet kero stocks fell slightly on outgoing material to the aviation sector. -- London Newsroom +44 171 542 7714</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

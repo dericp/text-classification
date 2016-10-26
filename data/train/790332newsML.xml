@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="790332" id="root" date="1997-08-11" xml:lang="en">
+<title>USA: First Industrial Realty expands in Iowa.</title>
+<headline>First Industrial Realty expands in Iowa.</headline>
+<dateline>CHICAGO 1997-08-11</dateline>
+<text>
+<p>First Industrial Realty Trust Inc said Monday it will build a 126,900 square foot bulk warehouse in Clarion, Iowa for Neodata Inc, a company which provides direct marketing services.</p>
+<p>First Industrial will invest more than $2.6 million in the project. Construction will begin August 14.</p>
+<p>First Industrial is a $1.8 billion real estate investment trust. This transaction increases its holdings in Iowa to over one million square feet.</p>
+<p>		 ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="I8395449">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

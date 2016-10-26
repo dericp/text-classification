@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="154015" id="root" date="1996-10-30" xml:lang="en">
+<title>PAKISTAN: Pakistani money rates swing on SBP operation.</title>
+<headline>Pakistani money rates swing on SBP operation.</headline>
+<dateline>KARACHI, Pakistan 1996-10-30</dateline>
+<text>
+<p>Pakistani money rates swung widely on Wednesday's open market operation (OMO) by the State (central) Bank of Pakistan (SBP), dealers said.</p>
+<p>&quot;The market had a roller coaster ride today as overnight rates fluctuated wildly amid uncertainty created by the first OMO since the hike in the SBP discount rate,&quot; one dealer said.</p>
+<p>The SBP accepted some 1.3 billion rupees at a cut-off of 15.1 percent. The market began at 13 percent but moved to 16 where most borrowers squared themselves. News that the SBP had rejected many bids pushed offers as low as five percent.</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

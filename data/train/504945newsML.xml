@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="504945" id="root" date="1997-04-12" xml:lang="en">
+<title>INDIA: India air strike over - PTI.</title>
+<headline>India air strike over - PTI.</headline>
+<dateline>NEW DELHI 1997-04-12</dateline>
+<text>
+<p>A two-day-old strike by Indian air traffic controllers (ATCs), which had disrupted domestic and international flights and stranded thousands of passengers, ended on Saturday, the Press Trust of India (PTI) reported.  </p>
+<p>&quot;Normal services are expected to be restored by around 1700 hours (1130 GMT),&quot; PTI said.</p>
+<p>Thousands of people were stranded across India, as well as in airports in Singapore and Hong Kong, when the ATCs launched their strike without warning shortly before noon on Friday, officials said.</p>
+<p>Officials of state-run Indian Airlines, which operates domestic services in India, estimated that total industry losses amounted to at least 300 million rupees ($8.4 million). &quot;The overall loss to the airline network in India amounted to 300 million rupees,&quot; an official told Reuters on Saturday.</p>
+<p>The ATCs went on strike to protest the suspension of a colleague, who airport authorities say was punished for a lapse that could have resulted in a mid-air collision.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139658" id="root" date="1996-10-24" xml:lang="en">
+<title>UK: London offshore tea auction offerings.</title>
+<headline>London offshore tea auction offerings.</headline>
+<text>
+<p>Offshore offering for the Oct 28 London Tea Auction Totalled 999 packages of 53.50 kgs against 800 pkgs on Oct 21.</p>
+<p>							   Last	  Prev</p>
+<p>Kenya O/Sh Pkgs	    CIF   Offshore	 800	   200</p>
+<p>Zimba. O/Sh Pkgs	   CIF   Offshore	 nil	   400</p>
+<p>Uganda O/Sh Pkgs	   CIF   Offshore	 199	   200</p>
+<p>Oct 28 landed packages already listed totalled 6,880.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

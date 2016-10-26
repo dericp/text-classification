@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160459" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Viacom's Blockbuster moving HQ to Dallas.</title>
+<headline>Viacom's Blockbuster moving HQ to Dallas.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-11-01</dateline>
+<text>
+<p>Blockbuster Entertainment Group, a unit of Viacom Inc, said Friday it was moving its headquarters to Dallas from Fort Lauderdale.</p>
+<p>It said the move would take place next spring.</p>
+<p>All 1,000 associates at the Fort Lauderdale headquarters will be offered jobs at the new location, as well as relocation support, it said.</p>
+<p>Outplacement services and severance will be given to associates who elect not to move to Dallas, and all associates will have access to &quot;stress and change management workshops&quot; during the transition.</p>
+<p>Blockbuster currently employs nearly 1,200 people in the Dallas/Fort Worth area in retail stores and distribution centers.</p>
+<p>&quot;It makes good business sense to have all of our headquarters operations in the same city,&quot; Blockbuster Chairman and Chief Executive Bill Fields said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="524210" id="root" date="1997-04-21" xml:lang="en">
+<title>SOUTH AFRICA: Softline edges up on debut figures.</title>
+<headline>Softline edges up on debut figures.</headline>
+<dateline>JOHANNESBURG 1997-04-21</dateline>
+<text>
+<p>Shares in South African information technology firm Softline Ltd rose on Monday after the newly-listed firm posted year results ahead of forecasts.</p>
+<p>The firm had predicted earnings per share of four cents, but came in with 4.5 cents, boosting its share price up eight cents to 178 cents by 1025 GMT.</p>
+<p>&quot;The results have provided a nice boost for the stock,&quot; one dealer said.</p>
+<p>More than half a million shares in the stock changed hands, but the firm is still way off its life high of 270 cents set earlier this year as the technology sector has suffered in 1997 from an outflow of investor interest.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

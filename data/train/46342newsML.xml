@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="46342" id="root" date="1996-09-11" xml:lang="en">
+<title>PHILIPPINES: Philippine firms buy U.S. wheat rejected by China.</title>
+<headline>Philippine firms buy U.S. wheat rejected by China.</headline>
+<dateline>MANILA 1996-09-11</dateline>
+<text>
+<p>Three Philippine firms bought 35,000 tonnes of U.S. soft winter wheat rejected by China at $192 per tonne, including cost and freight, traders said on Wednesday.  </p>
+<p>Traders said the price was a significant discount to the prevailing $230 per tonne for soft winter wheat.</p>
+<p>Earlier reports said American commodity traders offered to sell 70,000 tonnes of U.S. wheat, 35,000 each of soft winter wheat and hard winter wheat, rejected by China to Philippine millers.</p>
+<p>The wheat was rejected by China on suspicion the shipments were supposedly tainted with the TCK smut fungus.</p>
+<p>Industry executives in the Philippines doubted the latest wheat purchases were fungus-tainted. They said they would not buy wheat they could not use.</p>
+<p>&quot;If it's good wheat, and it's something we can use, we will buy,&quot; an executive at a local flour mill said.</p>
+<p>--Manila newsroom (632) 841-8936, fax 817-6267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

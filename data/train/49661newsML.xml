@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="49661" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Genzyme Transgenics issued Europe patent.</title>
+<headline>Genzyme Transgenics issued Europe patent.</headline>
+<dateline>FRAMINGHAM, Mass 1996-09-12</dateline>
+<text>
+<p>Genzyme Transgenics Corp said Thursday it was issued a patent by the European Patent Office for its process of producing proteins in the milk of transgenic animals.</p>
+<p>A transgenic animal has chromosomes into which genes from other species have been incorporated.</p>
+<p>The patent covers the basic DNA sequence for expressing proteins in milk. It also covers the fundamental method used to produce therapeutic or other proteins in the milk of transgenic animals, the company said.  </p>
+<p>&quot;It is a significant milestone for our company, and we believe anyone seeking to produce any protein in the milk of any transgenic animal would need access to these patent rights,&quot; Genzyme Transgenics Chief Executive James Geraghty said, referring to the European Patent Office's action.</p>
+<p>The company has similar patent applications pending in the United States and Japan.</p>
+<p>About 44.8 percent of the outstanding stock of Genzyme Transgenics is owned by Genzyme Corp's general division.</p>
+<p>Genzyme Transgenics shares were up 1/4  to 6-3/8 late Thursday. Genzyme Corp shares were down 1/8 at 22-3/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRAMINGHAM, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

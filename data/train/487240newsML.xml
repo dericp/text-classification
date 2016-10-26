@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="487240" id="root" date="1997-04-04" xml:lang="en">
+<title>UKRAINE: Ukraine says to close third of coal pits by 2000.</title>
+<headline>Ukraine says to close third of coal pits by 2000.</headline>
+<dateline>KIEV 1997-04-04</dateline>
+<text>
+<p>The Ukrainian government plans to close 80 of the 250 pits in its aging and inefficient coal sector by 2000, the government press service said on Friday.</p>
+<p>&quot;Complex circumstances, a lack of modernisation, and low productivity levels have led to significant increases in coal production costs,&quot; a government statement said.</p>
+<p>Ukraine has found it cheaper to import rather than use its own coal, which can be so expensive to produce it is often twice world prices.</p>
+<p>The former Soviet republic forecasts producing 75 million tonnes this year and importing 18 million tonnes. It produced 70.3 million tonnes last year, exporting 2.5 million tonnes and importing 11 million tonnes from Poland and Russia.</p>
+<p>Production was 85 million tonnes in 1995.</p>
+<p>Ukraine's 636,000 miners frequently strike to demand months of back pay, and the former Soviet republic has one of the world's worst records for mining safety with more than 300 miners killed in work-related accidents last year.</p>
+<p>The World Bank has promised a $300 million credit to restructure the sector, and Ukraine hopes eventually to produce 150 million tonnes annually -- a level last seen in 1980.</p>
+<p>-- Yuri Kulikov, Kiev Newsroom +380 44 244-9150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

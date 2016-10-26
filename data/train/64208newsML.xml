@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64208" id="root" date="1996-09-19" xml:lang="en">
+<title>MALAYSIA: Malaysia rubber quiet, MRELB prices unavailable.</title>
+<headline>Malaysia rubber quiet, MRELB prices unavailable.</headline>
+<dateline>KUALA LUMPUR 1996-09-19</dateline>
+<text>
+<p>Malaysian rubber market was quiet with prices quoted by dealers little changed from Wednesday's close.</p>
+<p>There were no prices available from the Malaysian Rubber Exchange and Licensing Board following a power breakdown at the exchange, dealers said.</p>
+<p>Dealers said SMR CV was offered at 375 cents, SMR L at 354, SMR 5 at 325, SMR 10 at 313, SMR 20 at 312 and drum latex at 245-250.</p>
+<p>There were very few enquiries from Asian and European buyers who have not been active in the market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

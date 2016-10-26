@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242554" id="root" date="1996-12-09" xml:lang="en">
+<title>CANADA: DBRS downgrades rating on Echo Bay Mines.</title>
+<headline>DBRS downgrades rating on Echo Bay Mines.</headline>
+<dateline>TORONTO 1996-12-09</dateline>
+<text>
+<p>Dominion Bond Rating Service Ltd said on Monday it has downgraded its rating for Echo Bay Mines Ltd to BBB (low) from BBB (high).</p>
+<p>The trend is stable, DBRS said in a statement.</p>
+<p>&quot;The downgrade reflects the continued weak operating results and the deterioration of (Echo Bay's) balance sheet,&quot; DBRS said.</p>
+<p>The company's production costs have increased while ore grades have decreased, the rating agency said.</p>
+<p>&quot;Weak operating cash flow combined with increased capital expenditures have pressured the balance sheet,&quot; DBRS said.  </p>
+<p>DBRS said Echo Bay has traditionally been prudent in its use of debt and the rating agency anticipated the company would continue to ensure moderate leverage.</p>
+<p>((Reuters Toronto Bureau 416 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

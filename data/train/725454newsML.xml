@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="725454" id="root" date="1997-07-14" xml:lang="en">
+<title>POLAND: Flooded Rafako restarting date unknown.</title>
+<headline>Flooded Rafako restarting date unknown.</headline>
+<dateline>WARSAW 1997-07-14</dateline>
+<text>
+<p>Industrial boilermaker Rafako SA said on Monday it did not yet know when it would be able to resume production after floods struck its plant in Raciborz, southern Poland.</p>
+<p>&quot;On July 14, Rafako SA is without gas, water or electric energy. Computers and ground communication lines are not functioning. The whole plant was flooded in water up to 2.5 metres deep,&quot; the company said in a statement.</p>
+<p>&quot;Today it is not yet possible to say when the company will begin production. The damage to power lines and basic machines has not been fully diagnosed,&quot; the company said. @</p>
+<p>Rafako is among seven companies so far suspended on the Warsaw Stock Exchange after being hit by the week-old floods.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32050">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

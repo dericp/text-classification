@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="33204" id="root" date="1996-09-04" xml:lang="en">
+<title>GERMANY: Tourists to be moved from grounded German cruiser.</title>
+<headline>Tourists to be moved from grounded German cruiser.</headline>
+<dateline>HAMBURG, Germany 1996-09-04</dateline>
+<text>
+<p>A group of 149 tourists stranded aboard a German cruise ship that ran aground near King William Island in Canada's Northwest Passage last Thursday will be evacuated, the ship's Hamburg operator said on Wednesday.</p>
+<p>Hanseatic Tours said that 120 of the mostly American and German passengers on board the cruise ship, the Hanseatic, would be transferred to the ice-breaker Captain Dranitsyn and continue their voyage on Thursday after attempts to refloat the ship had failed.</p>
+<p>The 29 others had chosen to cut short their voyage and return home, the operator said.</p>
+<p>Hanseatic Tours said in a statement that the ship had run into the sandy ground one km (half a mile) south of the King William island on August 29.</p>
+<p>&quot;The atmosphere on board is very good,&quot; the company said. &quot;The temperature outdoors is four degrees (Celsius, 39 Fahrenheit).&quot;</p>
+<p>The passengers were able to take expeditions to the island during the last week, where they held barbecues, the company said.</p>
+<p>On Thursday, they will be taken by small boats to a nearby air runway and will be airlifted in 40 minutes to Cambridge Bay.</p>
+<p>From there 120 of them would be switched to the Captain Dranitsyn to continue their cruise while the others could head straight back home.</p>
+<p>Three tow boats are on their way to try to pull the Hanseatic free of the sand barge, the operator added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

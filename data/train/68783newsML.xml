@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68783" id="root" date="1996-09-21" xml:lang="en">
+<title>MOROCCO: Morocco arrests two Britons for stealing boat.</title>
+<headline>Morocco arrests two Britons for stealing boat.</headline>
+<dateline>TANGIER, Morocco 1996-09-21</dateline>
+<text>
+<p>Moroccan coastal guards have arrested two Britons charged with stealing a Spanish boat, a police spokesman said on Saturday.</p>
+<p>The two men were identified as Douglas Richard King, 41, and Garry Quale, 39.</p>
+<p>&quot;The 22-metre-long boat, which had power failure, forced the two British thieves to draw it alongside the port of Tangier,&quot; the spokesman said.</p>
+<p>The boat was stolen from the southern Spanish port of Ibiza Nueva last week, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TANGIER, Morocco"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

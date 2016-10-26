@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101559" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: Clean tankers fixtures and enquiries - 2207 GMT.</title>
+<headline>Clean tankers fixtures and enquiries - 2207 GMT.</headline>
+<dateline>NEW YORK 1996-10-08</dateline>
+<text>
+<p>FIXTURES</p>
+<p>- WESTERN HEMIPSHERE</p>
+<p>Kriti Champion 40 18/10 St Croix/USAC W142.5 Hess.</p>
+<p>- FAR EAST</p>
+<p>Yuyo Breeze 30 161/0 Far East/S.Korea rnr Caltex.</p>
+<p>-- New York Commodities Desk, 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

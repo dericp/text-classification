@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138277" id="root" date="1996-10-23" xml:lang="en">
+<title>CANADA: International Forest Products Q3 slim.</title>
+<headline>International Forest Products Q3 slim.</headline>
+<dateline>VANCOUVER 1996-10-22</dateline>
+<text>
+<p>International Forest Products Ltd said late on Tuesday it earned C$211,000 or C$0.01 a share in the third quarter compared to earnings of C$586,000 or C$0.02 a share in the same period of 1995.</p>
+<p>Sales in the third quarter were C$214.8 million, down from C$230.1 million the prior year.</p>
+<p>For the first nine months of 1996, the forest products company lost C$11.2 million or C$0.31 a share. In the same period of 1995, it earned C$27.0 million or C$0.77 a share. Sales fell in the 1996 period to C$576.7 million from C$704.7 million the prior year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VANCOUVER"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

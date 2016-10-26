@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500753" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: NASD's Zarb eyes board consolidation - WSJ.</title>
+<headline>NASD's Zarb eyes board consolidation - WSJ.</headline>
+<dateline>NEW YORK 1997-04-10</dateline>
+<text>
+<p>NASD president Frank Zarb is considering consolidating the boards of the Nasdaq stock market and the NASD's regulatory arm known as NASD Regulation, the Wall Street Journal said in Thursday's electronic edition.</p>
+<p>Zarb was reviewing changes because the three-board structure, with 47 members, is unwieldly, the paper said.</p>
+<p>In 1996, the NASD created two separate units -- NASD Regulation headed by regulator Mary Shapiro and the Nasdaq Stock Market headed by former Alex. Brown managing director Alfred Berkeley III, the paper said. They report to NASD Inc which has its own board led by Zarb, it said.</p>
+<p>These initial changes were made following criticism NASD did not sufficiently monitor Nasdaq trading activity, it said.</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

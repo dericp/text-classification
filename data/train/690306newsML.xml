@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="690306" id="root" date="1997-06-26" xml:lang="en">
+<title>UK: Fannie Mae prices A$1.0 bln five-year bond.</title>
+<headline>Fannie Mae prices A$1.0 bln five-year bond.</headline>
+<dateline>LONDON 1997-06-26</dateline>
+<text>
+<p>The following bond, announced on Wednesday by joint lead managers Deutsche Morgan Grenfell, Merrill Lynch and SBC Warburg, has been priced.</p>
+<p> BORROWER   FANNIE MAE</p>
+<p> AMT    A$1.0 BLN     COUPON     6.50	MATURITY    10.JUL.02</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  99.643    PAY DATE    10.JUL.97</p>
+<p> FULL FEES  25 BP     REOFFER    99.643    SPREAD	+19.5</p>
+<p> MOODY	AAA	 LISTING    LUX	 PAY FREQ    =</p>
+<p> S&amp;P	  =	   DENOMS (K) FIVE	SALE LIMITS US/UK/OZ</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   STANDARD</p>
+<p> GOV LAW    NEW YORK  HOME CTRY  U.S.	TAX PROVS   STANDARD</p>
+<p> MGT/UND    15 BP     SELL CONC  10 BP     PRAECIPUUM  =</p>
+<p>UNDERLYING GOVT BOND 9.75 PCT MARCH 2002 -- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

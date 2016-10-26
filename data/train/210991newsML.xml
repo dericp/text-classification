@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210991" id="root" date="1996-11-22" xml:lang="en">
+<title>AUSTRALIA: RTRS-PBL doesn't know who traded its stock.</title>
+<headline>RTRS-PBL doesn't know who traded its stock.</headline>
+<dateline>SYDNEY 1996-11-22</dateline>
+<text>
+<p>Kerry Packer's television and magazine group Publishing and Broadcasting Ltd (PBL) said it was not aware of the buyer or seller behind the 15 million shares traded in after-hours Friday trade.</p>
+<p>The shares represent about 4.6 percent of the issued capital and were crossed by Pru-Bache Securities in two parcels. One line of 7.68 million PBL shares were crossed at A$5.75 each and another line of 7.72 million PBL shares were crossed at A$5.70.</p>
+<p>PBL is about 45 percent owned by Packer, who is Australia's richest man. PBL shares ended five cents down at A$5.90.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

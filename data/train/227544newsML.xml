@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227544" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: Ten firms bid for surplus U.S. cobalt.</title>
+<headline>Ten firms bid for surplus U.S. cobalt.</headline>
+<dateline>WASHINGTON 1996-12-03</dateline>
+<text>
+<p>Ten firms submitted bids Monday to the U.S. Defense Logistics Agency to buy surplus cobalt.</p>
+<p>The bids totalled 999,537 pounds, and prices offered ranged from a low of $10.00 per pound for 993 pounds of 99.30 percent grade cobalt, submitted by S. Wilkoff &amp; Sons, to a high of $20.39 per pound for two bids from Phoenixx International for 29,946 pounds of 99.42 percent grade cobalt.</p>
+<p>The winning bids will be announced Thursday, a DLA official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

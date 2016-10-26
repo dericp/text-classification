@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="597523" id="root" date="1997-05-20" xml:lang="en">
+<title>RUSSIA: Russian Jan-April auto output rises 11 pct yr/yr.</title>
+<headline>Russian Jan-April auto output rises 11 pct yr/yr.</headline>
+<dateline>MOSCOW 1996-11-20</dateline>
+<text>
+<p>Russia produced 370,000 automobiles in the first four months of this year, a rise of eleven percent on the year-ago period, figures released by the State Statistics Committee on Tuesday showed.</p>
+<p>The committee released the following data:</p>
+<p>    RUSSIAN VEHICLE OUTPUT	Jan-Apr 97 Jan-Mar 97 Jan-Apr 96</p>
+<p>    Automobile total production   370,000    267,000</p>
+<p>     yr/yr pct change		     +11	 +13    -08</p>
+<p>    Cars total production	   309,000    224,000</p>
+<p>     yr/yr pct change		     +13	 +16    -02</p>
+<p>    Truck total production	   47,000     33,200</p>
+<p>     yr/yr pct change			+5	  -03    -22</p>
+<p>    Bus total production	     13,800     9,500</p>
+<p>     yr/yr pct change			+7	  +03   -21</p>
+<p>					     APR 97    MAR 97    APR 96</p>
+<p>    mth/mth pct change autos	  +08	  032	+17</p>
+<p>     yr/yr pct change		   +07	  +16	+12</p>
+<p>    mth/mth pct change trucks	 +14	  +09	-09</p>
+<p>     yr/yr pct change		   +27	  +02	-05</p>
+<p>    mth/mth pct change buses	  +23	  +22	+12</p>
+<p>     yr/yr pct change		   +18	  +03	-05</p>
+<p>--Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="201562" id="root" date="1996-11-19" xml:lang="en">
+<title>TAIWAN: Taiwan Mosel says October profit falls.</title>
+<headline>Taiwan Mosel says October profit falls.</headline>
+<dateline>TAIPEI 1996-11-19</dateline>
+<text>
+<p>Taiwan semiconductor maker Mosel Vitelic Inc said on Tuesday its net profit in October fell to T$276 million compared with T$830 million in October 1995.</p>
+<p>Mosel said in a statement that sales revenue in October was down to T$920 million from T$1.59 billion a year ago.</p>
+<p>Its combined net profit for the first 10 months in 1996 was T$3.57 billion, down from T$5.78 billion in the same 1995 period.</p>
+<p>Sales revenue from January to October fell to T$9.09 billion from T$11.21 billion in the corresponding 1995 period.</p>
+<p>Mosel, one of Taiwan's top chipmakers, has attributed its earnings squeeze to falling prices of its main product, dynamic random-access memory chips, since early 1996.</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I3302019">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

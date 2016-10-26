@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="259038" id="root" date="1996-12-16" xml:lang="en">
+<title>USA: Weather forecasters see prolonged period of cold.</title>
+<headline>Weather forecasters see prolonged period of cold.</headline>
+<dateline>NEW YORK 1996-12-16</dateline>
+<text>
+<p>The U.S. Midwest and Northeast will experience bouts of sharply below normal temperatures through year-end, weather forecasters said.</p>
+<p>Smith Barney meteorologist Jon Davis expects artic air which has been building since mid-November in Siberia and the North Pole to descend into the United States this week.</p>
+<p>The cold spell will hit the Midwest by midweek and the Northeast by weekend. Davis said temperatures will average 20 to 30 degrees below normal by midweek across much of the central United States, which includes the Rockies, Chicago and Texas.</p>
+<p>In the Northeast during the weekend, Davis said temperatures could be 12 to 22 degrees below normal.</p>
+<p>Weather Services Corp said bouts of below normal temperatures in Northeast and Midwest could last through the first half of January. Weather Services also sees the cold front hitting the Midwest by midweek and starting to hit the Northeast by Thursday.</p>
+<p>The National Weather Service's six to 10 day forecast calls for temperatures in the Midwest to be much below normal and below normal in the Mid-Atlantic states and Northeast.</p>
+<p>-- New York Energy Desk, 212-859-1620</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

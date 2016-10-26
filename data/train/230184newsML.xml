@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="230184" id="root" date="1996-12-02" xml:lang="en">
+<title>FRANCE: Bomb damages office of Corsica paper.</title>
+<headline>Bomb damages office of Corsica paper.</headline>
+<dateline>AJACCIO, Corsica 1996-12-02</dateline>
+<text>
+<p>A bomb blast on the French Mediterranean island of Corsica damaged the offices of a daily newspaper overnight, causing some damage but no injuries, police said on Monday.</p>
+<p>No one has claimed responsibility for the small blast, which blew out windows and wrecked computers at the offices of the regional edition of the Marseille-based newspaper Le Provencal, in the northern island city of Bastia.</p>
+<p>The attack bore the hallmarks of Corsican separatists who are waging a bombing campaign to demand more autonomy from France for the island.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AJACCIO, Corsica"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

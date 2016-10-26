@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136125" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Waters Instruments Inc names new CFO.</title>
+<headline>Waters Instruments Inc names new CFO.</headline>
+<dateline>ROCHESTER, Minn. 1996-10-23</dateline>
+<text>
+<p>Waters Instruments Inc said Wednesday it had named Gregg Anshus as chief financial officer and treasurer.</p>
+<p>Most recently, Anshus was the company's controller.</p>
+<p>Waters did not name Anshus's predecessor or say if the post was newly created. Waters officials could not be reached for comment.</p>
+<p>Waters is an electronics manufacturer and markets network inter-connect, contract manufacturing, farm and medical products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCHESTER, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

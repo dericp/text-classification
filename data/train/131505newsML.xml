@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131505" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Weekly Chicago pork belly storage - Oct 21.</title>
+<headline>Weekly Chicago pork belly storage - Oct 21.</headline>
+<text>
+<p>Movement in the eight warehouses vs last year, for week</p>
+<p>ending Oct 19 in thousand lbs. -- CME</p>
+<p> IN				    0</p>
+<p> OUT				 121</p>
+<p> ON HAND			   206</p>
+<p> YEAR AGO ON HAND		206</p>
+<p> YEAR AGO NET MOVEMENT	   0</p>
+<p>--Chicago (312-408-8704)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

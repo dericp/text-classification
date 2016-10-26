@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21276" id="root" date="1996-08-29" xml:lang="en">
+<title>RUSSIA: Russia's UES says cuts off power to Kazakhstan.</title>
+<headline>Russia's UES says cuts off power to Kazakhstan.</headline>
+<dateline>MOSCOW 1996-08-29</dateline>
+<text>
+<p>Unified Energy System (UES), Russia's national electricity generator, said on Thursday it had cut off electricity supplies to Kazakhstan because its Central Asian neighbour was not paying its bills.</p>
+<p>&quot;We have disconnected most of Kazakhstan from Russia's power grid for permanently growing debts, which have now reached nearly $500 million,&quot; Anatoly Dyakov, President of Yedinaya Energeticheskaya Sistema Rossii (UES), told a news conference.</p>
+<p>Dyakov said UES was determined not to resume power supplies to Kazakhstan before the latter has started to clear its debts.</p>
+<p>He said UES had suggested to the Kazakh government that it sell UES a power station and part of a coal basin near the Kazakh town of Ekibastuz to clear some of the debts.</p>
+<p>&quot;It could be a normal deal. If they (the Kazakh government) sell other energy companies to foreigners at low prices, we could pay even $10 million for each of these two,&quot; Dyakov said.</p>
+<p>--Dmitry Solovyov, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

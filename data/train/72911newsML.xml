@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="72911" id="root" date="1996-09-24" xml:lang="en">
+<title>USA: J.C.Penney charged with credit violations.</title>
+<headline>J.C.Penney charged with credit violations.</headline>
+<dateline>WASHINGTON 1996-09-24</dateline>
+<text>
+<p>The Federal Trade Commission said Tuesday it has charged J.C. Penney Co. Inc. with violating consumers' right to receive written notice of the reason for a denial of credit.</p>
+<p>J.C. Penney, one of the nation's biggest retailers, agreed to pay a $225,000 civil penalty to settle the case, the FTC said.</p>
+<p>Also, the company will be required to give consumers who were denied credit in the past a written statement of the reason for the denial, the FTC said.</p>
+<p>The company must comply with such explanation requirements in future, the agency said.</p>
+<p>A consent decree between the company and the FTC is for settlement purposes and does not constitute an admission of a law violation, the agency said.</p>
+<p>The FTC alleged that when J.C. Penney denied consumer credit in the past, it either failed to explain the reason or gave the wrong reason.</p>
+<p>J.C. Penney's stock fell 12.5 cents to $56.125 on the New York Stock Exchange in early afternoon trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I6560002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

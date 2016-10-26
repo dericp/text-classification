@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117730" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Texas Instruments earnings slump as chip prices drop.</title>
+<headline>Texas Instruments earnings slump as chip prices drop.</headline>
+<byline>Kieran Murray</byline>
+<dateline>DALLAS 1996-10-15</dateline>
+<text>
+<p>Texas Instruments Inc., battered by plunging prices for computer memory chips, said Tuesday it lost $148 million in the third quarter and would move to cut costs by offering early retirement to 5,300 employees.</p>
+<p>The Dallas-based semiconductor giant said the loss, equal to 78 cents a share, was largely due to a one-time charge of $192 million for research and development costs associated with its acquisition this year of Silicon Systems Inc.</p>
+<p>Still, even excluding the charge, TI's third-quarter net income plummeted 85 percent to $44 million, or 23 cents a share, from $289 million, or $1.48 a share a year ago.</p>
+<p>Revenues declined to $2.84 billion from $3.43 billion in the third quarter of 1995. &quot;We are not satisfied with our performance over the last two quarters,&quot; President and Chief Executive Thomas Engibous said in a statement.</p>
+<p>Prices for memory chips, long TI's core product, went into a freefall late last year and have since dropped about 80 percent.</p>
+<p>TI's memory chip operation ran up a loss in the third quarter and company executives warned that a recent modest upturn in prices might give way to further short-term volatility before improving again in 1997.</p>
+<p>While TI's operating results were slightly better than Wall Street's consensus estimate of 20 cents a share, its shares were 75 cents lower at $54.875 in afternoon trading on the New York Stock Exchange.</p>
+<p>Analysts applauded the early retirement plan but were concerned by the company's modest expectations for the memory chip market in coming weeks and said TI needs to speed up its shift toward newer, more profitable products.</p>
+<p>&quot;They have to grow their non-memory businesses at a faster clip,&quot; said Krishna Shankar, an analyst with Donaldson Lufkin and Jenrette.</p>
+<p>Nevertheless, the general impression was that TI and other semiconductor firms have made it through the worst of the storm and that earnings should now begin to pick up.</p>
+<p>&quot;We think their manufacturing margins have probably bottomed ... and we are expecting a gradual recovery here over the next couple of quarters as revenues continue upward,&quot; said John Joseph at Montgomery Securities.</p>
+<p>Company executives said the voluntary retirement programme would be offered in most of TI's U.S. business and support areas, but did not say how many of the 5,300 workers they expect -- or hope -- will take up the offer. The company currently has about 30,000 employees in the United States.</p>
+<p>TI also said it would &quot;significantly&quot; reduce capital spending in 1997 in a bid to boost its cash flow. The company is this year devoting $2.3 billion to capital spending, much of it to finance new R&amp;D facilities in Dallas.</p>
+<p>Semiconductor firms won some relief in recent weeks as prices for DRAMs -- the most common type of memory chip -- turned upward on expectations of stronger personal computer sales. But TI executives warned that conditions might again worsen before they get better.</p>
+<p>&quot;We think the DRAM market is likely to remain volatile,&quot; Chief Financial Officer Bill Aylesworth said in an interview.</p>
+<p>He said the problem lies in an over-production of chips by manufacturers and slow progress in bringing their inventories under control.</p>
+<p>&quot;We think we've completed the inventory depletion in our customers' shops, but there is a lot of capacity out there and that is where the supply is coming from. I think it is more likely to be volatile than it is to be stable in the near-term,&quot; Aylesworth said.</p>
+<p>At the start of 1996, TI predicted the world semiconductor market would grow 20 percent this year, but Aylesworth said it will now show a decline of about 10 percent.</p>
+<p>He said growth would return in 1997 but that it would be &quot;moderate&quot;. He said it would not reach the 15-20 percent range of average growth shown by the industry in recent years, but did not make any specific projection.</p>
+<p>Aylesworth said TI's strongest segment was in digital signal processors, chips that translate human speech, sound waves and other data into a computer-readable format.</p>
+<p>DSP revenues were up more than 30 percent in the third quarter and accounted for almost 40 percent of semiconductor revenues while the share accounted for by DRAMs has slipped to about 25 percent, down from almost 40 percent last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

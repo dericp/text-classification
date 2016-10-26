@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="365545" id="root" date="1997-02-09" xml:lang="en">
+<title>JAPAN: ATHLETICS-JAPAN'S SHIMIZU WINS TOKYO MARATHON.</title>
+<headline>ATHLETICS-JAPAN'S SHIMIZU WINS TOKYO MARATHON.</headline>
+<dateline>TOKYO 1997-02-09</dateline>
+<text>
+<p>Japanese men captured the first four places in the Tokyo International Marathon on Sunday with the unknown Koji Shimizu winning his first major title in 2 hours, 10 minutes, 9 seconds.</p>
+<p>Shimizu, who runs for a corporate team in central Japan, grabbed first place from Takahiro Hattori at the 39-km (24-mile) mark and never relinquished the lead on a warm sunnny day in the Japanese capital.</p>
+<p>Hattori finished second, 12 seconds behind, followed by Shinji Kawashima at 2:11:13 and former world champion Hiromi Taniguchi at 2:11:26.</p>
+<p>Top finishing international runners were Osmiro Silva of Brazil, who finished fifth at 2:11:58 and Valdenor Dos-Santos, also of Brazil, who came in sixth at 2:12:48.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

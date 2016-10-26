@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="495603" id="root" date="1997-04-08" xml:lang="en">
+<title>GERMANY: INSTANT VIEW - German unemployment data.</title>
+<headline>INSTANT VIEW - German unemployment data.</headline>
+<dateline>BONN 1997-04-08</dateline>
+<text>
+<p>Following is a selection of economists' reactions to German unemployment data for March. The data showed a seasonally adjusted decline of 15,000 from the month before.</p>
+<p>UWE ANGENENDT, BHF BANK:</p>
+<p>&quot;The improvement in the labour market will take time and a significant improvement is not expected until next year. This is a difficult situation. The figures are in line with our expectations. We will see further improvement in the seasonally adjusted figures next month but can expect 4.2 million for the full year and that is a bad situation for Germany.  </p>
+<p>ALFRED ROSENSTOCK, IBJ:</p>
+<p>These are very modest (falls) and more modest than many had hoped for. Some economists had hoped that unemployment would fall by as much as 50,000. It shows that unemployment will remain a big problem. What is disappointing is that there is not much correction in construction. If you subtract the developments in the construction sector then the underlying (trend) in the rest of the economy is still a negative one.</p>
+<p>These figures will remain a drag (on state spending). Given the fact that these numbers are nevertheless quite disappointing the discussion about whether Germany will meet the three percent (deficit target for European economic and monetary union) or not will continue at least until May when the tax revenue estimates for this year are known.</p>
+<p>GUENTER REDEKER, CHASE INVESTMENT:</p>
+<p>Corporations will continue to decrease employment in Germany. If German corporations don't adjust their profit situation to the much better profit situation in other countries, capital will not move into Germany and that will hurt investment and that will be bad for the labour market later on. In the next six to seven months there will be no pick-up in investment in Germany and therefore I remain pretty negative on the German employment situation.</p>
+<p>-- Bonn Newsroom, 49 228 26097 150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

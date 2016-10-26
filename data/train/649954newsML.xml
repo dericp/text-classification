@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="649954" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: U.S. probing China computer diversions.</title>
+<headline>U.S. probing China computer diversions.</headline>
+<dateline>WASHINGTON 1997-06-10</dateline>
+<text>
+<p>The United States believes there may have been some diversions of U.S.-made supercomputers by China for military use and is reviewing the affected sales, U.S. officials said on Tuesday.</p>
+<p>&quot;It is true that we are investigating some cases of supercomputer sales to China,&quot; Secretary of State Madeleine Albright told the Senate Finance Committee.</p>
+<p>Her spokesman Nicholas Burns said later: &quot;We are reviewing right now some of the supercomputer sales for possible diversion ... We suspect there may have been some diversions in some cases.&quot;</p>
+<p>Burns gave no details on the number or companies involved in the potential diversions.</p>
+<p>But the New York Times reported in Tuesday's editions that the Commerce Department was investigating s 1996 sale by Silicon Graphics of a supercomputer that performs almost 6 billion operations per second -- 10 times the speed of the fastest personal computer -- to a Chinese science academy.</p>
+<p>It said the company said the buyer was a benign civilian institution but nuclear experts said the academy had other functions, like helping China develop long-range missiles.</p>
+<p>The newspaper also reported the Justice Department was investigating another Silicon Graphics computer sale in 1996 to a Russian research institute that also served as a nuclear weapons laboratory.</p>
+<p>President Bill Clinton deregulated the export of computers in 1995 on the grounds that increasingly powerful supercomputers were becoming more available worldwide with the United States holding a comparative advantage in the technology.</p>
+<p>But the adminstration made special provision for licensing supercomputers to China to insure against sales for military use, officials said. As a result, licenses were required for all military-related sales of supercomputer to China in the range of 2 billion to 7 billion operations per second.</p>
+<p>Burns argued this is &quot;not anywhere near&quot; the power, capability and effectiveness of supercomputers used by the U.S. government and private industry.</p>
+<p>In addition licenses were required for all computers to China with a capability greater than 7 billion operations per second.</p>
+<p>Under the 1995 revision, most supercomputers sold for civilian purposes did not need to be licensed for export.</p>
+<p>Burns did not comment on the Times allegation that after Clinton's 1995 deregulation decision, China went on a &quot;shopping spree&quot; buying 46 American-made supercomputers.</p>
+<p>The newspaper, citing American inteligence officials and nuclear experts, also asserted that these supercomputers could help China conduct secret nuclear tests to judge the viability of their nuclear forces.</p>
+<p>But Burns denied this was true. &quot;Our own scientists believe it would be very difficult through computer modelling to have any kind of confidence ... We believe it would be very difficult through computer modelling to acquire confidence in the redesign of nuclear weapons without testing,&quot; he said.</p>
+<p>In her Senate testimony, Albright defended the U.S. policy of allowing supercomputer sales to China saying: &quot;We continue to believe that our policy takes into account the significant changes in computer technology, while protecting our nonproliferation goals.&quot;</p>
+<p>But she said the administration was &quot;looking at additional ways in which we might be able to provide exporters with more information on entities of proliferation risk.&quot;</p>
+<p>Burns said the United States did this previously but would make a special new effort &quot;to reach out to people who export and make sure they understand who are the legitimate civilian end users in China and who are not.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

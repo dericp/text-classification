@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="678354" id="root" date="1997-06-21" xml:lang="en">
+<title>EGYPT: Egyptian girl dies before circumcision operation.</title>
+<headline>Egyptian girl dies before circumcision operation.</headline>
+<dateline>CAIRO 1997-06-21</dateline>
+<text>
+<p>Egyptian prosecutors issued a warrant on Saturday for the arrest of a Cairo doctor after an 11-year-old girl died under anaesthesia for a circumcision he was about to perform.</p>
+<p>Amal Sayyed Bayyoumi went into a coma after receiving the anaesthetic in the doctor's clinic on Friday and died shortly afterwards, judicial sources said.</p>
+<p>Her mother had taken her to the doctor, Abdelwahhab Mohamed Abdelwahhab, for the operation, which remains common for girls in Egypt despite the government's attempts to stamp it out.</p>
+<p>Last year at least three Egyptian girls were reported to have died during circumcision, also known as female genital mutilation for the severe form it often takes.</p>
+<p>The judicial sources said the doctor was wanted for questioning on possible manslaughter charges. The mother had agreed to pay the doctor 60 pounds ($18), they added.</p>
+<p>$1 = 3.395 pounds</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

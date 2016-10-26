@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="710667" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Ashland Minnesota crude unit restarted.</title>
+<headline>Ashland Minnesota crude unit restarted.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>Ashland Inc said Monday a crude unit shut down by fire last Tuesday at its 69,000 barrel-per-day St Paul Park, Minnesota, refinery has restarted.</p>
+<p>The unit returned online on Friday, July 4, instead of late Wednesday as previously expected, the company said.</p>
+<p>The 22,310-bpd unit was shut down late Tuesday after a severe electrical storm swept through the area, triggering a fire in the unit.</p>
+<p>((-- New York Oil Desk 1212 859-1631))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

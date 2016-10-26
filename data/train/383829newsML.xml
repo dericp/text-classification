@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="383829" id="root" date="1997-02-18" xml:lang="en">
+<title>USA: Heinz USA ad account awarded to DDB Needham.</title>
+<headline>Heinz USA ad account awarded to DDB Needham.</headline>
+<dateline>PITTSBURGH 1997-02-18</dateline>
+<text>
+<p>H.J. Heinz Co on Tuesday said that it named the Chicago office of DDB Needham Worldwide as agency of record responsible for advertising, creative development and media planning for its Heinz U.S.A. retail products.</p>
+<p>The company said that DDB's immediate projects would include advertising campaigns for Heinz Ketchup, Heinz 57 Steak Sauce and Heinz HomeStyle Gravies.</p>
+<p>The Heinz advertising account was previously handled by Ketchum Advertising in Pittsburgh. The company said it would continue its relationship with Ketchum for new products and special assignments.</p>
+<p>DDB Needham Chicago is a marketing, communications and advertising agency with billings of more than $900 million.</p>
+<p>DDB Needham Worldwide is a unit of Omnicom Group Inc.</p>
+<p>Heinz U.S.A. is the largest affiliate of the H.J. Heinz Co, a global food marketer with annual sales of $10 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="790512" id="root" date="1997-08-11" xml:lang="en">
+<title>USA: TABLE-Wilshire Financial Q2 shr profit.</title>
+<headline>TABLE-Wilshire Financial Q2 shr profit.</headline>
+<dateline>PORTLAND, Ore. 1997-08-11</dateline>
+<text>
+<p>Wilshire Financial Services Group Inc.</p>
+<p>		     Selected Consolidated Financial Data</p>
+<p>		 (Dollars in thousands, except per share data)</p>
+<p>			     Quarter Ended	 Six Months Ended</p>
+<p>				 June 30,		  June 30,</p>
+<p>			     1997	1996	  1997	 1996</p>
+<p>Operations data:</p>
+<p> Interest income     $26,174   $12,407     $43,792    $21,951</p>
+<p> Interest expense     20,717     7,046	34,691     12,020</p>
+<p>Net interest income</p>
+<p>			     5,457     5,361	 9,101	9,931</p>
+<p>Provision for estimated</p>
+<p>  loan losses		445     5,483     (1,424)     10,868</p>
+<p>Net interest income</p>
+<p>after provision for</p>
+<p>  loan losses	    5,012     (122)	10,525	(937)</p>
+<p> Noninterest income   15,586	 817	18,086	5,006</p>
+<p>Noninterest expenses</p>
+<p>			    11,785     2,525	19,693	5,376</p>
+<p> Pretax income	   8,813   (1,830)	 8,918    (1,307)</p>
+<p>Income taxes (benefit)</p>
+<p>			     3,701     (805)	 3,744    (1,279)</p>
+<p> Net income		5,112   (1,025)	 5,174	 (28)</p>
+<p>Basic earnings per</p>
+<p>  share		     0.68    (0.23)	  0.68     (0.01)</p>
+<p>Average shares</p>
+<p>  outstanding	7,570,000  4,370,081  7,570,000  3,623,132</p>
+<p>					    Jun 30,		Dec. 31,</p>
+<p> Balance Sheet Data:		    1997		     1996</p>
+<p> Cash and cash equivalents     $   39,712	    $  152,298</p>
+<p> Securities			     189,658		  84,964</p>
+<p> Total loans receivable, net	787,985		 411,592</p>
+<p> Real estate owned, net	     135,984		  78,200</p>
+<p> Total assets			 1,196,092		 753,849</p>
+<p> Deposits				 445,333		 501,614</p>
+<p> Borrowings			     667,713		 172,624</p>
+<p> Stockholders' equity		  68,927		  61,022</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

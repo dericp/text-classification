@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="752284" id="root" date="1997-07-24" xml:lang="en">
+<title>CANADA: CBRS confirms Alberta Energy debt ratings.</title>
+<headline>CBRS confirms Alberta Energy debt ratings.</headline>
+<dateline>MONTREAL 1997-07-24</dateline>
+<text>
+<p>Canadian Bond Rating Service said on Thursday it confirmed Alberta Energy Co Ltd's debt securities after a review of the company's first-half results and said its outlook was positive.</p>
+<p>CBRS said it confirmed its rating of A-1/Prime Quality on AEC's commercial paper and A/Good Quality on its long-term debt.</p>
+<p>The ratings affect AEC's C$350 million commercial paper program and about C$475 million of senior notes and debentures, including C$200 million of medium-term notes issued through the use of a shelf facility.  </p>
+<p>Despite a weaker than expected second quarter because of an extended maintenance shutdown at Syncrude Canada Ltd and oil pipeline apportionment, AEC's first-half operational earnings were better than the year earlier period, the rating agency said, adding that was mostly because the company experienced no crude oil price hedge-in losses.</p>
+<p>First-half cash flow was 45 percent higher, allowing the company to maintain an aggressive spending program while retaining a conservative capital structure, it said.</p>
+<p>CBRS said AEC's production growth was expected to resume in the second half of this year and its financial risk profile remained strong despite weaker energy prices.</p>
+<p>((Reuters Calgary Bureau (403) 531-1624))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

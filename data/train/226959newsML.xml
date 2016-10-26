@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226959" id="root" date="1996-12-01" xml:lang="en">
+<title>NETHERLANDS: SPEED SKATING-WORLD CUP RESULTS.</title>
+<headline>SPEED SKATING-WORLD CUP RESULTS.</headline>
+<dateline>HEERENVEEN, Netherlands 1996-12-01</dateline>
+<text>
+<p>World Cup speed</p>
+<p>skating results on Sunday:</p>
+<p>Women's 1,500 metres</p>
+<p>1. Tonny de Jong (Netherlands)	    2 minutes 03.24 seconds</p>
+<p>2. Gunda Niemann (Germany)		  2:03.63</p>
+<p>3. Barbara de Loor (Netherlands)	  2:05.22</p>
+<p>4. Mie Uehara (Japan)			 2:05.41</p>
+<p>5. Maki Tabata (Japan)			2:05.52</p>
+<p>6. Annamarie Thomas (Netherlands)	 2:05.60</p>
+<p>7. Svetlana Bashanova (Russia)	    2:05.71</p>
+<p>8. Kirstin Holum (U.S.)		     2:05.87</p>
+<p>9. Claudia Pechstein (Germany)	    2:05.97</p>
+<p>10. Chiharu Nozaki (Japan)		  2:06.09</p>
+<p>Men's 5,000 metres</p>
+<p>1. Rintje Ritsma (Netherlands)	    6 minutes 42.44 seconds</p>
+<p>2. Gianni Romme (Netherlands)	     6:43.20</p>
+<p>3. Kjell Storelid (Norway)		  6:47.83</p>
+<p>4. Bart Veldkamp (Belgium)		  6:48.01</p>
+<p>5. Frank Dittrich (Germany)		 6:48.56</p>
+<p>6. Keiji Shirahata (Japan)		  6:49.12</p>
+<p>7. Ids Postma (Netherlands)		 6:50.42</p>
+<p>8. Bob de Jong (Netherlands)		6:52.17</p>
+<p>9. Lasse Saetre (Norway)		    6:52.45</p>
+<p>10. Andrey Krivosheev (Russia)	    6:52.59</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HEERENVEEN, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

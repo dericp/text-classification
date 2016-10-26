@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489952" id="root" date="1997-04-06" xml:lang="en">
+<title>GERMANY: Frankfurt airport hall closed after smoke alarm.</title>
+<headline>Frankfurt airport hall closed after smoke alarm.</headline>
+<dateline>FRANKFURT 1997-04-06</dateline>
+<text>
+<p>Hundreds of people were evacuated and one woman was slightly injured as a result of a smoke alarm at the Frankfurt international airport, airport officials said on Sunday.</p>
+<p>Wilhelm Machleid, deputy chief of the airport fire department, told reporters that arrival terminal B was shut down after smoke was spotted coming out of the air-conditioning system.</p>
+<p>&quot;We carried out an evacuation immediately. Only one person was slightly injured who had inhaled smoke,&quot; he said.</p>
+<p>Fire officials said they were still uncertain of the cause of the smoke and had not found any other sign of fire. The smoke was first noticed around 8 p.m. (1800 GMT)</p>
+<p>Hans-Juergen Kohnert, a senior airport fire official, said it was likely that terminal B would be reopened before morning.</p>
+<p>Just over a year ago a fire tore through the Duesseldorf airport, killing 17 people and causing millions in damages.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13429" id="root" date="1996-08-26" xml:lang="en">
+<title>UK: Drug cuts heart deaths by 60 pct after surgery.</title>
+<headline>Drug cuts heart deaths by 60 pct after surgery.</headline>
+<byline>Maggie Fox</byline>
+<dateline>BIRMINGHAM, England 1996-08-26</dateline>
+<text>
+<p>A single dose of a drug that uses monoclonal antibodies to prevent blood clots dramatically reduces deaths from heart attack after surgery to stretch open clogged arteries, doctors told a conference on Monday.</p>
+<p>Researchers at Duke University in Durham, North Carolina and Erasmus University in Rotterdam, Netherlands said the drug abciximab, known commercially as ReoPro, cut the need for additional surgery after angioplasty.</p>
+<p>Angioplasty is currently a popular treatment for patients with heart disease. It opens the arteries and restores blood flow without the need for risky bypass surgery.</p>
+<p>Angioplasty involves opening a clogged blood vessel with a tiny balloon. But the procedure can knock loose plaque build-up from inside the artery.</p>
+<p>ReoPro uses a new technology involving monoclonal antibodies -- proteins that can find and attach to specific cell targets -- to stop platelets in the blood from sticking together.</p>
+<p>The drug homes in on receptors on the cells that help them stick together. It blocks them so the cells cannot clump.</p>
+<p>The doctors described two trials involving a total of nearly 5,000 patients in the United States and Canada and a third trial involving 1,200 patients in the Netherlands. All three found that ReoPro greatly reduced complications from the surgery.</p>
+<p>The patients had also all been given standard drugs against blood clots such as aspirin and heparin.</p>
+<p>The trials were stopped last December when the strong effects of ReoPro became apparent. They showed a 60 percent reduction in deaths among patients who had suffered from acute heart attacks or angina (chest pain) when they had angioplasty.</p>
+<p>&quot;One month after treatment, overall death, recurrent heart attacks and urgent repeat angioplasty or bypass surgery were reduced by up to 59 percent in all patients who were treated with...ReoPro,&quot; Duke University said in a statement.</p>
+<p>Dr Eric Topol, who helped coordinate the study, said the effects of just one dose of the drug were apparent three years later. &quot;There was a more than 50 percent reduction in death after three years in acute cases,&quot; he told a news conference.</p>
+<p>Interim findings from the studies have been published in the New England Journal of Medicine and the Lancet medical journal, but the final results were being presented for the first time to 16,000 delegates at the European Society of Cardiology meeting in Birmingham.</p>
+<p>ReoPro, manufactured by Centocor Inc of Malvern, Pennsylvania, is marketed by Eli Lilly and Co. It is licenced across North America and most of Europe.</p>
+<p>One drawback to the drug is its cost. A single dose costs $1,350 in the United States. But Dr Robert Califf, director of Duke's Clinical Research Institute, said he thought the expense was worthwhile.</p>
+<p>&quot;Obviously if you prevent these bad events (such as) heart attacks...from happening you save money on hospital care,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BIRMINGHAM, England"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88739" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Bonneville drops power price, raises transmission.</title>
+<headline>Bonneville drops power price, raises transmission.</headline>
+<dateline>LOS ANGELES 1996-10-01</dateline>
+<text>
+<p>The Bonneville Power Administration (BPA) said Tuesday it rejigged its next-day offer prices, lowering prices for raw energy while increasing transmission prices, especially for non-Northwest sales.</p>
+<p>Raw energy refers to electricity prices excluding any transmission costs.</p>
+<p>Firm on-peak power for Wednesday was offered by the federal power marketing agency at $17.62 per megawatt hour (MWh), but transmission charges brought that to $19.54 for Northwest deliveries and $22.00 for California-Oregon (COB) and Nevada-Oregon border (NOB) deals.</p>
+<p>For Tuesday, BPA had offered the same power at $21.00 per MWh, plus $1.00 for transmission within the Northwest or $2.27 for COB or NOB sales.</p>
+<p>Wednesday off-peak firm power was offered at $13.54 per MWh in the Northwest and at $16.00 at COB or NOB.</p>
+<p>BPA also continued to limit Wednesday firm sales to 200 megawatts (MW) and non-firm to 500 MW.</p>
+<p>Non-firm peak power on Wednesday was offered at $15.94 per MWh, or $18.48 in the Northwest and $21.00 at COB or NOB.</p>
+<p>--Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

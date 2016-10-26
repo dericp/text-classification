@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214609" id="root" date="1996-11-25" xml:lang="en">
+<title>GERMANY: Henkel reelected head of Germany's BDI.</title>
+<headline>Henkel reelected head of Germany's BDI.</headline>
+<dateline>COLOGNE, Germany 1996-11-25</dateline>
+<text>
+<p>Hans-Olaf Henkel was reelected president of the German Federation of Chambers of Commerce (BDI) for another two-year term, BDI said on Monday.</p>
+<p>Henkel, former head of IBM Deutschland GmbH, first took office on January 1, 1995.</p>
+<p>Munich prosecutors said earlier they were no longer investigating Henkel on suspicion of assisting in tax evasion. Authorities had been looking into a bank account Henkel had opened for a friend who was barred from opening one on his own.</p>
+<p>-- Terence Gallagher, Bonn newsroom, 49 228 26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOGNE, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

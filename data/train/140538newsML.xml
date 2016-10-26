@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="140538" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Assets of U.S. money market funds rose in week.</title>
+<headline>Assets of U.S. money market funds rose in week.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>Assets of the nation's 659 retail money market mutual funds rose $3.85 billion to $597.93 billion in the week ended Oct. 23, the Investment Company Institute, an industry trade group, said Thursday.</p>
+<p>It said assets of the 403 taxable money market funds in the retail category rose $3.51 billion to $488.38 billion, while assets of the 256 tax-exempt funds rose $337.2 million to $109.56 billion.</p>
+<p>The trade group said assets of the 312 institutional money market funds fell $3.43 billion to $279.46 billion. Of these, the 248 taxable money market fund assets fell $3.03 billion to $250.65 billion, and assets of the 64 tax exempt funds fell $394.9 million to $28.80 billion.</p>
+<p>Money market mutual fund assets stood at $877.39 billion in the week. Assets for the week ended Oct. 16 were revised to $876.97 billion from $875.02 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

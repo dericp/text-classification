@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161660" id="root" date="1996-11-02" xml:lang="en">
+<title>UK: SOCCER-ENGLISH PREMIER LEAGUE SUMMARIES.</title>
+<headline>SOCCER-ENGLISH PREMIER LEAGUE SUMMARIES.</headline>
+<dateline>LONDON 1996-11-02</dateline>
+<text>
+<p>Summaries of Saturday's English</p>
+<p>premier league soccer matches:</p>
+<p>Aston Villa 2 (Tiler 20, Yorke 65) Nottingham Forest 0.</p>
+<p>Halftime 1-0. Attendance: 35,310</p>
+<p>Derby 2 (Ward 56, Whitlow 89 own goal) Leicester 0. 0-0. 18,010</p>
+<p>Leeds 3 (Ford 27, Sharpe 62, Deane 68) Sunderland 0. 1-0.</p>
+<p>31,667</p>
+<p>Manchester United 1 (May 81) Chelsea 2 (Duberry 31, Vialli 61)</p>
+<p>0-1. 55,198</p>
+<p>Sheffield Wednesday 1 (Newsome 14) Southampton 1 (Le Tissier 50</p>
+<p>penalty) 1-0. 20,106</p>
+<p>Tottenham 1 (Armstrong 67) West Ham 0. 0-0. 32,999</p>
+<p>Wimbledon 2 (Jones 44, Gayle 67) Arsenal 2 (Wright 6, Merson</p>
+<p>64) 1-1. 25,521</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

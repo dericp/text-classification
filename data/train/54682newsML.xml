@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="54682" id="root" date="1996-09-15" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Saudi Arabia - Sept 15.</title>
+<headline>PRESS DIGEST - Saudi Arabia - Sept 15.</headline>
+<dateline>MANAMA 1996-09-15</dateline>
+<text>
+<p>These are some of the leading stories in the Saudi Arabian press on Sunday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-RIYADH</p>
+<p>- Saudi Arabia is to purchase 21,000 tonnes of dates from farmers for 74 million riyals.</p>
+<p>ARAB NEWS</p>
+<p>- Moslem states' economic growth has slowed down over the past few years while foreign debts mounted to $344 billion.</p>
+<p>- Saudi to build a 60 million riyal packaging material factory in Jeddah with a capacity of 800 million to one billion packages a year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

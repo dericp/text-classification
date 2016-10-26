@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="669527" id="root" date="1997-06-18" xml:lang="en">
+<title>NIGER: US resumes aid to Niger.</title>
+<headline>US resumes aid to Niger.</headline>
+<dateline>NIAMEY 1997-06-18</dateline>
+<text>
+<p>The United States is to give Niger seven billion CFA francs ($12 million) in aid over the next two years, Charles Cecil, the U.S. ambassador to the West African country said on Wednesday.</p>
+<p>The United States cut back on its aid programme in Niger after a military coup in January 1996 and suspended all aid in July of that year when military ruler Ibrahim Bare Mainassara won a presidential election after scrapping the electoral commission in the middle of the poll.</p>
+<p>The U.S. aid will be used in the fields of mother and child health, food hygiene, the promotion of democracy and human rights, Cecil said. ($ = 580 CFA francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NIAMEY"/>
+<dc element="dc.creator.location.country.name" value="NIGER"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

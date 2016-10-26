@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="553222" id="root" date="1997-05-01" xml:lang="en">
+<title>UK: INSTANT VIEW - Market comments on British election.</title>
+<headline>INSTANT VIEW - Market comments on British election.</headline>
+<dateline>LONDON 1997-05-01</dateline>
+<text>
+<p>The following is a selection  of analysts' reactions to exit polls for Britain's May 1 election pointing to a landslide victory for opposition Labour party.</p>
+<p>For a full breakdown of election news -  GB/ELEX</p>
+<p>JEREMY HAWKINS, SENIOR ECONOMIC ADVISOR, BANK OF AMERICA</p>
+<p>2115 GMT - &quot;The main thing is the market wants to see a majority...the first round impact is relief that we're not going to get either a very small majority or a hung parliament.</p>
+<p>&quot;If these polls actually translate into actual numbers then very quickly markets are going to want to see (Labour leader) Tony Blair put his money where his mouth is -- they'll need to show some kind of policy credibility very quickly in terms of a hike in the base rate and ideally a tight budget as well&quot;</p>
+<p>STEVE SCOTT, GILTS ANALYST, DRESDNER KLEINWORT BENSON</p>
+<p>2115 GMT - &quot;I've got a feeling the market is going to find it difficult to distinguish between a majority of 100 or 150, just as long as any fear of a hung parliament has vanished.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

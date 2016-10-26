@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="399495" id="root" date="1997-02-24" xml:lang="en">
+<title>USA: D.C. airport reopened after suspected gas leak.</title>
+<headline>D.C. airport reopened after suspected gas leak.</headline>
+<dateline>WASHINGTON 1997-02-23</dateline>
+<text>
+<p>Washington's National Airport was partially evacuated and flights were diverted to a nearby airport on Sunday after gas fumes were detected in the lobby of the main terminal, airport officials said.</p>
+<p>Spokesman Jonathan Gaffney said the lobby of the main terminal and the control tower were reopened at 8 p.m. EST after two hours.</p>
+<p>&quot;We're not back to normal, but we're getting there,&quot; he said.</p>
+<p>Spokeswoman Tara Hamilton said the local gas company, Washington Gas, had arrived on the scene, turned off the gas and an investigation into the cause of the odor was underway.</p>
+<p>It was still unclear what caused the fumes in the lobby, which houses the ticket counters of United Airlines, Air Canada and Trans World Airways (TWA).</p>
+<p>She later told reporters that hazardous material investigators had removed a trash can that was emitting a suspicious odor, although it was unclear what was inside.</p>
+<p>A total of six flights had been diverted to Washington Dulles International Airport, Gaffney said.</p>
+<p>Passengers and airport employees were evacuated only from the lobby area, the spokeswoman said.</p>
+<p>Hamilton said the incident appeared unrelated to a similar one several months ago in which a transit bus hit a gas pipeline in a tunnel on the airport grounds, forcing the evacuation of another smaller terminal and delaying flights for hours.</p>
+<p>The fumes were first detected between 5:30 p.m. and 6 p.m., she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

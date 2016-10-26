@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90437" id="root" date="1996-10-02" xml:lang="en">
+<title>AUSTRIA: SOCCER-AUSTRIA FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-AUSTRIA FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>VIENNA 1996-10-02</dateline>
+<text>
+<p>Results of Austrian first division soccer matches played on Wednesday:</p>
+<p> Rapid Vienna	  4	GAK		    0</p>
+<p> FC Linz		 3	Tirol Innsbruck    0</p>
+<p> SCN Admira Wacker   1	SV Salzburg	  1</p>
+<p> Ried		    2	LASK		   0</p>
+<p> Sturm Graz	    4	Austria Vienna     1</p>
+<p>Standings (tabulate under played, won, drawn, lost, goals for, against, points):</p>
+<p> SV Salzburg	    11  7  3  1   17   5   24</p>
+<p> Rapid Vienna	   11  5  6  0   21   8   21</p>
+<p> Tirol Innsbruck	11  6  3  2   17  10   21</p>
+<p> Austria Vienna	 11  4  3  4   13  19   15</p>
+<p> Sturm Graz	     11  3  4  4   13  12   13</p>
+<p> GAK			11  3  4  4   11  16   13</p>
+<p> Ried		     11  3  2  6   14  16   11</p>
+<p> LASK		     10  2  4  4   10  15   10</p>
+<p> SCN Admira Wacker    11  1  5  5   10  19    8</p>
+<p> FC Linz		  10  1  4  5    5  11    7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

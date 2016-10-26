@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40111" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: Consumer credit grew steadily in July.</title>
+<headline>Consumer credit grew steadily in July.</headline>
+<dateline>WASHINGTON 1996-09-09</dateline>
+<text>
+<p>Consumers reached for their credit cards freely in July, boosting overall instalment buying by $7.7 billion, the Federal Reserve said Monday.</p>
+<p>While borrowing to buy new cars trailed off sharply, so-called revolving, or credit-card, debt shot up at a 19.4 percent annual rate -- the fastest in three months, since a 20 percent jump in April.</p>
+<p>The $7.7-billion expansion in all types of instalment credit during July followed a sharply revised $6.7 billion increase in June that previously was reported as a stronger $8.3 billion surge.</p>
+<p>Analysts have noted that strong job growth has made consumers more willing to spend and raised questions as to whether the economy will slow soon enough in the second half to head off more interest-rate rises by the Fed to cool inflation.</p>
+<p>In one indicator of the economy's vigour at the start of the second half, the Labour Department said Friday that the unemployment rate dropped to 5.1 percent in August, the lowest level in nearly 7-1/2 years, as the economy created 250,000 jobs.</p>
+<p>During July, credit-card debt jumped $7.2 billion, at a 19.4 percent annual rate, more than triple June's $2.1 billion gain, or 5.7 percent annual rate.</p>
+<p>Auto sales slowed in July, and that showed up in the consumer credit figures. Growth in new-car loans slowed abruptly to a $1.9 billion increase at a 6.3 percent annual rate from a June rise of $5.6 billion at an 18.5 percent annual rate.</p>
+<p>Recent reports from carmakers point to a rebound in sales of cars and light trucks in August.</p>
+<p>Other credit, a category that includes consumer bank loans but not home equity loans, decreased in July for a fourth straight month, falling $1.5 billion at a 5.1 percent annual rate. This credit category had declined by $900,000, at a 3.5 percent annual rate, in June.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

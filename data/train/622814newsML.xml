@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="622814" id="root" date="1997-05-29" xml:lang="en">
+<title>JAPAN: HANDBALL-FORMER ROMANIAN COACH KUNSZT DIES.</title>
+<headline>HANDBALL-FORMER ROMANIAN COACH KUNSZT DIES.</headline>
+<dateline>KUMAMOTO, Japan 1997-05-29</dateline>
+<text>
+<p>Ioan Kunszt-Ghermanescu, former head coach of the Romanian handball team and an honorary member of the International Handball Federation (IHF), died on Thursday of a heart attack, an IHF spokesman announced.</p>
+<p>The 72-year-old Romanian was found dead in his hotel room in Kumamoto where he was attending the men's World Championships.</p>
+<p>Kunszt coached the Romanian teams which won the 1961, 1964 and 1970 world championships.</p>
+<p>Before the start of each of Thursday's quarter-final matches, a minute's silence was observed in his honour.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUMAMOTO, Japan"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

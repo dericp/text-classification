@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411355" id="root" date="1997-02-28" xml:lang="en">
+<title>UK: Bankers Trusts sets Index Return Certificates.</title>
+<headline>Bankers Trusts sets Index Return Certificates.</headline>
+<dateline>LONDON 1997-02-28</dateline>
+<text>
+<p>Bankers Trust International Plc says it has issued 10 million Index Return Certificates on the Poland Stock Market Index WIG 20, in local currency.</p>
+<p>1000 warrants control one index.</p>
+<p> ISSUE PRICE     $0.5890</p>
+<p> MATURITY DATE   26.FEB.99		 PAYDATE	21.MAR.97</p>
+<p> LISTING	   LUXEMBOURG		MIN EXER LOT 1000</p>
+<p> NOTES	     VALUE WILL BE BASED ON THE WIG 20 AVERAGE</p>
+<p>		     CLOSING PRICE ON EACH OF THE FIVE BUSINESS DAYS</p>
+<p>		     INCLUDING AND IMMEDIATELY PRIOR TO THE MATURITY</p>
+<p>		     DATE (CONVERTED FROM POLISH ZLOTYS INTO U.S.</p>
+<p>		     DOLLARS AT THE PREVAILING EXCHANGE RATE ON EACH</p>
+<p>		     SUCH BUSINESS DAY) DIVIDED BY 1000</p>
+<p>-- Reuter London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

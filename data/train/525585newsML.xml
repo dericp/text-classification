@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="525585" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: Ferro Corp Q1 net income increases.</title>
+<headline>Ferro Corp Q1 net income increases.</headline>
+<dateline>CLEVELAND 1997-04-21</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>							     March 31</p>
+<p> (Dollars in Thousands)			   1997	  1996</p>
+<p> Total Net Sales				 342,197	348,184</p>
+<p> Net Foreign Currency (Gain) Loss	  (1,397)	  (267)</p>
+<p> Net Income					 15,194	 13,151</p>
+<p> Dividend on Preferred Stock, Net of Tax     941	    931</p>
+<p>Net Income Available to Common</p>
+<p>   Shareholders				   14,253	 12,220</p>
+<p>Per Common Share Data:</p>
+<p>	 Primary Earnings			   0.55	   0.45</p>
+<p>	 Fully Diluted Earnings		   0.52	   0.43</p>
+<p>Shares Outstanding:</p>
+<p>	 Average Outstanding		25,931,456   26,934,790</p>
+<p>	 Average Fully Diluted	    28,243,135   29,449,994</p>
+<p>	 Actual End of Period	     25,595,936   26,676,272</p>
+<p>NOTE:  Net income was calculated before the payment of preferred dividends, earnings per share were calculated after the payment of preferred dividends.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

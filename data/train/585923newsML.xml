@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="585923" id="root" date="1997-05-15" xml:lang="en">
+<title>HUNGARY: Hungary's forint ends steady vs basket.</title>
+<headline>Hungary's forint ends steady vs basket.</headline>
+<dateline>BUDAPEST 1997-05-15</dateline>
+<text>
+<p>The Hungarian forint closed unchanged against the central bank's currency basket after trading for most of the afternoon around the National Bank of Hungary's resistance level, traders said.</p>
+<p>However, it gave up a few fillers against the dollar from midday after the U.S. currency regained some losses against the German mark, but was stronger than at the opening, they added.</p>
+<p>The forint closed at 180.70/75 to the dollar, compared with 180.45/50 at midday and 180.80/90 at the opening.</p>
+<p>(NBH basket: 30 pct dollar + 70 pct mark; NBH floating intervention range: 4.5 pct wide)</p>
+<p>-- Budapest newsroom +36 1 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="536873" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Midland Resources Inc year profit vs loss.</title>
+<headline>Midland Resources Inc year profit vs loss.</headline>
+<dateline>HOUSTON 1997-04-23</dateline>
+<text>
+<p>Years ended December 31,</p>
+<p>					   1996	  1995	 1994</p>
+<p>Operating Revenue:</p>
+<p>    Oil and gas sales	$ 6,958,491 $ 5,147,033$ 5,265,759</p>
+<p>    Other			    183,234     231,141    217,884</p>
+<p>	 Total operating revenue</p>
+<p>				     7,141,725   5,378,174  5,483,643</p>
+<p>Operating costs and expenses:</p>
+<p>     Oil and gas production  2,981,837   2,509,854  2,423,032</p>
+<p>     Exploration costs	   766,855     198,453	  ---</p>
+<p>     DD&amp;A			  1,306,287   1,033,905  1,120,841</p>
+<p>General and administrative</p>
+<p>				     1,295,298   1,049,904  1,145,719</p>
+<p>     Impairments and other     114,904   1,023,670     41,676</p>
+<p>	 Total operating costs</p>
+<p>	  and expenses	   6,465,181   5,815,786  4,731,268</p>
+<p>					 676,544   (437,612)    752,375</p>
+<p> Other income (expenses)	  98,305    (64,073)    251,136</p>
+<p> Interest expense		(722,447)   (611,587)  (473,048)</p>
+<p>Income (loss) before income taxes</p>
+<p>					  52,402  (1,113,272)   530,463</p>
+<p> Income taxes (benefits)	  30,280   (376,241)    204,769</p>
+<p> Net income (loss)		  22,122   (737,031)    325,694</p>
+<p>Earnings (loss) per common share</p>
+<p>					    0.01	(0.22)	 0.10</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

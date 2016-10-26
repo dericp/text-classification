@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="739342" id="root" date="1997-07-18" xml:lang="en">
+<title>USA: U.S. Justice reaches pricing pact with 3 oil firms.</title>
+<headline>U.S. Justice reaches pricing pact with 3 oil firms.</headline>
+<dateline>WASHINGTON 1997-07-18</dateline>
+<text>
+<p>The U.S. Justice Department said Friday it had reached a settlement with AIG Trading Corp, British Petroleum Co's BP Exploration &amp; Oil Inc and Cargill International S.A. to bar them from sharing broker commission information on Brent crude trades.</p>
+<p>&quot;As a result of today's settlement, the firms will no longer be able to conspire to reduce broker commissions,&quot; the Justice Department said in a statement.  </p>
+<p>Justice said the traders had paid brokers separate, full commissions for arranging Brent spread trades -- the simultaneous purchase and sale of two contracts -- and wanted to cut the amount they paid.</p>
+<p>In its civil complaint against the companies in the U.S. District Court in Manhattan, the department's antitrust division alleged that AIG, BP, Cargill and others had exchanged brokerage information from July 1992 through May 1993 in order to lower commissions they paid to U.S. brokers.</p>
+<p>&quot;Representatives of the companies carried out the conspiracy by telephone and in meetings in Europe and the U.S.,&quot; the Justice Department said.</p>
+<p>Friday's settlement stops AIG, BP, and Cargill from agreeing with any other trader to fix, lower, hike, stabilize or maintain any brokerage commission for Brent spread contracts and CFD's (contract for difference) or exchange any information to that end, the department said.</p>
+<p>The companies are also prohibited from asking or advising other traders to lower, raise, or change any brokerage commissions for those contracts.</p>
+<p>Comments on the settlement will be accepted for 60 days.</p>
+<p>There was no immediate reaction from the companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

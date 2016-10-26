@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191547" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: IEC Electronics Q4 shr falls.</title>
+<headline>IEC Electronics Q4 shr falls.</headline>
+<dateline>NEWARK, N.Y. 1996-11-15</dateline>
+<text>
+<p>IEC Electronics Corporation</p>
+<p>		   For The Quarter Ending September 30</p>
+<p>						    1996		1995</p>
+<p> Revenue				 $44,988,234	$38,072,156</p>
+<p> Net income				2,045,202	  2,146,290</p>
+<p> Net Income Per Share			  .27		  .29</p>
+<p> Shares outstanding		    7,556,445	  7,483,198</p>
+<p>			For The Year Ending September 30</p>
+<p>						   1996		 1995</p>
+<p> Revenue				 179,707,316	127,609,883</p>
+<p> Net income				2,497,888	  4,688,348</p>
+<p> Net Income Per Share			  .33		  .63</p>
+<p> Shares outstanding		    7,496,611	  7,450,906</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWARK, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

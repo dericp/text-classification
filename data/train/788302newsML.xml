@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788302" id="root" date="1997-08-08" xml:lang="en">
+<title>USA: TABLE - First Mortgage Corp Q1 results.</title>
+<headline>TABLE - First Mortgage Corp Q1 results.</headline>
+<dateline>DIAMOND BAR, Calif. 1997-08-08</dateline>
+<text>
+<p>FIRST MORTGAGE CORP.</p>
+<p>				  STATEMENTS OF INCOME</p>
+<p>				    (Unaudited)</p>
+<p>						     Three Months Ended</p>
+<p>							     June 30,</p>
+<p>							1997	    1996</p>
+<p>REVENUES:</p>
+<p> Loan origination income		 $  704,000    $  731,000</p>
+<p> Loan servicing income		    1,856,000     1,714,000</p>
+<p> Gain on sale of mortgage loans	 1,340,000	 914,000</p>
+<p> Interest income				537,000	 627,000</p>
+<p> Other income					  --	   1,000</p>
+<p> Total revenues			     4,437,000     3,987,000</p>
+<p>EXPENSES:</p>
+<p> Employees' salaries and commissions  1,988,000     1,838,000</p>
+<p> General and administrative expenses  1,819,000     1,749,000</p>
+<p> Interest expense			     172,000	 194,000</p>
+<p> Total expenses			     3,979,000     3,781,000</p>
+<p> INCOME BEFORE INCOME TAXES		 458,000	 206,000</p>
+<p> INCOME TAX EXPENSE			   194,000	  89,000</p>
+<p> NET INCOME				     264,000	 117,000</p>
+<p> NET INCOME PER SHARE			    0.05	    0.02</p>
+<p>WEIGHTED AVERAGE OF COMMON AND COMMON</p>
+<p>   EQUIVALENT SHARES OUTSTANDING	5,859,000     5,890,000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIAMOND BAR, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182716" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Home Depot Inc Q3 net rises.</title>
+<headline>Home Depot Inc Q3 net rises.</headline>
+<dateline>ATLANTA 1996-11-12</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.46		    $0.37</p>
+<p> Net			221,371		  175,473</p>
+<p> Sales		  4,921,831		3,997,790</p>
+<p> Avg shrs		 487,925		  477,671</p>
+<p>	  Nine months</p>
+<p> Shr			  $1.42		    $1.15</p>
+<p> Net			686,564		  546,125</p>
+<p> Sales		 14,576,963	     11,718,474</p>
+<p> Avg shrs		 483,577		  477,469</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTES: The company's 3-1/4 percent convertible subordinated notes issued in October 1996 and the 4-1/2 percent convertible notes converted to equity in March 1995 were dilutive. Net earnings were adjusted for tax effected net interest and issue costs on the notes for per share calculations. Earnings were adjusted $1.659 million for Q3 and year-to-date 1996 and $2.415 million for the year-to-date 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

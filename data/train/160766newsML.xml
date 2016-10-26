@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160766" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: Clinton lead down to 5.5 points in Reuters poll.</title>
+<headline>Clinton lead down to 5.5 points in Reuters poll.</headline>
+<dateline>WASHINGTON 1996-11-01</dateline>
+<text>
+<p>Republican Bob Dole has cut President Clinton's lead in the presidential race to only 5.5 percentage points, according to the latest Reuters daily tracking poll issued on Friday.</p>
+<p>Clinton led with 42 percent, ahead of Dole's 36.5 percent in the poll of 1,200 likely voters conducted Tuesday, Wednesday and Thursday by John Zogby Group International. Election Day is next Tuesday, Nov 5.  </p>
+<p>Reform Party candidate Ross Perot scored 8.4 percent and 11.2 percent remained undecided in the survey, which has a margin of error of plus or minus three percentage points.</p>
+<p>Pollster John Zogby said that Clinton's lead in Thursday's polling alone was only 3.5 points.</p>
+<p>&quot;Something is clearly happening out there. The number of undecided voters, which was growing earlier this week, dropped dramatically in Thursday's polling and most of those went to Dole,&quot; he said.</p>
+<p>In Thursday polling, the undecided vote was down to 6.4 percent, from 15.3 percent earlier in the week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

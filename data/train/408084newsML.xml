@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="408084" id="root" date="1997-02-27" xml:lang="en">
+<title>USA: U.S. JAN DURABLE GOODS ORDERS ROSE 3.6 PCT.</title>
+<headline>U.S. JAN DURABLE GOODS ORDERS ROSE 3.6 PCT.</headline>
+<dateline>WASHINGTON 1997-02-27</dateline>
+<text>
+<p>U.S. Commerce Department</p>
+<p>seasonally adjusted data on durable goods orders, with percent</p>
+<p>changes from prior months.</p>
+<p>    PERCENT CHANGES:	Jan     Dec--Rev from     Nov</p>
+<p>  New Orders		  3.6    -1.8    -1.9	-1.7</p>
+<p>  Transportation Equip.   1.2    -0.9    -0.6	 0.8</p>
+<p>  NonTransport.Equip.     4.4    -2.1    -2.2	-2.5</p>
+<p>  NonDefense Orders	 5.0    -1.5    -1.8	-3.8</p>
+<p>  Defense Cap Orders    -23.7    -8.0    -3.7	63.3</p>
+<p>  NonDefense Cap Orders   4.7    -0.3    -0.1	-7.6</p>
+<p>  -- Ex-Aircraft/Parts    3.9    -2.3    -2.5	-2.2</p>
+<p>    BILLIONS OF DLRS:    Jan	Dec---Rev from    Nov</p>
+<p> New Orders		174.81   168.77   168.59    171.89</p>
+<p> Transportation Equip.  42.03    41.55    41.70     41.93</p>
+<p> NonTransport.Equip.   132.78   127.22   126.99    129.96</p>
+<p> NonDefense Orders     168.66   160.70   160.14    163.12</p>
+<p> Defense Cap Orders	6.15     8.06     8.45	8.77</p>
+<p> NonDefense Cap Orders  45.82    43.74    43.82     43.89</p>
+<p> -- Ex-Aircraft/Parts   38.15    36.72    36.65     37.58</p>
+<p>    PERCENT CHANGES:	Jan     Dec--Rev from     Nov</p>
+<p> Total Shipments	    1.2    -0.9    -1.0	 0.8</p>
+<p> Total Unfilled Orders    0.8     UNCH    UNCH	0.4</p>
+<p>    BILLIONS OF DLRS:    Jan	Dec---Rev from    Nov</p>
+<p> Total Shipments	 170.70   168.66   168.41    170.14</p>
+<p> Ttl Unfilled Orders   492.97   488.86   488.93    488.75</p>
+<p> NEW ORDERS-PCT CHANGES   Jan     Dec--Rev from     Nov</p>
+<p>  Primary Metals	    5.5     4.9     3.2	 1.0</p>
+<p>  Industrial Machinery    1.1     2.1     1.4	-0.9</p>
+<p>  Electrical Machinery   14.9   -14.1   -12.7     -10.3</p>
+<p>NEW ORDERS-BILLIONS OF DLRS:</p>
+<p>  Primary Metals	  16.03    15.19   14.94     14.48</p>
+<p>  Industrial Machinery  32.56    32.19   31.98     31.54</p>
+<p>  Electrical Machinery  27.66    24.07   24.45     28.01</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

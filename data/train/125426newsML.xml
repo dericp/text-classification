@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125426" id="root" date="1996-10-17" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Bahrain - Oct 17.</title>
+<headline>PRESS DIGEST - Bahrain - Oct 17.</headline>
+<dateline>MANAMA 1996-10-17</dateline>
+<text>
+<p>These are some of the leading stories in the Bahraini press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-AYAM</p>
+<p>- Bahrain Stock Exchange director says a decision on listing foreign companies in the bourse will be taken before the end of the year.</p>
+<p>AKHBAR AL-KHALEEJ</p>
+<p>- Bahrain, Algeria to coordinate on fighting terrorism.</p>
+<p>- Five million shares changed hands on Wednesday on the Bahrain Stock Exchange.</p>
+<p>GULF DAILY NEWS</p>
+<p>- A Bahrain-U.S. joint venture company wins $14.3 deal to build an offshore jack-up barge in Bahrain. The floating platform is used to carry out repair and maintenance work on offshore oil rigs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

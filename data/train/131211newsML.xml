@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131211" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Crane Co Q3 shr increases.</title>
+<headline>Crane Co Q3 shr increases.</headline>
+<dateline>STAMFORD, Conn. 1996-10-21</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.88		    $0.71</p>
+<p> Net			 26,889		   22,029</p>
+<p> Sales		    481,116		  463,344</p>
+<p> Avg shrs		  30,398		   30,830</p>
+<p>	  9  MONTHS</p>
+<p> Shr			  $2.20		    $1.81</p>
+<p> Net			 67,201		   55,421</p>
+<p> Sales		  1,383,810		1,337,401</p>
+<p> Avg shrs		  30,497		   30,567</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - First Call mean estimate for Q3 was $0.83 per share.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

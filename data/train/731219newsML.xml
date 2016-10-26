@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731219" id="root" date="1997-07-16" xml:lang="en">
+<title>USA: TABLE - Progressive Q2 shr rises.</title>
+<headline>TABLE - Progressive Q2 shr rises.</headline>
+<dateline>MAYFIELD VILLAGE, Ohio 1997-07-16</dateline>
+<text>
+<p>1997			1996</p>
+<p> Primary shr		$1.36		    $1.01</p>
+<p> Diluted shr		$1.36		    $1.01</p>
+<p> Net			102,100		   78,400</p>
+<p> Revs		   1,118,800		  848,100</p>
+<p> Avg shrs		  71,900		   71,400</p>
+<p>	  6  MONTHS</p>
+<p> Primary shr		$2.39		    $1.83</p>
+<p> Diluted shr		$2.37		    $1.83</p>
+<p> Net			178,600		  141,800</p>
+<p> Revs		   2,085,300		1,647,200</p>
+<p> Avg shrs		  71,800		   71,800</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Full company name is The Progressive Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="I8200316">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MAYFIELD VILLAGE, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

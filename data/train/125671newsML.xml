@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125671" id="root" date="1996-10-18" xml:lang="en">
+<title>AUSTRALIA: GOLF-CHALMERS EXTENDS HIS LEAD IN QUEENSLAND OPEN.</title>
+<headline>GOLF-CHALMERS EXTENDS HIS LEAD IN QUEENSLAND OPEN.</headline>
+<dateline>BRISBANE 1996-10-18</dateline>
+<text>
+<p>Australia's Greg Chalmers shot a five-under-par 67 on Friday to extend his lead to four strokes after the second round of the A$200,000 (US$158,000) Queensland Open.</p>
+<p>Chalmers, who fired a 65 at the par-72 Windaroo Country Club Course on Thursday, leads from compatriot David Armstrong and New Zealand's Steve Alker.</p>
+<p>Alker carded a three-under 69 to move to 136 alongside Armstrong, who shot a second successive 68.</p>
+<p>Defending champion Terry Price of Australia missed the halfway cut after adding a 76 to his first round 77.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

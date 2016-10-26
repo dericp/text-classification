@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81251" id="root" date="1996-09-27" xml:lang="en">
+<title>MEXICO: Mexico's Sinaloa to increase gold production.</title>
+<headline>Mexico's Sinaloa to increase gold production.</headline>
+<dateline>GUADALAJARA, Mexico 1996-09-27</dateline>
+<text>
+<p>The northern state of Sinaloa will increase its gold production this year to 1,486 kilograms from 991 kilograms in 1995, a government official said.</p>
+<p>State director for mining development, Huascar Pena Inzunza, said that the increase is due to greater production at the La Trinidad mine, located in the southern part of the state.</p>
+<p>Sinaloa produces six percent of the gold that comes from the Mexican Republic.</p>
+<p>--Veronica Galan, Guadalajara bureau, (523) 817 0440</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUADALAJARA, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

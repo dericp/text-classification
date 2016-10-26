@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485349" id="root" date="1997-04-03" xml:lang="en">
+<title>USA: General Cigar Q1 sales, net, share rise.</title>
+<headline>General Cigar Q1 sales, net, share rise.</headline>
+<dateline>NEW YORK 1997-04-03</dateline>
+<text>
+<p>1997			1996</p>
+<p> Pro forma shr   $0.15		    $0.08</p>
+<p> Net		 4,277		    2,395</p>
+<p> Revs		49,798		   28,832</p>
+<p> Pro forma avg sh28,200		   28,200</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>NOTES: General Cigar's newly acquired Villazon cigar business is included in the results for two months in 1997's first quarter.</p>
+<p>Average shares based on the number of Class A and Class B shares outstanding on February 28, 1997, the date of the initial public offering of the Class A shares.</p>
+<p>Full company name is General Cigar Holdings Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

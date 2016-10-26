@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83165" id="root" date="1996-09-28" xml:lang="en">
+<title>UK: UK Fraud Office starts Deutsche Morgan probe.</title>
+<headline>UK Fraud Office starts Deutsche Morgan probe.</headline>
+<dateline>LONDON 1996-09-28</dateline>
+<text>
+<p>Britain's Serious Fraud Office (SFO) said on Saturday it had started an investigation into the conduct of a former senior investment manager at Deutsche Morgan Grenfell.</p>
+<p>The SFO said in a statement that is had caried out a serach warrant at the home of the former manager, Peter Young. It said no-one had been arrested.  </p>
+<p>The SFO, which investigates and prosecutes major financial crimes, has been watching since irregularities were first exposed in three Morgan Grenfell Asset Management (MGAM) funds four weeks ago.</p>
+<p>Trading in the MGAM funds was temporarily suspended earlier this month but resumed after a 180 million pound ($281 million) cash injection by Germany's Deutsche Bank. Deutsche Morgan Grenfell is the London fund management arm of Deutsche Bank.</p>
+<p>Last week MGAM sacked Young on grounds of alleged gross misconduct.</p>
+<p>Young, 38, has said he is being made a scapegoat. His lawyers have said there are no grounds for allegations of criminality against him.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

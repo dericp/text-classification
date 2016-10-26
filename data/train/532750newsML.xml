@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="532750" id="root" date="1997-04-23" xml:lang="en">
+<title>INDIA: India - Forward dollar rates - April 23.</title>
+<headline>India - Forward dollar rates - April 23.</headline>
+<dateline>BOMBAY 1997-04-23</dateline>
+<text>
+<p>Bombay banks quoted the forward</p>
+<p>premia on dollar at the following rates (in paise):</p>
+<p>	     Cash Spot	Cash Tom	 Tom Spot</p>
+<p>----------------------------------------------------------------</p>
+<p>  TIME	Bid/Ask	 Bid/Ask	  Bid/Ask</p>
+<p>(in IST)</p>
+<p>----------------------------------------------------------------</p>
+<p>1030	-0050/-0025    -0025/0000    -0025/0000</p>
+<p>1100	-0050/-0025    -0025/-00125  -0025/-00125</p>
+<p>.</p>
+<p>---------------------------------------------------------------</p>
+<p>	    May    Jun    Jul    Aug    Sept     Oct</p>
+<p>---------------------------------------------------------------</p>
+<p>1030	5/7   15/18  33/35  51/53   66/68   82/84</p>
+<p>1100	5/7   16/18  34/36  52/54   66/69   82/84</p>
+<p>.</p>
+<p>These indicative rates are based on contributions from ABN Amro, ANZ Grindlays, Andhra Bank, Bank of America, Banque Nationale De Paris,Barclays Bank Ltd,Canara Bank,Citibank,Credit Lyonnais, Deutsche Bank, Dresdner Bank, Global Trust Bank, HDFC Bank, Hongkong Bank, L.C.Raheja, Mashreq Bank,Nucleus Securities, Societe Generale, Standard Chartered Bank, State Bank of India - Calcutta, Syndicate Bank.</p>
+<p>For contributions contact Samir Shah on 022-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

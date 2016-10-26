@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13083" id="root" date="1996-08-25" xml:lang="en">
+<title>AUSTRALIA: Australian Rules - AFL results and standings.</title>
+<headline>Australian Rules - AFL results and standings.</headline>
+<dateline>MELBOURNE 1996-08-26</dateline>
+<text>
+<p>Results of Australian Rules matches played at the weekend.</p>
+<p>Played Sunday:</p>
+<p> Adelaide	   14.12  (96)  Collingwood  24. 9 (153)</p>
+<p> West Coast	 24. 7 (151)  Melbourne    11.12  (78)</p>
+<p> Richmond	   28.19 (187)  Fitzroy	 5. 6  (36)</p>
+<p>Played Saturday:</p>
+<p> Carlton	    13.18  (96)  Footscray     9.12  (66)</p>
+<p> Essendon	   14.16 (100)  Sydney	 12.10  (82)</p>
+<p> St Kilda	    9. 9  (63)  Hawthorn     12. 8  (80)</p>
+<p> Brisbane	   10.11  (71)  Fremantle    10.10  (70)</p>
+<p>Played Friday:</p>
+<p> North Melbourne  14.12  (96)  Geelong	16.13 (109)</p>
+<p>Standings (tabulate under played, won, drawn, lost, points for, against, percentage, total points):</p>
+<p> Brisbane	    21  15  1   5  2123  1631   130.2  62</p>
+<p> Sydney		21  15  1   5  2067  1687   122.5  62</p>
+<p> West Coast	  21  15  0   6  2151  1673   128.6  60</p>
+<p> North Melbourne   21  15  0   6  2385  1873   127.3  60</p>
+<p> Carlton	     21  14  0   7  2009  1844   108.9  56</p>
+<p> Geelong	     21  13  1   7  2288  1940   117.9  54</p>
+<p> Essendon	    21  13  1   7  2130  1947   109.4  54</p>
+<p> Richmond	    21  11  0  10  2173  1803   120.5  44</p>
+<p> Hawthorn	    21  10  1  10  1791  1820    98.4  42</p>
+<p> St Kilda	    21   9  0  12  1909  1958    97.5  36</p>
+<p> Collingwood	 21   8  0  13  2103  2091   100.6  32</p>
+<p> Adelaide	    21   8  0  13  2158  2183    98.9  32</p>
+<p> Melbourne	   21   7  0  14  1642  2361    69.5  28</p>
+<p> Fremantle	   21   6  0  15  1673  1912    87.5  24</p>
+<p> Footscray	   21   5  1  15  1578  2060    76.6  22</p>
+<p> Fitzroy	     21   1  0  20  1381  2778    49.7   4</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

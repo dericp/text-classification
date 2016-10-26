@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581402" id="root" date="1997-05-14" xml:lang="en">
+<title>USA: Shuffle Master/IGT game tested in Nevada.</title>
+<headline>Shuffle Master/IGT game tested in Nevada.</headline>
+<dateline>MINNEAPOLIS 1997-05-14</dateline>
+<text>
+<p>Shuffle Master Inc said Wednesday its recently approved Five Deck Frenzy game is being tested at five Nevada sites, with a sixth site under consideration.</p>
+<p>Five Deck Frenzy, recently approved by the Nevada State Gaming Control Board, is the first product from the joint marketing alliance between Shuffle Master and International Game Technology.</p>
+<p>The trials are expected to end in June. The game is then expected to be available in the Nevada gaming market and later in additional markets.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I49410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

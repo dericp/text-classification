@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="36906" id="root" date="1996-09-06" xml:lang="en">
+<title>SOUTH AFRICA: S.African industrials end slightly up on Wall St.</title>
+<headline>S.African industrials end slightly up on Wall St.</headline>
+<dateline>JOHANNESBURG</dateline>
+<text>
+<p>South African industrial shares ended a touch firmer after a patchy day due to a five hour stoppage of trade due to an electronic trading system malfuntion. Golds ended weak on a dull bullion price.</p>
+<p>Trade was extended for an hour after usual closing time to 1500 GMT.</p>
+<p>Dealers said the market anticipated a weaker Wall Street after the strong payroll figures in the U.S. but were surprised by a strong Wall Street at local close.</p>
+<p>Dealers said the treasury bill rate which came down at the weekly tender and institutional interest in afternoon trade boosted sentiment. Futures players were once again dominating trade ahead of the mid-month futures close-out.</p>
+<p>Overall index fell 3.5 points to 6,786.1 points, the industrial index rose 5.6 points to 7,975.9 points and the gold index slipped 14.2 points to 1,782.6 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

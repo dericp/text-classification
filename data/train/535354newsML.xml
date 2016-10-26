@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535354" id="root" date="1997-04-24" xml:lang="en">
+<title>VENEZUELA: Caracas stocks end mixed on lack of news.</title>
+<headline>Caracas stocks end mixed on lack of news.</headline>
+<dateline>CARACAS 1997-04-24</dateline>
+<text>
+<p>Caracas stocks closed mixed in moderate trade, amid a lack of news to trade on, analysts said.</p>
+<p>&quot;It's been a lethargic market today, waiting on news,&quot; Merinvest analyst Roberto Issasi said.</p>
+<p>The bolsa's 19-share  index closed down 0.33 percent at 6,301.21 points as 18 million shares traded worth four billion bolivars ($8.4 million). Merinvest's composite index, which includes telephone company CANTV, meanwhile slipped 0.27 percent to close at 96.97 points.  </p>
+<p>Among traded issues, 13 fell, 10 rose and eight closed flat.</p>
+<p>((-- Silene Ramirez, Caracas newsroom, 582 505 2600))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

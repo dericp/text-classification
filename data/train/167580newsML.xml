@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167580" id="root" date="1996-11-05" xml:lang="en">
+<title>GERMANY: Porsche to announce dividend on Friday.</title>
+<headline>Porsche to announce dividend on Friday.</headline>
+<dateline>STUTTGART, Germany 1996-11-05</dateline>
+<text>
+<p>German luxury sportscar maker Porsche AG said on Tuesday that it would release on Friday details for its anticipated resumption of a dividend payout.</p>
+<p>Porsche said its supervisory board would hold a meeting on Thursday to discuss resuming the dividend payout after it last paid one for its 1991/92 business year of 2.50 marks per 50 mark nominal value share.</p>
+<p>Ordinary shareholders will receive no dividend.</p>
+<p>The dividend payout is being resumed after Porsche turned in higher-than-expected profits for the 1995/96 business year.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUTTGART, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

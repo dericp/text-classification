@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687224" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: Ormet invests $25 million to upgrade aluminum mill.</title>
+<headline>Ormet invests $25 million to upgrade aluminum mill.</headline>
+<dateline>NEW YORK 1997-06-25</dateline>
+<text>
+<p>Ormet Corp said it has just invested more than $25 million to modernize its aluminum rolling mill in Hannibal, Ohio.</p>
+<p>The capital investments included gauge and shape control improvements to the plant's hot mill and tandem cold rolling mill, and installation of a new ingot scalper.</p>
+<p>Ormet is a producer of primary aluminum.</p>
+<p>((New York Commodity Desk 212-859-1646))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

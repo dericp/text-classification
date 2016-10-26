@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="574438" id="root" date="1997-05-11" xml:lang="en">
+<title>USA: BASEBALL-SATURDAY'S MAJOR LEAGUE RESULTS.</title>
+<headline>BASEBALL-SATURDAY'S MAJOR LEAGUE RESULTS.</headline>
+<dateline>NEW YORK 1997-05-10</dateline>
+<text>
+<p>Results of Major League</p>
+<p>Baseball games on Saturday (home team in CAPS):</p>
+<p>		American League</p>
+<p> Texas		 11  BOSTON		  5</p>
+<p> DETROIT		6  Cleveland	     0</p>
+<p> Seattle		3  BALTIMORE	     2 (in 11)</p>
+<p> NY YANKEES	   5  Kansas City	   2</p>
+<p> MILWAUKEE	    4  Anaheim		 3 (in 10)</p>
+<p> CHI WHITE SOX	9  Oakland		 8</p>
+<p> Toronto		6  MINNESOTA	     4</p>
+<p>		National League</p>
+<p> SAN FRANCISCO	4  Chicago Cubs	  2</p>
+<p> Houston		4  FLORIDA		 2</p>
+<p> PHILADELPHIA	 5  Colorado		4 (in 10)</p>
+<p> Atlanta		9  PITTSBURGH	    3</p>
+<p> NY Mets		2  ST LOUIS		0</p>
+<p> LOS ANGELES	  2  Montreal		1</p>
+<p> SAN DIEGO	    9  Cincinnati	    6</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

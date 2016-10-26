@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366890" id="root" date="1997-02-10" xml:lang="en">
+<title>CAMBODIA: Grenade kills five in Cambodian port.</title>
+<headline>Grenade kills five in Cambodian port.</headline>
+<dateline>PHNOM PENH 1997-02-10</dateline>
+<text>
+<p>A grenade blast killed five people and wounded more than 30 in the southern Cambodian river port of Kampot, an official said on Monday.</p>
+<p>&quot;Last night (Sunday) around 10 p.m. (0300 GMT) there was a grenade explosion in an area used for gambling. According to reports 37 people were wounded and, to date, five were killed,&quot; said Interior Ministry spokesman Sok Phal.</p>
+<p>He said police suspected the grenade blast was linked to gambling but were also looking at the possibility it had been carried out by Khmer Rouge guerrillas, adding that there was no strong evidence to back this.</p>
+<p>The Khmer Rouge, whose 1975-79 rule left more than one million people dead, reneged on a U.N.-brokered 1991 peace pact and fought the coalition government formed after 1993 general elections.</p>
+<p>The movement began unravelling last August when former top official Ieng Sary split with hardliners loyal to leader Pol Pot. Thousands of guerrillas have since joined the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAMPA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHNOM PENH"/>
+<dc element="dc.creator.location.country.name" value="CAMBODIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

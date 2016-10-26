@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="403071" id="root" date="1997-02-26" xml:lang="en">
+<title>CANADA: Ranger Oil Ltd Q4 net turns to loss.</title>
+<headline>Ranger Oil Ltd Q4 net turns to loss.</headline>
+<dateline>CALGARY 1997-02-26</dateline>
+<text>
+<p>1996			  1995</p>
+<p> Shr	   Loss     US$0.61   Profit     US$0.23</p>
+<p> Net	   Loss	60,549   Profit	22,982</p>
+<p> Cash flow/shr	     0.52		     0.36</p>
+<p> Revs		     108,165		   59,421</p>
+<p>		  YEAR</p>
+<p> Shr	   Loss     US$0.57   Profit     US$0.20</p>
+<p> Net	   Loss	55,812   Profit	19,931</p>
+<p> Cash flow/shr	     1.46		     1.23</p>
+<p> Revs		     298,991		  209,914</p>
+<p>	 (All data above 000s except per share numbers)</p>
+<p>Note: 1996 results include a US$71 million writedown on Angolan operations.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

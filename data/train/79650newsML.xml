@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="79650" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: CBOT rice deliveries - Sept 26.</title>
+<headline>CBOT rice deliveries - Sept 26.</headline>
+<dateline>CHICAGO 1996-09-26</dateline>
+<text>
+<p>CBOT rice delivery notices posted against the September contract for September 27 (in contracts) --</p>
+<p>LOCATION:				     GRADE/CLASS</p>
+<p>WAREHOUSE			     TOTAL</p>
+<p>8001 AMERICAN RICE		     20</p>
+<p>				TOTAL	20</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	ISSUES  CUSTOMER  HOUSE</p>
+<p>469  LIT AMERIC	 20	 20</p>
+<p>     TOTAL		20	 20</p>
+<p>			 TOTAL</p>
+<p>FIRM    NAME	 STOPS  CUSTOMER  HOUSE</p>
+<p>825  ING		   5	  5</p>
+<p>980  WITTER	     15	 15</p>
+<p>     TOTAL		20	 20</p>
+<p>	 LAST DAY ASSIGNED:  09/13/96</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

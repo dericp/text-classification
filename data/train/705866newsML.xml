@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="705866" id="root" date="1997-07-03" xml:lang="en">
+<title>USA: Moody's weekly municipal bond yield averages.</title>
+<headline>Moody's weekly municipal bond yield averages.</headline>
+<text>
+<p>Moody's Weekly Municipal Bond Yield Averages</p>
+<p>			  Latest   Previous    Last Date</p>
+<p>    10-year Aaa	4.78%	4.73%	 7/2/97</p>
+<p>    10-year Aa	 4.87%	4.82%	 7/2/97</p>
+<p>    20-year Aaa	5.29%	5.24%	 7/2/97</p>
+<p>    20-year Aa	 5.35%	5.30%	 7/2/97</p>
+<p>    20-year A	  5.38%	5.33%	 7/2/97</p>
+<p>    20-year Baa	5.48%	5.43%	 7/2/97</p>
+<p>    VMIG weekly	3.72%	4.16%	 7/2/97</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

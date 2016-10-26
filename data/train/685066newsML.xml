@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="685066" id="root" date="1997-06-25" xml:lang="en">
+<title>USA: National Penn to split stock 4-for-3.</title>
+<headline>National Penn to split stock 4-for-3.</headline>
+<dateline>BOYERTOWN, Pa. 1997-06-25</dateline>
+<text>
+<p>National Penn Bancshares Inc said Wednesday it has approved a split of its common stock, four shares for three.</p>
+<p>The company said the split will be effective for shareholders of record on July 15.</p>
+<p>The company also declared the third quarter cash dividend of $0.21 per share, payable August 17 to shareholders of record July 31.</p>
+<p>The dividend, paid on post-split shares, represents a 16.5 percent annualized increase over the previous dividend of $0.21 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOYERTOWN, Pa."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

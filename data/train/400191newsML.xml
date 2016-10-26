@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400191" id="root" date="1997-02-25" xml:lang="en">
+<title>USA: CyberCash hires James Condon as CFO.</title>
+<headline>CyberCash hires James Condon as CFO.</headline>
+<dateline>RESTON, Va. 1997-02-25</dateline>
+<text>
+<p>CyberCash Inc said Tuesday James Condon, formerly of KPMG, will assume the position of Chief Financial Officer, commencing March 17.</p>
+<p>Filling a position that has been vacant since September, he will be responsible for all financial operations and strategic planning for the company.</p>
+<p>CyberCash said Condon, age 40, brings more than 15 years of broad-based experience in operations cost management and strategic planning. Most recently, as director of performance improvement services in the information communication and entertainment sector of KPMG, Condon was instrumental in the growth of the practice.  ((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

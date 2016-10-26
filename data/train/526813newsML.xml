@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526813" id="root" date="1997-04-22" xml:lang="en">
+<title>USA: CIPSCO Inc Q1 net down.</title>
+<headline>CIPSCO Inc Q1 net down.</headline>
+<dateline>SPRINGFIELD, Ill. 1997-04-22</dateline>
+<text>
+<p>1997	     1996</p>
+<p>Quarter ended March 31:</p>
+<p> Operating Revenues (000)		  $225,343	$237,879</p>
+<p> Net Income (000)				15,551	  21,118</p>
+<p> Average Shares (000)			  34,070	  34,070</p>
+<p> Earnings per Average Share		   $0.46	    $0.62</p>
+<p>NOTE: Q1 1997 includes unusual costs of $0.05 per share for merger-related  expenses, corporate restructuring and system conversion.</p>
+<p>Q1 1996 includes unusual costs of 2 cents per share for merger-related expenses.</p>
+<p>((Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SPRINGFIELD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

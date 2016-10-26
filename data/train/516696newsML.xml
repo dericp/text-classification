@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516696" id="root" date="1997-04-17" xml:lang="en">
+<title>UK: Britain's Labour slips in latest opinion poll.</title>
+<headline>Britain's Labour slips in latest opinion poll.</headline>
+<dateline>LONDON 1997-04-17</dateline>
+<text>
+<p>The opposition Labour Party's opinion poll lead has slipped by three points in the past week, narrowing its advantage over the ruling Conservatives to 18 points, a poll for Friday's Independent newspaper showed.</p>
+<p>The Harris poll put support for Labour at 49 percent, down from 52 percent on April 11, while the Conservatives were up one point at 31 percent.</p>
+<p>The minority Liberal Democrats were at 13 percent, up one point.</p>
+<p>The poll also showed that more than a quarter of voters said they may change their mind before the May 1 election. Conservative supporters were more inclined to be waverers than Labour's, with 30 percent saying they may switch by polling day, compared with 17 percent of Labour voters.</p>
+<p>Nearly half of the Liberal Democrats' supporters, 45 percent, said they may change their minds.</p>
+<p>Harris interviewed 1,136 voters face to face in their homes between April 11 and 14.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

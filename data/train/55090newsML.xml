@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="55090" id="root" date="1996-09-16" xml:lang="en">
+<title>USA: US Treasury's 3, 6-mo bills seen at 5.07/5.19 pct.</title>
+<headline>US Treasury's 3, 6-mo bills seen at 5.07/5.19 pct.</headline>
+<dateline>NEW YORK 1996-09-16</dateline>
+<text>
+<p>The U.S. Treasury's sale of $22.0 billion in three- and six-month bills is expected to produce average rates of about 5.07 and 5.19 percent, respectively, dealers said on Monday.</p>
+<p>In when-issued trading before the 1300 EDT/1700 GMT bidding deadline, three-month bills were trading at 5.07 percent, while six-month bills were trading at 5.185 percent.</p>
+<p>-- N.A. Treasury Desk 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

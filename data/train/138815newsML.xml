@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138815" id="root" date="1996-10-23" xml:lang="en">
+<title>FRANCE: Cargo ship breaks up off Corsica, 11 rescued.</title>
+<headline>Cargo ship breaks up off Corsica, 11 rescued.</headline>
+<dateline>PARIS 1996-10-23</dateline>
+<text>
+<p>A Panamanian-registered grain ship which was stuck on rocks off Corsica since last month has broken up in a Mediterrranean storm and the 11 men aboard were rescued by military helicopter, the French air force said on Wednesday.</p>
+<p>The Fenes broke into two but its cargo and fuel had been taken off after the ship hit rocks off the southeast coast of Corsica on October 17.</p>
+<p>The 11 men plucked off the vessel were all Greek workers trying to repair the hold ahead of an attempt to pry the vessel free, the air force said. No one was hurt.</p>
+<p>An air force spokesman said the ship had broken up and its workers rescued last week but the incident was not reported at the time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="482809" id="root" date="1997-04-02" xml:lang="en">
+<title>UK: FEATURE - Banks aim to kill bug before it kills customers.</title>
+<headline>FEATURE - Banks aim to kill bug before it kills customers.</headline>
+<byline>Joe Ortiz</byline>
+<dateline>LONDON 1997-04-02</dateline>
+<text>
+<p>What would a bank do if it woke up one morning and found that all its customers were dead?</p>
+<p>Hopefully it would realise that it was January 1, 2000 but, more hopefully still, it will have taken action to make sure the turn of the millennium does not turn out to be the biggest computer disaster ever.</p>
+<p>It takes something like the &quot;millennium bug' to make people even think about how dependent most of us are on the internal workings of the financial system.</p>
+<p>Doomsday scenarios of what the bug might do go as far as to predict the destruction of the financial system. It's not really a bug at all but purely the fact that up to now computers have represented the date year in two digits rather than four.</p>
+<p>Needless to say, bankers and information technology experts deny any possibility of this with the British banking system insisting it will be &quot;millennium-compatible&quot; by the end of 1998 -- leaving a year for any last minute tweaking.</p>
+<p>Though when questioned about specifics, the answers start to take on a worrying vagueness akin to that seen when they are asked about their preparations for European monetary union (EMU).</p>
+<p>Left unresolved, computers might treat the date January 1, 2000 as January 1, 1900 and if asked to calculate the period between 1995 and 2000 would then come up with the answer &quot;minus 95 years&quot; -- not much use to anyone and potentially dangerous.</p>
+<p>Britain's major banks are busily trying to solve the problem and one of the biggest, NatWest, said recently that it will spend as much as 100 million pounds ($162.8 million) over the next couple of years to get its systems in line.</p>
+<p>But one of the complications in banking and finance is that none of the computer systems work in isolation, they all have to interrelate extensively with systems in other banks and in other companies and with the clearing and payments systems.</p>
+<p>PROBLEMS ALREADY STARTED</p>
+<p>Indeed, the problems have already started, with computers in shops refusing to recognise credit cards with an expiry date after the end of 1999.</p>
+<p>&quot;The main issue that has emerged is that banks are so reliant on each other,&quot; said Will Mason of the British Bankers' Association (BBA). &quot;There is work going on to develop standards for people using networks to be compatible.&quot;</p>
+<p>In Britain, the BACS (bankers' automated clearing system) receives inputs from all sorts of companies. The system processes salary cheques and the payment of bills and dividends, for example.</p>
+<p>Banks have to be sure that corporate customers using this system have their own systems in order and this must all be done by the end of 1998 to leave time for &quot;last-minute&quot; changes.</p>
+<p>Investment banking is, if anything, even more susceptible to date problems as nearly every transaction will carry a value date or involve the difference in price or interest rate between two dates. The potential for problems is huge.</p>
+<p>&quot;The problem is that you're likely to get something that doesn't work properly rather than doesn't work at all,&quot; Mason said. &quot;Which is even worse.&quot;</p>
+<p>DETAILED TASK</p>
+<p>Banks are finding the task of altering their systems a highly detailed piece of work. They have to find out what the system will do in a highly complex series of transactions and then make it do the right thing. They are often using already existing back-up systems to test what might happen on their main system.</p>
+<p>Among other wrinkles that are becoming apparent is that users have been using the date field in a programme to denote things other than just a specific date.</p>
+<p>If for example, loans have no fixed term, this may have been denoted by using &quot;99&quot; in the date box or dead customers may have been denoted by using &quot;00&quot;.</p>
+<p>When we get there, the system will kill-off all the customers.</p>
+<p>A lot of systems in banking are relatively old. They have lasted a lot longer than was originally expected and are often written in computer languages that are no longer much used.</p>
+<p>Many financial institutions are bolstering their own IT capability by using outside sources. This has led to a shortage of capacity and the price of such help has risen sharply.</p>
+<p>But many firms, for example Barclays, have already reserved outside IT capability. It aims to have its millennium project, which it thinks will cost between 60 and 100 million pounds, complete by the middle of 1998.</p>
+<p>&quot;Organisations need to co-operate on this and we are giving our corporate customers as much help as we can,&quot; a Barclays spokesman told Reuters.</p>
+<p>($ = 0.614 British Pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

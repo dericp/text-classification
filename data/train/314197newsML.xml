@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="314197" id="root" date="1997-01-17" xml:lang="en">
+<title>USA: First Midwest Financial Inc Q1 Dec 31 net.</title>
+<headline>First Midwest Financial Inc Q1 Dec 31 net.</headline>
+<dateline>STORM LAKE, Iowa 1997-01-17</dateline>
+<text>
+<p>1996	 1995</p>
+<p> Interest Income				    $7,306     $5,363</p>
+<p> Interest Expense				  (4,289)    (2,960)</p>
+<p> Net Interest Income				 3,017	2,403</p>
+<p> Provision for Loan Losses			 (30)	  (30)</p>
+<p>Net Interest Income After</p>
+<p>  Provision for Loan Losses			2,987	2,373</p>
+<p> Other Income					    407	  323</p>
+<p> Other Expenses				    (1,813)    (1,407)</p>
+<p> Income Before Income Tax			  1,581	1,289</p>
+<p>  Income Tax Expense				 (628)	(512)</p>
+<p> Net Income						953	  777</p>
+<p> EARNINGS PER COMMON SHARE (Fully Diluted)     .49	  .43</p>
+<p>	 (Dollars in Thousands except per share data)</p>
+<p>		  Selected Financial Information</p>
+<p> For the 3 Months Ended December 31,	   1996	 1995</p>
+<p> Return on Average Assets			  1.02%	1.13%</p>
+<p> Return on Average Equity			  8.74%	8.07%</p>
+<p>Avge Shares Outstanding (Fully Diluted) 1,949,157  1,791,433</p>
+<p>	  ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STORM LAKE, Iowa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

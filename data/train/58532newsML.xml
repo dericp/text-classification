@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="58532" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: CBOT rice futures end firmer in thin volume.</title>
+<headline>CBOT rice futures end firmer in thin volume.</headline>
+<dateline>CHICAGO 1996-09-17</dateline>
+<text>
+<p>CBOT rice futures closed firmer in thin volume amid small lot short covering which boosted prices, traders said.</p>
+<p>Traders said rice was oversold last week and continued to recover Tuesday.</p>
+<p>Rice futures volume was estimated at 300 contracts, down from 387 Monday, according to the CBOT.</p>
+<p>Rice futures closed one to four cents per cwt higher, with September up one at $10.14 per cwt. November was up four at $10.14.</p>
+<p>Sam Nelson 312-408-8721</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

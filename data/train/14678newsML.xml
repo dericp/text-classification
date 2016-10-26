@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="14678" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: FHLMC issues $228.5 mln Strip 178.</title>
+<headline>FHLMC issues $228.5 mln Strip 178.</headline>
+<dateline>NEW YORK 1996-08-26</dateline>
+<text>
+<p>The Federal Home Loan Mortgage Corp (Freddie Mac or FHLMC) said it issued strip mortgage-backed securities totaling $228.5 million.</p>
+<p>Underwritten by DLJ Securities Inc, Strip 178 is backed by 7.0 percent 30-year single-family fixed-rate mortgages, FHLMC said.</p>
+<p>It priced August 20 and has a settlement date of September 27, Freddie Mac said.</p>
+<p>--N.A. Treasury Desk, 212-859-1868</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

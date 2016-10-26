@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="737900" id="root" date="1997-07-17" xml:lang="en">
+<title>MALAYSIA: Malaysia rubber market closed for holiday.</title>
+<headline>Malaysia rubber market closed for holiday.</headline>
+<dateline>KUALA LUMPUR 1997-07-17</dateline>
+<text>
+<p>Malaysia's rubber market is closed on Thursday for a Moslem holiday.</p>
+<p>On Wednesday, the August buyer price for the RSS1 was 234 Malaysia/Singapore cents (91 U.S. cents), up three cents from Tuesday. The SMR20 for August buyer stood at 236 cents, up 1.50 cents.</p>
+<p>Traders quoted the SMR20 at 243/244 cents, the SMR10 at 242, SMR5 at 249, SMR CV at 296, SMR L at 278, and drum latex at 194. They said there were hardly reports of trade on Wednesday, with buyers remaining wary of a weak ringgit.</p>
+<p>-- Kuala Lumpur newsroom (603-2014813) ($1=2.5745)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

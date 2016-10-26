@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="346858" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: U.S. EPA's Superfund chief Elliott Laws resigns.</title>
+<headline>U.S. EPA's Superfund chief Elliott Laws resigns.</headline>
+<dateline>WASHINGTON 1997-01-31</dateline>
+<text>
+<p>The U.S. Environmental Protection Agency's assistant administrator for Solid Waste and Emergency Response, Elliott Laws, will leave the agency effective February 14, the EPA said Friday.</p>
+<p>Laws, who guided the Superfund hazardous waste cleanup program, plans to return to his previous position as a partner in the law firm of Patton Boggs LLP, the EPA said.</p>
+<p>Timothy Fields, currently Law's deputy, will serve as acting administrator until a replacement is named, the agency said.</p>
+<p>EPA Administrator Carol Browner in a statement praised Laws as &quot;one of EPA's most effective assistant administrators.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

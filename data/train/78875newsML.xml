@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78875" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: Missouri high court takes up school funding case.</title>
+<headline>Missouri high court takes up school funding case.</headline>
+<dateline>CHICAGO 1996-09-26</dateline>
+<text>
+<p>The Missouri Supreme Court is set to decide whether a 1993 state law that increased state revenues to funnel more money to public schools was constitutional.</p>
+<p>Oral arguments were held this week on the lawsuit, which was brought by Todd Akin, a Republican state lawmaker from the St. Louis area and which was dismissed earlier this year by a Cole County Circuit Court judge.</p>
+<p>Akin said the law violated the state constitution because it contained a contigency clause for a referendum on the $320 million revenue increase and because it covered more than one subject.</p>
+<p>The Missouri Attorney General's Office, which is representing Janet Lohman, the state's revenue director, who was named as the defendant in the lawsuit, argued that the law was constitutional, according to John Munich, deputy attorney general for litigation.</p>
+<p>The law included changes in the state's corporate and individual income taxes, and in the state's foundation funding formula for schools. The law also contained educational reform measures, he said.</p>
+<p>Munich said legislators passed the law in the wake of a Cole County Circuit Court ruling that found Missouri's system of funding schools to be unconstitutional.</p>
+<p>While that lawsuit is still winding it way through Missouri courts, lawmakers inserted a provision into the 1993 law calling for a referendum on the income tax changes should the state's previous school funding system be ultimately found to be constitutional, he added.</p>
+<p>Munich said the state's constitution does not prohibit the legislature from enacting legislation that contains a contigency. As for the charge the law contains multiple subjects, Munich said the law is aimed at one purpose -- improving education in Missouri.</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

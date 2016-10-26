@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82999" id="root" date="1996-09-27" xml:lang="en">
+<title>SWITZERLAND: Swiss Q1 industry orders fall 1.0 pct yr/yr.</title>
+<headline>Swiss Q1 industry orders fall 1.0 pct yr/yr.</headline>
+<dateline>BERNE 1996-09-27</dateline>
+<text>
+<p>Orders received by Swiss industrial companies in the first quarter of 1996 fell 1.0 percent year-on-year, the Federal Statistics Office said on Friday.</p>
+<p>The figures, which exclude construction, reflect for the first time a revised system of collecting data that is now based on NOGA international norms, the office said. The new indices for production, order inflow, sales and inventory are based on the 1995 average.  </p>
+<p>					 Q1 96    Q4 95    Q1 95</p>
+<p> Pct change yr/yr		  - 1.0    - 5.0    + 2.0</p>
+<p> Index (1995 average=100)	101.7	99	103</p>
+<p>Domestic orders</p>
+<p> Pct change yr/yr		  - 2.0     N.A.     N.A.</p>
+<p>Foreign orders</p>
+<p> Pct change yr/yr		  - 3.0     N.A.     N.A.</p>
+<p>-- Zurich newsroom +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

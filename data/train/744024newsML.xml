@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744024" id="root" date="1997-07-21" xml:lang="en">
+<title>GERMANY: Buba revises down May Pan-German industry orders.</title>
+<headline>Buba revises down May Pan-German industry orders.</headline>
+<dateline>BONN 1997-05-22</dateline>
+<text>
+<p>The Bundesbank provided the following revised index figures:</p>
+<p>    PAN-GERMAN INDUSTRY ORDERS   May 97	   Apr 97</p>
+<p> Month-on-month change(pct)	 -1.4	     +3.6</p>
+<p> Year-on-year (pct)		   +5.1	     +6.9</p>
+<p> Index (base 1991)		   101.9 (102.6)  103.3 (103.4)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

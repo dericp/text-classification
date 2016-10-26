@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="443956" id="root" date="1997-03-14" xml:lang="en">
+<title>CANADA: Canada Customs can now detain and arrest criminals.</title>
+<headline>Canada Customs can now detain and arrest criminals.</headline>
+<dateline>TORONTO 1997-03-13</dateline>
+<text>
+<p>Canadian Customs officers will now arrest and detain criminal code offenders to help stop the flow of criminals across the country's borders, under legislation introduced on Thursday.</p>
+<p>&quot;Giving customs officers the capability to hold suspected drunk drivers, child abductors, and other potentially dangerous individuals until police arrive will increase their abiltily to provide Canadians with safe streets and safe communities,&quot; Revenue Minister Jane Stewart said in a statement.</p>
+<p>Previously, customs officers could only detain and arrest offenders under the Customs Act, such as those carrying illegal drugs, firearms and contreband.</p>
+<p>They will now work with the police, acting as a &quot;first response&quot; against criminal offenders entering the country. The officers will not carry firearms.</p>
+<p>According to Revenue Canada customs officers, there were 172 incidences involving child abduction at Canadian ports of entry over the last three years. Other encounters included: 1,591 individuals subjected to arrest warrants, 363 in possession of stolen property and 7,328 suspected impaired drivers.</p>
+<p>Officers will be allowed to administer road-side screening tests for alleged impaired drivers.</p>
+<p>((Reuters Toronto bureau 416-941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

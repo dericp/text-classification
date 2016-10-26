@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="160336" id="root" date="1996-11-01" xml:lang="en">
+<title>INDIA: Indian July industrial output up 8.7 pct yr/yr.</title>
+<headline>Indian July industrial output up 8.7 pct yr/yr.</headline>
+<dateline>NEW DELHI 1996-11-01</dateline>
+<text>
+<p>India's index of industrial production increased by 8.7 percent in July over the same month in 1995, the government said on Friday.</p>
+<p>    INDUSTRIAL PRODUCTION     Jul 96    Jun 96    Jul 95</p>
+<p>    Year-on-year change	  +8.7	+9.6	+8.9</p>
+<p>     -Mining			 +0.1	-1.6     +13.5</p>
+<p>     -Manufacturing	     +10.9     +13.6	+7.6</p>
+<p>     -Electricity		  +3.2	-1.7     +12.3</p>
+<p>    Index (base 100=1980/81)  285.1     279.6     262.3</p>
+<p>Note - Figures for July 1996 are preliminary. Figures for June 1996 have been revised.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

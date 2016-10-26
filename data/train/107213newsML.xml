@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107213" id="root" date="1996-10-10" xml:lang="en">
+<title>CANADA: Teknor to make initial public offering of shares.</title>
+<headline>Teknor to make initial public offering of shares.</headline>
+<dateline>MONTREAL 1996-10-10</dateline>
+<text>
+<p>Teknor Industrial Computers Inc said on Thursday that it filed a preliminary prospectus for an initial public offering of common shares with the securities commission of each Canadian province.</p>
+<p>The total offering will amount to about C$40 million, the company said.</p>
+<p>Teknor designs and manufactures high-end industrial computer boards and systems for major original equipment makers, the company said. Its sales for the year ending November 30 are forecast at C$33.3 million, with earnings before interest, income taxes, depreciation and amortization at C$5.7 million, it said.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

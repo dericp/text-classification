@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653664" id="root" date="1997-06-11" xml:lang="en">
+<title>FRANCE: Loser challenges election of France's Guigou.</title>
+<headline>Loser challenges election of France's Guigou.</headline>
+<dateline>PARIS 1997-06-11</dateline>
+<text>
+<p>The candidate defeated by France's new Socialist Justice Minister Elisabeth Guigou in last week's National Assembly elections argued on Wednesday that the result should be overturned.</p>
+<p>Marie-Jose Roig, the Gaullist mayor and sitting deputy for the southern town of Avignon, asked the Constitutional Council to annul the election on the grounds that Guigou received unfairly wide media coverage.</p>
+<p>Roig said Guigou, because of her high national profile, was given a total of 10 hours on television and radio stations in the month before the June 1 poll, a coverage which she, as a local politician, could not enjoy.</p>
+<p>She also alleged that there were some iregularities that could have reversed the close vote, which Guigou won by the slim margin of 0.6 percent.</p>
+<p>Guigou, a former European affairs minister, was not immediately available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

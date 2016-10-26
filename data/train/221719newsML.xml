@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221719" id="root" date="1996-11-27" xml:lang="en">
+<title>JAPAN: BOJ governor to visit Osaka and Nagoya next week.</title>
+<headline>BOJ governor to visit Osaka and Nagoya next week.</headline>
+<dateline>TOKYO 1996-11-27</dateline>
+<text>
+<p>Bank of Japan (BOJ) Governor Yasuo Matsushita will visit Osaka and Nagoya next Monday and Tuesday to meet business executives, the BOJ said on Wednesday.</p>
+<p>Matsushita will give a news conference at 1.30 p.m. (0430 GMT) on Monday in Osaka, the BOJ said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

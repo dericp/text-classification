@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="477541" id="root" date="1997-03-31" xml:lang="en">
+<title>GERMANY: Right-wing extremists attack German youth clubs.</title>
+<headline>Right-wing extremists attack German youth clubs.</headline>
+<dateline>BERLIN 1997-03-31</dateline>
+<text>
+<p>Around 60 suspected right-wing extremists attacked guests at a youth club in the east German city of Chemnitz, injuring six people, police said on Monday.</p>
+<p>A police spokesman said the attackers had rampaged through the club, a favourite meeting place for members of the city's alternative scene, late on Sunday night. Police temporarily detained 17 people aged between 16 and 31.</p>
+<p>Extremists armed with clubs also targeted a youth centre in the eastern city of Erfurt on Sunday.</p>
+<p>Ten attackers pelted the building with stones and tried to force their way into the club in the early hours of the morning. Eight people were detained and no one was injured, police said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

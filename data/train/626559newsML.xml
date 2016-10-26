@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="626559" id="root" date="1997-05-30" xml:lang="en">
+<title>BRAZIL: Japanese Emporer Akihito due to arrive in Brazil.</title>
+<headline>Japanese Emporer Akihito due to arrive in Brazil.</headline>
+<dateline>BRASILIA 1997-05-30</dateline>
+<text>
+<p>Japanese Emporer Akihito and Empress Michiko begin a two-week visit to Brazil and Argentina on Saturday with a boat trip on the mighty Amazon River, officials said on Friday.</p>
+<p>The imperial couple will start their visit in Belem, a crumbling, colonial city at the mouth of the Amazon, before meeting Brazilian President Fernando Henrique Cardoso in the capital Brasilia on Monday, they said.</p>
+<p>In each of the six Brazilian cities on their route, they are scheduled to meet representatives of Japanese commununities which have flourished since migrant workers arrived earlier this century to work in the coffee fields. Brazil has the world's largest overseas Japanese community.</p>
+<p>In Sao Paulo, the main financial and industrial centre, the couple are scheduled to visit the Liberdade neighbourhood, known for its Japanese markets and restaurants, before watching a soccer match.</p>
+<p>Brazil and Japan are big trading partners with two-way exchanges of $6.5 billion in 1995. Japan also provides Brazil with technical and financial assistance for a range of agricultural, energy and environmental projects.</p>
+<p>The Japanese imperial couple are due to fly to Buenos Aires on June 9 for a three-day visit to Argentina.</p>
+<p>Throughout their trip, they will be protected by Japanese police rather than the imperial guards traditionally used on foreign visits -- a sign of heightened security concerns in Japan following the four-month hostage drama at the Japanese ambassador's residence in Peru.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

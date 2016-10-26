@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="145811" id="root" date="1996-10-26" xml:lang="en">
+<title>USA: U.S. aircraft shipments up 2.4 pct in Jan-Sept.</title>
+<headline>U.S. aircraft shipments up 2.4 pct in Jan-Sept.</headline>
+<dateline>WASHINGTON 1996-10-25</dateline>
+<text>
+<p>U.S. aircraft shipments rose 2.4 percent to 730 planes in the first three quarters of 1996 from 713 shipped in the same period of 1995, the General Aviation Manufacturers Association (GAMA) said Friday.</p>
+<p>GAMA president Edward Stimpson said the fourth quarter was expected to be the strongest of the year.</p>
+<p>&quot;We look forward to a solid year with a strong fourth quarter for manufacturers in 1996,&quot; he said.</p>
+<p>&quot;Although shipments appear slightly lower for the third quarter of this year, fourth quarter shipments and billings will be the strongest delivery period of the year as industry revitalization continues.&quot;</p>
+<p>Billings for the industry totaled $1.97 billion in the first nine months of 1996, up 2.8 percent from $1.92 billion in the first three quarters of 1995.</p>
+<p>Deliveries of total piston engine aircraft remained steady at 382 units, while turboprop deliveries rose 18 percent to 197 units. Turbojet shipments totaled 151, down from 164 in the same period of 1995.</p>
+<p>Overall export shipments through the third quarter of 1996 rose 4.8 percent to 217 units from 207 in the same 1995 period. Year to date billings fell 12.8 percent to $486 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

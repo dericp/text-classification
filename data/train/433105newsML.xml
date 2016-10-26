@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="433105" id="root" date="1997-03-11" xml:lang="en">
+<title>BRAZIL: Brazilian soybean and product market.</title>
+<headline>Brazilian soybean and product market.</headline>
+<dateline>SAO PAULO 1997-03-11</dateline>
+<text>
+<p>Brokers reported the following Brazilian soybean and products basis levels on March 10.</p>
+<p>(NB - no buyer T-Trade P-Premium D-Discount)</p>
+<p> SHIPMENT	   BASIS	 MONTH		PREV</p>
+<p>Soybean (cents per bushel)</p>
+<p>Fob Paranagua</p>
+<p> 15 Mar-15 Apr   15/8 D	 15 Mar-15 Apr     4/2 D</p>
+<p> April	    16/10 D	 April		10/4 D</p>
+<p> May		20/10 D	 May		  14/8 D</p>
+<p> July		10/4 D	 July		6 D/1 P</p>
+<p> August	 even/15 P	 August		n/a</p>
+<p> SHIPMENT	   BASIS	 MONTH	   PREV</p>
+<p>Soymeal/Pellets (dollars per short tonne 48 pct profat)</p>
+<p>Fob Paranagua</p>
+<p> April	     11/9 D	 March		10/8 D</p>
+<p> May		19/17 D	 May		 18/17 D</p>
+<p> July	     20/17 D	 July		20/17 D</p>
+<p> August	   12/10 D	 August	  15.5/12 D</p>
+<p> SHIPMENT	   BASIS	 MONTH	   PREV</p>
+<p>Soybean Oil (dollars per tonne, points per lb, crude, degummed)</p>
+<p>Fob Paranagua</p>
+<p> April	  240/220 D	 April	   200/170 D</p>
+<p> May	    270/250 D	 May	     210/200 D</p>
+<p> July	   270/250 D	 July	    250/210 D</p>
+<p> August	   n/a	     August	  250/210 D</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

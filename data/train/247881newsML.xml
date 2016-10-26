@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="247881" id="root" date="1996-12-10" xml:lang="en">
+<title>SOUTH KOREA: Hyundai breaks ground for Indian plant.</title>
+<headline>Hyundai breaks ground for Indian plant.</headline>
+<dateline>SEOUL 1996-12-10</dateline>
+<text>
+<p>Hyundai Motor Co Ltd, South Korea's largest car maker, said on Tuesday it has broken the ground for construction of its $1.1 billion passenger car plant in India.</p>
+<p>The plant, in Chennai, Tamil Nadu state, will have an annual capacity of 200,000 units by the year 2001, Hyundai said in a statement.</p>
+<p>The plant will begin production in October 1998 and has a capacity of 120,000 units.</p>
+<p>The statement said the plant, named &quot;Hyundai Motor India Chennai Plant,&quot; will be equipped with facilities for parts production, a research centre and a proving ground.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

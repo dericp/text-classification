@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756190" id="root" date="1997-07-25" xml:lang="en">
+<title>UK: Societe Generale sets 12 bln yen 3-tranche bond.</title>
+<headline>Societe Generale sets 12 bln yen 3-tranche bond.</headline>
+<dateline>LONDON 1997-07-25</dateline>
+<text>
+<p>The following three-tranche bond</p>
+<p>was announced by lead manager Nikko Europe.</p>
+<p> BORROWER   SOCIETE GENERALE ACCEPTANCE</p>
+<p>ISSUE A</p>
+<p> AMT    2.2 BLN YEN   COUPON    *1.0	 MATURITY    27.MAR.03</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE  S-28.JUL.97</p>
+<p> FULL FEES  1.162     PAY FREQ   SEMI-ANN</p>
+<p> NOTES	*ADDITIONAL VARIABLE INTEREST PAYS ANNUALLY ON</p>
+<p>		 MARCH 27.</p>
+<p>		 S-SHORT FIRST COUPON.</p>
+<p>* * * * *</p>
+<p>ISSUE B</p>
+<p> AMT   3.07 BLN YEN   COUPON    *1.0	 MATURITY    29.JUL.03</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE  S-28.JUL.97</p>
+<p> FULL FEES  1.162     PAY FREQ   SEMI-ANN</p>
+<p> NOTES	*ADDITIONAL VARIABLE INTEREST PAYS ANNUALLY ON</p>
+<p>		 MARCH 27.</p>
+<p>		 S-SHORT FIRST COUPON AND SHORT LAST COUPON.</p>
+<p>* * * * *</p>
+<p>ISSUE C</p>
+<p> AMT   6.73 BLN YEN   COUPON    *1.2	 MATURITY    29.JUL.03</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE  S-28.JUL.97</p>
+<p> FULL FEES  1.323     PAY FREQ   SEMI-ANN</p>
+<p> NOTES	*ADDITIONAL VARIABLE INTEREST PAYS ANNUALLY ON</p>
+<p>		 MARCH 27.</p>
+<p>		 S-SHORT FIRST COUPON AND SHORT LAST COUPON.</p>
+<p>COMMON TERMS:</p>
+<p> LISTING    NONE	DENOMS (M) 10	  SALE LIMS US/UK/FR/JP</p>
+<p> NEG PLG    YES	 CRS DEFLT  NO	  FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   TAX PROVS  STANDARD</p>
+<p> NOTES	ADDITIONAL VARIABLE INTERESTS ARE LINKED TO</p>
+<p>PERFORMANCE</p>
+<p>		OF LONGCHAMP FUND PLC.</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

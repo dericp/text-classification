@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35176" id="root" date="1996-09-05" xml:lang="en">
+<title>USA: Packard Bell resolves recycled computer dispute.</title>
+<headline>Packard Bell resolves recycled computer dispute.</headline>
+<dateline>SACRAMENTO, Calif.</dateline>
+<text>
+<p>Packard Bell said Thursday it has agreed to pay more than $5 million to settle charges by the federal government and 22 states that it sold computers as new when they contained recycled parts.</p>
+<p>Without admitting wrongdoing, the Sacramento, Calif.-based company agreed to pay $3.5 million to the federal government, and $70,000 in attorney fees and investigative costs to each of the 22 states involved in the settlement.</p>
+<p>No payments will be made to consumers, a Packard Bell spokesman said.</p>
+<p>The company has agreed that if it sells a new computer which includes components that had been used in a previously sold computer, it would provide information on the outside of the carton that the product &quot;may include components from a previously sold computer.&quot; The settlement affects computers first marketed after Dec. 31.</p>
+<p>Retailers also will be provided with informational materials for use with consumers.</p>
+<p>&quot;In addition, such components must be covered by the Packard Bell original product warranty for new products,&quot; Pennsylvania Attorney General Tom Corbett said.</p>
+<p>The agreement resulted from the examination by the attorneys general of industrywide practices involving the recycling of components from personal computers returned to manufacturers under liberal refund policies extended by retailers.</p>
+<p>A significant percentage of these returns are products which have never been opened or turned on, Packard Bell said. Retailers accept the returns and sometimes return them to the manufacturer.</p>
+<p>The settlement acknowledges Packard Bell's position that the recycling of components from returned personal computers has been a common practice among major personal computer manufacturers.</p>
+<p>The quality of properly disassembled and retested components are functionally equivalent or superior to &quot;new&quot; components, the company said.</p>
+<p>States involved in the agreement are Arizona, Arkansas, California, Connecticut, Delaware, Florida, Illinois, Indiana, Kentucky, Louisiana, Massachusetts, Michigan, Missouri, New Jersey, New Mexico, New York, Pennsylvania, Ohio, Oregon, Texas, West Virginia and Vermont.</p>
+<p>Packard Bell said it also agreed to settle a lawsuit by a private party in Los Angeles federal court involving recycled parts in personal computers sold through military post exchanges and to government agencies.</p>
+<p>The settlement remains subject to final government and court approval.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

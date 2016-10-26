@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163788" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: PRESALE - Boston, Mass..</title>
+<headline>PRESALE - Boston, Mass..</headline>
+<text>
+<p>AMT: 90,000,000     DATE: 11/13/96	NYC Time: 1100     CUSIP: 100852</p>
+<p>ISSUER: Boston							   ST: MA</p>
+<p>ISSUE: General obligation, 1996 Series A			 TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							 BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None						     BANK QUAL: N</p>
+<p>DTD: 11/15/96							    SURE BID: Y</p>
+<p>DUE: 11/1/97-16					     SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: 11/1/06 @ par					 TIC</p>
+<p>DELIVERY: 11/26/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: City Collector-Treasurer's Office, Boston</p>
+<p>L.O.: Palmer &amp; Dodge, Boston</p>
+<p>F.A.: Evensen Dodge, Inc., Boston</p>
+<p>LAST SALE: $75,000,000 10/3/95 @ 5.2983% TIC; 9yrs 5mos Avg; BBI-6.00%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		  7,200,000</p>
+<p>1998		  7,200,000</p>
+<p>1999		  7,200,000</p>
+<p>2000		  7,200,000</p>
+<p>2001		  7,200,000</p>
+<p>2002		  5,400,000</p>
+<p>2003		  5,400,000</p>
+<p>2004		  5,400,000</p>
+<p>2005		  5,400,000</p>
+<p>2006		  5,400,000</p>
+<p>2007		  2,900,000</p>
+<p>2008		  2,900,000</p>
+<p>2009		  2,900,000</p>
+<p>2010		  2,900,000</p>
+<p>2011		  2,900,000</p>
+<p>2012		  2,500,000</p>
+<p>2013		  2,500,000</p>
+<p>2014		  2,500,000</p>
+<p>2015		  2,500,000</p>
+<p>2016		  2,500,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

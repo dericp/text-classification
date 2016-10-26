@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288817" id="root" date="1997-01-06" xml:lang="en">
+<title>MALTA: Maltese ecologists strike against Hilton. [corrected 01:00 gmt 7/1]</title>
+<headline>Maltese ecologists strike against Hilton. [corrected 01:00 gmt 7/1]</headline>
+<dateline>VALLETTA 1997-01-06</dateline>
+<text>
+<p>Three Maltese environmentalists on Monday started a hunger strike to protest the building of a new Hilton hotel near Valletta.</p>
+<p>The protesters, camping outside the prime minister's office in Valletta, say the new site will spoil the marina.</p>
+<p>Hilton has demolished its existing 30 year-old hotel to replace it by a $100 million complex in Saint Julians, four miles north of Valletta.</p>
+<p>The hunger strike was the latest in a series of protests by the environmentalists against the planned hotel, which is owned by a group of Maltese businessmen. (Corrects to show hotel is not owned by Hilton Hotels Corp.)</p>
+<p>Some ecologists nearly drowned during the summer after they chained themselves in the sea to a barge being used to transport rubble from the development site.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

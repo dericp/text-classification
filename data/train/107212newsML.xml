@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107212" id="root" date="1996-10-10" xml:lang="en">
+<title>CANADA: Stone-Consolidated stops a paper machine.</title>
+<headline>Stone-Consolidated stops a paper machine.</headline>
+<dateline>MONTREAL 1996-10-10</dateline>
+<text>
+<p>Stone-Consolidated Corp said on Thursday that it would stop operations of its No. 6 paper machine at its Wayagamack mill in Trois-Rivieres, Quebec on October 19 for an undetermined period.</p>
+<p>The shutdown resulted from market conditions and would not affect other production units at the mill. The 120-inch wide machine has a daily production capacity of about 100 metric tonnes and was refurbished in 1994 to produce paper used for bags in the fast-food industry.</p>
+<p>Although all of the machine will remain in place, the company said it would review options, including the definite closing of the unit.</p>
+<p>-- Reuters Montreal bureau (514) 985-2434</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219638" id="root" date="1996-11-27" xml:lang="en">
+<title>CANADA: UGG details Canada flax supply and dispositions.</title>
+<headline>UGG details Canada flax supply and dispositions.</headline>
+<dateline>WINNIPEG 1996-11-27</dateline>
+<text>
+<p>United Grain Growers Ltd on Wednesday issued its supply and disposition estimates for Canadian flax in the 1996/97 (Aug/July) crop year.</p>
+<p>SUPPLY     96/97 Est.  95/96 Est.  5-yr-avg ('000 tonnes)</p>
+<p>open stocks  145	   100	   259</p>
+<p>output	 837	 1,097	   731</p>
+<p>total:	 982	 1,197	   990</p>
+<p>USE</p>
+<p>exports	715	   845	   639</p>
+<p>seed	    35	    26	    26</p>
+<p>domstc disp.  90	   181	   109</p>
+<p>total:	 840	 1,052	   774</p>
+<p>CARRYOVER    142	   145	   216</p>
+<p>-- Gilbert Le Gras 204 947 3548</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

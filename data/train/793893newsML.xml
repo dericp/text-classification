@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="793893" id="root" date="1997-08-12" xml:lang="en">
+<title>MONGOLIA: MONGOLIA UNEMPLOYMENT UP 24.84 PCT END-JULY YR/YR.</title>
+<headline>MONGOLIA UNEMPLOYMENT UP 24.84 PCT END-JULY YR/YR.</headline>
+<dateline>ULAN BATOR 1997-07-12</dateline>
+<text>
+<p>Mongolia's unemployment rate soared 24.84 percent at the end of July from a year ago, according to official statistics available on Tuesday.</p>
+<p>The number of unemployed reached 64,889 at end-July compared with 51,976 during the same period last year, the State Statistical Bulletin showed.</p>
+<p>The figure rose 17.12 percent from the start of the year, when unemployment totalled 55,405.</p>
+<p>The number of unemployed included only those registered with local employment offices.</p>
+<p>&quot;There are a large number of unregistered unemployed persons. Therefore data on unemployment is less than the actual situation,&quot; the bulletin said.</p>
+<p>State statistics for 1996 showed the number of able-bodied people of working age was 1,086,700, of whom 791,800 were employed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MONGLA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ULAN BATOR"/>
+<dc element="dc.creator.location.country.name" value="MONGOLIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

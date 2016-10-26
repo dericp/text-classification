@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="258315" id="root" date="1996-12-16" xml:lang="en">
+<title>Turkmenistan: Turkmens to get 400,000 tonne/per year steel plant.</title>
+<headline>Turkmens to get 400,000 tonne/per year steel plant.</headline>
+<dateline>ASHGABAT 1996-12-16</dateline>
+<text>
+<p>Two Turkish firms plan to build a steel plant in Turkmenistan with a capacity of 400,000 tonnes of rolled products a year, the former Soviet republic's state news agency Turkmen-Press said on Monday.</p>
+<p>It said Turkey's Export-Import Bank would provide an $80 million credit for the facility, to be built by Turkish companies Asmash and Genay next to a hydro-electric power station near the desert nation's eastern city of Mary.</p>
+<p>The agency gave no details on the technology to be used at the plant, which will process steel scrap to produce building materials and pipes.</p>
+<p>Turkmenistan will pay back the loan for the plant, the first of its kind in the republic, with finished steel products, according to Turkmen officials.</p>
+<p>--Almaty Newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURKM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASHGABAT"/>
+<dc element="dc.creator.location.country.name" value="TURKMENISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

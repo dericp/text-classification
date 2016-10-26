@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="385979" id="root" date="1997-02-18" xml:lang="en">
+<title>BELGIUM: EU plans to ground faulty third-country aircraft.</title>
+<headline>EU plans to ground faulty third-country aircraft.</headline>
+<dateline>BRUSSELS 1997-02-18</dateline>
+<text>
+<p>The European Commission has agreed draft plans requiring EU countries to step up safety checks on commercial aircraft using their airports and to ground any found to be breaking international rules.</p>
+<p>&quot;The proposal was agreed yesterday...,&quot; a European Commission spokesman told Reuters on Tuesday.</p>
+<p>Proposals include draft rules for harmonised safety checks on third-country aircraft and a data-exchange system to alert other EU countries to the possible dangers posed by aircraft from any particular company or state.</p>
+<p>&quot;Recent experience has shown that carriers from third countries do not always apply the minimum international safety standards while having access to (European) Community airports,&quot; said a text of the proposal seen by Reuters.</p>
+<p>&quot;In order to address this problem, some member states already carry out ramp inspections of foreign aircraft but in an isolated manner. The purpose of this directive is to extend this practice to the whole (European) Community territory,&quot; it added.</p>
+<p>EU plans for mandatory checks were lent added urgency last February, when a Boeing 757 crashed into the sea after take-off from the Dominican Republic, killing all 189 people on board.</p>
+<p>The aircraft, which was leased to Dominican national airline Alas Nacionales by Turkish carrier Birgenair, was mainly carrying German tourists.</p>
+<p>The proposal, which requires agreement by EU governments and the European Parliament before it can come into force, should be finally agreed by December, the text said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

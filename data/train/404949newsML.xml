@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404949" id="root" date="1997-02-26" xml:lang="en">
+<title>INDIA: India sees 9.0 bln rupees private rail investment.</title>
+<headline>India sees 9.0 bln rupees private rail investment.</headline>
+<dateline>NEW DELHI 1997-02-26</dateline>
+<text>
+<p>India expects to raise nine billion rupees ($251.4 million) through private investment in its railways network in 1997/98 (April-March), against 5.3 billion in the current 1996/97, Railway Minister Ram Vilas Paswan said on Wednesday.  </p>
+<p>The private investment would be under the build-own-lease-transfer (BOLT) or the own-your-wagon (OYW) schemes, Paswan told parliament while presenting the railway budget for 1997/98.</p>
+<p>The schemes were launched under India's economic reforms programme that started in 1991 to fund a cash-starved Indian railways.</p>
+<p>The BOLT scheme involves building railway facilities that are ultimately transferred to the government. Under OYW, private firms buy wagons on which they carry their goods on state-run railway tracks. ($1 = 35.8 rupees)</p>
+<p>--New Delhi newsroom, +91-11-3012024</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

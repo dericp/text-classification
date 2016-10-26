@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="625569" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: RESEARCH ALERT-Morgan ups National Steel.</title>
+<headline>RESEARCH ALERT-Morgan ups National Steel.</headline>
+<dateline>PITTSBURGH 1997-05-30</dateline>
+<text>
+<p>J.P. Morgan steel analyst Mike Gambardella said he raised his second-quarter earnings estimate on National Steel Corp to $0.86 per share from $0.72.</p>
+<p>-- also raised his full-year estimate for 1997 to $2.40 per share from $1.90.</p>
+<p>-- cited acceleration of the company's cost-containment efforts.</p>
+<p>-- said National's shipments for both the second quarter and full year should achieve record levels.</p>
+<p>-- shares were up 3/8 to 13-1/4 in afternoon trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

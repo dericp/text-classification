@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="223688" id="root" date="1996-11-28" xml:lang="en">
+<title>SWITZERLAND: Baxter, Immuno deal delayed.</title>
+<headline>Baxter, Immuno deal delayed.</headline>
+<dateline>ZURICH 1996-11-28</dateline>
+<text>
+<p>Baxter International Inc will delay a previously announced public offer for Immuno International AG until January because the deal has not yet been approved by the U.S. Federal Trade Commission, the companies said in a statement.</p>
+<p>In addition, Immuno Finance Ltd will delay until 1997 an offer for its 75 million Swiss franc issue of 3-1/2 percent convertible bonds due 1998.</p>
+<p>Baxter announced the $715 million deal to acquire Immuno, a maker of blood products used in transfusions, in August.</p>
+<p>Baxter had intended to launch the offer in the second half of November, pending the U.S. regulatory approval.</p>
+<p>-- Zurich Editorial +41 1 631  7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

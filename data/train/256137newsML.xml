@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256137" id="root" date="1996-12-13" xml:lang="en">
+<title>GERMANY: German, Swiss bourses found strategic alliance.</title>
+<headline>German, Swiss bourses found strategic alliance.</headline>
+<dateline>FRANKFURT 1996-12-13</dateline>
+<text>
+<p>The German and Swiss stock exchanges agreed on Friday to set up a Zurich-based joint venture company as the basis for a future strategic alliance in futures and options trading, Deutsche Boerse AG said.</p>
+<p>In a statement, Deutsche Boerse AG said the exchanges wanted to set up a joint technical platform for futures and options trading, enabling them to integrate their existing futures trading and clearing systems as soon as possible.  </p>
+<p>The new company will be based in Zurich, the statement said, adding that the move made particular sense as the German and Swiss financial communities were similar in terms of structure and other conditions.</p>
+<p>Deutsche Boerse said the German futures and options exchange, the DTB and its Swiss counterpart, SOFFEX, already ran on systems based on similar technology. Combining their systems would save costs and accelerate the development of new products.</p>
+<p>Deutsche Boerse AG and Switzerland's exchange, SWX, will have equal shares in the new company, which will take over SWX's role in a co-operation agreed in September with the Chicago Board Options Exchange (CBOE) and the Option Clearing Corporation (OCC).</p>
+<p>The key part of that agreement was the planned introduction of OCC's new NxTracs clearing system at SOFFEX while CBOE also wants to use SOFFEX trading software for particular options. The partners in the agreement also planned to develop a brand new trading system at some stage in the future.</p>
+<p>&quot;The co-operation brings three of the world's leading futures and options markets together with the world's largest clearing organisation,&quot; said Deutsche Boerse in a statement.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

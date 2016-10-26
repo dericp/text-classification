@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="221637" id="root" date="1996-11-27" xml:lang="en">
+<title>HONG KONG: Philippine Airlines to set US$100 mln FRN.</title>
+<headline>Philippine Airlines to set US$100 mln FRN.</headline>
+<dateline>HONG KONG 1996-11-27</dateline>
+<text>
+<p>Philippine Airlines has mandated AB Capital Markets and Deutsche Morgan Grenfell to arrange a US$100 million floating rate note issue, bankers said.</p>
+<p>The issue will be formally launched on December 4.</p>
+<p>BORROWER  PHILIPPINE AIRLINES</p>
+<p> AMOUNT    US$100 MLN  COUPON    6ML+200 BP  MATURITY  3 YRS</p>
+<p> TYPE	FRN	   ISS PRICE PAR	   LAUNCH    04.DEC.96</p>
+<p> PUTS	NONE	  CALLS     NONE	  REPLIES   2 WKS</p>
+<p> LISTING   LUXEMBOURG  REPAYMENT BULLET	DENOM  100/250/500K</p>
+<p> RATINGS   --	    SALE LMTS STANDARD    TAX PROV  --</p>
+<p> NEG PLG   YES	   CRS DEF   YES	   FORCE MAJ YES</p>
+<p> HOME CTRY PHILIPPINES GOV LAW   ENGLISH     PAY DATE  JAN.97</p>
+<p>MGT LEVELS AND FEES</p>
+<p>	  SENIOR CO-LEAD MGRS  US$15 MLN   75 BP ALL-IN 225   BP</p>
+<p>	  CO-LEAD MGRS	   US$10-15 MLN 50 BP ALL-IN 216.6 BP</p>
+<p>	  SENIOR MGRS	    US$5-10 MLN  30 BP ALL-IN 210   BP</p>
+<p>	  MANAGERS		  US$5 MLN    15 BP ALL-IN 205   BP</p>
+<p>ARRANGERS AB CAPITAL MARKETS AND DEUTSCHE MORGAN GRENFELL</p>
+<p>-- Hong Kong Newsroom (852) 2847 4039</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="687770" id="root" date="1997-06-25" xml:lang="en">
+<title>VIETNAM: Vietnam yr-yr inflation up 2.1 pct in June.</title>
+<headline>Vietnam yr-yr inflation up 2.1 pct in June.</headline>
+<dateline>HANOI 1997-06-25</dateline>
+<text>
+<p>Vietnam's General Statistics</p>
+<p>Office issued the following economic indicators on Wednesday:</p>
+<p> VIETNAM CONSUMER PRICES	   June 97     May 97     June 96</p>
+<p>Month-on-month percentage change +0.1 -0.5 -0.5 Year-on-year</p>
+<p>percentage change +2.1 +1.6 +4.6 Index (base 100 = prev. Dec)</p>
+<p>101.1 101.0 103.3</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

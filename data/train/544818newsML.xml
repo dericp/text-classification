@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544818" id="root" date="1997-04-28" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde April 28.</title>
+<headline>PRESS DIGEST - France - Le Monde April 28.</headline>
+<dateline>PARIS 1997-04-28</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- Ruling coalition parties RPR and UDF to agree on joint electoral platform reaffirming need to hold public spending in constant francs, cut labour charges, fight unemployment and join European monetary union on January 1, 1999.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Air France Europe, formerly Air Inter, still affected by pilots' strike against terms of integration into the Air France group.</p>
+<p>-- Pilots at British Airways unit TAT vote to resume flying on April 26, while other staff at TAT and Air Liberte carry on with strike.</p>
+<p>-- European gas deregulation process expected to be blocked by upcoming French parliamentary election.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

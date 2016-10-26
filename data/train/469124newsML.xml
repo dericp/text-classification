@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="469124" id="root" date="1997-03-26" xml:lang="en">
+<title>MEXICO: Mexico adds new charge against Raul Salinas - report.</title>
+<headline>Mexico adds new charge against Raul Salinas - report.</headline>
+<dateline>MEXICO CITY 1997-03-26</dateline>
+<text>
+<p>Mexican authorities have added money-laundering to a string of charges against the jailed brother of former President Carlos Salinas, media reports said on Wednesday.</p>
+<p>Mexico City daily Reforma said the attorney general's office brought the charges against Raul Salinas to a Mexico City judge. The report did not say when they were brought.</p>
+<p>A spokesman at the attorney general's office told Reuters she could neither confirm nor deny the report.</p>
+<p>Raul Salinas has already been charged with the 1994 murder of ruling Institutional Revolutionary Party Secretary General Jose Francisco Ruiz Massieu in September 1994, illegal enrichment and false use of official documents.</p>
+<p>While an official in his brother's 1988-1994 administration, he stashed a fortune in foreign banks, including $84 million in a Swiss bank account. Swiss officials have investigated whether the money was linked to drug trafficking.</p>
+<p>So far, Salinas has not been charged with any drug-related crimes. He has been in a maximum-security jail just outside Mexico City since early 1995.</p>
+<p>He was cleared of tax fraud charges this year by a judge and the government's murder case against him has at times appeared to be unravelling, according to experts.</p>
+<p>Carlos Salinas, who left office in December 1994, lives in self-imposed exile in Ireland.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219124" id="root" date="1996-11-26" xml:lang="en">
+<title>FRANCE: INSTANT VIEW-French consumer spending falls in Oct.</title>
+<headline>INSTANT VIEW-French consumer spending falls in Oct.</headline>
+<dateline>PARIS 1996-11-26</dateline>
+<text>
+<p>Following are analysts' comments on the 2.6 percent fall in consumer spending on manufactuered goods in October in France.</p>
+<p>DAVID NAUDE, Economist, JP Morgan:</p>
+<p>It's a very big drop. The drop in car sales we knew about and it's not surprising. Car sales will be weak in November. Second, retail, up 3.1 percent, looks good but it is not that good because it did not reverse the September drop of nearly six percent.</p>
+<p>The trend remains weak, this is first data on the fourth quarter and confirms the quarter will be weak as a whole.  </p>
+<p>VALERIE PLAGNOL, economist, Credit Commercial de France</p>
+<p>It's the end of the Juppe (car-purchase incentive) scheme. The rise in retail goods is the rebound from a very weak September.</p>
+<p>We've still got a sluggish economy. Once you take away any price advantage people can get things fall away. There's no support behind this trend although the whole picture will be blurred by (third quarter) GDP numbers this week which should be strong.  </p>
+<p>SEAN SHEPLEY, Economist, CS First Boston:</p>
+<p>It's a bigger fall than I think the market had priced in though I think there was difficulty measuring what the precise effect would be on cars after the end of the (government) incentives.</p>
+<p>But the underlying number, retail, failed to show much of a bounce back. At best the underlying trend in consumption in France is flat. It's another indicator showing the concerns about the economy are not going away.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="E143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

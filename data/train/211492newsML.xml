@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="211492" id="root" date="1996-11-22" xml:lang="en">
+<title>JAPAN: Okamoto Machine - 6mth parent results.</title>
+<headline>Okamoto Machine - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-22</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  6.89		vs	    5.39</p>
+<p> Operating	prft 226 million    vs   loss 676 million</p>
+<p> Current	loss 21 million	 vs     loss 1.25</p>
+<p> Net	    loss 37 million	 vs     loss 1.26</p>
+<p> EPS	     loss 0.79 yen	  vs    loss 26.70 yen</p>
+<p> Shares	     47 million	  vs	  47 million</p>
+<p> Interim div	   nil		vs	     nil</p>
+<p>NOTE - Okamoto Machine Tool Works Ltd is a large specialist maker of surface grinders.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

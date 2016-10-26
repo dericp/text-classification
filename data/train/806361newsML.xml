@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806361" id="root" date="1997-08-18" xml:lang="en">
+<title>INDIA: Indian industry recommendations by leading brokers.</title>
+<headline>Indian industry recommendations by leading brokers.</headline>
+<dateline>BOMBAY 1997-08-18</dateline>
+<text>
+<p>The following are the latest Indian sectoral recommendations from nine leading securities firms:</p>
+<p>These recommendations are contributed by the securities firms and do not in any way constitute an opinion by Reuters.</p>
+<p>Abbreviations used are: B=buy, S=sell, H=hold, OW=overweight, UW=underweight, N=neutral, MP=market performer, NG=negative, UP=under performer, OP=out performer, P=positive</p>
+<p>.</p>
+<p> INDUSTRY		    NAME OF BROKER/RECOMMENDATION</p>
+<p>========</p>
+<p>				 =======================================</p>
+<p>				 JM  ISEC  LS  SSKI  PL  PP  NH  CF  SOC</p>
+<p>				 === ===== === ===== === === === ==  ===</p>
+<p> Aluminium		   B*   MP   OP   B    B    H   H   B   OW</p>
+<p> Auto			  H    UP   UP   H    H    S   S   S   OW</p>
+<p> Auto Components	   H    UP    N   -    B    B   H   H   -</p>
+<p> Banks			 B    MP   OP   H    B    H  UW   B   OW</p>
+<p> Cement,cem products     H    MP   UP   B    H    H   S   H   OW</p>
+<p> Chemicals-Inorganic     H    -    UP   S    S    S   S   H   -</p>
+<p> Chemicals-Organic	 H    -    UP   S    S    S   S   H   -</p>
+<p> Cigarettes		  H    -    OP   H    B    H   H   H   -</p>
+<p> Textiles - Cotton	 H    OP   OP   S    H    B   H   H   -</p>
+<p> Diversified		 -    MP   UP   S    H/S  -  UW   S   UW</p>
+<p> Consumer Durable	  H    UP   UP   S    B    S   S   S   -</p>
+<p> Electrical Equip	  H    MP    N   H    H    B   H   H   N</p>
+<p> Fertilisers		 S    UP   UP   S    B    B   H   H   -</p>
+<p> Financial Inst	    H    UP    N   B    B    S   H   H   OW</p>
+<p> Finance		     S    UP   UP   -    S    S   S   -   -</p>
+<p> Food Processing	   H    OP    N   S    B    H   B   B   -</p>
+<p> Hotels			H    OP   UP   S    H    H  UW   H   N</p>
+<p> Personal Care	     B    OP    N   S    B    B   B   B   -</p>
+<p> Petrochemicals	    H    OP   OP   B    S    S   H   H   UW</p>
+<p> Pharmaceuticals	   B    MP   OP   H    B    B   H   B   OW</p>
+<p> Power			 B**  MP    N   H    B    B  UW   B   N</p>
+<p> Refineries		  B    MP   OP   B    B    B  UW   B   OW</p>
+<p> Shipping		    S    -     N   H    H    S   S   B   -</p>
+<p> Steel Products	    H    UP    N   B    H    H   S   B   UW</p>
+<p> Textiles-Synthetic	S    UP    N   S    H    S   H   -   -</p>
+<p> Tea &amp; Coffee		S    UP    -   S    S    B   B   H   -</p>
+<p> Telecom Equipment	 S    -    UP   S    S    S   S   H   -</p>
+<p> Telecom Services	  B    OP   OP   B    B    H   S   H   OW</p>
+<p> Tyre			  H    UP    N   H    B    S   B   -   -</p>
+<p>.</p>
+<p>---</p>
+<p>*  Buy Indal below 110 &amp; sell Nalco above 45</p>
+<p>** Buy Tata Power below 130</p>
+<p>----</p>
+<p>	     CF - Ceat Financial Services    NH - NH Securities</p>
+<p>	     LS - Lloyds Securities	    PP - Parag Parikh</p>
+<p>	     ISEC - ICICI Securities	   SSKI - SSKI Securities</p>
+<p>	     JM - JM Share &amp; Stock Brokers   SOC - SocGen Crosby</p>
+<p>	     PL - Prabhudas Lilladher</p>
+<p>-- To add recommendations to this table, please call Sudhir Shetty or Anshuman Daga at (91) 22-265-9000 or fax to (91) 22-264 1699.</p>
+<p>-- Bombay newsroom (91) 22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

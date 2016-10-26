@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="184296" id="root" date="1996-11-12" xml:lang="en">
+<title>JAPAN: Matsushita has way to put film images on Internet.</title>
+<headline>Matsushita has way to put film images on Internet.</headline>
+<dateline>TOKYO 1996-11-12</dateline>
+<text>
+<p>Matsushita Electric Industrial Co Ltd said on Tuesday it had developed the world's first system to link digital video discs (DVDs) and the Internet that can play high quality moving images within an Internet web page.</p>
+<p>&quot;High quality MPEG-2 (Moving Picture Experts Group 2) images are played directly from the DVD-ROM when accessing certain areas of a web page,&quot; the company said in a statement.</p>
+<p>There is already a similar system that links CD-ROM and the Internet but MPEG-2, which is a type of technology to compress moving images, through the DVD-ROM allows better resolution.  </p>
+<p>An Internet client setup for the new system includes a DVD-ROM drive and MPEG-2 decoder board, Matsushita said. A client will also need a DVD-ROM provided by a web server, it said.</p>
+<p>Also under the new system, when the DVD-ROM application is started up it automatically connects to a specific web page.</p>
+<p>DVD-ROM-based user identification is also possible under the system through the pre-recording of a disc-specific identification number on the individual information recording area on the DVD-ROM disc, Matsushita said.</p>
+<p>The disc specific identification number is transmitted from a web client to the web server and checked with the user information management database to create individual information, it said.</p>
+<p>The system is expected to be used by travel agencies, catalogue shopping operators and other services, Matsushita said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

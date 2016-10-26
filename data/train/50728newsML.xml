@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50728" id="root" date="1996-09-12" xml:lang="en">
+<title>FRANCE: PRESS DIGEST - France - Le Monde Sept 12.</title>
+<headline>PRESS DIGEST - France - Le Monde Sept 12.</headline>
+<dateline>PARIS 1996-09-12</dateline>
+<text>
+<p>These are leading stories in afternoon daily Le Monde.</p>
+<p>FRONT PAGE</p>
+<p>-- President Jacques Chirac on a visit to Poland calls for opening of European Union to Eastern European countries, wants Poland to join by 2000.</p>
+<p>BUSINESS PAGES</p>
+<p>-- Former Economy Minister Edmond Alphandery, chairman of EDF state-owned electricity supplier, announces a concentration of decision-making processes.</p>
+<p>-- E.U. commission could include principle of general public interest in its official documents, to protect the idea of public service while favouring economic liberalisation.</p>
+<p>-- Association of French banks unenthusiastic over possible bid by savings bank Caisses d'Epargne for privatisation of CIC bank, on grounds that they are state-backed.</p>
+<p>-- BNP posts 1996 first-half profits up 80 percent from 1995 H1 at 1.74 billion francs.</p>
+<p>-- Credit Lyonnais workers demonstrate today against against planned job cuts.</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

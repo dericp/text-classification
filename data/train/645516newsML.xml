@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645516" id="root" date="1997-06-08" xml:lang="en">
+<title>HUNGARY: BASKETBALL-WOMEN'S EUROPEAN CHAMPIONSHIP RESULTS.</title>
+<headline>BASKETBALL-WOMEN'S EUROPEAN CHAMPIONSHIP RESULTS.</headline>
+<dateline>BUDAPEST 1997-06-08</dateline>
+<text>
+<p>Women's European basketball</p>
+<p>championship final round results on Sunday:</p>
+<p>Group A (in Zalaegerszeg):</p>
+<p>Yugoslavia 84 Czech Republic 69 (halftime 44-42)</p>
+<p>Group B (Pecs):</p>
+<p>Russia 66 Italy 52 (38-26)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

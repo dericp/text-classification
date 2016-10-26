@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="117295" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: World wheat/wheat flour situation projections.</title>
+<headline>World wheat/wheat flour situation projections.</headline>
+<dateline>WASHINGTON 1996-10-15</dateline>
+<text>
+<p>USDA wheat and wheat flour production, trade, stocks and consumption estimates in major countries.</p>
+<p>WHEAT PRODUCTION (million tonnes) --</p>
+<p> -	96/97:  Oct96  Sept96   95/96:  Oct96   Sept96</p>
+<p> -	 U.S.    62.1    62.5		59.4     59.5</p>
+<p> -	China   109.0   107.0	     102.2    102.0</p>
+<p> -	India    66.0    66.0		65.5     65.5</p>
+<p> -     Russia    35.0    37.0		30.1     30.1</p>
+<p> -	   EU    98.7    96.8		86.2     86.2</p>
+<p> -World Total   581.0   579.5	     536.3    535.9</p>
+<p>WHEAT CONSUMPTION (million tonnes) --</p>
+<p> -	96/97:  Oct96  Sept96   95/96:  Oct96   Sept96</p>
+<p> -	 U.S.    36.3    35.7		31.0     31.1</p>
+<p> -	China   114.0   113.0	     113.0    113.0</p>
+<p> -	India    63.5    63.5		61.3     61.3</p>
+<p> -     Russia    37.1    38.7		39.4     39.4</p>
+<p> -    Ukraine    17.0    16.5		16.7     16.7</p>
+<p> -	   EU    80.7    80.0		77.2     77.2</p>
+<p> -East Europe    29.5    29.5		31.5     31.5</p>
+<p> -World Total   569.4   566.8	     549.4    549.3</p>
+<p>WHEAT ENDING STOCKS (million tonnes) --</p>
+<p> -	96/97:  Oct96  Sept96   95/96:  Oct96   Sept96</p>
+<p> -World Total   116.5   117.4	     105.0    104.7</p>
+<p>WHEAT, FLOUR EXPORTS (million tonnes) --</p>
+<p> -	96/97:  Oct96  Sept96   95/96:  Oct96   Sept96</p>
+<p> -	 U.S.    25.0    25.0		33.6     33.6</p>
+<p> -     Canada    20.0    18.5		16.2     16.2</p>
+<p> -	   EU    14.0    14.0		12.5     12.5</p>
+<p> -World Total    90.8    88.6		91.9     91.9</p>
+<p>WHEAT, FLOUR IMPORTS (million tonnes) --</p>
+<p> -	96/97:  Oct96  Sept96   95/96:  Oct96   Sept96</p>
+<p> -     Brazil     5.2     5.2		 5.6	5.6</p>
+<p> -	China     7.0     7.0		12.0     12.0</p>
+<p> -	Egypt     6.0     6.0		 6.0	6.0</p>
+<p> -	Japan     6.3     6.3		 6.3	6.3</p>
+<p> -     Russia     2.5     2.5		 4.1	4.1</p>
+<p> -World Total    90.8    88.6		91.9     91.9</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

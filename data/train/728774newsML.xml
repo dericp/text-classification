@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="728774" id="root" date="1997-07-15" xml:lang="en">
+<title>ARGENTINA: Argentine Central Bank reserves detailed.</title>
+<headline>Argentine Central Bank reserves detailed.</headline>
+<dateline>BUENOS AIRES 1997-07-15</dateline>
+<text>
+<p>The Argentine Central Bank Tuesday released the following international reserve and currency liability data, in millions:</p>
+<p>*A = International reserves (gold, currency, securities, including repos and reverse repos).</p>
+<p>B = Liquidity requirements.</p>
+<p>C = International reserves in the financial system.</p>
+<p>*D = Monetary base.</p>
+<p>E = Currency liabilities.</p>
+<p>F = Net repurchase tender agreements.</p>
+<p>G = Bank liquidity paper.</p>
+<p>H = Financial liabilities.</p>
+<p>Date	*A*   *B*    *C*    *D*    *E*   *F*  *G*   *H*</p>
+<p>Jun 30  21,366 5,028 26,394 14,041 14,043 5,792  0  19,835</p>
+<p>Jul 01  22.035 5,476 27,511 14,226 14,249 6,253  0  20.502</p>
+<p>Jul 02  22,203 5,584 27,787 14,413 14,436 6,219  0  20,655</p>
+<p>Jul 03  22,458 5,737 28,195 14,717 14,740 6,165  0  20,905</p>
+<p>Jul 04  22,470 5,732 28,202 14,996 15,019 5,887  0  20,906</p>
+<p>Jul 07  22,358 5,638 27,996 15,151 15,173 5,489  0  20,662</p>
+<p>Jul 08  22,244 5,803 28,047 15,161 15,203 5,477  0  20,680</p>
+<p>Jul 10  22,340 5,723 28,063 15,181 15,224 5,529  0  20,753</p>
+<p>Jun 11  22,381 5,895 28,276 15,113 15,157 5,619  0  20,776</p>
+<p>*A  Of the $22.38 billion in international reserves, $1.92 billion (8.57 percent) are in securities.</p>
+<p>*D  There are currently no peso-denominated current accounts at the Central Bank.</p>
+<p>((-- Buenos Aires Newsroom +54 1 318-0651))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUENOS AIRES"/>
+<dc element="dc.creator.location.country.name" value="ARGENTINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

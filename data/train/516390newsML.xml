@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516390" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: U.S., Vietnam reach trade agreement on copyrights.</title>
+<headline>U.S., Vietnam reach trade agreement on copyrights.</headline>
+<dateline>WASHINGTON 1997-04-16</dateline>
+<text>
+<p>The United States said on Wednesday it had reached a copyright protection agreement with Vietnam, a key step in normalizing trade relations between the two countries.</p>
+<p>&quot;This is a very important agreement, the first trade agreement to be concluded by the administration with Vietnam,&quot; U.S. Trade Representative Charlene Barshefsky said in a statement.</p>
+<p>&quot;It is an important first step in establishing intellectual property rights protections for U.S. companies and begins to address key issues necessary for the normalization of trade relations,&quot; she said.</p>
+<p>Businesses have complained that piracy of music, films, books and computer software is on the rise in Vietnam. The International Intellectual Property Alliance estimated that more than $50 million is lost annually to Vietnamese pirates.</p>
+<p>The agreement would give U.S. copyright holders the same protection that Vietnamese companies enjoy in Vietnam, the USTR said. It gives copyright holders exclusive rights to authorize or bar reproduction of works.</p>
+<p>It also provides for full enforcement of copyright protection in Vietnam, including civil and criminal procedures and penalties as well as protection against exports of pirated goods.</p>
+<p>The United States is in the process of negotiating a broad bilateral trade agreement with Vietnam, which officials said was needed before Washington grants Most Favored Nation (MFN) status. MFN would give Vietnam the same access to U.S. markets enjoyed by most other trading nations.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

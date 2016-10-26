@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="108897" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: IPO FILING -- Factory Card Outlet Corp.</title>
+<headline>IPO FILING -- Factory Card Outlet Corp.</headline>
+<dateline>WASHINGTON 1996-10-10</dateline>
+<text>
+<p>Company Name		 Factory Card Outlet Corp</p>
+<p>Stock symbol			FCPY.O</p>
+<p>Estimated price range	   $10-$12/shr</p>
+<p>Total shares to be offered    2,750,000</p>
+<p>Shrs offered by company	 2,550,000</p>
+<p>Shrs offered by shareholders  200,000 Shrs outstanding after ipo    6,618,409</p>
+<p>Lead Underwriter    Alex Brown &amp; Sons Inc</p>
+<p>Underwriters over-allotment  412,500 shrs Business: chain of company-owned superstores offering a vast assortment of party supplies, greeting cards, gift wrap and other special occasion merchandise.</p>
+<p>Use of Proceeds: Repayment of debt, opening new superstores and general corporate purposes.</p>
+<p>Financial Data in 000s:     1996		 1995</p>
+<p>   - Net Sales	     $94,589	    $63,174</p>
+<p>   - Net Income		  $70		 $368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

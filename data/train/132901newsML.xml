@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132901" id="root" date="1996-10-22" xml:lang="en">
+<title>CZECH REPUBLIC: SKODA SIGNS DEAL WITH NAVISTAR.</title>
+<headline>SKODA SIGNS DEAL WITH NAVISTAR.</headline>
+<dateline>PRAGUE 1996-10-22</dateline>
+<text>
+<p>Czech engineering concern Skoda a.s. on Tuesday said it had signed an agreement with U.S.-based Navistar Transportation Corp on the production and sales of mid-sized trucks.  </p>
+<p>&quot;The cooperation will be in the production and sales of mid-sized trucks in central and eastern Europe where there are long-term business opportunities,&quot; a Skoda statement said.</p>
+<p>The statement added that the central European production base could be used to supply the vehicles to other European and Asian markets.</p>
+<p>Skoda will produce the trucks through its subsidiary Skoda Liaz, a truckmaker, while Navistar is expected to supply engine technology.</p>
+<p>Last year Navistar built some 80,000 trucks and 220,000 engines.  </p>
+<p>Before 1990, Liaz produced up to 20,000 trucks a year but last year it produced only 1,000 vehicles after sales to its former Soviet Bloc market collapsed.</p>
+<p>-- Alan Crosby, Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

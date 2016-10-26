@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276466" id="root" date="1996-12-26" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE RESULTS.</headline>
+<dateline>LONDON 1996-12-26</dateline>
+<text>
+<p>Results of English league soccer</p>
+<p>matches on Thursday:</p>
+<p>Premier league</p>
+<p> Aston Villa	   0   Chelsea		2</p>
+<p> Blackburn	     1   Newcastle	    0</p>
+<p> Leeds		   1   Coventry	     3</p>
+<p> Liverpool	     1   Leicester	    1</p>
+<p> Middlesbrough	 4   Everton		2</p>
+<p> Nottingham Forest   0   Manchester United  4</p>
+<p> Sunderland	    2   Derby		  0</p>
+<p> Tottenham	     3   Southampton	  1</p>
+<p> Wimbledon	     v   West Ham	     postponed</p>
+<p> Sheffield Wednesday 0   Arsenal		0</p>
+<p>Division one</p>
+<p> Bradford		1   Sheffield United   2</p>
+<p> Grimsby		 1   Bolton		 2</p>
+<p> Ipswich		 3   Crystal Palace     1</p>
+<p> Manchester City     0   Port Vale	    1</p>
+<p> Oldham		  v   Birmingham	   postponed</p>
+<p> Portsmouth	    0   Swindon		1</p>
+<p> Queens Park Rangers 3   Norwich		2</p>
+<p> Reading		 2   West Bromwich	2</p>
+<p> Southend		0   Charlton	     2</p>
+<p> Stoke		   1   Barnsley	     0</p>
+<p> Tranmere		1   Huddersfield	 1</p>
+<p> Wolverhampton	 3   Oxford		 1</p>
+<p>Division two</p>
+<p> Blackpool	     v   Burnley		postponed</p>
+<p> Bournemouth	   1   Bristol Rovers     0</p>
+<p> Bristol City	  3   Shrewsbury	   2</p>
+<p> Bury		    v   Crewe		  postponed</p>
+<p> Chesterfield	  v   Rotherham	    postponed</p>
+<p> Gillingham	    1   Luton		  2</p>
+<p> Millwall		0   Peterborough	 2</p>
+<p> Plymouth		1   Brentford	    4</p>
+<p> Watford		 0   Notts County	 0</p>
+<p> Wrexham		 2   Stockport	    3</p>
+<p> Wycombe		 0   Walsall		2</p>
+<p> York		    v   Preston		postponed</p>
+<p>Division three</p>
+<p> Barnet		  1   Mansfield	    1</p>
+<p> Brighton		1   Colchester	   1</p>
+<p> Cambridge	     v   Scunthorpe	   postponed</p>
+<p> Cardiff		 2   Torquay		0</p>
+<p> Carlisle		1   Hartlepool	   0</p>
+<p> Chester		 v   Rochdale	     postponed</p>
+<p> Doncaster	     1   Scarborough	  2</p>
+<p> Fulham		  1   Exeter		 1</p>
+<p> Hereford		0   Swansea		1</p>
+<p> Hull		    2   Lincoln		1</p>
+<p> Leyton Orient	 2   Northampton	  1</p>
+<p> Wigan		   v   Darlington	   postponed</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

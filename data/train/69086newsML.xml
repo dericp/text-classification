@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="69086" id="root" date="1996-09-22" xml:lang="en">
+<title>SPAIN: SOCCER-SPANISH FIRST DIVISION STANDINGS.</title>
+<headline>SOCCER-SPANISH FIRST DIVISION STANDINGS.</headline>
+<dateline>MADRID 1996-09-22</dateline>
+<text>
+<p>Standings in the Spanish first</p>
+<p>division after games played on Sunday (tabulate under games</p>
+<p>played, won, drawn, lost, goals for, goals against, points):</p>
+<p> Real Betis	     4     3    1    0   9   1   10</p>
+<p> Barcelona		4     3    1    0  10   6   10</p>
+<p> Oviedo		   4     3    0    1   7   4    9</p>
+<p> Deportivo Coruna     4     2    2    0   8   2    8</p>
+<p> Real Madrid	    4     2    2    0   6   2    8</p>
+<p> Sporting Gijon	 4     2    1    1   6   4    7</p>
+<p> Real Sociedad	  4     2    1    1   5   4    7</p>
+<p> Racing Santander     4     2    1    1   5   6    7</p>
+<p> Tenerife		 4     2    0    2   8   4    6</p>
+<p> Valladolid	     4     2    0    2   5   3    6</p>
+<p> Atletico Madrid	4     2    0    2   6   5    6</p>
+<p> Zaragoza		 4     1    2    1   5   6    5</p>
+<p> Celta Vigo	     4     1    1    2   3   5    4</p>
+<p> Espanyol		 4     1    1    2   6   7    4</p>
+<p> Valencia		 4     1    1    2   5   6    4</p>
+<p> Logrones		 4     1    1    2   4   7    4</p>
+<p> Athletic Bilbao	4     1    1    2   5   9    4</p>
+<p> Rayo Vallecano	 4     1    0    3   6   6    3</p>
+<p> Sevilla		  3     1    0    2   2   3    3</p>
+<p> Hercules		 4     1    0    3   2  10    3</p>
+<p> Compostela	     3     1    0    2   4   9    3</p>
+<p> Extremadura	    4     0    0    4   1  10    1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="544907" id="root" date="1997-04-28" xml:lang="en">
+<title>FINLAND: German buy makes Enso Europe's number two paper maker.</title>
+<headline>German buy makes Enso Europe's number two paper maker.</headline>
+<dateline>HELSINKI, Finland</dateline>
+<text>
+<p>Finnish forestry group Enso Oy said Monday it was buying German paper manufacturer E. Holtzmann for 1.8 billion markka ($346.2 million), making it Europe's second largest producer of paper and board.</p>
+<p>Enso said its initial purchase of a 50.4 percent majority stake in the German company would boost its overall annual capacity by 700,000 metric tons to 6.7 million.</p>
+<p>That puts Enso ahead of Sweden's Stora but still clearly behind Finnish rival UPM-Kymmene.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI, Finland"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

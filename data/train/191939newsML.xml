@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191939" id="root" date="1996-11-15" xml:lang="en">
+<title>UAE: Cricket - New Zealand win toss, to field v Pakistan.</title>
+<headline>Cricket - New Zealand win toss, to field v Pakistan.</headline>
+<dateline>SHARJAH, United Arab Emirates 1996-11-15</dateline>
+<text>
+<p>New Zealand won the toss and elected to field against Pakistan in the final of the Singer Champions Trophy cricket tournament on Friday.</p>
+<p>New Zealand took to the field without their premier fast bowlers Danny Morrison and Simon Doull, who are nursing injuries.</p>
+<p>The teams:</p>
+<p>Pakistan: Wasim Akram (captain), Saeed Anwar, Asmir Sohail, Shahid Afridi, Ijaz Ahmed, Salim Malik, Azam Khan, Moin Khan, Saqlain Mushtaq, Waqar Younis and Mushtaq Ahmed.</p>
+<p>New Zealand: Lee Germon (captain), Bryan Young, Stephen Fleming, Adam Parore, Nathan Astle, Chris Cairns, Mark Greatbatch, Chris Harris, Dipak Patel, Gavin Larsen and Justin Vaughan.</p>
+<p>Umpires: S.K. Bansal (India) and George Sharp (England). Third umpire Ian Robinson (Zimbabwe).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="SHAJH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHARJAH, United Arab Emirates"/>
+<dc element="dc.creator.location.country.name" value="UAE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

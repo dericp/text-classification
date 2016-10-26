@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="264576" id="root" date="1996-12-18" xml:lang="en">
+<title>SWITZERLAND: Swiss plan slaughter policy against BSE.</title>
+<headline>Swiss plan slaughter policy against BSE.</headline>
+<dateline>BERNE 1996-12-18</dateline>
+<text>
+<p>Switzerland plans to spend some 6.5 million Swiss francs ($4.90 million) to slaughter at least 1,500 cows to combat mad cow disease, the government said on Wednesday.</p>
+<p>It said in a statement detailing its plans to eradicate Bovine Spongiform Encephalopathy (BSE) in Switzerland that 280 herds of cattle would be affected.</p>
+<p>Switzerland has reported 230 cases of BSE, the most of any country except Britain. Scientists suspect tainted beef products can trigger the brain-wasting Creuzfeldt-Jakob Disease in humans.</p>
+<p>The measures, which start immediately, cover cows from herds where the disease has been detected and which were born before December 1, 1990, when Switzerland adopted measures to stem BSE.</p>
+<p>In addition, herds with any cows born after 1990 that contract the disease in future would be destroyed completely.</p>
+<p>The government will pay farmers 90 percent of the estimated value of the slaugthered cow, or 2,500 francs ($1,890) on average.</p>
+<p>The Swiss parliament earlier approved the government's plan, a scaled-down version that fell far short of the original proposal to slaughter 230,000 cows, which would have cost tax payers around 320 million francs ($240).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I0100105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="I41220">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

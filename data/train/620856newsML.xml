@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="620856" id="root" date="1997-05-28" xml:lang="en">
+<title>PAKISTAN: Pakistani cotton rates hold steady in dull trade.</title>
+<headline>Pakistani cotton rates hold steady in dull trade.</headline>
+<dateline>KARACHI, Pakistan 1997-05-28</dateline>
+<text>
+<p>Pakistani cotton rates closed steady on Wednesday in lacklustre trading as exporters slowed buying, dealers at the private Karachi Cotton Association (KCA) said.</p>
+<p>The rates rose in the past few days on buying by exporters who planned to ship cotton before the end of fiscal 1996/97 on June 30, dealer Nasim Usman said.</p>
+<p>In the kerb market, the NIAB-78 variety was quoted for 2,000/2,175 rupees per maund (37.32 kg), the K-68 for 2,350/2,400 and the MNH-93 for 2,375/2,400.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

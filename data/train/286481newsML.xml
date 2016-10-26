@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="286481" id="root" date="1997-01-03" xml:lang="en">
+<title>UK: Government says British data shows rising confidence.</title>
+<headline>Government says British data shows rising confidence.</headline>
+<dateline>LONDON 1997-01-03</dateline>
+<text>
+<p>British Treasury financial secretary Michael Jack said on Friday that consumer credit data showed rising confidence in the strength of the British economy and personal borrowing remained sensible.</p>
+<p>November net consumer credit rose 1.105 billion pounds, according to seasonally adjusted consumer credit data released by the Bank of England.</p>
+<p>That compared with 875 million pounds in October and 600 million in November 1995.</p>
+<p>&quot;This is a welcome set of figures which confirm the growing confidence of individuals in the strength of the economy,&quot; Jack said in a statement read by a Treasury spokesman.</p>
+<p>&quot;At a personal level borrowing remains sensible and (people are) well within their ability to service the credit they want,&quot; the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="E142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

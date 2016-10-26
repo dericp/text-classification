@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106830" id="root" date="1996-10-09" xml:lang="en">
+<title>JAPAN: Oki Electric sets terms on straight bond.</title>
+<headline>Oki Electric sets terms on straight bond.</headline>
+<dateline>TOKYO 1996-10-09</dateline>
+<text>
+<p>BORROWER - Oki Electric Industry Co Ltd</p>
+<p>LEAD MGR - Yamaichi Securities Co Ltd</p>
+<p>FISCAL AGENT - Sakura Bank Ltd</p>
+<p> TYPE straight bond   ISSUE NO   23	 AMT   20 bln yen</p>
+<p> COUPON 3.15%	   ISS PRICE  100.00   MATURITY 25.Oct.06</p>
+<p> LAST MOODY'S	   PAY DATE 25.Oct.96  INT PAY 25th Apr/Oct</p>
+<p> LAST S&amp;P		 SIGN DATE	     SUB DATE 9.Oct</p>
+<p> LAST JCR		 LAST JBRI	     LAST NIS   A-</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

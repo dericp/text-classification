@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="411495" id="root" date="1997-02-28" xml:lang="en">
+<title>USA: Ford to suspend Thunderbird until 2000 - WSJ.</title>
+<headline>Ford to suspend Thunderbird until 2000 - WSJ.</headline>
+<dateline>NEW YORK 1997-02-28</dateline>
+<text>
+<p>Ford Motor Co plans to suspend new models of its Thunderbird until the year 2000, the Wall Street Journal said in its Friday electronic edition.</p>
+<p>The report, citing people familiar with the situation, said Ford plans to continue production of the 1997 model until the end of 1998 and has dropped plans for a 1998 model, which was intended to last until the year 2000.</p>
+<p>The company could not be immediately reached for comment.</p>
+<p>Friday's story said a Ford spokesman dismissed ongoing speculation that the company might sell its plant in Lorain, Ohio, where the slow-selling Thunderbird and Mercury Cougar mid-sized coupes are now made.</p>
+<p>The story said last year's sales of the Thunderbird were 79,721, compared with 325,153 in 1977.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

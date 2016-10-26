@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="417383" id="root" date="1997-03-04" xml:lang="en">
+<title>CZECH REPUBLIC: Czech bank CSOB 96 net profit CZK 3.090 bln.</title>
+<headline>Czech bank CSOB 96 net profit CZK 3.090 bln.</headline>
+<dateline>PRAGUE 1997-03-04</dateline>
+<text>
+<p>Preliminary unaudited results for period ending December 31, 1996:</p>
+<p>(in billions of crowns)</p>
+<p> Net Profit			3.090    vs    3.087</p>
+<p> Pre-tax Profit		  3.180    vs	n/a</p>
+<p> Balance sheet total	 208.892    vs  201.651</p>
+<p> Basic Capital		   5,105    vs    5.105</p>
+<p>Note. All figures are calculated according to Czech accounting standards. The full name of the company is Ceskoslovenska Obchodni Banka a.s. It is fully owned by Czech and Slovak state institutions. The Czech government has pledged to come up with plans to begin privatising the bank but has so far set no firm timetable.</p>
+<p>-- Prague Newsroom, 420-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

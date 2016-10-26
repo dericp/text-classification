@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535855" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Fuel flow fault caused 1996 C-130 crash - report.</title>
+<headline>Fuel flow fault caused 1996 C-130 crash - report.</headline>
+<byline>Charles Aldinger</byline>
+<dateline>WASHINGTON 1997-04-24</dateline>
+<text>
+<p>The Pacific Ocean crash of an Air Force C-130 transport plane that killed 10 persons off California last November was caused by a cut-off in fuel flow to the engines, the Air Force said on Thursday.</p>
+<p>An investigation report released by the Air Combat Command said the four turboprop engines of the aircraft, made by Lockheed Martin Corp., stopped operating during a training flight due to a lack of fuel flow.</p>
+<p>But the report added that the cause of the fuel cut-off remained a mystery even after the Navy recovered the &quot;Black Box&quot; Flight Data Recorder and some other wreckage from the ocean floor at a depth of 5,100 feet (1,554 metres).</p>
+<p>&quot;There was insufficient evidence to determine why the fuel ceased to flow to the engines,&quot; according to the report by Air Force Col. Larry Landtroop, who headed the investigation.</p>
+<p>The aircraft was en route from Portland International Airport in Oregon to North Island Naval Air Station near San Francisco on a training mission Nov. 22 when it crashed in deep water 40 miles (65 kms) off Cape Mendocino, Calif.</p>
+<p>Nine crew and one passenger died in the accident and one crew member was rescued from the ocean by a helicopter soon after the incident.</p>
+<p>The C-130 was assigned to the Air Force Reserve's 939th Rescue Wing based at Portland International Airport.</p>
+<p>Crew members reported by radio shortly before the crash that they had shut down one engine and also had electrical problems. Soon afterward, air traffic controllers in Oakland and Seattle lost radar and radio contact with the C-130.</p>
+<p>&quot;The (aircraft) violently impacted the water with its nose down at approximately 7:02 p.m. (Pacific time),&quot; the investigation report said.</p>
+<p>&quot;The airspeed at impact is unknown since the Flight Data Recorder was not recording at the time of impact due to the electrical power failure,&quot; it added.</p>
+<p>Portions of the aircraft wreckage -- including the cockpit voice recorder, flight data recorder and one engine -- were later recovered from the ocean floor at a depth of more than 5,100 feet (1,554 metres) by members of the Navy's Deep Submergence Unit.</p>
+<p>The only one of the 11 persons aboard the aircraft to survive the crash was Air Force Tech. Sgt. Robert Vogel, an airborne communications specialist from Albany, Ore.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

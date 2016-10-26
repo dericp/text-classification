@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226069" id="root" date="1996-11-29" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian Senate passes education bill.</title>
+<headline>RTRS-Australian Senate passes education bill.</headline>
+<dateline>CANBERRA 1996-11-29</dateline>
+<text>
+<p>The key Independent members of the Australian Senate on Friday gave the government passage of a bill to reorganise education funding.</p>
+<p>In general, the States Grants (Primary and Secondary Education Assistance) Bill moved federal money from public education to private schools, but made little difference to the overall level of funding.</p>
+<p>For example, it sought to reduce funding for state schools when a student moved to a private school.</p>
+<p>The Labor Opposition and the Australian Democrats and Greens minor parties both opposed this.  </p>
+<p>However, the government needs only two extra votes to get legislation through the upper house of parliament, and Independents Brian Harradine and Mal Colston supplied them in this case.</p>
+<p>The government expects to depend on Harradine and Colston for some of the contentious budget-cutting measures that will come before the Senate over the coming two weeks.</p>
+<p>Those contentious measures are worth more than A$1 billion a year to the budget.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257322" id="root" date="1996-12-15" xml:lang="en">
+<title>UK: Dylan song for Scots school massacre is top hit.</title>
+<headline>Dylan song for Scots school massacre is top hit.</headline>
+<dateline>LONDON 1996-12-15</dateline>
+<text>
+<p>A Bob Dylan song &quot;Knockin' on Heaven's Door&quot;, issued six days ago in memory of 16 children and their teacher shot dead in the Scottish town of Dunblane, was top of the British hit parade on Sunday.</p>
+<p>The song is performed by 14 children from the town where social misfit Thomas Hamilton went berserk last March.</p>
+<p>Bob Dylan agreed for the first time that the lyrics of his song could be changed to allow one verse to carry an anti-gun message.</p>
+<p>The singers, some of whom lost brothers and sisters in the massacre, recorded the song at London's Abbey Road studios, made famous by the Beatles. They were accompanied on lead guitar by Mark Knopfler of Dire Straits.</p>
+<p>The British government introduced new gun controls after the massacre but resisted the total ban on handguns sought by the parents of the murdered children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

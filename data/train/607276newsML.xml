@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="607276" id="root" date="1997-05-22" xml:lang="en">
+<title>JAPAN: Nippon Steel - 96/97 parent results.</title>
+<headline>Nippon Steel - 96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-22</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  2.18 trln	 vs	    2.11 trln</p>
+<p> Operating	  128.53		vs	  125.07</p>
+<p> Current	     84.71		vs	   64.70</p>
+<p> Net		   19.91		vs	   24.74</p>
+<p> EPS		    2.89 yen	  vs	    3.59 yen</p>
+<p> Diluted EPS	     -		vs		 -</p>
+<p> Shares	   6.89 billion	  vs	6.89 billion</p>
+<p> Ord div		2.50 yen	  vs	    2.50 yen</p>
+<p>NOTE - Nippon Steel Corp is a blast furnace steel maker.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

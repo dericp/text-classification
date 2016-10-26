@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115020" id="root" date="1996-10-14" xml:lang="en">
+<title>EGYPT: Egyptian overnight rates little changed.</title>
+<headline>Egyptian overnight rates little changed.</headline>
+<dateline>CAIRO 1996-10-14</dateline>
+<text>
+<p>Overnight interbank rates on the Egyptian pound in the private sector were little changed on Monday at around 10 percent, from a range between 9 1/2 and 10 1/8 percent on Sunday, bankers said. One banker cited 9 1/2.</p>
+<p>One-week rates were slightly higher, at between 10 and 10 1/4, from between 9 3/4 and 10 1/16 on Sunday, they added.</p>
+<p>A second bank confirmed Sunday's reports that the four big public-sector banks were willing to break a longstanding taboo on lending overnight at below 10 1/2 percent.</p>
+<p>-- Cairo newsroom +202 578 3290/91</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

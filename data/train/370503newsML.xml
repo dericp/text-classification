@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="370503" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Deere posts record profit for quarter.</title>
+<headline>Deere posts record profit for quarter.</headline>
+<dateline>MOLINE, Ill.</dateline>
+<text>
+<p>Deere &amp; Co., the world's largest farm equipment maker, Tuesday reported record earnings for the latest quarter, thanks to a 3 percent gain in revenues.</p>
+<p>The Moline, Ill.-based company said it earned $176.8 million, or 69 cents a share, in its fiscal first quarter, which ended Jan. 31. That compared with year earlier earnings of $166.2 million, or 63 cents a share. Sales rose to $2.39 billion from $2.31 billion.</p>
+<p>&quot;The higher profits resulted from strong worldwide retail demand for the company's products, especially new tractors and combines,&quot; said Chairman Hans W. Becherer.</p>
+<p>&quot;The company's first quarter sales and revenues were in line with our expectations and provide a solid base for strong full-year sales activity,&quot; he said.</p>
+<p>&quot;The remainder of 1997 should benefit from a moderately growing domestic economy, healthy agricultural markets and generally high levels of farmer confidence,&quot; Becherer said.</p>
+<p>Deere said its worldwide sales of agricultural, industrial, and commercial and consumer equipment totalled $2.003 billion for the quarter compared with $1.937 billion a year earlier.</p>
+<p>Export sales from the United States increased to $392 million during the quarter from $308 million a year earlier due to stronger sales to the former Soviet Union.</p>
+<p>The results at Deere's financial services unit dropped to $43.3 million from $48.7 million.</p>
+<p>Deere's stock was up 62.5 cents at $42.125 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOLINE, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

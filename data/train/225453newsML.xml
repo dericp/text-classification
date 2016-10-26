@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225453" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: Behrman Capital majority shareholder in Condor.</title>
+<headline>Behrman Capital majority shareholder in Condor.</headline>
+<dateline>NEW YORK 1996-11-29</dateline>
+<text>
+<p>Behrman Capital, which manages a private equity fund specializing in management buyouts of growth companies, said on Friday it became a majority shareholder in Condor Systems Inc, a privately held defense electronics contractor.</p>
+<p>Behrman said it gained a controlling interest via a leveraged recapitalization with total financing of $117 million. The California-based Condor would use the money to fund future acquisitions and internal growth, it said.</p>
+<p>Condor designs and makes radio frequency and microwave digitally controlled electronic products for sale to the reconnaissance and electronic support measure segments of the electronic warfare market. Its customers include U.S. national intelligence agencies and all three branches of the U.S. armed forces, Behrman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

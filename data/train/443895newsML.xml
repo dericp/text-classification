@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="443895" id="root" date="1997-03-14" xml:lang="en">
+<title>SPAIN: Spain's Argentaria forecasts double digit growth.</title>
+<headline>Spain's Argentaria forecasts double digit growth.</headline>
+<dateline>MADRID 1997-03-14</dateline>
+<text>
+<p>Spain's Corporacion Bancaria de Espana (Argentaria) has forecast double digit growth in its profits for the next three years, chairman Francisco Gonzalez said on Friday.</p>
+<p>&quot;I trust our strategy and I want take an important commitment: the yield over assets will rise in a very significant measure at double digit growth,&quot; he told a shareholders meeting.</p>
+<p>&quot;We aim to increase yield and efficiency in Argentaria in the following three years,&quot; he added.</p>
+<p>-- Madrid Newsroom, + 341 585 8340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

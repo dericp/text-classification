@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="323649" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Brach &amp; Brock Confections settles EPA case.</title>
+<headline>Brach &amp; Brock Confections settles EPA case.</headline>
+<dateline>CHICAGO 1997-01-22</dateline>
+<text>
+<p>The U.S. Environmental Protection Agency (EPA) said Wednesday it signed a consent agreement with Brach &amp; Brock Confections Inc over alleged pollution control violations.</p>
+<p>Brach and Brock will pay $42,000 in fines as part of the agreement, the EPA said.</p>
+<p>The EPA said the company failed to provide the required forms for storing hazardous chemicals to the Illinois Emergency Management Agency and local fire departments. The chemicals included anhydrous ammonia used in refrigeration systems, the EPA said.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

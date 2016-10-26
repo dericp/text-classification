@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272215" id="root" date="1996-12-22" xml:lang="en">
+<title>KUWAIT: Kuwait hallmarks 3.1 tonnes of gold in October.</title>
+<headline>Kuwait hallmarks 3.1 tonnes of gold in October.</headline>
+<dateline>KUWAIT 1996-12-22</dateline>
+<text>
+<p>Kuwait's Commerce and Industry Ministry in October hallmarked 3.1 tonnes of gold, a rise of 14.8 percent compared to September, an official bulletin said on Sunday.</p>
+<p>The gold hallmarked by the ministry represents the volume of gold that retailers plan to sell at the local markets, chiefly in the form of finished products, officials say.</p>
+<p>Of the total amount, 2.23 tonnes were in locally manufactured items. The rest was imported.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

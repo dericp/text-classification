@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="237879" id="root" date="1996-12-05" xml:lang="en">
+<title>USA: Talbots sees increased profits for FY 1996.</title>
+<headline>Talbots sees increased profits for FY 1996.</headline>
+<dateline>HINGHAM, Mass. 1996-12-05</dateline>
+<text>
+<p>Talbots Inc said Thursday it continues to expect fiscal 1996 to be its sixth consecutive year of increased profits, despite a 10 percent drop in November same-store sales.</p>
+<p>The company attributed the drop to this year's timing of Thanksgiving, saying there were only two selling days after the holiday this year, compared with nine days last year. Christmas holiday shopping traditionally goes into high gear after Thanksgiving.  It also noted that it continues to have lower customer traffic levels in its misses and petites stores.  </p>
+<p>&quot;In response to these sales trends, we are planning to maintain our tight expense controls through the balance of the year and although we remain cautious, we continue to expect fiscal 1996 to be our sixth consecutive year of increased profits,&quot; the company said in a release.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HINGHAM, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

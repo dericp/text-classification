@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107921" id="root" date="1996-10-10" xml:lang="en">
+<title>PERU: Cave paintings from 10,000 B.C. discovered in Peru.</title>
+<headline>Cave paintings from 10,000 B.C. discovered in Peru.</headline>
+<dateline>LIMA, Peru 1996-10-10</dateline>
+<text>
+<p>A team of Peruvian and Polish archaeologists announced on Thursday the discovery of rock paintings dating from before 10,000 B.C. in a cave complex that formed part of an ancient citadel.</p>
+<p>&quot;The quality and colours of the paintings are impressive,&quot; Jose Antonio Chavez said of the human and animal drawings. Chavez is head of archaeology at the Catholic Santa Maria University in the southern Peruvian city of Arequipa.</p>
+<p>The caves, in the Chuquibamba area of Arequipa department 650 miles (1,050 km) south of Lima, are thought to belong to a citadel built by members of the Izpacas culture, one of many Indian civilisations that existed in Peru before the 13th-century Inca culture.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA, Peru"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

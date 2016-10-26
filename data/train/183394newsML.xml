@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="183394" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: Consolidated Natural sets '97 cap spending.</title>
+<headline>Consolidated Natural sets '97 cap spending.</headline>
+<dateline>PITTSBURGH 1996-11-12</dateline>
+<text>
+<p>Consolidated Natural Gas Co said Tuesday it approved a $525.9 million capital budget for 1997.</p>
+<p>The company said this compares with its currently expected 1996 capital spending of about $513 million.</p>
+<p>It said its exploration and production segment will have a 1997 budget of $225 million that will permit increased conventional drilling on the Outer Continental Shelf of the Gulf of Mexico and inland basins.</p>
+<p>The company said about $55 million of 1996's $233 million in projected capital expenditures for exploraion and production have been spent on two deep-water projects in the Gulf of Mexico that are nearly completed.</p>
+<p>With less money committed to those deep-water projects in 1997, Consolidated said it will have additional dollars for varied exploration and production projects.</p>
+<p>The company produces, transports, distributes and markets natural gas, and offers a variety of energy marketing services throughout North America.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

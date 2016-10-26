@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75609" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Gunman shoots three at Oregon Scientology office.</title>
+<headline>Gunman shoots three at Oregon Scientology office.</headline>
+<dateline>PORTLAND, Ore. 1996-09-25</dateline>
+<text>
+<p>A gunman shot and wounded three people in a Church of Scientology office Wednesday and then started a fire before police arrested him, officials said.</p>
+<p>Two men and one woman were admitted to Oregon Health Sciences University Hospital. Officials did not immediately know their condition.</p>
+<p>Police spokesman Lt. Cliff Madison said the gunman walked into the street-level church office in downtown Portland and shot the receptionist and two other people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

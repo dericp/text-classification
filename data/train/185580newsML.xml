@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185580" id="root" date="1996-11-13" xml:lang="en">
+<title>GREECE: TABLE OF GREEK CENTRAL BANK FIXING RATES, NOV 13.</title>
+<headline>TABLE OF GREEK CENTRAL BANK FIXING RATES, NOV 13.</headline>
+<dateline>ATHENS 1996-11-13</dateline>
+<text>
+<p>The Bank of Greece's fixing rates</p>
+<p>for leading currencies on Wednesday were as follows.</p>
+<p>--------------------------------------------------------</p>
+<p> Currency:	Nov 13	Nov 12	DEC 29 95    NET</p>
+<p>--------------------------------------------------------</p>
+<p>- USD =	  238.030     236.700     237.040    0.42 %</p>
+<p>- ECU =	  302.600     302.690     303.640   -0.34 %</p>
+<p>- DEM =	  157.925     158.260     165.490   -4.57 %</p>
+<p>- FRF =	   46.728	46.766	48.410   -3.47 %</p>
+<p>- GBP =	  392.920     390.580     366.280    7.27 %</p>
+<p>- NLG =	  140.830     141.120     147.886   -4.77 %</p>
+<p>- ITL (100) =   15.687	15.668	14.975    4.75 %</p>
+<p>- JPY (100) =  213.490     212.810     230.135   -7.23 %</p>
+<p>- ESP =	    1.876	 1.879	 1.939   -3.25 %</p>
+<p>- PTE =	    1.561	 1.564	 1.575   -0.89 %</p>
+<p>- CHF =	  187.525     188.300     206.030   -8.98 %</p>
+<p>Note: The percentage net change is calculated as the percentage</p>
+<p>difference between the most recent fixing rate and the December</p>
+<p>29, 1995 rate.</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

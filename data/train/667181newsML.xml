@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="667181" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: US Senate tax outline seeks muni market relief.</title>
+<headline>US Senate tax outline seeks muni market relief.</headline>
+<dateline>WASHINGTON 1997-06-17</dateline>
+<text>
+<p>U.S. Senate Finance Committee Chairman William Roth on Tuesday released a broad tax plan that would repeal the current $150 million limit on issuance of so-called 501(c)(3) bonds for new capital expenditures.</p>
+<p>The bill also would raise the small issuer arbitrage rebate exception for governmental bonds used to finance educational facilities from $5 million to $10 million, according to an outline of the bill.  </p>
+<p>Roth's measure also would increase the size of projects financed with small-issue tax-exempt bonds to $20 million, according to the outline.</p>
+<p>The current $10 million bond cap would not change under the proposal, which the finance panel will begin voting on on June 19.</p>
+<p>A 501(c)(3) bond generally is used by a nonprofit group that qualifies for an exemption from federal tax, such as universities, housing authorities and hospitals.  </p>
+<p>Arbitrage, on the other hand, is made by selling tax-exempt bonds and reinvesting the proceeds in higher yielding securities. The Internal Revenue Service requires bond issuers to calculate whether they earned excess funds and to reimburse the U.S. Treasury if necessary.</p>
+<p>Municipal groups say the complex calculation process is costly. They want the United States to simplify it and to exempt many more localities from the job.</p>
+<p>((--Vicki Stamas 202 898-8314))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

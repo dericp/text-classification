@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252837" id="root" date="1996-12-12" xml:lang="en">
+<title>PAKISTAN: Pakistani Shi'ite Moslem militant shot dead.</title>
+<headline>Pakistani Shi'ite Moslem militant shot dead.</headline>
+<dateline>MULTAN, Pakistan 1996-12-12</dateline>
+<text>
+<p>Gunmen killed an activist of a Shi'ite Moslem militant group near the town of Multan in Pakistan's Punjab province, police said on Thursday.</p>
+<p>A police spokesman said unidentified gunmen fired on Barkat Ali and his nephew Abid Askari as they rode a motorcycle in Chichawatni town 130 km (81 miles) east of Multan on Wednesday.</p>
+<p>Ali, a local leader of the Shi'ite Sipah-i-Mohammad Pakistan (SMP) group, died on the spot. Askari was taken to hospital in Multan in critical condition with six bullet wounds.</p>
+<p>A doctor said one bullet had hit Askari in the head and he was on a life support system.</p>
+<p>There was no immediate claim of responsibility, but local followers of the SMP said they believed that the militant Sunni Moslem Sipah-i-Sahaba Pakistan group was behind the attack.</p>
+<p>Sunni-Shi'ite disputes over Islamic beliefs have often spilled into violence in Pakistan. Wednesday's killing follows a series of sectarian attacks this year in the central province of Punjab and the southern province of Sindh.</p>
+<p>Sunnis dominate Pakistan's population of about 130 million people, of which Shi'ites constitute about 15 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MULTAN, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

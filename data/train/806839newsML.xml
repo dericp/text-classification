@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="806839" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: BEFORE THE BELL - Hewlett-Packard falls.</title>
+<headline>BEFORE THE BELL - Hewlett-Packard falls.</headline>
+<dateline>NEW YORK 1997-08-18</dateline>
+<text>
+<p>Shares of Hewlett-Packard Co fell in pre-opening trade Monday in a reaction to third-quarter results that fell short of expectations.</p>
+<p>Traders reported light activity as investors remained wary following Friday's 247-point fall in the Dow industrials.</p>
+<p>&quot;I think people are cautious going into the opening,&quot; one trader said. &quot;People are just not pulling the trigger as fast.&quot;</p>
+<p>Hewlett-Packard was trading at 64-5/16, rebounding from a drop that took it as low as 62. It closed Friday at 66-3/16.  </p>
+<p>The computer products company reported third-quarter earnings of $0.58 a share, versus $0.40 for the same period last year. The results fell short of a First Call consensus estimate of $0.68 a share.</p>
+<p>Among other shares, semiconductor maker Intel Corp was trading at 91-7/8, down from a Friday close at 92-2/16, and International Business Machines Corp eased to 99-1/4 from a Friday close of 99-15/16.</p>
+<p>((--Ian Simpson, Wall Street Desk, (212) 859-1879))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

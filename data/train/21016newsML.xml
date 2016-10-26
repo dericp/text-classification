@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21016" id="root" date="1996-08-29" xml:lang="en">
+<title>FINLAND: MERITA TO CUT PRIME RATE TO 4.25 PCT.</title>
+<headline>MERITA TO CUT PRIME RATE TO 4.25 PCT.</headline>
+<dateline>HELSINKI 1996-08-29</dateline>
+<text>
+<p>Merita Bank said in a statement on Thursday it would cut its prime rate to 4.25 percent from 4.75 percent with effect from October 1.</p>
+<p>&quot;The reasons for lowering the prime rate are the fall which has already taken place in market interest rates, a still favourable economic outlook and moderate inflation expectations,&quot; Merita said.</p>
+<p>Merita last cut its prime rate on April 1, from 5.25 percent.</p>
+<p>-- Helsinki newsroom +35 80 6805 0247</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

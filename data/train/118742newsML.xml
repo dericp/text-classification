@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118742" id="root" date="1996-10-15" xml:lang="en">
+<title>INDONESIA: Davomas 9-mth net almost doubles.</title>
+<headline>Davomas 9-mth net almost doubles.</headline>
+<dateline>JAKARTA 1996-10-15</dateline>
+<text>
+<p>Nine months to September, 30, 1996</p>
+<p>		 (in billion rupiah unless stated)</p>
+<p>    Net profit				 29.86 vs 15.00</p>
+<p>    Earnings per share (in rupiah)	 295 vs 327</p>
+<p>    Net sales				 160.40 vs 85.189</p>
+<p>    Operating profit			 37.28 vs 19.59</p>
+<p>NOTE: PT Davomas Abadi is a cocoa butter manufacturer. Earnings per share were calculated on the basis of 170.38 million shares in 1996 against 45.8 million in 1995, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

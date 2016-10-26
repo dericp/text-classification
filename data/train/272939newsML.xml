@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272939" id="root" date="1996-12-23" xml:lang="en">
+<title>LATVIA: Estonia Tallinna Pank to buy into Latvian Saules.</title>
+<headline>Estonia Tallinna Pank to buy into Latvian Saules.</headline>
+<dateline>RIGA 1996-12-23</dateline>
+<text>
+<p>One of Estonia's leading banks, Tallinna Pank, is to buy 20 percent of 10th largest Latvian bank, Saules Bank, newspaper Bizness I Baltiya said on Monday.</p>
+<p>It said that Saules held an extraordinary shareholders' meeting on Saturday, where they backed the sale to Tallinna Pank of the 20 percent stake for 900,000 lats.</p>
+<p>Saules Bank was not available to confirm the report.</p>
+<p>Tallinna Pank has been expected for some time to expand into the Latvian market, following in the footsteps of the largest Estonian bank, Hansapank. Hansapank earlier this year bought Latvian bank, Deutsche-Lettische.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

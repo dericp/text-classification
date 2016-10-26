@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74538" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: IPO FILING - Miami Computer Supply Corp.</title>
+<headline>IPO FILING - Miami Computer Supply Corp.</headline>
+<dateline>WASHINGTON 1996-09-25</dateline>
+<text>
+<p>Company Name	    Miami Computer Supply Corp</p>
+<p>Stock symbol			MCSC.O</p>
+<p>Estimated price range	   $7-9/shr</p>
+<p>Total shares to be offered    1.0 million</p>
+<p>Shrs offered by company	 1.0 million</p>
+<p>Shrs offered by shareholders  none Shrs outstanding after IPO    3,388,000</p>
+<p>Lead Underwriter    Friedman, Billings, Ramsey &amp; Co Inc</p>
+<p>Underwriters over-allotment  150,000 shrs</p>
+<p>Business: Dayton, Ohio,-based company distributes computer and office automation supplies and accessories.</p>
+<p>Use of Proceeds: To repay debt, for working capital and general corporate purposes, including financing the expansion of the company's business and possible acquisitions.</p>
+<p>Financial Data in 000s:     1995		 1994</p>
+<p>   - Revenue		  $43,321	    $35,690</p>
+<p>   - Net Income		   793		  610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

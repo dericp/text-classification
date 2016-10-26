@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107953" id="root" date="1996-10-10" xml:lang="en">
+<title>BRAZIL: Brazilian left slams Cardoso's re-election moves.</title>
+<headline>Brazilian left slams Cardoso's re-election moves.</headline>
+<dateline>BRASILIA 1996-10-10</dateline>
+<text>
+<p>Brazil's left-wing Workers Party on Thursday criticised as obsessive a plan of President Fernando Henrique Cardoso to stand for an unprecendented second term.</p>
+<p>&quot;The president of the republic has decided to place at the top of the national agenda what seems to be a personal obsession -- his own re-election,&quot; the party said in a statement.</p>
+<p>Brazil's constitution limits presidents, state governors and mayors to one term. But Cardoso has said he wants to stand in the 1998 presidential elections to continue his economic and state reform programme.</p>
+<p>Congress is due later this month to start discussing a constitutional amendment that would allow re-election.</p>
+<p>The Workers Party is the biggest opposition party in Congress.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

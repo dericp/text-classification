@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320422" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: American Medserve invests in pharmacy.</title>
+<headline>American Medserve invests in pharmacy.</headline>
+<dateline>NAPERVILLE 1997-01-21</dateline>
+<text>
+<p>American Medserve Corp said Tuesday it had invested an undisclosed amount in HMIS Inc, an institutional pharmacy in Timonium, Md.</p>
+<p>HMIS provides pharmacy and related services to about 2,500 residents in long-term care facilities in Maryland, American Medserve said. HMIS has annual revenues of about $10 million.</p>
+<p>American Medserve provides pharmacy services to about 45,500 residents of more than 600 long-term care facilities and assisted living sites in 10 states.</p>
+<p>American Medserve shares were down 1/2 at 18.</p>
+<p>((-- Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPERVILLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

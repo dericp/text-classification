@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="324781" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: PRESALE - Schenectady, N.Y..</title>
+<headline>PRESALE - Schenectady, N.Y..</headline>
+<text>
+<p>AMT: 10,530,000     DATE: 01/28/97	NYC Time: 1100	CUSIP: 806449</p>
+<p>ISSUER: Schenectady						     ST: NY</p>
+<p>ISSUE: Public improvement serial, series 1997		  TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 02/01/97							     SURE BID: N</p>
+<p>DUE: 2/1/98-12						SR MGR:</p>
+<p>1ST CPN: 02/01/98</p>
+<p>CALL: 2/1/07 @ 102, dtp 2009			    NIC</p>
+<p>DELIVERY: 2/12/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: Director of Finance's Office, Schenectady</p>
+<p>L.O.: Squire, Sanders &amp; Dempsey, NYC</p>
+<p>F.A.: Munistat Services, Inc., Port Jefferson</p>
+<p>LAST SALE: $7,496,000 FSA 6/6/96 @ 5.3744% NIC; 8yrs 11mos avg; BBI- 5.94%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    470,000</p>
+<p>1999		    495,000</p>
+<p>2000		    525,000</p>
+<p>2001		    550,000</p>
+<p>2002		    580,000</p>
+<p>2003		    615,000</p>
+<p>2004		    650,000</p>
+<p>2005		    685,000</p>
+<p>2006		    720,000</p>
+<p>2007		    760,000</p>
+<p>2008		    800,000</p>
+<p>2009		    845,000</p>
+<p>2010		    895,000</p>
+<p>2011		    945,000</p>
+<p>2012		    995,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

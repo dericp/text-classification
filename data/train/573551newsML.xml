@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="573551" id="root" date="1997-05-09" xml:lang="en">
+<title>VIETNAM: Text of first U.S. ambassador's statement in Hanoi.</title>
+<headline>Text of first U.S. ambassador's statement in Hanoi.</headline>
+<dateline>HANOI 1997-05-09</dateline>
+<text>
+<p>The United States' first ambassador to Vietnam, Douglas &quot;Pete&quot; Peterson, arrived in Hanoi on Friday to take up his post. Following is the text of his statement on arrival:</p>
+<p>&quot;Thank you very much for this very, very warm welcome. I am very, very pleased to be back in Hanoi once again. This is a very special day for America and for Vietnam. Today we exchange ambassadors, marking the full normalisation of diplomatic relations between our two countries. It is an historical event and the beginning of a new era of constructive relations between Vietnam and the United States.</p>
+<p>&quot;In the next few weeks I look forward to present my credentials and meeting...many Vietnamese leaders and the Vietnamese people. I am also eager to get acquainted with my embassy colleagues, including the Joint Task Force, as well as business people, NGOs and the press of which, I think, I am meeting you all right now.</p>
+<p>&quot;I will be involved in a very steep learning curve over the next few weeks. While I'm finding my way around...I presume not to make any formal press statements.</p>
+<p>&quot;But I want to make one point at the outset. My mission here is to advance U.S. interests in Vietnam and our highest national priority is to advance the fullest possible accounting for persons missing from the war. America and Vietnam have put that conflict behind them, but finding out what happended to the missing is an urgent task for their families and for the nation that they honoured. I will tell the Vietnamese leaders that President Clinton and the American people are grateful for their excellent cooperation on this humanitarian effort on this point.</p>
+<p>&quot;While the fullest possible accounting remains at the top of our agenda, U.S. and Vietnam relations are moving forward in many other ways. We hope to conclude a comprehensive trade agreement soon. The debt agreement signed here last month was an important step towards achieving a trade treaty and full economic normalisation.</p>
+<p>&quot;Simply put, the United States' policy is to help Vietnam become a prosperous country, at peace with its neighbours and fully intergrated into this dynamic region of the world.</p>
+<p>&quot;I think this policy is an accurate reflection of our national feelings. Whenever I examine the way Vietnamese and Americans think about each other, I encounter a wellspring of goodwill on both side. I want us to tap into that goodwill through official and economic ties and through a wide range of exchanges. In time, I am confident that we will not think of ourselves as former adversaries, but as very good friends.</p>
+<p>&quot;Thank you and I appreciate you being with us today. I look forward to seeing you all in the months ahead. Thank you very much.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

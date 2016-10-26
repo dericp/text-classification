@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="638062" id="root" date="1997-06-04" xml:lang="en">
+<title>USA: L.A. County votes to limit welfare to cover bonds.</title>
+<headline>L.A. County votes to limit welfare to cover bonds.</headline>
+<dateline>LOS ANGELES 1997-06-03</dateline>
+<text>
+<p>The Los Angeles County Board of Supervisors approved a plan on Tuesday to limit county welfare payments and to use the savings if necessary to back a future bond issue.</p>
+<p>The ordinance, approved by the board by a vote of 5-to-0, will limit general relief payments for county welfare recipients to four months in any 12 month period.</p>
+<p>The savings -- estimated at $38.5 million in the first year -- would help pay the annual debt service on bonds that the county may need to issue to comply with a $136 million court decision, county attorneys told the board.</p>
+<p>In March, a state appeals court ordered the county to repay welfare benefits denied to tens of thousands of recipients from 1993 to 1995. Unless the ruling is overturned by the state Supreme Court, the county said it would have to pay out $136 million.</p>
+<p>The county said, however, that it does not have enough cash in the 1997-1998 budget to pay the full amount. To raise the money, county finance officials proposed the welfare-bond plan that was approved on Tuesday.</p>
+<p>Under the plan, the county will limit welfare benefits to four months a year, generating savings for the county in the process. The county could then issue bonds to settle the court dispute, and use these savings to repay the bondholders.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

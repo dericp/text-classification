@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555358" id="root" date="1997-05-02" xml:lang="en">
+<title>UK: Hong Kong stocks in London higher, HSBC features.</title>
+<headline>Hong Kong stocks in London higher, HSBC features.</headline>
+<dateline>LONDON 1997-05-01</dateline>
+<text>
+<p>Hong Kong shares in London gained on Friday with heavyweight stock HSBC Holdings leading the way, dealers said.</p>
+<p>The Hang Seng London Reference index closed up 181.96 points at 13,263.66 after the Hang Seng index rallied in Hong Kong to finish 60.92 points higher at 13,081.70.</p>
+<p>HSBC Holdings surged HK$4.12-1/2 in London to HK$201.62 -1/2, its first time over HK$ 200, as it was dragged higher by a stong performance by its London registered stock. HSBC's London registered shares climbed 40p to 16.81 stg by 1433 GMT.</p>
+<p>Dealers said the overall tone in the market was firm encouraged by lower-than-expected non-farm payrolls data from the U.S. but lacked any real follow through in London as significant natural buyers failed to emerge.</p>
+<p>--Andrew Langlands, London Newsroom +44 171 542 3496 (c) Reuters Limited 1997</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

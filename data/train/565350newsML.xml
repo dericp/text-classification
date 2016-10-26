@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="565350" id="root" date="1997-05-07" xml:lang="en">
+<title>UK: CRICKET-ENGLISH COUNTY CHAMPIONSHIP SCORES.</title>
+<headline>CRICKET-ENGLISH COUNTY CHAMPIONSHIP SCORES.</headline>
+<dateline>LONDON 1997-05-07</dateline>
+<text>
+<p>Scores at the close of play on the opening day of four-day English County Championship cricket matches on Wednesday:</p>
+<p>At Hartlepool: Nottinghamshire 170 all out (C.Tolley 54; A.Walker 7-56). Durham 115-3.</p>
+<p>At Bristol: Hampshire 221-6 (R.Smith 52) v Gloucestershire.</p>
+<p>At Lord's: Middlesex 337-5 (M.Ramprakash 145, K.Brown 72 not out) v Sussex.</p>
+<p>At Northampton: Northamptonshire 126-4 (K.Curran 65) v Somerset.</p>
+<p>At Worcester: Worcestershire 199-6 (K.Spiring 55) v Leicestershire.</p>
+<p>At Headingley: Glamorgan 213-1 (S.James 101 not out, H.Morris 55) v Yorkshire.</p>
+<p>At Derby: Derbyshire v Surrey - no play because rain.</p>
+<p>Other matches:</p>
+<p>At Fenner's: Cambridge University 285-9 declared (A.Singh 134, E.Smith 72; D.Law 5-93). Essex 22-0.</p>
+<p>At The Parks: Oxford University 129 all out (G.Welch 4-39) v Warwickshire.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

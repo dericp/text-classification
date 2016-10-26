@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="51105" id="root" date="1996-09-12" xml:lang="en">
+<title>JAPAN: Sanwa Bank unveils second embezzlment case.</title>
+<headline>Sanwa Bank unveils second embezzlment case.</headline>
+<dateline>TOKYO 1996-09-12</dateline>
+<text>
+<p>Sanwa Bank Ltd said on Thursday that it had dismissed a Tokyo-based branch official for embezzling about 27 million yen, the second such case it has unveiled this month.</p>
+<p>A spokesman for the bank said it fired the official on September 5 after discovering in an internal investigation in August that he had embezzled customers' money for more than three years.</p>
+<p>The official had said he would repay the money and the bank would not file a criminal complaint against him, the spokesman said.</p>
+<p>Earlier this month, Sanwa said a former branch manager had embezzled 550 million yen. He was arrested after the bank filed a complaint against him for breach of trust.</p>
+<p>The two cases were not related, the spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

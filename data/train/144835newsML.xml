@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="144835" id="root" date="1996-10-25" xml:lang="en">
+<title>FINLAND: NOKIA ADR ENDS AT $46-1/2 (FIM 212.36).</title>
+<headline>NOKIA ADR ENDS AT $46-1/2 (FIM 212.36).</headline>
+<dateline>HELSINKI 1996-10-25</dateline>
+<text>
+<p>Nokia's A share ADR closed up $0-1/4 at $46-1/2 in New York on Thursday.</p>
+<p>Its Wall Street closing equals about 212.36 markka. In Helsinki on Thursday, Nokia A closed up 5.00 markka at 214.00.</p>
+<p>Valmet's ADR (two shares) closed down $0-1/8 at $31-7/8 on Wall Street. The price equals about 72.78 markka. In Helsinki, Valmet closed up 0.20 markka at 72.70.</p>
+<p>Rauma's ADR closed unchanged at $18 on Thursday. The price equals about 82.20 markka.</p>
+<p>Rauma closed down 1.00 at 82.50 markka in Helsinki.</p>
+<p>--Helsinki newsroom +358-0-680 50 240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I32754">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

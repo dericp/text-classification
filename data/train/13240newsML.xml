@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13240" id="root" date="1996-08-25" xml:lang="en">
+<title>ISRAEL: Israel sentences Palestinian to life in prison.</title>
+<headline>Israel sentences Palestinian to life in prison.</headline>
+<dateline>JERUSALEM 1996-08-25</dateline>
+<text>
+<p>An Israeli military court on Sunday sentenced a Palestinian to life in prison plus 20 years for his part in a 1994 attack in Jerusalem in which two people were killed.</p>
+<p>The court in the central Israeli town of Lod convicted Iman Sider, 30, on eight counts, including belonging to the Islamic militant group which carried out the shooting, an army ststement said.</p>
+<p>Hamas, an opponent of the Israel-PLO peace accords, claimed responsibility for the attack.</p>
+<p>&quot;The Lod military court sentences Iman Sider to life plus 20 years,&quot; an Israel army statement said.</p>
+<p>In the October 1994 attack, two Hamas gunmen opened fire at midnight at a crowded Jerusalem pedestrian mall killing two people. The guerrillas were shot dead during the attack.</p>
+<p>The statement said Sider was involved &quot;in the transer of the weapon and the transport of the terrorists&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="487179" id="root" date="1997-04-04" xml:lang="en">
+<title>MAURITIUS: Mauritius rupee firms against dollar and pound.</title>
+<headline>Mauritius rupee firms against dollar and pound.</headline>
+<dateline>PORT LOUIS 1997-04-04</dateline>
+<text>
+<p>The Mauritian rupee firmed against both the dollar and the British pound on Friday as a result of external factors, commercial forex dealers said.</p>
+<p>The rupee was quoted at a mean commercial rate of 20.171 against the dollar from 20.186 on Thursday.</p>
+<p>Against the pound, the rupee traded at a mean rate of 33.135 from 33.225 on Thursday.</p>
+<p>Dealers said the dollar weakened on international markets, strengthening the Mauritian rupee.</p>
+<p>&quot;Actually, the Mauritian money market is quiet, as there is no big activity in the inter-bank forex market. Importers' demands were met by central bank intervention last Tuesday,&quot; said one dealer.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

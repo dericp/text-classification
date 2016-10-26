@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48634" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: Cuno Q3 shr down after charges.</title>
+<headline>Cuno Q3 shr down after charges.</headline>
+<dateline>MERIDEN, Conn. 1996-09-12</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.05		    $0.10</p>
+<p> Net			    630		    1,419</p>
+<p> Sales		     48,542		   43,467</p>
+<p>	  Nine months ended July 31</p>
+<p> Shr primary		$0.63		    $0.30</p>
+<p> Net			  5,732		    4,076</p>
+<p> Sales		    134,636		  120,810</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Average shares figures were not provided.  </p>
+<p>Full company name is Cuno Inc.</p>
+<p>Before charge earnings were $0.26 for the third quarter compared to $0.10 for the year earlier period and $0.63 for the nine-month period ending July 31, compared to $0.30 for the year earlier period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MERIDEN, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200507" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: AnnTaylor Stores Corp Q3 shr up.</title>
+<headline>AnnTaylor Stores Corp Q3 shr up.</headline>
+<dateline>NEW YORK 1996-11-19</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		 $0.13		    $0.03</p>
+<p> Net		 3,262		    666</p>
+<p> Net Sales	 212,670		  178,500</p>
+<p> Avg shrs	  24,334		   23,195</p>
+<p>	  9  MONTHS</p>
+<p> Shr		 $0.24		    $0.02</p>
+<p> Net		 5,701		    368</p>
+<p> Net Sales	 584,999		  530,501</p>
+<p> Avg shrs	  23,597		   23,244</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The company recorded a Q3 1996 charge related to estimated costs of obligations under the former chairperson's employment contract of about $2 million after-tax, resulting in reduction of Q3 1996 net income by $0.08 per share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

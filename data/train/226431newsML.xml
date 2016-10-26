@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="226431" id="root" date="1996-11-29" xml:lang="en">
+<title>GERMANY: East German spy lawyer Vogel acquitted of extortion.</title>
+<headline>East German spy lawyer Vogel acquitted of extortion.</headline>
+<dateline>BERLIN 1996-11-29</dateline>
+<text>
+<p>Wolfgang Vogel, the East Berlin lawyer who won fame by engineering Cold War spy swaps, was acquitted of extortion by a German court on Friday.</p>
+<p>Vogel was cleared of nine counts after the judge said there was insufficient evidence to convict him.</p>
+<p>The lawyer who arranged the 1962 exchange of U.S. pilot Gary Powers for Soviet spy Rudolf Abel, was previously found guilty in January of extorting money from East German emigrants eager to flee to the West.</p>
+<p>He was given a two-year suspended sentence and fined 92,000 German marks after being found guilty then of perjury, blackmail and falsifying documents.</p>
+<p>The cases Vogel was acquitted of on Friday were weaker than the cases he was tried on in January.</p>
+<p>A close confidant of former East German leader Erich Honecker and one of the former Soviet bloc's rare millionares, Vogel is best known for his 30-year career as an unofficial East-West go-between securing the release of more than 100 spies and agents.</p>
+<p>His delicate negotiating also helped shepherd nearly 34,000 political prisoners and 215,000 members of German families to freedom in the West.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

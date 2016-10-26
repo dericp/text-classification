@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157800" id="root" date="1996-10-31" xml:lang="en">
+<title>EGYPT: INDICATORS - Egypt - updated Oct 31.</title>
+<headline>INDICATORS - Egypt - updated Oct 31.</headline>
+<text>
+<p>---INTEREST RATES---</p>
+<p>					Latest   Date  Pvs Rate  Mth ago</p>
+<p>91-day treasury bill yield    10.246   24/10  10.248   10.260</p>
+<p>182-day treasury bill yield   10.256   22/10  10.257   10.259</p>
+<p>Central Bank discount rate    13.5     Nov95  14.0     13.5</p>
+<p>Av o/nite interbank (private) 10 3/8   31/10  10 1/4   10 1/16</p>
+<p>O/nite interbank (public)     10 1/2   31/10  10 1/2   10 1/2</p>
+<p>			    ---MONTHLY DATA---</p>
+<p>				   Month	    Pvs Mth	 Yr ago</p>
+<p>CPI (yr-on-yr)	    August   7.6	   9.4	    8.7</p>
+<p>Oil exports (LEmillion)     April    450	   671	    185</p>
+<p>Non-oil exps (LEmillion)    April    564	   731	    752</p>
+<p>Imports (LEmillion)	   April  3,408	 2,911	  2,926</p>
+<p>Trade Bal (LEmillion)	 April -2,394	-1,509	 -1,989</p>
+<p>Oil prod (bpd x 1000)   Sept     827	   842	    887</p>
+<p>Suez Cnl ($million)	   Aug    151.9	 152.3	  164.0</p>
+<p>Tourism ($million)	    July     214	   191	    118</p>
+<p>			   ---QUARTERLY DATA---</p>
+<p>				    Q4 95-96   Pvs quarter     Yr ago</p>
+<p>M1 growth (year-on-year)    10.8 pct    11.3 pct     12.0 pct</p>
+<p>M2 growth (year-on-year)    10.5 pct    10.2 pct     11.1 pct</p>
+<p>Trade balance	 ($million)  -2,393.2    -2.122.0     -2,172.3</p>
+<p>Services balance    ($million)  +1,491.6    +1,331.5     +1,243.9</p>
+<p>Transfers balance   ($million)    +890.5	+845.5     +1,015.0</p>
+<p>C/A BALANCE	   ($million)     -11.1	 +55.0	  +86.3</p>
+<p>Capital operations  ($million)    +171.9	+440.9	 +230.7</p>
+<p>Errors/omissions    ($million)     +46.8	-302.9	 -395.0</p>
+<p>BALANCE OF PAYMENTS ($million)    +207.6	+193.2	  -78.0</p>
+<p>			     ---ANNUAL DATA---</p>
+<p>				 Year		Pvs year    Two yrs prv</p>
+<p>GDP Growth (% change)   1996-7    5.0	  4.9	     4.7</p>
+<p>Unemployment (%)	  1995-6    9.4	  9.6	     9.4</p>
+<p>LE/$ RATE		   end-95   3.393	3.392	   3.373</p>
+<p>Gvt Dfct (LE million)	 1995-6   5,487	5,297	   3,614</p>
+<p>Notes:</p>
+<p>1. GDP growth, balance of payments, current account and government budget deficit figures are all based on fiscal years, which start on July 1.</p>
+<p>2. Unemployment figures are from the Central Bank. Unofficial sources say they are underestimates.</p>
+<p>3. M1 is shorthand for cash in circulation plus current account deposits in Egyptian pounds, M2 is M1 plus time deposits plus foreign exchange deposits, both current and time.</p>
+<p>-- Cairo reporting unit +20 2 578 3290/1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

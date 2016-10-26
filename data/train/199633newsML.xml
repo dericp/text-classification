@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="199633" id="root" date="1996-11-19" xml:lang="en">
+<title>PANAMA: Traffic controllers' strike shuts Panama airports.</title>
+<headline>Traffic controllers' strike shuts Panama airports.</headline>
+<dateline>PANAMA CITY 1996-11-19</dateline>
+<text>
+<p>Panama's airports were paralysed Tuesday by an air traffic controllers' strike over pay and pensions, a Civil Air Service spokeswoman said.</p>
+<p>&quot;Everything is closed. There is no air traffic because of the strike,&quot; she said.</p>
+<p>Tocumen International Airport in Panama City, the nation's largest, was closed until further notice, she said. It normally handles about 200 flights a day.</p>
+<p>The capital's Paitilla Airport, which handles about 250 flights of smaller commuter planes a day, was also closed, as were half a dozen other small airports across the country.</p>
+<p>The 94 controllers walked out after talks with the government on a pay hike to $2,000 a month from an average of $600 broke down at the weekend.</p>
+<p>They also want a package allowing them to retire earlier than the national average of 62 years for men and 57 years for women.</p>
+<p>The spokeswoman said the strikers hoped to meet government officials again. The government said earlier it would fire the controllers if they went on strike.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PANAMA CITY"/>
+<dc element="dc.creator.location.country.name" value="PANAMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

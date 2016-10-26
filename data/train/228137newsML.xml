@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228137" id="root" date="1996-12-02" xml:lang="en">
+<title>YUGOSLAVIA: Yugoslavia's maize exports seen at 2 mln tonnes.</title>
+<headline>Yugoslavia's maize exports seen at 2 mln tonnes.</headline>
+<dateline>BELGRADE 1996-11-29</dateline>
+<text>
+<p>Yugoslavia could export up to two million tonnes of maize from its 1996 crop, an official of the country's Fund for grains said on Monday.</p>
+<p>&quot;Our surplus is about one million tonnes,&quot; director of the fund Vukosav Sakovic told Reuters. &quot;But due to a sharp drop in head of cattle, we will have two instead of one million tonnes of maize for exports.&quot;</p>
+<p>He said the maize harvest was expected to total six million tonnes this year. Cattle numbers have halved compared to 1990, he said. &quot;That is why less than four million tonnes of maize will be enough to meet domestic needs.&quot;</p>
+<p>The Serbian Chamber of Commerce estimated 5.5 to six million tonnes of maize will be harvested from 1.45 million hectares with average yields of 3.9 tonnes per hectare. Last year's harvest was around 5.7 million tonnes.</p>
+<p>But the federal ministry for agriculture said maize had to be harvested from 1.56 million hectares. --Gordana Kukic, Belgrade Newsroom 381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

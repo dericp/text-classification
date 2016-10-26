@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195812" id="root" date="1996-11-18" xml:lang="en">
+<title>UK: LSE Turnover/Indices - NOV 18.</title>
+<headline>LSE Turnover/Indices - NOV 18.</headline>
+<text>
+<p>FTSE INDICES			     VOLUME</p>
+<p>FTSE 100	  3962.1 (3958.2)   Total Trades (NOV 14) 23,698</p>
+<p>Eurotrack 100  1822.66 (1821.33)</p>
+<p>Eurotrack 200  1865.92 (1864.33)</p>
+<p>FT mid-250	4400.2 (4409.9)	    Other Indices</p>
+<p>FT Act-350	1973.9 (1973.3)  FT Govt Secs   94.49   (94.10)</p>
+<p>					   FT Gold MN   1979.63 (1960.57)</p>
+<p>FT-ACTUARIES INDICES</p>
+<p>FT 30	  2777.70 (2775.8)    All Share    1948.57 (1948.15)</p>
+<p>ISEQ Index   2649.70 (2659.36)   500 Share    2038.06 (2036.87)</p>
+<p>					   Oils	   3986.13 (3951.60)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

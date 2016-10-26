@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192288" id="root" date="1996-11-15" xml:lang="en">
+<title>VENEZUELA: RESEARCH ALERT - Sivensa rated buy.</title>
+<headline>RESEARCH ALERT - Sivensa rated buy.</headline>
+<dateline>CARACAS 1996-11-15</dateline>
+<text>
+<p>Salomon Brothers rated Venezuelan steel company Sivensa as a buy.</p>
+<p>-- Based on its attractive valuation compared to its peer group, Salomon analyst Cristina von Bargen recommended that investors take advantage of the stock's current price weakness. At 10:45 local/ 14:45 GMT the stock stood at 340.00 bolivars, twelve bolivars up from the opening price.  </p>
+<p>-- a strong export to domestic sales ration offers a good hedge to upset domestic market upheavals, although Venezuelan economic recovery in 1997 should see domestic sales rise ten to 15 percent, the report said.</p>
+<p>-- Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141257" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Data Documents Q3 shr $0.25 vs $0.21.</title>
+<headline>Data Documents Q3 shr $0.25 vs $0.21.</headline>
+<dateline>OMAHA, Neb. 1996-10-24</dateline>
+<text>
+<p>DATA DOCUMENTS INCORPORATED AND SUBSIDIARIES</p>
+<p>		    CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>(Columnar Amounts in Thousands, Except Share and Per Share Data)</p>
+<p>			   Three Months Ended  Nine Months Ended</p>
+<p>				September 30,	 September 30,</p>
+<p>				  1996     1995	 1996	1995</p>
+<p>				 (Unaudited)	   (Unaudited)</p>
+<p> NET SALES		$ 59,794  $ 62,757   $184,472  $176,987</p>
+<p> COST OF GOODS SOLD     43,638    48,239    135,880   135,864</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

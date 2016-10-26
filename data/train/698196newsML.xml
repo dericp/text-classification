@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="698196" id="root" date="1997-07-01" xml:lang="en">
+<title>SPAIN: BASKETBALL-STANDINGS IN THE EUROPEAN CHAMPIONSHIP.</title>
+<headline>BASKETBALL-STANDINGS IN THE EUROPEAN CHAMPIONSHIP.</headline>
+<dateline>GERONA, Spain 1997-06-30</dateline>
+<text>
+<p>Standings in the second</p>
+<p>phase of the European Basketball championship after Monday's</p>
+<p>games.</p>
+<p>NB: Teams that have already played each other in the first</p>
+<p>phase do not meet again. Results from the first round games are</p>
+<p>carried forward and used in deciding second phase</p>
+<p>classifications. The top four teams of each of Group E and F</p>
+<p>qualify for the quarter finals.</p>
+<p>Group E (in Gerona):</p>
+<p>			  Pl    W    L   pf   pa</p>
+<p> 1.Greece	     5     5    0  379  337</p>
+<p> 2.Russia	     5     4    1  404  334</p>
+<p> 3.Lithuania	  5     4    1  404  373</p>
+<p> 4.Turkey	     5     2    3  344  387</p>
+<p> 5.Israel	     5     2    3  357  393</p>
+<p> 6.France	     5     1    4  401  430</p>
+<p>Group F (in Badalona):</p>
+<p>			  Pl    W    L   pf   pa</p>
+<p> 1.Italy		5     5    0  369  331</p>
+<p> 2.Spain		5     4    1  391  308</p>
+<p> 3.Yugoslavia	 5     4    1  433  374</p>
+<p> 4.Poland	     5     2    3  365  443</p>
+<p> 5.Croatia	    5     1    4  372  369</p>
+<p> 6.Germany	    5     1    4  330  357</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GERONA, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

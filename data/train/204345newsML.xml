@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204345" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Florida designates memorial to Valujet crash victims.</title>
+<headline>Florida designates memorial to Valujet crash victims.</headline>
+<dateline>MIAMI 1996-11-19</dateline>
+<text>
+<p>The state of Florida Tuesday designated a stretch of land in the Everglades as a permanent memorial to the victims of ValuJet Flight 592, which crashed near Miami May 11 killing all 110 people on board.</p>
+<p>The announcement by Gov. Lawton Chiles came as the National Transportation Safety Board continued a grim public hearing on the deadly crash, with testimony centering on boxes of oxygen generators suspected of either starting or feeding a ferocious fire on the aircraft before it crashed.</p>
+<p>In a declaration, Chiles said a section of state land along the Tamiami Trail, a roadway about 12 miles (20 km) from the crash site, would be set aside as a memorial area and an observation point from which to look out at the crash scene.</p>
+<p>The crash site itself, still marked off and closed to the public to allow for recovery of debris and material, also eventually will be allowed to return to its natural state as the final resting place of victims whose bodies have not been recovered.</p>
+<p>Only 65 of the crash victims have been identified so far.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

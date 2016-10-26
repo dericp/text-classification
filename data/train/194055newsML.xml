@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194055" id="root" date="1996-11-15" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Dublin airport Oct passenger traffic up 11 pct y/y.</title>
+<headline>Dublin airport Oct passenger traffic up 11 pct y/y.</headline>
+<dateline>DUBLIN 1996-11-15</dateline>
+<text>
+<p>Passenger numbers at Dublin airport continued to grow in October with 773,942 people travelling through the airport, an increase of 11 percent on last October, Irish airport management company Aer Rianta said.</p>
+<p>Traffic to and from Britain was up nine percent over the year while transatlantic traffic grew 21 percent, Aer Rianta said in a statement.</p>
+<p>Traffic to and from continental Europe was up 11 percent while domestic traffic grew by seven percent.</p>
+<p>&quot;Dublin airport is enjoying one of its best years ever,&quot; the company said.</p>
+<p>-- Dublin Newsroom +353 1 660 3377</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

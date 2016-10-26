@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386703" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: RESEARCH ALERT - Advanced Micro raised.</title>
+<headline>RESEARCH ALERT - Advanced Micro raised.</headline>
+<text>
+<p>-- Salomon Brothers said analyst Erika Klauer upgraded Advanced Micro Devices Inc to strong buy from hold.</p>
+<p>-- Raised 1997 earnings per share estimate to $1.50 from $0.20 and 1998 to $3.50 from $1.00.</p>
+<p>-- Among reasons, said AMD's K6 microprocessor is &quot;ready to go with compatibility testing no longer an issue.&quot;</p>
+<p>-- Cited strong flash memory business conditions and improving programmable logic device business.</p>
+<p>-- Said stock has upside potential to $50-$55 by year end.</p>
+<p>-- Stock closed up one at 35-1/2.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

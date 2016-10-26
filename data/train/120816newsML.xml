@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="120816" id="root" date="1996-10-16" xml:lang="en">
+<title>FRANCE: France's Jospin seeks dollar-euro parity.</title>
+<headline>France's Jospin seeks dollar-euro parity.</headline>
+<dateline>PARIS 1996-10-16</dateline>
+<text>
+<p>French opposition Socialist leader Lionel Jospin called in an interview published on Wednesday for a new European policy to promote economic growth based on parity between the euro and the dollar.</p>
+<p>Jospin told the weekly Le Nouvel Observateur that a single European currency would be good for France by making it less dependent on the deutschemark and for Europe by putting it on an equal footing with the dollar.</p>
+<p>&quot;Of course, that presupposes that the euro is not overvalued in relation to the dollar. The idea that one euro should be worth one dollar, raised by (former Socialist prime minister) Laurent Fabius, seems to me the right approach,&quot; he said.</p>
+<p>The European Currency Unit (ECU) is currently worth $1.25, so parity would imply a major devaluation of the euro against the U.S. unit.</p>
+<p>Jospin said France should insist that the single currency must not stifle economic growth and that setting the exchange rate was a political, not an accounting decision.</p>
+<p>&quot;We need a Europe of growth and employment, a Europe which defends itself towards globalisation and the United States, a Europe which thinks a bit less about its financial markets and a bit more about its peoples,&quot; Jospin said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

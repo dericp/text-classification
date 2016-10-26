@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777732" id="root" date="1997-08-05" xml:lang="en">
+<title>LATVIA: NEW CAR SALES AT 2,533 BY END JULY.</title>
+<headline>NEW CAR SALES AT 2,533 BY END JULY.</headline>
+<dateline>RIGA 1997-08-05</dateline>
+<text>
+<p>New car registrations were at 2,533 units by the end of July compared with 2,095 units at the end of June, the Latvian Motor Traders Association said on Tuesday.</p>
+<p>The most popular brand remained the Russian VAZ, with 259 units sold by August 1, Renault was in second place at 234 units while Opel was third on 210 units, the association said in a statement.</p>
+<p>Registrations by August this year compare with 1,471 units sold by the same period in 1996 and with 2,537 units for the whole of last year, the association added.</p>
+<p>It also said that 427 trucks had been sold, compared with 298 at the end of June. Trucks over 16 tonnes had sold 159 units versus 116 at the end of June.</p>
+<p>The most popular microbus people carrier remained the Latvian RAF at 126 units out of a total 221 sold with Ford in second place on just 16.</p>
+<p>-- Patrick Lannin, Riga newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

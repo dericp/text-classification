@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148473" id="root" date="1996-10-28" xml:lang="en">
+<title>ITALY: Italy's Fazio says time come to cut state spending.</title>
+<headline>Italy's Fazio says time come to cut state spending.</headline>
+<dateline>FOLIGNO, Italy 1996-10-28</dateline>
+<text>
+<p>Bank of Italy governor Anotnio Fazio suggested on Monday that the time had come for Italy to cut back on public spending.</p>
+<p>Quoting from the bible, Fazio told a conference in central Italy &quot;There's a time to plant and a time to pluck up, a time to laugh and a time to weep, a time to love and a time to hate. And I say there is a time to increase public spending and a time to cut it.&quot;</p>
+<p>Fazio said public spending represented 10 percent of gross domestic product in OECD countries in the 1930s. This rose to 47 percent in the 1980s.</p>
+<p>While other states were now hacking back their public spending, Italy was slow in following suit, Fazio said. -- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FOLIGNO, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

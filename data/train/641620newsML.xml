@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641620" id="root" date="1997-06-05" xml:lang="en">
+<title>AUSTRALIA: Australia April house material prices rise 0.3 pct.</title>
+<headline>Australia April house material prices rise 0.3 pct.</headline>
+<dateline>CANBERRA 1997-06-05</dateline>
+<text>
+<p>Australian house building materials rose 0.3 percent in April from the previous month and were 1.3 percent higher than a year earlier, the Australian Bureau of Statistics said on Thursday.</p>
+<p>Other building materials rose 0.2 percent in the month and were 1.0 percent higher than a year earlier.  </p>
+<p>The bureau said the increase in housing materials was mainly due to higher prices for plastic pipes and fittings, cupboards and fittings, plaster products and clay bricks, the bureau said.</p>
+<p>The index has risen every month so far this calendar year.</p>
+<p>Non-housing materials increased mainly due to higher prices for reinforcing steel bar, the bureau said.</p>
+<p>&quot;Plaster and plaster products and plastic pipes and fittings also contributed slightly to the increase,&quot; it said.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

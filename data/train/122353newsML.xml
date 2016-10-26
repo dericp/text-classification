@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122353" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: American Educational Q3 full results.</title>
+<headline>American Educational Q3 full results.</headline>
+<dateline>BOULDER, Colo. 1996-10-17</dateline>
+<text>
+<p>Three Months Ended  Nine Months Ended</p>
+<p>			  Sep 30,    Sep 30,    Sep 30,     Sep 30,</p>
+<p>			    1996	 1995	 1996	  1995</p>
+<p> Sales	     $2,631,000 $5,176,000 $7,193,000 $15,563,000</p>
+<p>Cost of goods sold</p>
+<p>			1,638,000  2,962,000  4,501,000   8,771,000</p>
+<p> Gross profit	 993,000  2,214,000  2,692,000   6,792,000</p>
+<p>Operating expenses</p>
+<p>Advertising and catalog</p>
+<p>   costs		 95,000    782,000    227,000   2,048,000</p>
+<p>  Other marketing   256,000    626,000  1,356,000   2,002,000</p>
+<p>General and administrative</p>
+<p>			  342,000    551,000  1,099,000   2,148,000</p>
+<p>Total operating expenses</p>
+<p>			  693,000  1,959,000  2,682,000   6,198,000</p>
+<p> Operating income   300,000    255,000     10,000     594,000</p>
+<p>Other income and expense:</p>
+<p>Loss on sale of division</p>
+<p>				---	  ---  (384,000)	   ---</p>
+<p>Gain on sale of building</p>
+<p>			   77,000	  ---     77,000	   ---</p>
+<p>  Other income	    ---     19,000	  ---	68,000</p>
+<p>Interest expense</p>
+<p>			 (90,000)  (228,000)  (346,000)   (679,000)</p>
+<p>Net other income</p>
+<p>	    (expense)(13,000)  (209,000)  (653,000)   (611,000)</p>
+<p>Income (loss) before</p>
+<p>  income taxes	287,000     46,000  (643,000)    (17,000)</p>
+<p>Income tax benefit</p>
+<p>    (expense)	     ---   (17,000)	  ---	 6,000</p>
+<p> Net income (loss)  287,000     29,000 ($643,000)   ( 11,000)</p>
+<p>Earnings (loss) per</p>
+<p>common share and common</p>
+<p>  share equivalent     0.07	 0.01    ( 0.15)     ( 0.00)</p>
+<p>Average number of shares</p>
+<p>  outstanding     4,177,000  4,216,000  4,170,000   4,166,000</p>
+<p>Note: Full company name is American Educational Products Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOULDER, Colo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

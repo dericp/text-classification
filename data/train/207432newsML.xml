@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207432" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Baxter HemAssist okayed for Phase III test.</title>
+<headline>Baxter HemAssist okayed for Phase III test.</headline>
+<dateline>DEERFIELD, Ill. 1996-11-21</dateline>
+<text>
+<p>Baxter International Inc said on Thursday that the company's hemoglobin therapeutic, HemAssist, has been cleared by the U.S. Food and Drug Administration to enter Phase III clinical testing in patients suffering from blood loss and shock caused by severe trauma.  </p>
+<p>Baxter Healthcare Corp, a unit of Baxter International, said the purpose of the trial is to investigate the blood substitute's effect on the survival rates in patients suffering severe trauma.</p>
+<p>The company said it expects to begin enrolling patients by early 1997 in the trauma protocol that will be conducted at U.S. hospitals.  The trial will be conducted under the new FDA regulation allowing exceptions to the requirement for informed consent in life-threatening circumstances.</p>
+<p>HemAssist, also known as Disaspirin Cross-Linked Hemoglobin, of DCLHb, is an intravavenously administered oxygen-carrying solution that is being studied for its potential to temporarily replace lost blood, restore blood pressure and increase oxygen delivery to tissues.</p>
+<p>It is made from human hemoglobin, does not require typing or cross-matching and can be stored for much longer periods of time than whole blood, the company said.</p>
+<p>Baxter said it is the only firm developing a blood substitute to reach this advanced stage of trauma research.</p>
+<p>On Wednesday, Northfield Laboratories Inc said it got FDA clearance for clinical trials of another blood substitute, PolyHeme, at a 10-unit level.</p>
+<p>--Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DEERFIELD, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

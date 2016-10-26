@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135466" id="root" date="1996-10-22" xml:lang="en">
+<title>JAPAN: Japan prosecutors step up Hamanaka probe - report.</title>
+<headline>Japan prosecutors step up Hamanaka probe - report.</headline>
+<dateline>TOKYO 1996-10-22</dateline>
+<text>
+<p>Japanese prosecutors are stepping up their investigation of former Sumitomo Corp copper trader Yasuo Hamanaka on suspicion that he falsified documents on unauthorised copper trades, Kyodo news agency quoted police sources as saying on Tuesday.</p>
+<p>&quot;Tokyo prosecutors decided on Tuesday to carry out an investigation of the (Sumitomo) non-ferrous metals department (former) head, who is under strong suspicion of having continuously carried out transactions in violation of company internal rules,&quot; the agency said.</p>
+<p>The report said Hamanaka, 48, would be &quot;investigated under suspicion of having falsified documents&quot;.</p>
+<p>The Tokyo prosecutor's office refused to comment on the report.</p>
+<p>Sumitomo, one of Japan's major trading houses, contends that Hamanaka engaged in unauthorised copper trading over a 10-year period, racking up losses to the company of $2.6 billion.</p>
+<p>Hamanaka, who had spent his entire career at Sumitomo, was fired by the company on June 14 when it announced the losses.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

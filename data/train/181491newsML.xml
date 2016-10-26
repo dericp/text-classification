@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="181491" id="root" date="1996-11-11" xml:lang="en">
+<title>DUBAI: Ousted Afghan president in Iran.</title>
+<headline>Ousted Afghan president in Iran.</headline>
+<dateline>DUBAI 1996-11-11</dateline>
+<text>
+<p>Ousted Afghan president Burhanuddin Rabbani arrived in Iran on Monday for a one-day visit, the official Iranian news agency IRNA reported.</p>
+<p>It said Rabbani, who is supported by Iran, will hold talks with senior officials including first Vice-President Hassan Habibi and Foreign Minister Ali Akbar Velayati.</p>
+<p>Iran brands the Islamic Taleban which in September overran Kabul as &quot;rebels&quot; giving Islam a bad name and says the only solution to the Afghan crisis is dialogue among all the factions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

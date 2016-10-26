@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555449" id="root" date="1997-05-02" xml:lang="en">
+<title>CONGO: Mandela welcomes Mobutu on way to Zaire talks.</title>
+<headline>Mandela welcomes Mobutu on way to Zaire talks.</headline>
+<dateline>BRAZZAVILLE 1997-05-02</dateline>
+<text>
+<p>South African President Nelson Mandela met Zairean President Mobutu Sese Seko on Friday at Pointe Noire on the Congo coast to escort him to peace talks at sea with rebel leader Laurent Kabila, officials said.</p>
+<p>Airport officials at Pointe Noire said by telephone that the two heads of state were waiting in the VIP lounge to be taken by helicopter to a South African navy ship off the coast.</p>
+<p>Kabila, due to meet Mobutu for the first time on board to discuss how to end a seven-month civil war, was still in the Angolan capital Luanda having talks with President Eduardo dos Santos, government sources there said.</p>
+<p>He was due to be escorted to the SAS Outeniqua by Mandela's deputy and heir apparent Thabo Mbeki, who left Luanda by plane for the Angolan port of Soyo en route to the ship.</p>
+<p>&quot;We are prepared to stay on that ship as long as it takes to reach some conclusions,&quot; Mbeki told reporters before leaving Luanda.</p>
+<p>Zairean radio said the presidents of Congo and Togo were to meet Mandela and Mobutu in Pointe Noire. It was unclear if they would proceed to the ship.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CONGO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="ZAIRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRAZZAVILLE"/>
+<dc element="dc.creator.location.country.name" value="CONGO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

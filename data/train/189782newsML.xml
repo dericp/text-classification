@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189782" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Seragen psoriasis drug tops placebo.</title>
+<headline>Seragen psoriasis drug tops placebo.</headline>
+<dateline>WASHINGTON 1996-11-13</dateline>
+<text>
+<p>Seragen Inc said on Wednesday that psoriasis patents receiving a four-week treatment of its DAB389IL-2 receptor active protein in a Phase II clinical trial showed an improvement compared with patients receiving a placebo.</p>
+<p>Dr Jerry Bagel, a dermatologist who conducted the trial, found that 12 of 27 patients who received at least one dose of DAB289IL-2 showed at least a 50 percent improvement in treating the disease.</p>
+<p>Only three of 12 patients who received the placebo showed similar improvments, Seragen said.</p>
+<p>&quot;Patient improvement, as measured by change in the standard psoriasis severity index, was comparable in two separate studies of the drug,&quot; Bagel, director of the Psoriasis Treatment Center of Central New Jersey, said in a statement.</p>
+<p>The Phase II study tested doses of 5, 10 and 15 micrograms per kilogram per day, Seragen said.</p>
+<p>Seragen said it has now initiated a dose escalation study to evaluate the potential for anti-psoriatic effects starting at lower doses of DAB389IL-2.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

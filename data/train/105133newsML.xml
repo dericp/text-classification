@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105133" id="root" date="1996-10-09" xml:lang="en">
+<title>MEXICO: Ahmsa gets ISO-9002 rating in two plants.</title>
+<headline>Ahmsa gets ISO-9002 rating in two plants.</headline>
+<dateline>MONTERREY, Mexico 1996-10-09</dateline>
+<text>
+<p>Mexican steel giant Altos Hornos de Mexico (Ahmsa) was given international ISO-9002 standard certifications in two processing areas, the company said Wednesday.</p>
+<p>&quot;The certifications correspond to...a pellet and coking plants I and II and also a cinder processing plant...&quot;, the Monclova-based company said.</p>
+<p>-- Daniel Perez-Whitaker, Monterrey bureau (528) 3457617</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTERREY, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

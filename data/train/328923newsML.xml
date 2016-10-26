@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328923" id="root" date="1997-01-23" xml:lang="en">
+<title>BELGIUM: Belgium leading indicator dipped in December - BNB.</title>
+<headline>Belgium leading indicator dipped in December - BNB.</headline>
+<dateline>BRUSSELS 1997-01-23</dateline>
+<text>
+<p>The Belgian central bank released the following indices based on its monthly survey of three key economic sectors -</p>
+<p>    BELGIAN LEADING INDICATOR    Dec 96	Nov 96</p>
+<p>    Overall			    - 8.6	 - 6.6</p>
+<p>    Manufacturing		    -10.0	 - 8.1</p>
+<p>    Trade				- 7.3	 - 0.7</p>
+<p>    Building			   - 6.3	 - 6.3</p>
+<p>In a statement the central bank said the drop in December did not change a fundamentally more positive picture observed since the beginning of 1996. The adjusted average indicator was still pointing to an acceleration of growth in 1997, it said.</p>
+<p>NOTE - The leading index is based on central bank surveys of manufacturing, construction and retailing and calculated on the basis of the difference between positive and negative answers to questions. It is slightly positive at the top of an economic cycle and strongly negative at the depth of a recession.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="142903" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Star to shut Texas hydrocraker Saturday.</title>
+<headline>Star to shut Texas hydrocraker Saturday.</headline>
+<dateline>NEW YORK 1996-10-25</dateline>
+<text>
+<p>Star Enterprise said Friday it would shut a 15,000 barrel per day hydrocracker at its 235,000 bpd refinery in Port Arthur, Texas, for an unplanned repair.</p>
+<p>&quot;We're shutting down the hydrocracker to do some unscheduled repair, which means we will be making more heating oil and distillates, which is what we probably should be doing anyway,&quot; said Mike Killien, manager of the refinery.  </p>
+<p>Killien said he expected the hydrocracker to be down &quot;for 10 days to two weeks,&quot; adding the unit had been returned to service earlier this week after a previous three-week turnaround.</p>
+<p>&quot;It just recently was started up,&quot; said Killien, who declined to specify the exact nature of the problem.</p>
+<p>-- Ransdell Pierson, New York Energy Desk 212 859-1632</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

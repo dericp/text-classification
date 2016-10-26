@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="375137" id="root" date="1997-02-13" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Feb 13.</title>
+<headline>Direct bond trades on the Czech PSE - Feb 13.</headline>
+<dateline>PRAGUE 1997-02-13</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p> CEZ 10,90/01		100.25    100.40	3000   32182.200</p>
+<p> CEZ 11,0625/08	    102.05    102.15	7000   76438.884</p>
+<p> CEZ 11,3/05		 102.00    102.05	 920   10113.820</p>
+<p> CEZ 14 3/8 /01	    103.50    103.82	3488   36406.733</p>
+<p> CSOB 11,00/00	     101.15    101.15	1000   10860.560</p>
+<p> CSOB 11,125/97	     99.84     99.84	 500   10504.167</p>
+<p> HZL2 CMHB 11,00/01	100.00    100.00	1000   10165.000</p>
+<p> KB 11,4/01		   97.20    101.30     27500  280496.869</p>
+<p> KB VAR/97		   100.03    100.03	1000   10490.570</p>
+<p> KB VAR/99		    99.99     99.99	 150    1561.633</p>
+<p> NOVA HUT 12,7/03	  100.37    100.45	2500   25894.250</p>
+<p> SPT TELCOM 12,5/99	100.00    100.00	  19     204.316</p>
+<p> ST.DLUHOP. 8,7/00	  96.00     96.00	2000   19166.160</p>
+<p> ST.DLUHOP.10,95/01	102.00    102.00	4000   42974.800</p>
+<p> ST.DLUHOP.11,4/98	 102.00    102.00	1000   10494.500</p>
+<p> ST.DLUHOP.9,15/00	  97.00     97.30	3060   31076.130</p>
+<p> ST.DLUHOP.9,40/98	  99.50     99.90	1090   11620.395</p>
+<p> VITKOVICE 13,50/00	100.20    100.50	3990   43575.900</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

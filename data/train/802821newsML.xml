@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802821" id="root" date="1997-08-15" xml:lang="en">
+<title>CANADA: TABLE - Canadian key economic indicators.</title>
+<headline>TABLE - Canadian key economic indicators.</headline>
+<text>
+<p>INDICATOR			 PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>UNEMPLOYMENT	     PCT  July    9.0     9.1     9.5  09/05</p>
+<p>EMPLOYMENT GROWTH	THD  July    +15     +52     +61  09/05</p>
+<p>CPI (MONTHLY, S/ADJ)   PCT  June   +0.1    +0.1    -0.1  08/19</p>
+<p>CPI (MONTHLY, UNADJ)   PCT  June    0.2     0.1     0.0  08/19</p>
+<p>CPI (ALL ITEMS, YR/YR) PCT  June   +1.8    +1.5    +1.7  08/19</p>
+<p>CPI (EX-FOOD/ENER)     PCT  May    +2.0    +1.7    +1.8  08/19</p>
+<p>MERCH TRADE BALANCE    BLN  May  +C$2.02 +C$1.69 +C$2.60 08/20</p>
+<p>MERCH IMPORTS (S/ADJ)  BLN  May  C$22.48 C$22.83 C$21.93 08/20</p>
+<p>MERCH EXPORTS (S/ADJ)  BLN  May  C$24.49 C$24.52 C$24.53 08/20</p>
+<p>CURR ACCT(SA QUARTERLY)BLN  Q1   -C$1.22 -C$0.55 +C$0.55 08/29</p>
+<p>   INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>GDP (MONTHLY)	    PCT   May    +0.3   +0.8   -0.2   08/29</p>
+<p>GDP (QUARTERLY)	  PCT   Q1     +0.8   +0.7   +0.8   08/29</p>
+<p>GDP PRICE DEFLATOR     PCT   Q1     +0.4   +0.6   +0.7   08/29</p>
+<p>INDUSTRIAL PRICES	PCT   June    0.2    0.0   +0.5   08/27</p>
+<p>RAW MATERIALS PRICES   PCT   June   -2.3   +2.5   -1.1   08/27</p>
+<p>BUDGET DEF/SURPLUS(D/S)BLN   May   C$1.37 S VS   C$0.58 D  N/A</p>
+<p>BUDGET DEF (YR-DATE)   BLN   2MO   C$2.04 D VS   C$4.64 D  N/A</p>
+<p>HOUSING STARTS (ANNUALIZED)  Jul 144,700 140,900 152,300 09/09</p>
+<p>HOUSING STARTS (ANNUALIZED)  Q2  145,500 155,200 129,300 10/23</p>
+<p>BUILDING PERMITS	 PCT   Jun    +5.2  -12.0   +9.3   09/04</p>
+<p>  INDICATOR		    PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>COMPOS LEADING INDIC   PCT   Jul   +0.8    +0.8   +0.7   09/23</p>
+<p>MANUFAC SHIPMENTS	PCT   May   -0.2    +0.7   +0.4   08/18</p>
+<p>MANUF UNFILLED ORDERS  PCT   May   +2.4    +4.4   +0.2   08/18</p>
+<p>MANUF NEW ORDERS	 PCT   May   -2.4    +4.9   -0.2   08/18</p>
+<p>INVENTORIES/SHIPMENTS RATIO  May   1.30    1.29   1.29   08/18</p>
+<p>CAPACITY UTILIZATION   PCT   Q1    85.0    84.4   84.1   09/09</p>
+<p>HELP WANTED INDEX	PCT   Jun    124     121    118   09/04</p>
+<p>WAGE SETTLEMENTS	 PCT   May   +1.6    +2.1   +1.6   08/19</p>
+<p>INDICATOR			 PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>NEW MOTOR VEHICLE SALES  PCT  June   -1.5   +1.8  -4.9   09/10</p>
+<p>AVG WEEKLY EARNINGS Y/Y  PCT  May    +3.0   +4.0  +2.7   08/28</p>
+<p>RETAIL SALES		 PCT  May    +0.5   +1.2  -0.8   08/22</p>
+<p>WHOLESALE TRADE M/M	PCT  May    +1.0   +3.0  -2.7   08/20</p>
+<p>NEW HOUSING PRICE Y/Y    PCT  June   +1.0   +1.0  +0.2   09/09</p>
+<p>((Reuters Ottawa Bureau (613) 235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

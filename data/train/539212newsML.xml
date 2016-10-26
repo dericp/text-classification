@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="539212" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: Clinton unruffled by China-Russia pact.</title>
+<headline>Clinton unruffled by China-Russia pact.</headline>
+<dateline>WASHINGTON 1997-04-25</dateline>
+<text>
+<p>President Bill Clinton said on Friday a new cooperation accord between China and Russia posed no threat to the Asia-Pacific region.</p>
+<p>&quot;I think it's a very positive thing that they're talking and working together,&quot; Clinton said. &quot;As long as they are not making an agreement that is designed to somehow undermine the security or the prosperity or the integrity and freedom of any of their neighbors, I think it is a positive thing.&quot;</p>
+<p>&quot;I don't think we should approach these things with paranoia,&quot; the president added.</p>
+<p>Russian President Boris Yeltsin and Chinese President Jiang Zemin signed a treaty on Thursday in Moscow on troop reductions along the former Sino-Soviet border. The presidents of Kazakhstan, Tajikistan and Kyrgyzstan also participated.</p>
+<p>On Wednesday, Yeltsin and Jiang issued a declaration outlining their vision of the post-Cold War world and voicing opposition to claims by any country for world leadership.</p>
+<p>The leaders said in their declaration that &quot;no country should seek hegemony, practice power politics or monopolize international affairs.&quot; They did not mention any specific country but clearly had the United States in mind.</p>
+<p>Moscow and Beijing see both the treaty and the declaration as part of their new relationship of &quot;partnership aimed at strategic cooperation in the 21st century,&quot; but both sides ruled out any closer union.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="207208" id="root" date="1996-11-21" xml:lang="en">
+<title>PAKISTAN: Karachi port handles 39,575 tonnes cargo.</title>
+<headline>Karachi port handles 39,575 tonnes cargo.</headline>
+<dateline>KARACHI, Pakistan 1996-11-21</dateline>
+<text>
+<p>Pakistan's Karachi Port Trust said it had handled 39,575 tonnes of export and import cargo in 24 hours to 7 a.m. (0200 GMT) on Thursday, compared to 75,741 tonnes on in the previous 24 hours.</p>
+<p>Cargo handling in tonnes:</p>
+<p>					    Thursday	 Previous</p>
+<p>    Export cargo			13,371	   20,756</p>
+<p>    Import cargo			36,204	   54,985</p>
+<p>In the past 24 hours, eight ships sailed and five berthed. In the next 24 hours, six ships were expected to sail and eight were expected to arrive.  </p>
+<p>Berthing schedule of major vessels unloading or expected to unload at the Karachi Port:</p>
+<p>Commodity		Tonnes/TEUs  Ship		  Berthing</p>
+<p>Soyabean oil	    7,850	 Petr Shmidt	15/11</p>
+<p>Gas oil		  27,000	 Nike		 22/11</p>
+<p>Gas oil		  70,000	 Sea Islecity     22/11</p>
+<p>Gas oil		  27,000	 Ras Al-Zour	23/11</p>
+<p>High speed deisel    34,500	 Al-Deerah	    due</p>
+<p>Tallow/Jet fuel	 3,600	 Vanino	     25/11</p>
+<p>high speed deisel    52,000	 Al-Maqwa	   28/11</p>
+<p>-- Karachi newsroom 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

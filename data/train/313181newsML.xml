@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313181" id="root" date="1997-01-16" xml:lang="en">
+<title>GERMANY: German DAX ends bourse at record close, off 3,000.</title>
+<headline>German DAX ends bourse at record close, off 3,000.</headline>
+<text>
+<p>1237 GMT - Germany's DAX index ends bourse at new record, led up by the futures market. But index fails to reach key 3,000 level despite coming within two points of the target.</p>
+<p>* DAX closes up 4.86 points at 2,993.31 points, off session low of 2,970.45. Sets new all-time intraday high of 2,998.61.</p>
+<p>* March DTB DAX futures up 19 points at 3,009.0.</p>
+<p>* Deutsche, Commerzbank, Dresdner and other bank shares all in favour.</p>
+<p>* BASF AG, other chemicals, in decline.</p>
+<p>* New assault on 3,000 level seen ahead.</p>
+<p>* Attention on Wall Street opening, U.S. jobs data.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

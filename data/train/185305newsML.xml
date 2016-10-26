@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185305" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: Perclose says device cut complications.</title>
+<headline>Perclose says device cut complications.</headline>
+<dateline>NEW ORLEANS 1996-11-13</dateline>
+<text>
+<p>Perclose Inc said Wednesday that the results of two randomized clinical trials of its Techstar Percutaneous Vascular Surgical device demonstrated significant reductions in complications and recovery following coronary catheterization procedures.</p>
+<p>The company said the first study consisted of 400 diagnostic catheterization patients randomized to either standard compression or the Techstar system. The study showed a statistically significant reduction of major and minor complications when the Techstar system was used.</p>
+<p>The second trial consisted of a group of 200 interventional cardiology patients undergoing balloon angioplasty or stent procedures.</p>
+<p>Although these patients were at higher risk of bleeding complications, the company said, the study showed patients were able to ambulate more quickly than standard manual compression without an increase in complications.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW ORLEANS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

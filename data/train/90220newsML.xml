@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="90220" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: Nasdaq stocks rebound, close higher.</title>
+<headline>Nasdaq stocks rebound, close higher.</headline>
+<dateline>NEW YORK 1996-10-02</dateline>
+<text>
+<p>Nasdaq stocks bounced back on Wednesday as money continued to pour into the stock market and shares of Intel Corp, Baby Superstore Inc and Microsoft Corp pushed higher.</p>
+<p>The Nasdaq Composite Index gained 14.6 points, or 1.2 percent, to unofficially end at the session-high 1236, while advances led declining issues by 2390 to 1739 on volume of about 580 million shares.</p>
+<p>Intel rallied 3-1/4 to 99 on strong outlooks provided by key personal computer and networking companies.</p>
+<p>The rally in shares of Baby Superstore followed the announcement that Toys R Us was acquiring the company in a stock merger valued at $376 million. Baby Superstore shares were up five at 24-7/8.</p>
+<p>Another high tech putting in a strong performance was Microsoft Corp whose shares were up 2-5/8 at 134-3/4.</p>
+<p>But the day's most active stock, DSC Communications Corp, was down 4-3/4 at 16-3/4. The company said on Wednesday that earnings for the third quarter are expected to be about breakeven, before a special charge of about $96 million, or $60 million after taxes.</p>
+<p>-- Andrej Gustincic Wall Street desk 212-859-1731</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

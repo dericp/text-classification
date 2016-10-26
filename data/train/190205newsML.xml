@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="190205" id="root" date="1996-11-14" xml:lang="en">
+<title>FRANCE: Algeria passes on 150,000 tonnes durum wheat tender.</title>
+<headline>Algeria passes on 150,000 tonnes durum wheat tender.</headline>
+<dateline>PARIS 1996-11-14</dateline>
+<text>
+<p>Algeria has passed up offers in a tender it launched to import 150,000 tonnes of U.S and/or Canadian durum wheat, European grain traders said.</p>
+<p>The wheat was for shipment in December, January and February, they said.</p>
+<p>There was no official confirmation that Algeria had passed on the tender.</p>
+<p>Traders did not know if Algeria planned to re-tender for the wheat soon.</p>
+<p>--Paris newsroom +331 4221 5432</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

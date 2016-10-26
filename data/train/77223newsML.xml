@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="77223" id="root" date="1996-09-25" xml:lang="en">
+<title>CHINA: China wholesale vegetable oil prices - Sept 25.</title>
+<headline>China wholesale vegetable oil prices - Sept 25.</headline>
+<dateline>SHANGHAI 1996-09-25</dateline>
+<text>
+<p>China wholesale vegetable oil prices, as of Sept 25, from National Grains and Oils Information</p>
+<p> Centre: Item	  Quality	  Market	    Price</p>
+<p>(yuan/tonne)</p>
+<p>Vegetable</p>
+<p> oil		    Grade two     Xinjiang	    6,750</p>
+<p>					    Sichuan	     no figure</p>
+<p>					    Hubei		 no figure</p>
+<p>					    Wuxi,		 6,850</p>
+<p>					    Jiangsu Province</p>
+<p>					    Zhejiang	    6,900</p>
+<p>					    Jiangxi	     7,000</p>
+<p>Soybean</p>
+<p> oil		    Grade one     Jilin		 7,000</p>
+<p>			  Grade two     Tianjin	     7,250</p>
+<p>Rapeseed</p>
+<p> oil		    Grade two     Hunan		 no figure</p>
+<p>Peanut</p>
+<p> oil		    Grade two     Shandong	    8,900</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

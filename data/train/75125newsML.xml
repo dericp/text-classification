@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75125" id="root" date="1996-09-25" xml:lang="en">
+<title>costa rica: Costa Rica police raid bank for coffee credit info.</title>
+<headline>Costa Rica police raid bank for coffee credit info.</headline>
+<dateline>SAN JOSE 1996-09-25</dateline>
+<text>
+<p>Police raided a top bank to grab documents that allegedly reveal anomalous $6.3 million loans to coffee and tomato firms, the country's fiscal general said Wednesday.</p>
+<p>&quot;I ordered the raid on Tuesday so that officers gathered the necessary information to start the investigation,&quot; Carlos Arias told reporters. The raid was on the headquarters of the Banco Internacional de Costa Rica (BISCA).</p>
+<p>Arias said the raid was carried out to establish conditions under which the bank gave credits to coffee companies Grupo Cachi and Cafetalera Tucurrique and to Tomate Selecto, the latter owned by Italian businessman Gugliermo Pedroni.</p>
+<p>The three companies are behind in loan payments and have serious financial problems, Arias said.</p>
+<p>Top police fiscal officials stayed overnight in the bank recovering material to uncover details of the alleged credit irregularities, Arias added.</p>
+<p>-- Jose Loria, San Jose bureau (506) 224-2949.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE"/>
+<dc element="dc.creator.location.country.name" value="COSTA RICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

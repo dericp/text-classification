@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136123" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Integrity Inc Q3 profit vs loss.</title>
+<headline>Integrity Inc Q3 profit vs loss.</headline>
+<dateline>MOBILE, Ala. 1996-10-23</dateline>
+<text>
+<p>Quarter Ended		Nine Months Ended</p>
+<p>		    September 30		   September 30</p>
+<p>		     1996	   1995	   1996	   1995</p>
+<p> Net revs   $7,682,000   $9,093,000  $23,876,000  $28,628,000</p>
+<p>(Loss)Income from</p>
+<p>   opers	 952,000  (1,284,000)    1,175,000    (332,000)</p>
+<p>Income (loss) before</p>
+<p>extraordinary item</p>
+<p>		   225,000  (1,070,000)    (122,000)    (686,000)</p>
+<p>Extraordinary item</p>
+<p>from early</p>
+<p>extinguishment</p>
+<p>    of debt   (186,000)		    (186,000)</p>
+<p>Net income (loss)</p>
+<p>		    39,000  (1,070,000)    (308,000)    (686,000)</p>
+<p>Earnings per share</p>
+<p>Income (loss) before</p>
+<p>extraordinary item</p>
+<p>			0.04	 (0.19)	 (0.02)	 (0.12)</p>
+<p>Net income (loss)</p>
+<p>	per share   0.01	 (0.19)	 (0.06)	 (0.12)</p>
+<p> Avg shrs    5,514,000    5,514,000    5,514,000    5,514,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34520">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOBILE, Ala."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="112183" id="root" date="1996-10-11" xml:lang="en">
+<title>CHINA: China sets standards for senior finance managers.</title>
+<headline>China sets standards for senior finance managers.</headline>
+<dateline>SHANGHAI 1996-10-11</dateline>
+<text>
+<p>The People's Bank of China has issued a set of rules setting standards for senior managers for financial institutions, banning them from simultaneously holding government posts, the China Securities said on Friday.</p>
+<p>The rules also ban financial company managers from at the same time holding posts in industrial and commercial firms or doing any other business for profit, the newspaper said.</p>
+<p>Senior managers of financial institutions must be approved by the central bank or its empowered branches and performance of the managers has been set as one of the key items in the bank's annual checks on the financial institutions, the rules said.</p>
+<p>The rules require the managers to have &quot;rich knowledge&quot; of the fields of banking, trust and investment, insurance and securities, as well as finance industry-related laws, the newspaper said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

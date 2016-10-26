@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256944" id="root" date="1996-12-14" xml:lang="en">
+<title>MEXICO: Mexico's Protexa plans early 1997 canal building.</title>
+<headline>Mexico's Protexa plans early 1997 canal building.</headline>
+<dateline>MONTERREY, Mexico 1996-12-13</dateline>
+<text>
+<p>Mexican conglomerate Grupo Protexa hopes in the first quarter of 1997 to begin constructing a Gulf of Mexico coastal canal, provided the company achieves the necessary bank financing for the project, a company spokesman said Friday.</p>
+<p>&quot;We hope that by the beginning of next year we will already have reached financing agreements and the dredging work will begin between 30 and 60 days later, during the first quarter,&quot; the spokesman said.</p>
+<p>He said the company is talking with international banks and Mexico's state-run foreign trade bank Bancomext, which may pledge $300 million for the project.</p>
+<p>The canal will link the Mexican state of Tamaulipas with U.S. canals in a route along the Gulf of Mexico coast, which continues through New Orleans and up to Canada.</p>
+<p>In the United States and Canada, 81 cities in 38 states would be reached by the canal.</p>
+<p>Protexa said 80 percent of Mexico's imports come from these cities, and that the waterway is hoped to encourage trade between the two nations by boat.</p>
+<p>&quot;The financing scheme continues as planned, it will take $550 million in financing to complete the entire project,&quot; the spokesman said. Total capital and financing investment in the project is $756 million.</p>
+<p>--Daniel Perez-Whitaker, Monterrey bureau +528 345-7617</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="I5020051">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTERREY, Mexico"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

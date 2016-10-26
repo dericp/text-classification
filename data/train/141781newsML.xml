@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141781" id="root" date="1996-10-24" xml:lang="en">
+<title>GERMANY: N Rhine-Westphalia CPI up 1.6 percent year-on-year.</title>
+<headline>N Rhine-Westphalia CPI up 1.6 percent year-on-year.</headline>
+<dateline>DUSSELDORF, Germany 1996-10-24</dateline>
+<text>
+<p>The statistics office of the German state of North Rhine-Westphalia said on Thursday that consumer prices in October rose 0.1 percent month on month and rose 1.6 percent year-on-year.</p>
+<p>This compares with a fall of 0.1 percent month-on-month and a rise of 1.5 percent year-on-year in September.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUSSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

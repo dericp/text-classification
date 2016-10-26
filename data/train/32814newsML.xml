@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32814" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: Gibraltar Packaging Group Inc Q4 profit.</title>
+<headline>Gibraltar Packaging Group Inc Q4 profit.</headline>
+<dateline>WESTPORT, Conn. 1996-09-04</dateline>
+<text>
+<p>$ in Thousands except per share data</p>
+<p>				Three Months Ended    Year Ended</p>
+<p>				  Jun 29  Jul 1     Jun 29	Jul 1</p>
+<p>				1996	1995	 1996	 1995</p>
+<p> Net Sales		18,273     19,192     74,384     76,456</p>
+<p>  Environmental remediation	   750			 750</p>
+<p>Severance, office moving</p>
+<p>   and restructuring cost 40		     1,038	1,386</p>
+<p> Net Income (Loss)	 212    ( 1,890)	 701    ( 3,685)</p>
+<p> Per share Profit (Loss)0.04     ( 0.37)	0.14     ( 0.73)</p>
+<p>Weighted Average Shares</p>
+<p>  Outstanding	5,041,544  5,041,544  5,041,544  5,039,965</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WESTPORT, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786659" id="root" date="1997-08-07" xml:lang="en">
+<title>CHINA: C.LYONNAIS PLANS WARRANTS ON PROPERTY STOCKS.</title>
+<headline>C.LYONNAIS PLANS WARRANTS ON PROPERTY STOCKS.</headline>
+<dateline>HONG KONG 1997-08-07</dateline>
+<text>
+<p>Credit Lyonnais Financial Products (Guernsey) Ltd said on Thursday it proposed to issue one billion American-style call warrants on a basket of property stocks.</p>
+<p>Each basket comprises of:</p>
+<p> Cheung Kong (Holdings) Ltd	    0.0075 shares</p>
+<p> Henderson Land Development Co Ltd   0.0090 shares</p>
+<p> Concord Land Development co Ltd     0.0390 shares</p>
+<p> HKR International Ltd		   0.0360 shares</p>
+<p>Ten warrants control one basket.</p>
+<p>Indicative terms:</p>
+<p> STRIKE PRICE    HK$2.0959    PREMIUM	 18.76 PCT</p>
+<p> ISSUE PRICE     HK$0.067     GEARING	 3.48x</p>
+<p> EXPIRATION	11 MTHS	LISTING DATE  TO BE ANNOUNCED</p>
+<p> LISTING	   HONG KONG    PAYDATE	 TO BE ANNOUNCED</p>
+<p> SPOT REFERENCE  HK$2.32875   MIN EXER LOT  20,000</p>
+<p> SETTLEMENT	CASH SETTLEMENT OR PHYSICAL DELIVERY OF</p>
+<p>		     STOCKS AT ISSUER'S DISCRETION</p>
+<p>-- Hong Kong News Room (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

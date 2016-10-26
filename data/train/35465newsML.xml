@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="35465" id="root" date="1996-09-05" xml:lang="en">
+<title>INDIA: India ICICI completes $120 mln borrowing.</title>
+<headline>India ICICI completes $120 mln borrowing.</headline>
+<dateline>BOMBAY 1996-09-05</dateline>
+<text>
+<p>The Industrial Credit and Investment Corporation of India Ltd (ICICI) has successfully completed a $120 million loan syndicated by 13 banks from 10 countries, the company said in a statement on Friday.</p>
+<p>The loan arranged by Australia and New Zealand Banking Group Ltd for an initial amount of $75 million was later increased to $120 million due to the good response, the statement said.</p>
+<p>The loan has a seven year maturity with a put and call option at the end of five years and has a margin of 0.62 percent per annum over the LIBOR, ICICI said.</p>
+<p>With the successful completion of the syndicated loan, ICICI had raised $170 million out of the approved limit of $400 million for its external commercial borrowings, the company said.</p>
+<p>Disbursements in the first five months of financial 1996/97 (April-March) were 29.19 billion rupees, a 32 precent increase over the corresponding period last year, ICICI said.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="187662" id="root" date="1996-11-13" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's 1996 rice output rise 13 pct yr on yr.</title>
+<headline>S.Korea's 1996 rice output rise 13 pct yr on yr.</headline>
+<dateline>SEOUL 1996-11-13</dateline>
+<text>
+<p>South Korea's Ministry of Agriculture and Forestry said on Wednesday the country's rice production rose 13 percent to 5,323,000 tonnes this year from 4,695,000 tonnes in 1995.  </p>
+<p>The agriculture ministry said in a statement that the output figure was well above its recent forecast of 5,071,680 tonnes for this year.</p>
+<p>The crop was the second largest in the past five years, following the 5,331,312 tonnes harvested in 1992.</p>
+<p>Favourable weather this year has boosted the country's rice crop and a sharp slowdown in the decline in area under rice paddy has also helped, the statement said.</p>
+<p>The loss of land used for rice cultivation this year was projected at 6,000 hectares, leaving the total rice area at 1.05 million hectares. Last year 47,000 hectares were lost.</p>
+<p>The ministry said the yield from 10 acres (4 hectares) of rice paddy rose about 14 percent to 507 kgs in 1996 from 445 kgs in 1995.</p>
+<p>-- Seoul Newsroom (822) 727 5651</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

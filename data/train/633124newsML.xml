@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="633124" id="root" date="1997-06-03" xml:lang="en">
+<title>UK: Japanese stocks in London close slightly firmer.</title>
+<headline>Japanese stocks in London close slightly firmer.</headline>
+<dateline>LONDON 1997-06-03</dateline>
+<text>
+<p>Japanese stocks were slightly firmer on Tuesday in thin trading in London, with any upside potential weighed down by an overall weaker London market, dealers said.</p>
+<p>&quot;It has been a pretty quiet day&quot;, one trader said, adding European trading would not reflect the surge of the Nikkei in Tokyo.</p>
+<p>On Tuesday, Tokyo's Nikkei 225 index marked a new high for 1997, ending at 20,563.16, up 111.31 points or 0.54 percent. It was the highest close since December 11, 1996.</p>
+<p>Fujitsu was up 21.5 yen to 1,464 but back from a new year's high of 1,467.5. Fujitsu's shares closed at 1,470 yen in Tokyo, up 20.</p>
+<p>Computer giant NEC was up 20 Yen to 1,650, the same as Tokyo's closing price.</p>
+<p>-- London Newsroom  +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

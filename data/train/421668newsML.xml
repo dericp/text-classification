@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421668" id="root" date="1997-03-05" xml:lang="en">
+<title>UK: MAS flies last combi ex-UK, plans rate rise April.</title>
+<headline>MAS flies last combi ex-UK, plans rate rise April.</headline>
+<dateline>LONDON 1997-03-05</dateline>
+<text>
+<p>Malaysian Airline Systems Bhd flies its last Boeing 747 combi on Wednesday March 5 from London Heathrow replacing it with a passenger 747 with a reduced cargo capacity, an MAS executive said.</p>
+<p>MAS is raising its ex-UK rates by between five and 20 percent from April one. Rates to Australia, New Zealand, Korea and Japan are scheduled to climb 15 percent, he added.</p>
+<p>The passenger flights will be able to carry four pallets and five bins against 11 pallets and nine bins in the combi configuration.</p>
+<p>No decisions have been taken on adding a pure freighter to the UK route but MAS does fly 747 freighters from both Amsterdam and Frankfurt.</p>
+<p>-- Reuters Air Cargo Newsroom Tel+44 171 542 7706 Fax+5017</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

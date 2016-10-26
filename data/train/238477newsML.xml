@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238477" id="root" date="1996-12-05" xml:lang="en">
+<title>NORWAY: Statoil/BP drill fourth Nigerian exploration well.</title>
+<headline>Statoil/BP drill fourth Nigerian exploration well.</headline>
+<dateline>OSLO 1996-12-05</dateline>
+<text>
+<p>Den norske stats oljeselskap AS said on Thursday the Statoil/British Petroleum alliance had spudded a fourth exploration well in block 218 offshore Nigeria.</p>
+<p>Dubbed Sheki (crocodile) 1, the well is part of a work programme involving eight wells on four Nigerian offshore licences, the company's Status Weekly newsletter said.</p>
+<p>The well was drilled by the semi-submersible Transocean Driller.</p>
+<p>--Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

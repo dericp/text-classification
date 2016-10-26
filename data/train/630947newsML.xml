@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="630947" id="root" date="1997-06-02" xml:lang="en">
+<title>USA: Israeli minister no match for chess super-computer.</title>
+<headline>Israeli minister no match for chess super-computer.</headline>
+<dateline>YORKTOWN HEIGHTS, N.Y. 1997-06-02</dateline>
+<text>
+<p>Natan Sharansky, Israel's minister of industry and trade, on Monday played -- and lost -- against the technology behind the world's reigning chess champion, IBM's Deep Blue computer.</p>
+<p>Sharansky faced off against Deep Blue Junior, a scaled-down version of the super-computer that defeated reigning world champion Garry Kasparov in May, during a ministerial visit to IBM's research headquarters 50 miles (80 km) north of New York City.</p>
+<p>The Minister vs. Machine match ended after less than two hours, with Deep Blue Jr. winning the three games played.</p>
+<p>Sharansky, leader of the Yisrael ba-Aliya (Israel of Immigration) party, is an avid chess player who honed his skills during nine years behind bars as a Jewish dissident in the former Soviet Union. He was involved in programming some of the first chess-playing computers 25 years ago, he said.</p>
+<p>He told Reuters he was extremely impressed with the &quot;fantastic achievements&quot; of Deep Blue Jr., which can examine 20 million possible moves per second and has never been beaten by a grandmaster.</p>
+<p>&quot;When playing with this computer, you learn you are powerless, you learn there is no way to provoke it,&quot; Sharansky said. &quot;It's a very interesting feeling.&quot;</p>
+<p>Deep Blue Senior, an IBM RS/6000 parallel processor with specialised chess microchips that can examine hundreds of millions of possible moves per second, made history on May 11 when it defeated Kasparov in a six-game match. It became the first chess-playing machine to win a match in a traditional format, in which games can last up to seven hours.</p>
+<p>Kasparov, a grandmaster known for his brilliant, quick style of play, was stunned by his defeat and has called for a rematch by year's end.</p>
+<p>Sharansky said he played against Kasparov last December when the grandmaster visited Israel. As one of 25 competitors simultaneously playing against him, Sharansky won his match.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="YORKTOWN HEIGHTS, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

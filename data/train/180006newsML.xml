@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180006" id="root" date="1996-11-11" xml:lang="en">
+<title>VENEZUELA: Venezuela bolivar closes flat, cenbank intervenes.</title>
+<headline>Venezuela bolivar closes flat, cenbank intervenes.</headline>
+<dateline>CARACAS 1996-11-11</dateline>
+<text>
+<p>The Venezuelan bolivar closed flat for the third day running in busy trade as the Central Bank intervened to set a 471.00/472.00 per dollar ceiling, traders said.</p>
+<p>&quot;There was a lot action today, with considerable corporate demand,&quot; said one trader. &quot;The Central Bank came in in both the morning and afternoon to cover demand.&quot;</p>
+<p>&quot;The Bank was there, defending its ceiling rate, throughout the day,&quot; said another.</p>
+<p>-- Ana Isabel Martinez, Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

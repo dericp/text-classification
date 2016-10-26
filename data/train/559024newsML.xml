@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="559024" id="root" date="1997-05-05" xml:lang="en">
+<title>FINLAND: ICE HOCKEY-WORLD CHAMPIONSHIP LEADING SCORERS.</title>
+<headline>ICE HOCKEY-WORLD CHAMPIONSHIP LEADING SCORERS.</headline>
+<dateline>HELSINKI 1997-05-04</dateline>
+<text>
+<p>Leading scorers at the end of</p>
+<p>the first stage of the world ice hockey championship:</p>
+<p>5 - Roger Dube (France)</p>
+<p>Martin Prochazka (Czech Republic)</p>
+<p>4 - Michael Nylander (Sweden)</p>
+<p>Olli Jokinen (Finland)</p>
+<p>Mika Nieminen (Finland)</p>
+<p>3 - Brian Arnaud (France)</p>
+<p>Gaetano Orlando (Italy)</p>
+<p>Mika Stromberg (Finland)</p>
+<p>Bruno Zarrillo (Italy)</p>
+<p>Jorgen Jonsson (Sweden)</p>
+<p>Kai Nurminen (Finland)</p>
+<p>Pavel Patera (Czech Republic)</p>
+<p>Owen Nolan (Canada)</p>
+<p>Ole Dahlstrom Norway</p>
+<p>Harius Vitolins (Latvia)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

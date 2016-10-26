@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87369" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Saga Communications to buy radio station.</title>
+<headline>Saga Communications to buy radio station.</headline>
+<dateline>GROSSE POINTE FARMS, Mich. 1996-10-01</dateline>
+<text>
+<p>Saga Communications Inc said on Tuesday it had entered into a letter of intent to acquire radio station KEZT-FM in Ames, Iowa, for $3.2 million from Bunce Broadcasting Inc.</p>
+<p>KEZT, a 100,000-watt station that serves the Des Moines market, will be Saga's sixth station in the greater Des Moines area.</p>
+<p>The company expects to close the transaction, subject to the approval of the Federal Communications Commission, during the first quarter of 1997.</p>
+<p>Following the KEZT acquisition, Saga said it will operate 34 radio stations and a television station serving 11 markets, mainly in the Midwest and Eastern Seaboard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GROSSE POINTE FARMS, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

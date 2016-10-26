@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98488" id="root" date="1996-10-06" xml:lang="en">
+<title>NIGERIA: Tukish premier's Nigeria visit delayed - officials.</title>
+<headline>Tukish premier's Nigeria visit delayed - officials.</headline>
+<dateline>LAGOS 1996-10-06</dateline>
+<text>
+<p>The arrival of Turkey's Islamist Prime Minister Necmettin Erbakan in Nigeria on a controversial African tour has been delayed because of bad weather, Turkish embassy officials said on Sunday.</p>
+<p>&quot;Due to thunderstorms over the Sahara he is not expected until tomorrow (Monday),&quot; said one embassy official.</p>
+<p>Erbakan was originally due to arrive in Nigeria on Sunday at 10 p.m. (2100 GMT) from Libya via Tunisia.</p>
+<p>His visits to Libya and Nigeria provoked an outcry both from Turkey's Western allies as well as from within Nigeria. Libya is under U.N. sanctions for alleged links with international terrorism, and Nigeria's military rulers are shunned by leading Western nations for their record on human rights and democracy.</p>
+<p>Officials in the Nigerian capital Abuja say the visit will lead to increased trade between Turkey and oil-rich Nigeria.</p>
+<p>On Saturday the Turkish prime minister met Libyan leader Muammar Gaddafi and dismissed U.S. charges that Tripoli sponsors terrorism as &quot;propaganda&quot;. He also called for a trebling of trade between their two countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

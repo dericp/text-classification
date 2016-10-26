@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="114515" id="root" date="1996-10-14" xml:lang="en">
+<title>GERMANY: German police probe possible share price fraud.</title>
+<headline>German police probe possible share price fraud.</headline>
+<dateline>BERLIN 1996-10-14</dateline>
+<text>
+<p>German police said on Monday they were investigating a case of possible share-price manipulation, where faxes containing takeover speculation were sent, more than doubling a certain share price.</p>
+<p>Since August, faxes had been circulated which discuss a possible acquisition of the Kaufbeuren brewery, and the share price of the company had risen noticeably, police in Berlin said.</p>
+<p>Police authorities were preparing a case of suspected share price manipulation, the first of its kind in Germany. The faxes said that Bayerische Vereinsbank wanted to sell Kaufbeuren to the Schoerghuber group. All three companies deny speculation.</p>
+<p>Peter Martin, head of administration at Kaufbeuren, said it was clear someone wanted to boost the share price to increase dealing profits.</p>
+<p>Vereinsbank, which owns 75.7 percent of the brewery, dismissed the fax contents, saying: &quot;It's rubbish what it says in the fax,&quot; while the third company involved, Shoerghuber said: &quot;It's absolutely untrue.&quot;</p>
+<p>Faxes were sent to an investment trust in Luxembourg, under a false name and address at the beginning of August, then again in September, then again one week ago, said Martin.</p>
+<p>The price of shares in Kaufbeuren increased from 640 marks ($418) at the start of August to 1,400 marks by last week.</p>
+<p>The Munich stock exchange said it was closely examining the speculation, but saw no reason to suspend the share based on rumour alone. ($1=1.5309 Mark)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

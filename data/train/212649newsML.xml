@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212649" id="root" date="1996-11-24" xml:lang="en">
+<title>UK: SOCCER-ENGLISH PREMIER LEAGUE SUMMARY.</title>
+<headline>SOCCER-ENGLISH PREMIER LEAGUE SUMMARY.</headline>
+<dateline>LONDON 1996-11-16</dateline>
+<text>
+<p>Summary of Sunday's English premier league match:</p>
+<p>Arsenal 3 (Wright penalty 28, Adams 88, Bergkamp 90) Tottenham 1 (Sinton 57). Halftime 1-0. Attendance: 38,264.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

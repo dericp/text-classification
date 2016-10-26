@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="96565" id="root" date="1996-10-04" xml:lang="en">
+<title>USA: U.S. blasts Somali &quot;celebration&quot; of solider deaths.</title>
+<headline>U.S. blasts Somali &quot;celebration&quot; of solider deaths.</headline>
+<dateline>WASHINGTON 1996-10-04</dateline>
+<text>
+<p>The U.S. State Department on Friday denounced what it said were celebrations in Somalia on the third anniversary of the killing of 18 U.S. soldiers there, calling them an affront to the American people.</p>
+<p>Spokesman Nicholas Burns said the faction of the late Somali warlord Mohammed Farah Aideed held the celebrations on Thursday in the capital Mogadishu.</p>
+<p>&quot;I think this is offensive to the American people and the American government. And it says a lot about the people who remain in that faction,&quot; Burns told reporters.</p>
+<p>&quot;We haven't forgotten the deaths of those 18 people and it is uncivilized to celebrate the deaths of people who were there to bring peace and stability to Somalia, our peacekeepers,&quot; he said.</p>
+<p>The 18 U.S. Rangers, part of a U.N. peacekeeping operation in Somalia, were killed in an attack on an Aideed stronghold in Mogadishu Oct. 3, 1993. Three days later, President Bill Clinton announced that all U.S. troops would be withdrawn from Somalia within six months.</p>
+<p>Aideed died last August and was succeeded by his son, Hussein, a former U.S. marine who briefly served in the American force in Somalia at the time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SOMAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

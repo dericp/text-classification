@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371127" id="root" date="1997-02-11" xml:lang="en">
+<title>SPAIN: PRESS DIGEST - Spain - February 11.</title>
+<headline>PRESS DIGEST - Spain - February 11.</headline>
+<text>
+<p>Headlines from major national newspapers. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>EL PAIS</p>
+<p>- ETA kills a supreme court judge in Madrid and an army employee in Granada</p>
+<p>- An HB leader commits suicide just hours before an appearance at the supreme court</p>
+<p>EL MUNDO</p>
+<p>- ETA kills a high court judge in Madrid and an army employee in Granada</p>
+<p>EXPANSION</p>
+<p>- La Kutxa buys 1.5 percent of Repsol for 20 bln ptas</p>
+<p>GACETA DE LOS NEGOCIOS</p>
+<p>- Telefonica sets maximum share price at 3,385 pesetas</p>
+<p>CINCO DIAS</p>
+<p>- Internet breaks with specialisation</p>
+<p>- Revival in business and consumer confidence in Spain and Europe</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

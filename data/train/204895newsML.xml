@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="204895" id="root" date="1996-11-20" xml:lang="en">
+<title>HONG KONG: South Korea considering repo pacts with neighbours.</title>
+<headline>South Korea considering repo pacts with neighbours.</headline>
+<dateline>HONG KONG 1996-11-20</dateline>
+<text>
+<p>South Korea may enter into bilateral repurchase pacts with other Asian countries to help maintain monetary stability in the region, said Kyung-Shik Lee, governor of the Bank of Korea.</p>
+<p>&quot;The Bank of Korea currently is considering participating in such an agreement,&quot; Lee said at a World Economic Forum meeting in Hong Kong.</p>
+<p>Several Asian nations have signed bilateral agreements to repurchase U.S. dollar securities from each other to help maintain liquidity and currency stability in times of crisis.</p>
+<p>-- Hong Kong Newsroom (852) 2843-6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

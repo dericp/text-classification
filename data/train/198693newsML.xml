@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="198693" id="root" date="1996-11-18" xml:lang="en">
+<title>SWEDEN: Sandvik invests in new tube mill.</title>
+<headline>Sandvik invests in new tube mill.</headline>
+<dateline>STOCKHOLM 1996-11-18</dateline>
+<text>
+<p>Swedish tool and speciality steel maker Sandvik AB said that during 1997 it will begin construction of a new tube mill for the production of seamless, stainless-steel heat-exchanger tubes in Sandviken, Sweden.</p>
+<p>The 300-metre long tube hall will house pilger mills and include degreasing, annealing and finishing equipment.</p>
+<p>The investment, estimated in the first phase to cost about 250 million crowns, is part of the company's long-term investment.</p>
+<p>-- Stockholm newsroom +46-8-700-1004</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="32804" id="root" date="1996-09-04" xml:lang="en">
+<title>USA: CUC International Q2 shr falls after charge.</title>
+<headline>CUC International Q2 shr falls after charge.</headline>
+<dateline>NEW YORK 1996-09-04</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.14		    $0.18</p>
+<p> Net			 35,308		   44,302</p>
+<p> Revs		     490,377		  410,019</p>
+<p> Avg shrs		 256,806		  248,767</p>
+<p>	   6 MONTHS</p>
+<p> Shr			  $0.32		    $0.33</p>
+<p> Net			 82,293		   82,305</p>
+<p> Revs		     940,876		  782,835</p>
+<p> Avg shrs		 255,084		  247,542</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Both periods of 1996 includes a one-time charge of $0.10 per share, related to merger costs.</p>
+<p>Full company name is CUC International Inc. ---New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

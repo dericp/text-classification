@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="375227" id="root" date="1997-02-13" xml:lang="en">
+<title>HUNGARY: Hungary posts Jan budget surplus of 15.7 bln forin.</title>
+<headline>Hungary posts Jan budget surplus of 15.7 bln forin.</headline>
+<dateline>BUDAPEST 1997-02-13</dateline>
+<text>
+<p>Hungary's central state budget posted a 15.7 billion forint surplus in January 1996, compared to a deficit of 19.4 billion forint in December, the Finance Ministry said on Thursday.</p>
+<p>    BUDGET (BLN FORINTS)  Jan 97	Dec 96	Jan/Dec 96</p>
+<p>    REVENUES		   276.3	currently  unavailable</p>
+<p>    EXPENDITURES	     260.6	currently  unavailable</p>
+<p>    BALANCE		     + 15.7     -19.4    -130.7</p>
+<p>NOTE - The figures do not include one-off revenues, e.g. privatisation revenues.</p>
+<p>-- Budapest newsroom + 36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="41668" id="root" date="1996-09-09" xml:lang="en">
+<title>INDIA: INDIA - Most traded govt paper - week to Sept 6.</title>
+<headline>INDIA - Most traded govt paper - week to Sept 6.</headline>
+<dateline>BOMBAY 1996-09-09</dateline>
+<text>
+<p>Following are the most-traded Indian government securities in the week ending Sept 6, according to the Bombay research group Credence:</p>
+<p>			 MOST TRADED GOVERNMENT PAPER</p>
+<p>			   (Week ended Sept 6, 1996)</p>
+<p> Instrument	 Volume  Price Range   Yield Range  Variability</p>
+<p>			Rs million					   #</p>
+<p>---------------------------------------------------------------</p>
+<p>91 Day T Bill</p>
+<p>  30/11/96	 2005.10   97.54- 97.74   9.56-10.31     0.17</p>
+<p>13.62% GoI 1998  1726.00  100.35-100.60  13.24-13.39     0.07</p>
+<p>91 Day T Bill</p>
+<p>  14/09/96	 1693.20   99.66- 99.88   5.23- 8.97     1.84</p>
+<p>13.50% GoI 1997  1260.00  100.25-100.51  12.93-13.22     0.71</p>
+<p>13.50% GoI 1998</p>
+<p>  (Conv)	   1040.00  101.07-101.30  12.56-12.72     0.08</p>
+<p># Standard deviation since August 6, 1996</p>
+<p>Yields mentioned in the tables are as calculated by RBI &amp; NSE</p>
+<p>Source: CREDENCE</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

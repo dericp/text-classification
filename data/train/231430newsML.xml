@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231430" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: Equitable to supply natgas to Conn. casino.</title>
+<headline>Equitable to supply natgas to Conn. casino.</headline>
+<dateline>PITTSBURGH 1996-12-03</dateline>
+<text>
+<p>Equitable Resources Inc said its ERI Services subsidiary won a competition to supply natural gas and other energy services for the Mohegan Sun Casino in Uncasville, Conn., which opened in October.</p>
+<p>The sale of some 6.5 million cubic feet of natgas per year to the casino is expected to generate revenue of about $565,000 annually with an annual $140,000 projected energy savings to the casino, Equitable said.</p>
+<p>In addition to the natgas, ERI Services expects to also provide energy conservation engineering and energy system design for future buildings to be built at the casino. ERI is developing a comprehensive natgas program for casino vehicles.</p>
+<p>--New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

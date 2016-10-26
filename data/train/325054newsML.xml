@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="325054" id="root" date="1997-01-22" xml:lang="en">
+<title>USA: Tosco Ca. refinery fire nearly out, two units down.</title>
+<headline>Tosco Ca. refinery fire nearly out, two units down.</headline>
+<dateline>NEW YORK 1997-01-22</dateline>
+<text>
+<p>The fire which followed Tuesday night's explosion at Tosco's 156,000 barrels per day (bpd) refinery at Avon (Martinez), California, northeast of San Francisco has been nearly extinguished, though two units at the plant remained idled, a Tosco spokesman said Wednesday.</p>
+<p>The refinery fire killed one and injured 25 when the 32,000 bpd hydrocracking unit, which makes gasoline, blew up on Tuesday evening.</p>
+<p>The explosion could be heard up to five miles away, according to witnesses.  </p>
+<p>&quot;We're not saying the fire is totally out yet but it is essentially out,&quot; said Tosco spokesman James Simmons. There are still some flare ups as fuel seeps back into the fire, he said.</p>
+<p>Tosco personnel haven't been able to get to the unit to begin investigating the cause of the explosion, Simmons said.</p>
+<p>The unit directly affected will remain down &quot;for some time,&quot; and Simmons said a 42,000 bpd coking unit and small anciliary units also were down currently for maintenance. But the rest of the plant is operating normally, he said.</p>
+<p>He said the dead worker had not yet been identified.</p>
+<p>&quot;We have found a body but we have not made a positive identification yet. We are working with the coroner to make a positive identification,&quot; said Simmons.</p>
+<p>The 25 hurt received only minor sprains, ringing ears and similar injuries and most had been released from hospital.</p>
+<p>There was not environmental danger caused by the explosion, according to local healt officials.</p>
+<p>&quot;There was no need for evacuation,&quot; said James Gallagher of the Contra Costa County Health Department's hazardous materials unit. He said air samples were taken but showed no toxins and weather conditions - wind and heavy rain - helped disperse the emissions.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

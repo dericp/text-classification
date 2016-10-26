@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152455" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Alliant Techsystems Inc Q2 net rises.</title>
+<headline>Alliant Techsystems Inc Q2 net rises.</headline>
+<dateline>MINNEAPOLIS 1996-10-30</dateline>
+<text>
+<p>(In thousands except per share data)</p>
+<p>				   QUARTERS ENDED    SIX MONTHS ENDED</p>
+<p>				 Sep 29     Oct 1    Sep 29     Oct 1</p>
+<p>				  1996	1995	1996	1995</p>
+<p> Sales		 $    272,498   267,650   530,521   560,598</p>
+<p> Gross margin		48,813    50,296    92,021   101,240</p>
+<p>Operating expenses</p>
+<p>Total operating</p>
+<p>	expenses	     24,780    23,789    47,616    52,210</p>
+<p> Income from operations  24,033    26,507    44,405    49,030</p>
+<p>Miscellaneous income</p>
+<p>   (expense)		   (77)     (122)	 989     1,521</p>
+<p> Income tax provision	  --     3,223	  --     6,219</p>
+<p>Income from continuing</p>
+<p>  operations		 13,637    11,427    24,774    22,051</p>
+<p>Loss from</p>
+<p>discontinued operations</p>
+<p>  net of income taxes	  --     (241)	  --     (800)</p>
+<p> Net income		  13,637    11,186    24,774    21,251</p>
+<p>Earnings per common</p>
+<p>and common equivalent share:</p>
+<p>Continuing</p>
+<p>    operations		 1.02	 .86	1.85	1.64</p>
+<p> Discontinued operations     --     (.02)	  --     (.06)</p>
+<p> Net income		    1.02	 .84	1.85	1.58</p>
+<p>Average number of common</p>
+<p>and common equivalent shares</p>
+<p>  (thousands)		13,421    13,382    13,383    13,479</p>
+<p>		  -- Reuter Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

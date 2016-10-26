@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594201" id="root" date="1997-05-19" xml:lang="en">
+<title>UK: BP promises to help fight climate change.</title>
+<headline>BP promises to help fight climate change.</headline>
+<dateline>LONDON 1997-05-19</dateline>
+<text>
+<p>Oil major British Petroleum Co Plc on Monday announced steps to help cut carbon dioxide emissions following growing concerns over worldwide climatic change.</p>
+<p>BP, which has recently come under fire from environmental lobby group Greenpeace, said it wanted to take action even though there was no conclusive evidence yet of global warming.</p>
+<p>&quot;We must now focus on what can and what should be done, not because we can be certain climate change is happening, but because the possibility can't be ignored,&quot; BP chief executive John Browne said.</p>
+<p>He was speaking on global warming at Stanford University in Palo Alto, California. A copy of the speech, which follows a batch of recent lobby group demonstrations in Britain against oil companies' environmental track record, was sent beforehand to Reuters in London.</p>
+<p>Browne said BP will control its own carbon dioxide emission and take measures such as eliminate flaring of gas as much as possible.</p>
+<p>The company, one of Britain's biggest, will also continue to support the development of solar energy, Browne said. &quot;I'm convinced we can make solar competitive in supplying peak electricity demand within the next 10 years,&quot; he said.</p>
+<p>BP will be commissioning a new solar manufacturing facility in California by the end of the year.</p>
+<p>Greenpeace said BP's measures were not going far enough, adding that the company should stop looking for new oil and gas reserves.</p>
+<p>&quot;To continue to look for new fossil fuel reserves makes no sense when we can't afford to burn what we've already found,&quot; Greenpeace spokesman Chris Rose said in a statement.</p>
+<p>The lobby group in April set solar panels on the roof of a BP office in Scotland in protest of oil exploration in the Atlantic Ocean west of the Shetland Islands.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

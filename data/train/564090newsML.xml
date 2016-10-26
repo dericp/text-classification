@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="564090" id="root" date="1997-05-06" xml:lang="en">
+<title>USA: Aquila Q1 net loss vs profit.</title>
+<headline>Aquila Q1 net loss vs profit.</headline>
+<dateline>WORCESTER, Mass. 1997-05-06</dateline>
+<text>
+<p>AQUILA BIOPHARMACEUTICALS INC.</p>
+<p>	    (In Thousands, Except Per Share Amounts, Unaudited)</p>
+<p>						     Three Months Ended</p>
+<p>						   3/31/97  3/31/96(A)</p>
+<p> Revenues					  $1,529    $1,757</p>
+<p> Costs and Expenses			     2,716     2,830</p>
+<p> Net Income (Loss)				(450)	 141</p>
+<p>Net Income (Loss) per Weighted</p>
+<p>  Average Shares				 (0.09)	0.04</p>
+<p> Weighted Average Shares Outstanding	5,000     3,551</p>
+<p>NOTE (A): Financial results for the first quarter of 1996 have been restated to reflect the disposal of Aquila's diagnostics businesses as discontinued operations and &quot;Weighted Average Shares Outstanding&quot; has been adjusted to reflect a 7.6 to 1 stock exchange on October 21, 1996.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WORCESTER, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

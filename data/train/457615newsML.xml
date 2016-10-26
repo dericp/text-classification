@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="457615" id="root" date="1997-03-20" xml:lang="en">
+<title>NORWAY: Norway Central Bank sold NOK 851 mln last week.</title>
+<headline>Norway Central Bank sold NOK 851 mln last week.</headline>
+<dateline>OSLO 1997-03-20</dateline>
+<text>
+<p>Norway's central bank, Norges Bank, said on Thursday it sold 610 million crowns between Wednesday and Friday last week.</p>
+<p>The bank net sold 241 million crowns between Monday and Tuesday last week.</p>
+<p>The bank said that to date this year it had sold a net 35.149 billion crowns.</p>
+<p>The bank announced on February 20 that it would resume purchases of foreign currency in order to manage the state's Petroleum Fund.</p>
+<p>It had stopped selling crowns in January after massive intervention on the foreign exchange market failed to halt a surge in the petrocurrency. Norges Bank uses monetary policy to stabilise the crown.</p>
+<p>Oil-rich Norway expects to have a budget surplus of 55.4 billion crowns in 1997, all of which will be placed into the Petroleum Fund for investment. The central bank is charged with converting the amounts into foreign currency and investing overseas.</p>
+<p>--Tanya Pang, Oslo newsroom, +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

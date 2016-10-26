@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210019" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: CME live cattle end mixed ahead of USDA report.</title>
+<headline>CME live cattle end mixed ahead of USDA report.</headline>
+<dateline>CHICAGO 1996-11-22</dateline>
+<text>
+<p>CME live cattle futures continued to reflect trader evening of positions ahead of the USDA Cattle-on-Feed report and finished weak in deferreds on expectations of heavier fed supplies, traders said.</p>
+<p>The monthly cattle report is expected to show feedlot supplies rising to year ago levels. Estimates for November 1 on-feed supplies at the seven primary cattle feeding states averaged 99.5 percent of a year ago with October placements averaging 105.7 percent and marketings averaging 97.3 percent of last year.</p>
+<p>The expectations pressured deferred contracts on prospects of increasing cattle supplies while nearby December firmed on short covering, traders said.</p>
+<p>Live cattle closed 0.450 higher to 0.200 lower with December up most at 66.975 cents.</p>
+<p>December appeared somewhat oversold, especially considering current tight supplies of choice cattle. Although cash fed cattle prices fell $3 per tbf this week, choice numbers remain tight as shown by the large spread of choice beef over select, they said.</p>
+<p>Trading was also light in live cattle options early with hedging cited in April.</p>
+<p>Traders bought April 64 puts sold 70 calls, pit sources said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

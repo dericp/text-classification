@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593951" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: U.S. opens case against Staples merger.</title>
+<headline>U.S. opens case against Staples merger.</headline>
+<dateline>WASHINGTON 1997-05-19</dateline>
+<text>
+<p>The government opened its case against the $4 billion proposed merger of Staples Inc and Office Depot Inc by arguing in federal court that the companies' own documents show the merger would give them the power to raise prices to consumers.</p>
+<p>&quot;These firms will have the power, the ability to raise prices,&quot; argued George Cary, chief litigator for the Federal Trade Commission. &quot;The issue in all antitrust cases is who constrains pricing?&quot;</p>
+<p>Cary showed internal documents from the companies. In several cases the companies described areas as having &quot;no competition.&quot;</p>
+<p>Cary said that the companies describe areas as being without competition even when there were Wal-Mart Stores Inc and K Mart Corp stores in the area.</p>
+<p>He said the only people that the office superstores considered to be competitors were other office superstores in the sale of consumable office supplies like file folders and photocopy paper.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807011" id="root" date="1997-08-18" xml:lang="en">
+<title>ITALY: IBCA affirms Italy's Cariplo ratings.</title>
+<headline>IBCA affirms Italy's Cariplo ratings.</headline>
+<dateline>MILAN 1997-08-18</dateline>
+<text>
+<p>European credit rating agency IBCA said it has affirmed credit ratings for Italian savings bank Cariplo as long-term A-Plus and short-term A1.</p>
+<p>It said legal and individual ratings for Cariplo, whose full name is Cassa di Risparmio delle Provincie Lombarde, remained unchanged at C and 2.</p>
+<p>IBCA said in a statement that while Cariplo had undergone a difficult period in the last few years and loan loss provisions were expected to remain high, &quot;the bank expects to report significantly improved performance in 1997.&quot;</p>
+<p>&quot;Furthermore the agreement reached recently with Banco Ambrosiano Veneto should allow for a more diversified group and should lead to positive results especially in the medium term,&quot; it said.  </p>
+<p>Cariplo and Ambroveneto have agreed to merge to create Italy's second biggest banking group in terms of assets, deposits and loans.</p>
+<p>--Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

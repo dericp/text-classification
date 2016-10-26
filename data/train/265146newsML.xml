@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="265146" id="root" date="1996-12-18" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Dec 18.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Dec 18.</headline>
+<dateline>LONDON 1996-12-18</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- The Palestinian Authority is planning to spend $20 million on projects to boost tourism.</p>
+<p>- Canada is to grant a total of $60 million to Tunisia, Morocco and Algeria for development projects.</p>
+<p>- Gulf Arab states' free trade negotiations with the European Union are due to resume next year.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Lebanon needs about $1.2 billion to develop the country's road network, the public works minister said.</p>
+<p>- A high-level Egyptian delegation began commercial negotiations with Saudi businessmen in Riyadh to diversify Saudi investments in Egypt.</p>
+<p>- Yemen and the Netherlands signed a $62.6 million agreement to construct an electricity power station in Yemen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

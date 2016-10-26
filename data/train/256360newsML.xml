@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="256360" id="root" date="1996-12-13" xml:lang="en">
+<title>NEW ZEALAND: RBNZ to buy back T-bills to manage liquidity.</title>
+<headline>RBNZ to buy back T-bills to manage liquidity.</headline>
+<dateline>WELLINGTON 1996-12-13</dateline>
+<text>
+<p>The Reserve Bank of New Zealand said on Friday it was offering to buy back Treasury bills maturing January 8 and January 15, 1997, for value December 20, 1996.</p>
+<p>It said the buy-back was a result of a large non-tax revenue payment to the Crown on December 20.</p>
+<p>&quot;Additionally, the bank will most likely offer to buy back the above January Treasury bills in the Open Market Operation of 20 December 1996,&quot; the RBNZ said.</p>
+<p>--Wellington Newsroom (64 4) 4734746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

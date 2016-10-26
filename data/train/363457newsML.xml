@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="363457" id="root" date="1997-02-07" xml:lang="en">
+<title>USA: Police lead man from Philadelphia hostage site.</title>
+<headline>Police lead man from Philadelphia hostage site.</headline>
+<dateline>PHILADELPHIA 1997-02-07</dateline>
+<text>
+<p>A man emerged with his arms in the air from a check-cashing building in Philadelphia where 40 to 60 people were taken hostage earlier Friday, local media reported.</p>
+<p>Television pictures showed police leading the man from the building. It was unclear whether he was a hostage or hostage-taker. Philadelphia police said earlier they were seeking to remove people one-by-one in an effort to make sure robbers did not slip out with hostages.  </p>
+<p>The man was taken to a police trailer. More people inside the building were lined up alongside a window.</p>
+<p>&quot;What we're doing is trying to get the people out of here safely,&quot; Philadelphia police deputy commissioner Richard Zappile told reporters before the man emerged.</p>
+<p>Zappile said as many as eight robbers were involved in the incident, which began Thursday night with an apparent kidnapping attempt.</p>
+<p>Radio and television stations reported that the robbers intended to use one or more employees of the Financial Exchange, a check-cashing business, to gain entrance the next morning in an apparent attempt to rob an armoured car. But the attempt apparently went wrong and led to the hostage situation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

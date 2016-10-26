@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641584" id="root" date="1997-06-05" xml:lang="en">
+<title>AUSTRALIA: Tiny Australian machine gives answers in a nano.</title>
+<headline>Tiny Australian machine gives answers in a nano.</headline>
+<dateline>CANBERRA 1997-06-05</dateline>
+<text>
+<p>Australian scientists, after a decade of secret research, on Thursday unveiled a microscopic machine that could revolutionise disease diagnosis and drug testing.</p>
+<p>The nanomachine is a tiny biosensor that combines biology and physics -- with moving parts the size of molecules -- to detect molecules and identify minute amounts of substances.</p>
+<p>Research team leader Bruce Cornell said the sensitive device can detect a range of substances, including drugs, hormones, viruses and pesticides and can identify gene sequences.</p>
+<p>&quot;This biosensor is a unique blend of the ability of biology to identify individual types of molecule in complex mixtures, with the speed, convenience and low cost of microelectronics,&quot; Cornell, from the Cooperative Research Centre for Molecular Engineering and Technology, said in a statement.</p>
+<p>The sensor, tipped to be a billion dollar bonanza for Australia when it goes into commercial production in about two years, is the world's first functioning nanomachine -- machines with parts measured in billionths of a metre.</p>
+<p>Cornell and his team say it is so sensitive that if one sugar cube was thrown into Australia's world famous Sydney Harbour, it could measure the increased sugar content.</p>
+<p>The device will allow simple detection of almost all diseases within minutes from a small blood or saliva sample -- ending the need to wait days for pathology test results.</p>
+<p>It can also identify minute amounts of drugs and bacteria.</p>
+<p>&quot;We are designing them to be very simple to operate, we've even had corporate lawyers working them,&quot; said Cornell.</p>
+<p>Using a technique described as &quot;biology on a stick&quot;, the machine essentially copies the body's sensing mechanisms by chemically tethering a synthetic membrane onto a piece of plastic.</p>
+<p>The central component is a tiny electrical switch, 1.5 billionths of a metre in size, which acts as an ion-channel.</p>
+<p>&quot;Our technology converts immediately the biochemistry into an electrical signal,&quot; Cornell said.</p>
+<p>The nanomachine is inserted into a hand-held unit, which holds the sample and interprets the nanomachine's electronic signals.</p>
+<p>The nanomachines are also expected to be used to monitor food safety and quality and environmental monitoring.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

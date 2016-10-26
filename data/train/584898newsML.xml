@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="584898" id="root" date="1997-05-14" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - May 14.</title>
+<headline>PRESS DIGEST - Morocco - May 14.</headline>
+<dateline>RABAT 1997-05-14</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Wednesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Egyptian President Mubarak arrives in Morocco to co-host joint high commission with King Hassan; meeting to focus on Middle East situation and ways of enhancing cooperation.</p>
+<p>- Crown Prince Mohamed's visit to Spain seen as step towards consolidating relations.</p>
+<p>- Prime Minister Filali presides over board meeting of state-owned railway utility.</p>
+<p>L'OPINION</p>
+<p>- Fisheries Ministry and European Commission to hold two-day meeting on fish industry starting on May 26.</p>
+<p>AL-BAYANE</p>
+<p>- Huge fire in textile factory in northern city of Tangier causes heavy damage.</p>
+<p>LE QUOTIDIEN</p>
+<p>- King tells French magazine Geopolitique social imbalance and rural depopulation hamper development.</p>
+<p>AL-MAGHRIB</p>
+<p>- China's visiting state councillor Song Gian meets Moroccan officials over energy, mining and fisheries cooperation.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

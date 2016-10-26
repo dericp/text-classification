@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="119897" id="root" date="1996-10-16" xml:lang="en">
+<title>SOUTH AFRICA: S.African fx controls to go within 2 yrs -ABN AMRO.</title>
+<headline>S.African fx controls to go within 2 yrs -ABN AMRO.</headline>
+<dateline>JOHANNESBURG 1996-10-16</dateline>
+<text>
+<p>South Africa is likely to abolish all remaining foreign exchange controls within two years, according to an economic review released by Dutch bank ABN AMRO this week.</p>
+<p>Low foreign reserves, which stood at just 10 billion rand or four weeks import cover at end-September, will prevent any significant move on liberalising the rand in the near-term. But the government will act once economic conditions improve, said economist Anastasia Gekis.</p>
+<p>&quot;Pressure for a more rapid pace to this process of exchange control relaxation is mounting. The result should see the complete relaxation of exchange controls within a maximum time frame of two years,&quot; she said.</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

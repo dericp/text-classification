@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="523497" id="root" date="1997-04-21" xml:lang="en">
+<title>USA: Fiserv says growth on pace for record '97.</title>
+<headline>Fiserv says growth on pace for record '97.</headline>
+<dateline>BROOKFIELD, Wis. 1997-04-21</dateline>
+<text>
+<p>Fiserv Inc, reporting stronger first-quarter results, said its strong sales growth continues the company on pace for a record year.</p>
+<p>&quot;We've had a good start, and our pipeline for new business activity remains very active for the second quarter and remainder of 1997,&quot; said president Leslie Muma in a statement.</p>
+<p>In addition to new sales, Fiserv, a provider of financial data processing systems, is exploring potential alliances with other technology-based companies, Muma added.</p>
+<p>Earlier Monday, Fiserv posted first-quarter earnings of $0.39 per share, up from $0.32 a year ago. Total revenues rose to $206.5 million from $194.7 million.</p>
+<p>((Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BROOKFIELD, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

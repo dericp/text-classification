@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="270709" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: Sri Lanka to seek 100,000 T optional wheat - trade.</title>
+<headline>Sri Lanka to seek 100,000 T optional wheat - trade.</headline>
+<dateline>CHICAGO 1996-12-20</dateline>
+<text>
+<p>Sri Lanka is expected to seek in early January 100,000 tonnes optional origin wheat for late January shipment, U.S. exporters said.</p>
+<p>The deal would include 50,000 tonnes soft white wheat and 50,000 hard red wheat.</p>
+<p>&quot;I think they will tender on January 3,&quot; one U.S. exporter said.</p>
+<p>On November 27, Sri Lanka bought 100,000 tonnes of wheat from Australia and Argentina.</p>
+<p>--Doris Frankel 312-983-7305</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="83573" id="root" date="1996-09-29" xml:lang="en">
+<title>USA: Agreement on IMF's GAB finalized - French sources.</title>
+<headline>Agreement on IMF's GAB finalized - French sources.</headline>
+<dateline>WASHINGTON 1996-09-29</dateline>
+<text>
+<p>The Group of Ten has finalized an agreement for doubling International Monetary Fund emergency resources -- the General Arrangements to Borrow, French sources said on Sunday.</p>
+<p>They said a new group, including countries contributing to IMF emergency funds for the first time, would meet at least once a year to supervise the &quot;New Arrangements to Borrow.&quot;</p>
+<p>The group, which would also include G-10 members, would have a rotating presidency.</p>
+<p>The Group of Ten in a statement earlier on Sunday welcomed progress made in doubling the IMF's emergency funds and recommended that the process be brought to a rapid conclusion.</p>
+<p>The wording of the statement appeared to suggest that the final agreement had not yet been reached.</p>
+<p>The sources said that under the agreement, around a dozen new countries would bring fresh resources to the New Arrangements to Borrow, doubling the $25 billion in emergency funds currently available under the General Arrangements to Borrow, to which G-10 countries contribute.</p>
+<p>The emergency funds are used by the IMF to help countries facing serious financial crises such as the one which hit Mexico in late 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GTEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

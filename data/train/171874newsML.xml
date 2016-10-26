@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171874" id="root" date="1996-11-07" xml:lang="en">
+<title>USA: Dimon Inc Q1 net rises.</title>
+<headline>Dimon Inc Q1 net rises.</headline>
+<dateline>DANVILLE, Va. 1996-11-07</dateline>
+<text>
+<p>Condensed Statement of Consolidated Income</p>
+<p>							 Three Months Ended</p>
+<p>							     September 30</p>
+<p> (Unaudited - 000's Except Per Share Data)     1996	1995</p>
+<p> Sales and other operating revenues	   $410,734 $339,692</p>
+<p> Restructuring costs					--    1,498</p>
+<p> Operating profit				     37,795   25,968</p>
+<p> Net income					     15,265    6,028</p>
+<p>Earnings per share</p>
+<p> Primary							36	 16</p>
+<p> Assuming full dilution				  .36	.16</p>
+<p>Average number of shares outstanding:</p>
+<p> Primary						  42,532   38,174</p>
+<p> Assuming full dilution			     42,540   42,351</p>
+<p>Sales and other operating revenue by business segment:</p>
+<p> Tobacco						 327,843  266,167</p>
+<p> Flowers						  82,891   73,525</p>
+<p> Total						   410,734  339,692</p>
+<p>Operating profit (loss) by business segment:</p>
+<p> Tobacco						  38,025   27,478</p>
+<p> Flowers						   (230)  (1,510)</p>
+<p> Total						    37,795   25,968</p>
+<p>NOTE: 95 results include $1.5 million, or $0.03 per share, restructuring charge.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DANVILLE, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

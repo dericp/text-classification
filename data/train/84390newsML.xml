@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="84390" id="root" date="1996-09-30" xml:lang="en">
+<title>USA: U.S. Stockpile sells 655 tonnes tin at $2.705/lb.</title>
+<headline>U.S. Stockpile sells 655 tonnes tin at $2.705/lb.</headline>
+<dateline>WASHINGTON 1996-09-30</dateline>
+<text>
+<p>The U.S. Defense Logistics Agency said Monday that it sold 655 tonnes of stockpile tin to six firms at a unit price of $2.705 per lb.</p>
+<p>DLA sold 240 tonnes of tin to RMT of New York, N.Y. and 200 tonnes to Baron Metals, also of New York City. It sold 180 tonnes to American Iron &amp; Metal of Quebec, Canada.</p>
+<p>Ingot Metal Co Ltd of Toronto, Canada bought 15 tonnes of Longhorn tin. Non-Ferrous Processing of Brooklyn, N.Y. bought 10 tonnes of Longhorn tin, while Ney Smelting, also of Brooklyn, bought the remaining 10 tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

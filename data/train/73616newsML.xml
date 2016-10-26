@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="73616" id="root" date="1996-09-24" xml:lang="en">
+<title>BELGIUM: CFE falls into loss for H1 1996.</title>
+<headline>CFE falls into loss for H1 1996.</headline>
+<dateline>BRUSSELS 1996-09-23</dateline>
+<text>
+<p>First-half 1996 earnings</p>
+<p>(million Belgian francs unless stated)</p>
+<p>    Group net (excludes minorities) loss  65 vs     94 profit</p>
+<p>    Cons turnover			   10,675 vs 13,248</p>
+<p>    Cons current pre-tax loss		118 vs    136 profit</p>
+<p>    Cons net loss				 49 vs     78 profit</p>
+<p>NOTE - Compagnie D'Entreprises CFE is a civil engineering and construction firm. It said as a result of the worsening climate in the construction sector in 1996, full year earnings would be less than those of 1995.  </p>
+<p>It said orders were at the same level as in the same period in 1995 for construction, and were higher for its dredging activities. Full-year turnover should be slightly below 1995 levels, on a comparable consolidation basis. The company expected slightly positive net consolidated earnings for the full year and a slightly reduced cashflow.</p>
+<p>It said the fall in first half 1996 turnover versus the year ago period was partly a result of the deconsolidation of the company's participation in Wan Hin in Hong Kong.</p>
+<p>-- Brussels Newsroom +32 2 287 6810</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

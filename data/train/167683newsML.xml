@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167683" id="root" date="1996-11-05" xml:lang="en">
+<title>SWITZERLAND: Swiss three-month money claims yield 1.760 pct.</title>
+<headline>Swiss three-month money claims yield 1.760 pct.</headline>
+<dateline>ZURICH 1996-11-05</dateline>
+<text>
+<p>The Swiss federal government set terms on a new series 3.359 of three-month money market claims, which are to be paid for on November 7.</p>
+<p>The issue, totaling 972.25 million Swiss francs, has an issue price of 99.557 percent, to yield 1.760 percent per annum.</p>
+<p>The previous issue of three-month claims, paid for on October 24, raised 903.20 million francs and was priced at 99.654 percent to yield 1.374 percent annually.</p>
+<p>-- Zurich editorial, +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

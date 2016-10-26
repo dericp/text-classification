@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="768337" id="root" date="1997-07-31" xml:lang="en">
+<title>USA: TABLE - Agouron Q4 results.</title>
+<headline>TABLE - Agouron Q4 results.</headline>
+<dateline>LA JOLLA, Calif. 1997-07-31</dateline>
+<text>
+<p>CONSOLIDATED FINANCIAL INFORMATION</p>
+<p>		    (In thousands, except per share amounts)</p>
+<p> Statement of Operations   Three Months Ended	Year Ended</p>
+<p>					     June 30,     June 30,</p>
+<p>				   1997	1996     1997	1996</p>
+<p>Revenues:</p>
+<p> Product sales	     $43,568	 $0   $56,969	  $0</p>
+<p> Contracts		    16,259   13,490    65,094    40,955</p>
+<p> License fees		  1,000   15,000    10,000    15,000</p>
+<p>				  60,827   28,490   132,063    55,955</p>
+<p>Operating expenses:</p>
+<p> Cost of product sales    18,576	  0    24,599	   0</p>
+<p>Research and development</p>
+<p>				  26,770   27,230   108,137    71,010</p>
+<p>Selling, general and</p>
+<p>  administrative	    13,139    4,031    32,941     8,082</p>
+<p>Write-off of in-process</p>
+<p>  technology		  57,500	  0    57,500	   0</p>
+<p>				 115,985   31,261   223,177    79,092</p>
+<p> Operating loss	   (55,158)  (2,771)  (91,114)  (23,137)</p>
+<p> Interest income, net	  859    1,215     5,731     4,548</p>
+<p>Loss before income taxes</p>
+<p>				(54,299)  (1,556)  (85,383)  (18,589)</p>
+<p>Income tax provisions,</p>
+<p>  (benefit)		 (43,495)	306  (42,577)	 934</p>
+<p> Net loss		   (10,804)  (1,862)  (42,806)  (19,523)</p>
+<p> Net loss per common share (.76)    (.17)    (3.18)    (1.98)</p>
+<p>Shares used in computing net</p>
+<p>  loss per common share   14,178   10,652    13,473     9,844</p>
+<p> Balance Sheet			    Jun 30,	     Jun 30,</p>
+<p>NOTE: Q4 sales of its anti-HIV drug VIRACEPT(R) (nelfinavir mesylate) were $43,568,000. Q4 results excluding non-recurring charge and tax credit were a profit of $2,896,000 or $0.17 per share on a fully diluted basis. VIRACEPT sales since its launch in March 1997 totaled $56,969,000 for the fiscal year. The net losses for the fourth quarter and fiscal year ending June 30, 1997, including the write-off of $57,500,000 of in-process technology associated with the company's acquisition of Alanex Corporation and the realization of $43,800,000 in deferred tax benefits, were $10,804,000 ($.76 per share) and $42,806,000 ($3.18 per share), respectively, compared to losses of $1,862,000 ($.17 per share) and $19,523,000 ($1.98 per share) for the same periods in fiscal 1996. Of total consideration paid for the acquisition of Alanex, valued at approximately $62,300,000, $57,500,000 has been attributed to in-process technology associated with approximately seven Alanex research programs and expensed in accordance with generally accepted accounting principles.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA JOLLA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

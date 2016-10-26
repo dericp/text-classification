@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="474525" id="root" date="1997-03-28" xml:lang="en">
+<title>USA: Regency Health to buy home health provider.</title>
+<headline>Regency Health to buy home health provider.</headline>
+<dateline>TUSTIN, Calif. 1997-03-28</dateline>
+<text>
+<p>Regency Health Services Inc said it had signed a definitive agreement to acquire the assets of HHC Health Group Inc, an Irvine, Calif.-based provider of home health care services.</p>
+<p>Terms of the transaction were not disclosed.</p>
+<p>HHC's annual revenues are about $6.2 million, Regency said in a statement released Thursday.</p>
+<p>Regency President and Chief Executive Officer Richard Matros said, &quot;This transaction is consistent with our strategic plan to acquire or develop the acute care, home health and outpatient operations that are needed to complete the continuum of services we offer in selected markets.&quot;</p>
+<p>Regency offers acute rehabilitation, subacute care, nursing, neurological care and other specialized long-term care and out-patient services. It also provides in-patient services through 116 facilities with 11,464 licensed beds in California, Ohio, West Virginia, North Carolina and Tennessee.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUSTIN, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

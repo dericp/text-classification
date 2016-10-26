@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="526354" id="root" date="1997-04-21" xml:lang="en">
+<title>HONG KONG: Ingersoll-Rand forms China joint venture.</title>
+<headline>Ingersoll-Rand forms China joint venture.</headline>
+<dateline>HONG KONG 1997-04-21</dateline>
+<text>
+<p>Ingersoll-Rand Co said on Monday it had formed a joint venture with Wuxi Boiler Works to manufacture road building equipment for use in China's growing general construction and infrastructure development industries.</p>
+<p>The venture, to be known as Ingersoll-Rand (Wuxi) Road Machinery Co Ltd, will be 92 percent held by the U.S. industrial machinery maker and eight percent held by Wuxi Boiler.</p>
+<p>Financial details were not available.</p>
+<p>The venture will be Ingersoll-Rand's second joint venture in Wuxi, in Jiangsu province, and its fourth overall in China.</p>
+<p>-- Hong Kong Newsroom (852) 2843-6441</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

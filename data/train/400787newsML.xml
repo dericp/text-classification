@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="400787" id="root" date="1997-02-25" xml:lang="en">
+<title>TAJIKISTAN: Red Cross resumes operations in Tajikistan.</title>
+<headline>Red Cross resumes operations in Tajikistan.</headline>
+<dateline>DUSHANBE 1997-02-25</dateline>
+<text>
+<p>The International Committee of the Red Cross (ICRC) said on Tuesday it had resumed operations in the former Soviet republic of Tajikistan.</p>
+<p>Earlier this month, the ICRC and some other foreign aid organisations suspended activities in the country, devastated by a four-year civil war, after several of their employees were taken hostage by one of several armed factions.</p>
+<p>Two of the hostages, including a British national, were employees with the ICRC.</p>
+<p>&quot;The ICRC has decided following the end of the recent hostage crisis to restart operations,&quot; Thomas Merkelbach, head of the ICRC delegation in Tajikistan, told a news conference in the capital Dushanbe.</p>
+<p>However, Merkelbach said the ICRC could only operate if the country's various factions provided and honoured security guarantees for its workers.</p>
+<p>&quot;Only if we are really sure that our goods and people are respected by the different forces can we continue our activities,&quot; Merkelbach said.</p>
+<p>A fragile peace has reigned in Tajikistan, which borders Afghanistan and China, since the government and the armed Islamist opposition agreed a ceasefire last December.</p>
+<p>But the kidnappings by rogue guerrilla groups forced many foreign organisations to review their security, with several agencies yet to resume full operations in the republic.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TADZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUSHANBE"/>
+<dc element="dc.creator.location.country.name" value="TAJIKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

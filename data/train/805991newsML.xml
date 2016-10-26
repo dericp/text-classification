@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="805991" id="root" date="1997-08-18" xml:lang="en">
+<title>USA: Hilton says advisory body urges ITT vote.</title>
+<headline>Hilton says advisory body urges ITT vote.</headline>
+<dateline>LOS ANGELES 1997-08-18</dateline>
+<text>
+<p>Hilton Hotels Corp on Monday said an advisory organization recommended ITT Corp's board allow the company's shareholders to vote on Hilton's $70-per-share takeover bid.</p>
+<p>Hilton said two reports by Institutional Shareholder Services recommended an ITT shareholder vote on Hilton's offer to buy the company for a combination of cash and stock. The organization also recommended a vote on the ITT board's own spin-off plan.  </p>
+<p>Last week ITT extended its tender offer to buy up to 30 million of its shares, or 26 percent of its outstanding stock, for $70 each until September 9. As of August 12 it said it collected 19 million shares in the tender offer, part of a reorganization that calls for dividing the company into three entities.</p>
+<p>ITT's shares were up 1/16 at 62-3/4 on Monday, while Hilton's stock rose 5/8 to 30-3/8.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

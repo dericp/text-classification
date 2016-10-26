@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202472" id="root" date="1996-11-20" xml:lang="en">
+<title>BRAZIL: Brazilian soybean and product market.</title>
+<headline>Brazilian soybean and product market.</headline>
+<dateline>RIO DE JANEIRO 1996-11-19</dateline>
+<text>
+<p>Brokers reported the following Brazilian soybean and products basis levels.</p>
+<p>(B-Buyer S-Seller T-Trade P-Premium D-Discount)</p>
+<p> SHIPMENT	BASIS	 MONTH	   PREV</p>
+<p>Soybean (cents per bushel)</p>
+<p>Fob Paranagua</p>
+<p> 15Mar/15Apr   15/18 P     15Mar/15Apr   15/18 P</p>
+<p> April	    4/7  P     April	    5/10 P</p>
+<p> May/97	 2 D/2  P     May/97	 2 D/2  P</p>
+<p> July/97	5 D/even     July/97	5 D/even</p>
+<p> SHIPMENT	  BASIS     MONTH	  PREV</p>
+<p>Soymeal/Pellets (dollars per short tonne 48 pct profat)</p>
+<p>Fob Paranagua</p>
+<p> December	  17/18 P   December     17/18 P</p>
+<p> January/97	20/21 P   January/97   20/21 P</p>
+<p> March/97	 3 D/even   March/97	   3 DB</p>
+<p> May/97	    16/14 D   May/97	 16/14 D</p>
+<p> SHIPMENT    BASIS	 MONTH	PREV</p>
+<p>Soybean Oil (dollars per tonne, points per lb, crude, degummed)</p>
+<p>Fob Paranagua</p>
+<p> December    30 D/5 P    December   30 D/5 P</p>
+<p> January     30 D/5 P    January    30 D/5 P</p>
+<p> March	 80 D/10 P   March	  90/20 D</p>
+<p> May/97     100 D/10 P   May/97	100/20 D</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

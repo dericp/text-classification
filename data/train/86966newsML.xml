@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="86966" id="root" date="1996-09-30" xml:lang="en">
+<title>AUSTRALIA: Australian stocks dip at open in slow trade.</title>
+<headline>Australian stocks dip at open in slow trade.</headline>
+<dateline>SYDNEY 1996-09-30</dateline>
+<text>
+<p>Australian shares dipped at the opening in slow trading on Monday as investors awaited some guidance on local interest rates.</p>
+<p>A Reserve Bank of Australia board meeting is scheduled for Tuesday and, while a rate cut is not generally expected, many in the market do not rule it out completely.</p>
+<p>At the opening, the All Ordinaries index lost 3.1 points to 2279.9.</p>
+<p>&quot;It's been quiet with not all that much in it,&quot; said dealer Duncan Gamble of brokerage Wilson HTM, adding that many were taking a wait and see approach to interest rate prospects.</p>
+<p>&quot;People are holding back to see what the Reserve bank does on interest rates.&quot;</p>
+<p>Major miner CRA featured early, with brokers saying a combination of diminishing selling pressure following September options expiry and more favourable market sentiment than the other big miners, BHP and WMC, drove the shares 20 cents higher to A$19.15.</p>
+<p>&quot;There is some pressure off the market after the exercise of put options on Friday and better sentiment on CRA,&quot; Gamble said.</p>
+<p>Falls outnumbered rises by a ratio of about seven to six, while about 42 percent of stocks traded remained steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

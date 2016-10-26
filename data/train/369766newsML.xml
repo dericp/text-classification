@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="369766" id="root" date="1997-02-11" xml:lang="en">
+<title>USA: Mark IV Industries completes audio sale.</title>
+<headline>Mark IV Industries completes audio sale.</headline>
+<dateline>AMHERST, N.Y. 1997-02-11</dateline>
+<text>
+<p>Mark IV Industries Inc said on Tuesday it completed the sale of Mark IV Audio to an affiliate of Greenwich Street Capital Partners Inc for $156.4 million in cash.</p>
+<p>The final price was raised from the $151.5 million previously announced to accommodate changes in Mark IV Audio's balance sheet through the date of closing.</p>
+<p>Mark IV Industries said it will use the proceeds to pay down bank debt, and eventually to help it make acquisitions and possibly to repurchase company stock.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMHERST, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

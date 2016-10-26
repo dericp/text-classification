@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251840" id="root" date="1996-12-12" xml:lang="en">
+<title>POLAND: Three Polish coal miners killed in mine collapse.</title>
+<headline>Three Polish coal miners killed in mine collapse.</headline>
+<dateline>WARSAW 1996-12-12</dateline>
+<text>
+<p>Three miners died and two were seriously injured on Thursday when a tunnel collapsed in a coal mine in southern Poland, PAP news agency reported.</p>
+<p>One miner died on the spot 900 metres (2,953 ft) below ground at Zabrze-Bielszowice mine in the industrial region of Silesia and two more were fatally poisoned by methane as they tried to rescue him, the mine's deputy director Marek Szafraniec told PAP.</p>
+<p>He said rescue teams were looking for more miners possibly trapped in the accident area. There were no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

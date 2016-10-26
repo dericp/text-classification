@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="666390" id="root" date="1997-06-17" xml:lang="en">
+<title>BELARUS: Belarus says gasoline pipeline shut due to leak.</title>
+<headline>Belarus says gasoline pipeline shut due to leak.</headline>
+<dateline>MINSK 1997-06-17</dateline>
+<text>
+<p>A Belarussian gasoline pipeline carrying supplies from Russia to eastern Europe has been shut down after a leak sprang overnight, a spokesman for the Emergencies Ministry said on Tuesday.</p>
+<p>He said it was likely old age had caused the leak in the pipeline, which is six kilometres (four miles) southwest of the town of Dobrush in the southern region of Gomel.</p>
+<p>It was not known how much oil product had spilled from the link, which belongs to Yugozapadtransnefteprodukt.</p>
+<p>The spokesman said clean-up work was continuing but could give no details on when repairs would be completed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BYELRS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINSK"/>
+<dc element="dc.creator.location.country.name" value="BELARUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

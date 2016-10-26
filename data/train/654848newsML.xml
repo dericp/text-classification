@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="654848" id="root" date="1997-06-11" xml:lang="en">
+<title>SINGAPORE: Philippines tenders to buy July 180-cst fuel oil.</title>
+<headline>Philippines tenders to buy July 180-cst fuel oil.</headline>
+<dateline>SINGAPORE 1997-06-11</dateline>
+<text>
+<p>Petron Corp, Philippines' biggest oil refiner has issued a tender to buy 200,000 barrels (27,000 tonnes) of 180-cst fuel oil for July delivery, a company source said on Wednesday.</p>
+<p>The tender, which seeks fuel oil with sulphur content of 1.0-1.7 percent for delivery July 6-10, will close on July 13 and is valid on the same day.</p>
+<p>In its last purchase, Petron bought 30,000 tonnes of 1.3-percent, 135-cst grade fuel oil for May 17-31 delivery. The awarded price was not disclosed.</p>
+<p>-- Singapore Newsroom (65-870 3571)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

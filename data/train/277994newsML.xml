@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="277994" id="root" date="1996-12-27" xml:lang="en">
+<title>USA: USDA may allow poultry imports from Costa Rica.</title>
+<headline>USDA may allow poultry imports from Costa Rica.</headline>
+<dateline>WASHINGTON 1996-12-27</dateline>
+<text>
+<p>The U.S. Agriculture Department Friday proposed declaring Costa Rica free of exotic Newcastle disease, which would allow poultry and poultry products to be imported into the United States from there under certain conditions.</p>
+<p>Costa Rica has had no clinical, pathological or laboratory confirmation of exotic Newcastle for the last five years.</p>
+<p>&quot;We are confident that this change would allow poultry and poultry products from Costa Rica into the United States without compromising the health of our own poultry population,&quot; Joan Arnoldi,  deputy administrator for veterinary services with the Animal and Plant Health Inspection Service, said in a statement.</p>
+<p>Exotic Newcastle disease is a contagious and fatal viral disease affecting all species of birds. It has not infected the U.S. chicken flock since 1974, the USDA said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COSR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I0100121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="I41230">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

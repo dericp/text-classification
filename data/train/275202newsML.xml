@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275202" id="root" date="1996-12-24" xml:lang="en">
+<title>USA: US Plains fed cattle market thin at $65 - USDA.</title>
+<headline>US Plains fed cattle market thin at $65 - USDA.</headline>
+<dateline>CHICAGO 1996-12-24</dateline>
+<text>
+<p>Feedlot cattle markets in the U.S. were seen trading in earnest on Thursday following sluggish pre-Christmas activity, feedlot sources said.</p>
+<p>Many in the industry took time off Tuesday because they did not expect to get much business done, with Christmas falling in the middle of the week this year.</p>
+<p>There were light sales at $65.00 per cwt reported in Kansas, but the Texas Panhandle and western Oklahoma market was inactive, according to USDA and private sources.</p>
+<p>About 1,200 head sold in Kansas at $65.00 for select and choice steers and heifers, steady with last week, they said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

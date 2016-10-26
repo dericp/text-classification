@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176657" id="root" date="1996-11-08" xml:lang="en">
+<title>PHILIPPINES: Philippine govt securities secondary market rates.</title>
+<headline>Philippine govt securities secondary market rates.</headline>
+<dateline>MANILA 1996-11-08</dateline>
+<text>
+<p>The following are secondary market rates quoted by banks on Friday for Philippine government securities. The rates are indicative as maturities are slightly varying.</p>
+<p>			     ---------------</p>
+<p>  BANK			  RATES BID/OFFER PCT</p>
+<p>			     3-mths	  6-mths	   1-year</p>
+<p>Bank of America  11.65 /11.50   12.20 /12.10   12.65 /12.50</p>
+<p>BPI		  11.75 /11.50   12.25 /12.10   12.70 /12.55</p>
+<p>Citibank	   11.75 /11.60   12.30 /12.10   12.75 /12.55</p>
+<p>Metrobank	  11.75 /11.50   12.375/12.00   12.75 /12.50</p>
+<p>Multinational    11.70 /11.50   12.25 /11.95   12.75 /12.50</p>
+<p>StanChart	  11.615/11.525  12.15 /12.05   12.585/12.50</p>
+<p>PNB		  11.625/11.55   12.125/12.00   12.65 /12.575</p>
+<p>			     ---------------</p>
+<p>* To contribute to this page, please fax your quotes to Reuters Manila newsroom on (632) 817 6267. For details, please phone on (632) 841 8934</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

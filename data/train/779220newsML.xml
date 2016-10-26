@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="779220" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: MVSI enters computing pact with Newport.</title>
+<headline>MVSI enters computing pact with Newport.</headline>
+<dateline>VIENNA, Va. 1997-08-05</dateline>
+<text>
+<p>MVSI Inc said on Tuesday it has entered an agreement to provide computer services for Newport News Shipbuilding Inc.</p>
+<p>MVSI said in a statement that its program with Newport News could add $2 million per month to MVSI's revenues, when two computer related integration centers are fully operational.</p>
+<p>Under the arrangment for a computer service center, MVSI will deliver hardware and software and related services to support Newport News's computing operations.</p>
+<p>Newport News said in the MVSI statement that the arrangement will eliminate delays that computer users endure by waiting for quotes from suppliers and waiting for shipment arrivals.</p>
+<p>The service center is expected to be operational later this month, MVSI said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

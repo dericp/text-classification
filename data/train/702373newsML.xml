@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702373" id="root" date="1997-07-02" xml:lang="en">
+<title>INDIA: Indian 364-day treasury bill auction results table.</title>
+<headline>Indian 364-day treasury bill auction results table.</headline>
+<text>
+<p>Date	 bids  accepted   min price   Yield	total</p>
+<p>				    (rupees)     (%)	 (Rs million)</p>
+<p>-----------------------------------------------------------</p>
+<p>July  02    28	18	 91.89	8.85	10,610.00</p>
+<p>June  18    10	 7	 91.76	9.00	 2,747.20</p>
+<p>June  04    10	 8	 91.76	9.00	 4,220.30</p>
+<p>May   21    13	 1	 91.76	9.00	 1,000.00</p>
+<p>May    7    23	 1	 91.76	9.00	   350.00</p>
+<p>Apr   23   116	95	 91.76	9.00	28,930.00</p>
+<p>Apr    9   101	63	 91.39	9.45	20,080.00</p>
+<p>Mar   26    13	 6	 90.83     10.12	 1,170.00</p>
+<p>Mar   12    10	 4	 90.83     10.12	   420.00</p>
+<p>Feb   26    23	14	 90.83     10.12	 4,350.00</p>
+<p>Feb   12    39	 8	 90.83     10.12	 1,109.50</p>
+<p>Jan   29    59	14	 90.83     10.12	 6,350.00</p>
+<p>Jan   15    15	 9	 90.64     10.35	 2,700.00</p>
+<p>Jan   01    13	10	 90.64     10.35	 2,900.00</p>
+<p>			     -----1996-----</p>
+<p>Dec   18    26	10	 90.64     10.35	 1,962.50</p>
+<p>Dec    4    39	22	 90.64     10.35	 4,650.00</p>
+<p>Nov   20    15	 6	 90.58     10.43	   550.00</p>
+<p>Nov   06    63	14	 90.83     10.12	 6,828.00</p>
+<p>Oct   23    54	 4	 89.21     12.13	 1,510.00</p>
+<p>Oct   09    27	23	 88.80     12.65	 8,345.50</p>
+<p>Sep   25    19	 8	 88.80     12.65	 3,210.00</p>
+<p>Sept  11    12	 6	 88.80     12.65	 1,950.00</p>
+<p>Aug   28    18	 9	 88.80     12.65	 2,250.00</p>
+<p>Aug   14    30	14	 88.80     12.65	 3,820.00</p>
+<p>July  31    28	 6	 88.80     12.65	   918.90</p>
+<p>July  17   143     101	 88.80     12.65	10,635.00</p>
+<p>July   3    67	37	 88.60     12.90	 6,371.50</p>
+<p>June  19    14	12	 88.52     13.00	 3,620.00</p>
+<p>June   5    17	 8	 88.54     12.98	 1,620.00</p>
+<p>May   22    24	16	 88.54     12.98	 1,292.40</p>
+<p>May    8    37	12	 88.54     12.98	   913.00</p>
+<p>April 24    54	10	 88.50     13.03	   750.00</p>
+<p>April 10    17	15	 88.40     13.15	 2,210.00</p>
+<p>Mar   27     5	 3	 88.40     13.15	   130.00</p>
+<p>Mar   13     6	 4	 88.40     13.15	   140.0</p>
+<p>Feb   28     3	 2	 88.40     13.15	    70.0</p>
+<p>Feb   14    12	 7	 88.40     13.15	   470.0</p>
+<p>Jan   31    22	11	 88.40     13.15	   800.0</p>
+<p>Jan   17    23	18	 88.40     13.15	 1,219.6</p>
+<p>Jan    3     8	 8	 88.44     13.11	   342.0</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

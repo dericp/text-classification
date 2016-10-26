@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="581833" id="root" date="1997-05-14" xml:lang="en">
+<title>UK: NWE naphtha firms with aggressive trader bidding.</title>
+<headline>NWE naphtha firms with aggressive trader bidding.</headline>
+<dateline>LONDON 1997-05-14</dateline>
+<text>
+<p>NWE naphtha firmed on Wednesday with one trading house a particularly aggressive bidder.</p>
+<p>The trading house was bidding at $184 for a pipeline spec cargo for May 24-June 5 delivery. An offer was seen at $185 for slightly earlier dates.</p>
+<p>&quot;The market is tight for bigger cargoes, but smaller parcels are still around for May,&quot; said one trader.</p>
+<p>A 14,000 tonne Russian cargo was sold to a Dutch trader at $178.50 a tonne cif NWE.</p>
+<p>Strong bidding on the prompt market narrowed the  contango with the May/June spread firming to around -$2.75 a tonne.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

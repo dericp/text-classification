@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214354" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: NYSE closing averages.</title>
+<headline>NYSE closing averages.</headline>
+<dateline>NEW YORK 1996-11-25</dateline>
+<text>
+<p>Prices on the New York Stock Exchange closed higher in very heavy trading.</p>
+<p>The Dow Jones Industrial Average rose 76.03 to 6547.79, a record.</p>
+<p>The NYSE Composite rose 4.20 to 398.86, a record.</p>
+<p>The average price per share rose $0.45.</p>
+<p>Gainers beat losers 1618 to 877.</p>
+<p>Volume was 475,254,390, compared with 525,208,364 Friday.</p>
+<p>		  (Prices official as of 1645 EST/2145 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

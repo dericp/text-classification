@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141651" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: CFSA--US terminal market values for grain.</title>
+<headline>CFSA--US terminal market values for grain.</headline>
+<dateline>KANSAS CITY, Mo 1996-10-23</dateline>
+<text>
+<p>The Consolidated Farm Service Agency (CFSA) established these unit values for commodities offered from government stocks through redemption of Commodity Credit Corp commodity certificates, effective through today. Price per bushel. Sorghum is priced per CWT, corn yellow grade only.</p>
+<p>     WHEAT	 HRW   HRS  SRW   SWW   DURUM</p>
+<p> Chicago	   --    --   3.90   --    --</p>
+<p> Ill. Track	--    --   3.92   --    --</p>
+<p> Toledo	    --    --   3.95  3.80   --</p>
+<p> Memphis	   --    --   4.02   --    --</p>
+<p>		    HRW   HRS   SRW   SWW   DURUM</p>
+<p> Peoria	   --    --    3.92  --    --</p>
+<p> Denver	   4.25  4.25  --    --    --</p>
+<p> Evansville     --    --    3.85  --    --</p>
+<p> Cincinnati     --    --    3.80  --    --</p>
+<p> Minneapolis    4.76  4.50  --    --   4.90</p>
+<p> Balt./Norfolk  --    --    4.05  3.90  --</p>
+<p> Kansas City    4.72  --    4.37  --    --</p>
+<p> St. Louis	3.97  --    3.97  --    --</p>
+<p> Amarillo	 4.41  --    --    --    --</p>
+<p>		    HRW   HRS   SRW   SWW   DURUM</p>
+<p> Louisiana Gulf  --    --   4.24  --    --</p>
+<p> Portland	 5.08  4.70   --   4.23  5.40</p>
+<p> Stockton	 4.78   --    --    --   --</p>
+<p> Los Angeles    5.11   --    --    --   5.40</p>
+<p> Duluth	   4.76  4.50  --    --    4.90</p>
+<p> Texas Gulf     4.83   --   4.24   --    --</p>
+<p>		 CORN BARLEY OATS  RYE  SOYBNS SORG</p>
+<p> Chicago     2.80  --    --    --    6.94  4.55</p>
+<p> Ill. Track  2.94  --    --    --    6.99  4.77</p>
+<p> Toledo	2.85  2.15  2.15  --    6.90  4.63</p>
+<p> Memphis     3.03  2.10  2.21  --    7.08  4.87</p>
+<p> Peoria	2.93  ---   --    --    ---   4.85</p>
+<p> Denver	2.90  2.48  --    --    ---   4.39</p>
+<p> Evansville  2.96  2.10  --    --    ---   4.80</p>
+<p> Cincinnati  2.90    --  2.11  --    6.94  4.71</p>
+<p> Minneapolis 2.74  2.15  2.11  --    6.78  ---</p>
+<p> Balt/Norf   3.02  2.10  --    --    6.99  4.90</p>
+<p>		 CORN  BRLY  OATS  RYE   SOYB  SORG</p>
+<p> Kansas City 2.80  2.48  2.11  --    6.74  4.43</p>
+<p> St Louis    2.97   --   2.27  --    ---   4.76</p>
+<p> Amarillo    3.08  2.31  --    --    ---   4.81</p>
+<p> Lou Gulf    3.23  --    --    --    7.31  5.24</p>
+<p> Port/Seatl  3.45  2.76  2.29  --    7.40   --</p>
+<p> Stockton    3.52  3.11  2.51  --    --    6.15</p>
+<p> Los Angeles 3.72  3.30  --    --    --    6.15</p>
+<p> Duluth	2.74  2.15  2.11  --    ---   ---</p>
+<p> Texas Gulf  3.23  2.51  2.27  --    7.31  5.24</p>
+<p>--</p>
+<p>TXG and LAG sorghum and corn differentials have been discontinued as of June 10 until further notice.</p>
+<p>(CHICAGO NEWSDESK 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

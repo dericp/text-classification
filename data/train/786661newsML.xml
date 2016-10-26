@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786661" id="root" date="1997-08-07" xml:lang="en">
+<title>CHINA: HONG KONG ECONOMIC INDICATORS  - AUGUST 1997.</title>
+<headline>HONG KONG ECONOMIC INDICATORS  - AUGUST 1997.</headline>
+<dateline>HONG KONG 1997-08-07</dateline>
+<text>
+<p>Hong Kong economic indicators:</p>
+<p> INDICATOR				  LAST UPDATED</p>
+<p> 1. GDP GROWTH			    4 AUG97</p>
+<p> 2. TOTAL GDP			     5 MAY97</p>
+<p> 3. POPULATION			    1 FEB97</p>
+<p> 4. INFLATION			    22 JUL97</p>
+<p> 5. RETAIL SALES			 25 JUL97</p>
+<p> 6. PROVISIONAL TRADE BALANCE	29 JUL97</p>
+<p> 7. UNEMPLOYMENT			 18 JUL97</p>
+<p> 8. PRIME RATE			   27 MAR97</p>
+<p> 1. REAL GDP GROWTH</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p> PCT     5.1    6.3    6.1    5.4    4.7    4.7    5.5*</p>
+<p> QUARTER  1996 Q1   1996 Q2   1996 Q3   1996 Q4   1997 Q1</p>
+<p> PCT	  4.0	 4.6	 5.2	 5.7	 6.1</p>
+<p>*government forecast</p>
+<p>2. GDP (HK$ billion at current market prices)</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p>	   669    779    897   1,011  1,085  1,197   n/a</p>
+<p>3. POPULATION (in millions as of June 30)</p>
+<p> YEAR   1991    1992   1993   1994   1995   1996   Dec 1996</p>
+<p>	  5.75    5.80   5.90   6.04   6.16   6.31   6.42</p>
+<p>4. INFLATION (1991-95 based on 1989/90, 1996 based on 1994/95)</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p> CPI-A  +12.0  +9.4   +8.5   +8.1   +8.7   +6.0   n/a</p>
+<p> CPI-B  +11.6  +9.6   +8.7   +8.6   +9.2   +6.4   n/a</p>
+<p> MONTH	    Jun 1997    May 1997   Jun 1996</p>
+<p> CPI-A	     +5.4	  +5.8	 +6.1</p>
+<p> CPI-B	     +5.6	  +5.7	 +6.4</p>
+<p>5. RETAIL SALES (monthly average of October 1994 - September</p>
+<p>1995 = 100)</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p> VALUE  +17.4  +17.8  +12.7  +11.9  +4.7   +6.3    n/a</p>
+<p> VOL    +10.4  +12.1   +6.9   +5.8  -1.4   +1.6    n/a</p>
+<p> MONTH	    May 1997   Apr 1997   May 1996</p>
+<p> VALUE		+10	  +9	   +5</p>
+<p> VOL		  +6	   +5	   unch</p>
+<p> 6. PROVISIONAL TRADE DEFICIT/SURPLUS (in HK$ billion)</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p>	  -13.1  -30.3  -26.4  -80.7  -147.0 -137.7  n/a</p>
+<p> MONTH	    Jun 1997   May 1997   Jun 1996</p>
+<p>		     -12.68     -17.52     -15.02</p>
+<p>7. UNEMPLOYMENT</p>
+<p> YEAR   1991   1992   1993   1994   1995   1996   1997</p>
+<p>	  1.8    2.0    2.0    1.9    3.2    2.8     n/a</p>
+<p> MONTH	Mar-May 1997   Dec 1996-Feb 1997   Mar-May 1996</p>
+<p>		    2.5		  2.4		  3.2</p>
+<p>8. PRIME RATE:  EFFECTIVE  PREV  EFFECTIVE  PREV  EFFECTIVE</p>
+<p>    8.75 pct     27 MAR97   8.50  5 FEB96    8.75  27 DEC95</p>
+<p>-- Hong Kong Newsroom (852) 2843 6352</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

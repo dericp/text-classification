@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560813" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: PRESALE - Ulster Cty, N.Y..</title>
+<headline>PRESALE - Ulster Cty, N.Y..</headline>
+<text>
+<p>AMT: 8,917,000	DATE: 05/08/97	NYC Time: 1100	CUSIP: 903766</p>
+<p>ISSUER: Ulster Co							 ST: NY</p>
+<p>ISSUE: Public improvement Serial 1997			     TAX STAT:Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 05/15/97							     SURE BID: N</p>
+<p>DUE: 11/15/97-15					    SR MGR:</p>
+<p>1ST CPN: 11/15/97</p>
+<p>CALL: 11/15/04 @ 102, dtp 11/15/06		    NIC</p>
+<p>DELIVERY: 5/21/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: County Treasurer's Office, Kingston</p>
+<p>L.O.: Willkie Farr &amp; Gallagher, NYC</p>
+<p>F.A.: Fiscal Advisors &amp; Marketing, Cicero</p>
+<p>LAST SALE: $6,145,00 AMBAC 11/16/95 @ 5.2538% NIC; 10yrs 10mos avg; BBI- 5.68%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		     37,000</p>
+<p>1998		    550,000</p>
+<p>1999		    550,000</p>
+<p>2000		    460,000</p>
+<p>2001		    465,000</p>
+<p>2002		    465,000</p>
+<p>2003		    465,000</p>
+<p>2004		    475,000</p>
+<p>2005		    475,000</p>
+<p>2006		    475,000</p>
+<p>2007		    500,000</p>
+<p>2008		    500,000</p>
+<p>2009		    500,000</p>
+<p>2010		    500,000</p>
+<p>2011		    500,000</p>
+<p>2012		    500,000</p>
+<p>2013		    500,000</p>
+<p>2014		    500,000</p>
+<p>2015		    500,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512208" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Commerce Group Q1 shr rises to $0.46.</title>
+<headline>Commerce Group Q1 shr rises to $0.46.</headline>
+<dateline>WEBSTER, Mass 1997-04-16</dateline>
+<text>
+<p>The Commerce Group, Inc. Unaudited</p>
+<p>	   Statement of Earnings (in thousands, except per share data)</p>
+<p>							     Three Months Ended</p>
+<p>								     March 31,</p>
+<p>								 1997     1996</p>
+<p>    Direct Premiums Written			$244,128    $241,520</p>
+<p>    Net Premiums Written			   $249,939    $236,008</p>
+<p>Revenues:</p>
+<p>    Earned Premiums				  $178,003    $151,736</p>
+<p>    Net Investment Income			   $19,694     $18,958</p>
+<p>    Premium Finance Fees			     $1,668	$4,019</p>
+<p>    Realized Investment Losses			$(296)	$(911)</p>
+<p>    TOTAL REVENUES				   $199,069    $173,802</p>
+<p>Expenses:</p>
+<p>    Losses and LAE				   $135,311    $123,122</p>
+<p>    Policy Acquisition Costs			$43,350     $33,316</p>
+<p>    TOTAL EXPENSES				   $178,661    $156,438</p>
+<p>    Earnings Before Taxes			   $20,408     $17,364</p>
+<p>    INCOME TAXES					 $3,770	$2,771</p>
+<p>    NET EARNINGS					$16,638     $14,593</p>
+<p>    Operating Earnings Per Share		    $0.47	 $0.42</p>
+<p>    Net Realized Investment Losses		 $(0.01)     $(0.02)</p>
+<p>    Net Earnings Per Share			    $0.46	 $0.40</p>
+<p>    Cash Dividends Paid Per Share		   $0.25	 $0.06</p>
+<p>    Weighted Avg. Shares Outstanding	 36,050,874  36,556,902</p>
+<p>Statutory Operating Ratios</p>
+<p>     Loss Ratio					    75.7%	 81.5%</p>
+<p>     Underwriting Ratio				  24.1%	 22.6%</p>
+<p>	  Combined Ratio				   99.8%	104.1%</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WEBSTER, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

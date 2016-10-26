@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="690742" id="root" date="1997-06-26" xml:lang="en">
+<title>GERMANY: Bundesbank leaves interest rates unchanged.</title>
+<headline>Bundesbank leaves interest rates unchanged.</headline>
+<dateline>FRANKFURT, Germany</dateline>
+<text>
+<p>The German central bank left its key rates unchanged Thursday at its regular weekly meeting.</p>
+<p>The Bundesbank left the discount rate at 2.50 percent and the Lombard emergency financing rate at 4.50 percent. The central bank's main money market rate, the repo, was also held at 3 percent.</p>
+<p>All 10 economists polled in a Reuter survey said the central bank had no need to change interest rates since there was no new convincing evidence that warranted a move in one direction or the other.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

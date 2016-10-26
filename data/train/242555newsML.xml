@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="242555" id="root" date="1996-12-09" xml:lang="en">
+<title>CANADA: Suncor lowers Canada posted oil prices.</title>
+<headline>Suncor lowers Canada posted oil prices.</headline>
+<dateline>CALGARY 1996-12-09</dateline>
+<text>
+<p>Suncor Inc said it lowered the price it would pay for Edmonton light sweet crude oil by C$4.00/cubic metre or C$0.64/barrel, to C$212.00/cubic metre or C$33.71/barrel, effective immediately.</p>
+<p>Other new prices were listed as follows:</p>
+<p>Cromer light sour C$205.00/cubic metre, or C$32.59/barrel</p>
+<p>Midale at Cromer C$179.00/cubic metre, or C$28.46/barrel</p>
+<p>-- Reuters Calgary Bureau 403 531-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALGARY"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

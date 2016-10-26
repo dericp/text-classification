@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313076" id="root" date="1997-01-16" xml:lang="en">
+<title>USA: RESEARCH ALERT - Potash Corp cut on price.</title>
+<headline>RESEARCH ALERT - Potash Corp cut on price.</headline>
+<text>
+<p>-- J.P. Morgan Securities said it downgraded Potash Corp of Saskatchewan Inc to market perform from buy on the basis of its price.</p>
+<p>-- Cited 44 percent rise from 52-week low and 11 percent rise since announcing terms for  Kali und Salz AG purchase.</p>
+<p>-- Also cited risk associated with European regulatory issues related to purchase.</p>
+<p>-- NYSE-listed shares fell 1-1/4 to 85-3/8.</p>
+<p>((-- Wall Street desk, 212-859-1730))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

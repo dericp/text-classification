@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="139305" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: U.S. Mint buys zinc for avg $1.1312/kg.</title>
+<headline>U.S. Mint buys zinc for avg $1.1312/kg.</headline>
+<dateline>WASHINGTON 1996-10-24</dateline>
+<text>
+<p>The U.S. Mint said Thursday it bought 3,211,000 kg of special high grade zinc for an average $1.1312 per kg.</p>
+<p>The Ore and Chemical Co sold 2,270,000 kg for $1.1298 per kg and Hochschild Partners sold 941,000 kg for $1.1325 per kg.</p>
+<p>-- Washington Commodities Desk (202) 898-8489</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

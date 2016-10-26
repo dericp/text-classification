@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="495910" id="root" date="1997-04-09" xml:lang="en">
+<title>USA: Morrison Knudsen wins Indonesian contracts.</title>
+<headline>Morrison Knudsen wins Indonesian contracts.</headline>
+<dateline>BOISE, Idaho 1997-04-09</dateline>
+<text>
+<p>Morrison Knudsen Corp said it was awarded two services contracts recently secured in Indonesia for undisclosed terms.</p>
+<p>The first is to perform a feasibility study for Jakarta-based P.T. Kitadin for the mine development of the Tandung Mayang Project. This mine will be located in East Kalimantan and is projected to be in operation in 1998 at a production level of up to one million tonnes per year.</p>
+<p>The second award was from the P.T. Bukit Asam/P.T. MAPCO Indonesia joint venture to provide a pre-feasibility mine and development plan for a project in Sumatra, Indonesia.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOISE, Idaho"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

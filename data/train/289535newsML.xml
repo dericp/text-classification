@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="289535" id="root" date="1997-01-06" xml:lang="en">
+<title>FRANCE: Champagne producers expect record volumes for 1996.</title>
+<headline>Champagne producers expect record volumes for 1996.</headline>
+<dateline>PARIS 1997-01-06</dateline>
+<text>
+<p>Champagne sales for 1996 are expected to top 250 million bottles, breaking a seven-year-old record, in terms of volume, the French champagne producers' association CIVC said on Monday.</p>
+<p>&quot;Without knowing the final year-end figures...we can reasonably expect that the 250 million bottle barrier was breached,&quot; a CIVC spokesman told Reuters.</p>
+<p>Last year's sales compare with 246 million bottles in 1995 and the previous record of 249 million in 1989.</p>
+<p>But the value of last year's champagne sales is not expected to be much above the 15 billion francs ($2.8 billion) generated in 1995 because of a drop in average prices due to an upsurge in low-cost brands.</p>
+<p>The CIVC spokesman said prices in 1997 were expected to rise between two and four percent as producers pass on higher grape prices and sales tax.</p>
+<p>Last year's increase in sales volumes over 1995 levels is due in part to the disruption caused in late 1995 in France by public transport strikes and to higher champagne exports. They were up five percent in the first 10 months of the year.</p>
+<p>Two-thirds of champagne produced is consumed in France, but Britain, the United States, Japan and Germany are big importers.</p>
+<p>-- Noelle Mennella, Paris Newsroom, +33 1 4221 5452 ($ = 5.290 French Francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

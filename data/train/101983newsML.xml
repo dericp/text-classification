@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101983" id="root" date="1996-10-08" xml:lang="en">
+<title>UK: LPC - Hungarian bank seeks loan bids.</title>
+<headline>LPC - Hungarian bank seeks loan bids.</headline>
+<text>
+<p>LONDON, October 8 (LPC) - The Hungarian Bank for Investment and Development has invited banks to bid to arrange a $60 million syndicated loan for general corporate financing, according to Janos Albert, director of the Budapest-based bank.</p>
+<p>Bids are expected to be in hand at the borrower within several days, according to Albert.</p>
+<p>The bank plans to use the credit to fund further lending.</p>
+<p>In August, the Hungarian Bank for Investment and Development signed a $75 million term loan at 80 bps with a 3.5-year maturity. That loan was arranged by ABN AMRO Bank, Bayerische Vereinsbank and Central-European Investment Bank and was increased from $50 million after an oversubscription.</p>
+<p>Sophy Tonder 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

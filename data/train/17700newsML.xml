@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="17700" id="root" date="1996-08-27" xml:lang="en">
+<title>AUSTRALIA: RTRS-Rugby union-Hawkins quits as New South Wales coach.</title>
+<headline>RTRS-Rugby union-Hawkins quits as New South Wales coach.</headline>
+<dateline>SYDNEY 1996-08-27</dateline>
+<text>
+<p>New South Wales rugby union coach Chris Hawkins has resigned at the end of his first season because of business commitments, officials said on Tuesday.</p>
+<p>Hawkins, whose side failed to reach the semifinals in the inaugural Super 12 competition, left on amicable terms, New South Wales Rugby Union chairman Ian Ferrier said.</p>
+<p>&quot;Chris' business commitments make it difficult for him to embrace the coaching job on a full-time basis which is an essential element of the position given the year-round nature of preparing a team for professional provincial rugby,&quot; Ferrier said in a statement.</p>
+<p>Ferrier said the union would begin the search for Hawkins' replacement in the near future.</p>
+<p>New South Wales were rated among the favourites for the southern hemisphere Super 12 competition involving provincial sides from Australia, New Zealand and South Africa.</p>
+<p>Auckland defeated Natal in the Super 12 final in May.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

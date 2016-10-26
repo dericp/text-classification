@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="329323" id="root" date="1997-01-23" xml:lang="en">
+<title>THAILAND: Thai stock exchange to widen daily trading limits.</title>
+<headline>Thai stock exchange to widen daily trading limits.</headline>
+<dateline>BANGKOK 1997-01-23</dateline>
+<text>
+<p>The board of the Thai stock exchange has decided to widen the daily price limits for shares traded on the market to a ceiling of 33 percent and a floor of 27 percent, a board member said on Thursday.</p>
+<p>Currently, the limits are 10 percent in both directions.</p>
+<p>Viroj Nualkhae told reporters that the new regulations would take effect only after a public hearing was held on the decision and a date had to be fixed for that.</p>
+<p>Separately, a senior Securities and Exchange Commission (SEC) official cautioned brokerage houses that they should not encourage clients to use net settlement excessively. Net settlement was introduced at the bourse today for trading short-term.</p>
+<p>&quot;We want to ask brokers not to encourage clients to use the new rule too much in trading short-term as it could lead to speculative trading,&quot; said SEC deputy director-general Prasarn Trairatvorakul.</p>
+<p>Under the new net settlement rule, investors who sell or buy the same stock on the same day can settle the transaction by paying only for capital gains or losses incurred, without having to pay first and settle buying and selling deals separately.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

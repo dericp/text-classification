@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132707" id="root" date="1996-10-22" xml:lang="en">
+<title>USA: Pimco Advisors LP Q3 net rises.</title>
+<headline>Pimco Advisors LP Q3 net rises.</headline>
+<text>
+<p>NEWPORT BEACH, Calif., Oct 22 (Reuter)</p>
+<p>			1996		     1995</p>
+<p> Class A units   $0.47		    $0.47</p>
+<p> Class B units   $0.45		    $0.26</p>
+<p> Net		 23,730		   17,141</p>
+<p> Revs		97,099		   83,203</p>
+<p>	  Nine mos</p>
+<p> Class A units   $1.41		    $1.41</p>
+<p> Class B units   $1.21		    $0.60</p>
+<p> Net		 66,901		   44,390</p>
+<p> Revs		287,161		  229,786</p>
+<p>(All data above 000s except per share numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

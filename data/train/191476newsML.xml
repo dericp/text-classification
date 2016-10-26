@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191476" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: CD-MAX Inc Q1 Sept 30 full results.</title>
+<headline>CD-MAX Inc Q1 Sept 30 full results.</headline>
+<dateline>RESTON, Va. 1996-11-15</dateline>
+<text>
+<p>Three Months Ended</p>
+<p>							Sep 30	 Sep 30</p>
+<p>							  1996	  1995</p>
+<p> Revenues					  $12,504	 $5,000</p>
+<p> Net loss					(586,060)    (318,845)</p>
+<p> Net loss per share			     (0.18)	 (0.18)</p>
+<p>Weighted-average number</p>
+<p>  of common shares outstanding	   3,307,785    1,783,368</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RESTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

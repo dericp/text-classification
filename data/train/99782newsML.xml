@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99782" id="root" date="1996-10-07" xml:lang="en">
+<title>SINGAPORE: Singapore August petroleum output flat from July.</title>
+<headline>Singapore August petroleum output flat from July.</headline>
+<text>
+<p>SINGAPORE, Oct 7 (Reuter) Singapore's petroleum product output in August was hardly changed from July, Economic Development Board data showed on Monday.</p>
+<p>The July 1996 industrial production index for petroleum products was down 12.2 percent at 107.1 from June's 122.0 and was the lowest level since September 1995 when the index registered 106.6.</p>
+<p>The EDB said the production index was 107.2 in August and was down 9.2 percent compared to August 1995 when the index was 118.1.  </p>
+<p>&quot;This was due to lower output by a major refinery which experienced technical start-up problems after its shutdown for maintenance in July,&quot; the EDB said.</p>
+<p>Shell Singapore had brought down a 200,000-barrel-per-day crude distillation unit for maintenance on July 8.</p>
+<p>Due to both technical and economical reasons the unit was only operational at full capacity in early September.</p>
+<p>The EDB said, &quot;despite the decrease, cumulative output for the first eight months increased by 5.6 percent&quot; compared with the same year-earlier period.  </p>
+<p>--Singapore Newsroom (+65-870-3093)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

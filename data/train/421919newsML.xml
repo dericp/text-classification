@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="421919" id="root" date="1997-03-05" xml:lang="en">
+<title>FRANCE: Valeo unit to set up compressor plant.</title>
+<headline>Valeo unit to set up compressor plant.</headline>
+<dateline>PARIS 1997-03-05</dateline>
+<text>
+<p>French car parts maker Valeo said on Wednesday its Valeo Seiko Compressors SA unit will set up a design office and factory to make compressors for car air-conditioning systems.</p>
+<p>Production at the plant at Amiens, northern France, will start in January 1998, Valeo said in a statement. Initial investment is estimated at around 60 million francs with a second phase to start in 1998. The factory will employ 60.</p>
+<p>Valeo Seiko is controlled by Valeo and Seiko Seiki Co Ltd of Japan.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

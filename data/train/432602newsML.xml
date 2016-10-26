@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432602" id="root" date="1997-03-11" xml:lang="en">
+<title>UK: Chinese North Korean envoy returns to Beijing - BBC.</title>
+<headline>Chinese North Korean envoy returns to Beijing - BBC.</headline>
+<dateline>LONDON 1997-03-11</dateline>
+<text>
+<p>The Chinese ambassador in North Korea was summoned back to Beijing on Tuesday, according to a North Korean radio report monitored by the BBC.</p>
+<p>&quot;On March 11, Qiao Zonghuai, Chinese ambassador to our country, returned home by plane upon the calling from his country,&quot; the BBC quoted North Korean radio as saying.</p>
+<p>South Korea and China are negotiating the fate of Hwang Chong-yop, a Pyongyang defector who sought refuge four weeks ago in Beijing's Seoul consulate.</p>
+<p>Hwang, a senior North Korean ideological theoretician and top aide to supreme leader Kim Jong-il, is the highest North Korean official to flee the Stalinist state.</p>
+<p>Talks have failed to end a diplomatic standoff despite a personal bid by North Korean foreign minister Kim Yong-nam to break the deadlock.</p>
+<p>On Monday, a Seoul foreign ministry official said he believed Beijing had ruled out sending Hwang back to North Korea.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

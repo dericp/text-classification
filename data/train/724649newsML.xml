@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="724649" id="root" date="1997-07-13" xml:lang="en">
+<title>AUSTRALIA: WEEK AHEAD-Markets seen on hold as rate cut talk continues.</title>
+<headline>WEEK AHEAD-Markets seen on hold as rate cut talk continues.</headline>
+<dateline>SYDNEY 1996-07-14</dateline>
+<text>
+<p>Australian financial markets are likely to be fairly subdued this week with only a few minor economic releases and ahead of key inflation and wages data the following week.</p>
+<p>As this data is widely expected to be supportive of a rate cut, the market should remain bullish through the week, with minor price indicators on Monday and Tuesday expected to paint a picture of subdued inflation pressures.</p>
+<p>The data the following week is expected to give the Reserve Bank of Australia (RBA) a good news platform on which to announce a rate cut.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

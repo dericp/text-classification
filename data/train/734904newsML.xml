@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734904" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: TABLE - BankAtlantic Bancorp Q2 shr rises.</title>
+<headline>TABLE - BankAtlantic Bancorp Q2 shr rises.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1997-07-17</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr primary		$0.35		    $0.29</p>
+<p> Shr diluted		 0.30		     0.29</p>
+<p> Net			  6,821		    5,549</p>
+<p> Net interest inc	20,968		   16,207</p>
+<p> Avg shrs		  25,107		   18,538</p>
+<p>	  6  MONTHS</p>
+<p> Shr primary		$0.68		    $0.55</p>
+<p> Shr diluted		 0.58		     0.55</p>
+<p> Net			 13,162		   10,259</p>
+<p> Net interest inc	42,722		   31,739</p>
+<p> Avg shrs		  25,107		   18,538</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE - Net interest income is after provision for loan losses.</p>
+<p>Total assets at June 30, 1997, $2.73 billion versus $1.98 billion at June 30, 1996.</p>
+<p>((-- New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

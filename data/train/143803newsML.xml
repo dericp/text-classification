@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143803" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: Central Calif. coho salmon listed as threatened.</title>
+<headline>Central Calif. coho salmon listed as threatened.</headline>
+<dateline>SAN FRANCISCO 1996-10-25</dateline>
+<text>
+<p>The National Marine Fisheries Service said Friday it has decided to list the dwindling central California coho salmon as a threatened species under the Endangered Species Act.</p>
+<p>The service said it was deferring by six months a decision on whether to list two other species of coho salmon found in northern California and Oregon because of substantial scientific disagreement about them.  </p>
+<p>The decision, eagerly awaited by environmentalists and officials in California and Oregon, was seen as highly sensitive in an election year.</p>
+<p>Once a species is listed under the Endangered Species Act, industrial activity, development and water usage that could harm its habitat are closely scrutinized by the authorities.</p>
+<p>California Gov. Pete Wilson wrote to President Clinton Thursday urging him to delay the listing of the coho salmon, saying it could lead to &quot;a virtual shutdown of logging, mining, ranching and other agricultural activity over large parts of California.&quot;</p>
+<p>Fisheries Service spokesman Brian Gorman said it was clear that the central California coho salmon were in &quot;dire straits&quot;. Their numbers had fallen from 100,000 in the 1940s to about 6,000 adults that were now returning each year to spawning streams. &quot;That's enough to make anybody sit up and take notice,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

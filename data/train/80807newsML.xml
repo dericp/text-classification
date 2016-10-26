@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="80807" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: U.S. Enrichment Corp reports lower 4th qtr profit.</title>
+<headline>U.S. Enrichment Corp reports lower 4th qtr profit.</headline>
+<dateline>WASHINGTON 1996-09-27</dateline>
+<text>
+<p>The United States Enrichment Corp reported net income of $82.4 million for the fourth fiscal quarter, which ended June 30, down from $135.6 million in the period last year.</p>
+<p>The government-owned corporation, which provides uranium enrichment services for commercial nuclear power plants, reported revenue of $421.0 million, down from $446.0 million for the fourth quarter.</p>
+<p>For the fiscal year ended June 30, 1996, USEC reported net income of $304.1 million on revenue of $1.413 billion, down from net income of $447.5 million on revenue of $1.611 billion the previous year.</p>
+<p>The company, which is in the process of being privatized, attributed the lower revenue to &quot;changes in the timing of customer fuel requirements.&quot; Its customers' reactor refueling schedules range from 12 to 24 months.</p>
+<p>The drop in profit was due to the lower revenue, higher spending on a separation process and lower production levels at gaseous diffusion plants, partly as a result of new regulatory requirements and purchases of low-enriched uranium from Russia, USEC said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I15000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

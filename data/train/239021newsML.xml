@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239021" id="root" date="1996-12-05" xml:lang="en">
+<title>UK: LONDON CURRENCY AND GOLD BULLION RATES.</title>
+<headline>LONDON CURRENCY AND GOLD BULLION RATES.</headline>
+<text>
+<p>LONDON, Reuter - Following are the buying and selling rates for leading world currencies and gold against the dollar on the London foreign exchange and bullion markets today. (Tourist rates will differ from those quoted) US$1.00 COSTS    1.3555/65  Canadian Dollars</p>
+<p>		     1.5583/88  German Marks</p>
+<p>		     1.7479/84  Dutch Guilders</p>
+<p>		     1.3176/79  Swiss Francs</p>
+<p>		     32.12/13   Belgian Francs</p>
+<p>		     5.2600/20  French Francs</p>
+<p>		     1531.9/2.9 Italian Lire</p>
+<p>		     112.73/78  Japanese Yen</p>
+<p>		     6.7850/00  Swedish Crowns</p>
+<p>		     6.5048/84  Norwegian Crowns</p>
+<p>		     5.9663/73  Danish Crowns</p>
+<p>		     1.4020/30  Singapore Dollars</p>
+<p>		     0.7972/77  Australian Dollars</p>
+<p>		     7.7320/30  Hong Kong Dollars</p>
+<p>One Sterling     US$1.6445/50</p>
+<p>Gold (ounce)     US$369.00/369.50</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

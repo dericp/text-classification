@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="307871" id="root" date="1997-01-15" xml:lang="en">
+<title>USA: First Michigan terminates merger talks.</title>
+<headline>First Michigan terminates merger talks.</headline>
+<dateline>HOLLAND, Mich. 1997-01-15</dateline>
+<text>
+<p>First Michigan Bank Corp said Wednesday the company had been in discussions over a possible merger, but those talks were ended.</p>
+<p>&quot;In response to unusual activity in the company's stock, First Michigan Bank Corp (FMBC) announced today that it had been engaged in possible merger discussions, but those discussions have been terminated,&quot; the company said in a statement.  </p>
+<p>No further information was given, and the company could not be immediately reached.</p>
+<p>Shares of First Michigan were up 15/16 at 31, after earlier reaching a new 52-week high of 31-1/4.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOLLAND, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

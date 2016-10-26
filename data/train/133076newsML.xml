@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="133076" id="root" date="1996-10-22" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa Capital Partners buys computer firm stake.</title>
+<headline>S.Africa Capital Partners buys computer firm stake.</headline>
+<dateline>JOHANNESBURG 1996-10-22</dateline>
+<text>
+<p>Private equity managers Capital Partners announced on Tuesday that its South African Private Equity and Capital Growth funds had acquired a minority interest in Computer Configurations Group.</p>
+<p>It said in a statement that the transaction placed a value of more than 60 million rand on computer hardware distributor Computer Configurations which would be listed on the Johannesburg Stock Exchange in the first half of next year.</p>
+<p>Computer Configurations is the sole distributor of U.S.-based Corollary multi-processing systems and is the third largest supplier in the multi-processing market after IBM (International Business Machines) Corp Hewlett Packard.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

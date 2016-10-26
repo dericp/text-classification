@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512568" id="root" date="1997-04-16" xml:lang="en">
+<title>POLAND: POLISH BANK SECTOR CLIMATE INDEX FLAT IN APRIL.</title>
+<headline>POLISH BANK SECTOR CLIMATE INDEX FLAT IN APRIL.</headline>
+<dateline>WARSAW 1997-04-16</dateline>
+<text>
+<p>Poland's banking climate index held nearly unchanged in April, easing 0.5 point to 49.3, a poll released on Wednesday by the private Pentor institute showed.</p>
+<p>The monthly survey showed the index called &quot;Pengab&quot; dipped slightly due to lower bank evaluations of foreign currency credit and deposits.</p>
+<p>The index, based on a scale of minus 100 to plus 100, polled 204 bank managers and is commissioned monthly by the Polish Banking Association (ZBP).</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

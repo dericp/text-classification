@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="615621" id="root" date="1997-05-26" xml:lang="en">
+<title>DENMARK: Danish shares seen rising despite French elections.</title>
+<headline>Danish shares seen rising despite French elections.</headline>
+<dateline>COPENHAGEN 1997-05-26</dateline>
+<text>
+<p>Danish share prices opened unchanged on Monday, with dealers seeing rises ahead after Friday's Dow rise due to expected solid buying interest despite the left-wing lead in the first round of the French elections.</p>
+<p>&quot;The French left-wing gains are negative for the markets but we could climb by up to a half percent here today on buyer interest provided the closed markets in London and New York do not put a damper on things,&quot; one dealer said.</p>
+<p>The KFX top-20 index stood at an unchanged 166.36 point at 0705 gmt, having closed 0.44 point higher on Friday.</p>
+<p>--Chris Follett, Copenhagen newsroom +45-33-969652</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

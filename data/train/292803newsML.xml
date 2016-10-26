@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="292803" id="root" date="1997-01-08" xml:lang="en">
+<title>USA: Progenitor gene delivery system gets patent.</title>
+<headline>Progenitor gene delivery system gets patent.</headline>
+<dateline>COLUMBUS, Ohio 1997-01-08</dateline>
+<text>
+<p>Progenitor Inc said the U.S. Patent and Trademark Office has issued a patent covering the company's gene delivery system.</p>
+<p>Progenitor, a majority-owned subsidiary of Interneuron Pharmaceuticals Inc, said the patent covers the T7T7 nonviral gene delivery system and methods for using the T7T7 system to introduce genes of interest into host cells.</p>
+<p>&quot;The T7T7 system is an important proprietary tool in our functional genomics programs, through which we seek to identify medically relevant genes and proteins involved in the development of the blood, immune and vascular systems,&quot; the company said.</p>
+<p>Ohio University, which owns the T7T7 patent, has granted Progenitor an exclusive license to the technology.</p>
+<p>Progenitor said it has licensed certain clinical applications of the T7T7 technology to Chiron Corp for applications in selected cancer fields.</p>
+<p>((-- New York Newsdesk 212-859-1610.))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

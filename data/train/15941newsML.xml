@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15941" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: SoCal Edison sees need for transmission operator.</title>
+<headline>SoCal Edison sees need for transmission operator.</headline>
+<byline>Deena Beasley</byline>
+<dateline>LOS ANGELES 1996-08-27</dateline>
+<text>
+<p>Establishing an independent transmission systems operator is crucial to the successful deregulation of the electricity industry, according to Edison International's Southern California Edison Co.</p>
+<p>Speaking to reporters at a briefing today on the power outage that hit the West on August 10, company officials said separation of transmission and generation would help grid reliability and provide better information to the industry.  </p>
+<p>John Ballance, manager of system operation at Edison, noted the independent operator model is included in the California Public Utilities Commission's deregulation plan, which is due for implementation in January 1998.</p>
+<p>&quot;An ISO (independent system operator) would have the authority to order generation on or off, but would not have any economic stake,&quot; he explained.</p>
+<p>Ballance also said the California transmission entity, which would include Pacific Gas and Electric Co and Enova Corp's San Diego Gas and Electric Co as well as Edison, could be expanded to include the entire Western grid.  </p>
+<p>Currently, the 76 utility members of the Western Systems Coordinating Council voluntarily seek to insure reliability of the regional grid.</p>
+<p>&quot;(But) it is apparent that voluntary rules will not be enough,&quot; Ballance said. &quot;If it gets too expensive to do the right thing, somebody will stop doing it and then we'll be exposed,&quot; he said.</p>
+<p>He emphasized that most &quot;utilities don't think deregulation had anything to do with the outage&quot; but noted that all regulatory efforts aimed at deregulation include increased transmission access.  </p>
+<p>Gary Tarplee, manager of Edison's energy control center, said the company is in the final stages of meeting the Federal Energy Regulatory Commission's requirement that transmission scheduling be physically separated from the utility's marketing operations.</p>
+<p>He noted that the Bonneville Power Administration, a federal agency that controls most of the West's interstate transmission and markets power produced from federal hydroelectric dams, could have more incentive to market power into Idaho and California than to monitor transmission if the market were completely deregulated. But he and Ballance emphasized that Bonneville's actions during the August outage were not related to market considerations.</p>
+<p>The outage began when several high-voltage lines in Oregon and Washington failed within a short period of time, causing extreme voltage swings as other parts of the grid became overloaded.</p>
+<p>&quot;It was the BPA operators' judgment that the line outages were not critical,&quot; said Ballance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

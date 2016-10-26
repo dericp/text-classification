@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641252" id="root" date="1997-06-05" xml:lang="en">
+<title>ITALY: FORECAST - Italy seen issuing 10.75 trln lire BOTs.</title>
+<headline>FORECAST - Italy seen issuing 10.75 trln lire BOTs.</headline>
+<dateline>MILAN 1997-06-05</dateline>
+<text>
+<p>The Italian Treasury is expected to issue between 10 and 11.5 trillion lire of short-term bills (BOTs) at auction on June 10, analysts polled by Reuters said on Thursday.</p>
+<p>The average of analysts' forecasts was for 10.75 trillion lire to be issued against 11.75 trillion lire of BOTs maturing.</p>
+<p>The Treasury is also expected to offer two trillion lire of 18-month zero coupon certificates (CTZs) together with 2.5 trillion lire of 24-month CTZs, whereas no zero coupon certificates fall due in June.</p>
+<p>The Treasury will detail the amount it will offer on Friday, while settlement date for the papers is on June 15.</p>
+<p>Following are the analysts' forecasts (in trillion lire):</p>
+<p>		  3-mo    6-mo    12-mo    Total     18-mo    24-mo</p>
+<p>		  BOT     BOT	BOT	BOT	 CTZ	CTZ</p>
+<p>---------------------------------------------------------------</p>
+<p>BankAmerica   3.5     4.0	 4.0     11.5	2.0	2.5</p>
+<p>Caboto	  3.0     3.5	 3.5     10.0	2.0	2.0</p>
+<p>BCI	     3.5     3.75	4.0     11.25     2.0	2.5</p>
+<p>Chase	   3.0     4.0	 4.5     11.5	2.0	2.5</p>
+<p>Credito	 3.0     3.5	 3.5     10.0	2.0	2.5</p>
+<p>Indosuez	2.5     4.0	 4.5     11.0	2.0	2.5</p>
+<p>Prometeia     3.0     4.0	 4.5     11.5	    *8.0</p>
+<p>================================================================</p>
+<p>CONSENSUS     3.0     3.75	4.0     10.75     2.0	2.5</p>
+<p>Maturing	3.0     4.25	4.5     11.75	-	  -</p>
+<p>* Prometeia's CTZ forecast is for the entire month of June.</p>
+<p>-- Milan newsroom +392 66101399</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

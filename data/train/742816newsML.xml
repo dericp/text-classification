@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742816" id="root" date="1997-07-21" xml:lang="en">
+<title>USA: Communications with Mars Pathfinder restored.</title>
+<headline>Communications with Mars Pathfinder restored.</headline>
+<byline>Michael Miller</byline>
+<dateline>PASADENA, Calif. 1997-07-21</dateline>
+<text>
+<p>Relieved scientists re-established communications with the Mars Pathfinder spacecraft on Monday after a weekend during which the landing craft and it little rover refused to phone home.</p>
+<p>&quot;What a difference a day makes,&quot; said a smiling Brian Muirhead, the Pathfinder project manager. &quot;The team is extremely pleased with our current status.&quot;</p>
+<p>Jet Propulsion Laboratory spokesman Alan Wood said scientists re-established contact with the landing craft at 2:45 a.m. PDT (0945 GMT) on Monday after losing the signal on Saturday night. All communications between the Earth and the rover, Sojourner, must go through the lander.</p>
+<p>The spacecraft, on command from Earth, started sending a stream of engineering data telling scientists the lander and rover were in fine shape, Wood said.</p>
+<p>The communications session, using both the lander's antennas, lasted about 6 1/2 hours, Wood said.</p>
+<p>Muirhead said the weekend's communications blackout was associated mostly with ground operations and not with the computers on board the rover and the lander, as had been the case the previous weekend, when the spacecraft failed to hook up with Earth.</p>
+<p>&quot;We'll be working to eliminate the cause of these (ground) problems in the coming days as we return to a more normal mode of operations,&quot; Muirhead said.</p>
+<p>Computer scientist Glen Reeves explained that last weekend's blackout had been caused by the computer on board the Pathfinder landing craft resetting itself when it sensed an overload, automatically cutting communications with Earth.</p>
+<p>This was the result of a built-in safety measure in the software programme. &quot;An analogy would be when your PC (personal computer) locks up and you reach around the back and hit the reset button,&quot; Reeves said.</p>
+<p>It was not immediately known what effect the latest problems would have on the mission, though project scientist Matthew Golombek said last weekend's blackout &quot;impacted us severely,&quot; putting Sojourner several days behind in its rock sampling tasks.</p>
+<p>But Golombek stressed last week that the six-wheeled rover, which is about the size of a microwave oven, could operate on the Martian surface &quot;indefinitely&quot; and its mission had already been extended to a long-term project, meaning it would return more data to Earth than had originally been planned. Pathfinder landed on Mars on July 4.</p>
+<p>The rover, using its alpha protein X-ray spectrometer, has already analysed two Martian rocks, dubbed Yogi and Barnacle Bill, and found them to be different in composition although still somewhat resembling rocks on Earth.</p>
+<p>Scientists speculated that both or one of the rocks might have been swept into the landing site area in the Ares Vallis basin by a devastating flood they believe occurred about 4.5 billion years ago.</p>
+<p>The Sojourner on Monday was resting by a big white rock -- the only one of its kind near the landing site -- dubbed Scooby Doo. It has taken measurements of the rock, which were scheduled to be transmitted to Earth on Monday night.</p>
+<p>Scientists also wanted the rover to analyse the rock with its alpha proton X-ray spectrometer. Other targets for the rover included rocks named Half Dome, Witch, Shark and Flat Top.</p>
+<p>The JPL team was also working on what it promises will be the most exciting panorama of Mars yet produced by the mission -- a composite of thousands of postage stamp-sized frames put together to produce a 12-colour &quot;Gallery Pan&quot; of the Martian surface, covering 360 degrees and showing expansive views from the lander to the horizon.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PASADENA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

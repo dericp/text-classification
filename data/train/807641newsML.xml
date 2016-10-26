@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="807641" id="root" date="1997-08-19" xml:lang="en">
+<title>USA: TABLE - New York Health Care Q2 net falls.</title>
+<headline>TABLE - New York Health Care Q2 net falls.</headline>
+<dateline>NEW YORK 1997-08-19</dateline>
+<text>
+<p>NEW YORK HEALTH CARE, INC. STATEMENTS OF INCOME</p>
+<p>			     (Unaudited)</p>
+<p>			 For The Three Months   For The Six Months</p>
+<p>			    Ended June 30,	  Ended June 30,</p>
+<p>			     1997	 1996	 1997	 1996</p>
+<p>Net patient</p>
+<p>service revenue $3,224,041 $3,160,228 $6,310,075 $6,147,293</p>
+<p>Expenses:</p>
+<p>Professional care</p>
+<p>   of patients     2,263,031  2,122,259  4,404,139  4,184,142</p>
+<p>General and</p>
+<p>   administrative    833,096    656,939  1,644,706  1,310,368</p>
+<p>  Bad debts expense    5,000     25,105     20,000     55,464</p>
+<p>  Depreciation	  12,081	6,886     23,452     13,772</p>
+<p>Total operating</p>
+<p>  expenses	   3,113,206  2,811,189  6,092,297  5,564,346</p>
+<p>Income from operations</p>
+<p>			   110,833    349,049    217,778    582,947</p>
+<p>Non-operating income (expenses):</p>
+<p>  Interest income	4,039	2,901     12,218	5,974</p>
+<p>  Other income	     876	2,734	3,563	7,500</p>
+<p>  Interest expense	 ---   (32,809)   (12,995)   (64,206)</p>
+<p>Non-operating income</p>
+<p>  (expenses), net	4,915   (27,174)	2,786   (50,732)</p>
+<p>Income before provision</p>
+<p>  for income taxes   115,748    321,865    220,561    532,215</p>
+<p>Provision (credit) for</p>
+<p>income taxes:</p>
+<p>    Current	     59,000     44,000    108,000     56,000</p>
+<p>    Deferred	   (2,000)     16,000    (9,000)   (34,000)</p>
+<p>			    57,000     60,000     99,000     22,000</p>
+<p> Net income	     58,748    261,865    121,564    510,215</p>
+<p>Pro forma (unaudited):</p>
+<p>Historical income</p>
+<p>before provision</p>
+<p>   for income taxes		 321,865		   532,215</p>
+<p>Pro forma provision</p>
+<p>   for income taxes		 139,000		   230,000</p>
+<p>Pro forma net income</p>
+<p>					  182,865		   302,215</p>
+<p>Pro forma net income</p>
+<p>per common share and</p>
+<p>common share equivalents</p>
+<p>(pro forma for</p>
+<p>   June 30, 1996)	  .02	  .06	  .03	  .09</p>
+<p>Weighted average number</p>
+<p>of common shares and</p>
+<p>common share</p>
+<p>  equivalents	3,773,437  3,219,271  3,773,437  3,219,271</p>
+<p>((-- New York Newsdesk 212 859-1610 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

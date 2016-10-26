@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="12793" id="root" date="1996-08-24" xml:lang="en">
+<title>USA: Swift Transportation to buy Navajo Shippers assets.</title>
+<headline>Swift Transportation to buy Navajo Shippers assets.</headline>
+<dateline>PHOENIX, United States 1996-08-23</dateline>
+<text>
+<p>Swift Transportation Co Inc said on Friday it entered a letter of intent to buy operating assets utilised in the dry freight van division of Navajo Shippers and its wholly owned units Navajo and Digby-Ringsby of Denver.</p>
+<p>The combined dry freight revenues for Navajo Shippers have been in excess of $40 million. The assets to be purchased consist of a terminal in Pueblo, Colorado, QualComm mobile communication terminals, and 428 van trailers.</p>
+<p>Swift will also assume leases on 258 company tractors and 30 owner-operators in the acquisition. Total consideration for the assets purchased will be approximately $7.3 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I72300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX, United States"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254441" id="root" date="1996-12-13" xml:lang="en">
+<title>TANZANIA: First refugees return to Rwanda from Tanzania.</title>
+<headline>First refugees return to Rwanda from Tanzania.</headline>
+<dateline>ON THE RWANDAN-TANZANIAN BORDER 1996-12-13</dateline>
+<text>
+<p>The first Rwandan refugees crossed into Rwanda from Tanzania on Friday after Tanzanian troops prevented tens of thousands returning to their camps.</p>
+<p>Reuters correspondent David Fox said the first few walked across the border as thousands more attempted to break through a Tanzanian army cordon around Benaco camp and were beaten back by soldiers wielding sticks.  </p>
+<p>&quot;They are starting to cross, the first ones are now on the Rwandan side,&quot; said Fox. &quot;But thousands of others are trying to break back into the camps despite soldiers telling them to keep moving.&quot;</p>
+<p>Hundreds of Tanzanian soldiers surrounded Benaco camp to prevent refugees from slipping back in, but refugees who had stayed in the camp urged those outside to try to break through the cordon.</p>
+<p>Hundreds of refugees dropped their bundles of belongings on the roadside and sprinted across vegetable fields to reach the camp but most others appeared resigned to going back to Rwanda.</p>
+<p>Earlier Tanzanian troops and police set up roadblocks on routes away from the camps and border and successfully urged tens of thousands of refugees to turn around and head back towards the camps.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RWANDA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ON THE RWANDAN-TANZANIAN BORDER"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

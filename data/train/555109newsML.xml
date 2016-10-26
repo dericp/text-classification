@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555109" id="root" date="1997-05-01" xml:lang="en">
+<title>DENMARK: Danish bond prices join U.S. surge.</title>
+<headline>Danish bond prices join U.S. surge.</headline>
+<dateline>COPENHAGEN 1997-05-01</dateline>
+<text>
+<p>Danish bond prices got an early boost from unexpected U.S. treasury gains but trade for the rest of the day was expected to be dampened by the absence of foreign players due to European May Day holidays and the British general election.</p>
+<p>At 0710 GMT the benchmark eight percent state bond due 2006 was up 0.30 point from Wednesday's close, to 110.00, yielding 6.47 percent.</p>
+<p>The 10-year yield gap with Germany narrowed to 63 basis points from Wednesday's 70 bp and the crown continued to firm, trading at 3.8058 to the mark from yesterday's 3.8060.  </p>
+<p>--Stig Pedersen, Copenhagen newsroom, 45-33-969659</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

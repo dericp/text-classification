@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="782385" id="root" date="1997-08-06" xml:lang="en">
+<title>USA: TABLE - LCS Industries Inc Q3 profit down.</title>
+<headline>TABLE - LCS Industries Inc Q3 profit down.</headline>
+<dateline>CLIFTON, N.J. 1997-08-06</dateline>
+<text>
+<p>Three Months	Nine Months</p>
+<p>				   Ended		  Ended</p>
+<p>				  June 30,	    June 30,</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> Revenue	$24,167,753 $22,398,255 $75,238,106 $70,400,069</p>
+<p>Income before taxes</p>
+<p>		    2,600,169   2,988,695   9,876,473  10,233,790</p>
+<p>Provision for taxes</p>
+<p>		    1,410,000   1,236,000   4,388,000   4,198,000</p>
+<p> Net Income     1,190,169   1,752,695   5,488,473   6,035,790</p>
+<p> Earnings Per share   .23	   .34	  1.07	  1.17</p>
+<p>Weighted average number</p>
+<p>of shares outstanding</p>
+<p>		    5,136,055   5,196,732   5,106,078   5,141,480</p>
+<p>NOTE: Current third quarter earnings include write-off of an investment in McIntyre and King Ltd, which amounted to $901,000, or $0.18 per share.</p>
+<p>((New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLIFTON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

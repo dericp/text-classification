@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="797062" id="root" date="1997-08-13" xml:lang="en">
+<title>USA: GM launches new dealership service program.</title>
+<headline>GM launches new dealership service program.</headline>
+<dateline>DETROIT 1997-08-13</dateline>
+<text>
+<p>General Motors Corp. said Wednesday it expects 2,500 of its 8,500 dealers in the United States to have signed up for its new Goodwrench Service Plus plan by the end of 1997.</p>
+<p>Under the plan, which has taken seven years to develop, dealers agreed to make a number of changes designed to pull in more vehicle owners for maintenance and repair work at dealerships.</p>
+<p>It is aimed at helping dealers take back some of the business they have lost to quick-lube and other chain store competitors, GM officials said at a news conference.</p>
+<p>As part of the program, dealers agree to offer more convenient service hours; provide courtesy transportation for people having their car worked on; clearly display competitive pricing; and offer a limited lifetime guarantee on certain parts and labor.</p>
+<p>William Lovejoy, general manager of GM's Service Parts Operations, said dealers who have taken part in a pilot program have been able to double their service business. So far, 2,045 GM dealers have enrolled in the program or are in the enrollment process.</p>
+<p>GM plans to pay for a television advertising campaign that will begin promoting the new program in September. The automaker over the last few years has taken steps to simplify its parts ordering and pricing system, and cut prices on many items. Lovejoy would not reveal how much GM has spent to put the program into effect.</p>
+<p>GM vehicle owners spend about $44 billion annually on repair and maintenance in the United States. Lovejoy said GM dealers receive about 25 percent of that business.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I65100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

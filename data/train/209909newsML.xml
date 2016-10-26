@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="209909" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: ACCOUNT CLOSED - San Antonio, Texas, $95 mln.</title>
+<headline>ACCOUNT CLOSED - San Antonio, Texas, $95 mln.</headline>
+<text>
+<p>CITY OF SAN ANTONIO, TEXAS TAX-EXEMPT OBLIGATIONS</p>
+<p>RE: $95,245,000</p>
+<p>THE ACCOUNT IS CLOSED.</p>
+<p>A.G. Edwards &amp; Sons, Inc.</p>
+<p>Estrada Hinojosa &amp; Co.</p>
+<p>Apex Securities, Inc.</p>
+<p>Lehman Brothers</p>
+<p>Southwestern Capital Markets</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

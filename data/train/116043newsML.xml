@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116043" id="root" date="1996-10-15" xml:lang="en">
+<title>USA: Tenneco La. gas line leak cuts 250 mmcfd.</title>
+<headline>Tenneco La. gas line leak cuts 250 mmcfd.</headline>
+<dateline>NEW YORK 1996-10-15</dateline>
+<text>
+<p>Tennessee Gas Pipeline, a unit of Tenneco Energy, said Tuesday that a leak on a portion of its 500 line in Louisiana will cut 250 million cubic feet per day of natural gas flows for up to three days.</p>
+<p>&quot;We found a leak this morning on a portion of the 500 line known as the KN line,&quot; a company spokesman said, adding the 20-inch line ran from Kinder (station 823) to Natchitoche (station 40) in Louisiana.  </p>
+<p>The spokesman said repairs should take two to three days to complete, adding about 28 percent of secondary service upstream of station 823 had been cut but no primary service was affected.</p>
+<p>&quot;We're working with customers to find alternate transportation,&quot; he added.</p>
+<p>The cause of the leak was not immediately known.</p>
+<p>--J Silha, New York Power Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

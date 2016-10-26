@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="163900" id="root" date="1996-11-04" xml:lang="en">
+<title>USA: U.S. interest rates mixed in latest week.</title>
+<headline>U.S. interest rates mixed in latest week.</headline>
+<dateline>WASHINGTON 1996-11-04</dateline>
+<text>
+<p>The Federal Reserve announced average interest rates for the week ended Nov 1, compared with the Oct 25 week, as follows:</p>
+<p>   Federal funds rate.................5.27 vs 5.22</p>
+<p>   3-month Treasury bills.............5.03 vs 5.00</p>
+<p>   3-month commercial paper...........5.42 vs 5.42</p>
+<p>   3-month bankers acceptances........5.30 vs 5.31</p>
+<p>   3-month CDs........................5.39 vs 5.40</p>
+<p>   3-month Eurodollar.................5.38 vs 5.38</p>
+<p>   30-year Government bond............6.71 vs 6.83</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

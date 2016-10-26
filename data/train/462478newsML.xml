@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="462478" id="root" date="1997-03-24" xml:lang="en">
+<title>GREECE: SOCCER-GREEK CHAMPIONSHIP RESULTS/STANDINGS.</title>
+<headline>SOCCER-GREEK CHAMPIONSHIP RESULTS/STANDINGS.</headline>
+<dateline>ATHENS 1997-03-24</dateline>
+<text>
+<p>Results of weekend matches in</p>
+<p>the Greek first division soccer championship:</p>
+<p> Aris		0   Olympiakos   0</p>
+<p> Edessaikos	0   AEK	    2</p>
+<p> Panathinaikos   1   Veria	  0</p>
+<p> OFI		 2   Kalamata     0</p>
+<p> Ionikos	   2   PAOK	   1</p>
+<p> Kavala	    1   Athinaikos   1</p>
+<p> Iraklis	   3   Paniliakos   0</p>
+<p> Xanthi	    4   Panahaiki    3</p>
+<p> Kastoria	  0   Apollon	0</p>
+<p>    Standings     Pl    W    D    L    F   A    Pts</p>
+<p>  1.Olympiakos    26   19    5    2   46   10    62</p>
+<p>  2.AEK	     26   18    4    4   61   21    58</p>
+<p>  3.Panathinaikos 26   17    3    6   45   16    54</p>
+<p>  4.OFI	     26   16    4    6   39   20    52</p>
+<p>  5.PAOK	    26   12    8    6   33   25    44</p>
+<p>  6.Kavala	  26   13    5    8   32   24    44</p>
+<p>  7.Paniliakos    26   11    5   10   34   34    38</p>
+<p>  8.Ionikos	 26   10    6   10   30   31    36</p>
+<p>  9.Veria	   26    9    7   10   25   21    34</p>
+<p> 10.Iraklis	 26    9    5   12   34   40    32</p>
+<p> 11.Xanthi	  26    7    8   11   38   42    29</p>
+<p> 12.Apollon	 26    8    5   13   27   35    29</p>
+<p> 13.Kalamata	26    7    8   11   29   45    29</p>
+<p> 14.Panahaiki     26    7    8   11   24   33    29</p>
+<p> 15.Athinaikos    26    6    6   14   24   49    24</p>
+<p> 16.Edessaikos    26    6    5   15   27   43    23</p>
+<p> 17.Aris	    26    5   10   11   20   35    22</p>
+<p> 18.Kastoria	26    1    4   21   11   53     7</p>
+<p>Note: Aris deducted 3 points</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

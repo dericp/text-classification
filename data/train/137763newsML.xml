@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137763" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Commonwealth sees higher 1997 earnings.</title>
+<headline>Commonwealth sees higher 1997 earnings.</headline>
+<dateline>VALLEY FORGE, Pa 1996-10-23</dateline>
+<text>
+<p>Commonwealth Bancorp Inc said on Wednesday the assessment being made by the Savings Association Insurance Fund would likely improve its 1997 earnings by $0.07 per share.</p>
+<p>The company said the assessment would resolve the deposit insurance premium disparity between institutions that are insured by the fund and the Bank Insurance Fund, reducing its future deposit insurance premiums as a consequence.</p>
+<p>Such a reduction in premiums would result in better earnings, it added.</p>
+<p>The company reported a $679,000 net loss for the third quarter after paying a $4.5 million after-tax, one-time charge for the fund's recapitalization assessment.</p>
+<p>Commonwealth also said it would change its name to Commonwealth Bank in the fourth quarter of the year.</p>
+<p>It said the new name would reflect the change it was undergoing in order to focus on becoming a full-service community bank, offering products and services like debit and credit cards.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLEY FORGE, Pa"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

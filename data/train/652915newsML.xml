@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="652915" id="root" date="1997-06-11" xml:lang="en">
+<title>BRAZIL: Brazilian real drops 0.06 pct in quiet trading.</title>
+<headline>Brazilian real drops 0.06 pct in quiet trading.</headline>
+<dateline>SAO PAULO 1997-06-11</dateline>
+<text>
+<p>Brazil's real dropped 0.06 percent in calm trading to close at 1.0731 per dollar on the commercial foreign exchange market on expectations of an upcoming decline in the real-dollar mini-band, dealers said.</p>
+<p>The current mini-band was set by the Central Bank on Monday at between 1.0720 and 1.0770 reais per dollar and players are expecting a 0.1 percent decline in coming days.</p>
+<p>In the interbank floating rate market, the real closed at 1.0776 per greenback, down 0.01 percent.</p>
+<p>In the parallel market, the real ended steady at 1.125 per dollar, traders said.</p>
+<p>((-- Alexandre Caverni, Sao Paulo newsroon, 55 11 2485418))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

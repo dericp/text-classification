@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="398479" id="root" date="1997-02-24" xml:lang="en">
+<title>INDIA: India produced 214 kg gold in January.</title>
+<headline>India produced 214 kg gold in January.</headline>
+<dateline>NEW DELHI 1997-02-24</dateline>
+<text>
+<p>India produced about 214 kg of gold in January 1997 compared with 183.5 kg in December 1996, a government statement said on Monday.</p>
+<p>The country produced 1,677.5 kg of gold between April 1996 and January 1997 compared with 1,347.23 kg in the same period a year ago, the statement said.</p>
+<p>---------------------------------------------------------------</p>
+<p>	 January 1997	    Cumulative production</p>
+<p>	 ----------		----------------------</p>
+<p>	  Actual		   Apr96-Jan97  Apr95-Jan96</p>
+<p>---------------------------------------------------------------</p>
+<p> BGML   59.15			  562.16	 527.80</p>
+<p> HGML  154.83			1,115.31	 819.42</p>
+<p>---------------------------------------------------------------</p>
+<p> Total 213.98			1,677.47     1,347.22</p>
+<p>---------------------------------------------------------------</p>
+<p>NOTE: Figures are in kg and provisional.</p>
+<p>	    BGML: Bharat Gold Mines Limited.</p>
+<p>	    HGML: Hutti Gold Mines Limited.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22472">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

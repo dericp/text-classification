@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141531" id="root" date="1996-10-24" xml:lang="en">
+<title>EGYPT: Egypt overnight rates up, one-week unchanged.</title>
+<headline>Egypt overnight rates up, one-week unchanged.</headline>
+<dateline>CAIRO 1996-10-24</dateline>
+<text>
+<p>Overnight interbank rates on the Egyptian pound rose on a slightly squeezed private market on Thursday to between 10 1/8 and 10 3/16 percent from Wednesday's range of 10 and 10 1/4 percent, bankers said.</p>
+<p>&quot;There were more takers today than usual for a Thursday -- the day before the weekend but there are no fundamental reasons for this squeeze,&quot; one banker said.</p>
+<p>One week rates were unchanged at between 10 1/8 and 10 3/8 percent, the bankers added. Public sector banks continued to ask for a minimum 10 1/2 percent.</p>
+<p>-- Cairo newsroom +202 578 3290/91</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

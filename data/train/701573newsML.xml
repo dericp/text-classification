@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701573" id="root" date="1997-07-02" xml:lang="en">
+<title>LATVIA: Banks snap up Latvia 12-mo T-bill issue.</title>
+<headline>Banks snap up Latvia 12-mo T-bill issue.</headline>
+<dateline>RIGA 1997-07-02</dateline>
+<text>
+<p>A rare issue of one-year Treasury bills was snapped up by banks at auction on Wednesday, with low interest in the shortest-term one-month paper, the finance ministry said.</p>
+<p>The 12-month yield fell to 6.42 percent compared to the last auction of this maturity on May 21, when the rate was 7.46 percent. The 28-day yield fell although it was undersubscribed while three-month yields rose.</p>
+<p>All amounts are in millions of lats.</p>
+<p> MATURITY    AV YLD	 LAST  NO OF BANKS    ISSUE  BID  SOLD</p>
+<p> One-month    3.10	  3.14	 1	    0.5   0.15  0.15</p>
+<p> Three-month  3.74	  3.48	 4	    0.7   0.83  0.7</p>
+<p> 12-month     6.42	  7.46	 11	   12.0  24.39 12.0</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

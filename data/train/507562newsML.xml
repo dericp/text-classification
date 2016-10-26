@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="507562" id="root" date="1997-04-14" xml:lang="en">
+<title>TURKEY: Turkey's Erbakan leaves for 24th haj pilgrimage.</title>
+<headline>Turkey's Erbakan leaves for 24th haj pilgrimage.</headline>
+<dateline>ANKARA 1997-04-14</dateline>
+<text>
+<p>Islamist Prime Minister Necmettin Erbakan left Turkey on Monday for Saudi Arabia where he will carry out the haj pilgrimage to Moslem holy places for the 24th time.</p>
+<p>Witnesses said Erbakan, 71, left Ankara airport in a Turkish Airlines plane with around 25 relatives and friends. &quot;May Allah accept him,&quot; the Milli Gazete, organ of Erbakan's Welfare Party, said in a frontpage headline.</p>
+<p>About two million Moslems, half of them from outside Saudi Arabia, are expected to perform this year's haj at Mecca, home to Islam's holiest shrine. The event is due to reach its climax at the end of this week.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

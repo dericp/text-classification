@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="137717" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Cadmus Communications Q1 shr falls on more.</title>
+<headline>Cadmus Communications Q1 shr falls on more.</headline>
+<dateline>RICHMOND, Va. 1996-10-23</dateline>
+<text>
+<p>Cadmus Communications Corporation And Subsidiaries</p>
+<p>			 Consolidated Statements Of Income</p>
+<p>		     (In thousands, except per share data)</p>
+<p>				(Unaudited)</p>
+<p>						     Three Months Ended</p>
+<p>							 September 30,</p>
+<p>						   1996		  1995</p>
+<p> Net sales				  $93,922	     $74,673</p>
+<p> Net income				   1,694		 1,516</p>
+<p> Net income per share			 .21		   .24</p>
+<p>Weighted average common shares</p>
+<p>   outstanding				8,024		 6,326</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

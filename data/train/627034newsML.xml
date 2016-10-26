@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="627034" id="root" date="1997-05-30" xml:lang="en">
+<title>USA: Bigmar gets Swiss ok for oncology product.</title>
+<headline>Bigmar gets Swiss ok for oncology product.</headline>
+<dateline>COLUMBUS, Ohio 1997-05-30</dateline>
+<text>
+<p>Bigmar Inc said Friday that it has received approval from the Intercantonal Office for the Control of Medications (IKS) to manufacture all marketed configurations of calcium leucovorin at its Barbengo, Switzerland, facility, and the product will be sold to marketing partners throughout Europe.</p>
+<p>Calcium leucovorin is a therapy used in conjunction with the administration of chemotherapeutic agents.</p>
+<p>The company also announced that the IKS, the Swiss counterpart to the U.S. Food and Drug Administration, has granted approval for the production of all injectible pharmaceutical products at the Barbengo facility.</p>
+<p>This broad approval significantly decreases the company's time to market for new products as it reduces the need for IKS plant inspections for each new product, Bigmar said.</p>
+<p>Instead, Bigmar will submit batch records to the local IKS office for review and approval to sell each of its new products, as they become available.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

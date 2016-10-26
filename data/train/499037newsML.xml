@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="499037" id="root" date="1997-04-10" xml:lang="en">
+<title>ESTONIA: 20.1 PERCENT OF CENTRAL BUDGET COLLECTED IN Q1.</title>
+<headline>20.1 PERCENT OF CENTRAL BUDGET COLLECTED IN Q1.</headline>
+<dateline>TALLINN 1997-04-10</dateline>
+<text>
+<p>The ministry of finance said on Thursday that the final corrected data for 1997 first quarter budget collection was 20.87 percent of yearly planned revenues.</p>
+<p>Collected revenue in the first quarter was 2.61 billion kroons, a slight decrease compared to their earlier data of 2.62 billion kroons, the ministry said in a statement.</p>
+<p>Tax from companies in the first quarter was 184 million kroons of which only 16.7 percent of expected revenue, the ministry added.</p>
+<p>-- David Mardiste, Tallinn newsroom +372 630 8400 reuters@reuters.ee</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

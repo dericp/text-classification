@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="746926" id="root" date="1997-07-22" xml:lang="en">
+<title>UK: Former Beatle McCartney writes classical symphony.</title>
+<headline>Former Beatle McCartney writes classical symphony.</headline>
+<dateline>LONDON 1997-07-22</dateline>
+<text>
+<p>Former Beatle Sir Paul McCartney has made his most ambitious foray yet into the world of classical music, composing a 75-minute symphony to be given its world premiere at London's Royal Albert Hall in October.</p>
+<p>McCartney's office said on Tuesday that the symphonic poem &quot;Standing Stone&quot; would be performed by the London Symphony Orchestra and chorus on October 14.</p>
+<p>McCartney's first experiment with classical music resulted in the 1991 Liverpool Oratorio, which was composed under the eye of British conductor Carl Davis but slammed by most critics.</p>
+<p>Standing Stone is his first solo project and was commissioned to mark the centenary of his EMI record company.</p>
+<p>&quot;The Liverpool Oratorio evolved from my normal music and stretched it a bit. This time, with Standing Stone, I wanted to go a bit further,&quot; McCartney said in a statement.</p>
+<p>The October concert will also mark the 40th anniversary of the first time McCartney played on stage in public alongside John Lennon with The Quarrymen -- the forerunner of The Beatles.</p>
+<p>McCartney, given a knighthood by Queen Elizabeth this year for his services to pop music, was only 15 when he went on stage at a Conservative Party club in Liverpool on October 18, 1957.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

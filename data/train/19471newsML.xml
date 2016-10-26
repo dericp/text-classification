@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19471" id="root" date="1996-08-28" xml:lang="en">
+<title>USA: New York courts discipline 264 lawyers.</title>
+<headline>New York courts discipline 264 lawyers.</headline>
+<dateline>ALBANY, N.Y. 1996-08-28</dateline>
+<text>
+<p>The New York State Bar Association said Wednesday that 264 of the state's some 100,000 lawyers were disciplined by courts last year.</p>
+<p>Courts disbarred 65 lawyers for violations of professional conduct, accepted the resignations of 56 lawyers, suspended 114 from practicing law for certain periods of time and censured 29 others, the association said.</p>
+<p>It said the number of lawyers disciplined has dropped slightly from the 270 recorded for 1994.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBANY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

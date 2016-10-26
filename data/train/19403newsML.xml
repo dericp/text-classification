@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19403" id="root" date="1996-08-28" xml:lang="en">
+<title>PHILIPPINES: Philippine mutual funds net asset values.</title>
+<headline>Philippine mutual funds net asset values.</headline>
+<dateline>MANILA 1996-08-28</dateline>
+<text>
+<p>The following are the net asset values of Philippine mutual funds for Wednesday, August 28.</p>
+<p>  FUNDS		NAV PER	  DAILY	  YEAR TO DATE</p>
+<p>			 SHARE	    CHANGE	 YIELD</p>
+<p>			 (PESOS)	  (PCT)	  (PCT)</p>
+<p>Citisec Growth     1.3858	    0.11	    17.06</p>
+<p>First Galleon	1.0007	    0.09	     6.98</p>
+<p>Philam Fund	  3.8084	    0.02	    17.34</p>
+<p>Philequity Fund    2.0171	    0.79	    50.51</p>
+<p>United Fund	  1.1011	    0.22	    13.81</p>
+<p>Kabuhayan Fund     1.0270	    0.20	    1.14*</p>
+<p>Filipino Fund Inc. 1.2420	    0.30	    21.33 **</p>
+<p>* From start of commercial operations on April 30, 1996 ** This is a closed-end fund</p>
+<p>Information provided by the Investment Company Association of the Philippines, an association of the country's mutual funds. The Filipino Fund data is provided by BPI Investment Management Inc. Filipino Fund NAV change and year to date yield are ex-dividend.</p>
+<p>-- Manila newsroom (632) 841 8934</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

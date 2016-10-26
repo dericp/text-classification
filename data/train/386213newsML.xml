@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="386213" id="root" date="1997-02-18" xml:lang="en">
+<title>SINGAPORE: SingTel awards S$40 mln equipment deal.</title>
+<headline>SingTel awards S$40 mln equipment deal.</headline>
+<dateline>SINGAPORE 1997-02-18</dateline>
+<text>
+<p>Singapore Telecommunications Ltd (SingTel) said on Tuesday it had awarded a Singapore $40 million contract to Communications &amp; Network Systems Pte Ltd for the supply of equipment to improve the reliability and capacity of its telephone network.  </p>
+<p>SingTel said in a statement that Communications &amp; Network Systems (CNS) is a local partner of Alcatel Belgium, part of the Alcatel group.</p>
+<p>CNS will supply pulse code modulation primary multiplexing equipment made by Alcatel.</p>
+<p>The equipment would be installed over the next three years, it said.</p>
+<p>-- Singapore newsroom (65 8703199)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

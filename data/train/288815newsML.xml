@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288815" id="root" date="1997-01-06" xml:lang="en">
+<title>GERMANY: German metals production in Jan-Nov 1996 detailed.</title>
+<headline>German metals production in Jan-Nov 1996 detailed.</headline>
+<dateline>ESCHBORN, Germany 1997-01-06</dateline>
+<text>
+<p>Monthly German metals production and processing data from state statistics office Bundesamt fuer Wirtschaft (BAW), received on Monday, showed the following details, in tonnes --</p>
+<p>    METALS OUTPUT	   Nov 96   Jan/Nov 96	 pct change</p>
+<p>							     over Jan/Nov 95</p>
+<p>primary aluminium     47,297     526,130		 +  0.2</p>
+<p>electrolytic copper   47,574     538,770		 + 10.2</p>
+<p>zinc			26,606     299,404		 +  1.3</p>
+<p>refined lead	    18,297     166,212		 - 23.3</p>
+<p>    SEMI-FINISHED METALS  Nov 96   Jan/Nov 96	 pct change</p>
+<p>							     over Jan/Nov 95</p>
+<p>aluminium		115,823   1,383,755		 -  1.0</p>
+<p>copper		   138,311   1,361,681		 -  4.7</p>
+<p>zinc			18,068     165,029		 +  5.6</p>
+<p>lead			 4,173	43,210		 - 16.5</p>
+<p>nickel		     1,545	16,303		 +  2.2</p>
+<p>    METALS CASTINGS	 Nov 96   Jan/Nov 96	 pct change</p>
+<p>							     over Jan/Nov 95</p>
+<p>aluminium		 43,694     445,264		 +  2.3</p>
+<p>copper		     6,814	67,159		 - 15.6</p>
+<p>zinc			 5,542	58,737		 -  9.2</p>
+<p>lead			   503	 5,872		 + 38.8</p>
+<p>tin			     28	   229		 - 10.2</p>
+<p>Semis and castings figures include alloys. Nickel castings data were not given.</p>
+<p>--Hamburg newsroom +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESCHBORN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

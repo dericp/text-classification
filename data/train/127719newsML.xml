@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127719" id="root" date="1996-10-18" xml:lang="en">
+<title>SPAIN: Spain to reduce Endesa stake to below 50 pct in 96.</title>
+<headline>Spain to reduce Endesa stake to below 50 pct in 96.</headline>
+<dateline>MADRID 1996-10-18</dateline>
+<text>
+<p>Spain will reduce its 66-percent stake in electrical group Endesa to below 50 percent before 1997, Industry Minister Josep Pique said on Friday.</p>
+<p>It will privatise the remainder of Endesa before 1999, the minister told reporters after the cabinet's regular meeting.  </p>
+<p>&quot;A substantial part&quot; of Endesa will be privatised before 1999, bringing the state's stake &quot;to less than 50 percent,&quot; Pique said at a news conference following the regular cabinet meeting.</p>
+<p>--Sharman Esarey, Madrid Newsroom +34 1 585 2167</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

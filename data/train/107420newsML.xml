@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107420" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: PNC Bank Corp Q3 summary.</title>
+<headline>PNC Bank Corp Q3 summary.</headline>
+<dateline>PITTSBURGH 1996-10-10</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.69		    $0.62</p>
+<p> Shr diluted		 0.68		     0.62</p>
+<p> Net			233,953		  210,737</p>
+<p> Avg shrs primary     340,535		  338,983</p>
+<p>	  Nine months ended Sept. 30</p>
+<p> Shr primary		$2.10		    $1.71</p>
+<p> Shr diluted		 2.08		     1.70</p>
+<p> Net			720,323		  584,237</p>
+<p> Avg shrs primary     342,143		  339,220</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Diluted per share figures for the 1996 third quarter include a one-time pre-tax charge of $35.1 million for a special assesment to recapitalize the Savings Association Insurance Fund.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

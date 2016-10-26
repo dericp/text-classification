@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="453371" id="root" date="1997-03-19" xml:lang="en">
+<title>USA: Enron in wind energy deal with MidAmerican.</title>
+<headline>Enron in wind energy deal with MidAmerican.</headline>
+<dateline>HOUSTON 1997-03-19</dateline>
+<text>
+<p>Enron Corp's Enron Renewable Energy Corp unit has signed a contract to supply 112.5 megawatts of wind-generated electricity to the MidAmerican electrical grid, Enron said in a statement.</p>
+<p>&quot;The power purchase agreement is the single largest purchase contract in the history of wind energy,&quot; said Enron, although it gave no revenue figures for the deal.</p>
+<p>MidAmerican, which has 642,000 electric customers and 610,000 natural gas customers, will buy the output from a plant that Enron Renewable's Zond subsidiary will construct in northwestern Iowa.</p>
+<p>The project will provide electricity to power approximately 50,000 homes, Enron said. ((-- David Chance New York Newsroom 212 859 1902))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

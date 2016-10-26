@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="616364" id="root" date="1997-05-27" xml:lang="en">
+<title>UKRAINE: Hryvnia edges down to 1.8530 per dlr in Kiev.</title>
+<headline>Hryvnia edges down to 1.8530 per dlr in Kiev.</headline>
+<dateline>KIEV 1997-05-27</dateline>
+<text>
+<p>The hryvnia edged down to 1.8530 per dollar on the Ukrainian Interbank Currency Exchange from 1.8520 at the previous session.</p>
+<p>					  May 27		May 26</p>
+<p> Hryvnia rate to dollar		1.8530		1.8520</p>
+<p> Volume traded			$3.83 million	   $1.30 million</p>
+<p>--Kiev newsroom, +380 44 244 9150</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UKRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KIEV"/>
+<dc element="dc.creator.location.country.name" value="UKRAINE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="513812" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: St. Petersburg, Fla., mulls museum bail-out bonds.</title>
+<headline>St. Petersburg, Fla., mulls museum bail-out bonds.</headline>
+<dateline>ST. PETERSBURG, Fla. 1997-04-16</dateline>
+<text>
+<p>Florida's St. Petersburg City Council is considering a $5.5 million bond issue to bail out the struggling Florida International Museum, the St. Petersburg Times reported Wednesday.</p>
+<p>The city previously guaranteed the downtown museum's $1.5 million loan from Barnett Banks Inc, which carries an 8.25 percent interest rate.</p>
+<p>The city council also voted in January to directly loan the museum another $3.9 million to keep it afloat long enough to get through a much-anticipated exhibit of relics from the Titanic in November.</p>
+<p>The latest proposal would instead finance all the debt with a variable-rate, tax-exempt revenue bond issue to be repaid with museum receipts. The plan was scheduled for a public hearing next week.</p>
+<p>If the nonprofit museum does not raise enough revenues to repay the debt, the city would assume ownership of its building and parkage garage valued at $3.5 million.</p>
+<p>((--Jane Sutton, 305-3745013))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. PETERSBURG, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

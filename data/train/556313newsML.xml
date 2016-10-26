@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="556313" id="root" date="1997-05-02" xml:lang="en">
+<title>USA: USDA to begin weekly cheddar cheese price May 9.</title>
+<headline>USDA to begin weekly cheddar cheese price May 9.</headline>
+<dateline>WASHINGTON 1997-05-02</dateline>
+<text>
+<p>The U.S. Agriculture Department said on May 9 it will begin publishing a weekly U.S. cheddar cheese price report, it was announced Friday.</p>
+<p>The report will list weighted average prices and volume of sales by manufacturers for 40-lb blocks, 640-lb blocks and 500-lb barrels of cheddar cheese.</p>
+<p>USDA said it would provide regional data where possible.</p>
+<p>The May 9 report will contain data for weeks ending March 7-May 2. Subsequent reports will include data for the most recent five weeks.</p>
+<p>Reports will be based on a survey of U.S. cheddar cheese manufacturers that sell cheese on a bulk, wholesale basis.</p>
+<p>USDA began the survey in March as part of an effort to see if a reliable price could be calculated. Dissatisfaction had been expressed with an exchange that set cheese prices.</p>
+<p>The report will be issued at 0830 EDT/1230 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

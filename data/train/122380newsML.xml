@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122380" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: North County Bancorp Q3 full results.</title>
+<headline>North County Bancorp Q3 full results.</headline>
+<dateline>ESCONDIDO, Calif. 1996-10-17</dateline>
+<text>
+<p>Nine Months Ended  Three Months Ended</p>
+<p>					 Sept. 30,	   Sept. 30,</p>
+<p>					1996     1995     1996     1995</p>
+<p> Net income		 $2,102,000$ 879,000$ 902,000$ 114,000</p>
+<p>Net income per</p>
+<p>  share (primary)		 1.10     0.53     0.47     0.07</p>
+<p>Net income per share</p>
+<p>  (fully diluted)		 1.02     0.47     0.44     0.06</p>
+<p> Return on average assets    1.15%    0.51%    1.44%    0.20%</p>
+<p> Return on average equity   15.38%    7.06%   19.04%    2.86%</p>
+<p>						    Nine Months Ended</p>
+<p>							  Sept. 30,</p>
+<p>						     1996	     1995</p>
+<p> Interest income			$ 14,594,000   $ 14,441,000</p>
+<p> Interest expense			  3,780,000	3,861,000</p>
+<p> Net interest income		    10,814,000     10,580,000</p>
+<p> Provision for loan losses	     1,100,000	2,661,000</p>
+<p>Net interest income after</p>
+<p>  provision for loan losses	    9,714,000	7,919,000</p>
+<p> Noninterest income			5,384,000	5,017,000</p>
+<p> Noninterest expense		    11,540,000     11,828,000</p>
+<p> Income before income taxes	    3,558,000	1,108,000</p>
+<p> Provision for income taxes	    1,456,000	  229,000</p>
+<p> Net income				  2,102,000	  879,000</p>
+<p>Earnings per share:</p>
+<p>  Primary					   1.10	   53 cts</p>
+<p>  Fully diluted				   1.02	   47 cts</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESCONDIDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

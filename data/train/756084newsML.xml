@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="756084" id="root" date="1997-07-25" xml:lang="en">
+<title>UK: HGCA daily agri-monetary rates - July 25.</title>
+<headline>HGCA daily agri-monetary rates - July 25.</headline>
+<text>
+<p>Green Rate     Ref Period     1 Day     3 Day   Forecast Current</p>
+<p>July 25	  21 -25 July    25 July		  rate  rate in</p>
+<p>		  AMR	 RMG    RMG	RMG    31 July    effect</p>
+<p>BFr  40.8741  40.9716  -0.239 -0.273    na    40.9716  21.07.97</p>
+<p>Dmk  1.97970  1.98440  -0.237 -0.263    na    1.98440  21.07.97</p>
+<p>DFl  2.22893  2.23454  -0.252 -0.318    na    2.23454  21.07.97</p>
+<p>UK  0.720829 0.650182   9.801  9.985    na	SUSP   05.06.97</p>
+<p>DKr  7.54258  7.55551  -0.171 -0.201    na    7.55551  21.07.95</p>
+<p>FFr  6.68769  6.69223  -0.068 -0.038    na    6.69223  21.07.95</p>
+<p>Lit  1973.93  1930.17   2.217  2.161    na	unch   01.10.96</p>
+<p>IR  0.759189 0.736503   2.988  2.421    na	unch   26.05.97</p>
+<p>Dra  312.011  310.317   0.543  0.598    na	unch   26.05.97</p>
+<p>Pta  166.839  167.148  -0.185 -0.266    na    167.148  21.07.97</p>
+<p>Esc  199.837  200.347  -0.255 -0.300    na    200.347  21.07.95</p>
+<p>Skr  8.88562  8.53852   3.906  3.709    na	unch   06.05.97</p>
+<p>Os   13.9291  13.9626  -0.241 -0.268    na    13.9626  21.07.97</p>
+<p>Fmk  6.02811  5.85598   2.855  2.248    na	unch   06.05.96</p>
+<p>On the basis of exchange rates  from July 21 - 25, the UK RMG is greater than +5 per cent, at 9.801. It is therefore currently forecast to enter its fourth of a possible five confirmation periods on 31 July. If it remains above +5 per cent for each of the  three remaining 10-day confirmation periods, the UK green rate faces revaluation on 20 August 1997. All currencies with negative RMGs for this period will devalue on 31 July by reducing their gaps to zero. Hence further devaluations are currently forecast for the Belgian, German, Dutch, Danish, French, Spanish, Portuguese and Austrian green rates on 31 July. During confirmation periods the 3-day (6 per cent) rule is suspended.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="G153">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

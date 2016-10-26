@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257538" id="root" date="1996-12-15" xml:lang="en">
+<title>ISRAEL: Nigerian plane makes emergency landing in Israel.</title>
+<headline>Nigerian plane makes emergency landing in Israel.</headline>
+<dateline>JERUSALEM 1996-12-15</dateline>
+<text>
+<p>A Nigerian passenger plane safely made an emergency landing at Tel Aviv's Ben-Gurion Airport on Sunday after reporting mechanical difficulties, Israel's Itim news agency said.</p>
+<p>The plane, which had not been en route to Israel, was escorted to the airport by Israeli air force fighters after its pilot asked permission to land at Ben-Gurion for repairs, Itim said.</p>
+<p>The report, which could not be immediately confirmed with Israeli aviation officials, did not give the plane's original flight plan or say how many passengers were aboard.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

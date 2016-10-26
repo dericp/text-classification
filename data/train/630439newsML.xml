@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="630439" id="root" date="1997-06-02" xml:lang="en">
+<title>MEXICO: Mexican daily port, shipping update for June 2.</title>
+<headline>Mexican daily port, shipping update for June 2.</headline>
+<dateline>MEXICO CITY 1997-06-02</dateline>
+<text>
+<p>All Mexican ports were open on Monday even as tropical storm Andres approached the southern Pacific coast, the Communications and Transport Ministry (SCT) said in its 1500 local/2000 GMT daily meteorological report.</p>
+<p>Andres was spotted about 233 miles south of Oaxaca state, moving at 3.5 knots toward the northwest.</p>
+<p>Strong winds along the Pacific Coast caused the largely tourist ports of Huatulco, Puerto Escondido and Puerto Angel to be closed to smaller tourism and fishing. In the Gulf of Mexico, Nautla port was shut to smaller craft. The ministry updated port conditions and shipping warnings for the Pacific Coast, Gulf of Mexico and Caribbean.</p>
+<p>-- Pacific Coast:</p>
+<p>Clear skies and warm temperatures. Winds along Baja California from 15 to 20 knots (28 to 38 km/11 to 22 miles per hour) and waves four to six feet high. Near the Gulf of Tehuantepec thundershowers, winds less than 15 knots and waves four to six feet high.</p>
+<p>Tropical storm Andres approaching coast at 3.5 knots with winds of 35 to 40 knots (66 km to 76 km/33 to 44 miles per hour) and waves 12 feet high.    -- Gulf of Mexico:</p>
+<p>Tropical storm Andres expected to draw clouds and light rains. Winds from 10 to 15 knots (19 to 28 km/11 to 16 miles per day) and waves three to five feet high.    -- Caribbean:</p>
+<p>Hot and partly cloudy with scattered rains. Winds from 20 to 30 km per hour.</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728-7903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

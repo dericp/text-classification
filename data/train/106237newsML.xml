@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106237" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: World population seen reaching 6.1 billion by 2000.</title>
+<headline>World population seen reaching 6.1 billion by 2000.</headline>
+<dateline>WASHINGTON 1996-10-09</dateline>
+<text>
+<p>The world's population will climb by 300 million to 6.1 billion by the year 2000, with Asia, Africa and Latin America accounting for 95 percent of the growth, the U.S. Census Bureau predicted on Wednesday.</p>
+<p>Over the next quarter century, it said, world population may reach 7.6 billion, equivalent to adding three more Sub-Sahara Africas to the present total.</p>
+<p>The Census Bureau slightly trimmed its previous projection of 6.2 billion by 2000 because of a lower-than-expected drop in mortality rates in the former Soviet Union, higher than expected mortality from AIDS in Sub-Sahara Africa and various adjustments in population figures, a bureau official said.</p>
+<p>But overall, she said, the report confirms that the world is adding people at a far quicker pace than ever, even though the population growth rate will slow from the current 1.5 percent to below one percent by 2025.</p>
+<p>It took thousands of years for the world's population to reach 2.6 billion by 1950, the report said, but in just another 50 years a further 3.5 billion will have been added.</p>
+<p>Despite falling fertility rates, at least 132 million births will occur every year for the next 25 years because of the increasing number of women of reproductive age in developing countries.</p>
+<p>In other projections, the report said Africa would have the highest growth rate of all the major world regions during the next 25 years, despite rising mortality rates in some countries from the HIV/AIDS epidemic. In developing countries with substantial AIDS-related mortality, the disease will kill some 50 million people by 2010, the report said.</p>
+<p>With their huge existing populations, Asian developing countries were expected to add 176 million people in the next four years, with one-fourth of this -- or 44 million people -- to be added in China.</p>
+<p>India and Nigeria will make disproportionate additions to the world's population growth between 1996 and 2020 because of continued high fertility and massive populations. India now accounts for about 19 percent of the world's population increase, leading all other countries. If Nigeria's growth rate continues, its population will nearly double in the next 25 years, the report said.</p>
+<p>The United States was expected to account for 3.2 percent of the world population growth.</p>
+<p>Worldwide, the population of those age 65 and older will increase more than twice as fast as the total population between 1996 and 2020. The growth rate of this age group in less developed countries will be double the rate in developed countries, the report said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="WORLD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

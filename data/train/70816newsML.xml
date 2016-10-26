@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70816" id="root" date="1996-09-23" xml:lang="en">
+<title>INDIA: Indian cotton prices steady, mill demand low.</title>
+<headline>Indian cotton prices steady, mill demand low.</headline>
+<dateline>BOMBAY 1996-09-23</dateline>
+<text>
+<p>Indian cotton prices held steady in a narrow trading range on Monday, dealers said.</p>
+<p>They said mill demand fell while sentiment was subdued as traders anticapted a rise in new crop arrivals particularly from northern India. Reports of new crops arriving in the Gujarat region in the west also weakened market sentiment.</p>
+<p>In spot deals long-staple Gujarat Sankar-4 was steady at 20,000/22,000 rupees per candy (355.56 kg). Bengal-deshi spot delivery was quiet at 835/850 rupees per maund, and so was Punjab saw-ginned at 1,670/1,675 rupees per maund.</p>
+<p>-- Bombay Commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

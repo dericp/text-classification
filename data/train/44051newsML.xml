@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44051" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Manitoba restores some power, resumes U.S. exports.</title>
+<headline>Manitoba restores some power, resumes U.S. exports.</headline>
+<dateline>NEW YORK 1996-09-10</dateline>
+<text>
+<p>Manitoba Hydro has restored a portion of electricity transmission lost in a storm in the Canadian province of Manitoba last week and resumed power exports to the U.S. Tuesday morning, a company spokesman said.</p>
+<p>&quot;We have a temporary line up and running, we are supplying our domestic needs and this allows us some exports,&quot; spokesman Glenn Schneider said Tuesday.</p>
+<p>Schneider said about 1,000 megawatts (MW) of electricity was now being exported to markets in Minnesota and North Dakota. The company normally exports about 1,500 MW of power to the two states at this time of year.</p>
+<p>Manitoba has been importing power since last Thursday, when a storm knocked out two key transmission lines with a total capacity of about 3,500 MW bringing power from hydroelectric facitlities in the north to more populated regions in the province's south.</p>
+<p>A temporary line from the hydroelectric facilities was activated early Tuesday, and is expected to be capable of moving about 2,700 MW of power, Schneider said.</p>
+<p>The two damaged lines are not expected to be permanently restored until mid-October, the spokesman said.</p>
+<p>Storm winds knocked over a total of 19 metal towers supporting the two transmission lines northwest of the provincial capital of Winnipeg.</p>
+<p>Spot electricity prices in the U.S. Mid-West surged last week and remained high Monday with the news Manitoba had reversed exports and had begun importing electricity to meet domestic needs.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

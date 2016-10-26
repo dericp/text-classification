@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="649940" id="root" date="1997-06-10" xml:lang="en">
+<title>USA: Study says vitamins could cut heart disease risk.</title>
+<headline>Study says vitamins could cut heart disease risk.</headline>
+<dateline>CHICAGO 1997-06-10</dateline>
+<text>
+<p>A study published on Tuesday called for research into whether vitamin supplements with folic acid and other elements can reduce the risk of heart disease.</p>
+<p>The report, from The Adelaide Hospital in Dublin, Ireland, said a study of nearly 1,600 people in nine European countries found that high levels of an amino acid called homocysteine in the blood can indicate a doubled risk of heart disease.</p>
+<p>The increased risk caused by high levels of the amino acid is similar to that caused by high cholesterol or cigarette smoking, said the study published in this week's Journal of the American Medical Association.</p>
+<p>The report said a small number of people in the test who took vitamin combinations with folic acid, cobalamin (a component of vitamin B-12) and pyridoxine (one of the B-6 group of vitamins) appeared to show a substantial reduction in heart disease risk.</p>
+<p>&quot;We believe it is time to consider whether existing recommended daily allowances of the vitamins that modulate homocysteine metabolism are adequate, and to undertake randomized controlled trials of the effects of folic acid and perhaps pyridoxine in the secondary prevention of cardiac disease,&quot; the study concluded.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

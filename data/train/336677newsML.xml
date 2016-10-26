@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="336677" id="root" date="1997-01-28" xml:lang="en">
+<title>USA: Aspen Technology board OKs stock split.</title>
+<headline>Aspen Technology board OKs stock split.</headline>
+<dateline>CAMBRIDGE, Mass. 1997-01-28</dateline>
+<text>
+<p>Aspen Technology Inc said on Tuesday its board of directors had approved a two-for-one stock split of outstanding shares of common stock.</p>
+<p>The company said in a statement that the split would be effected through a stock dividend. It will entitle each stockholder of record as of Feb 14 to receive one additional share for each outstanding share of common stock held on the record date.</p>
+<p>The stock split will be effective as of Feb 28. Upon completion of the split, the number of shares of AspenTech common stock outstanding will be about 19.7 million.</p>
+<p>((-- New York newsdesk, (212) 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

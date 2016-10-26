@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202541" id="root" date="1996-11-20" xml:lang="en">
+<title>GUATEMALA: Guatemala Oct coffee exports 133,951 60-kg bags.</title>
+<headline>Guatemala Oct coffee exports 133,951 60-kg bags.</headline>
+<dateline>GUATEMALA CITY 1996-11-21</dateline>
+<text>
+<p>Guatemalan coffee exports in October were 133,951 60-kilo bags versus 134,800 bags during October 1995, National Coffee Association (Anacafe) said on Wednesday.</p>
+<p>&quot;This is a signal that exports during 1996-97 are going to be very similar to 1995-96 exports, as we have expected and forecasted,&quot; Max Quirin, departing president of Anacafe, said in a faxed statement.</p>
+<p>October 1996 exports were 36 percent higher than September exports of 98,772 bags. September exports were 61 percent lower than the same month in 1995, at 251,879 bags.</p>
+<p>--Fiona Ortiz, Guatemala City bureau, +502 251-5718</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GUATEMALA CITY"/>
+<dc element="dc.creator.location.country.name" value="GUATEMALA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

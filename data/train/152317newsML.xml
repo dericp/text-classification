@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="152317" id="root" date="1996-10-29" xml:lang="en">
+<title>ITALY: Italian budget to go to full Chamber on Thursday.</title>
+<headline>Italian budget to go to full Chamber on Thursday.</headline>
+<dateline>ROME 1996-10-29</dateline>
+<text>
+<p>The Italian budget will go before the full Chamber of Deputies (lower house) on Thursday and not Wednesday as originally planned.</p>
+<p>Parliamentary party leaders decided late Monday to put back the opening budget session because the lower house faces a heavy schedule of non-budget related affairs on Wednesday.</p>
+<p>The Chamber has until November 14 to ratify the 1997 financial package which was narrowly approved by the lower house budget commission late Monday night.</p>
+<p>The budget is designed to cut 62.5 trillion lire off next year's deficit, preparing state accounts for the launch of the planned single European currency in 1999.</p>
+<p>After the package has been approved by the lower house, it goes to the Senate (upper house) for ratification. -- Rome newsroom +396 6782501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

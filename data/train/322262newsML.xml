@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="322262" id="root" date="1997-01-21" xml:lang="en">
+<title>USA: Fed adds reserves via 9-day fixed system RPs.</title>
+<headline>Fed adds reserves via 9-day fixed system RPs.</headline>
+<dateline>NEW YORK 1997-01-21</dateline>
+<text>
+<p>The Federal Reserve added reserves into the banking system on Tuesday via 9-day system repurchase agreements, a New York Fed spokeswoman said.</p>
+<p>The RPs are for fixed collateral, and follow the overnight and 6-day system RPs done on Thursday, before the Martin Luther King holiday on Monday.</p>
+<p>The Fed's operation was generally unexpected. Analysts had figured the Fed would add via 2-day system RPs, with some predicting no action.</p>
+<p>Fed funds were at 5-5/16 percent when the Fed entered the open market, sligthly above the 5-1/4 percent target.</p>
+<p>(( -- Steven Scheer, N.A. Treasury Desk, 212-859-1867 ))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

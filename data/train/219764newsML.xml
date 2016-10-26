@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219764" id="root" date="1996-11-27" xml:lang="en">
+<title>ALBANIA: Albania awards Milan Kundera top literary prize.</title>
+<headline>Albania awards Milan Kundera top literary prize.</headline>
+<dateline>TIRANA 1996-11-27</dateline>
+<text>
+<p>An Albanian cultural foundation on Wednesday awarded Czech writer Milan Kundera the nation's top literary prize, worth $20,000.</p>
+<p>&quot;I was very touched to read your letter and to learn that your jury has awarded me the literary prize &quot;Ismail Kadare,'&quot; Kundera wrote to the foundation's director. &quot;It is with great pleasure that I accept this honour.&quot;</p>
+<p>Best known for his novels &quot;The Joke&quot; (1967), &quot;The Book of Laughter and Forgetting&quot; (1979) and &quot;The Unbearable Lightness of Being (1982), Kundera is the second foreign writer to be awarded the prize.</p>
+<p>Argentinian novelist Ernesto Sabato was last year's winner of the Ismail Kadare award, which is named after an Albanian writer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

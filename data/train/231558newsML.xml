@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="231558" id="root" date="1996-12-03" xml:lang="en">
+<title>USA: CBOT November volume rises 2.1 pct year-on-year. [CORRECTED 22:00 GMT]</title>
+<headline>CBOT November volume rises 2.1 pct year-on-year. [CORRECTED 22:00 GMT]</headline>
+<dateline>CHICAGO 1996-12-03</dateline>
+<text>
+<p>The Chicago Board of Trade (CBOT) said its futures and options volume totalled 17,596,635 contracts in November, up 2.1 percent from 17,226,534 contracts traded in November 1995.</p>
+<p>The CBOT said total year-to-date volume was 206,795,260 contracts, up 5.6 percent from the same period last year.</p>
+<p>Volume in major categories and in selected individual contracts is as follows, with volume for November 1996 and percentage change followed by November 1995 volume:  </p>
+<p>All futures     14,000,403     + 2.7     13,629,108</p>
+<p>  Agricultural   3,811,307     - 6.0	4,055,587</p>
+<p>  Financial     10,181,359     + 6.5	9,562,104</p>
+<p>All options on</p>
+<p>	 futures   3,596,232	 0.0	3,597,426</p>
+<p>  Agricultural     937,096     +22.9	  762,664</p>
+<p>  Financial	2,658,476     - 6.2	2,834,025</p>
+<p>Futures (individual)</p>
+<p>  US T-bonds     7,297,677     +10.1	6,626,284</p>
+<p>  US 10-yr notes 1,904,530     +10.0	1,730,793</p>
+<p>  US 5-yr notes    831,065     -16.6	  995,971</p>
+<p>  (Corrects US T-bonds, 10-yr notes and 5-yr notes.)</p>
+<p>  Wheat		359,005     -21.0	  454,352</p>
+<p>  Corn	     1,514,741     -13.1	1,743,147</p>
+<p>  Soybeans	 1,002,694     +19.3	  840,308</p>
+<p>  Soymeal	    491,917     - 6.0	  523,440</p>
+<p>  Soyoil	     396,233     - 8.2	  431,711</p>
+<p>Options</p>
+<p>  US T-bonds     1,995,088     + 2.4	1,947,535</p>
+<p>  US 10-yr notes   477,186     -23.9	  627,053</p>
+<p>  Corn		 436,141     +14.1	  382,240</p>
+<p>  Soybeans	   327,115     +45.6	  224,729</p>
+<p>-- Chicago Derivatives Desk (312) 408 8750</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

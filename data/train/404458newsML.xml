@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="404458" id="root" date="1997-02-26" xml:lang="en">
+<title>USA: Modem coalition forms, U.S. Robotics missing.</title>
+<headline>Modem coalition forms, U.S. Robotics missing.</headline>
+<byline>Eric Auchard</byline>
+<dateline>NEW YORK 1997-02-26</dateline>
+<text>
+<p>A group of 28 computer and communications equipment makers -- missing a major modem manufacturer -- Wednesday announced a coalition to develop a common standard for a new generation of faster modems running at speeds up to 56 kilobits per second.</p>
+<p>Missing from the coalition was U.S. Robotics Corp., the industry's leading maker of consumer modems and the company credited with pioneering development of 56-kilobit modems, which began shipping its products earlier this week.</p>
+<p>U.S. Robotics and 3Com Corp. later announced that 3Com would buy U.S. Robotics in a deal valued at $6.6 billion.</p>
+<p>Faster modems will dramatically cut the time it takes to access a Web page or download software to a personal computer. The 56-kilobit-per-second speed would effectively double the speed of current 28.8-kilobit-per-second modems.</p>
+<p>The standards group is backed by other makers of modems and related products like Rockwell International Corp., Lucent Technologies Inc. and Motorola Inc.</p>
+<p>Backers of the industry standards effort, to be known as the Open 56 Forum, include leading data and telecommunications equipment makers, semiconductor suppliers and personal computer manufacturers.</p>
+<p>Twenty-eight companies in all signed up initially. In a conference call, supporters of the initiative said the forum would welcome the participation of any company willing to create interoperable 56-kilobit modems, including U.S. Robotics.</p>
+<p>&quot;We have approached U.S. Robotics directly ... to join,&quot; said David Mays, an official at Ascend Communications Inc., a driving force behind the effort to create a common standard.</p>
+<p>But before industry unification can be achieved, the standards-setting group may have to do a better job of encouraging key industry players to participate.</p>
+<p>A spokeswoman for U.S. Robotics said the company was first invited to join the Open 56K Forum less than one hour before the group's announcement was released Wednesday afternoon.</p>
+<p>Asked if U.S. Robotics would consider joining the Open 56K Forum, spokeswoman Sarah Powers responded, &quot;Definitely. We are actively seeking interoperability&quot; in the industry.</p>
+<p>She said Robotics was actively considering participating in the forum's first meeting, slated to be held March 27.</p>
+<p>While Robotics is the first to ship actual products, several vendors have said they plan to ship products in March.</p>
+<p>For example, Motorola introduced two 56-kilobit modems Wednesday, the Modemsurfr 56K and the Voicesurfr 56K. A spokeswoman said the modems will be available by mid-March.</p>
+<p>Until an industrywide standard is created, modems from each supplier will remain incompatible when communicating with modems offered by other suppliers.</p>
+<p>There is wide agreement within the industry that failure to agree on a common standard will create confusion among consumers, delaying acceptance of the higher-speed technology.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I3302004">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I34410">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

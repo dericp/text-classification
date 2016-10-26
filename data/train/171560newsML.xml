@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="171560" id="root" date="1996-11-06" xml:lang="en">
+<title>SWEDEN: ABB to lose 1.5 bln skr China order - paper.</title>
+<headline>ABB to lose 1.5 bln skr China order - paper.</headline>
+<dateline>STOCKHOLM 1996-11-06</dateline>
+<text>
+<p>Swiss-Swedish engineering group ABB is poised to lose a Chinese order for high voltage power transmission equipment worth 1.5 billion crowns, Swedish business daily Dagens Industri (DI) said on Wednesday.</p>
+<p>DI said that although the contract had not been signed, ABB had been unable to match competitor Siemens' bid in the latest round of the tender.</p>
+<p>&quot;It's likely that we won't get the order,&quot; Sten Jakobsson, vice president of ABB's Swedish division told the paper.</p>
+<p>The order is for a 750 kms long 500 kV power transmission link to be installed in the Chinese province of Guangdong.</p>
+<p>-- Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

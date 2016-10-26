@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="178941" id="root" date="1996-11-11" xml:lang="en">
+<title>CANADA: Former Canadian provincial leader dies of cancer.</title>
+<headline>Former Canadian provincial leader dies of cancer.</headline>
+<dateline>CHARLOTTETOWN, Prince Edward Island 1996-11-09</dateline>
+<text>
+<p>A former Liberal premier of the province made famous by the story of &quot;Anne of Green Gables&quot; died of cancer on Friday, the Canadian Press reported.</p>
+<p>Joseph Ghiz, 51, was the premier of Canada's smallest province from 1986 to 1992. After he stepped down he was the Dean of Law at Dalhousie University in Halifax, Nova Scotia, then appointed to the P.E.I. Supreme Court.</p>
+<p>Ghiz was best known by Canadians for the role he played in promoting two failed attempts at trying to persuade largely French-speaking Quebec to sign the Canadian constitution -- the Meech Lake and Charlottetown accords.</p>
+<p>&quot;I say to prophets of perfection: if you want to draft a constitution that meets the test of perfection, find an area where nobody lives, find an area that is uninhabited and draft your perfect constitution,&quot; the Harvard-educated lawyer told detractors of the accord.</p>
+<p>Ghiz was also instrumental in pushing for the construction of a bridge linking P.E.I. to mainland Canada. The bridge was built this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTETOWN, Prince Edward Island"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

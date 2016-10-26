@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191275" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Duramed Q3 net loss vs profit.</title>
+<headline>Duramed Q3 net loss vs profit.</headline>
+<dateline>CINCINNATI 1996-11-15</dateline>
+<text>
+<p>Three Months	  Nine Months</p>
+<p>					     Ended		   Ended</p>
+<p>				    September 30	  September 30</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p> Net sales	     $10,376    $13,153    $32,862    $38,767</p>
+<p>Operating (loss) income</p>
+<p>			  (13,224)	1,077   (16,039)	3,977</p>
+<p> Net (loss) income  (13,629)	  317   (17,562)	1,957</p>
+<p>Net (loss) income available</p>
+<p>to common shareholders</p>
+<p>			  (13,923)	  317   (18,234)	1,957</p>
+<p> Earnings (loss) per share (1.28)   .03     (1.85)	  .18</p>
+<p>Weighted average number of</p>
+<p>shares outstanding</p>
+<p>			10,850,555  10,682,257 9,850,047 10,696,225</p>
+<p>(in thousands except per share amounts and shrs outstanding)</p>
+<p>NOTE: The full company name is Duramed Pharmaceuticals Inc.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CINCINNATI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

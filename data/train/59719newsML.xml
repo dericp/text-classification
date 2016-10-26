@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59719" id="root" date="1996-09-17" xml:lang="en">
+<title>AUSTRALIA: RTRS - ABARE says Australian canola output to fall.</title>
+<headline>RTRS - ABARE says Australian canola output to fall.</headline>
+<dateline>CANBERRA 1996-09-17</dateline>
+<text>
+<p>Australian canola production is forecast to fall by 7.1 percent to 521,000 tonnes in 1996/97 from 561,000 tonnes last year, the Australian Bureau of Agricultural and Resource Economics (ABARE) said on Tuesday.</p>
+<p>&quot;Canola plantings are estimated to have fallen by nine percent to 370,000 hectares in 1996/97,&quot; ABARE said in its September quarter commodities outlook report. It had forecast 1996/97 output of 590,000 tonnes in the June report.</p>
+<p>&quot;The late break in the season in southern Australia delayed sowing and forced some growers to divert land to growing wheat and barley,&quot; it said.  </p>
+<p>&quot;Consequently, Australian canola production is forecast to fall by 7.1 percent in 1996/97, despite good July rainfall which has boosted yield potential,&quot; ABARE said.</p>
+<p>ABARE said the average Australian canola price was forecast to increase by A$12 per tonne to A$385 in 1996/97, reflecting the relatively strong world price outlook.</p>
+<p>It said Australian winter oilseeds output in 1996/97 was forecast to fall by 8.6 percent to 554,000 tonnes and summer output was expected to rise by 29.6 percent to 1.03 million tonnes.  </p>
+<p>&quot;World oilseeds production is forecast to rise to 259 million tonnes in 1996/97 because increased soybean production, mainly in the United States, Brazil and Argentina, is expected to more than offset falls in the output of canola in Canada and Europe, sunflowers in Argentina, and cottonseed in China,&quot; ABARE said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

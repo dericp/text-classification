@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="182706" id="root" date="1996-11-12" xml:lang="en">
+<title>USA: U.S. sells 84,000 lbs surplus bismuth $3.0714/lb.</title>
+<headline>U.S. sells 84,000 lbs surplus bismuth $3.0714/lb.</headline>
+<dateline>WASHINGTON 1996-11-12</dateline>
+<text>
+<p>The U.S. Defense National Stockpile Center said on Tuesday it sold 84,000 lbs of bismuth for about $258,000 or $3.0714 per lb to Allied Deals Inc, New York.</p>
+<p>Next bid opening for bismuth was set for January 22 at 1500 EST at the agency's offices in suburban Fort Belvoir, Virginia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

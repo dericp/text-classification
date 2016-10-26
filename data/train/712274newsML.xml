@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="712274" id="root" date="1997-07-08" xml:lang="en">
+<title>USA: American Home to appeal patent ruling.</title>
+<headline>American Home to appeal patent ruling.</headline>
+<dateline>MADISON, N.J. 1997-07-08</dateline>
+<text>
+<p>American Home Products Corp said Tuesday it would appeal a court ruling ordering it to pay a university and other plaintiffs about $45 million for defrauding them of a vitamin supplement patent.</p>
+<p>&quot;American Home Products believes that the Court misinterpreted the evidence and misapplied the law and will promptly appeal the decision,&quot; it said in a statement.</p>
+<p>On June 7, the U.S. District Court for the District of Colorado ordered the company's American Cyanamid Co subsidiary to pay the University of Colorado and affiliated entities and individuals $44 million in compensatory damages and $1.0 million in punitive damages.</p>
+<p>Judge John Kane said the two researchers involved in the suit against the company were the inventors of the reformulated version of Materna, a pre-natal, multi-vitamin supplement.</p>
+<p>American Home said Cyanamid denied that the researchers were the inventors of the supplement even though they had conducted studies relating to its reformulation in the early 1980s.</p>
+<p>The company acquired Cyanamid in November 1994 after the lawsuit had been filed.</p>
+<p>American Home Products makes prescription and over-the-counter drugs.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADISON, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

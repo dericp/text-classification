@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="168607" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: Toll Brothers sets $100 mln in notes.</title>
+<headline>Toll Brothers sets $100 mln in notes.</headline>
+<dateline>NEW YORK 1996-11-06</dateline>
+<text>
+<p>The following debt issue from Toll Brothers Inc was priced on Wednesday, according to lead manager Salomon Brothers.</p>
+<p>BORROWER TOLL BROTHERS INC</p>
+<p>AMT $100 MLN	 COUPON 8.75 PCT   MATURITY 11/15/2006</p>
+<p>TYPE SNR SUB NOTES ISS PRICE 99.246  FIRST PAY DATE N.A.</p>
+<p>LAST MOODY'S BA3   YIELD 8.865 PCT   PAY FREQ N.A.</p>
+<p>LAST S&amp;P BB-MINUS  SPREAD 257 BP     CALLABLE AFTER FIVE YEARS</p>
+<p>U.S. corporate bond unit, 212 859-1678</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

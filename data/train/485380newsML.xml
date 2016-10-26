@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="485380" id="root" date="1997-04-03" xml:lang="en">
+<title>FRANCE: Ariane gets new INTELSAT launch contract.</title>
+<headline>Ariane gets new INTELSAT launch contract.</headline>
+<dateline>PARIS 1997-04-03</dateline>
+<text>
+<p>Western Europe's Arianespace said on Thursday it won a contract to launch a satellite for INTELSAT, the 18th satellite from the Washington-based body to travel on its rockets.</p>
+<p>It said the INTELSAT K-TV satellite would be launched in late 1998 or early 1999. It will provide video services to the Asia-Pacific region and will be built by France's Matra Marconi Space.</p>
+<p>The satellite will weigh 3.2 tonnes. Financial terms were not disclosed and the statement did not specify whether an Ariane-4 or Ariane-5 rocket would be used.</p>
+<p>The first new generation Ariane-5 rocket exploded in June 1996 seconds after its maiden flight from the European Space Agency (ESA) launch centre in Kourou, French Guiana, on the northeast coast of Latin America.</p>
+<p>Washington-based INTELSAT, with 140 member nations, owns and operates 24 satellites.</p>
+<p>It remains the world's major operator of international satellite services despite recent competition from private non-governmental providers. The organisation said 1996 revenues exceeded $911 million.</p>
+<p>Arianespace controls more than half the world's commercial rocket launch market. It fears, however, that its lead is threatened by consolidation of the U.S. industry -- notably the planned purchase of McDonnell Douglas Corp by Boeing.</p>
+<p>The company said it now had firm orders to launch 41 satellites worth an estimated $3.5 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="I75100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

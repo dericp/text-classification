@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="425252" id="root" date="1997-03-06" xml:lang="en">
+<title>JAPAN: All Tokyo corn futures end sharply lower.</title>
+<headline>All Tokyo corn futures end sharply lower.</headline>
+<dateline>TOKYO 1997-03-06</dateline>
+<text>
+<p>All Tokyo corn futures closed sharply lower on Thursday, due to active selling by local investors, who were discouraged by price falls in the Chicago market overnight, traders said.</p>
+<p>The benchmark March 1998 contract closed 320 yen lower at 15,500 yen per tonne. The day's volume was 76,917 lots.</p>
+<p>All contracts dropped sharply at the opening, as active selling emerged, and the bearish sentiment remained throughout the day, traders said.</p>
+<p>Traders saw the 15,500 yen level as a near-term support line.  </p>
+<p>The spot March corn contract on the CBOT Project A trading system was being traded at $3.00 per bushel at 0810 GMT, against $3.01-3/4 at Wednesday's close.</p>
+<p>The CBOT soybean futures spot March was at $8.00-1/2 at 0810 GMT, down from $8.01-1/4 at Wednesday's close.</p>
+<p>-- Tokyo Commodities Desk +81-3-3432-7391</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

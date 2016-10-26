@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271226" id="root" date="1996-12-20" xml:lang="en">
+<title>THAILAND: PTT Exploration says to borrow $200 mln.</title>
+<headline>PTT Exploration says to borrow $200 mln.</headline>
+<dateline>BANGKOK 1996-12-20</dateline>
+<text>
+<p>Thailand's PTT Exploration and Production Plc said on Friday it plans to borrow loans totalling about $200 million next year to finance development of its Pailin oilfield project in the Gulf of Thailand.  </p>
+<p>PTT Exploration has a 45 percent interest in the Pailin project with Unocal's Thai unit and several other foreign firms.</p>
+<p>It said natural gas from the Pailin project will be sold to the state-owned Petroleum Authority of Thailand (PTT) under a long term contract. PTT Exploration is majority owned by the PTT.</p>
+<p>The PTT will buy 165 million cubic feet of natural gas per day from the Pailin source, PTT Exploration said.</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

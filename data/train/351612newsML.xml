@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351612" id="root" date="1997-02-03" xml:lang="en">
+<title>INDIA: Fire guts Calcutta book fair, one dead.</title>
+<headline>Fire guts Calcutta book fair, one dead.</headline>
+<dateline>CALCUTTA 1997-02-03</dateline>
+<text>
+<p>A raging fire destroyed an international book fair in the eastern Indian city of Calcutta on Monday, killing one person and reducing to ashes thousands of volumes at a make-shift exhibition site, fire officials said.</p>
+<p>Authorities said four people with burns were taken to hospital, where one later died. The victim was not identified.</p>
+<p>They said the fire broke out at about 3:30 p.m. (1000 GMT) at the Calcutta Book Fair in the city's central Maidan area, sparked by a kerosene stove in a dining hall.</p>
+<p>The cluster of temporary structures made of wood, bamboo and tin which housed the book fair was destroyed, fire officials said. One of the fair's organisers estimated damage at more than 100 million rupees ($2.8 million).</p>
+<p>The book fair, which began last Wednesday and was scheduled to close on February 12, had adopted France as its theme and set up a miniature reproduction of Paris's Montmartre area featuring painters and musicians.</p>
+<p>British and German publishers were among the major participants in the fair, which had more than 500 stalls.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

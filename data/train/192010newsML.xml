@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192010" id="root" date="1996-11-15" xml:lang="en">
+<title>TANZANIA: Tanzania shilling weakens on dollar, pound.</title>
+<headline>Tanzania shilling weakens on dollar, pound.</headline>
+<dateline>DAR ES SALAAM 1996-11-15</dateline>
+<text>
+<p>Tanzania's shilling fell versus the dollar and pound on Friday after a week of gains spurred by an International Monetary Fund (IMF) credit deal, dealers said.</p>
+<p>Shillings traded at a commercial mean rate of 594.9900 versus the dollar from Thursday's 594.6831. Against the pound, shillings traded at 992.4463 from 987.3554, central bank said.</p>
+<p>&quot;The recent (downward) movement of the shilling was artificial, and I think next week, it will strengthen to below 600 because of the IMF credit,&quot; one dealer said.</p>
+<p>The IMF announced last week a $234 million Enhanced Structural Adjustment Facility for balance of payments support.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TANZA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAR ES SALAAM"/>
+<dc element="dc.creator.location.country.name" value="TANZANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

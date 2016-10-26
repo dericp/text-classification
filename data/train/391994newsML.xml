@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="391994" id="root" date="1997-02-20" xml:lang="en">
+<title>UK: Morgan Stanley leads 340 mln mark bond for Batavia.</title>
+<headline>Morgan Stanley leads 340 mln mark bond for Batavia.</headline>
+<dateline>LONDON 1997-02-20</dateline>
+<text>
+<p>The following bond was announced by lead manager Morgan Stanley Frankfurt.</p>
+<p> BORROWER   BATAVIA II CREDIT CARD CORP</p>
+<p> AMT    340 MLN DEM   COUPON     **	  LEGAL MAT   10.MAR.11</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  **	  PAY DATE    =</p>
+<p> FULL FEES  2.50	REOFFER    **	  SPREAD	+43 BP</p>
+<p> NOTES	**TO BE PRICED. EXPECTED MATURITY 15.MAR.09</p>
+<p> MOODY/S&amp;P  AAA/AAA   LISTING    LUX	 PAY FREQ    =</p>
+<p> DENOMS (K) 10-100    SALE LIMITS US/UK/GE/CI</p>
+<p> NEG PLG    YES	 CRS DEFLT  NO	  FORCE MAJ   YES</p>
+<p> GOV LAW    ENGLISH   MGT/UND    0.35	SELL CONC   2.15</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

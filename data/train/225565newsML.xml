@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225565" id="root" date="1996-11-29" xml:lang="en">
+<title>UK: NWE oil products broadly steady, fuel barges up.</title>
+<headline>NWE oil products broadly steady, fuel barges up.</headline>
+<dateline>LONDON 1996-11-29</dateline>
+<text>
+<p>NWE oil products were steady aside from stronger fuel oil barges.</p>
+<p>Gasoline was flat but quiet. Eurograde barges asked $214.50 for refinery product but some $212.00 for storage material.</p>
+<p>Naphtha was stable with Dec swaps traded at $223.25 cif NWE. The Skikda port remained closed</p>
+<p>Gas oil was steady with many players sidelined as uncertainty over the record delivery into the November IPE gas oil contract continued.</p>
+<p>High sulphur fuel barges rose $2 on prompt loading problems and filtering December strength. Cargoes held at $120 cif NWE</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

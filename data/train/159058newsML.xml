@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="159058" id="root" date="1996-11-01" xml:lang="en">
+<title>USA: BT talks cap 28-year saga for MCI.</title>
+<headline>BT talks cap 28-year saga for MCI.</headline>
+<byline>Patricia Willens</byline>
+<dateline>NEW YORK 1996-11-01</dateline>
+<text>
+<p>Talk of a possible strategic merger between MCI Communications Corp and British Telecommunications Plc caps a 28-year history of MCI's hammering at the long-distance market once dominated by AT&amp;T Corp.</p>
+<p>Founded by Bill McGowan in 1968 as MICOM, or Microwave Communications of America Inc, the company was the first to be authorized by the Federal Communications Commission to compete against AT&amp;T in the domestic long-distance market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

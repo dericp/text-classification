@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229119" id="root" date="1996-12-02" xml:lang="en">
+<title>USA: U.S. mortgage application volume rose in latest wk. [CORRECTED 14:55 GMT]</title>
+<headline>U.S. mortgage application volume rose in latest wk. [CORRECTED 14:55 GMT]</headline>
+<dateline>NEW YORK 1996-12-02</dateline>
+<text>
+<p>The volume of U.S. mortgage applications rose 9.7 percent in the week ended November 22, according to a Mortgage Bankers Association of America weekly survey.</p>
+<p>Specifically, the volume of applications to refinance mortgages rose 14.6 percent in the latest survey week, while applications to purchase mortgages rose (corrects from fell) 7.6 percent.</p>
+<p>The seasonally adjusted refinancing index rose 3.1 percent to 459.5 from 445.7 the previous week, it said.</p>
+<p>The purchase index rose 1.2 percent to 198.7 in the latest survey from 196.3 in the previous week, it said.  </p>
+<p>Change in Number of Applications Expressed as a Percent</p>
+<p>Week ended Nov 22	One Week    Four Weeks	One Year</p>
+<p>Mortgage applications     Ago	  Ago		 Ago</p>
+<p> Total			  9.7	 10.3		30.0</p>
+<p> Purchase		     7.6	- 1.7		38.6</p>
+<p> Refinancing		 14.6	 48.5		14.8</p>
+<p> Fixed-rate mortgages    12.0	 15.7		24.6</p>
+<p> Adjustable-rate mort.    2.0	- 6.3		55.4</p>
+<p>Composition of Activity for the Week Ended Nov 22</p>
+<p>				 Total		  Conventional</p>
+<p>				No. of   $ Volume    No. of   $ Volume</p>
+<p>				Loans    of Loans    Loans    of Loans</p>
+<p>Percent Refinancing	32.0	33.8	 35.1     35.9</p>
+<p>Percent Adjustable-rate  21.1	28.4	 21.1     29.8</p>
+<p>Percent Balloon	     2.6	 2.6	  3.3	3.1</p>
+<p>Federal Housing Adminstration and Veterans Administration</p>
+<p>Percent Refinancing	21.1     21.4</p>
+<p>Percent Adustable-rate   21.0     21.0</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>			Week Ending  Previous Pct    4 Weeks  1 Year</p>
+<p>Market Composites   Nov 22     Week	Change   Ago	Ago</p>
+<p>Market Index	 236.9	 232.9	1.7   197.7    231.5</p>
+<p>Purchase Index     198.7	 196.3	1.2   178.4    173.0</p>
+<p>Refinancing Index  459.5	 445.7	3.1   309.4    571.6</p>
+<p>Fixed-rate Index   196.0	 188.7	3.9   155.8    199.8</p>
+<p>Adjustable-rate   1094.1	1157.4    - 5.5  1073.9    894.4</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>Conventional	 Week Ending Previous Pct    4 Weeks  1 Year</p>
+<p>Market Indexes	Nov 22	Week     Change   Ago	Ago</p>
+<p>Conventional Index  290.0	287.1	1.0   241.2    296.1</p>
+<p>Purchase Index	247.9	245.5	1.0   220.7    220.7</p>
+<p>Refinancing Index   461.1	456.4	1.0   324.6    602.6</p>
+<p>Fixed-rate Index    240.1	232.5	3.3   189.0    253.7</p>
+<p>Adjustable-rate    1314.1     1408.8    - 6.7  1310.9   1166.8</p>
+<p>			    Seasonally-Adjusted Indexes</p>
+<p>Government	   Week Ending Previous Pct    4 Weeks  1 Year</p>
+<p>Market Indexes	Nov 22	Week     Change   Ago	Ago</p>
+<p>Government Index    148.4	142.3	4.3   124.9    123.5</p>
+<p>Purchase Index	128.9	126.2	2.1   117.7    104.3</p>
+<p>Refinancing Index   445.1	388.0     14.7   234.2    417.1</p>
+<p>Fixed-rate Index    122.6	115.8	5.9   100.4    110.1</p>
+<p>Adjustable-rate     709.1	716.1    - 1.0   656.8    415.8</p>
+<p>--N.A. Treasury Desk, 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="194859" id="root" date="1996-11-16" xml:lang="en">
+<title>USA: Calif. university regents adopt budget proposal.</title>
+<headline>Calif. university regents adopt budget proposal.</headline>
+<dateline>SAN FRANCISCO 1996-11-15</dateline>
+<text>
+<p>The University of California Board of Regents on Friday adopted a proposed 1997-98 budget that calls for general purpose expenditures of $3 billion, an increase of 4.8 percent over this year.</p>
+<p>The Regents took no action regarding student fees, deferring those considerations until January when Gov. Pete Wilson unveils his proposed state budget.  </p>
+<p>&quot;The budget request is the minimum needed to maintain quality and ensure access,&quot; said Larry Hershman, University of California associate vice president and budget director.</p>
+<p>Based on the governor's four-year compact with higher education, the university can expect at least a four-percent increase in state funding for next year for a total of $2.04 billion. That would be slightly less state funding than the University of California received in budget year 1989-1990.</p>
+<p>The University of California budget for 1997-1998 anticipates a general student fee increase of slightly less than 10 percent unless extra state funding is available next year to &quot;buy out&quot; the fee hike, the Regents said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

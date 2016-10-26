@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="347322" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: Park Bancorp Inc Q4 net up.</title>
+<headline>Park Bancorp Inc Q4 net up.</headline>
+<dateline>CHICAGO 1997-01-31</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr			  $0.22			n/a</p>
+<p> Net			    554			164</p>
+<p>				YEAR</p>
+<p> Shr			    n/a			n/a</p>
+<p> Net			  1,061			936</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Park Bancorp Inc converted to a stock company from a mutual in August 1996. Certain per-share figures are not available.</p>
+<p>1996 year earnings include a $753,000 charge for Savings Association Insurance Fund recapitalization. This was offset in part by a corresponding $256,000 decrease in income tax expense.</p>
+<p>	     ((Chicago newsdesk 312 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

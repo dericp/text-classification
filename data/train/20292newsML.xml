@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20292" id="root" date="1996-08-28" xml:lang="en">
+<title>UK: UK July non-EU trade deficit 506 mln stg.</title>
+<headline>UK July non-EU trade deficit 506 mln stg.</headline>
+<dateline>LONDON 1996-08-28</dateline>
+<text>
+<p>The Office for National Statistics released following seasonally adjusted UK non-EU Trade data-</p>
+<p>    UK TRADE NON-EU (in million stg)    July     June  (prev est)</p>
+<p>    Trade balance			 -506    -1,090(-1,127)</p>
+<p>    Exports (FOB)			 6,253    5,752 (5,776)</p>
+<p>    Imports (FOB)			 6,759    6,842 (6,903)</p>
+<p>    Oil exports			     267	290   (291)</p>
+<p>    Oil imports			     387	372   (373)</p>
+<p>    Trade balance 3m to July	 -2,398   -2,643 (-2,740)</p>
+<p>NOTE - forecast 793 million stg deficit.  </p>
+<p>VALUE OF NON EU TRADE BY AREA</p>
+<p>balances in million stg</p>
+<p>    Western Europe (ex EU)	     -285    -511	(-488)</p>
+<p>    North America			  -216    -319	(-324)</p>
+<p>    Other OECD countries		 -221    -278	(-307)</p>
+<p>    Oil exporting countries	     453     390	 (379)</p>
+<p>    Rest of the world		    -237    -372	(-386)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

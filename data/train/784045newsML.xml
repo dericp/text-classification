@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="784045" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: TABLE - Cohr inc Q1 results.</title>
+<headline>TABLE - Cohr inc Q1 results.</headline>
+<dateline>CHATSWORTH, Calif 1997-08-07</dateline>
+<text>
+<p>(in thousands, except per share amounts)</p>
+<p>							  Three Months Ended</p>
+<p>								  June 30</p>
+<p>							  1997		 1996</p>
+<p>    Revenues				     $26,411	    $20,465</p>
+<p>    Direct operating expenses		 19,162	     14,720</p>
+<p>    Gross margin				   7,249		5,745</p>
+<p>Selling, general and</p>
+<p>     administrative expenses		   4,872		4,417</p>
+<p>    Operating income			     2,377		1,328</p>
+<p>    Interest income				  309		  232</p>
+<p>    Interest expense				(14)		  (9)</p>
+<p>    Income before income taxes		 2,672		1,551</p>
+<p>    Provision for income taxes		 1,089		  620</p>
+<p>    Net Income				    $1,583		 $931</p>
+<p>    Net Income Per Share			 $0.24		$0.20</p>
+<p>Weighted Average Number of Common</p>
+<p>Stock and Common Stock</p>
+<p>     Equivalents Outstanding		   6,716		4,735 SOURCE  COHR</p>
+<p>Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHATSWORTH, Calif"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

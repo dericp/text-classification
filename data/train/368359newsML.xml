@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="368359" id="root" date="1997-02-10" xml:lang="en">
+<title>ISRAEL: Israel grain, meal, soy arrivals detailed.</title>
+<headline>Israel grain, meal, soy arrivals detailed.</headline>
+<dateline>TEL AVIV 1997-02-10</dateline>
+<text>
+<p>The following shipments of grain have arrived or are due to arrive in Israeli ports, according to the inspection agency Hevra Klalit Lehashgaha (in tonnes):</p>
+<p>Vessel	     ETA	   Cargo	    Quantity   Origin</p>
+<p>Vera		 unloading   wheat	    21,950     U.S.</p>
+<p>				     sorghum	  11,541</p>
+<p>N. Krivorutsko   10/02	 maize grits     2,200     Europe</p>
+<p>Bobaibo	    14/02	 bran		2,200     Europe</p>
+<p>Chelna	     10/02	 feed wheat	3,000     Europe</p>
+<p>Hazly Payrez     17/02	 barley	   15,487     U.S.</p>
+<p>Rosniev	    n/a	   sunflower meal  2,200     Europe</p>
+<p>Sarha		19/02	 corn, sorghum, 63,000     U.S.</p>
+<p>				     soya</p>
+<p>Lake Champlain   18/02	 barley	   24,500     U.S.</p>
+<p>Kapitan Boglay   21/02	 fish meal	 5,000     Peru</p>
+<p>Fany		 02/03	 corn	     36,000     U.S.</p>
+<p>				     corn gluten</p>
+<p>				     gluten feed</p>
+<p>				     corn screening</p>
+<p>Semion Morozov   12/02	 maize grits     2,950     Europe</p>
+<p>Vlas Chubar	16/02	 sunflower meal  1,500     Europe</p>
+<p>Semion Rudnov    25/02	 maize grits     2,800     Europe</p>
+<p>Liberty Sea	02/03	 n/a		60,000     U.S.</p>
+<p>Ideal Progress   06/03	 n/a		70,000     U.S.</p>
+<p>Gankis.K	   10/03	 sorghum wheat  50,000     U.S.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

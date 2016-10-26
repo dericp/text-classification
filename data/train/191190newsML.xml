@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="191190" id="root" date="1996-11-15" xml:lang="en">
+<title>USA: Gardner Denver stake held by Miami investor.</title>
+<headline>Gardner Denver stake held by Miami investor.</headline>
+<dateline>WASHINGTON 1996-11-15</dateline>
+<text>
+<p>Ira Sochet, a Miami, Fla., investor, said Friday he has purchased a 5.6 percent stake or 273,500 common shares in Gardner Denver Machinery Inc.</p>
+<p>In a filing with the Securities and Exchange Commission, Sochet, who is president of broker-dealer Sochet &amp; Co, said he paid $7.7 million for the stake.</p>
+<p>He said he bought the shares to acquire a significant equity in Gardner Denver, as an investment and because he considers the shares currently undervalued.</p>
+<p>He said his latest transactions include the purchase of 92,700 shares between September 24 and November 7 at prices ranging from $29.78 or $31.78 a share.</p>
+<p>Gardner Denver is a Quincy, Ill.,-based maker of air compressors and blower products for industrial applications and pumps used in oil and gas production.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32830">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

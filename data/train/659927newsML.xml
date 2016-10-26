@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="659927" id="root" date="1997-06-13" xml:lang="en">
+<title>FRANCE: French field pea harvest to start next week.</title>
+<headline>French field pea harvest to start next week.</headline>
+<dateline>PARIS 1997-06-13</dateline>
+<text>
+<p>France's field pea harvest will get under way next week, with farmers due to make the first cuts in the southwest, industry group UNIP said on Friday.</p>
+<p>It said in a report that crop development was one week ahead of average and yield potential was above or in line with last year's at the same stage, depending on regions.</p>
+<p>But low rainfall over the past two weeks had revived concern over moisture shortages for the protein crop in many regions.</p>
+<p>UNIP says France produced 2.59 million tonnes of field peas last year when the average yield was 4.83 tonnes per hectare.</p>
+<p>It says plantings rose 79,000 hectares this year to around 615,000 hectares.</p>
+<p>-- Paris newsroom +331 4221 5432</p>
+<p>	 /dom teh</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="I0100216">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

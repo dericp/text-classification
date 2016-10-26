@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="759725" id="root" date="1997-07-28" xml:lang="en">
+<title>AUSTRALIA: Computershare buys registry services.</title>
+<headline>Computershare buys registry services.</headline>
+<dateline>SYDNEY 1996-07-29</dateline>
+<text>
+<p>Computershare Ltd said on Tuesday it has bought Ernst &amp; Young Registry Services Pty Ltd and KPMG Registrars Pty Ltd for A$39.75 million from their parent accounting firms.  </p>
+<p>The acquisition would be funded from debt and proceeds from the placement of 2.29 million shares with the Bank of Scotland Plc earlier this month, the software developer said.</p>
+<p>The two businesses provide registry services to the Australian, New Zealand and U.K. markets.</p>
+<p>Computershare said the sale followed concerns by the two accounting firms about rule changes requiring registry services to remain independent.</p>
+<p>It did not expect major changes to the operations of either business, and present management and staff would remain.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-07-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

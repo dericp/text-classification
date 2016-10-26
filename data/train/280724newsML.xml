@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="280724" id="root" date="1996-12-30" xml:lang="en">
+<title>ITALY: Rome airport passenger volume rose in 1996.</title>
+<headline>Rome airport passenger volume rose in 1996.</headline>
+<dateline>ROME 1996-12-30</dateline>
+<text>
+<p>More than 23 million passengers passed through Rome's Fiumicino airport in 1996, 9.2 percent more than in 1995, airport management said on Monday.</p>
+<p>Aeroporti di Roma, which is controlled by Italian state holding IRI, also said that turnover at its Fiumicino duty free shops rose 13 percent in 1996 to 120 billion lire.</p>
+<p>Aeroporti, which also manages the capital's second airport at Ciampino, is due to be privatised fully by the end of 1998 with an initial flotation planned for early next year.</p>
+<p>-- Rome newsroom 396 678 2505</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="540659" id="root" date="1997-04-25" xml:lang="en">
+<title>SPAIN: Spain's Matutes back to work after heart attack.</title>
+<headline>Spain's Matutes back to work after heart attack.</headline>
+<dateline>MADRID 1997-04-25</dateline>
+<text>
+<p>Spanish Foreign Minister Abel Matutes resumes work on Friday after recovering from a mild heart attack at the end of March, a ministry spokeswoman said.</p>
+<p>&quot;Today he'll be at the cabinet meeting and this afternoon he heads up to Vallodolid for a conference,&quot; the spokeswoman told Reuters.</p>
+<p>She said Matutes would travel on Saturday with Prime Minister Jose Maria Aznar on his first official visit to the United States.</p>
+<p>&quot;We'll go to New York first...the main course (of the trip) will be the visit to Washington to President Bill Clinton,&quot; Matutes said in a radio interview this morning.</p>
+<p>Matutes suffered a mild heart attack at the end of March and has been recuperating since than.</p>
+<p>The foreign minister would gradually get back to a full work programme, the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

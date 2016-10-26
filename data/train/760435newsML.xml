@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760435" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: National Semiconductor to acquire Cyrix.</title>
+<headline>National Semiconductor to acquire Cyrix.</headline>
+<dateline>RICHARDSON, Texas 1997-07-28</dateline>
+<text>
+<p>National Semiconductor Corp.  said Monday it agreed to buy Cyrix Corp. in a stock deal valued at $550 million, putting National on the map as an Intel Corp. competitor.</p>
+<p>The move by National is also a big bet by the stodgy semiconductor company on the future of super-cheap personal computers and so-called information appliances. The Santa Clara, Calif.-based National is mostly known for its older, analogue components, and more recently for networking chips.</p>
+<p>The companies said they plan to develop new computer chip technology aimed at the low-cost personal computer - the sub-$500 market - and the information-appliance markets.</p>
+<p>&quot;We have now put into place all of the pieces and building blocks necessary to put a complete PC system on a chip. ... Now it is truly possible to enable computing and the information age to reach the masses,&quot; said National Semiconductor Chief Executive Brian Halla, on a conference call with reporters.</p>
+<p>The companies said their merger will allow them to offer chips for sub-$500 personal computers by early 1998. A &quot;system-on-a-chip&quot; refers to a single processor that combines separate functions such as the core processor, memory, and logic functions, all on one chip.</p>
+<p>&quot;This changes the face of the company,&quot; said Drew Peck, a Cowen &amp; Co. analyst. &quot;The most interesting part of this deal is that National believes that the inevitable march of the PC is to the sub-$500 PC.&quot;</p>
+<p>But, in the interim, analysts said the deal will also be a huge boon to Cyrix, which has not been able to make big inroads as a developer of Intel clone microprocessors.</p>
+<p>&quot;Cyrix has lacked manufacturing,&quot; said Nathan Brookwood, a Dataquest Inc. analyst, adding that Cyrix is known as a &quot;fab-less&quot; semiconductor company, which has third parties do its manufacuturing. &quot;National Semi can manufacture the parts that Cyrix has designed, that's a good thing for both.&quot;</p>
+<p>Cyrix has also been under even more pressure in recent months, as Intel has been dropping prices sharply on its microprocessors, which dominate the PC market. And on Monday, Advanced Micro Devices Inc., Intel's biggest rival in the clone business, cut prices on its K6 Pentium-compatible chips.</p>
+<p>&quot;It's a good deal for Cyrix because they were going to fail if they didn't do something,&quot; said Peck of Cowen. &quot;The price wars in the microprocessor business have gotten so bad they were going to fail if they didn't get their own manufacturing. ... National can do a better job selling the mainstream processors designed by Cyrix because they are considered a more reliable source.&quot;</p>
+<p>Cyrix shareholders would receive 0.825 of a National Semiconductor share for each Cyrix share held. National Semiconductor stock closed down 56 cents at $33 in consolidated trading on the New York Stock Exchange, while Cyrix closed up $1.8125 at $23.0625 in Nasdaq trading, and was up another $2 in after-hours trading.</p>
+<p>The tax-free transaction, which still must be approved by Cyrix shareholders, is expected to be completed in November 1997. National said it would take an unspecified, one-time charge in that quarter.</p>
+<p>The deal is another example of consolidation in the computer industry. Earlier Monday, Intel Corp., National Semiconductor's Santa Clara, Calif., neighbour, said it would buy Chips &amp; Technologies Inc. for $420 million in cash.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHARDSON, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

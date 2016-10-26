@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143125" id="root" date="1996-10-25" xml:lang="en">
+<title>COTE D'IVOIRE: Over 30 African states had economic growth.</title>
+<headline>Over 30 African states had economic growth.</headline>
+<dateline>ABIDJAN 1996-10-25</dateline>
+<text>
+<p>Average economic growth in Africa in 1995 was the strongest for five years, with more than half the continent's 53 countries seeing gross domestic product rise by more than three percent, an African Development Bank report showed.</p>
+<p>&quot;The number of African countries with real GDP growth in excess of 3.0 percent increased to 32 from 20 in the year before,&quot; said a statement accompanying the ADfB's African Development Report, 1996, released on Friday.</p>
+<p>&quot;Furthermore, countries with growth rates which were too low to improve per capita income were reduced from 24 to 15,&quot; it said.</p>
+<p>Average growth for the entire continent nearly doubled to 3.0 percent in 1995 from 1.6 percent for the 1990-94 period, the report shows.</p>
+<p>The Abidjan-based AfDB, Africa's premier development institution, forecasts the continent's average growth over the medium-term period to 2000 at 4.6 percent.</p>
+<p>Inflation is also on the decline, with average consumer price inflation down to 25 percent in 1995 from 42.2 percent in 1994.</p>
+<p>The statement said economic growth in the world's poorest continent was due to an improving environment for economic stability and sustainable growth, including the peaceful resolution of some long-running conflicts.</p>
+<p>AfDB's Director of Strategic Planning and Operations Policy, Gabre Michael Woldu, singled out eastern, southern and North Africa as regions that recorded strong growth because of sound policies and improved stability.</p>
+<p>&quot;North Africa has been implementing good policies,&quot; Woldu told a news briefing. &quot;Some efforts have also been made in bringing peace to our region,&quot; he added, citing the democratic transition in South Africa and the end of armed conflicts in Ethiopia, Mozambique and Angola.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFRICA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

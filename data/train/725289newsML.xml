@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="725289" id="root" date="1997-07-14" xml:lang="en">
+<title>UK: OPTIONS - Volatility trades struck in UK shares.</title>
+<headline>OPTIONS - Volatility trades struck in UK shares.</headline>
+<dateline>LONDON 1997-07-14</dateline>
+<text>
+<p>Volatility trades in mining group Rio Tinto and in engineer LucasVarity were among the main UK stock options trades on Monday, dealers said.</p>
+<p>In Rio Tinto, a long strangle was established by buying 500 November 1100 puts at 38p as well as 500 November 1150 calls at 35p. For a profit, the underlying shares need to be volatile and if the position is held to expiry, the shares must either go below 1027p or above 1223p.</p>
+<p>By 1505 GMT, Rio Tinto shares were down 4p to 1009p.</p>
+<p>In LucasVarity, a long straddle was established by buying 250 November 200 puts and calls at 16p and 10-1/2p each.</p>
+<p>For a profit at expiry, the shares need to either go below 173-1/2p or above 226-1/2p.</p>
+<p>LucasVarity shares slipped 1-1/2p to 192-1/2p.</p>
+<p>The biggest deal in pharmaceuticals group Glaxo Wellcome was the rolling forward of a long position involving the sale of 500 July 1300 calls at 41p -- in a closing deal -- and the purchase of 500 October 1300 calls at 87p.</p>
+<p>The shares added 54-1/2p to 1371-1/2p.</p>
+<p>And in British Aerospace, one trader bought put options to hedge against possible losses on a shareholding in the company.</p>
+<p>The deal was to buy 500 November 1350 puts at prices of 75p and 77p against buying British Aerospace shares at 1320p.</p>
+<p>In general if the shares fall, the puts can be exercised to sell 1/2-million shares at 1350p each. And if the shares rally, profits from the shareholding will be reduced by the cost of the puts. British Aerospace shares gained 11p to 1336p.</p>
+<p>In index options, the main deals were the rolling forward of positions ahead of Friday's expiry of FTSE 100 index options and call spreads bought against futures in volatility trades.</p>
+<p>-- Pradip Mishra, London Newsroom +44 171 542 7954</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

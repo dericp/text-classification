@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="253784" id="root" date="1996-12-12" xml:lang="en">
+<title>CHINA: China interbank market rates (CHIBOR) mostly down.</title>
+<headline>China interbank market rates (CHIBOR) mostly down.</headline>
+<dateline>SHANGHAI 1996-12-12</dateline>
+<text>
+<p>Following is the China Interbank Offered Rate (CHIBOR) for Thursday issued by the official Xinhua news agency on behalf of the People's Bank of China, the central bank.</p>
+<p>The figures represent weighted averages and not closing prices and are annual percentage rates.</p>
+<p>		 1DAY   7DAY  20DAY  30DAY  60DAY  90DAY  120DAY</p>
+<p> THURSDAY   11.106 12.434 11.409 11.340 11.383 11.648 12.507</p>
+<p> WEDNESDAY  11.268 11.334 11.957 11.946 11.595 12.053 12.063</p>
+<p>Volume fell to 1.5 billion yuan from 3.4 billion on Wednesday, with the 90-day contract the most active.  </p>
+<p>Traders said rates moved in a narrow range in slow trading, with both state banks and short-term financial centres, money brokerages run by the central bank, reducing their trading volume with the approach of the year-end.</p>
+<p>But they said the rates were likely to go up slightly in the short term because many financial institutions need to borrow money to cover a shortage of funds, with the central bank soon expected to conduct its annual audit of the institutions.</p>
+<p>-- Shanghai newsroom (86-21) 6279-7004</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

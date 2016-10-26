@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="169724" id="root" date="1996-11-06" xml:lang="en">
+<title>USA: PRESALE - Tuscola Cty Bldg Auth, Mich..</title>
+<headline>PRESALE - Tuscola Cty Bldg Auth, Mich..</headline>
+<text>
+<p>AMT: 2,200,000	DATE: 11/13/96	NYC Time: 1200	CUSIP: 900772</p>
+<p>ISSUER: Tuscola Co Building Authority			     ST: MI</p>
+<p>ISSUE: Bldg auth, Series 1996					TAX STAT: Exempt-REV</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 11/01/96							     SURE BID: Y</p>
+<p>DUE: 5/1/97-06						SR MGR:</p>
+<p>1ST CPN: 05/01/97</p>
+<p>CALL: 5/1/03 @ 101, dtp 5/1/05			  NIC</p>
+<p>DELIVERY: 45 days					   ORDERS:</p>
+<p>PAYING AGENT: NBD BAnk, Detroit</p>
+<p>L.O.: John R. Axe &amp; Associates, Gr. Pointe Fms</p>
+<p>F.A.: Municipal Financial Consultants Inc., Grosse Pte Fms</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    175,000</p>
+<p>1998		    185,000</p>
+<p>1999		    190,000</p>
+<p>2000		    200,000</p>
+<p>2001		    210,000</p>
+<p>2002		    225,000</p>
+<p>2003		    235,000</p>
+<p>2004		    245,000</p>
+<p>2005		    260,000</p>
+<p>2006		    275,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

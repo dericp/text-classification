@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="706801" id="root" date="1997-07-04" xml:lang="en">
+<title>UK: MOTOR RACING-VILLENEUVE AND SCHUMACHER BATTLE HOTS UP.</title>
+<headline>MOTOR RACING-VILLENEUVE AND SCHUMACHER BATTLE HOTS UP.</headline>
+<dateline>SILVERSTONE, Britain 1997-07-04</dateline>
+<text>
+<p>Formula One title rivals Jacques Villeneuve of Canada and German Michael Schumacher are poised for the closest fought battle of the season in the British Grand Prix next weekend.</p>
+<p>After testing was completed at Silverstone on Friday Villeneuve clocked one minute 22.239 seconds in the Williams while Schumacher lapped one minute 22.548 in the Ferrari to finish second and third fastest.</p>
+<p>Finn Mika Hakkinen in the McLaren Mercedes may have other thoughts, however, after he set the fastest time of the three-day test in the dry conditions on Friday when he finished in one minute 22.081 seconds.</p>
+<p>Frenchman Jean Alesi was fourth in the Benetton with German Heinz-Harald Frentzen fifth in the other Williams as Damon Hill could only manage 13th place in his Arrows Yamaha after being fourth fastest during the morning session.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SILVERSTONE, Britain"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

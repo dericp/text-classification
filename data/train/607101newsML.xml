@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="607101" id="root" date="1997-05-22" xml:lang="en">
+<title>JAPAN: Hokuetsu Paper -96/97 group results.</title>
+<headline>Hokuetsu Paper -96/97 group results.</headline>
+<dateline>TOKYO 1997-05-22</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Group)	(in billions of yen unless specified)</p>
+<p> Sales		127.74		vs	  124.25</p>
+<p> Operating	   12.27		vs	   11.84</p>
+<p> Current		8.37		vs	    9.52</p>
+<p> Net		    4.69		vs	    4.77</p>
+<p> EPS		   32.42 yen	  vs	   35.91 yen</p>
+<p> Diluted EPS	 31.35 yen	  vs	   34.26 yen</p>
+<p>NOTE - Hokuetsu Paper Mills Ltd is a manufacturer of paper and whiteboards.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="489388" id="root" date="1997-04-05" xml:lang="en">
+<title>USA: BioSafe FY96 net loss widens with charges.</title>
+<headline>BioSafe FY96 net loss widens with charges.</headline>
+<dateline>CAMBRIDGE, Mass 1997-04-04</dateline>
+<text>
+<p>BioSafe International Inc on Friday said its 1996 net loss widened to $13.9 million from a loss of $7.9 million the previous year.</p>
+<p>It said revenues from landfill operations rose to $1,496,000 from $1,344,000. Net royalties from licensing its patented medical waste technology rose to $923,000 from $865,000.</p>
+<p>The company said its 1996 loss reflected charges related to the company's restructuring after a management change in March 1996. The charges included $1,742,000 in restructuring expenses, $2,261,000 for discontinued operations, $834,000 in public relations consulting fees and a write-off of $6,652,000 in landfill development costs, primarily related to its remodeling project in Fairhaven, Massachusetts.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAMBRIDGE, Mass"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

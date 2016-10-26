@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125710" id="root" date="1996-10-18" xml:lang="en">
+<title>MONACO: ATHLETICS-BAILEY INDOOR RECORD RATIFIED.</title>
+<headline>ATHLETICS-BAILEY INDOOR RECORD RATIFIED.</headline>
+<dateline>MONACO 1996-10-18</dateline>
+<text>
+<p>Canadian Olympic champion Donovan Bailey's eight-month-old world indoor 50 metres record has finally been ratified after doubts about the validity of the start.</p>
+<p>Bailey, who set a world record in the Olympic 100 metres final in Atlanta this year, clocked 5.56 seconds in Reno, Nevada. on February 9.</p>
+<p>The mark was ratified this week by the International Amateur Athletic Federation (IAAF).</p>
+<p>&quot;There was some doubt about the validity of the start, but USA Track and Field provided sufficient documentation to confirm the regularity of the race,&quot; an IAAF statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MONAC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONACO"/>
+<dc element="dc.creator.location.country.name" value="MONACO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="481628" id="root" date="1997-04-02" xml:lang="en">
+<title>JORDAN: Iraq's defence minister treated in Jordan hospital.</title>
+<headline>Iraq's defence minister treated in Jordan hospital.</headline>
+<dateline>AMMAN 1997-04-02</dateline>
+<text>
+<p>Doctors at a Jordanian hospital have operated on Iraqi Defence Minister General Sultan Hashim Ahmed to remove an abscess, a hospital official said on Wednesday.</p>
+<p>The official at the King Hussein Medical City hospital said Ahmed was admitted on Monday and was expected to make a full recovery.</p>
+<p>&quot;It was a minor thing. He is in good condition,&quot; the official told Reuters. He gave no details of the operation.</p>
+<p>He said the minister had been brought to Amman because doctors in sanction-hit Baghdad lacked the equipment to give a reliable diagnosis when he was taken ill.</p>
+<p>Doctors said the scan he underwent before the operation -- Magnetic Resonance Imaging -- suggested the absess was likely to have been on his brain.</p>
+<p>Unusual activity at the hospital on Monday prompted a wave of rumours in Amman that Iraqi President Saddam Hussein's son Uday, injured in a gun attack four months ago, had come to Jordan for treatment.</p>
+<p>But the official said he had not been admitted.</p>
+<p>A wheelchair-bound Uday said in a television interview last month that Iraqi and French doctors would soon operate on his left leg.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

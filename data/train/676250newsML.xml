@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="676250" id="root" date="1997-06-20" xml:lang="en">
+<title>USA: OPTIONS- T-bond vols bounce, expiry trigger uptick.</title>
+<headline>OPTIONS- T-bond vols bounce, expiry trigger uptick.</headline>
+<dateline>CHICAGO 1997-06-20</dateline>
+<text>
+<p>Implied volatilities for U.S. Treasury bond options bounced off early lows in late trade as the underlying bond market became choppier in the afternoon, traders said.</p>
+<p>July T-bond futures options on the Chicago Board of Trade (CBOT) expired at noon, triggering a wave of futures buying by those who had shorted 112 calls because September futures were hovering well above 112-00 around that time, they added.</p>
+<p>&quot;I think there was some final covering from shorts in July 112 calls,&quot; said a trader for a brokerage firm at the CBOT.  </p>
+<p>Traders said shorting expiring options had been a popular play in recent months as futures tended to stick around the strike price with high open interest concentration.</p>
+<p>September T-bond futures were hovering near 112-1/2 for most of the morning, after closing at 112-6/32 on Thursday, and then rallied to a high of 112-24/32 in the afternoon following the July option expiration.</p>
+<p>July 112 calls had open interest of 31,608 contracts at the end of Thursday's session, while 111 and 113 calls had 18,757 and 15,247 respectively.  </p>
+<p>Open interest in July 112 puts stood at 12,987 contracts as of Thursday, while that in 111 and 113 puts stood at 13,640 and 143 respectively.</p>
+<p>A trader for a bank affiliate said that there was good interest in bonds from fund managers to start with, and that probably resulted in the July call short-squeeze.</p>
+<p>&quot;There seemed to be a lot of fund activity going on that pretty much washed out the big open interest in the 112 calls,&quot; he said. &quot;I think the funds overwhelmed the market with buy orders (in bonds) today.&quot;  </p>
+<p>On the whole, option flows were moderate.</p>
+<p>Volatilities eased in early trade as market-makers marked down weekend time-decay, and then bounced back up due in part to the rally in bonds despite overbought technical indicators.</p>
+<p>Implied volatilities for August and September T-bond futures options were assessed at around 7.5 and 8.2 percent in late trade, virtually unchanged on the day.</p>
+<p>At the shorter end of the yield curve, Eurodollar options on the Chicago Mercantile Exchange (CME) had a slow day as the underlying futures market edged marginally firmer.  </p>
+<p>&quot;Bonds are rallying big and the Euros can't rally at all -- we're only up one tick (basis point in December futures),&quot; said a trader for a European firm.</p>
+<p>Implied volatility for December Eurodollar futures options was off 0.2 point at 9.8 percent shortly before the close.</p>
+<p>Among the largest trades, a Japanese firm was said to have sold some 2,500 contracts of December 93.75/94.20 strangles.</p>
+<p>-- Chicago Derivatives Desk ((312-408-8750))</p>
+<p>E-mail: derivatives@reuters.com</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

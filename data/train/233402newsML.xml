@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233402" id="root" date="1996-12-04" xml:lang="en">
+<title>ABU DHABI: SOCCER-ASIAN CUP GROUP A RESULTS.</title>
+<headline>SOCCER-ASIAN CUP GROUP A RESULTS.</headline>
+<dateline>ABU DHABI 1996-12-04</dateline>
+<text>
+<p>Results of group A matches in the</p>
+<p>Asian Cup on Wednesday;</p>
+<p>United Arab Emirates 1 South Korea 1 (halftime 1-1)</p>
+<p>Scorers:</p>
+<p>UAE - Khamis Saad 40.</p>
+<p>South Korea - Hwang Sun-hong 9.</p>
+<p>Attendance: 35,000</p>
+<p>Indonesia 2 Kuwait 2 (2-0)</p>
+<p>Scorers:</p>
+<p>Indonesia: Widodo Purta 20, Ronny Wabia 41</p>
+<p>Kuwait: Hani Saqer 73, Yousif Al-Dakhi 84 pen</p>
+<p>Attendance: 3,000</p>
+<p>    Group A standings - Pl   W   D   L   F   A   Pts</p>
+<p> Indonesia		   1   0   1   0   2   2    1</p>
+<p> Kuwait			1   0   1   0   2   2    1</p>
+<p> South Korea		 1   0   1   0   1   1    1</p>
+<p> United Arab Emirates    1   0   1   0   1   1    1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ABDBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABU DHABI"/>
+<dc element="dc.creator.location.country.name" value="ABU DHABI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

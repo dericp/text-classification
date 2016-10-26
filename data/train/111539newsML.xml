@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111539" id="root" date="1996-10-11" xml:lang="en">
+<title>BAHRAIN: Saudi Investment Bank nine-month net up 40.5 pct.</title>
+<headline>Saudi Investment Bank nine-month net up 40.5 pct.</headline>
+<dateline>MANAMA 1996-10-11</dateline>
+<text>
+<p>Nine months to September 30, 1996</p>
+<p>		    (million riyals unless stated)</p>
+<p> Net profit		    87.5	     vs  62.2</p>
+<p> Operating income	   448.7	     vs 395.6</p>
+<p> Operating expenses	 361.5	     vs 333.8</p>
+<p> Provision		     15.0	     vs  15.0</p>
+<p> Shareholders' equity	 1.32 billion  vs 490.6</p>
+<p> Net loans and advances     3.58 billion  vs   3.46 billion</p>
+<p> Total deposits		 7.32 billion  vs   5.97 billion</p>
+<p> Assets			   9.84 billion  vs   7.82 billion</p>
+<p>Full Name: The Saudi Investment Bank.</p>
+<p>Note - The Riyadh-based bank has increased its paid-in capital to 720 million riyals from 180 million riyals. It is owned by Saudi investors and several Saudi and foreign banks including Chase Manhattan Corp and Industrial Bank of Japan Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

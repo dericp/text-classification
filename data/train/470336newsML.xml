@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="470336" id="root" date="1997-03-26" xml:lang="en">
+<title>USA: Lincoln looks for American States buyer - WSJ.</title>
+<headline>Lincoln looks for American States buyer - WSJ.</headline>
+<dateline>NEW YORK 1997-03-26</dateline>
+<text>
+<p>Lincoln National Corp is considering selling its property casualty business American States Financial Corp and Goldman, Sachs &amp; Co has sought potential buyers, the Wall Street Journal said.</p>
+<p>Goldman investment bankers had &quot;sounded out&quot; acquirers in recent weeks and a number of property casualty companies were thought to be interested, the paper said in Wednesday's electronic edition, citing people familiar with the matter.</p>
+<p>American States shares have risen on speculation it might be up for sale.</p>
+<p>Lincoln National, which owns an 83 percent stake in American States, recently declined to comment on such talk but told Reuters on March 7: &quot;All options are open. We look at opportunities as they come and we don't preclude anything.&quot;</p>
+<p>((New York newsdesk 212-859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

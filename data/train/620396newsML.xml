@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="620396" id="root" date="1997-05-28" xml:lang="en">
+<title>USA: U.S. Mint tenders for 1,900,000 kg shg zinc.</title>
+<headline>U.S. Mint tenders for 1,900,000 kg shg zinc.</headline>
+<dateline>WASHINGTON 1997-05-28</dateline>
+<text>
+<p>The U.S. Mint said on Tuesday it was seeking 1,900,000 kg of special high grade zinc for delivery to processors in the week beginning June 30 or July 7.</p>
+<p>The Mint said it would review offers at 10 a.m. EDT (1400 GMT) on June 3.</p>
+<p>The Mint said the full quantity was for delivery by rail to Alltrista Corp in Greeneville, Tennessee.</p>
+<p>((-- Washington Commodities Desk (202) 898-8300))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

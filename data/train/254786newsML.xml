@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="254786" id="root" date="1996-12-13" xml:lang="en">
+<title>COLOMBIA: Colombia Congress, in reversal, approves anti-drug law.</title>
+<headline>Colombia Congress, in reversal, approves anti-drug law.</headline>
+<dateline>BOGOTA 1996-12-12</dateline>
+<text>
+<p>In an abrupt about-face, Colombia's Congress overwhelmingly approved on Thursday the retroactive seizure of property and assets accumulated by the country's billionaire drug barons over the past 20 years.</p>
+<p>The lower house of Congress, which rejected the measure just 48 hours earlier, passed it by a huge 103-4 majority.  </p>
+<p>The surprise vote in the House of Representatives followed the bill's unanimous approval in the Senate earlier Thursday.</p>
+<p>The Senate had already approved the bill last week, but a new vote was scheduled on Thursday by a legislative committee that overturned the lower house's rejection of the 20-year time limit on so-called asset forfeiture Tuesday night.</p>
+<p>The House had rejected the time limit by 59-57, ruling instead that property linked to convicted drug lords should only be liable to forfeiture if it was accumulated in the aftermath of Colombia's 1991 constitution.</p>
+<p>Government officials led by President Ernesto Samper rejected the House vote as a national disgrace, saying it was tantamount to legalizing all ill-gotten gains acquired since Colombia's booming trade in narcotics began in earnest in the late 1970s.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

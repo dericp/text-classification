@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="338757" id="root" date="1997-01-28" xml:lang="en">
+<title>LEBANON: Lebanon navy rescues 50 stranded Kurds.</title>
+<headline>Lebanon navy rescues 50 stranded Kurds.</headline>
+<dateline>TRIPOLI, Lebanon 1997-01-28</dateline>
+<text>
+<p>The Lebanese navy on Tuesday rescued 50 Lebanon-based Iraqi Kurds who had been stranded without food for three days on a small island off northern Lebanon, security sources said.</p>
+<p>The Kurds, who included women and children, said they had paid a Lebanese man to take them to Europe by boat but were instead dumped on Ramkeen island, a small nature reserve three km (two miles) off the northern port of Tripoli, the sources added.</p>
+<p>Thousands of Kurds who fled Iraq and Turkey live in Lebanon.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRIPOLI, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

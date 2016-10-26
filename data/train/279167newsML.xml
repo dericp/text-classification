@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="279167" id="root" date="1996-12-28" xml:lang="en">
+<title>CYPRUS: Police clash with worshippers at Bahraini mosques.</title>
+<headline>Police clash with worshippers at Bahraini mosques.</headline>
+<dateline>NICOSIA 1996-12-28</dateline>
+<text>
+<p>Riot police clashed with worshippers near mosques in Bahrain over the weekend and arrested several people, an opposition group said on Saturday.</p>
+<p>&quot;Riot police carried out acts of aggression against worshippers at Ras Roman mosque on Friday,&quot; the London-based Islamic Freedom Movement said in a statement.</p>
+<p>&quot;They beat and arrested a large number of citizens after noon prayers,&quot; the statement said.</p>
+<p>A Bahraini government official told Reuters police had dispersed a group of people who had gathered near the mosque in the capital Manama, but gave no details.</p>
+<p>The opposition statement said police also clashed with worshippers at a mosque in the Shi'ite village of Daih, five km (three miles) west of Manama, on Thursday after women staged a demonstration in the nearby village of Sanabis.</p>
+<p>It said the demonstrators were demanding the release of Sheikh Abdul-Amir al-Jamri, a prominent Shi'ite clergyman and a former member of parliament, who was detained 11 months ago.</p>
+<p>Around 27 people have been killed in two years of sporadic unrest by members of Bahrain's majority Shi'ite Moslem community seeking political and economic reforms.</p>
+<p>Hundreds of people have also been detained in connection with waves of violence, arson attacks and protests.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

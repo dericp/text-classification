@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="229959" id="root" date="1996-12-02" xml:lang="en">
+<title>TAIWAN: Acer, China Development in T$1.5 bln joint venture.</title>
+<headline>Acer, China Development in T$1.5 bln joint venture.</headline>
+<dateline>TAIPEI 1996-12-02</dateline>
+<text>
+<p>Taiwan's China Development Corp said on Monday it was planning a T$1.5 billion joint venture in integrated-circuit testing and packaging with Taiwan computer giant Acer Inc.</p>
+<p>A spokesman for China Development Corp, one of Taiwan's top venture capital and investment firms, said an investment arm of Taiwan's ruling Nationalist Party also was interested in the venture.</p>
+<p>&quot;The plan is still in its initial stage and we have not yet worked out details,&quot; he said by telephone.</p>
+<p>Many analysts predict the semiconductor industry, which has endured a fierce price war in 1996, would recover in 1997.</p>
+<p>-- Taipei Newsroom (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

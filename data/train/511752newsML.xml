@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="511752" id="root" date="1997-04-15" xml:lang="en">
+<title>JAPAN: Japan March crude steel output up 9.5 pct yr/yr.</title>
+<headline>Japan March crude steel output up 9.5 pct yr/yr.</headline>
+<dateline>TOKYO 1997-04-15</dateline>
+<text>
+<p>Japan's crude steel output rose 9.5 percent in March from a year earlier to 8.91 million tonnes, the Japan Iron and Steel Federation said on Tuesday.</p>
+<p>The March figure was up 7.6 percent from February, the industry group said in a statement.  </p>
+<p>Japan's crude steel output in the year to March 31, 1997, was up 0.8 percent from the previous year to 100.81 million tonnes, the federation said.</p>
+<p>March output of tin plate was 128,700 tonnes, down 5.7 percent year-on-year and up 4.1 percent month-on-month, the federation said.</p>
+<p>Production of galvanised steel sheet in March was 1.15 million tonnes, up 16.6 percent year-on-year and up 14.0 percent month-on-month, it said.</p>
+<p>Japan's 1996/97 tin plate output was 1.56 million tonnes, down 6.1 percent from 1995/96 and its 1996/97 galvanised steel sheet output was 11.74 million tonnes, up 1.6 percent from 1995/96.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

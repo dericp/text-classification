@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="614120" id="root" date="1997-05-26" xml:lang="en">
+<title>PAKISTAN: Pakistani stocks end down on profit taking.</title>
+<headline>Pakistani stocks end down on profit taking.</headline>
+<dateline>KARACHI, Pakistan 1997-05-26</dateline>
+<text>
+<p>Pakistani stocks ended down on Monday as jobbers booked profits and squared their positions ahead of Tuesday's settlement day, dealers said. The Karachi 100-share index ended 9.72 points, or 0.63 percent, down at 1,524.79. Profit-taking pulled the index down, one dealer of Fortune Securities said. Engro Chemical fell 3.00 rupees to 149, Dewan Salman Fibre 0.90 to 34.10, ICI Pakistan 0.27 to 23.93 and Pakistan State Oil one to 310 at 14.08 p.m. (0908 GMT). -- Ibrahim Khan 9221-5685192</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

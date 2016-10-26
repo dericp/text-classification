@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="617167" id="root" date="1997-05-27" xml:lang="en">
+<title>SPAIN: Spain's CNMV approves Fincafe's SEDA bid.</title>
+<headline>Spain's CNMV approves Fincafe's SEDA bid.</headline>
+<dateline>MADRID 1997-05-27</dateline>
+<text>
+<p>Spain's stock market commission said on Tuesday it approved a bid by France's Financiere de Cafe SL (Fincafe) for 100 percent of the capital of Sociedad Espanola de Alimentos SA (SEDA).</p>
+<p>The offer extends to 348,288 shares at 1,000 pesetas nominal value, which is 45.98 percent of the share capital of SEDA and excludes the 54.02 percent owned by Financiera Alimentaria SA.</p>
+<p>Fincafe, 90 percent owned by Cie Financiere de Paribas, said in its offer that it planned to buy Financiera Alimentaria if the bid was approved.</p>
+<p>-- Madrid newsroom + 34 1 585 2151</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

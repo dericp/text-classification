@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="434313" id="root" date="1997-03-11" xml:lang="en">
+<title>CYPRUS: Cyprus repo yield rises to 4.57 percent.</title>
+<headline>Cyprus repo yield rises to 4.57 percent.</headline>
+<dateline>NICOSIA 1997-03-11</dateline>
+<text>
+<p>The average yield on a repo auction held between the Cyprus central bank and commercial banks was 4.57 percent on Tuesday from 4.25 percent at the last auction held on February 26, the bank said.</p>
+<p>Bids totalled 50.4 million pounds for the 40.5 million pounds worth of bills on offer. Yields ranged from 4.34 to 4.78 percent, the central bank said in a news release.</p>
+<p>--Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

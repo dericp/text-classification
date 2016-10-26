@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="82285" id="root" date="1996-09-27" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times front page - Sept 27.</title>
+<headline>PRESS DIGEST - New York Times front page - Sept 27.</headline>
+<dateline>NEW YORK 1996-09-27</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page on Friday:</p>
+<p>* A second day of gunfire between Arabs and Israelis swept across the West Bank and into the Gaza Strip on Thursday, killing 39 Palestinians and 11 Israelis.</p>
+<p>* A split is forming among Israelis over confidence in the peace initiatives with Palestinian forces.</p>
+<p>* Frustration and dashed hopes for lasting peace fed the anger of Palestinians that contributed to this week's outbreak of violence.</p>
+<p>* Shuttle astronaut Shannon Lucid returned to Earth after six months in space.</p>
+<p>* The Senate sustained President Clinton's veto of a bill that would have banned a form of late-term abortions.</p>
+<p>* House of Representatives Newt Gingrich was targeted in four new charges by the House Ethics Committee.</p>
+<p>* Household income rose in 1995 for the first time in six years, the Census Bureau reported on Thursday.</p>
+<p>--New York Newsdesk (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

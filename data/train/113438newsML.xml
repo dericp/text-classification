@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="113438" id="root" date="1996-10-14" xml:lang="en">
+<title>USA: U.S. independent bankers plan credit card service.</title>
+<headline>U.S. independent bankers plan credit card service.</headline>
+<dateline>FARGO, N.D. 1996-10-14</dateline>
+<text>
+<p>The board of directors of the Independent Bankers Association of America (IBAA) Monday approved a plan to provide credit card services for smaller community banks.</p>
+<p>The IBAA said the plan, announced at the group's fall meeting, calls for formation of a limited-purpose credit card bank.</p>
+<p>The bank will be established by IBAA Bancard Inc., the trade association's 11-year-old card and payment services subsidiary.  </p>
+<p>&quot;In an era of heightened credit card competition and increased bank merger activity, this credit card bank will allow community bankers to pool their resources to offer credit card products to consumers,&quot; said Leland M. Stenehjem, IBAA president.</p>
+<p>&quot;Community banks are increasingly frozen out as direct issuers and left to choose from agent programs of mega-bank issuers,&quot; said Dave Ballweg, chairman of IBAA Bancard. &quot;They received limited income potential, and few, if any, safeguards against cross-sell tactics that jeopardize a bank's best customer relationships.</p>
+<p>IBAA represents 5,500 independent community banks in the U.S.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="I8150108">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FARGO, N.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

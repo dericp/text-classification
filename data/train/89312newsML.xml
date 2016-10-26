@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="89312" id="root" date="1996-10-01" xml:lang="en">
+<title>INDIA: Key Indian metals fall on state firm's new prices.</title>
+<headline>Key Indian metals fall on state firm's new prices.</headline>
+<dateline>BOMBAY 1996-10-01</dateline>
+<text>
+<p>Key Indian metals' prices fell on Tuesday as price-setter, state-owned Hindustan Zinc announced cuts in its October selling prices, dealers said.</p>
+<p>Zinc and lead attracted offerings on Hindustan's cut in selling prices. Ready zinc fell by 125 rupees to 6,200 rupees per quintal while lead slid by 50 rupees to 4,950 rupees.</p>
+<p>The state firm cut prices of zinc by 1,500 rupees per tonne and of lead by 500 rupees for October. Its new prices are 59,000 rupees per tonne for high grade zinc, 59,600 rupees for special high grade zinc and, 51,700 rupees and 51,900 rupees for two lead varieties.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

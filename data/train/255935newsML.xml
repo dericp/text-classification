@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255935" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Tosco to test downed Bayway unit on Friday.</title>
+<headline>Tosco to test downed Bayway unit on Friday.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>A downed fluid catalytic cracking unit at Tosco Corp's Bayway, New Jersey refinery will be tested Friday for a possible return to full operations, a source familiar with plant operations said.</p>
+<p>&quot;Oil will be put back into the unit today...it's not going to be down for a very long time,&quot; said the source.</p>
+<p>An exact return date was not possible until tests were evaluated, the source said.</p>
+<p>The FCC unit was put out of action on Wednesday night after a small fire at the unit's relief valve.</p>
+<p>The cat cracker has a rated capacity of 140,000 barrels per day (bpd), one of the largest in the world. Overall distillation capacity at Bayway is 290,000 bpd.</p>
+<p>--New York Energy Desk, +1 212 859 1828</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

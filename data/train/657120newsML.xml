@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="657120" id="root" date="1997-06-12" xml:lang="en">
+<title>BANGLADESH: Dhaka stocks close higher on budget hopes.</title>
+<headline>Dhaka stocks close higher on budget hopes.</headline>
+<dateline>DHAKA 1997-06-12</dateline>
+<text>
+<p>Dhaka stocks closed higher on Thursday on hopes that the 1997/98 budget to be announced later in the day might spell out measures to boost the capital market, brokers said.</p>
+<p>The Dhaka Stock Exchange (DSE) all-share price index closed 1.05 percent up at 1,157.43 on a turnover of 53.4 million taka. Of 132 issues traded 93 gained, 31 lost and eight were unchanged.</p>
+<p>Monno Jutex Industries Ltd gained 171 taka to 3,921, United Leasing Company gained 38.44 taka to 2,541.77 while Pdma Textile Mills shed 7.48 to 494.14.</p>
+<p>- Dhaka Newsroom +880-2-506363</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

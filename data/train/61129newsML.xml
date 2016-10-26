@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61129" id="root" date="1996-09-18" xml:lang="en">
+<title>CZECH REPUBLIC: Details of Czech GDP for first half 1996.</title>
+<headline>Details of Czech GDP for first half 1996.</headline>
+<dateline>PRAGUE 1996-09-18</dateline>
+<text>
+<p>The following is a quarterly breakdown of Czech gross domestic product (GDP) for the first half of 1996, as released by the Czech Statistical Bureau (CSU) on Wednesday.</p>
+<p> CZECH GDP			    Q2 96	Q1 96	 H1 96</p>
+<p>  real change yr/yr (pct)	  +4.0   +4.6  (+4.3)    +4.3</p>
+<p>  real amount (czk bln)	   294.9  284.8 (287.1)   579.7</p>
+<p>  household demand		   +5.0   +6.0  (+6.0)    +5.5</p>
+<p>  public-sector demand		0.0   +0.2  (-1.7)    +0.1</p>
+<p>  gross creation/fixed capital  +20.1  +14.0 (+13.8)   +17.8</p>
+<p>  chg stock/reserves		 -7.7  +20.4   n/a     +16.2</p>
+<p>  exports goods/services	   +6.5   +2.7  (+3.5)    +4.7</p>
+<p>  imports goods/services	  +12.5   +9.4  (+9.7)   +11.0</p>
+<p>Note. All figures are subject to revision. All results measure percentage change for period, year-on-year, except where listed as being in crowns. All percentage changes, and total amount listed in real, inflation adjusted terms.</p>
+<p>The CSU changed the methodology for calculating the inflation adjusted real amount in billions of crowns at the beginning of the year. All figures use 1994 as a base.</p>
+<p>The CSU has not released the real percentage changes for 1995 re-calculated using the new methodology. Nominal 1995 figures using the new methodology -- 1989 was the previous base</p>
+<p>-- are outlined below.</p>
+<p>  REVISED 1995 CZECH GDP	 Q1    Q2	Q3     Q4     1995</p>
+<p>  NOMINAL (in CZK bln)	288.9  310.8   327.1  325.3 1,252.1</p>
+<p>  REAL			    272.2  283.6   296.6  284.6 1,137.0</p>
+<p>Note. Above inflation adjuseted figures use new methodology with 1994 prices as the base. Deflator used for 1995 real gdp results was 10.1 percent, compared with 7.9 percent for the first quarter and 9.1 percent for the second quarter 1996.</p>
+<p>Czech 1995 GDP, using the old methodolgy grew 4.8 percent, with growth of 3.9 percent in the first quarter, 4.0 percent in the second quarter.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="675085" id="root" date="1997-06-20" xml:lang="en">
+<title>USA: US banking, insurance industries concerned by bill.</title>
+<headline>US banking, insurance industries concerned by bill.</headline>
+<dateline>WASHINGTON 1997-06-20</dateline>
+<text>
+<p>The U.S. banking and insurance industries both said they were concerned by aspects of a financial-sector modernization bill passed by the House Banking Committee on Friday.</p>
+<p>But, in separate statements, neither group expressed outright opposition nor said it would try to block the bill as it moves through the legislative process.</p>
+<p>&quot;While there are a number of positive provisions in the bill, we have deep concerns about several provisions, which clearly must be changed,&quot; the American Bankers Association said.  </p>
+<p>Bankers were opposed to provisions relating to bank insurance activities, in particular a special carve-out granted to the title insurance industry from the general provisions of the bill, the bankers association said.</p>
+<p>Bankers were also opposed to a provision added by Rep. Maxine Waters, a California Democrat, which the ABA said would become a new, burdensome regulation mandating specific banking services.</p>
+<p>The association also was concerned by an amendment that would enable commercial firms to directly engage in banking.  </p>
+<p>However, bankers were pleased by a provision that would merge the federal thrift and national bank charters and by the changes envisioned for the Federal Home Loan Bank System.</p>
+<p>The Independent Insurance Agents of America said insurers were disappointed by a new standard that federal banking regulators could use to preempt state insurance consumer laws.</p>
+<p>&quot;When coupled with (other standards) the Office of the Comptroller of the Currency would have an array of avenues to attack legitimate state insurance consumer laws and regulations,&quot; the insurance association said.  </p>
+<p>The group said it was also concerned by a proposal to set up a National Association of Registered Agents and Brokers as a interstate clearinghouse for licensing insurance agents.</p>
+<p>However, insurance agents applauded the banking committee's decision to add consumer protection provisions and other provisions of the bill, the association said.</p>
+<p>((-- Washington Newsroom (202) 898-8300))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

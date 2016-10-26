@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="521783" id="root" date="1997-04-18" xml:lang="en">
+<title>SWITZERLAND: SAirGroup details ownership structure.</title>
+<headline>SAirGroup details ownership structure.</headline>
+<dateline>ZURICH 1997-04-18</dateline>
+<text>
+<p>SAirGroup provided the following details of its ownership structure as of December 31, 1996, in its 1996 annual report:</p>
+<p> Owners:		Number of	Number of     Percentage of</p>
+<p>			  shareholders   shares held   company held</p>
+<p>Private banks</p>
+<p> and insurers	 253		518,673	 22.4</p>
+<p> Private persons    39,951	   435,670	 18.9</p>
+<p> Public sector	63		 470,520	 20.4</p>
+<p> Partner airlines   two		169,000	 7.3</p>
+<p> Various companies  525		123,917	 5.4</p>
+<p> Pension funds	245		228,143	 9.9</p>
+<p> Reserved shares    --		 39,675	  1.7</p>
+<p>Shares not entered</p>
+<p> in share register  322,417	 14.0</p>
+<p> Total		  --		 2,308,015     100</p>
+<p> Swiss persons	38,579	   1,402,801     60.8</p>
+<p> Foreign persons    2,460	    543,122	 23.5</p>
+<p> Not listed	   --		 362,092	 15.7</p>
+<p>-- Peter Nielsen, Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

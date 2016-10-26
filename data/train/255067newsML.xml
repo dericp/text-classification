@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255067" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: NYMEX to raise natgas futures margins Monday.</title>
+<headline>NYMEX to raise natgas futures margins Monday.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>The New York Mercantile Exchange (NYMEX) said Friday it will increase the margins on its three natural gas futures contracts as of the close of business Monday, December 16.</p>
+<p>Initial margins for Henry Hub gas futures will be raised to $4,300 from $3,800 for clearing members; to $4,730 from $4,180 for members; and to $5,805 from $5,130 for customers.</p>
+<p>For Permian Basin futures, margins will be increased to $3,000 from $2,500 for clearing members; to $3,300 from $2,750 for members; and to $4,050 from $3,375 for customers.</p>
+<p>For Alberta futures, margins will rise to $2,500 from $2,000 for clearing members; to $2,750 from $2,200 for members; and to $3,375 from $2,700 for customers.</p>
+<p>--New York Power Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

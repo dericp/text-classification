@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="786727" id="root" date="1997-08-07" xml:lang="en">
+<title>JAPAN: JAPAN BANK SHARES REVIVE ON SHORT-COVERING.</title>
+<headline>JAPAN BANK SHARES REVIVE ON SHORT-COVERING.</headline>
+<dateline>TOKYO 1997-08-07</dateline>
+<text>
+<p>Shares in Japan's banking sector revived in Thursday morning trade on short-covering by market participants, brokers said.</p>
+<p>As of 0121 GMT, the Long-Term Credit Bank of Japan was up 50 yen 584, with trade totalling 5.06 million shares, making it the most heavily traded issue on the first section of the Tokyo bourse.</p>
+<p>It was followed by the Industrial Bank of Japan Ltd  with 2.96 million shares, up 40 yen at 1,700. Daiwa Bank was up 19 yen at 592, ranking third with 2.89 million shares traded.  </p>
+<p>&quot;News on Wednesday that Japan was approving issuance of perpetual bonds by corporations ignited the short-covering, although there is some speculation that some market participants are trying to square positions,&quot; a trader at a foreign brokerage said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

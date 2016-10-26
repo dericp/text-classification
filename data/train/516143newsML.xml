@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516143" id="root" date="1997-04-17" xml:lang="en">
+<title>USA: High Plains chairman/president retires.</title>
+<headline>High Plains chairman/president retires.</headline>
+<dateline>WICHITA, Kan. 1997-04-17</dateline>
+<text>
+<p>High Plains Corp said Thursday that Stanley Larson, chairman and president, had retired.</p>
+<p>Daniel Skolness will succeed him as chairman, and Raymond Friend was named president, the company said.</p>
+<p>Skolness has been a director of High Plains since 1993.</p>
+<p>Friend has been chief financial officer since 1990.</p>
+<p>Larson will continue as a consultant to the company for the next three years.  </p>
+<p>High Plains produces ethanol.</p>
+<p>((--Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WICHITA, Kan."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

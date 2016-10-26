@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167221" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Hyde Athletic Industries Q3 shr rises.</title>
+<headline>Hyde Athletic Industries Q3 shr rises.</headline>
+<dateline>PEABODY, Mass. 1996-11-05</dateline>
+<text>
+<p>Three months ended    Nine months ended</p>
+<p>			Oct. 4,	Sep 29,     Oct. 4,     Sep 29,</p>
+<p>			  1996	 1995	  1996	  1995</p>
+<p>Total revenue $27,809,432  26,032,958  89,359,562  82,670,685</p>
+<p>Costs and Expenses</p>
+<p>Cost of sales</p>
+<p>		    18,903,001  17,464,091  62,339,454  55,220,901</p>
+<p>    SG&amp;A	   7,534,441   7,775,764  23,475,907  23,649,529</p>
+<p>    Interest exp   230,660     228,306     732,905     974,937</p>
+<p>Total Costs and</p>
+<p>Expenses	  26,668,102  25,468,161  86,548,266  79,845,367</p>
+<p>Income before income</p>
+<p>taxes and minority</p>
+<p>   interest	1,141,330     564,797   2,811,296   2,825,318</p>
+<p>Provision for</p>
+<p>  income taxes     392,183     220,581     980,110   1,098,528</p>
+<p>Minority interest in income (loss) of</p>
+<p>   consol. subsid. 146,529	24,808     375,406    (60,594)</p>
+<p> Net income	  602,618     319,408   1,455,780   1,787,384</p>
+<p> Net income	     0.10	  0.05	  0.23	  0.29</p>
+<p> Avg shares	6,268,925   6,231,606   6,246,370   6,243,411</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PEABODY, Mass."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

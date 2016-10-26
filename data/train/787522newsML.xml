@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="787522" id="root" date="1997-08-08" xml:lang="en">
+<title>KAZAKHSTAN: Four-tonne statue of Lenin stolen from Kazakh park.</title>
+<headline>Four-tonne statue of Lenin stolen from Kazakh park.</headline>
+<dateline>ALMATY 1997-08-08</dateline>
+<text>
+<p>A bronze statue of Vladimir Lenin weighing four tonnes was stolen overnight from a park in Taraz in southern Kazakhstan, Russia's Itar-Tass news agency said on Friday.</p>
+<p>The only signs left by the robbers were the tracks of heavy vehicles around the monument's pedestal, the agency said.</p>
+<p>Police ruled out a political motive for the theft, saying the statue of the Russian revolutionary leader had probably been taken to melt down and sell as metal scrap.</p>
+<p>A task force has been set up to track down the missing Lenin while security has been stepped up at the park, where a number of statues of the Bolshevik chief are on show in an exhibition of Soviet symbols put on by the town authorities, Tass said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

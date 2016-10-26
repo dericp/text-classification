@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="346790" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: Dupont Co Q4 earnings summary.</title>
+<headline>Dupont Co Q4 earnings summary.</headline>
+<dateline>WILMINGTON 1997-01-31</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr		 $1.52		    $1.13</p>
+<p> Net		 858,000		  627,000</p>
+<p> Sales	     11,407,000	     10,385,000</p>
+<p> Avg shrs	  563,042,537	    555,367,995</p>
+<p>	  12 MONTHS</p>
+<p> Shr		 $6.47		    $5.61</p>
+<p> Net		 3,636,000		3,293,000</p>
+<p> Sales	     43,810,000	     42,163,000</p>
+<p> Avg shrs	  560,675,296	    585,107,476</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Avg shrs figure are 000,000s.</p>
+<p>Certain reclassifications of 1995 data have been made to conform to 1996 classifications.</p>
+<p>((-- New York Newsdesk 212 859-1610))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

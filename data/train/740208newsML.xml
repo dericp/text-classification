@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="740208" id="root" date="1997-07-18" xml:lang="en">
+<title>SPAIN: Spanish court upholds ban on pro-ETA rally.</title>
+<headline>Spanish court upholds ban on pro-ETA rally.</headline>
+<dateline>BILBAO, Spain 1997-07-18</dateline>
+<text>
+<p>A Superior Court in Spain's Basque country said on Friday it was upholding a regional government ban on a demonstration called in support of the Basque rebel group ETA.</p>
+<p>The Basque government prohibited the rally, planned for Saturday in San Sebastian, for fear it would provoke a violent backlash from people angered by ETA's killing of a young politician last weekend.  </p>
+<p>ETA's political wing Herri Batasuna said on Thursday it would call off the demonstration if the court upheld the government order.</p>
+<p>The court said it would release a full statement on the ruling later on Friday. It will wait until Tuesday to make a decision about a second rally that Herri Batasuna has called for the following Sunday.</p>
+<p>ETA, which is fighting for Basque independence, provoked unprecedented street protests when it carried out its threat to kill 29-year-old Miguel Angel Blanco last weekend, two days after kidnapping the town councillor.</p>
+<p>An estimated six million Spaniards took to the streets to express their outrage. In some Basque towns, protesters burned Herri Batasuna offices and physically assaulted ETA supporters.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BILBAO, Spain"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

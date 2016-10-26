@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147680" id="root" date="1996-10-28" xml:lang="en">
+<title>USA: U.S. Plains cattle trade slow at $70 - feedlots.</title>
+<headline>U.S. Plains cattle trade slow at $70 - feedlots.</headline>
+<dateline>CHICAGO 1996-10-28</dateline>
+<text>
+<p>U.S. Plains feedlot cattle sales Monday were slow, with light trade reported at $70.00 per cwt, steady with last week, feedlot sources said.</p>
+<p>About 2,000 head traded in the Texas Panhandle/western Oklahoma area and near 2,800 in Kansas, USDA said. Also in Kansas, about 400 head of top quality cattle were sold at $71.00 for delivery against Chicago Mercantile Exchange live cattle futures, according to USDA.</p>
+<p>Many Texas feedlot managers were attending the Texas Cattle Feeders Association annual meeting in Houston, which runs through Tuesday, sources there said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

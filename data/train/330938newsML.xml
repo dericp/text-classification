@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="330938" id="root" date="1997-01-24" xml:lang="en">
+<title>USA: U.S. to seek new U.N. sanctions on Sudan - Albright.</title>
+<headline>U.S. to seek new U.N. sanctions on Sudan - Albright.</headline>
+<dateline>WASHINGTON 1997-01-24</dateline>
+<text>
+<p>The United States will seek to obtain new United Nations sanctions against Sudan because of its alleged support for terrorism, Secretary of State Madeleine Albright said on Friday.</p>
+<p>&quot;We will continue to insist that Sudan desist from supporting terrorist activities and will be following up in New York to try to get additional sanctions,&quot; Albright told a news conference.  </p>
+<p>The U.N. Security Council last year imposed mandatory diplomatic and travel sanctions against Sudan for failing to extradite three men wanted for an attempt to kill Egyptian President Hosni Mubarak in 1995.</p>
+<p>Sudan is one of seven countries on a State Department list of state alleged to support terrorism.</p>
+<p>Albright denied reports that the United States had exempted Sudan from a U.S. law barring certain financial transactions between American companies and countries accused of supporting terrorism, clearing the way for U.S. oil company Occidental Petroleum Corp to negotiate with the Khartoum government.</p>
+<p>&quot;There was no exemption asked for and no exemption was given,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516509" id="root" date="1997-04-17" xml:lang="en">
+<title>SWEDEN: SWIMMING-WORLD RECORD FOR AUSTRALIAN QUARTET.</title>
+<headline>SWIMMING-WORLD RECORD FOR AUSTRALIAN QUARTET.</headline>
+<dateline>GOTHENBURG, Sweden 1997-04-17</dateline>
+<text>
+<p>Australia broke their own men's world short-course 4x100 metres medley relay record to cap a great opening day for the country at the world short-course swimming championships on Thursday.</p>
+<p>Adrian Radley, Phil Rogers, Geoff Huegill and Michael Klim clocked three minutes 30.66 seconds to slice 0.25 seconds from the mark set by Radley, Ryan Mitchell, Huegill and Klim in Melbourne on December 22 last year.</p>
+<p>The Australians led from start to finish, chased home by Russia (3:32.56) and Britain (3:32.61).</p>
+<p>It was the third title of the day for Australia, for whom Matthew Dunn won the men's 400 individual medley and Emma Johnson the women's 400 individual medley.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOTHENBURG, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

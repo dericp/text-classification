@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="115823" id="root" date="1996-10-14" xml:lang="en">
+<title>JAPAN: Tokyo stocks swing higher at close,turnover dismal.</title>
+<headline>Tokyo stocks swing higher at close,turnover dismal.</headline>
+<dateline>TOKYO 1996-10-14</dateline>
+<text>
+<p>Tokyo stocks managed to claw back into positive territory by the end of the Monday session but turnover tumbled to a new low for the year, brokers said, adding that it reflected the cautious trade. They said most investors were inactive ahead of the elections on October 20.</p>
+<p>The benchmark Nikkei 225 swung back 61.09 points or 0.29 percent higher at 21,029.25. Its December futures were also higher by 90 points, closing at 21,130.</p>
+<p>&quot;There was some bargain-hunting, but no aggressive buying,&quot; Akihiko Naemura, general manager at Okasan Securities, said. &quot;The market is waiting for the elections to end before moving.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

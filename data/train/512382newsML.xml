@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="512382" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: First Financial Q1 shr $0.56 vs $0.46.</title>
+<headline>First Financial Q1 shr $0.56 vs $0.46.</headline>
+<dateline>CHARLESTON, S.C. 1997-04-16</dateline>
+<text>
+<p>FIRST FINANCIAL HOLDINGS INC</p>
+<p>		  Unaudited Consolidated Financial Highlights</p>
+<p>			 (in thousands, except share data)</p>
+<p>					    Three Months Ended</p>
+<p>		     Mar. 31, 1997   Mar. 31, 1996  Dec. 31, 1996</p>
+<p> Provision for loan losses    525		420	    525</p>
+<p> Net income		     3,531	    2,917	  3,375</p>
+<p>Net income per common</p>
+<p>    share			  0.56	     0.46	   0.53</p>
+<p>Weighted average shares</p>
+<p>    outstanding	   6,310,377	6,331,858    6,336,674</p>
+<p>					   Six Months Ended</p>
+<p>				  Mar. 31, 1997   Mar. 31, 1996</p>
+<p> Provision for loan losses	  1,050		 725</p>
+<p> Net income			     6,906	     5,422</p>
+<p> Net income per common share	 1.09		0.86</p>
+<p>Weighted average shares</p>
+<p>    outstanding		   6,323,670	 6,319,771</p>
+<p>						     On the Date of</p>
+<p>		    Mar. 31, 1997    Mar. 31, 1996  Dec. 31, 1996</p>
+<p> Total assets	    $1,602,018	$1,449,162  $1,582,274</p>
+<p> Loans receivable	 1,347,442	 1,167,477   1,317,214</p>
+<p> Deposits		   1,063,066	 1,064,047   1,059,889</p>
+<p>Allowance for loan losses</p>
+<p>				   11,445	    10,983	11,208</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLESTON, S.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

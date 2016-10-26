@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="135961" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Checkfree Corp Q1 loss widens.</title>
+<headline>Checkfree Corp Q1 loss widens.</headline>
+<dateline>ATLANTA 1996-10-23</dateline>
+<text>
+<p>CHECKFREE CORPORATION</p>
+<p>	     CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>		   (in thousands, except per share data)</p>
+<p>							Three months ended</p>
+<p>							 9/30/96    9/30/95</p>
+<p>							   (Unaudited)</p>
+<p> REVENUES					   $ 32,654   $ 12,323</p>
+<p>EXPENSES: Cost of processing, servicing and support</p>
+<p>							  25,742	7,962</p>
+<p>  Research and development			 7,416	1,925</p>
+<p>  Sales and marketing				5,871	1,766</p>
+<p>  General and administrative		     5,889	1,073</p>
+<p>  Total expenses				    44,918     12,726</p>
+<p> LOSS FROM OPERATIONS			   (12,264)	(403)</p>
+<p> Interest income					 519	  258</p>
+<p> Interest expense				    (146)	(160)</p>
+<p> LOSS BEFORE INCOME TAXES		     (11,891)	(305)</p>
+<p> Income taxes					(4,162)	(137)</p>
+<p> NET LOSS					    (7,729)	(168)</p>
+<p> Net loss per common share			(0.19)     (0.01)</p>
+<p>Weighted average common shares outstanding</p>
+<p>							  41,620     27,183</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

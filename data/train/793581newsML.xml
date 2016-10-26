@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="793581" id="root" date="1997-08-12" xml:lang="en">
+<title>HUNGARY: TABLE-HUNGARY H1 TRADE GAP $1.14BLN - TRADE MINISTRY.</title>
+<headline>TABLE-HUNGARY H1 TRADE GAP $1.14BLN - TRADE MINISTRY.</headline>
+<dateline>BUDAPEST 1997-08-12</dateline>
+<text>
+<p>Hungary's foreign trade deficit rose to $1.145 billion in June from $1.037 billion in May, according to figures released by the Ministry of Industry,</p>
+<p>Tourism and Tourism (MIT) on Tuesday.</p>
+<p>HUNGARY TRADE DEFICIT  (in million dollars)</p>
+<p>			  Jan-June 97   Jan-May 97  Jan-June 96</p>
+<p>    Exports	     8,624	  7,042	  7,493</p>
+<p>    Import		9,769	  8,079	  8,588</p>
+<p>    Trade balance    -1,145	 -1,037	 -1,094</p>
+<p>NOTE - MIT data are based on customs statistics, while National Bank of Hungary (NBH) trade figures are calculated from cash flow data. -- Budapest newsroom +36 1 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

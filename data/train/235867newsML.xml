@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="235867" id="root" date="1996-12-04" xml:lang="en">
+<title>SWEDEN: P&amp;U says bourse clears phone conference.</title>
+<headline>P&amp;U says bourse clears phone conference.</headline>
+<dateline>STOCKHOLM 1996-12-04</dateline>
+<text>
+<p>Swedish-U.S. drugs Pharmacia &amp; Upjohn (P&amp;U) said on Wednesday a Stockholm bourse investigation about an anlysts' telephone conference on October 31 concluded that the company did not break regulations.</p>
+<p>The exchange said the company should follow information regulations of the New York Stock Exchange as the share has its primary listing there, according to the company.</p>
+<p>But P&amp;U added that it shared the Stockholm exchange's view that when information affecting the share price is given, it should be released through a press statement.</p>
+<p>During a phone conference with analysts, connected with P&amp;U's release of third quarter earnings, a company official said analysts needed to lower their full-year forecasts for earnings per share by 10 cents.</p>
+<p>This information caused the company's share to tumble in Stockholm while several market players were unaware of the reason for the fall.</p>
+<p>The New York Stock Exchange was closed at the time of the telephone conference.</p>
+<p>-- Birgitte Forsberg, Stockholm newsroom +46-8-700 1006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

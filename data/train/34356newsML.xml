@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34356" id="root" date="1996-09-05" xml:lang="en">
+<title>SLOVAKIA: Slovakia issues GSM licences, Eurotel conditional.</title>
+<headline>Slovakia issues GSM licences, Eurotel conditional.</headline>
+<byline>Peter Laca</byline>
+<dateline>BRATISLAVA 1996-09-05</dateline>
+<text>
+<p>The Slovak Ministry of Transport, Post and Telecommunications said on Wednesday that it had officially issued two GSM mobile telephone licences to Slovak-U.S. joint venture Eurotel sro and Slovtel a.s..</p>
+<p>&quot;On Wednesday evening the ministry officially signed granting of the two GSM licences with representatives of Slovtel and Eurotel,&quot; Stanislav Vanek, head of the ministry's telecommunications department, told Reuters.</p>
+<p>But the licence for Eurotel, which is 49 percent owned jointly by US West Media Group and Bell Atlantic Corp, is conditional.</p>
+<p>The Eurotel partners still have to create a new company to operate the second GSM (general system for mobile) network complying with a government demand that it be at least 60 percent Slovak-owned.</p>
+<p>&quot;The ministry has formally granted the second licence to Eurotel under the contract for the NMT system signed in 1991, and its owners have 90 days to create a joint-stock company according to tender conditions,&quot; Vanek said.</p>
+<p>Eurotel, which is 51 percent owned by state-run telecom company Slovenske Telekomunikacie (ST), already operates the analogue NMT system, currently Slovakia's only mobile network.</p>
+<p>The present composition of Eurotel does not meet a tender condition of a maximum 40 percent foreign ownership.</p>
+<p>Vanek said the ministry expected Eurotel's owners to meet the deadline for creating the new company, but warned that they could lose their licence if they failed to do so.</p>
+<p>Talks on the ownership structure have dragged on for months. In July ST said it had agreed in principle with its two U.S. partners to create the new company.</p>
+<p>ST said negotiations concentrated mainly on executive rights in the new company and the split of investments. ST ruled out any changes to the make-up of the group.</p>
+<p>Slovtel, a consortium of four Slovak energy companies, the state monopoly gas distributor and a private firm Hanco sro, which teamed up with France Telecom, earlier this summer won the ministry's public tender for the other licence.</p>
+<p>-- Bratislava Newsroom, 42-7-210-3687</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81838" id="root" date="1996-09-27" xml:lang="en">
+<title>INDIA: Concorde misses hop on round-the-world flight.</title>
+<headline>Concorde misses hop on round-the-world flight.</headline>
+<dateline>BOMBAY 1996-09-27</dateline>
+<text>
+<p>A British Airways Concorde airliner with 96 passengers on their once-in-a-lifetime trip around the world had to transfer on an Air-India Airbus on Friday after the supersonic jet needed servicing at Bombay.</p>
+<p>&quot;The Concorde made a normal landing. There was no problem with the engine but it developed low oil pressure in engine number three,&quot; a British Airways official at Bombay airport said.</p>
+<p>State-run Air-India put on a special charter to fly the Concorde's passengers to Nairobi, their next stop after Delhi, the official said.</p>
+<p>The Concorde would then pick up the passengers at Nairobi to complete the journey, he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

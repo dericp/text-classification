@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251822" id="root" date="1996-12-12" xml:lang="en">
+<title>KAZAKHSTAN: Kazakh November copper output rises 7.5 pct.</title>
+<headline>Kazakh November copper output rises 7.5 pct.</headline>
+<dateline>ALMATY 1996-12-12</dateline>
+<text>
+<p>Kazakh copper output rose by 7.5 percent in November over the previous month, zinc output rose by 2.2 percent while lead production rose by 8.8 percent in the same period, the State Statistics Committee said on Thursday.</p>
+<p>It gave the following figures for non-ferrous metal production (all figures in tonnes) -</p>
+<p>					 Nov	 Oct	Jan-Nov 96</p>
+<p> Copper				18,973    17,649    245,423</p>
+<p>  mth/mth pct change		+7.5    +37.4	  n/a</p>
+<p>  yr/yr   pct change	     -19.3    -20.1	 +6.7</p>
+<p> Zinc				  15,650    15,307    155,042</p>
+<p>  mth/mth pct change	     +2.2	+5.7	  n/a</p>
+<p>  yr/yr   pct change	    +13.1     +26.5	 -0.9</p>
+<p> Lead				   5,829     5,356     60,892</p>
+<p>  mth/mth pct change	     +8.8     +15.6	  n/a</p>
+<p>  yr/yr   pct change	    +17.7     -24.9	 -28.1</p>
+<p> Bauxite			    267,500   280,000   3,040,600</p>
+<p>  mth/mth pct change	     -4.5	-4.0	   n/a</p>
+<p>  yr/yr   pct change	    +10.6	+6.6	   0.0</p>
+<p> Alumina			     91,027    94,049     989,502</p>
+<p>  mth/mth pct change	     -3.2	+3.3	   n/a</p>
+<p>  yr/yr   pct change	     +2.7	+6.5	  +6.2</p>
+<p> Titanium			    1,239	1,137	11,246</p>
+<p>  mth/mth pct change	     +9.0	+6.7	   n/a</p>
+<p>  yr/yr   pct change	    +34.7     +23.6	 +30.4</p>
+<p>--Almaty Newsroom, +7 3272 509410</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I22460">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

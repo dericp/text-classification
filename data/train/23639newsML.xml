@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23639" id="root" date="1996-08-30" xml:lang="en">
+<title>USA: Calif Gov. to sign California Earthquake Authority.</title>
+<headline>Calif Gov. to sign California Earthquake Authority.</headline>
+<dateline>SACRAMENTO, Calif. 1996-08-30</dateline>
+<text>
+<p>California Gov. Pete Wilson will sign legislation creating the $10.5 billion California Earthquake Authority, which would provide insurance coverage for earthquake damage to homeowners in the state, a spokesman for Wilson said on Friday.</p>
+<p>Wilson spokesman Sean Walsh told Reuters the Republican governor has decided to sign the main legislation as well as the so-called trailer bill to create the privately financed, publicly managed state agency.</p>
+<p>&quot;It's necessary to ensure the buying and selling of homes in California,&quot; Walsh said of the proposed authority.  </p>
+<p>The state Assembly has already approved legislation that would create the authority. The state Senate, however, must still act before the proposal can advance to the governor for his signature. Senate action was expected by Saturday night.</p>
+<p>The California Earthquake Authority (CEA) was proposed as part of a plan to help solve the state's homeowners insurance crisis. Because state law requires insurers to offer earthquake coverage with every homeowners policy, many insurance companies stopped selling new homeowners policies and some considered dropping their existing customers to reduce their exposure to earthquake losses in California.  </p>
+<p>The CEA will be funded through premiums paid by those who purchase earthquake coverage, cash from participating insurance companies, commitments from participating insurers, reinsurance as well as capital market investors.</p>
+<p>The legislation requires the participation of insurance companies representing at least 70 percent of the homeowners insurance market.</p>
+<p>If approved by the Senate by Saturday and signed by Gov. Wilson, the CEA could be prepared to sell policies by December 1, 1996, the California Department of Insurance said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

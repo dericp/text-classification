@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28548" id="root" date="1996-09-03" xml:lang="en">
+<title>UK: SOCCER-ABERDEEN STRIKER SCORES FOUR GOALS IN EXTRA TIME.</title>
+<headline>SOCCER-ABERDEEN STRIKER SCORES FOUR GOALS IN EXTRA TIME.</headline>
+<dateline>GLASGOW 1996-09-03</dateline>
+<text>
+<p>Striker Dean Windass scored four goals in extra time to fire Scottish League Cup holders Aberdeen to a stunning 7-3 third-round victory over Greenock Morton on Tuesday.</p>
+<p>Aberdeen seemed to be heading for a comfortable win when they led 2-0 with 13 minutes remaining, only for the whole shape of the match to be suddenly transformed.</p>
+<p>First, referee Tom McCurry awarded a penalty after Aberdeen defender John Inglis brought down Scott McArthur, and Derek Lilley scored from the the spot.</p>
+<p>A minute later Greenock equalised through John Anderson and then seized the lead with a goal by Lilley three minutes from time.</p>
+<p>A dramatic 13-minute spell came to a climax with Aberdeen winger Joe Miller being floored in the penalty area and Billy Dodds putting the holders level with a last-minute spot kick to add to his two earlier goals.</p>
+<p>Windass then won the tie for Aberdeen in compelling style by scoring in the 104th, 109th, 111th and 117th minutes of extra time.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

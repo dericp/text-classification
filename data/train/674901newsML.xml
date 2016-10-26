@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="674901" id="root" date="1997-06-19" xml:lang="en">
+<title>JAPAN: Tokyo stocks moderately lower by early morning.</title>
+<headline>Tokyo stocks moderately lower by early morning.</headline>
+<dateline>TOKYO 1997-06-19</dateline>
+<text>
+<p>Tokyo stocks traded moderately lower in early morning trade on Thursday, as participants stayed away from blue-chip exporters amid uncertainty over currencies ahead of the Group of Seven (G7) nations' summit meeting later this week, brokers said.</p>
+<p>Bearishness over high-technology stocks on Wall Street also weighed down the market, they said.</p>
+<p>At 0012 GMT, the 225-share Nikkei average was down 93.91 points, or 0.46 percent, at 20,403.94. Its September futures were 120 points lower at 20,460.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

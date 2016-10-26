@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34848" id="root" date="1996-09-05" xml:lang="en">
+<title>THAILAND: Bank of Thailand calls off 4 bln baht auction.</title>
+<headline>Bank of Thailand calls off 4 bln baht auction.</headline>
+<dateline>BANGKOK 1996-09-05</dateline>
+<text>
+<p>The Bank of Thailand (BOT) said on Thursday it called off Friday's four billion baht note auction because of tight liquidity in the Thai money market.</p>
+<p>&quot;In view of the tight liquidity in the money market, the Bank of Thailand has decided to call off the four billion BOT bond auction scheduled for tomorrow September 6, 1996,&quot; the BOT said in a statement.</p>
+<p>Last month, the BOT called off a three billion baht bond auction for the same reason. ($1 = 25.3 baht)</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

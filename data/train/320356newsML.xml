@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320356" id="root" date="1997-01-20" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish govt seeks election timing advice - newspaper.</title>
+<headline>Irish govt seeks election timing advice - newspaper.</headline>
+<dateline>DUBLIN 1997-01-20</dateline>
+<text>
+<p>The Irish government has taken formal advice on the timing of a general election, a constitutional referendum and a possible presidential election in 1997, the Irish Times reported on Monday.</p>
+<p>The government has been advised that the present Parliament must be dissolved not later than December 13, 1997, a recent letter to the secretary to the government, Frank Murray, from the department of the environment said, the Irish Times report said.</p>
+<p>It said the polling day for the next general election could, therefore, be as late as mid-January, 1998.</p>
+<p>Most observers in parliament currently believe that the general election will be held in May/June.</p>
+<p>-- Dublin newsroom + 353 1 676 9775</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357835" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: U.S. power output falls 2.7 pct vs. year ago -- EEI.</title>
+<headline>U.S. power output falls 2.7 pct vs. year ago -- EEI.</headline>
+<dateline>NEW YORK 1997-02-05</dateline>
+<text>
+<p>Electricity deliveries in the continental U.S. totaled 66,073 gigawatt hours (GWh) for the week ended Feb 1, down 2.7 percent from the same period in 1996, said Edison Electric Institute (EEI).</p>
+<p>The amount of weekly power supplied to the Pacific Northwest region showed the largest drop, down seven percent at 3,958 GWh, EEI said.</p>
+<p>The Pacific Southwest experienced the largest increase in power output, rising 1.9 percent from the corresponding period a year earlier to 4,574 GWh.</p>
+<p>Domestic power production for the 52 weeks ended Feb 1 totaled about 3,311,189 GWh, up 1.8 percent from the same period in 1996.</p>
+<p>((--New York Power Desk +1 212 859 1627))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

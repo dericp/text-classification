@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106385" id="root" date="1996-10-09" xml:lang="en">
+<title>SWITZERLAND: Swissair cargo looks to fully use Brussels.</title>
+<headline>Swissair cargo looks to fully use Brussels.</headline>
+<dateline>ZURICH 1996-10-09</dateline>
+<text>
+<p>Swissair AG and Sabena are exploring ways to take full advantage of Brussels airport's free cargo capacity to improve their services, a Swissair spokesman said.</p>
+<p>Compared with Swissair's home base of Zurich airport, Brussels airport is less congested and has unused cargo handling and warehouse capacity.</p>
+<p>&quot;We are looking at possibilities of exploring Brussels' free cargo capacity,&quot; the spokesman said.</p>
+<p>Swissair, which has a 49.5 percent stake in Sabena, could for example use this capacity to deliver goods to customers in Europe much faster.</p>
+<p>&quot;We will now have an alternative cargo site and other opportunities to direct our cargo,&quot; the spokesman said.</p>
+<p>Earlier Swissair said it would start marketing the cargo capacity of Sabena from January 1, 1997.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

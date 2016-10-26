@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="742111" id="root" date="1997-07-21" xml:lang="en">
+<title>CHINA: SOCCER - RESULTS FROM CHINA SOCCER LEAGUE.</title>
+<headline>SOCCER - RESULTS FROM CHINA SOCCER LEAGUE.</headline>
+<dateline>BEIJING 1997-07-21</dateline>
+<text>
+<p>Following are the results of</p>
+<p>China's professional soccer league games played on Sunday:</p>
+<p> Beijing Guo'an	 9     Shanghai Shenhua    1</p>
+<p> Yanbian Aodong	 0     Guangzhou Apollo    0</p>
+<p> Jinan Taishan	  2     Vanguard Huandao    2</p>
+<p> August First	   1     Dalian Wanda	  1</p>
+<p> Guangdong Hongyuan   2     Tianjin Samsung     1</p>
+<p> Sichuan Quanxing     1     Qingdao Hainiu	1</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

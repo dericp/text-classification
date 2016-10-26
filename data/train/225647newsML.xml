@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225647" id="root" date="1996-11-29" xml:lang="en">
+<title>LEBANON: Solidere shares mixed in Beirut.</title>
+<headline>Solidere shares mixed in Beirut.</headline>
+<dateline>BEIRUT 1996-11-29</dateline>
+<text>
+<p>Solidere shares were mixed on Friday on the Beirut Stock Exchange (BSE).</p>
+<p>A shares fell to $113.375 from Thursday's $113.625 and B shares held steady at $117. Turnover was 11,404 shares from 11,408 and value was $942,501 from $1,310,817.625 a day earlier.</p>
+<p>There was no trade in the four other companies listed on BSE: Ciments Libanais, Ciments Blancs, Eternit, and Uniceramic.</p>
+<p>The LISPI stock index fell 0.03 percent to 83.45 and the BLOM stock index fell 0.08 percent to 971.74.</p>
+<p>-Beirut editorial (9611) 353078 645456 602057</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

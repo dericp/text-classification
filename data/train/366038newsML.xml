@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="366038" id="root" date="1997-02-10" xml:lang="en">
+<title>USA: Ultramar Diamond Shamrock sets cap budget.</title>
+<headline>Ultramar Diamond Shamrock sets cap budget.</headline>
+<dateline>SAN ANTONIO 1997-02-10</dateline>
+<text>
+<p>Ultramar Diamond Shamrock Corp said on Monday its 1997 capital spending budget will be $285 million.</p>
+<p>The figure includes $85 million for its Southwest retail and wholesale marketing operations. In this region the company plans to build 22 new Diamond Shamrock stores, mostly in Arizona.</p>
+<p>The company also earmarked $28 million for refining projects.</p>
+<p>Ultramar and Diamond Shamrock merged last year. Their combined capital spending averaged $430 million before the merger, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN ANTONIO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

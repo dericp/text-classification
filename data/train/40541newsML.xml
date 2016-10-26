@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="40541" id="root" date="1996-09-09" xml:lang="en">
+<title>USA: U.S. crude, products firm in ACCESS after hours.</title>
+<headline>U.S. crude, products firm in ACCESS after hours.</headline>
+<dateline>HOUSTON 1996-09-09</dateline>
+<text>
+<p>U.S. crude oil and products prices firmed in thin after-hours ACCESS trade on Monday, reversing modest declines in the floor session.</p>
+<p>NYMEX October crude traded $23.80 a barrel, up seven cents on 225 lots traded early in the session after failing to break $24.00 a barrel resistance earlier in the day.</p>
+<p>October heating oil firmed to 66.05 cents a gallon on 69 lots traded, a 0.10 cent gain from the earlier close at 65.95 cents.</p>
+<p>Front-month unleaded gasoline was indicated higher, bid 64.20 cents a gallon, asked 64.50 cents on 13 lots traded after closing at 64.09 cents a gallon in the floor session.</p>
+<p>-- Houston Bureau 713 210-8508</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

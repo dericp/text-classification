@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="608648" id="root" date="1997-05-23" xml:lang="en">
+<title>NIGERIA: Petrol shortage hits Nigerian city of Lagos.</title>
+<headline>Petrol shortage hits Nigerian city of Lagos.</headline>
+<dateline>LAGOS 1997-05-23</dateline>
+<text>
+<p>Long queues formed at petrol stations in Lagos on Friday as a fresh fuel shortage hit Nigeria's largest city.</p>
+<p>&quot;It has taken me more than five hours to fill up my car,&quot; one motorist said.</p>
+<p>It was the sixth shortage this year in Africa's biggest oil producer.</p>
+<p>Fuel sellers said stocks had not been replenished for several days and they were on the verge of running out.</p>
+<p>But a spokesman for the state oil company, the Nigerian National Petroleum Corporation (NNPC), said the shortage would ease during the weekend.</p>
+<p>&quot;Vessels carrying petrol from Port Harcourt and Warri are on their way to Lagos and should discharge within days,&quot; he said.</p>
+<p>Africa's most populous country often suffers fuel shortages despite pumping about two million barrels per day of crude oil, much of it exported.</p>
+<p>Its four refineries have a combined capacity to process 445,000 barrels of crude oil daily but operate at well below that because of technical and management deficiencies.</p>
+<p>A severe shortage in April forced the government to announce that fuel would be imported to supplement local output, but industry sources said so far there had been no imports.</p>
+<p>&quot;The Finance Ministry has not released money for any import of fuel,&quot; said an official of the Pipelines and Products Marketing Company, a subsidiary of NNPC.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="443010" id="root" date="1997-03-14" xml:lang="en">
+<title>USA: U.S. petroleum imports up 6.4 pct in 1996 - EIA.</title>
+<headline>U.S. petroleum imports up 6.4 pct in 1996 - EIA.</headline>
+<dateline>WASHINGTON 1997-03-14</dateline>
+<text>
+<p>U.S. imports of crude oil and refined products rose 6.4 percent in 1996 from the previous year to 9.4 million barrels per day, according to Energy Information Administration data released this week.</p>
+<p>Crude imports alone rose 3.5 percent to 7.482 million bpd.</p>
+<p>The annual figures confirmed that Venezuela overtook Saudi Arabia as the largest crude supplier to the United States, with Venezuela accounting for 17.4 percent of crude imports compared with Saudi Arabia's 16.7 percent share.</p>
+<p>Venezuela exported 1.30 million bpd of crude to the United States in 1996, up 150,000 bpd from 1995, while Saudi Arabia shipped 1.25 million bpd in 1996, down about 10,000 bpd.</p>
+<p>Saudi crude sales to the U.S. slid from an all-time peak of 1.7 million bpd in 1991, the year of the Gulf War, when the kingdom made up 29 percent of U.S. crude imports, filling a gap left by Iraq and Kuwait.</p>
+<p>The United States depended on its top five suppliers -- Venezuela, Saudi Arabia, Mexico, Canada and Nigeria -- for 72 percent of crude imports and 67 percent of all petroleum imports in 1996, a little more than in 1995.</p>
+<p>Overall, Venezuela remained the number one supplier of crude and products with a total of 1.66 million bpd compared with Saudi Arabia's 1.36 million bpd.</p>
+<p>Canada supplied 1.41 million bpd of crude and products in 1996, up from 1.33 million bpd the previous year. Mexico exported 1.24 million bpd to the United States, up from 1.07 million bpd in 1995. Far behind, Nigeria exported 614,000 bpd of crude and products in 1996, down from 627,000 bpd in 1995.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

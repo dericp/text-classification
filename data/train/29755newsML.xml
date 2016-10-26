@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29755" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Nebraska corn improves, soybeans unchanged.</title>
+<headline>Nebraska corn improves, soybeans unchanged.</headline>
+<dateline>LINCOLN, Neb. 1996-09-03</dateline>
+<text>
+<p>Condition of the Nebraska corn improved slightly during the week ended Sunday versus the previous week, while soybeans were mostly unchanged, according to the Nebraska Agricultural Statistics Service.</p>
+<p>Corn was rated 35 percent excellent, 50 good, 12 fair, two poor and one very poor. Thirty-five percent of the crop was dented versus 30 a year ago and the 52 average.</p>
+<p>Corn development was about eight days behind normal in most areas. Grey leaf spot was reported in southern and eastern fields.</p>
+<p>Soybeans were rated 28 percent excellent, 59 good, 12 fair and one poor. Two percent of the crop was turning color versus five a year ago and 20 average. About 97 percent were setting pods versus 95 a year ago and 97 average.</p>
+<p>Sorghum was 30 percent excellent, 53 good, 15 fair, one poor and one very poor. Twenty-six percent was turning color versus 17 a year ago and the 41 average.</p>
+<p>Winter wheat seeding was two percent finished, the same as a year ago but behind three percent average.</p>
+<p>Topsoil moisture was rated four percent surplus, 78 percent adequate and 18 short. Subsoil moisture was rated four percent surplus, 84 adequate and 12 short.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LINCOLN, Neb."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

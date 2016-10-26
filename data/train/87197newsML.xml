@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87197" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Apple gains after profit forecast report.</title>
+<headline>Apple gains after profit forecast report.</headline>
+<dateline>LOS ANGELES 1996-10-01</dateline>
+<text>
+<p>Shares of Apple Computer Inc rose Tuesday on a report the company may return to profitability sooner than expected.</p>
+<p>Bloomberg Business News quoted Apple Chief Financial Officer Fred Anderson Tuesday as saying the company was confident it would return to profit no later than March and perhaps sooner. Apple executives have previously said the company hoped to become profitable again by March, the second quarter of its 1997 fiscal year.</p>
+<p>Apple shares rose 2-7/16 to 24-5/8. Apple officials were not immediately available to comment on the report.</p>
+<p>Apple has posted three consecutive quarterly losses, though its loss in the third quarter was smaller than expected.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

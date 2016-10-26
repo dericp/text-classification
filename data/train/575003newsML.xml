@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575003" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Ringer Corp Q2 March 31 loss vs profit.</title>
+<headline>Ringer Corp Q2 March 31 loss vs profit.</headline>
+<dateline>MINNEAPOLIS 1997-05-12</dateline>
+<text>
+<p>Three Months Ended   Six Months Ended</p>
+<p>				 March 31,		 March 31,</p>
+<p>			   1997	 1996	  1997	  1996</p>
+<p> NET SALES	   $4,839	$5,613	 8,320	$9,249</p>
+<p> GROSS PROFIT	 2,243	 2,878	 4,O17	 4,728</p>
+<p> OPER EXPENSES	2,283	 2,383	 4,031	 4,304</p>
+<p> OTHER INCOME, NET   (14)	    12	    20	    31</p>
+<p> NET INCOME (LOSS)   (54)	   507	     6	   455</p>
+<p>NET INCOME (LOSS) PER SHARE</p>
+<p>			  (.00)	   .05	   .00	   .04</p>
+<p> AVG SHARES   10,933,700  10,923,015  10,927,815  10,922,473</p>
+<p>		    (In Thousands Except Per Share Amounts)</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25130">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125577" id="root" date="1996-10-17" xml:lang="en">
+<title>JAPAN: Tokyo stocks almost flat in early morning trade.</title>
+<headline>Tokyo stocks almost flat in early morning trade.</headline>
+<dateline>TOKYO 1996-10-17</dateline>
+<text>
+<p>Tokyo stocks were almost flat in early morning trade on Thursday, with market participants remaining on the sidelines ahead of Japan's general elections on Sunday, brokers said.</p>
+<p>They expected the market's key Nikkei average to drift in a narrow range until the elections.</p>
+<p>About five minutes after the start of the session, the 225-share Nikkei average was down 6.69 points, or 0.03 percent, at 21,390.50. In the futures market, the key December futures contract was unchanged at 21,430.</p>
+<p>&quot;Selling pressure increases when the Nikkei average moves closer to 21,500,&quot; said a senior broker at a second-tier Japanese securities house.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

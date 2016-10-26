@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="44046" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: U.S. weekly national grain stocks by region - USDA.</title>
+<headline>U.S. weekly national grain stocks by region - USDA.</headline>
+<dateline>PORTLAND 1996-09-10</dateline>
+<text>
+<p>National stocks of grain, in thousand bushels, as reported by the USDA.</p>
+<p>		   Wheat   Corn  Soybeans Pct filled</p>
+<p> Atlantic cst    3750    431     416    40</p>
+<p> Great Lakes    24385    721    1291    15</p>
+<p> River Points   17331   1424    4801    16</p>
+<p> Southwest	18573   1342     315    15</p>
+<p> Gulf Points    21665   4786    3405    35</p>
+<p> Plains Area    36881   5362	47    18</p>
+<p> Pacific NW	9525    711     unq    36</p>
+<p> Grand Total   132110  14777   10275    19</p>
+<p>--Chicago newsdesk 312-983-7278--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

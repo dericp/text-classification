@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="212190" id="root" date="1996-11-23" xml:lang="en">
+<title>REPUBLIC OF IRELAND: RUGBY UNION-AUSTRALIA SURVIVE IRISH ONSLAUGHT.</title>
+<headline>RUGBY UNION-AUSTRALIA SURVIVE IRISH ONSLAUGHT.</headline>
+<dateline>DUBLIN 1996-11-23</dateline>
+<text>
+<p>Australia narrowly clung on to their unbeaten European tour record with a 22-12 win over a gallant Ireland at Lansdowne Road on Saturday.</p>
+<p>The much-changed Irish side led 9-6 at halftime but were unable to hang on against the wind in the second half of a gripping encounter which saw the Wallabies stretched to the limit.</p>
+<p>Five penalties from full-back Matthew Burke, who also converted a 78th minute try by David Knox, proved just enough to see Australia home in a near-repeat of their famous 1991 World Cup quarter-final on the same ground.</p>
+<p>This time the Irish led 12-9 with 13 minutes left thanks to four penalties from fly-half Paul Burke, only for his namesake to spoil a potential upset with two long-range penalties in three minutes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

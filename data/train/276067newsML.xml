@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="276067" id="root" date="1996-12-25" xml:lang="en">
+<title>JAPAN: Dantani -95/96 parent forecast.</title>
+<headline>Dantani -95/96 parent forecast.</headline>
+<dateline>TOKYO 1996-12-25</dateline>
+<text>
+<p>Year to November 30, 1996</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			 LATEST	    PREVIOUS	   ACTUAL</p>
+<p> (Parent)	   FORECAST	   FORECAST	  YEAR-AGO</p>
+<p> Sales		 84.10		82.60		82.36</p>
+<p> Current     loss 190    million     prft 100 million	prft 66 million</p>
+<p> Net	     loss 3.90	  loss 2.34	loss 106    million</p>
+<p>NOTE - Dantani Corp makes housing materials.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

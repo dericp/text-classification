@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="596440" id="root" date="1997-05-19" xml:lang="en">
+<title>JAPAN: Obayashi - 96/97 parent results.</title>
+<headline>Obayashi - 96/97 parent results.</headline>
+<dateline>TOKYO 1997-05-19</dateline>
+<text>
+<p>Year to March 31, 1997</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		  1.51 trln	 vs	    1.22 trln</p>
+<p> Operating	   41.39		vs	   38.55</p>
+<p> Current	     29.42		vs	   30.32</p>
+<p> Net		   12.68		vs	   10.89</p>
+<p> EPS		   17.01 yen	  vs	   14.62 yen</p>
+<p> Diluted EPS	 16.90 yen	  vs	   14.56 yen</p>
+<p> Shares	    745 million	  vs	 745 million</p>
+<p> Ord div		8.00 yen	  vs	    8.00 yen</p>
+<p>NOTE - Obayashi Corp is a major contractor.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

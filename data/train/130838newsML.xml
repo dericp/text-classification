@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130838" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Five shot dead gangland-style in Texas.</title>
+<headline>Five shot dead gangland-style in Texas.</headline>
+<dateline>EL PASO, Texas 1996-10-21</dateline>
+<text>
+<p>Police are searching for three masked gunmen who entered a bar in this Southwest Texas border town and shot seven people gangland-style, killing five of them, police said on Monday.</p>
+<p>&quot;It appears to be a professional job,&quot; police spokesman Bill Pfeil said, adding that investigators were looking into the possibility of a drug or organised crime connection.</p>
+<p>Two of the five who were killed were from El Paso -- the bar owner and a guitarist -- and three were from New Mexico, including two horse trainers. All were shot early Saturday with large calibre weapons at close range.</p>
+<p>Pfeil said the surviving victims, both of whom remained in the hospital Monday in fair condition, told police three armed men entered the a bar wearing white masks and made everyone empty their pockets before lining them up and shooting them.</p>
+<p>&quot;It's under investigation, that's all I can say,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL PASO, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161004" id="root" date="1996-11-01" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia bonds underperform against dlr bloc.</title>
+<headline>RTRS-Australia bonds underperform against dlr bloc.</headline>
+<dateline>SYDNEY 1996-11-01</dateline>
+<text>
+<p>---------------------------------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 80 (+ 05)   106 (+ 06) * FUTURES   70   (+ 02)</p>
+<p> CAD	199 (+ 09)    99 (+ 06) * CASH	73   (+ 01)</p>
+<p> NZD	-50 (+ 07)   +12 (+ 03) *</p>
+<p>---------------------------------------------------------</p>
+<p>Australian bonds underperformed other dollar bloc bond yields as the local market continued to mark time ahead of next week's Reserve Bank board meeting.</p>
+<p>The market is also showing caution ahead of the key U.S. non-farm payrolls due later today.  </p>
+<p>Hopes of an easing when the RBA board meets on Tuesday were seen enhanced after September monthly and quarterly retail sales came in weaker than expected, but with the market already pricing a 50 basis point rate cut, the subsequent rally proved small and short-lived, analysts said.</p>
+<p>Meanwhile, U.S. Treasuries were going into the jobs data in fairly positive mood following further data on Thursday suggesting that the economy is continuing to slow. A fall in commodity prices also fuelled the trend.</p>
+<p>Canadian and New Zealand bond markets took their lead from the U.S.. -- Colin Brinsden 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

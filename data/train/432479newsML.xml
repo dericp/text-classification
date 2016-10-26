@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="432479" id="root" date="1997-03-11" xml:lang="en">
+<title>SOUTH AFRICA: CRICKET-AUSTRALIA BAT AGAINST E.P. XI.</title>
+<headline>CRICKET-AUSTRALIA BAT AGAINST E.P. XI.</headline>
+<dateline>ZWIDE, South Africa 1997-03-11</dateline>
+<text>
+<p>Australia captain Steve Waugh won the toss and elected to bat in the one-day 45 overs match against an Eastern Province Invitation XI on Tuesday.</p>
+<p>Teams:</p>
+<p>Australia - Matthew Hayden, Matthew Elliott, Justin Langer, Michael Bevan, Mark Waugh, Greg Blewett, Steve Waugh (captain), Shane Warne, Paul Reiffel, Andy Bichel, Jason Gillespie.</p>
+<p>Eastern Province Invitation XI - Gavin Victor, Louis Koen, Ashwell Prince, Dave Callaghan (captain), Clint du Plessis, Justin Kemp, Quentin Ferreira, Shafiek Abrahams, Lulama Mazikazana, Nigel Brouwers, Junaid September.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZWIDE, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

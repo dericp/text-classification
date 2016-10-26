@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="474761" id="root" date="1997-03-28" xml:lang="en">
+<title>CHINA: China interbank market rates (CHIBOR) mixed.</title>
+<headline>China interbank market rates (CHIBOR) mixed.</headline>
+<dateline>SHANGHAI 1997-03-28</dateline>
+<text>
+<p>Following is the China Interbank Offered Rate (CHIBOR) for Friday issued by the official Xinhua news agency on behalf of the People's Bank of China, the central bank.</p>
+<p>The figures represent weighted averages and not closing prices and are annual percentage rates.</p>
+<p>		1DAY   7DAY  20DAY   30DAY 60DAY  90DAY  120DAY</p>
+<p> FRIDAY    11.160 11.125 11.312 11.136 11.541 11.309 no trade</p>
+<p>THURSDAY  10.659 11.095 11.555 11.234 11.394 11.318 11.676</p>
+<p>Turnover rose to 3.859 billion yuan from 2.517 billion yuan on Thursday and the seven-day contract was the most active.  </p>
+<p>Traders said the active domestic A share market and several new issues and listings remained as the key supports for the market while state banks cut their trading today.</p>
+<p>There were four new issues and two listings on the A share markets in Shanghai and Shenzhen.</p>
+<p>But the expectation of a cut in bank reserve ratios since April has prevented the rates from rising, local traders said.</p>
+<p>Traders said that some non-banking financial institutions, encouraged by the A shares, were still significant buyers while some short-term financial centres such as Beijing remained the most active sellers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

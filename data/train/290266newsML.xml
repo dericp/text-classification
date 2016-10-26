@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="290266" id="root" date="1997-01-07" xml:lang="en">
+<title>USA: Media General to sell 43 newspapers.</title>
+<headline>Media General to sell 43 newspapers.</headline>
+<dateline>RICHMOND, Va. 1997-01-07</dateline>
+<text>
+<p>Media General Inc said Tuesday it had agreements in principle to sell 43 newspapers for about $107 million to Community Newspaper Holdings Inc.</p>
+<p>It also has agreements to trade and buy a series of other newspapers. The transactions are related to its acquisition of Park Acquisitions Inc.</p>
+<p>The newspapers to be sold to Community Newspapers of Lexington, Ky., are in and around Clinton and Lumberton, N.C.; Sapulpa and McAlester, Okla.; Devil's Lake, N.D.; Burley, Idaho; Jefferson and Plymouth, Ind.; Effingham and Macomb, Ill.; Lockport and Medina, N.Y.; and Warner Robins, Ga.</p>
+<p>Media General said it also plans to sell five newspapers in and around Bemidji, Minn., to Forum Communications Inc, 10 newspapers in and around Hudson and Ogdensburg, N.Y., to Johnson Newspaper Corp, two newspapers in Rockingham County, N.C., to Community Newspapers and two newspapers in and around Coldwater, Mich., to Wicks Group of Cos Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47510">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RICHMOND, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

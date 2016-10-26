@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255075" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Cymer completes secondary offer.</title>
+<headline>Cymer completes secondary offer.</headline>
+<dateline>SAN DIEGO 1996-12-12</dateline>
+<text>
+<p>Cymer Inc said on Friday it has completed its secondary stock offer of two million common shares at a price of $42 a share.</p>
+<p>In the offer, Cymer sold 1.27 million shares and stockholders sold the remainder. Net proceeds to Cymer, a maker of excimer laser light sources, will be used to expand manufacturing capacity and for general corporate purposes.</p>
+<p>The company completed its initial public offering in September, when it sold 3.34 million shares at $9.50 a share.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN DIEGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

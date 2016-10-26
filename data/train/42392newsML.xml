@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="42392" id="root" date="1996-09-09" xml:lang="en">
+<title>SOUTH KOREA: Samsung Elec develops Internet TV.</title>
+<headline>Samsung Elec develops Internet TV.</headline>
+<dateline>SEOUL 1996-09-09</dateline>
+<text>
+<p>Samsung Electronics Co has developed a 29-inch television that also provides Internet access, a company statement said on Monday.</p>
+<p>The company, a unit of South Korea's Samsung Group, plans to have the Internet TV out on the Korean market before Christmas.</p>
+<p>Samsung has invested more than two billion won over the past two years in the development of the television.</p>
+<p>It will begin exporting the product to the United States in 1997 and introduce it to the Japanese market by 1998.</p>
+<p>The product comes with a 33,600 baud per second modem, a Web browser, and a PC overlay function that allows the user to watch television while accessing on-line services.</p>
+<p>-- Seoul Newsroom (822) 727 5644</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

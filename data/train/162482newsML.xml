@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="162482" id="root" date="1996-11-03" xml:lang="en">
+<title>ISRAEL: Israel's diamond exports up 36 pct in October.</title>
+<headline>Israel's diamond exports up 36 pct in October.</headline>
+<dateline>TEL AVIV 1996-11-03</dateline>
+<text>
+<p>Israel's net exports of polished diamonds in October rose 36 percent to $421 million from $309 million a year earlier, the Industry and Trade Ministry said.</p>
+<p>In the first 10 months of the year exports of polished diamonds rose six percent to $3.4 billion from $3.2 billion.</p>
+<p>In the same period, exports of uncut diamonds grew 16 percent to $660 million from $570 million.</p>
+<p>The United States, Japan, Hong Kong and Belgium accounted for 86 percent of Israel's exports.</p>
+<p>- Tel Aviv newsroom, 972-3-537-2211</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEL AVIV"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

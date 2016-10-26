@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="104113" id="root" date="1996-10-08" xml:lang="en">
+<title>DENMARK: FORECAST-Danish shares seen 6.7 pct up by Oct 1997.</title>
+<headline>FORECAST-Danish shares seen 6.7 pct up by Oct 1997.</headline>
+<dateline>COPENHAGEN 1996-10-08</dateline>
+<text>
+<p>Leading Danish share prices are expected to rise by an average 6.7 percent by end-Sept 1997, according to a Reuter poll of analysts' forecasts issued on Tuesday.</p>
+<p>Eight analysts saw the Copenhagen bourse's top-20 KFX index rising to between 120 and 140 at the end of September next year, an average of 133 -- compared to Monday's record high closing of 125.35.</p>
+<p>They forecast an almost unchanged average of 126 by end-December 1996 rising to 129 by end-March 1997, as economic growth improves.</p>
+<p>Industry, building and construction sector paper were poised for the most palpaple gains, while shipping and medicinal shares were seen by the panel as doing less well in the 12-month period.</p>
+<p>-- Chris Follett, Copenhagen newsroom +45-33969652</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

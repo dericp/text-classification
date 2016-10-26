@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="702572" id="root" date="1997-07-02" xml:lang="en">
+<title>USA: PTI Holding inc to buy SAS Safety.</title>
+<headline>PTI Holding inc to buy SAS Safety.</headline>
+<dateline>HASTINGS-ON-HUDSON, N.Y. 1997-07-02</dateline>
+<text>
+<p>PTI Holding Inc, a maker of sports saftey equipment, said it is buying SAS Safety Corp in order to expand its presence in the safety equipment business.</p>
+<p>SAS Safety, based in Long Beach, Calif., is a 15-year-old privately owned manufacturer and supplier of industrial safety and compliance products required by government enforcement agencies.</p>
+<p>SAS Safety sales topped $9 million in the fiscal year ending February 28, 1997, PTI said in a statement.</p>
+<p>PTI will use cash and stock to buy the privately held SAS.</p>
+<p>Eact financial terms of the sale were not disclosed.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HASTINGS-ON-HUDSON, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

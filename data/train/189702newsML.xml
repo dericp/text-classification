@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="189702" id="root" date="1996-11-14" xml:lang="en">
+<title>USA: Intercargo Corp Q3 net declines.</title>
+<headline>Intercargo Corp Q3 net declines.</headline>
+<dateline>SCHAUMBURG, Ill. 1996-11-14</dateline>
+<text>
+<p>(in thousands, except per share data)</p>
+<p>					   Third Quarter   Nine Months</p>
+<p>					  1996     1995    1996    1995</p>
+<p> Insurance premium income     $13,365 $20,908 $44,696 $64,526</p>
+<p> Net investment income		797   1,453   2,784   4,501</p>
+<p> Commission income		    133	95     519     336</p>
+<p> Other income			    39     647     134   1,033</p>
+<p>   Total Revenues		  14,334  23,103  48,133  70,396</p>
+<p>Losses and loss adjustment</p>
+<p>  expenses			    7,062  11,936  23,114  35,143</p>
+<p> Policy acquisition costs	 4,342   4,989  13,039  14,958</p>
+<p> Other underwriting expenses    3,106   3,783  10,001  11,315</p>
+<p> Interest expense		     161     291     503     705</p>
+<p>   Total Costs/Expenses	  14,671  20,999  46,657  62,121</p>
+<p> Operating income		   (337)   2,104   1,476   8,275</p>
+<p> Income tax expense		 (199)     476     404   2,497</p>
+<p>Equity in net income of</p>
+<p>  investee				809	 -   2,469	 -</p>
+<p> Net income			     671   1,628   3,541   5,778</p>
+<p> Average shares outstanding     7,658   7,673   7,658   7,666</p>
+<p> Net income per share		0.09    0.21    0.46    0.75</p>
+<p>-- Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SCHAUMBURG, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

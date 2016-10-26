@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="214619" id="root" date="1996-11-25" xml:lang="en">
+<title>ITALY: Prodi hopes lower Italy CPI will lead to rate cuts.</title>
+<headline>Prodi hopes lower Italy CPI will lead to rate cuts.</headline>
+<dateline>TRIESTE, Italy 1996-11-25</dateline>
+<text>
+<p>Italian Prime Minister Romano Prodi said that he hoped that falling inflation would lead to reductions in official Italian interest rates.</p>
+<p>Preliminary data from 10 sample Italian cities last week indicated a November year-on-year inflation rate of 2.6 percent, down from 3.0 percent in October.</p>
+<p>&quot;Inflation at 2.6 percent is a level we can be proud of. I hope that the cost of money may finally fall. I hope we can have a future without interest rates which kill you,&quot; he told reporters.  </p>
+<p>Prodi, on a visit to this northeast Italian port city, said the Italian economy had touched its lowest point in July.</p>
+<p>&quot;But since then we are already seeing a slight but continuous revival. Government measures will take the country into a situation of recovery next year,&quot; he said.</p>
+<p>-- Milan newsroom +392 66129589</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TRIESTE, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="268168" id="root" date="1996-12-19" xml:lang="en">
+<title>USA: Merck and Rhone-Poulenc form animal health co.</title>
+<headline>Merck and Rhone-Poulenc form animal health co.</headline>
+<dateline>WHITEHOUSE STATION, N.J. 1996-12-19</dateline>
+<text>
+<p>Merck &amp; Co Inc and Rhone-Poulenc said Thursday they plan to combine their animal health and poultry genetics businesses to form a new company that will be the largest in the animal health and poultry genetics industries, a statement from the two companies said.</p>
+<p>The new, global company, to be called Merial Animal Health, will be a stand-alone, 50-50 joint venture with a revenue base of $1.7 billion (approximate combined 1996 sales), the statement said.</p>
+<p>In 1995, the Merck animal health and Rhone Merieux animal health businesses held second-and fourth-place market rankings respectively, the statement said.</p>
+<p>Their combined 1996 sales will be about $1.4 billion in a market totaling $10.7 billion, the statement said.</p>
+<p>Merial Animal Health is expected to be fully operational in the second quarter of 1997, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHITEHOUSE STATION, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

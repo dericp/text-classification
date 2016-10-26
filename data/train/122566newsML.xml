@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="122566" id="root" date="1996-10-17" xml:lang="en">
+<title>USA: Standard Register Q3 shr rises to $0.56.</title>
+<headline>Standard Register Q3 shr rises to $0.56.</headline>
+<dateline>DAYTON, Ohio 1996-10-17</dateline>
+<text>
+<p>9/29/96		    10/5/95</p>
+<p> Shr		 $0.56		    $0.41</p>
+<p> Net		 16,065		   11,718</p>
+<p> Revs		230,853		  227,922</p>
+<p> Avg shrs	  28,686		   28,657</p>
+<p>	  9  MONTHS</p>
+<p> Shr		 $1.59		    $1.21</p>
+<p> Net		 45,714		   34,540</p>
+<p> Revs		699,878		  654,944</p>
+<p> Avg shrs	  28,686		   28,657</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>Full company register company is Standard Register Co</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAYTON, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180685" id="root" date="1996-11-11" xml:lang="en">
+<title>LEBANON: All Lebanese t-bill yields fall.</title>
+<headline>All Lebanese t-bill yields fall.</headline>
+<dateline>BEIRUT 1996-11-11</dateline>
+<text>
+<p>All yields fell on Lebanese treasury bills, according to weekly rates issued by the Bank of Lebanon on Monday.</p>
+<p>It announced the following interest rates for its November 14 issues (previous week in brackets):</p>
+<p>    Term		    Discount		    Yield</p>
+<p>				(percent)		   (percent)</p>
+<p>    Three months	  13.94 (14.05 )	    14.44  (14.56)</p>
+<p>    Six months	    15.49 (15.58)	     16.79  (16.89)</p>
+<p>    12 months	     15.00 (15.08)	     17.64  (17.75)</p>
+<p>    24 months   (Interest payable twice yearly) 21.42  (21.58)</p>
+<p>-Beirut editorial (961 1) 864148 602057 645456</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

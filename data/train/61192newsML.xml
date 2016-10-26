@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="61192" id="root" date="1996-09-18" xml:lang="en">
+<title>MEXICO: Mexico TIIE 28-day rate falls to 25.9450 pct.</title>
+<headline>Mexico TIIE 28-day rate falls to 25.9450 pct.</headline>
+<dateline>MEXICO CITY 1996-09-18</dateline>
+<text>
+<p>Mexico's 28-day TIIE equilibrium interbank interest rate fell to 25.9450 percent on Wednesday compared to Tuesday's rate of 25.9550 percent, the Mexican Stock Exchange said.</p>
+<p>The TIIP average interbank interest rate fell to 25.9069 percent on Wednesday, compared to 26.3821 on September 11.</p>
+<p>The TIIE is a market-weighted average interbank rate and revised daily.</p>
+<p>The TIIP is a market-weighted average interbank rate revised weekly.</p>
+<p>The TIIP is being phased out in favour of the TIIE.</p>
+<p>--Mexico City newsroom (525) 728-9558</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

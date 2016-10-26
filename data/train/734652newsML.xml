@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="734652" id="root" date="1997-07-17" xml:lang="en">
+<title>USA: Nasdaq closing most actives - July 17.</title>
+<headline>Nasdaq closing most actives - July 17.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Following were the most active issues in Nasdaq trading Thursday.</p>
+<p>  Intel Corp	  25,765,800	 87 13/16 off    9/16</p>
+<p>  Microsoft Cp	16,440,100	149 1/2    up  1 1/16</p>
+<p>  Octel Comms Cp    16,249,500	 30 1/8    up  3 3/8</p>
+<p>  Sun Microsys	14,379,700	 45 9/16   up    9/16</p>
+<p>  Three Com Cp	10,525,400	 55 9/16  off  2 13/16</p>
+<p>  Mci Comms Cp	10,401,200	 35 11/16 off  1 1/8</p>
+<p>  Quantum Corp	 9,041,000	 27 1/16  off    9/16</p>
+<p>  Dell Computer	7,770,400	148 3/4    up   13/16</p>
+<p>  Cirrus Logic	 7,642,300	 13 3/8    up  1 7/8</p>
+<p>  Cisco Systems	7,303,300	 78 11/16 off    5/8</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

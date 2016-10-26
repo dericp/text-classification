@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273342" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: U.S. cash soymeal - Basis steady-down, trade slow.</title>
+<headline>U.S. cash soymeal - Basis steady-down, trade slow.</headline>
+<dateline>CHICAGO 1996-12-23</dateline>
+<text>
+<p>Soybean basis offers were steady to modestly lower Monday in slow holiday-type trading, cash dealers said.</p>
+<p>&quot;There's absolutely nothing going on,&quot; said one southern broker. &quot;Basically, we're in a pre-Christmas slump.&quot;</p>
+<p>Most buyers have already covered their needs ahead of the Christmas holiday on Wednesday, but dealers reported light buying from end-users covering needs for next week.</p>
+<p>&quot;Business is light, it should be light,&quot; a broker said.</p>
+<p>A northern Midwest broker also reported that some processors were oversold and were shipping soymeal.  </p>
+<p>Spot rail soymeal (dollars/ton basis CBOT, 47.5 pct protein):</p>
+<p> Chicago		     +16.00  +  F	 - dn 1.00</p>
+<p> Danville, Ill.	    +16.00  +  F	 - unc</p>
+<p> Decatur, Ill.	     +16.00  +  F	 - unc</p>
+<p> Guntersville, Ala.	+27.00  +  F	 - unc</p>
+<p> Lancaster, Pa. delvrd   +39.00  +  F	 - unc</p>
+<p> Kansas City, Mo.	  +12.00  +  F	 - dn 1.00</p>
+<p> Fostoria, Ohio	    +17.00  +  F	 - unc</p>
+<p> CIF U.S. Gulf (nom)     +27.00  +  F	 - unc</p>
+<p> FOB U.S. Gulf (nom)     +31.00  +  F	 - unc</p>
+<p>(Note: F=CBOT January)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

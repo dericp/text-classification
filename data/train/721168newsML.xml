@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="721168" id="root" date="1997-07-10" xml:lang="en">
+<title>PHILIPPINES: PSE freezes E.Asia Power, PhilEstate.</title>
+<headline>PSE freezes E.Asia Power, PhilEstate.</headline>
+<dateline>MANILA 1997-07-10</dateline>
+<text>
+<p>The Philippine Stock Exchange (PSE) said on Thursday it froze the share prices of East Asia Power Resources Corp and the Philippine Estate Corp in midsession.</p>
+<p>The PSE compliance department said it decided to stop the rise of East Asia when it climbed 1.65 peso, or 50 percent, to 4.95 pesos. At the same time, it stemmed the fall of Philippine Estate when the real estate firm fell two pesos, or 39.29 percent, to 3.40 pesos.</p>
+<p>The PSE said it has asked the two companies to explain the sudden change in their share prices.</p>
+<p>The stock exchange automatically freezes the price of a stock if it rises by about 50 percent or falls by about 40 percent in a single trading session.</p>
+<p>-- Manila newsroom (63 2) 8418939 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

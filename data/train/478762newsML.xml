@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478762" id="root" date="1997-04-01" xml:lang="en">
+<title>MEXICO: FORECAST-Mexico 27-day Cetes seen up to 21.22 pct.</title>
+<headline>FORECAST-Mexico 27-day Cetes seen up to 21.22 pct.</headline>
+<dateline>MEXICO CITY 1997-04-01</dateline>
+<text>
+<p>Interest rates on Mexico's bellwether 27-day Cetes, or T-bills, are seen rising 63 basis points to 21.22 percent, and rates are also seen rising at longer terms, according to a Reuters' survey of nine Cetes dealers.</p>
+<p>Following is a table comparing last week's primary rates versus expectations for this week's auction and the expected change in basis points.</p>
+<p>    TERM	LAST WEEK    THIS WEEK'S SURVEY   CHANGE</p>
+<p>    27-DAY     20.59	    21.22		     63 bps</p>
+<p>    91-DAY     21.38	    21.84		     46 bps</p>
+<p>    182-DAY    21.94	    22.34		     40 bps</p>
+<p>    1-YEAR     23.44	    23.73		     29 bps</p>
+<p>The results will be released by Banco de Mexico at 1830 (0030 GMT).</p>
+<p>((- Mexico City newsroom +525 728-9559))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

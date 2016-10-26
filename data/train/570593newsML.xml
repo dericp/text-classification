@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="570593" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: NYMEX ACCESS energy markets thin after glitch.</title>
+<headline>NYMEX ACCESS energy markets thin after glitch.</headline>
+<dateline>LOS ANGELES 1997-05-07</dateline>
+<text>
+<p>U.S. energy futures prices were unchanged on Wednesday's ACCESS session, dampened after a technical problem forced the computerized market to halt trade from 1630 EDT/2330 GMT to 1910 EDT/0210 GMT, traders said.</p>
+<p>Traders said ACCESS computers lost links to news service pricing databases and were shut.</p>
+<p>&quot;We've been open for an hour-and-a-half and not a lot has happened,&quot; one traders said at 2030 EDT.</p>
+<p>Crude oil for June delivery on NYMEX traded at $19.63 around that time, up one cent a barrel from the daytime close of $19.62.</p>
+<p>The technical problem thinned crude oil trade to a very light 240 lots for June and 375 total.</p>
+<p>After-hours, NYMEX June heating oil rose 0.12 cents a gallon to 53.20 cents, as 29 lots changed hands in the front month and 30 in all months, traders said.</p>
+<p>NYMEX June unleaded gasoline futures eased 0.02 cents a gallon to 60.90 cents as 19 lots traded in June and 20 total.</p>
+<p>((David Brinkerhoff, Los Angeles bureau +1 213 380 2014))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

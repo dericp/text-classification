@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="784005" id="root" date="1997-08-07" xml:lang="en">
+<title>USA: Applied Industrial sees 25 pct sales jump.</title>
+<headline>Applied Industrial sees 25 pct sales jump.</headline>
+<dateline>CLEVELAND 1997-08-07</dateline>
+<text>
+<p>Applied Industrial Technologies said Thursday that it expects sales growth of over 25 percent in fiscal 1998.</p>
+<p>Applied Industrial reported earnings of $0.72 a share for the fourth quarter ended June 30, 1997, compared with $0.61 a share the previous fourth quarter.</p>
+<p>&quot;With the completion of the Invetech acquisition last week, we expect to increase sales by over 25 percent for fiscal 1998,&quot; said John Dannemiller, company chairman and chief executive officer, in a press release.</p>
+<p>&quot;We also expect to make additional acquisitions in fiscal 1998 to expand our geographical presence and market share and to penetrate further into existing and new markets with our non-bearing technologies,&quot; he said.</p>
+<p>Applied Industrial is a distributors of bearings, mechanical and electrical drive systems, industrial rubber products, fluid power components and specialty maintenance and repair products.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CLEVELAND"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

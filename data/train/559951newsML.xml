@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="559951" id="root" date="1997-05-05" xml:lang="en">
+<title>USA: Ralston Purina spinoff delayed to 1998.</title>
+<headline>Ralston Purina spinoff delayed to 1998.</headline>
+<dateline>ST. LOUIS, Mo. 1997-05-05</dateline>
+<text>
+<p>Ralston Purina Co said Monday it expects to complete a tax-free spinoff of its international agricultural feeds business in early 1998.</p>
+<p>The company had previously announced an expected completion date by the end of calendar 1997.  However, the complexities of the spinoff required for the multiple international locations have extended the timing, Ralston Purina said in a statement.  </p>
+<p>Ralston Purina's international animal feeds business includes 60 animal feed milling operations in 16 countries. Sales of the unit in fiscal 1996 were about $1.4 billion.</p>
+<p>On March 29, 1996, Ralston Purina announced its plan to spin off its international agricultural animal feeds business tax-free to shareholders.  The spinoff requires a favorable tax ruling from the U.S. Internal Revenue Service and approval by Ralston Purina's directors.</p>
+<p>		    ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

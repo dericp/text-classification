@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="777798" id="root" date="1997-08-05" xml:lang="en">
+<title>USA: U.S. SDR rate moved to 1.34779.</title>
+<headline>U.S. SDR rate moved to 1.34779.</headline>
+<dateline>WASHINGTON 1997-08-05</dateline>
+<text>
+<p>The International Monetary Fund said the exchange value of the U.S. dollar against the SDR was 1.34779, versus 1.34897 yesterday and 1.20635 on July 1, 1974.</p>
+<p>Other currency values against the SDR today and yesterday were as follows.</p>
+<p>			  Aug 5	Aug 4</p>
+<p> Deutsche Mark     2.53587    2.52527</p>
+<p> French Franc	8.54701    8.51065</p>
+<p> Japanese Yen	159.511    159.988</p>
+<p> Pounds Sterling   0.827830   0.829115</p>
+<p> Australian Dlr    1.82257	n/a</p>
+<p> Aust Schilling    17.8218    17.7376</p>
+<p> Belgian Franc     52.0382    52.0163</p>
+<p> Canadian Dlr	  n/a	  n/a</p>
+<p> Danish Kroner     9.61042    9.59927</p>
+<p> Indonesian Rupiah   n/a	  n/a</p>
+<p> Iranian Rial	2364.07    2374.39</p>
+<p> Italian Lire	  n/a	2469.68</p>
+<p> Kuwait Dinar	0.411170    0.41153</p>
+<p> Dutch Guilder     2.85111    2.84201</p>
+<p> Norwegian Kroner  10.3962    10.3938</p>
+<p> Saudi Arab Riyal  5.04747    5.05189</p>
+<p> S.A. Rand	     n/a	6.27878</p>
+<p> Spanish Peseta    214.016    212.989</p>
+<p> Swedish Kronor    10.8699    10.8235</p>
+<p> Swiss Franc	 2.06724    2.07080</p>
+<p> U.A.E. Dirham     4.94774    4.95207</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

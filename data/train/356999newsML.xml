@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="356999" id="root" date="1997-02-05" xml:lang="en">
+<title>BRAZIL: Brazil's lower house to choose new president.</title>
+<headline>Brazil's lower house to choose new president.</headline>
+<dateline>BRASILIA 1997-02-05</dateline>
+<text>
+<p>Brazil's Chamber of Deputies was due to elect its new president on Wednesday with the government hoping to complete its &quot;dream ticket&quot; of pro-reform allies running both houses of Congress.</p>
+<p>Dep. Michel Temer, lower house leader of the Brazilian Democratic Movement Party (PMDB) who last year rescued the</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

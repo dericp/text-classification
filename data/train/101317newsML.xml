@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101317" id="root" date="1996-10-07" xml:lang="en">
+<title>HONG KONG: Trading of Chung Hwa shares suspended.</title>
+<headline>Trading of Chung Hwa shares suspended.</headline>
+<dateline>HONG KONG 1996-10-07</dateline>
+<text>
+<p>Trading in shares of packager Chung Hwa Development Holdings Ltd was suspended on Monday at the direction of the Stock Exchange of Hong Kong pending an announcement, the Exchange said.</p>
+<p>The shares closed at HK$1.39 on Friday.  </p>
+<p>Chung Hwa said last week it had proposed spinning off its wholly-owned Leading Edge Packaging Inc on the Nasdaq National Market in the United States, but the terms of the public offer had not yet been finalised.</p>
+<p>The company has filed a registration statement with the U.S. Securities and Exchange Commission for a public offering of 1.25 million shares in its Leading Edge subsidiary.</p>
+<p>-- Hong Kong newsroom (852) 2843 6345</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

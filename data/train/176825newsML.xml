@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="176825" id="root" date="1996-11-08" xml:lang="en">
+<title>TURKEY: Turkey says Kurd rebels kill 15 in minibus attack.</title>
+<headline>Turkey says Kurd rebels kill 15 in minibus attack.</headline>
+<dateline>ANKARA 1996-11-08</dateline>
+<text>
+<p>Kurdish guerrillas have killed 15 people, including nine members of an anti-rebel village militia, in a rocket attack on a minibus in southeast Turkey, the state-run Anatolian news agency reported on Friday.</p>
+<p>It said Kurdistan Workers Party (PKK) rebels attacked the vehicle in the southeastern province of Hakkari, near the mountainous border with Iraq.</p>
+<p>Turkish troops killed almost 30 guerrillas in three days of operations on the border earlier this week.</p>
+<p>More than 21,000 people have died in 12 years of clashes between security forces and the PKK, fighting for Kurdish self-rule in southeast Turkey.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

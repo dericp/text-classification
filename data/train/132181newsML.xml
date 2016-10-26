@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="132181" id="root" date="1996-10-21" xml:lang="en">
+<title>TURKEY: U.S. envoy and Iraqi Kurd leader begin talks.</title>
+<headline>U.S. envoy and Iraqi Kurd leader begin talks.</headline>
+<dateline>SILOPI, Turkey 1996-10-21</dateline>
+<text>
+<p>A senior U.S. diplomat began a meeting with Iraqi Kurdish warlord Massoud Barzani in Turkey on Monday for talks on ending a Kurdish feud that has damaged Washington's influence in north Iraq.</p>
+<p>Barzani, wearing traditional Kurdish costume, and U.S. envoy Robert Pelletreau shook hands for the media at a Turkish military base in the border town of Silopi before the talks.</p>
+<p>Crack Turkish troops threw a tight ring of security around the building.</p>
+<p>Pelletreau, assistant secretary of state for near eastern affairs, was also due to meet Barzani's adversary Jalal Talabani, head of the Patriotic Union of Kurdistan (PUK), in Turkey on Tuesday.</p>
+<p>Fighting between the two factions since August has raised the profile of President Saddam Hussein in northern Iraq and effectively ended the U.S. military, aid and intelligence presence in the mountainous region.</p>
+<p>The rival Kurds exchanged artillery fire on Sunday for control of the strategic Dukan Dam.</p>
+<p>Barzani tipped the balance of power in his favour in late August by joining with Iraqi troops and tanks to take Arbil, Iraqi Kurdistan's former administrative centre.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SILOPI, Turkey"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

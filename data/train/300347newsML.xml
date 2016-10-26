@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300347" id="root" date="1997-01-10" xml:lang="en">
+<title>BELGIUM: Belgolux Jan-Oct trade surplus narrows.</title>
+<headline>Belgolux Jan-Oct trade surplus narrows.</headline>
+<dateline>BRUSSELS 1997-01-10</dateline>
+<text>
+<p>The National Statistics</p>
+<p>Institute released the following provisional data on trade in</p>
+<p>the Belgo-Luxembourg Economic Union (in billions of francs) -</p>
+<p>    BELGOLUX TRADE		   Oct 96    Sep 96    Oct 95</p>
+<p>    Exports			    487.8     452.9     447.6</p>
+<p>    Imports			    437.6     408.4     398.6</p>
+<p>    Balance			     50.2	44.4	49.0</p>
+<p>					Jan-Oct 96	    Jan-Oct 95</p>
+<p>    Exports (cumulative)	 4,334.4		 4,204.9</p>
+<p>    Imports (cumulative)	 4,010.3		 3,819.7</p>
+<p>    Balance			    324.1		   385.1</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="LUX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

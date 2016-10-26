@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="118987" id="root" date="1996-10-16" xml:lang="en">
+<title>USA: RESEARCH ALERT - Bank Gdanski started.</title>
+<headline>RESEARCH ALERT - Bank Gdanski started.</headline>
+<text>
+<p>-- Caspian Securities said it started coverage of Poland's Bank Gdanski S.A. with a buy rating.</p>
+<p>-- Analysts Damon Palmer and Petru Vaduva wrote, &quot;With its strong regional franchise, solid retail funding base and one of the best asset quality records in Poland, Bank Gdanski is set to emerge as a regional powerhouse in Poland's rapidly growing banking sector.&quot;</p>
+<p>-- They added, &quot;We expect Gdansk to post strong earnings growth of roughly 22 percent and 18 percent in 1996 and 1997, respectively, in U.S. dollar terms.&quot;</p>
+<p>-- Ian Simpson, Wall Street desk, (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="389822" id="root" date="1997-02-19" xml:lang="en">
+<title>USA: Former ABC exec joins Dreamworks.</title>
+<headline>Former ABC exec joins Dreamworks.</headline>
+<dateline>LOS ANGELES 1997-02-18</dateline>
+<text>
+<p>Ted Harbert, who resigned Saturday as president of Walt Disney Co.'s ABC Entertainment, was signed to an exclusive deal to develop and produce television shows for DreamWorks SKG, the studio announced Tuesday.</p>
+<p>DreamWorks said Harbert would immediately join the situation comedy &quot;Arsenio&quot; as executive producer, along with Tim O'Donnell and Arsenio Hall. The show makes its debut on the ABC television network March 5.</p>
+<p>&quot;To have a talent like Ted Harbert, who has 20 years of experience, go from the executive ranks to the producing side of the business is a unique and valuable opportunity,&quot; said Jeffrey Katzenberg, the former Disney executive who founded Dreamworks with Steven Spielberg and David Geffen.</p>
+<p>&quot;He brings a tremendous wealth of experience and expertise to the table, and we are happy that he has decided to join us,&quot; Katzenberg said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="576120" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: CBOT estimated futures/options volume - May 12.</title>
+<headline>CBOT estimated futures/options volume - May 12.</headline>
+<text>
+<p>Futures	Options</p>
+<p> Wheat	20,000	 10,000</p>
+<p> Corn	 65,000	 17,000</p>
+<p> Oats	  1,600	    200</p>
+<p> Soybeans   60,000	 22,000</p>
+<p> Soymeal    31,000	  3,100</p>
+<p> Soyoil     16,000	  2,500</p>
+<p> Rice	    750	    200</p>
+<p> T-Bonds   585,000	 96,000</p>
+<p> 10yrTNote  35,678	 20,000   Note: volume in</p>
+<p> 5yrTNote   28,000	  5,200   contracts.</p>
+<p>Source: Chicago Board of Trade (Chicago desk 312-408-8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

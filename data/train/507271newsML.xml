@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="507271" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: BPA out of daily power market Tues through Thurs.</title>
+<headline>BPA out of daily power market Tues through Thurs.</headline>
+<dateline>LOS ANGELES 1997-04-14</dateline>
+<text>
+<p>The Bonneville Power Administration (BPA) offered no surplus power for Tuesday thorugh through Thursday, the agency said Monday.</p>
+<p>BPA first pulled out of the market last Wednesday, citing low streamflows caused by cool weather, earlier block power sales and the start of fish spill programs at Snake River hydropower projects.</p>
+<p>A trader at BPA said Monday &quot;we did not foresee these kind of low flows for April.&quot;</p>
+<p>He added the agency will be buying power to cover its own commitments and does not anticipate significantly warmer weather in the near term.</p>
+<p>((--Los Angeles bureau +1 213 622 0056))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

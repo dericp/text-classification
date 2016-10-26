@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110014" id="root" date="1996-10-11" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH PARLIAMENT OCTOBER SESSION AGENDA.</title>
+<headline>CZECH PARLIAMENT OCTOBER SESSION AGENDA.</headline>
+<dateline>PRAGUE</dateline>
+<text>
+<p>Below are excerpts from the approved agenda of the new session of the lower house of Czech parliament which began on Tuesday:</p>
+<p>- Draft law on changes in the work of the Competition Office (second and third reading)</p>
+<p>- Government presents state's final account of the Czech Republic for 1995</p>
+<p>- Draft law on state companies (first reading)</p>
+<p>- Draft law on non-profit organisations (first reading)</p>
+<p>- Draft law on customs (first reading)</p>
+<p>- Draft law on income taxes (first reading)</p>
+<p>- Draft law on the state budget for the year 1997 (first reading)</p>
+<p>- National Property Fund annual report for 1995</p>
+<p>Each draft law has to go through three readings:</p>
+<p>In the first reading, the chamber decides on either absolute refusal or further discussion of the draft.</p>
+<p>If not rejected, there is the second reading in which the chamber considers chagnes of the draft law proposed by deputies and again decides whether the draft law would be rejected or whether a deeper discussion would follow.</p>
+<p>If it passes the second, there comes the third reading in which only minor changes can be adopted in the draft law and then the chamber decides on final passage or rejection.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

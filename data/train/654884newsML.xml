@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="654884" id="root" date="1997-06-11" xml:lang="en">
+<title>MONGOLIA: Mongolia seeks China's help in plane crash probe.</title>
+<headline>Mongolia seeks China's help in plane crash probe.</headline>
+<dateline>ULAN BATOR 1997-06-11</dateline>
+<text>
+<p>Mongolia expects China to help its probe into the crash of a Chinese-built plane that killed seven people, Mongolian officials said on Wednesday.</p>
+<p>They said the cause of Tuesday's crash of a Yun-12 plane operated by Mongolian Airlines (MIAT) was still unknown.</p>
+<p>The plane carrying 12 people from Ulan Bator exploded in the air when it was trying to land at Mandelgobi, about 280 km (170 miles) south of the capital, the officials said.</p>
+<p>They said five people, three passengers and two crew members, survived.</p>
+<p>Earlier reports had said three survived.</p>
+<p>Witnesses told Reuters they saw the plane explode and crash as it neared the airport. The wreckage was a few hundred metres short of the airport runway.</p>
+<p>Investigators said the Yun-12 airplane was made by the Harbin Airplane Factory in 1992.</p>
+<p>An official at the Harbin plant in northeastern China, contacted by Reuters, said the company had not been formally asked to assist in the investigation.</p>
+<p>He said the company had made its first sale of Yun-12 aircraft to Mongolia in 1991.</p>
+<p>He did not disclose how many of the planes were in service in Mongolia but he said the company had exported more than 70 of them since 1989.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="MONGLA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ULAN BATOR"/>
+<dc element="dc.creator.location.country.name" value="MONGOLIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

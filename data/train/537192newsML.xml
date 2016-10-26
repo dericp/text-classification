@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="537192" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Conn. schools to receive 29 pct more U.S. funds.</title>
+<headline>Conn. schools to receive 29 pct more U.S. funds.</headline>
+<dateline>HARTFORD 1997-04-23</dateline>
+<text>
+<p>Connecticut's schools will receive $67.01 million, a 29 percent increase from the U.S. Department of Education for programs aimed at improving education for disadvantaged youth, the state's two U.S. senators said on Wednesday.</p>
+<p>The state will receive an additional $15.21 million this year, Democratic Senators Chris Dodd and Joe Lieberman said.</p>
+<p>They said Connecticut's funding was increased because of a recalculation of census data on poverty levels authorized by the Elementary and Secondary Education Act.</p>
+<p>((--Hartford newsroom (860) 727-0224))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARTFORD"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

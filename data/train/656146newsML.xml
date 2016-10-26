@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656146" id="root" date="1997-06-12" xml:lang="en">
+<title>COLOMBIA: Colombian bank Bancoquia gets new name.</title>
+<headline>Colombian bank Bancoquia gets new name.</headline>
+<dateline>BOGOTA 1997-06-12</dateline>
+<text>
+<p>Colombian bank Bancoquia was renamed Banco Santander Colombia Thursday to reflect its imminent takeover by the Spanish banking group.</p>
+<p>The decision, adopted at a shareholders' meeting, follows the last month's announcement of Banco Santander SA's agreement to acquire a 55 percent stake in Bancoquia for $146 million.</p>
+<p>The takeover is expected to be completed before July 30.</p>
+<p>Medellin-based Bancoquia, Colombia's eighth largest commercial bank in terms of assets, is the financial arm of the powerful Julio Mario Santo Domingo conglomerate.</p>
+<p>((-- Javier Mozzo, Bogota newsroom, 571 610 7944))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

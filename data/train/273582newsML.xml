@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273582" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Integrated Packaging sees break-even Q4.</title>
+<headline>Integrated Packaging sees break-even Q4.</headline>
+<dateline>SAN JOSE, CALIF. 1996-12-23</dateline>
+<text>
+<p>Integrated Packaging Assembly Corp said it expects to report roughly break-even earnings for the fourth quarter amid reduced order levels and lower gross margins.</p>
+<p>The company said the break-even earnings would come from revenues of about $9.5 million for the quarter, which ends December 29.</p>
+<p>The company will announce its results for the quarter on or around January 21.</p>
+<p>The results are lower than analysts' expectations, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN JOSE, CALIF."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

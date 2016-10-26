@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="150271" id="root" date="1996-10-29" xml:lang="en">
+<title>PERU: Peru's September iron output falls 63.2 percent.</title>
+<headline>Peru's September iron output falls 63.2 percent.</headline>
+<dateline>LIMA 1996-10-29</dateline>
+<text>
+<p>Peru's iron output fell 63.2 percent to 109,131 tonnes in September, compared with the same month last year, according to preliminary figures from the Energy and Mines Ministry released Tuesday.</p>
+<p>Production fell 24.2 percent to 2.232 million tonnes in the first nine months of the year, compared with the same period last year, the ministry said.</p>
+<p>Peru's only iron miner is Chinese-owned Shougang Hierro Peru S.A, a former state-owned firm privatized in November 1992.</p>
+<p>Shougang workers held a series of strikes throughout September.</p>
+<p>Output of Peruvian iron dropped 14.33 percent last year to 3.897 million tons compared with 4.549 million tons in 1994.</p>
+<p>-- Saul Hudson, Lima newsroom 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

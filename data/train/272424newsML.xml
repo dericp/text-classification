@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="272424" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: State Street in risk management alliance.</title>
+<headline>State Street in risk management alliance.</headline>
+<dateline>BOSTON 1996-12-23</dateline>
+<text>
+<p>State Street Bank and Trust Co said it has formed an alliance with Windham Capital Management-Boston to provide advanced risk management technology, analytical tools and hedging strategies for global investors.</p>
+<p>The companies also announced the formation of a seven-member advisory council that will support the alliance by collaborating on the development of products and services for improved market risk and  portfolio management. The advisory council will also develop benchmarks for investors with complex muilticurrency, global portfolios.  </p>
+<p>&quot;The enormous increase in cross-border investing has created a heightened need for investors to have similar benchmarks and standards to use when managing risk,&quot; said Stanley Shelton, executive vice president and head of international treasury at State Street.</p>
+<p>Serving with Shelton on the advisory council will be Mark Kritzman, a Windham managing partner; Kenneth Froot of Harvard University; Gary Gastineau of the American Stock Exchange; Alan Marcus, chairman of the finance department at Boston College; Krishna Ramaswamy, a professor of finance at the Wharton School of the University of Pennsylvania, and Don Rich, a professor at Northeastern University.</p>
+<p>&quot;With investors in both the United States and abroad increasing their level of foreign investments, the demand for sophisticated advice with respect to currency risk is increasing,&quot; Kritzman said in a statement.</p>
+<p>State Street Bank and Trust is a unit of State Street Boston Corp.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

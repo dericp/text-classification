@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="233140" id="root" date="1996-12-04" xml:lang="en">
+<title>USA: Drug reduces death rate after routine surgery.</title>
+<headline>Drug reduces death rate after routine surgery.</headline>
+<byline>Gene Emery</byline>
+<dateline>BOSTON 1996-12-04</dateline>
+<text>
+<p>A group of San Francisco doctors said in Thursday's New England Journal of Medicine that they may have uncovered a treatment that &quot;substantially reduces&quot; the risk of death and disability after surgery for people with heart problems.</p>
+<p>The group gave either a placebo or the drug atenolol to 200 volunteers with heart disease who came to the San Francisco Veterans Affairs Medical Center for non-cardiac surgery. Patients received the drug just before the operation and for the remainder of their hospital stay.</p>
+<p>The death rate after six months was 8 percent in the placebo group compared to no deaths among patients who got atenolol, a &quot;beta blocker&quot; that slows the heart rate, lowers blood pressure and reduces the work done by the heart muscle.</p>
+<p>Two years after surgery, the death rate among placebo recipients was 21 percent, more than double the 10 percent rate for the atenolol group.</p>
+<p>&quot;Atenolol during hospitalization can reduce mortality and the incidence of cardiovascular complications for as long as two years after surgery,&quot; said the research team led by Dr. Dennis Mangano. They said the scope of the benefit &quot;was unexpected&quot; despite hints in other studies that various types of heart medications might reduce the after-surgery death rate because none had been conclusively tested on a large scale.</p>
+<p>But in an editorial accompanying the study, Drs. Kim Eagle and James Froehlich urged caution in interpreting the results. They recommended that patients who were getting beta blockers before surgery receive them after surgery and said they might be appropriate for patients with evidence of heart disease.</p>
+<p>&quot;Whether one should routinely give beta blockers to patients with cardiac risk factors but no signs of underlying coronary disease remains unclear,&quot; and prescribing them cannot be recommended on the basis of the Mangano study, Eagle and Froehlich said.</p>
+<p>Mangano, however, said the results were so dramatic they &quot;are a mandate to change the way we treat patients at high risk for cardiac complications.&quot;</p>
+<p>Atenolol appears to work by counteracting some of the stress that surgery imposes on the body, the researchers said.</p>
+<p>&quot;Surgery and recovery are like running ten marathons back to back, and a hallmark of the body's stress response is a greatly increased heart rate,&quot; Mangano said in a separate statement. &quot;Our aim was to counter the stress response by aggressively lowering the heart rate&quot; using the drug.</p>
+<p>Among people who are known to have heart disease, the risk of post-surgical death or disability from heart problems is two to 20 times greater than the risk for those who have no known heart problems prior surgery. That means heart attacks and other heart-related complications affect about 1 million of the 30 million people who undergo non-cardiac surgery.</p>
+<p>Although doctors have recognized the problem for years, they have been reluctant to prescribe beta-blockers after an operation, the Mangano group said, because of a fear that the medicines might increase the risk of heart failure, low blood pressure and breathing problems. The new findings suggest that those concerns may have been exaggerated.</p>
+<p>In the study, patients were considered to be at risk for heart disease if they fell into at least two of the following five categories: over 64, high blood pressure, diabetes, smoked or had a cholesterol count higher than 239 milligrams per deciliter.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

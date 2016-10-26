@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="161416" id="root" date="1996-11-01" xml:lang="en">
+<title>MALAYSIA: Hartamas plans name change to MBf Land.</title>
+<headline>Hartamas plans name change to MBf Land.</headline>
+<dateline>KUALA LUMPUR 1996-11-01</dateline>
+<text>
+<p>Property developer Sri Hartamas Corp Bhd said it was proposing to change its name to MBf Land Bhd.</p>
+<p>In a statement, the company said the proposal is to reflect its association with diversified MBf Holdings Bhd which holds a 13.08 percent equity stake.</p>
+<p>The proposed name change is subject to approvals from the registrar of companies and Sri Hartamas shareholders.</p>
+<p>-- Kuala Lumpur newsroom (603 230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

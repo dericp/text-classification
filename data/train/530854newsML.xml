@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="530854" id="root" date="1997-04-23" xml:lang="en">
+<title>USA: Newport Corp Q1 net rises.</title>
+<headline>Newport Corp Q1 net rises.</headline>
+<dateline>IRVINE, Calif. 1997-04-23</dateline>
+<text>
+<p>(In thousands, except thousands, except per share amounts)</p>
+<p>Three Months Ended</p>
+<p>						 March 31,	 Increase</p>
+<p>						   1997     1996  Percent</p>
+<p>  Net sales				  $31,051 $27,979	11%</p>
+<p>  Cost of sales			     17,532  15,691	---</p>
+<p>  Gross profit				13,519  12,288	 10</p>
+<p>Selling, general and</p>
+<p>    administrative expense		 8,766   8,755	---</p>
+<p>  Research and development expense     2,124   1,891	---</p>
+<p>  Income from operations		   2,629   1,642	 60</p>
+<p>  Interest expense			   (510)   (411)	---</p>
+<p>  Other income (expense), net	    (210)     155	---</p>
+<p>  Income before income taxes	     1,909   1,386	 38</p>
+<p>  Income tax provision			 649     444	---</p>
+<p>  Net income				   1,260     942	 34</p>
+<p>  Net income per share			0.14    0.11	 27</p>
+<p>Number of shares used to calculate</p>
+<p>    net income per share		   9,010   8,793	  2</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IRVINE, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="23370" id="root" date="1996-08-29" xml:lang="en">
+<title>DUBAI: PRESS DIGEST - United Arab Emirates - Aug 29.</title>
+<headline>PRESS DIGEST - United Arab Emirates - Aug 29.</headline>
+<dateline>DUBAI 1996-08-29</dateline>
+<text>
+<p>These are some of the leading stories in the United Arab Emirates press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-ITTIHAD</p>
+<p>- UAE protests Iranian claims in border dispute over Abu Musa island.</p>
+<p>- UAE drops F-15, still interested in F-16, French Rafale in $6 billion warplane deal.</p>
+<p>- Investors so far subscribe to 850 million dirhams worth of al-Khazna Insurance shares.</p>
+<p>AL-KHALEEJ</p>
+<p>- Iranian envoy hands UAE President Sheikh Zaid in Geneva a message from Iran's Rafsanjani.</p>
+<p>- UAE Gross Domestic Product (GDP) up 6.6 percent to 144 billion dirhams in 1995.</p>
+<p>GULF NEWS</p>
+<p>- Singapore shipyards prepare to battle Dubai, threats loom from China, India.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

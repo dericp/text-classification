@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="148376" id="root" date="1996-10-28" xml:lang="en">
+<title>TURKEY: Turkey's 8th beet test shows 7.97 T sugar per ha.</title>
+<headline>Turkey's 8th beet test shows 7.97 T sugar per ha.</headline>
+<dateline>ANKARA 1996-10-28</dateline>
+<text>
+<p>Results of Turkey's eight beet test, carried out on September 30, showed a sugar output of 7.97 tonnes per hectare, compared to 7.31 tonnes at the seventh test, Turkey's state sugar refineries Turkseker said.</p>
+<p>Comparison with the corresponding eight test in 1995 was not available because of an industrial strike then in the sugar sector.  </p>
+<p>Turkseker said average sugar content was 15.9 percent, down from 15.2 percent in the seventh test.</p>
+<p>Turkey holds beet tests at 15-day intervals.</p>
+<p>Details-</p>
+<p>			     8th test 96    8th test 95    7th test 96</p>
+<p>Sugar weight</p>
+<p> per hectare (tonnes)     7.970	    n/a		7.310</p>
+<p>Average sugar</p>
+<p> content (pct)	     15.9		n/a	     15.2</p>
+<p>Number of beets</p>
+<p> per hectare		 78,600	    n/a	     78,570</p>
+<p>Root weight</p>
+<p> per hectare (tonnes)    60.000	    n/a	     47.970</p>
+<p>Ratio of leaf</p>
+<p>weight to beet weight</p>
+<p> (leaf/beet)		  0.38	     n/a		0.44</p>
+<p>--Ercan Ersoy, Ankara Newsroom +90-312-4462940</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="156994" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: Texas power prices hold steady at strong levels.</title>
+<headline>Texas power prices hold steady at strong levels.</headline>
+<dateline>NEW YORK 1996-10-31</dateline>
+<text>
+<p>Bulk wholesale power prices in the Electric Reliability Council of Texas (ERCOT) held steady Thursday at strong levels supported by robust natural gas prices, industry sources said.</p>
+<p>Peak, firm electricity in ERCOT for Friday delivery was talked steady at $27.00-30.00 per megawatt hour (MWh), the brokers and marketers said.</p>
+<p>Off-peak ERCOT power for Friday delivery was talked steady at $20.00-22.00 per MWh, the sources said.</p>
+<p>November peak ERCOT power was discussed steady to higher at $25.00-26.00 from a Wednesday range of $24.00-26.00, while December peak power was said to be offered at $24.50 with little business reported done.</p>
+<p>January/February ERCOT power was talked at $25.25-25.50, the sources said.</p>
+<p>-- Chris Reese, New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

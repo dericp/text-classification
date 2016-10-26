@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="232383" id="root" date="1996-12-03" xml:lang="en">
+<title>PORTUGAL: Portugal ind prod rises 6.9 pct yr/yr in Sept.</title>
+<headline>Portugal ind prod rises 6.9 pct yr/yr in Sept.</headline>
+<dateline>LISBON 1996-12-03</dateline>
+<text>
+<p>Portugal's index of industrial production rose 6.9 percent year-on-year in September, while month-on-month it rose 43.1 percent, the National Statistics Institute (INE) said.</p>
+<p>					  Sep 96	Aug 96	Sep 95</p>
+<p>General Index			 105.1	  73.4	  98.3</p>
+<p>Percentage change yr/yr	    +6.9	  +1.9</p>
+<p>Percentage change mo/mo	   +43.1	 -30.4</p>
+<p>Accumulated 12 months		+2.7	  +2.0</p>
+<p>Base Year = 1985</p>
+<p>-- Lisbon newsroom +351-1-3538254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

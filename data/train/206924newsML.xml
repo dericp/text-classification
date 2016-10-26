@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206924" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Trucks crash after floodwaters collapse highway.</title>
+<headline>Trucks crash after floodwaters collapse highway.</headline>
+<dateline>PORTLAND, Ore 1996-11-21</dateline>
+<text>
+<p>Raging floodwaters caused a large section of Oregon's main north-south highway to collapse Thursday, creating a deep hole that was blamed for three truck accidents.</p>
+<p>Oregon State Police Lt. Gregg Hastings said a 100-foot-long section of Interstate 5 in Roseburg collapsed about 1 a.m. (4 a.m. EST) under pressure from the rain-swollen South Umpqua River.</p>
+<p>One truck with three trailers drove into the 30-foot-deep hole, but its driver escaped without injury, while a second tractor-trailer drove partly into the hole, causing minor injuries to the driver.</p>
+<p>A third, more serious accident occured when the driver of a tractor-trailer veered to avoid the hole and struck a motorist who had gotten out of his pickup truck and was trying to get away from the scene.</p>
+<p>The pickup driver, identified as Trampis Gress, 25, of Roseburg, had to have his foot amputated at a local hospital.</p>
+<p>The highway was closed in both directions for about six hours after the accident until workers were able to open a single southbound lane. Workers were trying to open a second lane for northbound traffic but had no idea when the road might be repaired.</p>
+<p>Roseburg, about 160 miles south of Portland, is in the heart of a three-county area where Gov. John Kitzhaber declared a state of emergency this week because of heavy rains and destructive mud slides that killed four people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORTLAND, Ore"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

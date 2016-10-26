@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="81189" id="root" date="1996-09-27" xml:lang="en">
+<title>ESTONIA: Estonia Savings Bank sees 70 mln kroon yr profit.</title>
+<headline>Estonia Savings Bank sees 70 mln kroon yr profit.</headline>
+<dateline>TALLINN 1996-09-27</dateline>
+<text>
+<p>Estonian Savings Bank, one of the Baltic state's largest banks, said it expected to make a consolidated profit of 70 million kroons in 1996 after earlier predicting a 45 million kroon year profit.</p>
+<p>It said in a statement the forecasts for its 1996 earnings included a contribution from its 75-percent owned insurance subsdiary, its leasing arm and its fund management business.</p>
+<p>The bank's first-half profit was 22.4 million kroons and it earned 29.2 million kroons in 1995.</p>
+<p>The bank recently agreed to merge with eighth largest bank, the Bank of Industry, and bought the state insurance company.</p>
+<p>-- Riga Newsroom +371 7 22 66 93</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

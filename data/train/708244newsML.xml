@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="708244" id="root" date="1997-07-04" xml:lang="en">
+<title>BELGIUM: Coceral sees EU 1997 grain crop at 197.99 mln T.</title>
+<headline>Coceral sees EU 1997 grain crop at 197.99 mln T.</headline>
+<dateline>BRUSSELS 1997-07-04</dateline>
+<text>
+<p>European Union grain output in the 15 member states is expected to fall 2.4 percent to 197.99 million tonnes in 1997 from 202.90 million in 1996, Coceral, the EU grain trade lobby, forecast on Friday.</p>
+<p>It saw the soft wheat crop falling 2.5 percent to 88.67 million tonnes and the barley crop falling 3.6 percent to 50.92 million tonnes.  </p>
+<p>Full figures for durum wheat, maize, rye, sorghum and triticale were not given in Coceral's forecast, which was presented at a meeting of the EU cereals advisory committee on Friday.</p>
+<p>But durum wheat output, based on figures from nine EU countries, was forecast 5.5 percent lower at 7.01 million tonnes in 1997.</p>
+<p>Maize output, based on figures from 10 member states, was seen 0.3 percent lower at 33.49 million tonnes.</p>
+<p>Rye output, based on figures from 14 member states, was seen 3.6 percent lower at 5.64 million tonnes.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

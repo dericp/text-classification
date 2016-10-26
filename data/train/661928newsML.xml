@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="661928" id="root" date="1997-06-14" xml:lang="en">
+<title>SWITZERLAND: Swiss interest rates set to rise- bank survey.</title>
+<headline>Swiss interest rates set to rise- bank survey.</headline>
+<dateline>ZURICH 1997-06-14</dateline>
+<text>
+<p>Results of a monthly Swiss interest rate survey of major Swiss banks by the Finanz und Wirtschaft economic newspaper:</p>
+<p>  (in percent)   three-month Eurofrancs  10-year govt bond yield</p>
+<p>		    in 3 months  in 12 months   in 3 mos   in 12 mos</p>
+<p> Credit Suisse	  1.4	 2.0	    3.5	   4.0</p>
+<p> UBS			1.5	 2.0	    3.5	   3.8</p>
+<p> SBC Warburg	    1.5	 2.25	   3.75	  4.0</p>
+<p> Julius Baer	    1.0	 1.7	    3.4	   3.7</p>
+<p> Zurich Cantonal Bank 1.5	 1.8	    3.6	   3.8</p>
+<p> Average		  1.38	1.95	   3.55	  3.86</p>
+<p>-- Zurich newsroom +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

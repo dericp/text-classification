@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="20721" id="root" date="1996-08-28" xml:lang="en">
+<title>ITALY: Italy has global trade surplus in June.</title>
+<headline>Italy has global trade surplus in June.</headline>
+<dateline>ROME 1996-08-28</dateline>
+<text>
+<p>Italy had a 4.333 trillion lire global trade surplus in June, the Italian Exchange Office said in a statement.  </p>
+<p> ITALIAN TRADE BALANCE  June 96	May 96	  June 95</p>
+<p> Amount (lire)	   4.333  trln   +3.407 trln  +1.730 trln *</p>
+<p> Cumulative yr to date 13.614 trln   +9.524 trln  +7.440 trln *</p>
+<p>Note: The calculation is based on flows through the financial sector on transactions in excess of 20 million lire.</p>
+<p>* denotes revised figures.</p>
+<p>-- Rome newsroom +396 678 2501</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

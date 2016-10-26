@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506704" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: REUTER MONEYGRAPH - IMF SDR Rates.</title>
+<headline>REUTER MONEYGRAPH - IMF SDR Rates.</headline>
+<text>
+<p>April 14   ORIGINAL		 April 14   ORIGINAL</p>
+<p> U.S.	1.36657   1.20635   IRANIAN     2396.65    81.6734</p>
+<p> GERMAN    2.35528   3.06809   ITALIAN     2314.67    779.746</p>
+<p> FRENCH    7.91791   5.82126   KUWAIT     0.415451   0.351685</p>
+<p> JAPANESE  172.188   343.773   NETHERLANDS 2.64650    3.20316</p>
+<p> U.K.     0.841743   0.505474  NORWEGIAN   9.50108    6.59386</p>
+<p> AUSTRALIA 1.74285   0.809889  S.AFRICAN   6.09149    0.80200</p>
+<p> AUSTRIAN  16.5683   22.0097   SPANISH     198.166   69.0742</p>
+<p> BELGIAN   48.5747   45.9249   SWEDISH     10.4344    5.31489</p>
+<p> CANADIAN  1.91115   1.16295   SWISS	 2.00517    3.19548</p>
+<p> DANISH    8.96743   7.23304   SAUDI	 5.11780    4.25788</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

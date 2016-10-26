@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107260" id="root" date="1996-10-10" xml:lang="en">
+<title>USA: US late spot prods caught in NYMEX downdraft.</title>
+<headline>US late spot prods caught in NYMEX downdraft.</headline>
+<dateline>NEW YORK 1996-10-10</dateline>
+<text>
+<p>U.S. spot products took a drubbing with NYMEX futures by late Thursday, traders said, with heating oil continuing to retrace on bearish inventory data, players said.</p>
+<p>Heating oil fell about three cents a gallon, although differentials were holding stable in both centers, players said, with offers at even with the print in New York Harbor and about 2.65 cents below the print in the Gulf Coast.</p>
+<p>Traders said November heat, yanked over two cents lower by NYMEX on Wednesday, was continuing to backtrack from its earlier post-Gulf-War high of 76.75 cents amid a lack of technical support.</p>
+<p>The market remains fixed on data released by the API and EIA showing a respectable build in distillate stocks last week, traders said.</p>
+<p>&quot;Prices may have fallen, but they're still high. There's still too much hype in this market. There's more room to fall,&quot; one New York distillate trader said, with heat about 20 cents a gallon higher than last year.</p>
+<p>He said distillate prices tend to peak in mid-October -- and have followed that pattern six of the past nine years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

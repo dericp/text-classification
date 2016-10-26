@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="251142" id="root" date="1996-12-11" xml:lang="en">
+<title>HONG KONG: Hong Kong leadership selection process.</title>
+<headline>Hong Kong leadership selection process.</headline>
+<dateline>HONG KONG 1996-12-11</dateline>
+<text>
+<p>Hong Kong, Britain's last important colony, decides on Wednesday its first post-colonial leader to govern the territory when it reverts to China in mid-1997. Candidates are Tung Chee-hwa, Yang Ti Liang, Peter Woo.</p>
+<p>Here is an outline of the selection process.</p>
+<p>-- 9 a.m. (0100 GMT) China-controlled 400-member Selection Committee, presided over by Foreign Minister Qian Qichen, gathers in the Hong Kong Convention Centre hall.</p>
+<p>-- Voting by secret ballot starts around 10 a.m. (0200 GMT).</p>
+<p>-- Ballot papers go into an envelope before they are dropped into a ballot box.</p>
+<p>-- Votes will be counted aloud with monitors marking score on a board visible to assembled Selection Committee.</p>
+<p>-- First of three candidates to reach 201 votes wins.</p>
+<p>-- If no one gets 201 votes, the top two compete in an immediate second-round run-off.</p>
+<p>-- Result expected around midday (0400 GMT).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

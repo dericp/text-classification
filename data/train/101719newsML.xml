@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="101719" id="root" date="1996-10-08" xml:lang="en">
+<title>USA: U.S. 10-year note auction average 6.502 pct.</title>
+<headline>U.S. 10-year note auction average 6.502 pct.</headline>
+<dateline>WASHINGTON 1996-10-08</dateline>
+<text>
+<p>The U.S. Treasury said its auction of 10-year notes produced these results:</p>
+<p>			 10-YEAR NOTES DUE OCT 15, 2006</p>
+<p>			     $10.005 BILLION AUCTION</p>
+<p>	     YIELD			  PRICE	COUPON</p>
+<p> LOW	 6.494    Awarded At	100.044     6-1/2</p>
+<p> HIGH	6.510    High Yield	99.927     Percent</p>
+<p> AVERAGE   6.502    80 Percent	99.985</p>
+<p>	   Cover - (Bids Over Amount Sold)    =  2.34 Times</p>
+<p>	   Tail -- (High Minus Average Yield) =  1   Basis Pts</p>
+<p> U.S. TREASURY (GOVERNMENT DEBT)		 MATURITY 15.Oct.06</p>
+<p> MATURITY/TYPE    10-YEAR NOTES		  PAY DATE 15.Oct.96</p>
+<p> TYPE OF DEBT     STRAIGHT			 LAUNCHED 08.Oct.96</p>
+<p> ISSUED/ACCEPTED  10.005 BLN USD		 CUSIP    912827Z62</p>
+<p> BIDS SUBMITTED   23.380			   COUNTRY	  USA</p>
+<p> NONCOMPETITIVE   284.00 MLN			AUCTION AVERAGES</p>
+<p> NY FED DISTRICT    N.A.			   COUPON	 6.500</p>
+<p> FOREIGN INSTITN  600.00 MLN		     PRICE	 99.985</p>
+<p> BIDDING RANGE    6.510-6.490 PCT		YIELD	  6.502</p>
+<p>AVERAGE YIELD DOWN FROM 6.535 PCT AT AUCTION ON 07.AUG.96 AVG YIELD LOWEST SINCE 5.649 PCT AT AUCTION ON 07.FEB.96</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

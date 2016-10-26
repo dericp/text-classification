@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="19105" id="root" date="1996-08-28" xml:lang="en">
+<title>CZECH REPUBLIC: Czech 26-week T-bill avg yield hits 12.37 pct.</title>
+<headline>Czech 26-week T-bill avg yield hits 12.37 pct.</headline>
+<dateline>PRAGUE 1996-08-28</dateline>
+<text>
+<p>The average yield on Czech finance ministry 26-week treasury bills hit 12.37 percent, the Czech National Bank (CNB) said on Wednesday.</p>
+<p>The auction of five billion crowns in T-bills was oversubscribed by 5.101 billion crowns.</p>
+<p>				    Aug 28</p>
+<p> Bids (billion crowns)     10.101</p>
+<p> Bids accepted		  5.00</p>
+<p> Offer			    5.00</p>
+<p> Minimum yield (pct)	 12.31</p>
+<p> Average yield (pct)	 12.37</p>
+<p> Maximum yield (pct)	 12.41</p>
+<p> Maturity		     28.02.97</p>
+<p>Note: Comparative figures were not immediately available.</p>
+<p>--Alan Crosby, Prague Newsroom, 42-2-2422-9857</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

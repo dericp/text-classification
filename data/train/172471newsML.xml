@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172471" id="root" date="1996-11-07" xml:lang="en">
+<title>CZECH REPUBLIC: CZECH FUND RENTIERSKY POSTS 9MO LOSS.</title>
+<headline>CZECH FUND RENTIERSKY POSTS 9MO LOSS.</headline>
+<dateline>PRAGUE 1996-11-07</dateline>
+<text>
+<p>Preliminary results for nine months ending September 30, 1996:</p>
+<p>(in millions of crowns)</p>
+<p> Gross result		 299.544 loss   vs   118.744 profit</p>
+<p> Operating loss		 2.317	  vs     2.211</p>
+<p> Total revenues	   3,261.519	  vs	 n/a</p>
+<p> Total expenditures     3,561.063	  vs	 n/a</p>
+<p> Total assets	     3,519.227	  vs 2,584.771</p>
+<p> Basic capital	    1,765.653	  vs 1,661.148</p>
+<p>Note - Full company name is Rentiersky IF 1.IN a.s.. It is an investment fund managed by 1. Investicni a.s., the investment arm of bank IPB a.s..</p>
+<p>According to the latest available information, IPB held 25.1 percent of the fund's shares at the end of October. The results were provided by the fund managers.</p>
+<p>Rentiersky shares are listed on the main market of the Prague Stock Exchange.</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

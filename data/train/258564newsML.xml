@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="258564" id="root" date="1996-12-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-Highest/Lowest Australian P-E Ratios - Dec 17.</title>
+<headline>RTRS-Highest/Lowest Australian P-E Ratios - Dec 17.</headline>
+<dateline>SYDNEY 1996-12-17</dateline>
+<text>
+<p>Highest and lowest price earnings ratios for Australian companies included in the 320-company All Ordinaries Index based on closing prices on Monday. P/E based on rolling 12 months earnings.</p>
+<p>    Rank Name		 P/E     Close</p>
+<p>Highest 10</p>
+<p> 1 Tourism Asset	  3733.33    1.12</p>
+<p> 2 Portman Min	     347.62    2.19</p>
+<p> 3 Niugini Min	     215.83    3.00</p>
+<p> 4 Mayne Nickless	  182.12    8.25</p>
+<p> 5 TNT			 176.98    2.46</p>
+<p> 6 Colonial Coml	   122.40    2.24</p>
+<p> 7 Adel Bton Cement	117.39    1.62</p>
+<p> 8 Forrestania Gold	 89.96    2.51</p>
+<p> 9 Countrywide-PP	   87.59    1.20</p>
+<p>10 Westral Forest	   85.14    2.35</p>
+<p>Lowest 10</p>
+<p> 1 Dominion Min		1.95    0.85</p>
+<p> 2 Consol Rutile	     3.36    0.95</p>
+<p> 3 Computer Power	    3.81    3.90</p>
+<p> 4 Premier Inv		 4.06    0.72</p>
+<p> 5 BTR Plc		     5.43    5.05</p>
+<p> 6 Queensland Cotton	 5.78    4.39</p>
+<p> 7 Parbury Ltd		 6.00    0.71</p>
+<p> 8 Aust Gold		   6.52    1.19</p>
+<p> 9 OLS Asia Hldgs	    7.23    0.86</p>
+<p>10 RGC			   7.34    5.06</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I24200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I24300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

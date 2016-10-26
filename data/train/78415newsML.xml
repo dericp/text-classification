@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78415" id="root" date="1996-09-26" xml:lang="en">
+<title>HONDURAS: Honduran '95-96 coffee exports 2.69 mln 46-kg bags.</title>
+<headline>Honduran '95-96 coffee exports 2.69 mln 46-kg bags.</headline>
+<dateline>TEGUCIGALPA, Honduras 1996-09-25</dateline>
+<text>
+<p>Honduran coffee exports for the 1995-96 cycle reached 2,694,149 quintales (46-kg bags), up from 2,133,464 the year before, the Honduran Coffee Institute (IHCAFE) said on Wednesday.</p>
+<p>Fernando Montes, manager of IHCAFE, said the export sales came from a total production of about three million quintales, and that overall production was expected to surpass three million quintales next year.</p>
+<p>Despite the higher exports, revenues fell to $269.4 million from $283 million because of lower world prices, Montes said.</p>
+<p>&quot;Instead of increasing ... income was reduced by about 169 lempiras ($13.6 million),&quot; Montes told a news conference.</p>
+<p>About 75,000 Honduran coffee producers make coffee the second most important export after bananas in this poor Central American country, although Montes predicted coffee would replace bananas as the leading export earner next year.</p>
+<p>&quot;Despite the price problems in the international market, coffee once again will be the top product in the national economy, and we will be next year,&quot; Montes said.</p>
+<p>--Gustavo Palencia, Tegucigalpa bureau, (504) 39 28 85</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="I42390">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEGUCIGALPA, Honduras"/>
+<dc element="dc.creator.location.country.name" value="HONDURAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74236" id="root" date="1996-09-24" xml:lang="en">
+<title>PHILIPPINES: Philippines raises special Treasury bill rates.</title>
+<headline>Philippines raises special Treasury bill rates.</headline>
+<dateline>MANILA 1996-09-24</dateline>
+<text>
+<p>The Philippine Central Bank said on Tuesday it had increased the rates of its special series Treasury bills by 20 basis points.</p>
+<p>The rates of 78-day and 85-day T-bills were both raised to 11.2 percent from 11.0 percent.</p>
+<p>The rate adjustment came a day after the 91-day benchmark rate went up to 11.536 percent from 11.33 percent registered last week.  - Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

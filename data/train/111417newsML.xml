@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="111417" id="root" date="1996-10-11" xml:lang="en">
+<title>USA: USFreightways Corp Q3 net higher.</title>
+<headline>USFreightways Corp Q3 net higher.</headline>
+<dateline>ROSEMONT, Ill. 1996-10-11</dateline>
+<text>
+<p>1996		  1995</p>
+<p> Revenue			$     343,203,000    $  289,964,000</p>
+<p> Income from operations (a)	22,528,000	  17,326,000</p>
+<p> Other expense, net		 (3,363,000)	 (1,995,000)</p>
+<p> Income before income taxes	19,165,000	  15,331,000</p>
+<p> Income tax expense		   8,141,000	   6,592,000</p>
+<p> Net income			    11,024,000	   8,739,000</p>
+<p> Net income per share			0.49		  0.40</p>
+<p> Average shares outstanding	22,655,243	  22,043,727</p>
+<p>						     Nine Months</p>
+<p> Revenue			  $   988,997,000    $  856,080,000</p>
+<p> Income from operations (a)	50,171,000	  53,225,000</p>
+<p> Other expense, net		 (9,100,000)	 (6,485,000)</p>
+<p> Income before income taxes	41,071,000	  46,740,000</p>
+<p> Income tax expense		  17,561,000	  20,098,000</p>
+<p> Net income			    23,510,000	  26,642,000</p>
+<p> Net income per share			1.05		  1.20</p>
+<p> Average shares outstanding	22,311,770	  22,143,964</p>
+<p>NOTE: (a) After deduction for amortization of intangibles of $644,000 in the third quarter of 1996 and $583,000 in the third quarter of 1995, and after deduction for year-to-date amortization of intangibles of $1,821,000 in 1996 and $2,001,000 in 1995.</p>
+<p>-- Chicago Newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROSEMONT, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

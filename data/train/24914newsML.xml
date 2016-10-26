@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="24914" id="root" date="1996-08-30" xml:lang="en">
+<title>UK: BOE gives UK money market 1.534 bln stg further.</title>
+<headline>BOE gives UK money market 1.534 bln stg further.</headline>
+<dateline>LONDON 1996-08-30</dateline>
+<text>
+<p>The Bank of England said it provided the UK money market with a further 1.534 billion stg of assistance at established interest rates.</p>
+<p>			    EARLY	1100 GMT   1300 GMT   LATE</p>
+<p> FORECAST SHORTAGE    1.75 BLN   1.75 BLN   1.75 BLN   =</p>
+<p> CUMULATIVE SUPPLY    46 MLN     146 MLN    1.68 BLN!  =</p>
+<p>DETAILS</p>
+<p> BAND 1  T-BILLS	=	    =	   463 MLN*    =</p>
+<p> BAND 1  BANK BILLS   =	    =	   778 MLN*    =</p>
+<p> BAND 2  BANK BILLS   =	    =	   100 MLN*    =</p>
+<p>* INTEREST RATE - 5-23/32 PCT (INDICATES UNCHANGED BASE RATES)</p>
+<p>! INCLUDES 339 MLN STG REPO EXPIRING IN EQUAL AMOUNTS ON SEPT</p>
+<p>16 AND 17 AT 5-23/32 PCT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

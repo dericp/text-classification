@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="94087" id="root" date="1996-10-03" xml:lang="en">
+<title>USA: NationsBank creates direct-sales unit.</title>
+<headline>NationsBank creates direct-sales unit.</headline>
+<dateline>CHARLOTTE, N.C. 1996-10-03</dateline>
+<text>
+<p>NationsBank Corp said on Thursday it is creating a national direct-sales unit and increased the hours of operations at its Richmond customer-service call center.</p>
+<p>The new direct-sales unit will create up to 300 full- and part-time jobs, the company said.</p>
+<p>The moves are being made in an effort to increase customer access to its products and services, it said.  </p>
+<p>The company said it recently expanded the hours of its customer-service operations to 24 hours a day, seven days a week.</p>
+<p>Before the change, the center was open from 7 a.m. to 10 p.m., Monday through Friday, and from 9 a.m. to 1 p.m. on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

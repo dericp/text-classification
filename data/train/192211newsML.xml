@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="192211" id="root" date="1996-11-15" xml:lang="en">
+<title>HUNGARY: Primagaz operating profit nearly dobule in Jan-Sept.</title>
+<headline>Primagaz operating profit nearly dobule in Jan-Sept.</headline>
+<dateline>BUDAPEST 1996-11-15</dateline>
+<text>
+<p>Nine-month period ending Sept 30, 1996.</p>
+<p>(Figures in millions of forints unless stated)</p>
+<p>					Jan-Sept 1996   Jan-Sept 1995</p>
+<p>    Operating profit		  1,626    vs     899</p>
+<p>    Pre-tax profit		    1,394    vs   1,137</p>
+<p>    After-tax profit		  1,057    vs     979</p>
+<p>    Net sales revenue		11,877    vs   7,868</p>
+<p>    Costs of sales		    6,496    vs   4,257</p>
+<p>    Personnel expenditures	  1,306    vs     936</p>
+<p>    Depreciation			  403    vs     266</p>
+<p>    Other operating expenses	2,046    vs   1,510</p>
+<p>    Interest received		    99    vs	97</p>
+<p>    Interest paid			 392    vs     222</p>
+<p>    Other financial income	     61    vs     363</p>
+<p>    Taxation				337    vs     158</p>
+<p>NOTE - Primagaz Rt is a gas distributor. The figures are not audited and are calculated according to International Accounting Standards. -- Budapest newsroom (36 1) 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

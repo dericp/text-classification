@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="284340" id="root" date="1997-01-02" xml:lang="en">
+<title>UK: Bank of Montreal, Toronto wins Reuter Dec FX poll.</title>
+<headline>Bank of Montreal, Toronto wins Reuter Dec FX poll.</headline>
+<dateline>LONDON 1997-01-02</dateline>
+<text>
+<p>Bank of Montreal in Toronto has won the Reuter foreign exchange poll for December beating 35 other banks and financial institutions from across the globe.</p>
+<p>The levels predicted by Bank of Montreal gave them an average divergence from the actual rate of 1.2201 percent.</p>
+<p>In second place was Macquarie Bank in Sydney with an average divergence of 1.2499 followed by Bank of America, London in third place with 1.3999 percent.</p>
+<p>The average divergence rates of the 35 polled varied between 1.2201 and 3.7542 percent.</p>
+<p>The rankings were based on the accuracy of the forecasts against the European closing rates on December 31 of dollar/mark at 1.5430, dollar/yen at 115.90 and sterling/dollar at 1.7083.</p>
+<p>Only two forecasters polled expected dollar/yen to rise to a level of 115.00.</p>
+<p>Similarly only two forecasts expected cable to attain levels close to 1.700.</p>
+<p>The following are the top 20 forecasters and their</p>
+<p>predictions. RANK NAME			 DLR/STG  DLR/DEM</p>
+<p>DLR/YEN PCT DIV</p>
+<p> 1  Bank of	  Toronto  1.7000   1.5800   115.00   1.2201</p>
+<p>Montreal</p>
+<p> 2  Macquarie Bank Sydney   1.6800   1.5500   114.00   1.2499</p>
+<p> 3  Bank of	  London   1.6900   1.5500   112.80   1.3999</p>
+<p>America</p>
+<p> 4  Societe	  Paris    1.7000   1.5300   112.00   1.5644</p>
+<p>Generale Grp</p>
+<p> 5  ANZ		Melbne   1.6860   1.5350   112.00   1.7296</p>
+<p> 6  Bank of	  Chicago  1.6850   1.5300   112.00   1.8571</p>
+<p>Montreal</p>
+<p> 7  Chase	    London   1.6700   1.5600   113.00   1.9486</p>
+<p>Invstmnt Bank</p>
+<p> 8  UBS		London   1.6600   1.5800   115.00   2.0006</p>
+<p> 9  NatWest Bank   London   1.6500   1.5500   113.00   2.1229</p>
+<p> 10 Paine Webber   London   1.6550   1.5500   112.50   2.1691</p>
+<p>International</p>
+<p> 11 Yamaichi	 London   1.6400   1.5600   114.00   2.2464</p>
+<p> 12 Technical Data London   1.6600   1.5650   112.50   2.3956</p>
+<p> 13 MMS Int'l	New York 1.6300   1.5400   113.00   2.4267</p>
+<p> 14 Commerzbank    London   1.6500   1.5800   114.00   2.4833</p>
+<p> 15 DKB		London   1.6400   1.5600   113.00   2.5340</p>
+<p> 16 BG Bank	  C'hagen  1.6500   1.5700   113.00   2.5549</p>
+<p> 17 Daiwa Europe   London   1.6580   1.5650   112.00   2.5784</p>
+<p> 18 ABN-AMRO	 London   1.6400   1.5850   114.50   2.6427</p>
+<p> 19 Natwest Mkts   London   1.6600   1.5600   111.00   2.7190</p>
+<p> 20 Deutsche MorganLondon   1.6400   1.5700   113.00   2.7500</p>
+<p>Grenfell</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

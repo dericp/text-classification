@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="331699" id="root" date="1997-01-24" xml:lang="en">
+<title>UK: UK announces aid rate for oilseed producers.</title>
+<headline>UK announces aid rate for oilseed producers.</headline>
+<dateline>LONDON 1997-01-24</dateline>
+<text>
+<p>The area aid paid to farmers in England for the 1996 oilseeds crop will be 448.15 stg per hectare, the UK ministry of agriculture fisheries and food (MAFF) said.</p>
+<p>It incorporates a reduction of five per cent due to high oilseed prices in the 1996/97 marketing year, MAFF said on Friday.</p>
+<p>This rate applies to oilseeds grown under the European Union's arable area payments system.</p>
+<p>Payments are increased if observed prices are lower than a projected reference price and reduced if they are higher, subject to an eight per cent franchise. The price observed for 1996/97 was 13 per cent above the reference level, which, when the franchise is taken away gives the five per cent reduction.</p>
+<p>Christopher Lyddon, London newsroom +44 171 542 7928</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

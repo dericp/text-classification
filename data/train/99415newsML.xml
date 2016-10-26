@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99415" id="root" date="1996-10-07" xml:lang="en">
+<title>COTE D'IVOIRE: PRESS DIGEST - Ivory Coast - Oct 7.</title>
+<headline>PRESS DIGEST - Ivory Coast - Oct 7.</headline>
+<dateline>ABIDJAN 1996-10-07</dateline>
+<text>
+<p>These are significant stories in the Ivorian press on Monday. Reuters has not verified these stories and does not vouch for their accuracy. FRATERNITE MATIN - Four civil servants detained for a third time in connection with embezzlement case involving fugitive Lebanese businessman Roger Nasra - Ivory Coast's commercial capital Abidjan under close surveillance as part of the fight against violent crime LA VOIE - Ivorian government relaunches investigation in the case  of about 20 soldiers detained in connection with an alleged coup attempt at the time of the October 1995 presidential election LE JOUR - Humiliating 4-1 defeat for Ivory Coast's national soccer squad, the Elephants, against Algeria in the African Nations Cup - Internal squabbles undermine Ivorian banana and pineapple sector. -- Abidjan newsroom +225 21 90 90</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

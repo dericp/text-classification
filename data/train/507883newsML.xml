@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="507883" id="root" date="1997-04-14" xml:lang="en">
+<title>GERMANY: Lufthansa says has no plans to stop Tehran flight.</title>
+<headline>Lufthansa says has no plans to stop Tehran flight.</headline>
+<dateline>FRANKFURT 1997-04-14</dateline>
+<text>
+<p>Germany's Deutsche Lufthansa AG said on Monday it had no plans to suspend flights to Iran despite rising tensions between Tehran and Bonn after a Berlin court last week implicated Iranian leaders in political assassinations.</p>
+<p>&quot;At the moment, we have no intentions to change our schedule,&quot; a Lufthansa spokesman told Reuters in response to an enquiry.</p>
+<p>Lufthansa operates a flight from Frankfurt to Tehran on Sunday, Wednesday, Friday and Saturday with return service.</p>
+<p>Bonn made clear at the weekend it would seek to avoid stoking a row with Iran over the court ruling despite a march on its embassy on Sunday by hundreds of thousands of Iranians.</p>
+<p>European Union nations, with the exception of Greece, have recalled their ambassadors from Tehran after a German court on Thursday ruled Iran had ordered the 1992 murders of four Kurdish dissidents in Berlin.</p>
+<p>Iran on Sunday responded to the withdrawal by announcing it would pull its envoys out of those countries in return.</p>
+<p>The German foreign ministry, however, said on Sunday it still planned to reopen the embassy, closed since before Thursday's court ruling, on Monday.</p>
+<p>-- Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FRANKFURT"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

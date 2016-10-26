@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514679" id="root" date="1997-04-16" xml:lang="en">
+<title>USA: Charles Schwab says Q2 revs could be lower.</title>
+<headline>Charles Schwab says Q2 revs could be lower.</headline>
+<dateline>SAN FRANCISCO 1997-04-16</dateline>
+<text>
+<p>Charles Schwab Corp said Wednesday its second quarter revenues and profit margins would be &quot;modestly&quot; lower than those of the first quarter if retail customer trading activity remains at the March level.</p>
+<p>The first two months of the year showed record trading volumes and strong market returns in securities markets, it said, but the market weakened in March.</p>
+<p>&quot;Since we currently view the unsettled market environment as temporary, we intend to continue our practice of aggressively investing throughout most market cycles,&quot; Chairman Charles Schwab said in a statement.</p>
+<p>&quot;If we experience an extended slowdown, we will adjust our expenses accordingly, with the expectation that we would return to generating margins comparable to those achieved over the last few years,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

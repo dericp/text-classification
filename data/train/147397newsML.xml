@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147397" id="root" date="1996-10-28" xml:lang="en">
+<title>MEXICO: Penoles reports mixed 9-mos metal output.</title>
+<headline>Penoles reports mixed 9-mos metal output.</headline>
+<dateline>MEXICO CITY 1996-10-28</dateline>
+<text>
+<p>Mexico's Industrial Penoles SA, considered the world's largest refined silver producer, said Monday its refined output for the first nine months of the year fell from 1995 in silver and lead and increased in gold and zinc.</p>
+<p>Penoles said its silver output from January to September totalled 1.23 million kg compared with 1.26 million kg during the same period in 1995.</p>
+<p>Gold output rose to 6,127 kg from last year's 5,754 kg.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="225468" id="root" date="1996-11-29" xml:lang="en">
+<title>USA: U.S Oct spending gain points to solid growth in Q4.</title>
+<headline>U.S Oct spending gain points to solid growth in Q4.</headline>
+<byline>Donna Sells</byline>
+<dateline>NEW YORK 1996-11-29</dateline>
+<text>
+<p>A respectable 0.5 percent increase in U.S. consumer spending in October indicates fourth-quarter economic growth probably got off to a solid start, analysts said.</p>
+<p>&quot;It does suggest that the quarter's starting on a better note,&quot; said Evelina Tainer, chief economist at Indosuez Carr Futures.</p>
+<p>&quot;I think, if we continue at this pace, it'll make the fourth quarter look a lot better than the third quarter,&quot; she added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

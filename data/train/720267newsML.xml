@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="720267" id="root" date="1997-07-10" xml:lang="en">
+<title>UK: Tingyi sets $110 mln convertible bond.</title>
+<headline>Tingyi sets $110 mln convertible bond.</headline>
+<dateline>LONDON 1997-07-10</dateline>
+<text>
+<p>The following bond was announced by lead manager Deutsche Morgan Grenfell.</p>
+<p> BORROWER   TINGYI (CAYMAN ISLANDS) HOLDING CORP</p>
+<p> AMT    $110 MLN	COUPON     1.625     MATURITY    17.JUL.02</p>
+<p> TYPE   CONVERTIBLE   ISS PRICE  =	   PAY DATE    17.JUL.97</p>
+<p> FULL FEES  2.5	 LISTING    LUX	 PAY FREQ    ANNUAL</p>
+<p> NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES</p>
+<p> DENOMS (K) ONE	 PREMIUM    18 PCT</p>
+<p> NOTES	$20 MLN GREENSHOE. 3-YEAR NO HARD CALL, THEN SOFT</p>
+<p>		CALL AT ACRETED VALUE SUBJECT TO 130 PCT TRIGGER</p>
+<p>		CONVERSION PERIOD 01.SEP.97 - 03.JUL.02</p>
+<p>		CNV PRICE HK$2.3482, PREMIUM REDEMPTION 132.6618</p>
+<p>		TO GIVE A YIELD OF 7.27366.</p>
+<p>		FOREX FIX HK$/US$7.7427. 3297.29 SHARES PER BOND</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

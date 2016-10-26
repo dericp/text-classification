@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="43193" id="root" date="1996-09-10" xml:lang="en">
+<title>USA: Medtronic CFO backs EPS estimates.</title>
+<headline>Medtronic CFO backs EPS estimates.</headline>
+<dateline>MINNEAPOLIS 1996-09-10</dateline>
+<text>
+<p>Medtronic Inc chief financial officer Robert Ryan said Tuesday the company is comfortable with Wall Street analysts' earnings estimates of $0.55 per share for the second quarter and $2.27 per share for fiscal 1997.</p>
+<p>&quot;We're comfortable with those numbers,&quot; Ryan said in an interview at company headquarters.</p>
+<p>The medical device giant earned $0.45 per share in the second quarter of fiscal 1996 and $1.88 per share for fiscal 1996 which ended April 30.</p>
+<p>Medtronic was trading at 58-5/8, up 1/4.</p>
+<p>-- Chicago newsdesk 312 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

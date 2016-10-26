@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="153633" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: Fifty Dominicans picked up at sea off Puerto Rico.</title>
+<headline>Fifty Dominicans picked up at sea off Puerto Rico.</headline>
+<dateline>MIAMI 1996-10-30</dateline>
+<text>
+<p>Fifty Dominicans were back in their homeland on Wednesday after they were rescued from a drifting 30-foot (10-metre) boat off the eastern Dominican Republic after six days at sea, the U.S. Coast Guard said.</p>
+<p>A Coast Guard spokesman said the boat was disabled about 30 miles (45 km) off Cabo Engano in the Dominican Republic when it was sighted by a Coast Guard aircraft on Oct. 25. The aircraft contacted a Coast Guard cutter, which gave the 31 men and 19 women food, water and medical attention before transferring them to a Dominican Republic naval vessel.</p>
+<p>The rescue brought the number of Dominicans intercepted by the Coast Guard, most apparently during attempts to reach neighbouring Puerto Rico, to 219 for the month of October. During the 12 months that ended on Sept. 30 the Coast Guard picked up 6,273 people from the Caribbean nation.</p>
+<p>The Coast Guard has warned that growing numbers of poor people have been trying to reach the United States illegally from the Dominican Republic. Dominican migrants now outnumber Cubans and Haitians, previously the top concerns for U.S. law enforcement and immigration officials watching the Caribbean.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DOMR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="PURI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

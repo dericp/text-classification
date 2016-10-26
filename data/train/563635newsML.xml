@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="563635" id="root" date="1997-05-06" xml:lang="en">
+<title>SRI LANKA: Ceylon Grain back to profit in Q1 1997.</title>
+<headline>Ceylon Grain back to profit in Q1 1997.</headline>
+<dateline>COLOMBO 1997-05-06</dateline>
+<text>
+<p>Unaudited results of Ceylon Grain Elevators Ltd for the three months to March 31, 1997.</p>
+<p>(in millions of rupees unless stated):</p>
+<p>				 1997		  1996</p>
+<p>    Turnover		767.28     vs     736.80</p>
+<p>    Net profit/(loss)    3.43	vs	(9.77)</p>
+<p>    Tax			2.94	vs	 4.59</p>
+<p>NOTE - Ceylon Grain Elevators mills animal feed and grows day-old chicks for the domestic market. It is a unit of Prima Ltd of Singapore.</p>
+<p>-- Colombo newsroom (941) 434319</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

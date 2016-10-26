@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="347330" id="root" date="1997-01-31" xml:lang="en">
+<title>USA: U.S. condemns shooting in Croatia.</title>
+<headline>U.S. condemns shooting in Croatia.</headline>
+<dateline>WASHINGTON 1997-01-31</dateline>
+<text>
+<p>The United States on Friday condemned a shooting incident in eastern Croatia in which a Belgian U.N. soldier was killed but said it appears to be the act of a single individual, not a broad threat to peace there.</p>
+<p>A Belgian corporal was killed and two other U.N. officials were injured in the shooting incident in the Serb-controlled town of Vukovar in eastern Croatia on Friday, according to the United Nations.</p>
+<p>&quot;The United States strongly condemns the attacks today on the United Nations soldiers by a Serbian gunman,&quot; State Department spokesman Nicholas Burns said.</p>
+<p>&quot;We offer our deepest condolences to the family of the Belgian soldier who was killed in the incident. Two other soldiers were wounded, and we hope for their speedy recovery.&quot;</p>
+<p>But Burns said the attack &quot;appears to be the act of a single individual&quot; who is now in police custody and under United Nations supervision.&quot;</p>
+<p>He noted this was the first attack on U.N. forces since they began operations in Eastern Slavonia over a year ago and said U.N. military forces and the regional police under U.N. supervision are working to ensure such incidents are not repeated.</p>
+<p>Vukovar is the biggest town in the Serb-held region of Eastern Slavonia which is due to return to Croatian government rule by mid-June. The town was devastated during the Croatian war for independence when Serb forces backed by the Yugoslav army laid siege to Vukovar and pounded it with artillery.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

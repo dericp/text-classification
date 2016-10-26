@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="155609" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: HMO fined $500,000 for hindering medical decisions.</title>
+<headline>HMO fined $500,000 for hindering medical decisions.</headline>
+<dateline>LOS ANGELES 1996-10-29</dateline>
+<text>
+<p>In the largest penalty ever imposed on a California managed health care company, the state Tuesday fined Take Care Health Plan Inc $500,000 for refusing to refer a nine-year-old cancer patient to the appropriate specialists.</p>
+<p>The fine against Take Care, a health maintenance organisation which now is owned by FHP International Inc, stems from a 1993 dispute between the company and the parents of Carley Christie, who was suffering from Wilms' tumour, a rare and life-threatening form of kidney cancer.</p>
+<p>In explaining its fine, the state's Commissioner of Corporations said Take Care referred Christie to a urologist who had no experience removing Wilms' tumour or any other malignant kidney cancers. The parents' requests for a referral to a pediatric surgeon were denied.</p>
+<p>The health plan later refused to pay the costs of surgery after the parents found a surgeon on their own, who successfully treated their daughter.</p>
+<p>FHP, which acquired Take Care after the dispute with the Christie family was concluded, issued a statement saying it is &quot;dedicated to providing the highest quality of health care.&quot;</p>
+<p>Although it was not affiliated with Take Care at the time of the dispute, it defended that company's position and said the doctor assigned by Take Care was qualified to treat Christie. It said it was considering appealing the fine.</p>
+<p>FHP now is in the process of being acquired by PacifiCare Health Systems Inc, another southern California HMO. The combined entity is expected to be the nation's fifth largest managed care company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

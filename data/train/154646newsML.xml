@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="154646" id="root" date="1996-10-30" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post business - Oct 30.</title>
+<headline>PRESS DIGEST - Washington Post business - Oct 30.</headline>
+<dateline>WASHINGTON 1996-10-29</dateline>
+<text>
+<p>The Washington Post carried the following stories on the front page of its business section on Oct. 30:</p>
+<p>---</p>
+<p>WASHINGTON - The stock and bond markets rallied after the Labor Department reported that employers' labor costs rose slowly in the July-September period, a sign that inflation is likely to remain low.</p>
+<p>---</p>
+<p>WASHINGTON - America Online Inc. changed an accounting practice that watchdogs have been complaining about for months: the company was treating major expenses in such a way that allowed it to report it was making profits when it was actually paying out more money than it was taking in.</p>
+<p>---</p>
+<p>WASHINGTON - All 169 stores operated by Best Products Co. will be liquidated, the company announced.</p>
+<p>---</p>
+<p>WASHINGTON - The major U.S. stock markets have made unprecedented political contributions to help defeat a controversial ballot initiative in California that would make it easier for investors to sue companies for fraud.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

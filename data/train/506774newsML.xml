@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="506774" id="root" date="1997-04-14" xml:lang="en">
+<title>USA: World soybean production - USDA.</title>
+<headline>World soybean production - USDA.</headline>
+<dateline>WASHINGTON 1997-04-14</dateline>
+<text>
+<p>USDA soybean crop:</p>
+<p>Mln Tnnes: April96/97  Mar 96/97 April 95/96  Mar95/96  World Total   133.69     133.98	124.76    124.75</p>
+<p>	  U.S.    64.84	64.84	 59.24     59.24</p>
+<p>	Brazil    27.00	27.00	 23.70     23.70</p>
+<p>   Argentina    13.25	13.50	 12.64     12.64</p>
+<p>    Paraguay     2.70	 2.70	  2.40	2.40</p>
+<p>	 China    13.00	13.00	 13.50     13.50</p>
+<p>	 India     3.80	 3.80	  4.48	4.48</p>
+<p>	Canada     2.17	 2.17	  2.29	2.29</p>
+<p>   Indonesia     1.55	 1.55	  1.56	1.56</p>
+<p>    East Eur     0.36	 0.35	  0.30	0.30</p>
+<p>	   EU	1.08	 1.07	  0.94	0.94</p>
+<p>    Fmr USSR     0.41	 0.41	  0.36	0.36</p>
+<p>	Mexico     0.10	 0.16	  0.19	0.19</p>
+<p>    Thailand     0.40	 0.40	  0.37	0.37</p>
+<p>     N.Korea     0.30	 0.30	  0.41	0.41</p>
+<p>	 Japan     0.12	 0.12	  0.12	0.12</p>
+<p>     Bolivia     1.18	 1.18	  0.90	0.90</p>
+<p>     S.Korea     0.16	 0.16	  0.16	0.16</p>
+<p>    Colombia     0.07	 0.07	  0.06	0.06</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

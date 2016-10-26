@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141336" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Isis Pharmaceuticals Inc Q3 shr loss $0.23.</title>
+<headline>Isis Pharmaceuticals Inc Q3 shr loss $0.23.</headline>
+<dateline>CARLSBAD, Calif. 1996-10-23</dateline>
+<text>
+<p>ISIS PHARMACEUTICALS</p>
+<p>			   SELECTED FINANCIAL INFORMATION</p>
+<p>		    (in thousands, except per share amounts)</p>
+<p>			 Condensed Statements of Operations</p>
+<p>			     Three months ended   Nine months ended</p>
+<p>				  September 30,	 September 30,</p>
+<p>				  1996     1995	 1996	1995</p>
+<p>				  (unaudited)	   (unaudited)</p>
+<p>Revenues:</p>
+<p> Contract revenue	 $5,142    $3,710    $15,220    $9,578</p>
+<p>Interest and other income</p>
+<p>				   944	 778	3,005     1,780</p>
+<p> Total revenues	    6,086     4,488     18,225    11,358</p>
+<p>Expenses:</p>
+<p>Research and development</p>
+<p>				10,219     9,841     31,247    25,200</p>
+<p>General and administrative</p>
+<p>				 1,572     1,270	4,571     3,964</p>
+<p> Interest expense	    280	 266	  766	 843</p>
+<p> Total expenses	   12,071    11,377     36,584    30,007</p>
+<p> Net loss		 ( 5,985)  ( 6,889)  ( 18,359) ( 18,649)</p>
+<p> Net loss per share    ( 0.23)   ( 0.32)    ( 0.72)   ( 0.91)</p>
+<p>Weighted average common shares</p>
+<p>				25,671    21,728     25,494    20,447</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSBAD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273590" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Armco names Jerry Albright CFO.</title>
+<headline>Armco names Jerry Albright CFO.</headline>
+<dateline>PITTSBURGH 1996-12-23</dateline>
+<text>
+<p>Armco Inc said Monday Jerry Albright was appointed vice president and chief financial officer, effective January 1.</p>
+<p>Albright is a certified public accountant and is a graduate of Miami University in Ohio, according to Armco's press release.</p>
+<p>He replaces David Harmer, who is leaving Armco to become president of Jetway Systems in Ogden, Utah, Armco said. Jetway Systems is a unit of FMC Corp.</p>
+<p>Albright served as vice president and chief financial officer at Cyclops Industries Inc from August 1988 until Cyclops was acquired by Armco in April 1992, Armco said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PITTSBURGH"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

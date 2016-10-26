@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="709700" id="root" date="1997-07-07" xml:lang="en">
+<title>USA: Cushman &amp; Wakefield to buy firm from Prudential.</title>
+<headline>Cushman &amp; Wakefield to buy firm from Prudential.</headline>
+<dateline>NEW YORK 1997-07-07</dateline>
+<text>
+<p>Cushman &amp; Wakefield, an international real estate services firm, said Monday it has signed a letter of intent to acquire Premisys Real Estates Services Inc from Prudential Insurance Co of America.</p>
+<p>Terms of the proposed deal were not disclosed.</p>
+<p>Cushman said when completed, the transaction will expand its third-party asset servies management portfolio to over 200 million square feet worldwide, from 140 million square feet.</p>
+<p>Premisys is a Houston-based property management and leasing services, with a nationwide portfolio of 65 million square feet of office, industrial and residential properties.</p>
+<p>The properties include those held in Prudential's $5.5 billion so-called general account which are held on behalf of policyholders, including many of Prudential's own coprorate facilities and properties owned by third parties.</p>
+<p>Premisys, formed in 1989, currently employs more than 1,000 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

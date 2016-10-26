@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="13937" id="root" date="1996-08-26" xml:lang="en">
+<title>USA: U.S. Treasury balances at Fed rose on Aug 23.</title>
+<headline>U.S. Treasury balances at Fed rose on Aug 23.</headline>
+<dateline>WASHINGTON 1996-08-26</dateline>
+<text>
+<p>U.S. Treasury balances at Federal Reserve based on Treasury Department's latest budget statement.</p>
+<p>			  (BILLIONS OF DLRS)</p>
+<p>				  Aug 23		 Aug 22</p>
+<p>Fed acct			 5.358		  5.340</p>
+<p>Tax/loan note acct	  13.590		 14.953</p>
+<p>Cash balance		  18.949		 20.293</p>
+<p>---</p>
+<p>Total public debt,</p>
+<p> subject to limit	5,119.986	     5,119.505</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

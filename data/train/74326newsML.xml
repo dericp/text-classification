@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74326" id="root" date="1996-09-24" xml:lang="en">
+<title>ITALY: Italian July industrial output up 4.1 percent.</title>
+<headline>Italian July industrial output up 4.1 percent.</headline>
+<dateline>ROME 1996-09-24</dateline>
+<text>
+<p>National Statistics Institute ISTAT gave the following provisional figures for industrial production, year-on-year, in July.</p>
+<p> INDUSTRIAL PRODUCTION	    July 96     June 96    July 95</p>
+<p> Production index (unadjusted)   118.1	110.1(r)   113.4</p>
+<p> Yr/yr pct change (unadjusted)    +4.1	 -6.5 (r)  +4.2</p>
+<p> Mnth/mnth pct change (adjusted)  -2.8	 +2.9	+0.8</p>
+<p> Working days in month		 23	   20	  21</p>
+<p>Note: (The industrial production index was rebased in January 1994 on 1990 levels, replacing a 1985-based index.)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

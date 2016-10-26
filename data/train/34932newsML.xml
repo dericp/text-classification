@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="34932" id="root" date="1996-09-05" xml:lang="en">
+<title>PHILIPPINES: PH-ADR Philippine stocks traded abroad.</title>
+<headline>PH-ADR Philippine stocks traded abroad.</headline>
+<dateline>MANILA 1996-09-05</dateline>
+<text>
+<p>Closing prices of Philippine stocks traded on Wall Street on Wednesday:</p>
+<p> Company   Close	 Net Change  High     Low	 Volume</p>
+<p> PLDT	US$60 1/8   +0 1/8	60 1/4   60	  145900</p>
+<p> Benguet   US$0 18/32  No change   0 18/32  0 16/32    9100</p>
+<p> 1st Phil  US$16 1/2   No change   16 3/4   16 1/2     9200</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

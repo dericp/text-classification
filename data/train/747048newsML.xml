@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="747048" id="root" date="1997-07-22" xml:lang="en">
+<title>USA: TABLE - Amoco Corp Q2 net up, revs down.</title>
+<headline>TABLE - Amoco Corp Q2 net up, revs down.</headline>
+<dateline>CHICAGO 1997-07-22</dateline>
+<text>
+<p>1997			1996</p>
+<p> Shr			 $ 1.26		    $1.20</p>
+<p> Net			622,000		  600,000</p>
+<p> Revs		   8,626,000		8,765,000</p>
+<p>	  SIX MONTHS</p>
+<p> Shr			 $ 2.62		   $ 2.67</p>
+<p> Net		    1,296,000		1,328,000</p>
+<p> Revs		  17,619,000	     16,979,000</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>		 ((Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

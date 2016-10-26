@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="755169" id="root" date="1997-07-24" xml:lang="en">
+<title>SINGAPORE: Thai's Bangchak refinery cuts output.</title>
+<headline>Thai's Bangchak refinery cuts output.</headline>
+<dateline>SINGAPORE 1997-07-24</dateline>
+<text>
+<p>Thailand's Bangchak Petroleum Co's 120,000 barrels-per-day (bpd) refinery cut production rates two weeks ago to 100,000 bpd, a refinery source said on Thursday.</p>
+<p>The source also said the maintenance turnaround of its 40,000-bpd crude distillation unit (CDU) has been postponed from August to at least September or later.</p>
+<p>The source said that weak refinery profit margins had prompted the cut in runs in order to improve the economics of refining oil.  </p>
+<p>He said the refinery was uncertain when it would return to full capacity, but it was looking for a rise in gas oil prices as the main factor that would indicate better margins.</p>
+<p>--Singapore Newsroom (870 3082)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

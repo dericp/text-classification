@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="147954" id="root" date="1996-10-28" xml:lang="en">
+<title>INDIA: Jordan shows interest in India sugar, rice imports.</title>
+<headline>Jordan shows interest in India sugar, rice imports.</headline>
+<dateline>NEW DELHI 1996-10-28</dateline>
+<text>
+<p>Jordan has shown interest in the import of sugar and rice from India, the food ministry said on Monday.</p>
+<p>A ministry statement said India's Minister for Food and Civil Supplies Devendra Prasad Yadav and the visiting Jordanian Minister for Supplies Munir H. Soubar discussed Indian sugar exports to Jordan.</p>
+<p>&quot;The Jordanian side also showed interest in import of rice,&quot; the statement said.</p>
+<p>The two leaders agreed that state agencies of both countries would coordinate on the subject.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

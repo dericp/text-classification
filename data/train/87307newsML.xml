@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87307" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Scott's Liquid settles environmental suit.</title>
+<headline>Scott's Liquid settles environmental suit.</headline>
+<dateline>DENVER 1996-10-01</dateline>
+<text>
+<p>Scott's Liquid Gold Inc said on Tuesday that it has agreed to settle an environmental lawsuit brought against it by the U.S. Justice Department for $6 million.</p>
+<p>According to Scott's, the lawsuit, which the Justice Department filed on behalf of the U.S. Army, alleges the company was a contributor to contamination in a groundwater aquifer underlying a portion of the Rocky Mountain Arsenal.</p>
+<p>The settlement consists of a payment of $1 million in cash, $2 million payable by the company over eight years with interest, and $3 million from insurance carriers.</p>
+<p>Scott's said some insurers who provided liability coverage to the company during the relevant period did not participate in the settlement.</p>
+<p>The company said it intends to pursue recovery from these carriers of the full amounts it pays in the settlement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

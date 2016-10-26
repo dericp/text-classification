@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="15348" id="root" date="1996-08-26" xml:lang="en">
+<title>JAPAN: Japan PM's study group discuss BOJ independence.</title>
+<headline>Japan PM's study group discuss BOJ independence.</headline>
+<dateline>TOKYO 1996-08-26</dateline>
+<text>
+<p>The Bank of Japan has received both support and opposition from financial experts in its quest for greater independence in managing monetary policy, the head of a government study group, Yasuhiko Torii, said on Monday.</p>
+<p>The special study group set up under Prime Minister Ryutaro Hashimoto to discuss revisions of the BOJ law met on Monday to discuss how central banks in other countries operate.</p>
+<p>In the meeting, Bank of Tokyo-Mitsubishi Ltd chairman Tsuneo Wakai said the BOJ needed more legal power to accomplish its aims of stabilising prices and the financial system, Torii said.  </p>
+<p>Tomomitsu Oba, president of the Japan Center for International Finance, told the study group he was against making the BOJ as independent as, for instance, Germany's Bundesbank, Torii said.</p>
+<p>Oba said that only the Bundesbank was able to make immediate decisions when industrialised nations discussed global coordination of economic policies. Such decisions should not be made hastily but after much discussion with other governments, Oba was quoted as saying.</p>
+<p>Torii also quoted Wakai as saying that BOJ inspections of financial institutions were necessary to prevent a crisis in the financial system,  </p>
+<p>Both the BOJ and the Ministry of Finance (MOF) check the health of financial institutions, but MOF has legal authority while the BOJ does not. Wakai also said he hoped the two sides would avoid duplicating efforts.</p>
+<p>Wakai said the central bank needed to make its decision-making process more transparent and members of its policy-making board should be experts and remain independent.</p>
+<p>The group is set to meet again on September 4.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

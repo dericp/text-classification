@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="45634" id="root" date="1996-09-11" xml:lang="en">
+<title>AUSTRIA: SOCCER-RAPID VIENNA V FENERBAHCE TEAMS.</title>
+<headline>SOCCER-RAPID VIENNA V FENERBAHCE TEAMS.</headline>
+<dateline>VIENNA 1996-09-11</dateline>
+<text>
+<p>Teams for Wednesday's European Cup Champions' League Group C match between Rapid Vienna of Austria and Fenerbahce of Turkey:</p>
+<p>Rapid Vienna: 1-Michael Konsel, 3-Peter Guggi, 4-Trifon Ivanov, 5-Peter Schoettel, 9-Marek Penksa, 10-Didi Kuehbauer, 11-Christian Prosenik, 15-Andrzej Lesiak, 17-Rene Wagner, 19-Thomas Zingler, 20-Andreas Heraf</p>
+<p>Fenerbahce: 1-Rustu Recber, 2-Ilker Yagcioglu, 3-Uche Okechukwu, 4-Jes Hogh, 5-Kemalettin Senturk, 6-Halil Ibrahim Kara, 7-Tayfun Korkut, 9-Elvir Bolic, 10-Jay Jay Okocha, 16-Bulent Uygun, 19-Tarik Dasgun.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

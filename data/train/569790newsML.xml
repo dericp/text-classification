@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="569790" id="root" date="1997-05-08" xml:lang="en">
+<title>USA: IRS issues final arbitrage &quot;technical corrections&quot;.</title>
+<headline>IRS issues final arbitrage &quot;technical corrections&quot;.</headline>
+<dateline>WASHINGTON 1997-05-08</dateline>
+<text>
+<p>The IRS on Thursday issued final rules that tell municipalities when they can use interest rate caps and derivatives as hedges against volatility in bond deals without violating federal arbitrage restrictions.</p>
+<p>The Internal Revenue Service originally proposed the temporary &quot;technical corrections&quot; rules in May 1994. The Service was under pressure to release a final version this week because the temporary rules expire on May 10.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

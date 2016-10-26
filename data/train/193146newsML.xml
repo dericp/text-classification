@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="193146" id="root" date="1996-11-15" xml:lang="en">
+<title>JAPAN: Nippon Yusoki - 6mth parent results.</title>
+<headline>Nippon Yusoki - 6mth parent results.</headline>
+<dateline>TOKYO 1996-11-15</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p> (Parent)	(in billions of yen unless specified)</p>
+<p> Sales		 19.34		vs	   16.73</p>
+<p> Operating	  749    million    vs	  213    million</p>
+<p> Current	    817    million    vs	   19    million</p>
+<p> Net		prft 418 million    vs    loss 16    million</p>
+<p> EPS	    prft 11.75 yen	  vs     loss 0.46 yen</p>
+<p> Shares	     36 million	  vs	  36 million</p>
+<p> Interim div		  --	  vs		    --</p>
+<p>NOTE - Nippon Yusoki Co Ltd makes battery forklifts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32550">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

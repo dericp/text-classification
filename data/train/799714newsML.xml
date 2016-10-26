@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="799714" id="root" date="1997-08-14" xml:lang="en">
+<title>USA: TABLE- U.S.-China Industrial Q2 loss.</title>
+<headline>TABLE- U.S.-China Industrial Q2 loss.</headline>
+<dateline>BETHESDA, Md. 1997-08-14</dateline>
+<text>
+<p>Second quarter ended June 30</p>
+<p>				1997			1996</p>
+<p> Shr	  loss	  $0.12   profit	  0.27</p>
+<p> Net	  loss	    761   profit	   918</p>
+<p> Revs			 3,757		    8,918</p>
+<p> Avg shrs		   6,336		    3,390</p>
+<p>Six months  Shr	  loss	  $0.09   profit	  0.26</p>
+<p> Net	  loss	    596   profit	   873</p>
+<p> Revs			 9,255		   12,578</p>
+<p> Avg			  6,336		    3,390</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The full company name is U.S.-China Industrial Exchange Inc</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-14"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-14"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-14"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BETHESDA, Md."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="138034" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: DuPont earnings rise 17 percent on oil strength.</title>
+<headline>DuPont earnings rise 17 percent on oil strength.</headline>
+<dateline>WILMINGTON, Del. 1996-10-23</dateline>
+<text>
+<p>DuPont Co. on Wednesday said third-quarter earnings rose 17 percent on the strength of its oil business and solid sales of some chemicals.</p>
+<p>The nation's biggest chemical company said net income rose to $898 million, or $1.60 a share, in the quarter ended Sept. 30, from $769 million, or $1.38 a share, in the 1995 quarter. Sales grew 3 percent to $10.49 billion from $10.20 billion.</p>
+<p>The earnings came in a shade higher than the $1.58 a share expected on Wall Street, according to First Call, which tracks estimates. But DuPont stock fell $1 to $96.25 in early trading on the New York Stock Exchange.</p>
+<p>Results for the latest quarter include a previously announced one-time charge of $47 million, or 8 cents a share, for crop damage claims and legal expenses related to a recall of a fungicide, DuPont said.</p>
+<p>Earnings at DuPont's Conoco oil subsidiary were especially strong, boosted by higher crude oil prices and increased production. Operating profits rose 47 percent to the highest level since the first quarter of 1991, the company said.</p>
+<p>Oil prices averaged $19.85 a barrel in the quarter, up 25 percent. Domestic natural gas prices rose 45 percent.</p>
+<p>Profits in chemicals and other businesses were mixed, with strong performances from agricultural products, automotive products, nylon, engineering polymers and its Lycra brand spandex fiber, DuPont said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WILMINGTON, Del."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

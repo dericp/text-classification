@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="243489" id="root" date="1996-12-09" xml:lang="en">
+<title>DUBAI: U.S. couple murdered in Saudi, suspect held.</title>
+<headline>U.S. couple murdered in Saudi, suspect held.</headline>
+<dateline>DUBAI 1996-12-09</dateline>
+<text>
+<p>An American computer programmer and his wife were murdered at a housing compound in the Saudi Arabian capital Riyadh and Saudi police have arrested a Filipino suspect, a U.S. embassy spokesman in Riyadh said on Monday.</p>
+<p>The spokesman named the victims as Barry Bailey and Mary Anne Bailey. He said they were in their 50s and from Texas, but did not give their hometown.</p>
+<p>Bailey, who was attacked in his house, identified his attacker by name on the way to the hospital where he died. His wife died earlier at a neighbours' house, the spokesman said.</p>
+<p>Saudi police arrested the Filipino suspect on Sunday night as he was planning to fly to Manila, he said. He did not name the suspect and did not give a motive for the killings.</p>
+<p>Barry Bailey worked as a computer programmer at King Khaled International Airport, the spokesman said.</p>
+<p>Earlier, a statement issued by the King Khaled International Airport compound obtained by Reuters said an American couple was killed at the compound on Sunday night.</p>
+<p>&quot;The incident was a criminal act, not a terrorist act,&quot; it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

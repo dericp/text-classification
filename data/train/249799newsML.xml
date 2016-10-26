@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="249799" id="root" date="1996-12-11" xml:lang="en">
+<title>INDIA: India - Forward dollar rates-(closing)-Dec 11.</title>
+<headline>India - Forward dollar rates-(closing)-Dec 11.</headline>
+<dateline>BOMBAY 1996-12-11</dateline>
+<text>
+<p>Bombay banks quoted the forward premia on dollar at the following rates (in paise):</p>
+<p>			     TIME (in IST)</p>
+<p>	  1030    1100    1200    1300    1400    1500    1600</p>
+<p>---------------------------------------------------------------</p>
+<p>	 Bid/Ask Bid/Ask Bid/Ask Bid/Ask Bid/Ask Bid/Ask Bid/Ask</p>
+<p>	 ------- ------- ------- ------- ------- ------- -------</p>
+<p> Dec -   8/9     8/9     7/9     7/9     7/9     8/9     8/9</p>
+<p> Jan -  30/32   29/31   28/30   28/30   27/30   28/31   29/31</p>
+<p> Feb -  48/51   47/50   46/49   46/49   45/48   47/49   48/50</p>
+<p> Mar -  75/78   74/77   73/76   73/75   72/74   73/76   73/76</p>
+<p> Apr - 102/105 100/103  99/102  99/101  98/100  98/101  99/101</p>
+<p> May - 122/125 122/124 120/123 119/122 118/120 118/121 118/120</p>
+<p> Jun - 145/148 145/147 140/143 140/142 138/141 139/141 138/140</p>
+<p>These indicative rates are based on contributions from ABN Amro, ANZ Grindlays, Andhra Bank, Bank of America, Banque Nationale De Paris,Barclays Bank Ltd,Canara Bank,Citibank, Credit Lyonnais, Deutsche Bank, Dresdner Bank, Global Trust Bank, HDFC Bank, Hongkong Bank, L.C.Raheja, Mashreq Bank, Nucleus Securities, Societe Generale, Standard Chartered Bank, State Bank of India - Calcutta, Syndicate Bank.</p>
+<p>For contributions contact Samir Shah on 022-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

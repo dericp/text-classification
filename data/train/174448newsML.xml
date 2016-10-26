@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="174448" id="root" date="1996-11-07" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia govt says labour market still weak.</title>
+<headline>RTRS-Australia govt says labour market still weak.</headline>
+<dateline>CANBERRA 1996-11-07</dateline>
+<text>
+<p>Australian Employment Minister Amanda Vanstone said on Thursday October labour force data showed the labour market was still weak but that Wednesday's interest rate should help boost jobs growth.</p>
+<p>&quot;While the labour market is still relatively weak, trend employment has been rising for the last six months and is now at its highest ever level,&quot; Vanstone said in a statement.</p>
+<p>&quot;Yesterday's interest rate reduction should provide a further boost to the labour market, though it may take sometime for this to flow through,&quot; she said.  </p>
+<p>The seasonally adjusted unemployment rate rose to 8.8 percent in October from 8.7 percent in September and 8.6 percent in October last year.</p>
+<p>Australia's seasonally adjusted estimate of the number of employed persons rose 25,500 in October to 8.37 million, against 8.35 million in September and 8.24 million a year earlier.</p>
+<p>Economists had on average expected employment to rise around 12,000 in October, seasonally-adjusted, with the unemployment rate steady at 8.7 percent.  </p>
+<p>The Reserve Bank of Australia on Wednesday cut official cash interest rates by half a percentage point to 6.5 percent, saying the decision was in response to low inflation and wage restraint.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

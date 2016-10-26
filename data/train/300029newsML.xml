@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="300029" id="root" date="1997-01-10" xml:lang="en">
+<title>DUBAI: Iraq-based rebels say kill dozens of Iran troops.</title>
+<headline>Iraq-based rebels say kill dozens of Iran troops.</headline>
+<dateline>DUBAI 1997-01-10</dateline>
+<text>
+<p>An Iraq-based Iranian opposition group said on Friday its forces had killed dozens of state troops in clashes in western Iran.</p>
+<p>In a fax sent to Reuters from its Paris office, the Mujahideen Khalq armed opposition group said an unspecified number of its members were also killed in the clashes in the oil-rich Khuzestan province, and in Ilam and Kermanshah provinces in the last week of December.</p>
+<p>It said government troops used helicopters and armoured units in Khuzestan for five days to pursue Mujahideen forces.</p>
+<p>There was no independent confirmation of the report.</p>
+<p>Iran said on Monday troops and local tribesmen killed five Mujahideen members and captured one in two separate clashes after they crossed into the country from neighbouring Iraq. It did not report any casualties among government forces.</p>
+<p>The Mujahideen at the time reported several clashes but denied that any of their members had been killed or arrested. The group said the operations were carried out by its members based inside Iran.</p>
+<p>Iran said last week the Mujahideen killed an Iranian tribesman in a cross-border attack.</p>
+<p>An Iranian security official, quoted by Tehran newspapers on Thursday, said the group had sent &quot;death squads&quot; to carry out assassinations and bombings in public places.</p>
+<p>The Mujahideen on Friday denied the charges and said Tehran was preparing attacks against the group in Iraq.</p>
+<p>Iraq on Wednesday said three mortar bombs fired at the Mujahideen's Baghdad headquarters killed one person and injured several others and laid blame for the attack on Iran. The Mujahideen also blamed Tehran and vowed to retaliate. Iran denied the charges.</p>
+<p>Tehran has blamed the group, which has several camps in Iraq near the Iranian border, for cross-border attacks and bombings in the past few years. The Mujahideen have denied attacking civilians, but have taken responsibility for striking military and economic targets.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="691323" id="root" date="1997-06-26" xml:lang="en">
+<title>SWITZERLAND: Swiss hotel stays jump 7.7 pct yr/yr in May.</title>
+<headline>Swiss hotel stays jump 7.7 pct yr/yr in May.</headline>
+<dateline>BERNE 1997-06-26</dateline>
+<text>
+<p>Overnight stays in Swiss hotels jumped by 156,000 to 2.17 million in May, up 7.7 percent from the year-earlier month, the Federal Statistics Office said.</p>
+<p>Good weather and the weaker Swiss franc played a major role in the increase, it said. But it noted May 1996 had been the poorest in 25 years.</p>
+<p>In the five months of January to May, the number of overnight stays in Swiss hotels rose 2.2 percent to 12.21 million. The number of Swiss visitors rose 1.4 percent, while demand from abroad went up 2.8 percent.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

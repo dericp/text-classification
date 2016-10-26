@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="589380" id="root" date="1997-05-16" xml:lang="en">
+<title>SPAIN: SOCCER-STANDINGS IN THE SPANISH LEAGUE CHAMPIONSHIP.</title>
+<headline>SOCCER-STANDINGS IN THE SPANISH LEAGUE CHAMPIONSHIP.</headline>
+<dateline>MADRID 1997-05-16</dateline>
+<text>
+<p>Standings in the Spanish league</p>
+<p>championship before this weekend's fixtures:</p>
+<p>				P     W    D    L  F   A   Pts</p>
+<p> 1.Real Madrid	   37    24   11    2  76  30   83</p>
+<p> 2.Barcelona	     37    24    6    7  92  45   78</p>
+<p> 3.Deportivo Coruna    37    20   13    4  56  26   73</p>
+<p> 4.Real Betis	    37    20   12    5  75  38   72</p>
+<p> 5.Atletico Madrid     37    19    9    9  70  54   66</p>
+<p> 6.Valladolid	    37    16   10   11  54  42   58</p>
+<p> 7.Real Sociedad	 37    15    8   14  42  41   53</p>
+<p> 8.Athletic Bilbao     37    12   16    9  64  53   52</p>
+<p> 9.Tenerife		37    14    9   14  60  47   51</p>
+<p> 10.Valencia	     37    13   10   14  55  51   49</p>
+<p> 11.Racing Santander   37    11   14   12  44  42   47</p>
+<p> 12.Celta Vigo	   37    10   13   14  44  46   43</p>
+<p> 13.Zaragoza	     37    10   13   14  47  53   43</p>
+<p> 14.Compostela	   37    11   12   14  41  57   43</p>
+<p> 15.Espanyol	     37    11    9   17  41  48   42</p>
+<p> 16.Oviedo		 37    11    9   17  43  59   42</p>
+<p> 17.Extremadura	  37    10   10   17  31  55   40</p>
+<p> 18.Rayo Vallecano     37    11    6   20  38  54   39</p>
+<p> 19.Sporting Gijon     37    10    9   18  39  63   39</p>
+<p> 20.Hercules	     37    10    5   22  35  69   35</p>
+<p> 21.Sevilla		37     9    6   22  38  63   33</p>
+<p> 22.Logrones	     37     9    4   24  29  75   31</p>
+<p>Note:Two teams qualify for the European Cup, four qualify</p>
+<p>for the UEFA Cup, four are automatically relegated, and one more</p>
+<p>must face a relegation play-off with the third-placed team from</p>
+<p>the second division.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76060" id="root" date="1996-09-25" xml:lang="en">
+<title>INDIA: Otis India Apr-July 1996 sales up 16 pct.</title>
+<headline>Otis India Apr-July 1996 sales up 16 pct.</headline>
+<dateline>BOMBAY 1996-09-25</dateline>
+<text>
+<p>Sales of Otis Elevator Company (India) Ltd rose to 16 percent at 510 million rupees from April to July 1996 against the same period last year, the company chairman told shareholders on Wednesday.  </p>
+<p>Firm chairman Keshub Mahindra said production at the Kandivli factory in Bombay had risen by 17 percent in the first four months of 1996/97 (April-March).</p>
+<p>The shareholders, at the same meeting, passed a resolution to spin off the company's export-oriented software development division at the Software Technology Park in Pune in western India as a new firm to be jointly owned by Otis Elevator Company of U.S. and Otis Elevator Company (India).</p>
+<p>Otis Elevator Company (India) is a subsidiary of the U.S. parent. -- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32550">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

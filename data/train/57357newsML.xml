@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="57357" id="root" date="1996-09-17" xml:lang="en">
+<title>USA: KCBT Value Line Stock Index volume/open interest.</title>
+<headline>KCBT Value Line Stock Index volume/open interest.</headline>
+<text>
+<p>for Sept. 16 in contracts</p>
+<p>		  Volume   Open   Change</p>
+<p> Sep '96	   20     370   -   14</p>
+<p> Dec '96	   25     121   +    3</p>
+<p> TOTAL	     45     491   -   11</p>
+<p>KCBT Mini Value Line</p>
+<p>		 Volume   Open   Change</p>
+<p> Sep '96	163    1031   -     106</p>
+<p> Dec '96	271     952   -	 5</p>
+<p> TOTAL	  434    1983   -     111</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

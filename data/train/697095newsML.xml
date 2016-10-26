@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="697095" id="root" date="1997-06-30" xml:lang="en">
+<title>USA: KCBT wheat slips to lowest level since July 1994.</title>
+<headline>KCBT wheat slips to lowest level since July 1994.</headline>
+<dateline>KANSAS CITY, Mo. 1997-06-30</dateline>
+<text>
+<p>KCBT hard red winter wheat futures slipped to the lowest level in almost three years, weakened by bearish spring wheat acreage data and spillover selling from tumbling CBOT soybeans.</p>
+<p>Floor sources said continued reports of higher-than-expected yields in Kansas and Oklahoma wheat were also weighing on the market.</p>
+<p>USDA put spring wheat acreage at a higher-than-expected 19.2 million acres. A Reuter survey of analysts had produced an average projection of 18.1 million acres. Soybean area was put at 70.9 million versus an average analysts' estimate of 68.4 million.</p>
+<p>July dipped to a contract low of $3.31-1/2 a bushel, the lowest level for the nearby month since July 1994. At 1111 CDT July stood 4-1/4 cents lower at $3.35.</p>
+<p>Floor sources noted active bear spreading, partly sparked by continued reports of good harvest progress.</p>
+<p>Some inter-market spread trade was also noted and centered on selling MGE spring wheat and buying in both Kansas City and Chicago wheat markets.</p>
+<p>((Chicago newsdesk 312-408 8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="244967" id="root" date="1996-12-09" xml:lang="en">
+<title>JAPAN: Thailand launches 2.85% 10-yr samurai bonds - Nikko.</title>
+<headline>Thailand launches 2.85% 10-yr samurai bonds - Nikko.</headline>
+<dateline>TOKYO 1996-12-09</dateline>
+<text>
+<p>The following samurai issue was announced by lead manager Nikko Securities on Monday:</p>
+<p>    BORROWER Thailand</p>
+<p>    AMT	15 bln yen</p>
+<p>    COUPON   2.85 pct</p>
+<p>    MATURITY 20 Dec 2006</p>
+<p>    TYPE	   samurai</p>
+<p>    ISS PRICE    par</p>
+<p>    PAY DATE     17 Dec 1996</p>
+<p>    SUB PERIOD   Dec 12 to Dec 13</p>
+<p>    PAY FREQ     Semi-annual</p>
+<p>    LAST RATING  JBRI AA-</p>
+<p>    LEAD MANAGER Nikko Securities</p>
+<p>    LEAD TRUSTEE Sakura Bank</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

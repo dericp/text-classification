@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="437609" id="root" date="1997-03-12" xml:lang="en">
+<title>USA: NYMEX ACCESS energy prices rise, APIs delayed.</title>
+<headline>NYMEX ACCESS energy prices rise, APIs delayed.</headline>
+<dateline>LOS ANGELES 1997-03-11</dateline>
+<text>
+<p>NYMEX ACCESS energy prices rose overnight, brokers said, trimming daytime losses amid technical buying.</p>
+<p>April NYMEX rose 14 cents a barrel from the settle to $20.25, amid 1,690 lots traded overall, 485 traded in April and 862 traded in May.</p>
+<p>The American Petroleum Institute (API) postponed its Tuesday U.S. crude and products inventory report. The trade group was unable to confirm when the data would be released.</p>
+<p>NYMEX heating oil traded at 53.10 cents a gallon, up 0.27 cents from the settle amid volume of 28 lots in April and 37 in all months. Gasoline was bought at 64.25 cents, up 0.39 cents, traders said.</p>
+<p>((David Brinkerhoff, Los Angeles bureau +1 213 380 2014))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

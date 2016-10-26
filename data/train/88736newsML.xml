@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88736" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Portland sees 560 MW Ore. plant up until May.</title>
+<headline>Portland sees 560 MW Ore. plant up until May.</headline>
+<dateline>LOS ANGELES 1996-10-01</dateline>
+<text>
+<p>Portland General Electric plans to operate until May 1997 the 560 megawatt unit at its Boardman, Ore., power plant before conducting its next maintenance outage, sources familiar with the plant's operations said early this week.</p>
+<p>The coal-fired plant has been up and running since July 28 after being shut during most of the first half of this year due to the abundance of lower-cost hydroelectric power in the Northwest.</p>
+<p>Sources at Boardman said Portland General has tied power delivery dates to operation of the plant and it will not undergo a similar shutdown in 1997, regardless of water conditions.</p>
+<p>The plant is scheduled to shut May 15 next year for about six weeks of maintenance.</p>
+<p>Portland General Corp is the parent of Portland General Electric.</p>
+<p>--D Beasley, Los Angeles bureau, + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

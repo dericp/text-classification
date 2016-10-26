@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="418796" id="root" date="1997-03-04" xml:lang="en">
+<title>IRAN: Iran earthquake relief plane crashes - agency.</title>
+<headline>Iran earthquake relief plane crashes - agency.</headline>
+<dateline>TEHRAN 1997-03-04</dateline>
+<text>
+<p>An Iranian plane with a crew of four on a relief mission to quake-stricken northwestern Iran crashed in bad weather, the Iranian news agency IRNA said on Tuesday.</p>
+<p>&quot;According to local sources, a Falcon airplane which went missing during a flight from Tehran to Ardabil on Monday, has crashed,&quot; IRNA said, adding that there was no official confirmation.</p>
+<p>An official of Iran's Civil Aviation Organisation (CAO) told Reuters: &quot;We cannot confirm a crash yet, because we do not have exact information.&quot;</p>
+<p>The official declined to give details of the plane or its crew.</p>
+<p>IRNA quoted the local sources as saying the light aircraft disappeared en route from Tehran to Ardabil and had possibly crashed at an area 25 km (16 miles) northeast of Ardabil.</p>
+<p>The temperature has been reported freezing in Ardabil with sporadic snowfalls in the past two days, the agency said.</p>
+<p>An earthquake measuring 5.5 on the Richter scale rocked northwestern Iran on Friday, killing nearly 1,000 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEHRAN"/>
+<dc element="dc.creator.location.country.name" value="IRAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

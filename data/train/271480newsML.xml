@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="271480" id="root" date="1996-12-20" xml:lang="en">
+<title>FRANCE: FRANCE-TELEVISION-NOMINATIONS.</title>
+<headline>FRANCE-TELEVISION-NOMINATIONS.</headline>
+<text>
+<p>PARIS, 20 dcembre, Reuter - Plusieurs nominations ont t effectues  la chane de tlvision publique franaise La Cinquime:</p>
+<p>Christine Nguyen devient directeur des affaires juridiques et des ressources humaines;</p>
+<p>Franois Desnoyers est nomm directeur charg de la banque de programmes et de services;</p>
+<p>Didier Lecat est nomm directeur du dveloppement;</p>
+<p>Bernard Fontaine est nomm directeur technique.</p>
+<p>Sce: communiqu. /DT</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

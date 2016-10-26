@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="224705" id="root" date="1996-11-29" xml:lang="en">
+<title>UK: UK Royal &amp; Sun buys Canada's Johnson Corp.</title>
+<headline>UK Royal &amp; Sun buys Canada's Johnson Corp.</headline>
+<dateline>LONDON 1996-11-29</dateline>
+<text>
+<p>UK composite insurer Royal &amp; Sun Alliance said on Friday it was to buy Canadian insurance provider The Johnson Corporation.  </p>
+<p>Royal &amp; Sun said it would pay less than one percent of its pro forma net asset value in June of 6.3 billion stg for the shares in Johnson, which comprises the Unifund Assurance Company specialising in general insurance and providing life and health benefits offered through others.</p>
+<p>&quot;Our plans for future growth included investing in successful companies whose strategies complement our own,&quot; said Bob Gunn, president of Royal &amp; Sun Alliance Canada.</p>
+<p>&quot;The agreement we have reached with the Johnson Corporation allows us to participate in the growing group insurance market through a company with a unique strategy.&quot;</p>
+<p>-- London Newsroom, +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

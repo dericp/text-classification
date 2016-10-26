@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="374243" id="root" date="1997-02-12" xml:lang="en">
+<title>KUWAIT: Kuwait to soon issue construction tenders.</title>
+<headline>Kuwait to soon issue construction tenders.</headline>
+<dateline>KUWAIT 1997-02-12</dateline>
+<text>
+<p>Kuwait will soon issue several construction tenders, including a 31 million-dinar ($102 million) project to build premises for the Coast Guard Command, an official was quoted on Wednesday as saying.</p>
+<p>Ministry of Public Works official Bader al-Mashmoum said the tenders include the construction of a postal services complex and a residential complex for oil workers at a cost of one million dinars each, the Arab Times reported.</p>
+<p>He said tenders would also be issued for projects by Kuwait Museum, the Central Tenders Committee, Kuwait's special forces, the Interior Ministry and the Legislation Department He did not give values for these.</p>
+<p>($1=0.303)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUWAIT"/>
+<dc element="dc.creator.location.country.name" value="KUWAIT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

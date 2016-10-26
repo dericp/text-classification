@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="335789" id="root" date="1997-01-27" xml:lang="en">
+<title>USA: Excel Corp Ottumwa, Iowa, pork plant shut by fire.</title>
+<headline>Excel Corp Ottumwa, Iowa, pork plant shut by fire.</headline>
+<dateline>CHICAGO 1997-01-27</dateline>
+<text>
+<p>The Excel Corp pork plant at Ottumwa, Iowa, was closed Monday after a fire broke out there about 1930 CST/0130 GMT Sunday, fire deparment and hog industry officials said.</p>
+<p>Fire crews continued to battle the fire early Monday. No deaths or injuries had been reported, said an Ottumwa Fire Department spokesman.  </p>
+<p>The plant usually operates two shifts and processes 10,000 hogs a day, hog industry sources said. Hogs normally slaughtered at the plant will be shipped to an Excel Illinois plant, the sources said.</p>
+<p>Excel is a unit of  Cargill Inc. Cargill and Excel officials were not immediately available for comment.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

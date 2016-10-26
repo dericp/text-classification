@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="238394" id="root" date="1996-12-05" xml:lang="en">
+<title>FRANCE: Simco sees 1996 profit in line with '95.</title>
+<headline>Simco sees 1996 profit in line with '95.</headline>
+<dateline>PARIS 1996-12-05</dateline>
+<text>
+<p>French property company Simco forecast on Thursday that its 1996 profit would be in line with the 368 million franc profit it made in 1995.</p>
+<p>The profit &quot;will be around the same size as in 1995,&quot; company chairman Georges Mazaud told a news conference.</p>
+<p>Simco, forecasting a gradual recovery of the French real estate market in 1997, said it was expecting external growth to preserve its high returns.</p>
+<p>The group, which fared relatively well during France's property slump, said it expected to maintain its dividend distribution policy through a planned acquisition which it did not specify.</p>
+<p>To carry out its growth plans, the group planned to borrow between one billion and 1.5 billion francs, managing director Jean-Paul Sorand said.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

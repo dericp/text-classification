@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="123262" id="root" date="1996-10-17" xml:lang="en">
+<title>RUSSIA: Lebed's guards detain, disarm Russian &quot;tail&quot;.</title>
+<headline>Lebed's guards detain, disarm Russian &quot;tail&quot;.</headline>
+<dateline>MOSCOW 1996-10-17</dateline>
+<text>
+<p>Russian security chief Alexander Lebed's bodyguards detained and disarmed several men who had been following him on Thursday, his press service said.</p>
+<p>Lebed, who is involved in a bitter war of words with Interior Minister Anatoly Kulikov, told a news conference on Wednesday he was being followed.</p>
+<p>The press service of President Boris Yeltsin's Security Council, of which Lebed is the secretary, said in a statement that the detained men said they had been ordered to follow Lebed by a senior interior ministry official.</p>
+<p>Weapons and unspecified special equipment had been found on them, it said.</p>
+<p>&quot;A.Lebed disciplined the detainees briefly and they were released afterwards,&quot; the statement said. It gave no more details.</p>
+<p>There was no immediate comment from the interior ministry.</p>
+<p>Kulikov accused Lebed on Wednesday of trying to seize power by force while Yeltsin prepared for heart surgery. Lebed has dismissed the accusations and threatened to sue Kulikov.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="516882" id="root" date="1997-04-17" xml:lang="en">
+<title>SOUTH AFRICA: Foreigners buy 155.42 mln rand S.Africa bonds Wed.</title>
+<headline>Foreigners buy 155.42 mln rand S.Africa bonds Wed.</headline>
+<dateline>JOHANNESBURG 1997-04-17</dateline>
+<text>
+<p>Foreigners were net buyers of 155.42  million rand's worth of South African bonds on Wednesday after buying 494.27 million on Tuesday, the Bond Exchange said.</p>
+<p>-- Johannesburg newsroom +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

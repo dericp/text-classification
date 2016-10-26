@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="127579" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. exporters report soyoil sold to China -- USDA.</title>
+<headline>U.S. exporters report soyoil sold to China -- USDA.</headline>
+<dateline>WASHINGTON 1996-10-18</dateline>
+<text>
+<p>U.S. Agriculture Department said private exporters reported sales of 20,000 tonnes soybean oil for delivery to China during the 1996/97 marketing year.</p>
+<p>The marketing year for soybean oil began Oct 1.</p>
+<p>USDA issues daily and weekly export sales reports.</p>
+<p>Exporters must report to USDA sales of 20,000 tonnes or more soybean oil made in one day to a single destination by 1500 ET the next business day after the sale.</p>
+<p>Sales of lesser quantities must be reported weekly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

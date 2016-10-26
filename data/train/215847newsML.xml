@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="215847" id="root" date="1996-11-25" xml:lang="en">
+<title>VIETNAM: Vietnam widens forex band, dong nudges lower.</title>
+<headline>Vietnam widens forex band, dong nudges lower.</headline>
+<dateline>HANOI 1996-11-25</dateline>
+<text>
+<p>The central State Bank of Vietnam has widened the official exchange rate band for the dong to plus/minus one percent from plus/minus 0.5 percent, bankers in Hanoi said on Monday.</p>
+<p>Officials at the central bank were not immediately available to comment on the decision, which had already taken the currency slightly below its old limit of 11,085 per dollar. It was last quoted at 11,087/11,097 per dollar.</p>
+<p>The new exchange rate band will, like the previous one, have 11,030 to the dollar as its pivot rate. The upper end is 10,920 per dollar and the lower end is 11,140.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

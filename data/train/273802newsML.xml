@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="273802" id="root" date="1996-12-23" xml:lang="en">
+<title>USA: Texas/w Okla fed cattle, Friday roundup - USDA.</title>
+<headline>Texas/w Okla fed cattle, Friday roundup - USDA.</headline>
+<dateline>AMARILLO 1996-12-23</dateline>
+<text>
+<p>Trade moderate in the panhandle area Friday. Slaughter steers and heifers steady. Feedlots reporting light inquiry from buyers. - USDA</p>
+<p>Sales on 5,400 head steers and 2,200 heifers following weekly movement of 69,800 head.</p>
+<p>Steers - Select and Choice 2-3, 1150-1200 lbs 65.00-65.25.</p>
+<p>Select, few Choice 2-3, 1150-1250 lbs 63.00-64.50.</p>
+<p>Heifers - Select and Choice 2-3, 1025-1150 lbs 65.00-65.25.</p>
+<p>Confirmed: 7,600	 Week Ago: None	 Year Ago: 36,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMARILLO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

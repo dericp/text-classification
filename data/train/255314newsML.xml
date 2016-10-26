@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255314" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: Muni bond sales to total $3.14 bln week of Dec 16.</title>
+<headline>Muni bond sales to total $3.14 bln week of Dec 16.</headline>
+<dateline>NEW YORK 1996-12-13</dateline>
+<text>
+<p>Scheduled competitive and negotiated municipal bond sales are expected to total $3.14 billion in 109 offerings for the week of Dec 16, according to Reuters Municipal Bond Information Group.</p>
+<p>Competitive sales total $680 million in 65 issues. The largest issue is a $130 million King County, Wash., issue on Monday.</p>
+<p>Negotiated sales total $2.46 billion in 44 offerings. The largest is a $626 million New York City deal through Lehman Brothers.</p>
+<p>--U.S. Municipal Information Group, 212-859-1826</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

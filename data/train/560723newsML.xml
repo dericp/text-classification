@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="560723" id="root" date="1997-05-05" xml:lang="en">
+<title>EGYPT: Iran's Velayati in Cairo on landmark visit.</title>
+<headline>Iran's Velayati in Cairo on landmark visit.</headline>
+<dateline>CAIRO 1997-05-05</dateline>
+<text>
+<p>Iranian Foreign Minister Ali Akbar Velayati arrived in Cairo on Monday for the first high-level meeting between Egypt and Iran since Egyptian President Hosni Mubarak accused Tehran of trying to kill him in 1995.</p>
+<p>Airport officials said Velayati was met at Cairo airport by Egyptian Foreign Minister Amr Moussa and officials said the two men were expected to hold formal talks later on Monday.</p>
+<p>The Iranian official is also due to meet Mubarak on Tuesday to invite him to a Islamic conference to be held in Iran in December, Egyptian officials said.</p>
+<p>Ties between Cairo and Tehran have been strained for years over policy differences.</p>
+<p>Egypt has accused Iran and Sudan of continuing support for the al-Gama'a al-Islamiya (Islamic Group), the largest organisation fighting to set up a strict Islamic state in Egypt. Both Sudan and Iran deny this.</p>
+<p>Iran was also accused of being behind the attempted assassination of Mubarak during the Egyptian leader's visit to Ethiopia in 1995.</p>
+<p>Velayati last visited Cairo in 1994 to attend a Non-Aligned Movement meeting of foreign ministers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

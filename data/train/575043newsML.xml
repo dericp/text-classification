@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="575043" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: Merisel Inc Q1 profit.</title>
+<headline>Merisel Inc Q1 profit.</headline>
+<dateline>EL SEGUNDO, Calif. 1997-05-12</dateline>
+<text>
+<p>(In thousands, except per-share data)</p>
+<p>							 Three months ended</p>
+<p>								    March 31,</p>
+<p>							   1997	  1996</p>
+<p>Net sales					$1,113,100  $1,536,589</p>
+<p>Gross profit					 64,976	87,223</p>
+<p>Income (loss) before income taxes	    1,303     (13,028)</p>
+<p>Net income (loss)				  1,130     (13,508)</p>
+<p>Net income (loss) per share		  4 cents   (45 cents)</p>
+<p>Weighted average shares outstanding	  30,078	29,863</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="EL SEGUNDO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

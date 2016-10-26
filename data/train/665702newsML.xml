@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="665702" id="root" date="1997-06-17" xml:lang="en">
+<title>USA: Techniclone says to hire new CEO.</title>
+<headline>Techniclone says to hire new CEO.</headline>
+<dateline>TUSTIN, Calif. 1997-06-17</dateline>
+<text>
+<p>Techniclone Corp said Tuesday it plans to hire several new executives, including a chief executive officer, in preparation for clinical development and licensing of its products and technologies.</p>
+<p>The company said its current president, chief executive and chairman Lon Stone will continue in his current role until a new CEO is hired.</p>
+<p>He will remain as chairman thereafter, the company said.</p>
+<p>The hiring of a new CEO will allow Stone to concentrate on long-term strategic planning and the expansion of international operations for the company.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUSTIN, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

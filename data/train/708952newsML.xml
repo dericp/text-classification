@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="708952" id="root" date="1997-07-05" xml:lang="en">
+<title>OMAN: Gulf Investment in rights issue.</title>
+<headline>Gulf Investment in rights issue.</headline>
+<dateline>MUSCAT 1997-07-05</dateline>
+<text>
+<p>Oman's Gulf Investment Services Co on Saturday announced a new share offer to raise the brokerage firm's capital to six million rials ($15.6 million) from four million.</p>
+<p>Some two million shares at the nominal value of one rial per share will be on offer from August 16. Subscription will end on September 1.</p>
+<p>The company in April put its 1996 net profit at 368,441 rials.</p>
+<p>($ = 0.384 Omani Rials)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="OMAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-05"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUSCAT"/>
+<dc element="dc.creator.location.country.name" value="OMAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

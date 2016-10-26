@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="414799" id="root" date="1997-03-03" xml:lang="en">
+<title>USA: Alabama Gov's $700 million bond plan due this week.</title>
+<headline>Alabama Gov's $700 million bond plan due this week.</headline>
+<dateline>MONTGOMERY 1997-03-03</dateline>
+<text>
+<p>Alabama Gov. Fob James plans to release his $700 million highway bond proposal by the end of this week, spokeswoman Sandra Nesbitt said Monday.</p>
+<p>James has been discussing the plan for several months but has not released final details.</p>
+<p>&quot;It's going to be somewhere in the neighborhood of $700 million,&quot; Nesbitt said.</p>
+<p>The plan would use existing gasoline taxes to pay debt service on the bonds, which would finance construction of bypasses around north Birmingham and south Montgomery and expand several busy highways to four lanes.</p>
+<p>The debt would jump-start major projects that James said are badly needed but could not be started for several years if Alabama relies on pay-as-you-go funding.</p>
+<p>Nesbitt said the proposal would be finished and submitted to the legislature in bill form by Friday.</p>
+<p>--Jane Sutton, 305-374-5013</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTGOMERY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="751036" id="root" date="1997-07-23" xml:lang="en">
+<title>AUSTRALIA: MIM shares top turnover.</title>
+<headline>MIM shares top turnover.</headline>
+<dateline>SYDNEY 1997-07-23</dateline>
+<text>
+<p>Shares in major miner MIM Holdings Ltd topped turnover on Wednesday with 17.21 million shares or about one percent of its capital traded.</p>
+<p>The bulk of the trade was in three lines totalling 13 million shares specialled through Deutsche Morgan Grenfell, all at a price of A$1.77 per share.</p>
+<p>Brokers said the trade appeared to be normal institutional business.</p>
+<p>MIM shares closed three cents higher at A$1.77 on Wednesday.</p>
+<p>-- Walter Watson 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

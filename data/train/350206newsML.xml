@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="350206" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: FDA approves Medtronic cardiac surgery instrument.</title>
+<headline>FDA approves Medtronic cardiac surgery instrument.</headline>
+<dateline>MINNEAPOLIS 1997-02-03</dateline>
+<text>
+<p>Medtronic Inc said the U.S. Food and Drug Administration cleared its minimally invasive cardiac surgery instrument for U.S. marketing.</p>
+<p>The instrument, called Octopus, immobilizes a local area of the beating heart, allowing surgery to be performed on it without putting the patient on a full-scale heart-lung bypass circuit.  </p>
+<p>The Octopus instrument is connected to a suction and placed on the surface of the beating heart to hold a local area motionless so the surgeon can place sutures with precision during coronary bypass grafting procedures.</p>
+<p>Parallel tracks of small vacuum cups grip the heart on either side of the artery to be bypassed, immobilizing it while the rest of the heart beats, Medtronic said.  </p>
+<p>About 700,000 conventional coronary artery bypass procedures are performed worldwide each year. Each requires a median sternotomy, commonly known as &quot;cracking the chest,&quot; and use of an external perfusion circuit to take over the work of the heart while it is stopped.</p>
+<p>&quot;Increasing numbers of surgeons are successfully performing surgery without performing the median sternotomy. Advantages of the new, minimally invasive technique, in which surgery is done through smaller incisions, include significantly shorter hospital stays and recovery times, reduced pain and trauma, potentially improved clinical outcomes and reduced health care costs,&quot; Medtronic said.</p>
+<p>Medtronic gained exclusive rights to the Octopus technology through an agreement concluded in April, 1996.</p>
+<p>Executives said the device would be manufactured in Grand Rapids, Mich., and marketed by within the next 60 days.</p>
+<p>((--Chicago Newsdesk 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

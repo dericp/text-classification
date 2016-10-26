@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="594574" id="root" date="1997-05-19" xml:lang="en">
+<title>MEXICO: Mexico gives Canadian Pacific natgas permit.</title>
+<headline>Mexico gives Canadian Pacific natgas permit.</headline>
+<dateline>MEXICO CITY 1997-05-19</dateline>
+<text>
+<p>Mexico granted a permit for natural gas distribution to Minera Nyco, a subsidiary of Canadian Pacific Ltd, Mexico's Energy Regulatory Commission (CRE) said on Monday.</p>
+<p>The permit is for self-consumption and will require an expected $6 million investment for the 39-mile, six-inch diameter pipeline, the CRE said in a statement.</p>
+<p>&quot;(The pipeline) will allow the company to meet its natural gas demand to extract and process calcium silicate (wolla-stonite), an asbestos substitute, used to build auto-parts, ceramics and other products,&quot; the CRE said.</p>
+<p>Minera Nyco plans to extract about 120,000 tonnes of the mineral in the first years of operation, up to 240,000 tonnes in the fourth year and about 500,000 tonnes in the sixth year.</p>
+<p>The pipeline will start from the Naco-Hermosillo pipeline owned by state oil and gas monopoly Petroleos Mexicanos (Pemex).</p>
+<p>Minera Nyco is a subsidiary of Fording Coal, which is a unit of Canadian Pacific.</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 728-7903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

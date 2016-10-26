@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="98970" id="root" date="1996-10-07" xml:lang="en">
+<title>ROMANIA: RADIO ROMANIA AFTERNOON HEADLINES AT 4 PM.</title>
+<headline>RADIO ROMANIA AFTERNOON HEADLINES AT 4 PM.</headline>
+<dateline>BUCHAREST 1996-10-07</dateline>
+<text>
+<p>Radio Romania news headlines:</p>
+<p>* Presidential spokesman and special envoy Traian Chebeleu to hand deliver in Athens President Ion Iliescu's message to Greek Prime Minister Costas Simitis, reiterating Romania's bid to join NATO.</p>
+<p>Similar messages were already delievered to U.S. President Bill Clinton and Canadian Prime Minister Jean Chretien and will be sent to presidents of all NATO member countries as well as NATO Secretary General Javier Solana.</p>
+<p>* Government's secretariat for preparing November 3 polls suggested Romanian state television should broadcast special programmes explaining people how to vote. -- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

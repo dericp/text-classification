@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288331" id="root" date="1997-01-06" xml:lang="en">
+<title>ESTONIA: Estonian Pennu sees 3.5 mln kroon H1 '97 profit.</title>
+<headline>Estonian Pennu sees 3.5 mln kroon H1 '97 profit.</headline>
+<dateline>TALLINN 1997-01-06</dateline>
+<text>
+<p>Estonian technology firm Pennu Computer forecast first-half 1997 profit of 3.5 million kroons and said it would have net turnover of 1.4 million kroons over that period.</p>
+<p>Pennu, Estonia's second-largest computer firm, made first-half 1996 profits of 1.4 million kroons and has yet to release its full-year 1996 earnings.</p>
+<p>Pennu buys components from abroad which it assembles and sells under its own name. It last year signed a deal with Western Digital  to build a hard disc repair facility to service eastern Europe.</p>
+<p>The company said in a statement that the first-half 1997 forecast was based on last year's results and the expected development of the computer market in Estonia and the potential of the rest of the Baltic states and Finland.</p>
+<p>Pennu said it would release its full-year 1996 earnings figures in the second half of January.</p>
+<p>The company is quoted on the secondary section of the Tallinn stock exchange's official list.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

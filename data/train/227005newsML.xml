@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227005" id="root" date="1996-12-01" xml:lang="en">
+<title>USA: NBA-STANDINGS AFTER SATURDAY'S GAMES.</title>
+<headline>NBA-STANDINGS AFTER SATURDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-12-01</dateline>
+<text>
+<p>Standings of National</p>
+<p>Basketball Association teams after games played on Saturday</p>
+<p>(tabulate under won, lost, percentage, games behind):</p>
+<p>		 EASTERN CONFERENCE</p>
+<p>		 ATLANTIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> MIAMI	     12    4   .750   -</p>
+<p> ORLANDO	    8    4   .667   2</p>
+<p> NEW YORK	   9    5   .643   2</p>
+<p> WASHINGTON	 7    8   .467   4 1/2</p>
+<p> PHILADELPHIA     7    8   .467   4 1/2</p>
+<p> BOSTON	     4   10   .286   7</p>
+<p> NEW JERSEY	 3    9   .250   7</p>
+<p>		 CENTRAL DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> CHICAGO	   15    1   .938   -</p>
+<p> DETROIT	   11    3   .786   3</p>
+<p> CLEVELAND	  9    5   .643   5</p>
+<p> CHARLOTTE	  8    6   .571   6</p>
+<p> ATLANTA	    9    7   .563   6</p>
+<p> MILWAUKEE	  8    7   .533   6 1/2</p>
+<p> INDIANA	    5    8   .385   8 1/2</p>
+<p> TORONTO	    4   10   .286  10</p>
+<p>		 WESTERN CONFERENCE</p>
+<p>		 MIDWEST DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> HOUSTON	   15    1   .938   -</p>
+<p> UTAH		11    2   .846   2 1/2</p>
+<p> MINNESOTA	  7    8   .467   7 1/2</p>
+<p> DENVER	     5   11   .313  10</p>
+<p> DALLAS	     4   10   .286  10</p>
+<p> SAN ANTONIO	2   13   .133  12 1/2</p>
+<p> VANCOUVER	  2   15   .118  13 1/2</p>
+<p>		 PACIFIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> SEATTLE	   14    3   .824   -</p>
+<p> LA LAKERS	 11    6   .647   3</p>
+<p> PORTLAND	  10    6   .625   3 1/2</p>
+<p> LA CLIPPERS	6   10   .375   7 1/2</p>
+<p> SACRAMENTO	 5   11   .313   8 1/2</p>
+<p> GOLDEN STATE     4   11   .267   9</p>
+<p> PHOENIX	    1   14   .067  12</p>
+<p>SUNDAY, DECEMBER 1ST SCHEDULE</p>
+<p>PORTLAND AT GOLDEN STATE	</p>
+<p>SACRAMENTO AT DETROIT	   </p>
+<p>UTAH AT SEATTLE		   </p>
+<p>DENVER AT LA LAKERS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

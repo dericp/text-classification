@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="745584" id="root" date="1997-07-22" xml:lang="en">
+<title>BRAZIL: Multiple pile-up in Brazil kills 14, injures 22.</title>
+<headline>Multiple pile-up in Brazil kills 14, injures 22.</headline>
+<dateline>RIO DE JANEIRO 1997-07-22</dateline>
+<text>
+<p>Fourteen people were killed and 22 injured in a multiple pile-up on a Brazilian highway near Rio de Janeiro, a police spokesman said on Tuesday.</p>
+<p>Twelve people died at the scene of the accident, including the driver of a bus, a 16-year-old boy and a six-year-old girl, while another two died on arrival at a nearby hospital, the police spokesman said. The injured were taken to various hospitals in the area. All of the dead and injured were bus passengers.</p>
+<p>The crash, which involved two trucks, two buses and a car, happened late on Monday on Latin America's busiest highway, the 252-mile (407 km) Via Dutra between Rio and Sao Paulo. The highway is notorious for the number of accidents that occur as a result of poor maintenance.</p>
+<p>&quot;The car halted, I stopped and everyone behind me crashed into each other,&quot; Oswaldo Solla, the driver of one of the trucks, told Globo Television News. &quot;My heart is still in pieces just thinking about all those victims.&quot;</p>
+<p>The driver of the car said he was forced to step on the breaks to avoid hitting another truck which was swerving across the road. That truck fled from the scene of the accident, he said.</p>
+<p>The Via Dutra remained closed for five hours after the accident.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIO DE JANEIRO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

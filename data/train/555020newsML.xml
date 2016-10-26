@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="555020" id="root" date="1997-05-01" xml:lang="en">
+<title>MALAYSIA: KL stock market closed for Labour Day holiday.</title>
+<headline>KL stock market closed for Labour Day holiday.</headline>
+<dateline>KUALA LUMPUR 1997-05-01</dateline>
+<text>
+<p>The Kuala Lumpur Stock Exchange is closed on Thursday for the Labour Day holiday.</p>
+<p>It reopens on Friday, May 2.</p>
+<p>On Wednesday the key Kuala Lumpur Stock Exchange's Composite Index ended up 20.66 points to 1,080.17, buoyed by a firmer U.S. market and news of power utility Tenaga Nasional Bhd receiving a long-awaited tariff increase.</p>
+<p>Volume stood at 242 million shares valued at 1,525 million ringgit.</p>
+<p>-- Kuala Lumpur newsroom (603-206 2323)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="196610" id="root" date="1996-11-18" xml:lang="en">
+<title>USA: Sarcom raises $150 mln for national expansion.</title>
+<headline>Sarcom raises $150 mln for national expansion.</headline>
+<dateline>COLUMBUS, Ohio 1996-11-18</dateline>
+<text>
+<p>Sarcom Inc, a privately-held computer systems integrator, said on Monday it copmleted a $150 million recapitalization, for use in its national expansion strategy.</p>
+<p>The company said McCown De Leeuw &amp; Co, a private equity investment firm, made a substantial equity investment in Sarcom. The recapitalization provided Sarcom with over $65 million of available funds to pursue growth plans, it said.</p>
+<p>To assist with plans, the company said it created a chief executive officer position and named Tom Taylor to the role. Taylor was one of the founders of ENTEX Information Services, which provides computer products and services.</p>
+<p>Sarcom offers information technology solutions and services including network integration, installation and design, PC systems integration, help-desk serivces, hardware repair, training and outsourcing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS, Ohio"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

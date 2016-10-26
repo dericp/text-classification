@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="157908" id="root" date="1996-10-31" xml:lang="en">
+<title>USA: U.S. oil/lard data - CENSUS.</title>
+<headline>U.S. oil/lard data - CENSUS.</headline>
+<dateline>WASHINGTON 1996-10-31</dateline>
+<text>
+<p>U.S. Census Bureau report of factory/warehouse end of-month stocks of vegetable oils/fats</p>
+<p>    (MLN LBS) --  Sept 96	Aug 96     Sept 95</p>
+<p>   Soybean Crude  1,789.4     1,874.3-R    905.7</p>
+<p>	   Refined    217.3	 217.1-R    231.0</p>
+<p>	   Total-Y  2,006.7     2,091.4-R  1,136.7</p>
+<p> Cottonseed Crude    41.2	  31.9-R     27.0</p>
+<p>	   Refined     57.5	  69.2-R     55.2</p>
+<p>	   Total-Y     98.6	 101.2-R     82.1</p>
+<p>Y-May not add due to rounding. R-revised  </p>
+<p>Factory Oils Output (Mln Lbs):</p>
+<p>			 Sept 96     Aug 96    Sept 95</p>
+<p>    Soybean Crude  1,210.5    1,270.5    1,273.4</p>
+<p>	    Refined  1,056.9    1,115.8-R  1,039.8</p>
+<p> Cottonseed Crude    102.4	 98.3	114.3</p>
+<p>	    Refined     54.8	 62.4-R     69.0</p>
+<p>	 Corn Crude    166.6	163.7	186.5</p>
+<p>	    Refined     79.4	 62.5-R     89.8</p>
+<p>End-month factory and warehouse stocks of other vegoils:</p>
+<p>   (MLN LBS) --  Sept 96   Aug 96   Sept 95</p>
+<p>   Peanut Crude   78.5     50.9-R     42.4</p>
+<p>	  Refined    4.0	3.2-R	2.9</p>
+<p> Tall Oil Crude  143.3    147.3-R    120.9</p>
+<p>	  Refined    8.3	7.2-R     10.1</p>
+<p>  Coconut Crude   38.6     61.4-R     87.0</p>
+<p>	  Refined   45.4     52.5-R     75.9</p>
+<p>  Linseed Crude   32.6     31.4-R     32.5</p>
+<p>	  Refined   13.5     27.6-R     13.5</p>
+<p>End-month combined stocks of crude and refined oils:  (Mln Lbs) --  Sept 96   Aug 96  Sept 95</p>
+<p>	   Lard    22.4     20.7-R   24.3</p>
+<p>    Safflower    41.9     44.4-R   21.3</p>
+<p>	   Palm    29.4     33.4-R   16.4</p>
+<p>	   Tung     2.5	2.7	2.4</p>
+<p>	 Castor    24.2     25.5-R   27.1</p>
+<p>  Palm Kernel    21.8     32.0-R   54.7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-31"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-31"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-31"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

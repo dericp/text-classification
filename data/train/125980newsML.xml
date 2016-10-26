@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="125980" id="root" date="1996-10-18" xml:lang="en">
+<title>USA: U.S. says Integrated Health Services settles case.</title>
+<headline>U.S. says Integrated Health Services settles case.</headline>
+<dateline>WASHINGTON 1996-10-18</dateline>
+<text>
+<p>The federal government said Friday that Integrated Health Services Inc has agreed to pay $255 million to settle claims that a bankrupt home health provider it acquired submitted overbilled and fradulent Medicare claims.</p>
+<p>The U.S. Justice Department and the Department of Health and Human Services said Integrated Health Services agreed to pay the settlement amount on behalf of First American Health Care of Georgia Inc, the nation's largest home health provider which it acquired under a reorganization plan.</p>
+<p>The settlement covers the money that Medicare allegedly overpaid First American Health Care of Georgia and money the company allegedly fradulently billed Medicare, the two agencies said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

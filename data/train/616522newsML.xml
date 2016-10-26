@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="616522" id="root" date="1997-05-27" xml:lang="en">
+<title>MEXICO: Mexico's Pemex crude output, exports up in April.</title>
+<headline>Mexico's Pemex crude output, exports up in April.</headline>
+<dateline>MEXICO CITY 1997-05-27</dateline>
+<text>
+<p>Mexico's state-owned oil and gas monopoly Petroleos Mexicanos (Pemex) said Tuesday that average crude output in April was 2.947 million barrels per day (BPD) compared to 2.852 million BPD in April last year.</p>
+<p>Pemex said average April crude exports were 1.817 million BPD against 1.561 million in the same month a year ago.  </p>
+<p>Pemex said average April natural gas (natgas) exports were 5.0 million cubic feet per day (CFD) compared to 41.7 million CFD in the same month a year ago.</p>
+<p>For natgas imports, Pemex said average April purchases were 98.9 million CFD versus 50.0 million CFD in the same month a year earlier.</p>
+<p>((--Timna Tanners, Mexico City newsroom +525 7287903))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

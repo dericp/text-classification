@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="136217" id="root" date="1996-10-23" xml:lang="en">
+<title>USA: Phillips Petroleum Co Q3 net up to $0.71/shr.</title>
+<headline>Phillips Petroleum Co Q3 net up to $0.71/shr.</headline>
+<dateline>NEW YORK 1996-10-23</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary		$0.71		    $0.52</p>
+<p> Net			187,000		  136,000</p>
+<p> Revs		   3,897,000		3,415,000</p>
+<p> Avg shrs primary     263,180		  262,154</p>
+<p>	  NINE MONTHS</p>
+<p> Shr primary		$4.20		    $1.37</p>
+<p> Net		    1,103,000		  360,000</p>
+<p> Revs		  11,474,000	     10,175,000</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>NOTE: '96 Q3 net includes $25 million charge related to properties in Canada. '96 9 Mths include $565 million &quot;benefit&quot; from tax case related to Alaskan liquefied natural gas facility.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

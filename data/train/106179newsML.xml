@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106179" id="root" date="1996-10-09" xml:lang="en">
+<title>USA: PRESALE - Elmwood Park, N.J..</title>
+<headline>PRESALE - Elmwood Park, N.J..</headline>
+<text>
+<p>AMT: 2,607,000	DATE: 10/16/96	NYC Time: 1100	CUSIP: 290090</p>
+<p>ISSUER: Elmwood Park						    ST: NJ</p>
+<p>ISSUE: General obligation					   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 10/15/96							     SURE BID: N</p>
+<p>DUE: 10/15/97-08					    SR MGR:</p>
+<p>1ST CPN: 04/15/97</p>
+<p>CALL: 10/15/03 @ 101.5, dtp 10/15/05		  NIC</p>
+<p>DELIVERY: 10/24/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: Chief Financial Officer's Office, Elmwood Park</p>
+<p>L.O.: Rogut, McCarthy &amp; Bhend, Crandord</p>
+<p>F.A.: None</p>
+<p>LAST SALE: $1,826,000 3/25/93 @ 4.7950% NIC; 7yrs 2mos avg; BBI- 5.78%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    150,000</p>
+<p>1998		    150,000</p>
+<p>1999		    150,000</p>
+<p>2000		    155,000</p>
+<p>2001		    170,000</p>
+<p>2002		    175,000</p>
+<p>2003		    180,000</p>
+<p>2004		    280,000</p>
+<p>2005		    300,000</p>
+<p>2006		    300,000</p>
+<p>2007		    300,000</p>
+<p>2008		    297,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

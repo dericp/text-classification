@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="514993" id="root" date="1997-04-16" xml:lang="en">
+<title>BELGIUM: EU to propose electronic commerce regulations.</title>
+<headline>EU to propose electronic commerce regulations.</headline>
+<byline>Suzanne Perry</byline>
+<dateline>BRUSSELS 1997-04-16</dateline>
+<text>
+<p>The European Commission said on Wednesday it planned to propose a package of legislation promoting the Internet and other electronic networks for business transactions in Europe.</p>
+<p>The Commission called on the European Union to remove barriers that could hinder &quot;tremendous business opportunities now opening up&quot;. It said it planned initiatives in areas including security, financial contracts and electronic payments.</p>
+<p>&quot;To ensure that electronic commerce freely flows across national frontiers, different legal issues need to be addressed at each step of business activity,&quot; it said.</p>
+<p>The EU executive, in a report covering services ranging from entertainment services to online shopping, said it would propose new laws sparingly since countries should when possible just recognise each other's rules.</p>
+<p>&quot;We definitely want to avoid, like in other sectors, having too much legislation too early,&quot; EU Internal Market Commissioner Mario Monti told a news conference.</p>
+<p>However, he said some regulation was needed to create a stable legal framework and increase consumer confidence.</p>
+<p>The Commission said it planned to propose legislation to cover financial services contracts negotiated at a distance, noting that national governments were applying different restrictions in an effort to protect consumers.</p>
+<p>It said it would also propose legislation to ensure that electronic services offered on a subscription basis were protected from piracy and would address problems related to encryption systems used to ensure that information sent over electronic networks is kept confidential.</p>
+<p>It said it would propose a common legal framework for recognising digital signatures -- strings of data encrypted to establish the origin of transmitted messages.</p>
+<p>The Commission said it would also issue in 1998 a notice indicating how it will apply EU rules on fair competition to electronic payment systems.</p>
+<p>The report called for an analysis of the impact of electronic commerce on the EU's Value Added tax system. Monti noted that electronic products and services were covered by existing VAT rules, but that collection can be a problem.</p>
+<p>However, the report rejected calls to create a new &quot;bit tax&quot; that would be based on the number of electronic units transmitted.</p>
+<p>The report also highlighted the need for global cooperation, noting that the Commission and Germany were organising a global ministerial conference in July in Bonn to address policy issues affecting the Internet and electronic commerce.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+  <code code="G155">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="228371" id="root" date="1996-12-02" xml:lang="en">
+<title>MALAYSIA: Malaysian Perstima requests suspension.</title>
+<headline>Malaysian Perstima requests suspension.</headline>
+<dateline>KUALA LUMPUR 1996-12-02</dateline>
+<text>
+<p>Shipbuilder Perusahaan Sadur Timah Bhd (Perstima) said it has requested the Kuala Lumpur Stock Exchange (KLSE) to suspend its stock immediately.</p>
+<p>Perstima said it will inform the exchange the reason for the suspension shortly.</p>
+<p>A spokesman for the KLSE told Reuters that the suspension would take effect from 0930 local time (0130 GMT) on Wednesday.</p>
+<p>Property and finance concern Kelanamas recently disposed off a 22 percent stake in Perstima for a total of 237.6 million ringgit to tycoon Amin Shah Omar Shah.</p>
+<p>-- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22471">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

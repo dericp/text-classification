@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255620" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: SNAPSHOT- NY Softs and Cotton technical indicators.</title>
+<headline>SNAPSHOT- NY Softs and Cotton technical indicators.</headline>
+<text>
+<p>MAR COF  MAR COC  MAR SUG  JAN OJ  MAR COT</p>
+<p>Close Dec 12    109.85   1,380    10.46    90.75   76.45</p>
+<p>High		110.25   1,391    10.47    91.40   76.60</p>
+<p>Low		 107.80   1,378    10.37    90.50   75.30</p>
+<p>5-DAY M.A.	107.01   1,384    10.39    91.36   76.30</p>
+<p>10-DAY M.A.     106.16   1,392    10.41    93.69   76.02</p>
+<p>20-DAY M.A.     108.67   1,388    10.49    95.77   75.19</p>
+<p>9-DAY R.S.I.	61	 45	 51	31	 61</p>
+<p>14-DAY R.S.I.     56	 47	 48	33	 58</p>
+<p>STOCHASTICS SLOW</p>
+<p>(5,3,3)   %D	76	 33	 58	27	 83</p>
+<p>	    %K	89	 36	 79	33	 82</p>
+<p>Note: Data calculated from previous close. Previous high and low include ACCESS trading from previous session. Indicators are based on the time periods recommended by their developers or commonly used by technical analysts. Moving averages are simple moving averages. Slow stochastics use a five day observation period and three day averaging period. All calculations can be made using Reuter Graphics or Reuter Technical Analysis products.</p>
+<p>Contract High   127.25    1,518   11.76   135.50    85.15</p>
+<p>Contract Low     91.50    1,322   09.48    88.25    72.00</p>
+<p>Expiry Date     Mar 18    Mar 13  Feb 28  Jan 13    Mar 6</p>
+<p>			    BULLISH CONSENSUS ON DEC 03</p>
+<p>Coffee			  44 from 46 on Dec 03</p>
+<p>Cocoa			   48 from 54 on Dec 03</p>
+<p>Sugar			   49 from 54 on Dec 03</p>
+<p>Orange Juice		  27 from 32 on Dec 03</p>
+<p>Cotton			  63 from 63 on Dec 03</p>
+<p>* Bullish Consensus, Copyrighted, Market Vane Corporation, P.O. Box 90490, Pasadena, CA  91109-0490. Phone +1 818 395 7436. The survey expresses a percentage of bullish sentiment among analysts and advisors. The company said 50 percent is considered support in a bull market and resistance in a bear market. Data are most recent available.</p>
+<p>-- New York Commodities +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

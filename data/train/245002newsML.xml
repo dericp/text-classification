@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="245002" id="root" date="1996-12-09" xml:lang="en">
+<title>PHILIPPINES: Philippine ERB may cut petrol prices this week.</title>
+<headline>Philippine ERB may cut petrol prices this week.</headline>
+<dateline>MANILA 1996-12-09</dateline>
+<text>
+<p>The Philippines Energy Regulatory Board (ERB) said on Monday it is planning to reduce local oil prices this week.</p>
+<p>&quot;We will likely reduce oil prices this week,&quot; ERB chairman Bayani Faylona told Reuters.</p>
+<p>He declined to say how much the reduction could be and which products would be affected.  </p>
+<p>The ERB adjusts petroleum prices based on Singapore Posted Prices on or before the third Monday every month. But the scheduled adjustment in November was delayed following opposition from some politicians.</p>
+<p>The November adjustment was done last week with petroluem product prices rising by an average of 79.75 centavos per litre.</p>
+<p>ERB sources said most petroleum product prices, except liquefied petroleum gas, could be cut this week.</p>
+<p>- Manila newsroom 63 2 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

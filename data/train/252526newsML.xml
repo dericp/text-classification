@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="252526" id="root" date="1996-12-12" xml:lang="en">
+<title>USA: Army sgt. pleads guilty in Missouri assault case.</title>
+<headline>Army sgt. pleads guilty in Missouri assault case.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-12</dateline>
+<text>
+<p>An Army drill sergeant pleaded guilty Thursday to charges that he assaulted and abused trainees at the Fort Leonard Wood training base in Missouri, an official said.</p>
+<p>At a court martial at the base, Staff Sgt. Anthony Fore admitted to putting his hands around the necks of two trainees and touching female recruits' breasts.  </p>
+<p>An official at the base said Fore could face dishonourable discharge and possible imprisonment at his sentencing, which was scheduled to take place later Thursday.</p>
+<p>Fore was charged in August with failing to obey a general regulation, indecent assault, maltreatment and assault and battery.</p>
+<p>The Army said the charges resulted from an ongoing investigation into trainees' complaints of abuse and assault, but were not related to the rape and sexual harassment probe under way at Aberdeen Proving Ground in Maryland.</p>
+<p>Another soldier at the Missouri base, Staff Sgt. Loren Taylor, was discharged, demoted and sentenced to confinement last month after he admitted to having sex with three female recruits.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

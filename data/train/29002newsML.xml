@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="29002" id="root" date="1996-09-03" xml:lang="en">
+<title>USA: Occidental deals to contribute immediately to earn.</title>
+<headline>Occidental deals to contribute immediately to earn.</headline>
+<dateline>LOS ANGELES 1996-09-03</dateline>
+<text>
+<p>Occidental Petroleum Corp said it has bought three specialty chemical producers in separate deals for aboout $146 million, of which about $127 million will be paid in shares of Occidental common stock.</p>
+<p>Chairman and Chief Executive Officer Ray Irani said the acquisitions will contribute immediately, on a non-dilutive basis, to Occidental's earnings and cash flow.</p>
+<p>He said the deals were part of Occidental's strategy to expand its specialty chemicals businesses from an annual earnings base of $65 million in 1995 to $250 million annually by the year 2000.  </p>
+<p>Laurel Industries Inc, bought from private investors, is North America's largest producer of antimony oxide at its LaPorte, Texas facility.</p>
+<p>Antimony oxide is used as a polymerization catalyst in the maker of polyethylene terephthalate (PET) resins and as a flame retardant in plastics, where it will complement other OxyChem flame retardants DechPlus and resorcinol.</p>
+<p>Natural Gas Odorizing, purchased from Helmerich &amp; Payne, is the leading U.S.  producer of mercaptan-based warning agents for use in natural gas and propane from its single plant in Baytown, Texas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

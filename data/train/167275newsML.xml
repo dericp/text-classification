@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="167275" id="root" date="1996-11-05" xml:lang="en">
+<title>USA: Metrotrans Q3 shr rises.</title>
+<headline>Metrotrans Q3 shr rises.</headline>
+<dateline>GRIFFIN, Ga. 1996-11-05</dateline>
+<text>
+<p>METROTRANS CORPORATION</p>
+<p>				  STATEMENTS OF INCOME</p>
+<p>		     (In Thousands, Except Per Share Data)</p>
+<p>			 (Unaudited)</p>
+<p>				Three Months Ended  Nine Months Ended</p>
+<p>				 Sep 29,    Oct. 1,  Sep 29,  Oct. 1,</p>
+<p>				   1996	  1995     1996     1995</p>
+<p> NET REVENUE		$ 19,881   $ 15,531 $ 57,695 $ 47,021</p>
+<p> NET INCOME		    1,116	  759    2,842    2,082</p>
+<p>NET INCOME PER COMMON AND</p>
+<p>COMMON EQUIVALENT SHARE</p>
+<p> (Unaudited)		    0.27	 0.19     0.69     0.52</p>
+<p>WEIGHTED AVERAGE COMMON AND</p>
+<p>COMMON EQUIVALENT SHARES</p>
+<p> (Unaudited)		   4,115	4,007    4,102    3,998</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GRIFFIN, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

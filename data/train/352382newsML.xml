@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="352382" id="root" date="1997-02-03" xml:lang="en">
+<title>FINLAND: Baltic Ice - Stable, no new restrictions due.</title>
+<headline>Baltic Ice - Stable, no new restrictions due.</headline>
+<dateline>HELSINKI 1997-02-03</dateline>
+<text>
+<p>No extra navigation restrictions in Finnish waters were planned with ice levels roughly stable, the Finnish Institute of Marine Research said in its twice-weekly report on Monday.</p>
+<p>Four icebreakers remained on station near St Petersburg and Vyborg in the eastern Gulf of Finland, three in the northern end of the Gulf of Bothnia, three in the middle of the Gulf of Bothnia and one outside Parnu in the Gulf of Riga.</p>
+<p>(Temperatures of nearby isotherms, degrees Celsius)</p>
+<p> PORT	    TEMP ICE TYPE    THICKNESS  RESTRICTIONS</p>
+<p> St Petersburg n/a  Level/compact   30-40  Russian ice class 13,</p>
+<p>							  min 2,000 hp</p>
+<p> Vyborg	  n/a  Fast		20-35  None</p>
+<p> Ventspils     n/a  None		  n/a  None</p>
+<p> Riga	    n/a  Scant		 n/a  None</p>
+<p> Parnu	   n/a  Fast/level	10-25  None</p>
+<p> Tallinn	 n/a  Scant		 n/a  None</p>
+<p> Kotka, Hamina n/a  Fast		10-30  None</p>
+<p> Porvoo	  n/a  Fast		 5-20  None</p>
+<p> Helsinki	n/a  Fast		 5-20  None</p>
+<p> Rauma	   n/a  Fast		10-30  Ice classes I, II,</p>
+<p>							  min 1,300 DWT</p>
+<p> Stockholm     n/a  Scant		 n/a  None</p>
+<p> Oulu	    n/a  Fast/compact/   40-65  Ice class IA,</p>
+<p>			  ridged			min 3,000 DWT</p>
+<p> Kemi	    n/a  Windrow/rafted/ 40-75  Ice class IA</p>
+<p>			  ridged			min 3,000 DWT</p>
+<p> Lulea	   n/a  Level	     25-40  Ice class IB,</p>
+<p>							  min 2,000 DWT</p>
+<p> Kokkola	 n/a  Level/compact   20-40  Ice class IA,</p>
+<p>							  min 2,000 DWT</p>
+<p> Sundsvall     n/a  Fast		10-15  None</p>
+<p> Ornskoldsvik  n/a  Fast		10-15  Ice class II,</p>
+<p>							  min 2,000 DWT</p>
+<p>NOTES: New ice - forming, thin and still moving. Fast ice - not moving level flat ice. Level ice - thick flat ice. Consolidated/compact - compact close ice. Windrow ice - reshaped by wind, thickness varies sharply. Rafted - ridges forming, 10-20 cm thick. Ridged - ridged or hummocked ice. Open - floes with water at rate of 4-6:10</p>
+<p>-- Helsinki newsroom +358 0 6805 0247</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

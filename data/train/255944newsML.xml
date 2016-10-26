@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="255944" id="root" date="1996-12-13" xml:lang="en">
+<title>USA: High Plains Wheat - Basis levels hold steady.</title>
+<headline>High Plains Wheat - Basis levels hold steady.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-13</dateline>
+<text>
+<p>Basis levels for hard red winter wheat held steady Thursday and early Friday, grain merchandisers in the U.S. High Plains said.</p>
+<p>Movement was said to have been mixed. Some dealers reported that farmers had taken advantage of a rally in KCBT wheat futures to sell stocks. But other dealers reported that business had been slow Thursday.</p>
+<p>Meanwhile, a large winter storm appeared to be headed for the central and southern U.S. Plains early next week. Meteorologists said the storm would bring several inches of snow to the area, followed by a blast of bitterly cold air.</p>
+<p>Futures traders said the snow would likely help insulate wheat from the cold temperatures, lessening the risk of winterkill damage to the crop.  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     +11  +  H     +11  +  H	     4.1650</p>
+<p> Dodge City	+17  +  H     +17  +  H	     4.2250</p>
+<p> Hutchinson	+45  +  H     +45  +  H	     4.5050</p>
+<p> Newton	    +45  +  H     +45  +  H	     4.5050</p>
+<p> Salina	    +45  +  H     +45  +  H	     4.5050</p>
+<p> Topeka	    +55  +  H     +55  +  H	     4.6050</p>
+<p> Wichita	   +50  +  H     +50  +  H	     4.5550</p>
+<p> Kansas City     +45  +  H     +45  +  H	     4.5050</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+45  +  H     +45  +  H	     4.5050</p>
+<p> Galveston	 +77  +  H     +77  +  H	     4.8250</p>
+<p> Houston	   +75  +  H     +75  +  H	     4.8050</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +57  +  H     +57  +  H	     4.6250</p>
+<p> Enid		+45  +  H     +45  +  H	     4.5050</p>
+<p> Guymon	    +20  +  H     +20  +  H	     4.2550</p>
+<p>(Note: Z=KCBT December wheat futures. H=KCBT March wheat</p>
+<p>futures. unq- unquoted, na - not applicable)</p>
+<p>--Kansas City bureau, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

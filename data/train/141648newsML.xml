@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141648" id="root" date="1996-10-24" xml:lang="en">
+<title>USA: Lili still a hurricane, gains strength in Atlantic.</title>
+<headline>Lili still a hurricane, gains strength in Atlantic.</headline>
+<dateline>MIAMI 1996-10-23</dateline>
+<text>
+<p>Hurricane Lili gained strength as it spun in the open Atlantic Ocean on Wednesday, stubbornly remaining a hurricane but posing no threat to land, the National Hurricane Center said.</p>
+<p>At 11:00 a.m. EDT (1500 GMT), Lili's center was located near latitude 33.1 north and longitude 53.6 west, or about 640 miles (1,025 km) east of Bermuda. Moving east-southeast at 5 mph (8 kph), Lili was expected to continue along the same general path on Wednesday with a gradual turn to the east on Thursday.</p>
+<p>Satellite images showed that Lili had redeveloped an eye and its maximum sustained winds had increased to 85 mph (140 kph).</p>
+<p>Although some gradual weakening was likely during the next 24 hours, the National Hurricane Center said Lili likely would remain a hurricane for 24 to 48 hours, with maximum sustained winds of at least 74 mph (119 kph).</p>
+<p>Lili formed off the coast of Central America last week, spawning high winds and flooding that was blamed for 10 deaths in Nicaragua, Honduras and Costa Rica, before heading north to Cuba.</p>
+<p>Lili hit Cuba on Thursday, causing extensive damage to agriculture and making thousands homeless. It then headed east and wreaked havoc in the central Bahamas with its 90 mph (145 kph) winds.</p>
+<p>The Cuban government said the storm destroyed almost all crops in eight of the country's 14 provinces when it swept through western and central Cuba on Thursday night and Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BERM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

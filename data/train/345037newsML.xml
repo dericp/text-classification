@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="345037" id="root" date="1997-01-30" xml:lang="en">
+<title>UK: UK gilt auction full results.</title>
+<headline>UK gilt auction full results.</headline>
+<dateline>LONDON 1997-01-30</dateline>
+<text>
+<p>The following auction results were announced by the Bank of England</p>
+<p>ISSUER: H M Treasury</p>
+<p>AMOUNT: 1.5 BLN</p>
+<p>COUPON: 7.0 PCT</p>
+<p>MATURITY: 2002</p>
+<p>AVERAGE ACCEPTED YIELD: 7.13 PCT</p>
+<p>BID AMOUNT/COVER: 3.82 TIMES</p>
+<p>LOWEST ACCEPTED PRICE: 99-13</p>
+<p>NOTES: There was no yield tail and no price tail.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

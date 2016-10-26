@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="731143" id="root" date="1997-07-16" xml:lang="en">
+<title>CANADA: TABLE - Canadian key economic indicators.</title>
+<headline>TABLE - Canadian key economic indicators.</headline>
+<text>
+<p>INDICATOR			 PERIOD  LATEST  PREV1  PREV2  NEXT</p>
+<p>UNEMPLOYMENT	     PCT  June    9.1     9.5     9.6  08/08</p>
+<p>EMPLOYMENT GROWTH	THD  June    +52     +61     +33  08/08</p>
+<p>CPI (MONTHLY, S/ADJ)   PCT  May    +0.1    -0.1    +0.1  07/17</p>
+<p>CPI (MONTHLY, UNADJ)   PCT  May     0.1     0.0     0.2  07/17</p>
+<p>CPI (ALL ITEMS, YR/YR) PCT  May    +1.5    +1.7    +2.0  07/17</p>
+<p>CPI (EX-FOOD/ENER)     PCT  May    +1.7    +1.8    +1.7  07/17</p>
+<p>MERCH TRADE BALANCE    BLN  Apr  +C$1.72 +C$2.60 +C$2.45 07/18</p>
+<p>MERCH IMPORTS (S/ADJ)  BLN  Apr  C$22.88 C$21.93 C$21.16 07/18</p>
+<p>MERCH EXPORTS (S/ADJ)  BLN  Apr  C$24.60 C$24.53 C$23.62 07/18</p>
+<p>CURR ACCT(SA QUARTERLY)BLN  Q1   -C$1.22 -C$0.55 +C$0.55 08/29</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-16"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

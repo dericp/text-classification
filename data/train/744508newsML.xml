@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="744508" id="root" date="1997-07-21" xml:lang="en">
+<title>FRANCE: INSTANT VIEW - French audit - economic reaction.</title>
+<headline>INSTANT VIEW - French audit - economic reaction.</headline>
+<dateline>PARIS 1997-07-21</dateline>
+<text>
+<p>Following are financial analysts' comments on the results of an audit of French public finances which found that the 1997 public deficit is running at between 3.5 and 3.7 percent of gross domestic product (GDP).</p>
+<p>FRANCOIS CHEVALIER, ECONOMIST, BFCE - The 3.5-3-7 deficit to GDP figure is no surprise...I think it will be perfectly possible for France to bring the deficit down to 3.2, 3.3 percent of GDP through various measures such as an extra effort by business. The 3.2-3.3 percent figure will be acceptable to the Germans.  </p>
+<p>ANTOINE BRUNET, ECONOMIST, CCF - What surprised us a little was that they gave a range rather than a precise figure for what the deficit was running at. But the good news is that 3.6 is the mid-point of that range. I think it will be possible, if the government goes ahead with the measures which have been reported in newspapers, to reach a deficit figure of 3.2 percent which will be acceptable to the Germans. The Germans now are saying they will hit 3.0 on the nose but at the end of the day they too will be at 3.2, 3.3 percent.  </p>
+<p>SONJA GIBBS, ECONOMIST, NOMURA INTERNATIONAL - The (deficit) figure is a pleasant surprise. There were those who were looking for something higher still. I guess a lot depends on how stern the government sounds about bringing it down. While I think the Germans will hit a deficit figure of 3.0 percent bang on by whatever means, I think they will accept France at 3.2, 3.3 percent. The French government is stuck between the proverbial rock and hard place in that it must satisfy the Germans and at the same time not upset its voters. That is why there is the reliance on a corporate tax hike and tapping state institutions for funds (to fill the budget gap)... The real worry is that the 1998 deficit might go in the wrong direction and that could be the last straw for Germany.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

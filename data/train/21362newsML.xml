@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="21362" id="root" date="1996-08-29" xml:lang="en">
+<title>ROMANIA: Viral meningitis epidemic kills 10 in Romania.</title>
+<headline>Viral meningitis epidemic kills 10 in Romania.</headline>
+<dateline>BUCHAREST 1996-08-29</dateline>
+<text>
+<p>Viral meningitis has killed 10 people in Romania's capital Bucharest this month in what doctors said on Thursday was the worst epidemic of its type in the country for a decade.</p>
+<p>Some 170 middle-aged and elderly people with the disease were being treated in hospital, doctors said.</p>
+<p>Doctor Emanuil Ceausu, head of Bucharest's Victor Babes hospital for infectious diseases, said the epidemic had been caused by a virus yet to be identified.</p>
+<p>Illness from viral meningitis lasts around a week. It affects the gastro-intestinal tract, causing high fever, headache and vomiting.</p>
+<p>In 1986 Romania suffered an epidemic of the more dangerous bacterial meningitis which has killed some 15,000 people in central Africa this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

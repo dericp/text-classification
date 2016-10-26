@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="60366" id="root" date="1996-09-18" xml:lang="en">
+<title>USA: Cherry Q2 shr $0.12 vs $0.12.</title>
+<headline>Cherry Q2 shr $0.12 vs $0.12.</headline>
+<dateline>WAUKEGAN, Ill. 1996-09-18</dateline>
+<text>
+<p>Three Months Ended Aug 31</p>
+<p> (in thousands except share data)  1996	 1995   % Change</p>
+<p> Net Sales			 $  102,377     $99,055	 3.4</p>
+<p> Net Earnings			   1,505	 1,531     (1.7)</p>
+<p> Net Earnings Per Share		 .12	   .12	 0.0</p>
+<p> Average Shares Outstanding  12,368,642  12,283,158	 0.7</p>
+<p>					    Six Months Ended Aug 31</p>
+<p> (in thousands except share data)  1996	 1995   % Change</p>
+<p> Net Sales			 $  214,078  $  207,456	 3.2</p>
+<p> Net Earnings			   4,710	 5,795    (18.7)</p>
+<p>  Net Earnings Per Share		.38	   .47    (19.1)</p>
+<p> Average Shares Outstanding  12,353,740  12,278,988	 0.6</p>
+<p>Note: Cherry Corp's 1995 second quarter included an after-tax gain of $900,000, or $0.07 a share, on sale of a building.</p>
+<p>-- New York newsroom, (212) 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-18"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-18"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WAUKEGAN, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

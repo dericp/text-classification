@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="250911" id="root" date="1996-12-11" xml:lang="en">
+<title>JAPAN: Matsushita sets up capacitor production firm in US.</title>
+<headline>Matsushita sets up capacitor production firm in US.</headline>
+<dateline>TOKYO 1996-12-11</dateline>
+<text>
+<p>Matsushita Electric Industrial Co Ltd said on Wednesday that it and its wholly owned subsidiary Matsushita Industrial Equipment Co Ltd had set up a firm in the United States to make capacitors for electric equipment such as refrigerators and air conditioners.</p>
+<p>The new firm, which was established in Illinois on October 1, is capitalised at $2.4 million and 60 percent held by Matsushita Industrial Equipment and the rest by Matsushita, the company said in a statement.</p>
+<p>Production is expected to start next April, the statement said.</p>
+<p>The new firm will have a production capacity of nine million units per year in 2002, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

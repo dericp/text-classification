@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478094" id="root" date="1997-04-01" xml:lang="en">
+<title>USA: Carson buys product line from USA Co.</title>
+<headline>Carson buys product line from USA Co.</headline>
+<dateline>SAVANNAH, Ga 1997-04-01</dateline>
+<text>
+<p>Carson Inc said Tuesday it signed an agreement with Chesebrough-Pond's USA Co to acquire the full CUTEX product line and trademarks for exclusive use in the United States and Puerto Rico.</p>
+<p>Pending regulatory approval, the transaction, worth more than $30 million, is expected to be completed by April 30.</p>
+<p>The company said the purchase included the CUTEX Nail Polish Remover, as well as Cutex nail care and lip color products, previously licensed to Jean Philippe Fragrances Inc.</p>
+<p>In 1996, the total CUTEX product line generated approximately $27.5 million in net revenues, it said.</p>
+<p>Carson makes hair care products for people of African descent.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAVANNAH, Ga"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

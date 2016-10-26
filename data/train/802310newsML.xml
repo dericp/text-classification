@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="802310" id="root" date="1997-08-15" xml:lang="en">
+<title>CHINA: Hansom yearly net loss HK$12.02 mln.</title>
+<headline>Hansom yearly net loss HK$12.02 mln.</headline>
+<dateline>HONG KONG 1997-08-15</dateline>
+<text>
+<p>Year ended March 31</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   5.6 loss   vs 11.4 loss</p>
+<p>    Dividend (H.K. cents)    nil	  vs nil</p>
+<p>    Exceptional items	  5.34 loss  vs 6.17 loss</p>
+<p>    Net			    12.02 loss vs 24.31 loss</p>
+<p>    Turnover		     54.71	vs 87.87 (see note)</p>
+<p>    Company name		 Hansom Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Hansom is a construction group.</p>
+<p>The sales of goods were not included in the last year's turnover.</p>
+<p>Net is after an exceptional loss of HK$2.94 million on provision for diminution in value of investment in an associated company, loss of HK$1.21 million on provision for a doubtful debt and loss of HK$1.19 million on disposal of subsidiaries.</p>
+<p>Total dividend for year is nil vs nil.</p>
+<p>-- Hong Kong News Room (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

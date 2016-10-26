@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172599" id="root" date="1996-11-07" xml:lang="en">
+<title>HONDURAS: Bomb explodes in Honduran courthouse, one killed.</title>
+<headline>Bomb explodes in Honduran courthouse, one killed.</headline>
+<dateline>TEGUCIGALPA, Honduras 1996-11-07</dateline>
+<text>
+<p>A bomb exploded in Honduras' main courthouse on Thursday, killing at least one person and injuring several, local radio reported.</p>
+<p>A police spokesman confirmed to Reuters that a bomb had exploded, and said several people were injured.  </p>
+<p>&quot;A high-powered bomb exploded in the offices of the courts in Tegucigalpa, causing several injuries,&quot; the spokesman said.</p>
+<p>The local HRN radio station reported &quot;several people injured and at least one dead.&quot;</p>
+<p>On October 4, a bomb went off in the offices of the Honduran Congress, shattering windows but causing no injuries.</p>
+<p>The same day, police deactivated a bomb placed in the ruling Liberal Party headquarters.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TEGUCIGALPA, Honduras"/>
+<dc element="dc.creator.location.country.name" value="HONDURAS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="106111" id="root" date="1996-10-09" xml:lang="en">
+<title>YEMEN: Yemen oilfield inauguration set for October 14.</title>
+<headline>Yemen oilfield inauguration set for October 14.</headline>
+<dateline>SANNA 1996-10-09</dateline>
+<text>
+<p>Yemen's Jannah oilfield will be brought on stream on October 14, an official at the country's oil ministry said on Wednesday.</p>
+<p>&quot;Production capacity of the field will be 15,000 barrels per day (bpd) in the first stage and will become 25,000 bpd by the start of March,&quot; the official told Reuters.</p>
+<p>The field, 485 kms (303 miles) south of the Yemeni capital Sanna in block five, will be operated by U.S. Hunt.</p>
+<p>Production from Jannah will be linked to the Hunt-Exxon Corp operated Marib pipeline system which supplies crude to the Ras Isa export terminal on the Red Sea.</p>
+<p>Yemen in one of the poorest countries in the Arab world and is dependent on its oilfields which produce some 350,000 bpd.</p>
+<p>Marib output currently runs at 170,000 bpd.</p>
+<p>The field's inauguration has been timed to coincide with the anniversary of the country's 1963 revolution.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YEMAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANNA"/>
+<dc element="dc.creator.location.country.name" value="YEMEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

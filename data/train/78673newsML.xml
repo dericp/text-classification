@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="78673" id="root" date="1996-09-26" xml:lang="en">
+<title>USA: ValuJet says to issue statement at 2100 GMT.</title>
+<headline>ValuJet says to issue statement at 2100 GMT.</headline>
+<dateline>ATLANTA 1996-09-26</dateline>
+<text>
+<p>ValuJet Inc said on Thursday that it would issue a statement to the press at 1700 EDT, or 2100 GMT, about its plans to resume flight service.</p>
+<p>&quot;We're having a press conference at five o'clock...and at that point in time, we'll be distributing press releases that will tell everybody when we intend to start, the phases of the cities and everything else,&quot; said ValuJet spokesman Gregg Kenyon.</p>
+<p>He was speaking after the U.S. Department of Transportation granted ValuJet permission to fly again, ending a three-month grounding for safety reasons.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-26"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-26"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-26"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

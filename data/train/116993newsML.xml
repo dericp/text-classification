@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="116993" id="root" date="1996-10-15" xml:lang="en">
+<title>HONG KONG: Bankers Trust sets HK Telecom warrants.</title>
+<headline>Bankers Trust sets HK Telecom warrants.</headline>
+<dateline>HONG KONG 1996-10-15</dateline>
+<text>
+<p>Bankers Trust International PLC said on Tuesday it has launched 179 million American-style call warrants on shares of Hong Kong Telecommunications Ltd.</p>
+<p>Ten warrants control one share.</p>
+<p> STRIKE PRICE    HK$12.645    PREMIUM	   9.95 PCT</p>
+<p> ISSUE PRICE     HK$0.28	GEARING	   5.01X</p>
+<p> EXPIRATION	15.APR.98    PAYDATE	   25.OCT.96</p>
+<p> LISTING	   Hong Kong    MIN EXER LOT    4,000</p>
+<p> SPOT PRICE	HK$14.05</p>
+<p> NOTES	     GOVERNING LAW IS HONG KONG</p>
+<p>-- Hong Kong newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

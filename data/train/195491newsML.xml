@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="195491" id="root" date="1996-11-17" xml:lang="en">
+<title>NORWAY: No bomb found onboard threatened Norway ferry.</title>
+<headline>No bomb found onboard threatened Norway ferry.</headline>
+<dateline>OSLO 1996-11-17</dateline>
+<text>
+<p>A ferry carrying 950 passengers broke off a journey to Denmark and returned to Oslo on Sunday after an anonymous bomb threat, police said.</p>
+<p>But no explosives were found on board the Stena Saga ferry after an all-day search with sniffer dogs, a police spokesman said.</p>
+<p>&quot;We have no idea who made the threat,&quot; he told Reuters. &quot;The ship will leave port again tonight.&quot;</p>
+<p>Passengers were billeted in hotels or returned to their homes while the search went on.</p>
+<p>The ferry, owned by Swedish ferry company Stena Line, had left Oslo for Fredrikshavn on Saturday night when an anonymous telephone caller said a bomb had been placed on board.</p>
+<p>A spokesman for Stena Line said it was the first time the company had received a bomb threat.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

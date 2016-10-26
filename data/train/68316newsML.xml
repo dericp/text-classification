@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="68316" id="root" date="1996-09-20" xml:lang="en">
+<title>HONG KONG: Liang Shing shares sink on profit drop.</title>
+<headline>Liang Shing shares sink on profit drop.</headline>
+<dateline>HONG KONG 1996-09-20</dateline>
+<text>
+<p>Shares of sport shoe maker Liang Shing (Holdings) Ltd fell sharply on Friday after the company reported a drop in interim earnings, brokers said.</p>
+<p>&quot;It is obvious that investors are switching out of the stock following its sharp drop in earnings,&quot; said a sales manager at a local brokerage.</p>
+<p>The stock fell HK$0.04, or 12.5 percent, to a morning low of HK$0.28 on volume of 570,000 shares.</p>
+<p>The company posted a fall in interim net profit to HK$3.17 million from HK$10.72 million.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I45100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

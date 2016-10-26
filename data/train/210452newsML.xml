@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="210452" id="root" date="1996-11-22" xml:lang="en">
+<title>USA: Standard Federal may be acqquired - report.</title>
+<headline>Standard Federal may be acqquired - report.</headline>
+<dateline>CHICAGO 1996-11-22</dateline>
+<text>
+<p>Standard Federal Bank, a $15.5 billion asset Michigan-based bank holding company, is expected to be acquired by ABN AMRO Holding NV of the Netherlands, according to the November 22 issue of the Chicago Tribune.</p>
+<p>Officials of Stanard Federal, based in Troy, Mich., were not immediately available to comment on the report.</p>
+<p>The proposed multibillion dollar transaction is expected to be announced today, a Chicago Tribune report said.</p>
+<p>Trading in Standard Federal Bank shares was halted yesterday pending an announcement.  </p>
+<p>Standard Federal, the holding company for Standard Federal Bank, which is a large home mortgage lender in Michigan and a large Midwest thrift. The company currently operates about 180 banking centers and 11 home lending centers. Standard Federal operates a wholesale mortgage banking business through its InterFirst division.</p>
+<p>		 Chicago newsdesk 312 408 8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

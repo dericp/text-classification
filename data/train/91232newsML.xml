@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="91232" id="root" date="1996-10-02" xml:lang="en">
+<title>USA: FCC pegs US corn crop at 9.08 bln bu, soy 2.30 bln.</title>
+<headline>FCC pegs US corn crop at 9.08 bln bu, soy 2.30 bln.</headline>
+<dateline>CHICAGO 1996-10-02</dateline>
+<text>
+<p>Farmers Commodities Corp said on Wednesday it estimated 1996/97 U.S. corn production at 9.078 billion bushels and soybean output at 2.303 billion.</p>
+<p>FCC estimated the U.S. corn yield at 123.9 bushels per acre and the U.S. soybean yield at 36.3 bushels.</p>
+<p>The U.S. Department of Agriculture on September 11 put U.S. corn output at 8.804 billion and the soybean crop at 2.270 billion. USDA forecast a corn yield of 120.2 bushels and soybean yield of 35.8 bushels.</p>
+<p>A month ago FCC put the U.S. corn crop at 9.020 billion and soybean production at 2.276 billion.</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

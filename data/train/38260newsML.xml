@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="38260" id="root" date="1996-09-06" xml:lang="en">
+<title>UK: Hong Kong stocks rebound in London with U.S. bonds.</title>
+<headline>Hong Kong stocks rebound in London with U.S. bonds.</headline>
+<dateline>LONDON 1996-09-06</dateline>
+<text>
+<p>Hong Kong stocks rose London, erasing earlier losses, in volatile trading, tracking the volatile reaction by the U.S. bond market to U.S. jobs figures.</p>
+<p>By 1342 GMT, the Hang Seng London Reference Index was up 26.84 points to 11,052.43, its high for the day, after having sunk as low as 10,958.36 earlier.</p>
+<p>&quot;The market has been all over the place,&quot; said a London trader. &quot;But there's not a lot of volume there and it's just following the bond market.&quot;</p>
+<p>The index was lower after the benchmark Hang Seng Index closed 14.92 points lower at 11,025.59 in Hong Kong.</p>
+<p>The HSLR tumbled in tandem with U.S. bonds immediately after the U.S. jobs report was released, but then rebounded as the bond market reversed because the report failed to convince the market that an aggressive move to tighten by the Federal Reserve is imminent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

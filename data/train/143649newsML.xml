@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="143649" id="root" date="1996-10-25" xml:lang="en">
+<title>USA: USDA to give farmers $16 mln for hurricane damage.</title>
+<headline>USDA to give farmers $16 mln for hurricane damage.</headline>
+<dateline>WASHINGTON 1996-10-25</dateline>
+<text>
+<p>The U.S. Agriculture Department said Friday it would give $16 million to farmers and ranchers for hurricane, flooding and wildfire recovery.</p>
+<p>The funds would be released under the emergency conservation program to help in the wake of Hurricanes Fran and Hortense, unrelated flooding in several states, and wildfires in Oregon and Washington states.</p>
+<p>The majority of the funds would go to 76 counties in North Carolina, Pennsylvania, Virginia, South Carolina, West Virginia and Puerto Rico, for hurricane damage.</p>
+<p>-- Washington Commodities Desk (202) 898-8489</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="130844" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Compaq launches $60 million ad campaign.</title>
+<headline>Compaq launches $60 million ad campaign.</headline>
+<dateline>HOUSTON 1996-10-21</dateline>
+<text>
+<p>Compaq Computer Corp. said Monday it would launch a $60 million advertising campaign to outline its new approach to how people think about computing.</p>
+<p>The new campaign will start in North America, Europe, the Middle East and Africa on Tuesday, Houston-based Compaq said.</p>
+<p>The North American campaign leads off with an eight-page advertising insert in the Wall Street Journal and other business and trade publications.</p>
+<p>Television spots will begin airing in North America on Nov. 3, it said.</p>
+<p>Compaq said its &quot;Access&quot; campaign was part of a global marketing initiative aimed at changing people's ideas about computers and slashing the costs of owning one.</p>
+<p>&quot;The origin of 'Access' lies in the fact that the computer industry is maturing to the point that what is strategically important is not just computers or computing, but rather information -- finding it, shaping it, protecting it and distributing it,&quot; Compaq said.</p>
+<p>The print ad campaign will be available on Compaq's site on the World Wide Web site (http://www.compaq.com) starting on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C32">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

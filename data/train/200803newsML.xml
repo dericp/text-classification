@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="200803" id="root" date="1996-11-19" xml:lang="en">
+<title>USA: Jury still out on Unocal sale - traders.</title>
+<headline>Jury still out on Unocal sale - traders.</headline>
+<dateline>LOS ANGELES 1996-11-18</dateline>
+<text>
+<p>U.S. West Coast products traders took a wait-and-see attitude toward the proposed sale of Unocal Corp's downstream assets to Tosco.</p>
+<p>&quot;The jury's still out,&quot; a West Coast products trader said.</p>
+<p>The $2.0 billion sale could add three California refineries to Tosco's assets. Traders saw redundancy between the two companies' operations in San Francisco, where Tosco now owns a 160,000 barrel-per-day (bpd) refinery and Unocal runs a roughly 73,000 bpd plant.</p>
+<p>&quot;It seems to me they have two refineries in the Bay. One of the two may shut or they could sell (one),&quot; a trader said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-18"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="219234" id="root" date="1996-11-27" xml:lang="en">
+<title>USA: LIDAK reacquires LIDAKOL foreign rights.</title>
+<headline>LIDAK reacquires LIDAKOL foreign rights.</headline>
+<dateline>LA JOLLA, Calif. 1996-11-27</dateline>
+<text>
+<p>LIDAK Pharmaceuticals said Wednesday it has reacquired the foreign rights from Bristol-Myers Squibb Co for n-docosanol 10 percent cream, marketed as LIDAKOL, for the treatment of oral herpes and other uses.</p>
+<p>The company said in a statement the move will allow it to license new partners in China, South and Central America, Australia and India, and portions of Asia.</p>
+<p>Bristol-Myers Squibb retains exclusive rights to LIDAKOL as a treatment for oral herpes in the United States, Mexico and Canada. LIDAK said it retains all rights to LIDAKOL in these countries for treatment of genital herpes and other potential topical and systemic uses, for which Bristol-Myers Squibb retains its right-of-first offer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA JOLLA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

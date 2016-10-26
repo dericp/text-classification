@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="129059" id="root" date="1996-10-20" xml:lang="en">
+<title>AUSTRALIA: RTRS-DIARY-Australia initial public offerings - Oct 21.</title>
+<headline>RTRS-DIARY-Australia initial public offerings - Oct 21.</headline>
+<dateline>SYDNEY 1996-10-21</dateline>
+<text>
+<p>The companies listed have made application for admission to the official list of the Australian Stock Exchange (ASX) and have been allocated a provisional ASX code. The ASX advises that allocation of a code does not imply that the company's application will be approved.</p>
+<p>								   Amount Sought</p>
+<p>Company		    Code   Price Underwriter(s)     A$million</p>
+<p>----------------------------------------------------------------</p>
+<p>Ashanti Goldfields    AHA.AX   n/a  n/a - merger with     n/a</p>
+<p>Company Ltd				 Golden Shamrock</p>
+<p>---------------------------------------------------------------</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

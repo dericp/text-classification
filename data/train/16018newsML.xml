@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="16018" id="root" date="1996-08-27" xml:lang="en">
+<title>USA: Universal Outdoor to acquire billboard co.</title>
+<headline>Universal Outdoor to acquire billboard co.</headline>
+<dateline>CHICAGO 1996-08-27</dateline>
+<text>
+<p>Universal Outdoor Holdings Inc said on Tuesday that it agreed to acquire Outdoor Advertising Holding Inc, the parent company of POA Acquisition Corp, in a cash transaction valued at about $240 million.</p>
+<p>Under the deal, Universal Outdoor Holdings will create a new subsidiary, which would then be merged with the POA Acquisition Corp entity, said Universal Chief Financial Officer Brian Clingen.</p>
+<p>POA operates about 6,400 billboards in seven markets. Universal Outdoor Holdings operates about 12,700 billboards in eight markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-08-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-08-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

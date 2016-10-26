@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="788916" id="root" date="1997-08-08" xml:lang="en">
+<title>FRANCE: FIRST FRENCH BEET TEST SHOWS RISE IN YIELD.</title>
+<headline>FIRST FRENCH BEET TEST SHOWS RISE IN YIELD.</headline>
+<dateline>PARIS 1997-08-08</dateline>
+<text>
+<p>France's first 1997 sugar beet test showed a rise in sugar weight to 6.355 tonnes per hectare from 4.716 tonnes in the first test last year, French sugar manufacturers' association SNFS said.</p>
+<p>The test showed an average sugar content of 15.07 percent compared with 17.64 percent in the first 1996 test.</p>
+<p>This year's first test was carried out on August 4.</p>
+<p>The first 1996 test was carried out on July 29.  </p>
+<p>			    1st test 97    1st test 96   4th test 96</p>
+<p>Sugar weight</p>
+<p>   per hectare (tonnes)   6.355	    4.716	   9.382</p>
+<p>Average sugar</p>
+<p>  content (pct)	    15.07	    17.64	   17.21</p>
+<p>Number of beets</p>
+<p>  per hectare	     105,100	  100,900	 101,700</p>
+<p>Leaf and top weight</p>
+<p>  per hectare (tonnes)   54.311	   31.567	  37.425</p>
+<p>Root weight</p>
+<p>  per hectare (tonnes)   41.952	   26.702	  54.528</p>
+<p>Ratio of leaf and top</p>
+<p>weight to root</p>
+<p>  weight (leaf/root)	1.31	     1.18	    0.68</p>
+<p>Rain in previous</p>
+<p>  two weeks (mm)	    8.40	     3.30	   27.30</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-08"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-08"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-08"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

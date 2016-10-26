@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="723224" id="root" date="1997-07-11" xml:lang="en">
+<title>USA: Dow gains more than 50 points.</title>
+<headline>Dow gains more than 50 points.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The Dow Jones industrial average gained more than 50 points in mid-morning trading on Friday after the government reported that wholesale prices fell for a record sixth consecutive month in June.</p>
+<p>At 11:46 a.m. EDT, the Dow index was up 50.44 points at 7,937.20, which activated the New York Stock Exchange's limits on program trading.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

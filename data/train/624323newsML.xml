@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="624323" id="root" date="1997-05-29" xml:lang="en">
+<title>BAHRAIN: PRESS DIGEST - Saudi newspapers - May 29.</title>
+<headline>PRESS DIGEST - Saudi newspapers - May 29.</headline>
+<dateline>MANAMA 1997-05-29</dateline>
+<text>
+<p>These are some of the leading stories in the Saudi Arabian press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>ARAB NEWS</p>
+<p>- Japan has launched a new training programme for 75 Saudi government officials, a Japanese official said.</p>
+<p>- Land prices rise as demand in eastern province increases.</p>
+<p>- Saudi Industrial Services Company to build a 155 million water plant in Riyadh.</p>
+<p>- A training workshop aimed at encouraging Saudi women to embark on new business ventures held in Jeddah.</p>
+<p>AL-YAUM</p>
+<p>- Saudi King Fahd donates 20 million pounds to the Islamic centre for studies at Oxford university.</p>
+<p>- Around 700 mining exploration licenses have been issued in Saudi, oil minister says.</p>
+<p>- More than 121 shopping malls in the Saudi capital Riyadh complain of recession, study.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+  <code code="SAARAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-29"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-29"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

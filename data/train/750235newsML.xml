@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="750235" id="root" date="1997-07-23" xml:lang="en">
+<title>USA: Daisytek Q1 shr $0.55 vs $0.44.</title>
+<headline>Daisytek Q1 shr $0.55 vs $0.44.</headline>
+<dateline>DALLAS 1997-07-23</dateline>
+<text>
+<p>Daisytek International Corporation and Subsidiaries</p>
+<p>		   (In Thousands, Except Per Share Data)</p>
+<p>						 Three Months Ended</p>
+<p>							June 30,</p>
+<p>						  1997	1996  %Change</p>
+<p> NET SALES				   $172,812 $136,894  26.2%</p>
+<p> COST OF SALES				155,506  123,224  26.2%</p>
+<p>     Gross profit			    17,306   13,670  26.6%</p>
+<p>SELLING, GENERAL AND ADMINISTRATIVE</p>
+<p>  EXPENSES				     10,583    8,306  27.4%</p>
+<p>     Income from operations		 6,723    5,364  25.3%</p>
+<p> INTEREST EXPENSE				 519	432  20.1%</p>
+<p>     Income before income taxes	   6,204    4,932  25.8%</p>
+<p> PROVISION FOR INCOME TAXES		 2,375    1,891  25.6%</p>
+<p> NET INCOME				     3,829    3,041  25.9%</p>
+<p> NET INCOME PER COMMON SHARE		 0.55     0.44  25.0%</p>
+<p>WEIGHTED AVERAGE COMMON SHARES</p>
+<p>  OUTSTANDING				   7,004    6,907</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

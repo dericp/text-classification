@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="185359" id="root" date="1996-11-13" xml:lang="en">
+<title>USA: RightChoice stock buy indefinitely delayed.</title>
+<headline>RightChoice stock buy indefinitely delayed.</headline>
+<dateline>ST. LOUIS, Mo. 1996-11-13</dateline>
+<text>
+<p>RightChoice Managed Care Inc on Wednesday said the proposed purchase of 1.5 to 2.0 million shares of its common stock from its parent company, Blue Cross and Blue Shield of Missouri, has been indefinitely delayed.  </p>
+<p>RightChoice said the Department of Insurance denied Blue Cross and Blue Sheild's regulatory filing. It also said the price of its stock has fallen below the agreed minimum floor.</p>
+<p>RightChoice shares closed Tuesday at 9-7/8.  </p>
+<p>The agreed upon minimum for the purchase was $11 per share, said company spokeswoman Clara Kinner.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

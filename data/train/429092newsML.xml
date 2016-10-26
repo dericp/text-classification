@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="429092" id="root" date="1997-03-09" xml:lang="en">
+<title>ALBANIA: One dead in accident after Albanian rebels take town.</title>
+<headline>One dead in accident after Albanian rebels take town.</headline>
+<dateline>GJIROKASTER, Albania 1997-03-09</dateline>
+<text>
+<p>One person was killed and three others were wounded during a night of wild celebrations after Albanian rebels seized this southern town, hospital officials said on Sunday.</p>
+<p>The dead and wounded were all victims of accidents after rebels and residents pillaged arms depots at a nearby army base, which has also fallen to rebel hands.</p>
+<p>Residents pulled up at the base, just north of Gjirokaster, throughout the night. They collected hundreds of weapons and drove off.</p>
+<p>Jubliant residents fired thousands of shots in the air and many then struggled to figure out how to reload their guns.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GJIROKASTER, Albania"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

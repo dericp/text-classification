@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="66667" id="root" date="1996-09-20" xml:lang="en">
+<title>COTE D'IVOIRE: Abidjan bourse maintains gains on lower turnover.</title>
+<headline>Abidjan bourse maintains gains on lower turnover.</headline>
+<dateline>ABIDJAN 1996-09-20</dateline>
+<text>
+<p>Ivorian stocks maintained their gains with buying over the week to Friday pushing the share index up 0.66 percent on a lower turnover.</p>
+<p>The BVA index ended the week at 360.49 from 358.11 the previous week while the 12VB 12-share blue chips index gained 1.13 percent to 247.09 from 244.32.</p>
+<p>Turnover was lower at 191,359,000 CFA from 323,935,000 CFA.</p>
+<p>Notable gainers included SGBCI bank, which added 830 CFA to end the week at 15,330 CFA and hardware retailer Peyrissac, up 910 CFA to 29,900. Three stocks declined and five were unchanged.</p>
+<p>-- Abidjan newsroom +225 21 90 90</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

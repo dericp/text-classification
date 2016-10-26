@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="437343" id="root" date="1997-03-12" xml:lang="en">
+<title>FINLAND: FINNAIR SETS NEW FLIGHTS TO DUBLIN, TROMSOE.</title>
+<headline>FINNAIR SETS NEW FLIGHTS TO DUBLIN, TROMSOE.</headline>
+<dateline>HELSINKI 1997-03-12</dateline>
+<text>
+<p>Finnish national carrier Finnair Oy said in a statement on Wednesday it would start new regular international scheduled flights to Dublin and Tromsoe in spring and increase its flights to Stockholm and Copenhagen.  </p>
+<p>Finnair said it would fly the Helsinki-Stockholm-Dublin route three times per week starting May 1. The flight would be in code-sharing with Irish Aer Lingus .</p>
+<p>Bi-weekly flights to Tromsoe in northern Norway would start on June 21 on the Helsinki-Rovaniemi-Enontekio-Tromsoe route. Rovaniemi and Enontekio are cities in northern Finland.</p>
+<p>From April 28, Finnair would start in code-sharing with Danish Maersk Air, part of A.P. Moller Gruppen, eight daily flights between Stockholm and Copenhagen.  </p>
+<p>Finnair said it had started direct flights between the Finnish north-west coast city of Oulu and Stockholm from March 9. --Helsinki newsroom +358-9-680 50 245, e-mail news@reuters.fi</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="50900" id="root" date="1996-09-12" xml:lang="en">
+<title>AUSTRALIA: RTRS-Canberra says higher GDP growth a major goal.</title>
+<headline>RTRS-Canberra says higher GDP growth a major goal.</headline>
+<dateline>CANBERRA 1996-09-12</dateline>
+<text>
+<p>Australian Prime Minister John Howard said on Thursday higher economic growth was a major goal for the coalition government.</p>
+<p>&quot;Achieving a higher rate of economic growth is a major goal ... of this government,&quot; Howard told parliament  </p>
+<p>&quot;The only way that you can really have a sustainable reduction in unemployment is to have a much faster rate of economic growth and that we need to take the speed limits off growth,&quot; Howard said.</p>
+<p>In its budget for the year to June 30, 1997, released on August 20, Howard's conservative Liberal-National government forecast annual GDP growth of 3.75 percent.</p>
+<p>-- Canberra bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

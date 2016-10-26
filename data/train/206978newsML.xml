@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206978" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Fed adds reserves via overnight system RPs.</title>
+<headline>Fed adds reserves via overnight system RPs.</headline>
+<dateline>NEW YORK 1996-11-21</dateline>
+<text>
+<p>The Federal Reserve added reserves into the banking system via a round of overnight system repurchase agreements Thursday, a New York Fed spokeswoman said.</p>
+<p>At 1130 EST/1630 GMT, the time the Fed usually intervenes in the market, federal funds were at 5-5/16 percent, above the central bank's Fed's 5-1/4 percent target.</p>
+<p>The move was mostly in line with expectations.</p>
+<p>Some said a coupon pass is possible later this session.</p>
+<p>-- Steven Scheer, N.A. Treasury Desk, 212-859-1867</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

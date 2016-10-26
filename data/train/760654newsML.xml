@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760654" id="root" date="1997-07-28" xml:lang="en">
+<title>USA: EMERGENCY WEATHER CONDITIONS -  WSC - 28-JUL.</title>
+<headline>EMERGENCY WEATHER CONDITIONS -  WSC - 28-JUL.</headline>
+<text>
+<p>Northeast Europe - Poland, the Czech Rupublic, and eastern Germany - continues to deal with the worst flooding in many years, especially along the Oder River. More rain fell during the weekend, only adding to the already bad situation. There has been much loss of property and crops. Drier weather early this week will be a little more favorable for cleanup operations, though a much longer period of dry weather is needed for significant help.  </p>
+<p>Rosie weakened but moved slowly across southern Japan the couple days producing heavy rain, flash flooding, mudslides, and some wind damage. Rosie is now a tropical depression and dissipating in the Sea of Japan, though showers and thunderstorms are expected in Japan the next couple days, possibly aggrivating flooding.  </p>
+<p>Nothing further at this time.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

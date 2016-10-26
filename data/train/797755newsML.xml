@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="797755" id="root" date="1997-08-13" xml:lang="en">
+<title>GREECE: TABLE OF GREEK MUTUAL FUND FLOWS, ASSETS.</title>
+<headline>TABLE OF GREEK MUTUAL FUND FLOWS, ASSETS.</headline>
+<dateline>ATHENS 1997-08-13</dateline>
+<text>
+<p>Ionian Bank reported the</p>
+<p>following daily and year-to-date changes in the volume of Greek</p>
+<p>mutual fund outstanding shares, net assets and net share prices,</p>
+<p>as well as total net asset sizes as of Aug 12.</p>
+<p>				     Aug 12/Aug 11    Aug 12/Dec 31, 96</p>
+<p>						 (%)		  (%)</p>
+<p>NET SHARE PRICES*</p>
+<p>  Total market			    0.03		 9.02</p>
+<p>  Fixed income &amp;money market funds  0.03		 7.21</p>
+<p>  International funds		  -0.08		14.73</p>
+<p>  Growth Funds			    0.04		58.36</p>
+<p>* Prices include distributed dividends</p>
+<p>VOLUME OF SHARES</p>
+<p>  Total market			   -0.57		42.26</p>
+<p>  Fixed income &amp;money market funds -0.60		42.95</p>
+<p>  International funds		   0.10		19.57</p>
+<p>  Growth funds			   -0.05		36.18</p>
+<p>NET ASSETS</p>
+<p>  Total market			   -0.55		53.28</p>
+<p>  Fixed income &amp;money market funds -0.58		51.75</p>
+<p>  International funds		  -0.06		35.55</p>
+<p>  Growth funds			   -0.01	     109.39</p>
+<p>All calculations are based on a performance index of mutual</p>
+<p>funds whose base was set to be equal to 100 on December 31,</p>
+<p>1991.</p>
+<p>NET ASSET SIZES (in drachmas)</p>
+<p>  Total market				  5,829,378,842,361</p>
+<p>  Fixed income funds			  2,029,321,182,724</p>
+<p>  Money market funds			  3,436,613,697,009</p>
+<p>  International funds			   106,559,116,346</p>
+<p>  Growth funds				    256,885,846,282</p>
+<p>--Angelos Kiosklis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-08-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

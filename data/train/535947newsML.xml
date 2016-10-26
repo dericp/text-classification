@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="535947" id="root" date="1997-04-24" xml:lang="en">
+<title>USA: Eagle Cos. buys LA forwarder.</title>
+<headline>Eagle Cos. buys LA forwarder.</headline>
+<dateline>MIAMI 1997-04-24</dateline>
+<text>
+<p>Eagle Cos, a Miami-based freight forwarder and logistics company, formed a joint venture with Los Angeles-based trucking and warehouse firm Customs Air Warehouse, expanding its presence on the West Coast, Eagle's chief executive said Thursday.</p>
+<p>&quot;This will solidify our ability to handle shipments to and from Asia,&quot; Raul Pedraza, CEO and president of Eagle Cos, told Reuters.</p>
+<p>Many transportation and forwarding companies serving Latin America are working on strategies so they can grab a share of the growing trade between Latin America and Asia and other parts of the world.</p>
+<p>The new joint venture, named Eagle West, will be run by Tony Gregory, Customs Air's founder.</p>
+<p>&quot;We are ecstatic about partnering with a quality firm like Customs Air Warehouse,&quot; Pedraza said.</p>
+<p>The Los Angeles facility has 30,000 square feet of bonded warehouse space, customs brokerage services, and 35 trucks.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

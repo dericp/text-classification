@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="635639" id="root" date="1997-06-03" xml:lang="en">
+<title>LEBANON: PRESS DIGEST - Lebanon - June 3.</title>
+<headline>PRESS DIGEST - Lebanon - June 3.</headline>
+<dateline>BEIRUT 1997-06-03</dateline>
+<text>
+<p>These are the leading stories in the Lebanese press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AN-NAHAR</p>
+<p>- Prime Minister Hariri: Cabinet to discuss new parliamentary election law.</p>
+<p>- Central bank's gross foreign exchange reserves up $62.15 million.</p>
+<p>AS-SAFIR</p>
+<p>- Opposition gathering and sit-in today to protest against the arrest of anti-government leader Elias Abou Risk.</p>
+<p>- Israeli forces shell south Lebanon areas.</p>
+<p>AL-ANWAR</p>
+<p>- Six Lebanese workers and three Syrians die in car accident on the Lebanese-Syrian border.</p>
+<p>AD-DIYAR</p>
+<p>- Banking shares rally on Beirut Stock Exchange.</p>
+<p>- Some 180 evacuees return to Lebanon from Sierra Leone.</p>
+<p>NIDA'A AL-WATAN</p>
+<p>- Treasury bill issue of May 29 raises 329.5 billion Lebanese pounds.</p>
+<p>- Resistance fighters ambush South Lebanon Army militiamen.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-03"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-03"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

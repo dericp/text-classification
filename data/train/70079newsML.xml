@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70079" id="root" date="1996-09-23" xml:lang="en">
+<title>RUSSIA: Aeroflot opens Moscow-Cancun route Oct 26.</title>
+<headline>Aeroflot opens Moscow-Cancun route Oct 26.</headline>
+<dateline>MOSCOW 1996-09-23</dateline>
+<text>
+<p>Russia's Aeroflot International Airlines will begin regular service between Moscow and Cancun, Mexico from October 26, a company spokeswoman said on Monday.</p>
+<p>Yuliya Maryashkina said Aeroflot would open service on Fridays on wide-body A-310 jets, departing Moscow Sheremetyevo Airport with stopovers at Ireland's Shannon airport and Miami. The flight will last 12 hours.</p>
+<p>&quot;We hope to attract many tourists for these flights because Cancun is a famous resort,&quot; she said.</p>
+<p>Aeroflot also on October 26 will introduce A-310 service on its regular Wednesday Moscow-Mexico City flight, replacing aging Ilyushin-62 aircraft, Maryashkina said.</p>
+<p>--Viktor Anoshkin, Moscow Newsroom, +7095 941 8520</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

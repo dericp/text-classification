@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="700469" id="root" date="1997-07-01" xml:lang="en">
+<title>AUSTRALIA: Healthscope sells hospital for A$4.25 mln.</title>
+<headline>Healthscope sells hospital for A$4.25 mln.</headline>
+<dateline>ADELAIDE 1997-07-01</dateline>
+<text>
+<p>Australian hospital group Healthscope Ltd said on Tuesday it had sold the Wangaratta private hospital in central Victoria to Hospital Corporation Australia Pty Ltd for A$4.25 million.</p>
+<p>Healthscope said the sale, with that of the Mildura private hospital in May 1997 for S$10.7 million, was part of its ongoing A$20 million debt reduction and restructuring programme.</p>
+<p>Healthscope deputy chairman Richard England said that following the successful sales, Healthscope was currently reviewing previously announced plans to sell the Bellbird and Bellarine hospitals in suburban Melbourne.  </p>
+<p>England said settlement on the Wangaratta hospital, a 40 bed hospital offering surgical and acute care facilities, was expected by the end of August, subject to the transfer of bed licences.</p>
+<p>Healthscope shares ended steady at 55 cents on Tuesday.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ADELAIDE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

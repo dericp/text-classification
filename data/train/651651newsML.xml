@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="651651" id="root" date="1997-06-10" xml:lang="en">
+<title>JAPAN: Toshiba to develop chip to ease Internet access.</title>
+<headline>Toshiba to develop chip to ease Internet access.</headline>
+<dateline>TOKYO 1997-06-10</dateline>
+<text>
+<p>Toshiba Corp said on Tuesday it plans to develop a chip that will make it easier to link various electronic products, including mobile phones, televisions and facsimile machines, to the Internet.</p>
+<p>The firm said that it has licensed technology from iReady Corp of the United States that can be easily integrated with the functions of consumer electronics products.</p>
+<p>&quot;Incorporating this technology in electronics devices, such as mobile phones, for example, makes them Internet-ready at only a small incremental cost and gives users easy wireless access to the Internet for e-mail and other information,&quot; Toshiba said in a statement.</p>
+<p>If installed in a facsimile machine, users would be able to directly fax information from the Internet through the fax machine, a Toshiba spokeswoman said.</p>
+<p>It would be possible to view information and images from the Internet on televisions equipped with the chip, she said.</p>
+<p>&quot;This technology agreement allows Toshiba to move forward aggressively in development of a new generation of Internet-ready consumer electronics products,&quot; said Tadatoshi Minamikawa, general manager of Toshiba's LSI planning division.</p>
+<p>Toshiba said it would develop the technology as the core of its application-specific integrated circuits (ASIC) products and introduce it to the world market.</p>
+<p>Based in San Jose, California, iReady was founded in January 1996 as a provider of technology in the form of intellectual property.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C23">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

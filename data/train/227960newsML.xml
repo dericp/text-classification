@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="227960" id="root" date="1996-12-02" xml:lang="en">
+<title>SOUTH AFRICA: EU seeks global adoption of European ISDN standard.</title>
+<headline>EU seeks global adoption of European ISDN standard.</headline>
+<dateline>SOMERSET WEST, South Africa 1996-12-02</dateline>
+<text>
+<p>The European Union on Monday urged the international adoption of its Integrated Service Digital Network (ISDN) standards, known as Euro-ISDN.</p>
+<p>ISDN is a worldwide telecommunications network supporting high-speed and secure digital voice, data, image and video communications.</p>
+<p>Kurt Konig, of the telecommunications directorate general, DGXIII, told the opening session of the ISDN Global Summit in Somerset West, near Cape Town, that Europe had made the most progress towards standardisation.</p>
+<p>He urged members of the European-based ISDN Implementors' Management Group (IMIMG) to extend its operations globally and to promote the adoption of its memorandum of understanding, which has already been signed by most European countries and many others, including South Africa.</p>
+<p>&quot;It is recommended to network operators from all regions to consider a collaboration in IMIMG as full members with a commitment to Euro-ISDN,&quot; he said.</p>
+<p>Konig dismissed speculation that the Internet would displace ISDN as inappropriate, but said it would be important to base ISDN services on global standards rigidly implemented.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="G152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOMERSET WEST, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="679111" id="root" date="1997-06-22" xml:lang="en">
+<title>FRANCE: French woman found dead in Algeria - paper.</title>
+<headline>French woman found dead in Algeria - paper.</headline>
+<dateline>PARIS 1997-06-22</dateline>
+<text>
+<p>The body of a murdered French woman has been found in a well in the Algerian village of Bouzeguene, 90 km (60 miles) east of Algiers, an Algerian newspaper said on Sunday.</p>
+<p>The 55-year old woman, married to an Algerian, had regularly spent her holidays in the Berber village, said Liberte newspaper, quoting local residents. It said the woman was killed &quot;some days ago&quot;.</p>
+<p>Her suspected murderer had been arrested as he was trying to flee to neighbouring Libya, said the newspaper.</p>
+<p>It was not clear whether the murder was linked to Algeria's political violence pitting Moslem guerrillas against the North African country's government.</p>
+<p>About 60,000 people, including more than 100 foreigners, have died in the five and half years of strife. Most of the foreigners were French nationals.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-22"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-22"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-22"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

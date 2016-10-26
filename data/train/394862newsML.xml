@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394862" id="root" date="1997-02-21" xml:lang="en">
+<title>UK: Nigeria frees British man from detention.</title>
+<headline>Nigeria frees British man from detention.</headline>
+<dateline>LONDON 1997-02-21</dateline>
+<text>
+<p>A British man detained in Nigeria for two months without charge was set free on Friday, British officials said.</p>
+<p>&quot;Bruce Henderson has been released into our care in Lagos,&quot; said a spokesman for the Foreign Office. &quot;We're delighted with the news.&quot;</p>
+<p>Henderson, 42, who had been working on a rain forest project in neighbouring Cameroon, was detained on December 22 while travelling through the Bakassi peninsula in southeast Nigeria.</p>
+<p>A territorial dispute in the oil-rich area has resulted in numerous clashes between Nigerian and Cameroon soldiers.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAMER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

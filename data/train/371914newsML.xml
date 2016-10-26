@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="371914" id="root" date="1997-02-12" xml:lang="en">
+<title>SUDAN: Eighteen drown in Nile when boat capsizes in Sudan.</title>
+<headline>Eighteen drown in Nile when boat capsizes in Sudan.</headline>
+<dateline>KHARTOUM 1997-02-12</dateline>
+<text>
+<p>Eighteen people drowned when the boat they were travelling in capsized on the Nile river in northern Sudan, a Sudanese newspaper reported on Wednesday.</p>
+<p>Alwan newspaper did not say what caused the accident, which took place on Monday when the boat carrying 23 people was crossing the river on its way to a park west of Atbara, about 440 km (260 miles) north of Khartoum. Five people survived.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SUDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KHARTOUM"/>
+<dc element="dc.creator.location.country.name" value="SUDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

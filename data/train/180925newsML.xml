@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="180925" id="root" date="1996-11-11" xml:lang="en">
+<title>GERMANY: Germany drafts multimedia law regulating Internet.</title>
+<headline>Germany drafts multimedia law regulating Internet.</headline>
+<dateline>BONN 1996-11-11</dateline>
+<text>
+<p>Companies providing gateways to the Internet will not be required to police cyberspace for pornography or neo-Nazi propaganda under a draft law presented by the German government on Monday.</p>
+<p>The legislation would make operators of online services responsible for their own offerings but stops short of holding them liable for third-party contributions.</p>
+<p>Technology Minister Juergen Ruettgers told a news conference on-line providers would only be prosecuted for outlawed material they are aware of and have the technical means to prevent.</p>
+<p>Ruettgers also said a separate part of the law will make Germany the first country in the world to set up a framework in which unforgeable digital &quot;signatures&quot; backed by a personal ID code would be legally acceptable.</p>
+<p>&quot;Providers will not be required to constantly search through their systems for outlawed material or material that could be harmful for adolescents,&quot; Ruettgers said.</p>
+<p>&quot;This is not meant as censorship,&quot; he added.</p>
+<p>Germany had originally hoped to present the draft last spring. But it was delayed because federal and regional state governments only recently struck a compromise agreement to share in the jurisdiction of the law.</p>
+<p>Executives at companies providing access to the Internet are likely to breathe a sigh of relief when they see the new legislation. Many had feared they could be held personally responsible for millions of pages created all across the world.</p>
+<p>Internet regulation has been a particularly prickly issue in Germany. Child pornography investigators searched the Munich offices of access provider Compuserve last year and found several Internet pages they considered illegal.</p>
+<p>Authorities are also investigating several other online services as part of a probe into pornographic and neo-Nazi material found on the Internet.</p>
+<p>But so far prosecutors have not been able to bring any charges, partly because legal experts are unsure where new companies stand under laws drafted long before they existed.</p>
+<p>Neo-Nazi propaganda protected under free speech laws in the U.S. is often illegal in Germany.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

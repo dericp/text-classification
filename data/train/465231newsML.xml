@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="465231" id="root" date="1997-03-25" xml:lang="en">
+<title>USA: U.S. Customs agents seize big Cuban cigar haul.</title>
+<headline>U.S. Customs agents seize big Cuban cigar haul.</headline>
+<dateline>MIAMI 1997-03-25</dateline>
+<text>
+<p>U.S. customs agents arrested two men and seized more than 1,000 contraband Cuban cigars from a boat bound for Florida from Havana, authorities said on Tuesday.</p>
+<p>The cigars would be worth about $25 each in Florida but aficionados in New York would pay double that, making the haul worth about $52,500 there, a Customs Service statement said.</p>
+<p>Importing Cuban cigars is illegal under the U.S. economic boycott of the communist-ruled island, but smuggling has increased dramatically because of the growing popularity of cigars in the United States.</p>
+<p>The seizure was made on Monday after the trawler ran into engine problems near Fort Pierce, Florida, and the crew radioed for help. Customs agents boarded and allegedly found about 1,050 Cuban cigars hidden throughout the vessel.</p>
+<p>The Customs Servive seized 96,216 Cuban cigars in nearly 1,400 incidents in 1996, compared to 24,360 in about 220 incidents in 1994. The estimated domestic value of the seizures jumped from $142,000 to $1,142,300.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MIAMI"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="676268" id="root" date="1997-06-20" xml:lang="en">
+<title>USA: U.S., Britain drum up G7 support against Iraq.</title>
+<headline>U.S., Britain drum up G7 support against Iraq.</headline>
+<dateline>DENVER 1997-06-20</dateline>
+<text>
+<p>U.S. and British officials at the Group of Seven summit sought on Friday to drum up support for a new U.N. Security Council resolution to punish Iraq for barring weapons inspectors from sensitive sites, a U.S. official said.</p>
+<p>The resolution includes preventing Iraqi government officials, members of the army and police and their immediate families from travelling abroad and suspending reviews of trade sanctions against Iraq until Baghdad cooperates.</p>
+<p>Chief U.N. arms inspector Rolf Ekeus asked the council this week to take firm action after Iraq barred his experts from inspecting three sites, including a university that once worked on biological weapons. He believes Iraq is attempting to change policy on surprise inspections.</p>
+<p>The council has been discussing the resolution for several days but a number of states, especially China, still have objections. France and Russia, whose leaders are in Denver, are also said to have reservations.</p>
+<p>Dealing with Iraq is one of the issues on the agenda for the G7 summit here this weekend The G7 nations -- Britain, Canada, France, Germany, Italy, Japan and the United States -- are being joined for most of their talks by Russian President Boris Yeltsin.</p>
+<p>Iraq has been under stringent trade sanctions since its troops invaded Kuwait in August 1990. Iraq's scrapping its weapons of mass destruction is a condition for lifting restrictions on oil exports. The council maintains U.N. inspectors must have free access to suspected weapons sites.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GSEVEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

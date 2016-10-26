@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="488060" id="root" date="1997-04-04" xml:lang="en">
+<title>USA: Atmos says Stephens, Purser resign from board.</title>
+<headline>Atmos says Stephens, Purser resign from board.</headline>
+<dateline>DALLAS 1997-04-04</dateline>
+<text>
+<p>Atmos Energy Corp said Friday that Robert Stephens and James Purser have resigned from the company's board of directors, severing all relationship with the company.</p>
+<p>The company announced in March that Stephens had resigned as president and chief operating officer, and Purser had resigned as executive vice president and chief financial officer.</p>
+<p>Atmos said both men left to pursue other opportunites.</p>
+<p>Atmos Energy provides natural gas service to more than 680,000 customers in Texas, Colorado, Kansas, Missouri, Louisiana and Kentucky.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

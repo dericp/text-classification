@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="48590" id="root" date="1996-09-12" xml:lang="en">
+<title>USA: USX-U.S. Steel to sell Texas plate mill.</title>
+<headline>USX-U.S. Steel to sell Texas plate mill.</headline>
+<dateline>BAYTOWN, Texas 1996-09-12</dateline>
+<text>
+<p>USX-U.S. Steel Group said it has signed a letter of intent to sell a 160-inch plate mill at its former Texas Works facility to Saw Pipes USA Inc.</p>
+<p>Terms of the deal were not disclosed.</p>
+<p>The companies said U.S. Steel would be the exclusive North American marketing agent for the plate products produced at Saw Pipes' mills.</p>
+<p>Culmination of the transaction is contingent on approval by both companies' boards, necessary government approvals and on finalization of terms.</p>
+<p>--New York Newsdesk 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAYTOWN, Texas"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

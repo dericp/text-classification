@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="172103" id="root" date="1996-11-07" xml:lang="en">
+<title>ROMANIA: ROMANIAN GENERAL ELECTIONS - RESULTS.</title>
+<headline>ROMANIAN GENERAL ELECTIONS - RESULTS.</headline>
+<dateline>BUCHAREST 1996-11-07</dateline>
+<text>
+<p>Here are the final results in Romania's parliamentary elections held on November 3, released on Thursday by the Central Electoral Bureau.</p>
+<p>Turnout was 76.01 percent of Romania's 17.3 million voters.</p>
+<p>Only six parties passed the 3.0 percent threshold for parliament. The rest of seats will be split proportionally among parties which entered parliament.</p>
+<p>Some 94 percent of the votes for the 143-strong upper house, the Senate, and for the 341-strong lower Chamber of Deputies were declared valid.</p>
+<p>    Parties:					Senate:   Deputies:</p>
+<p>    Democratic Convention (CDR)	     30.70%     30.17%</p>
+<p>    Party of Social Democracy (PDSR)	23.08%     21.52%</p>
+<p>    Social Democratic Union (USD)	   13.16%     12.93%</p>
+<p>    Hungarian Democratic Union (UDMR)	6.81%	6.64%</p>
+<p>    Greater Romania Party (PRM)		4.54%	4.46%</p>
+<p>    National Unity Party (PUNR)		4.22%	4.36%</p>
+<p>    Socialist Party (PS)			 2.26%	2.29%</p>
+<p>    Socialist Labour Party (PSM)	     2.16%	2.15%</p>
+<p>    National Liberal Alliance (ANL)	  1.92%	1.57%</p>
+<p>    Pensioners' Party (PPR)		    1.45%	1.44%</p>
+<p>    Socialist Workers Party (PSMR)	   1.33%	1.73%</p>
+<p>    Independents				   0.80%	2.03%</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUCHAREST"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

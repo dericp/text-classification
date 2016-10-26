@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="427074" id="root" date="1997-03-07" xml:lang="en">
+<title>ITALY: BAA signs deal for Naples airport stake.</title>
+<headline>BAA signs deal for Naples airport stake.</headline>
+<dateline>NAPLES, Italy 1997-03-07</dateline>
+<text>
+<p>The British Airport Authority (BAA) signed a preliminary accord with local southern Italian authorities on Friday to take a 70 percent stake in Gesac, the company which operates Naples Capodichino airport.</p>
+<p>An official for the local council said BAA would pay between 46.9 billion lire and 56 billion lire ($27.5-32.9 million) for the majority holding.</p>
+<p>He added that the deal still had to be cleared by both the regional and local assemblies in Naples.</p>
+<p>Friday's accord was signed by BAA Director General John Egan, the mayor of Naples, Antonio Bassolino, and the chairman of the local province Amato Lamberti.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NAPLES, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

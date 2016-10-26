@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87721" id="root" date="1996-10-01" xml:lang="en">
+<title>UK: Hong Kong stocks firm in London, HSBC gains.</title>
+<headline>Hong Kong stocks firm in London, HSBC gains.</headline>
+<dateline>LONDON 1996-10-01</dateline>
+<text>
+<p>Hong Kong stocks in London edged higher in quiet trading on Tuesday, tracking strength in U.S. Treasury bonds and the UK's FTSE 100 index.</p>
+<p>The Hang Seng London Reference Index was up 4.21 points by 1420 GMT at 11,925.43, extending a firm close in Hong Kong which saw the Hang Seng index ending at a 31-month high of 11,921.22.</p>
+<p>Yet traders said activity in London was confined to a small number of stocks.</p>
+<p>While Sun Hung Kai Properties was up 20 HK cents at HK$82.32-1/2 ahead of tomorrow's year-end results, HSBC Holdings provided the main focus of interest, up 87-1/2 HK cents from their Hong Kong close at HK$144.37-1/2.</p>
+<p>&quot;They are the only thing that's moved, probably on the back of strength in the FTSE,&quot; said one trader.</p>
+<p>The U.S. long bond was up 7/16 at 98-3/16, reducing its yield to 6.89 percent, buoyed by a drop in the September National Association of Purchasing Managers index.</p>
+<p>-- John Sutherland, London Newsroom 44 171 542 7945</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

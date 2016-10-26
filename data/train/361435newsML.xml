@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="361435" id="root" date="1997-02-06" xml:lang="en">
+<title>USA: Toyota bracing for shortages from fire - WSJ.</title>
+<headline>Toyota bracing for shortages from fire - WSJ.</headline>
+<dateline>NEW YORK 1997-02-06</dateline>
+<text>
+<p>Toyota Motor Corp says it is bracing for &quot;severe&quot; short-term shortages of certain models bound for export to the United States, the Wall Street Journal said Thursday.</p>
+<p>The company believes its 20 assembly plants will still resume operations Friday, but said it will take time to make up for lost production caused by a fire at a supplier's factory, the paper said.</p>
+<p>&quot;We are in a severe short-supply situation,&quot; an executive in Toyota's overseas division told the paper.</p>
+<p>A Toyota spokeswoman told the paper the reduction in shipments from Japan would be 7,000 units but said it would have a minimal impact on sales.</p>
+<p>Earlier today a private research body in Japan estimated that Saturday's fire at the Aisin Seiki Co Ltd brake parts plant could cost the No. 1 Japanese auto maker more than 40 billion yen on an operating profit basis.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

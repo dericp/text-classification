@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="645016" id="root" date="1997-06-06" xml:lang="en">
+<title>USA: U.S. probes alleged price-fixing - WSJ.</title>
+<headline>U.S. probes alleged price-fixing - WSJ.</headline>
+<dateline>NEW YORK 1997-06-06</dateline>
+<text>
+<p>The U.S. Justice Department confirmed what several companies had already suspected: it is investigating possible price-fixing in the graphite electrodes industry, the Wall Street Journal said.</p>
+<p>The Journal report, which appeared in Friday's electronic edition, came the day after two companies said they had received search warrants for corporate documents that they believed were related to an investigation into alleged price-fixing.</p>
+<p>The Justice Department said the investigation goes back more than five years. It declined to provide further details.</p>
+<p>&quot;The antitrust division is looking at the possibility of anti-competitive practices in the graphite electrode industry,&quot; Justice Department spokeswoman Gina Talamona said.</p>
+<p>Carbide/Graphite Group Inc, UCAR International Inc, and SGL Carbon AG all said on Thursday that their records had been subpoenaed by authorities. SGL Carbon also said authorities of the European Community also are looking into the matter.</p>
+<p>Graphite electrodes are used in steel-making.</p>
+<p>Carbide/Graphite said it agreed to cooperate with the investigation in return for immunity from criminal charges for it and certain current and former executives.</p>
+<p>UCAR and SGL also said they were cooperating in the investigation, but did not say if they would seek immunity.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

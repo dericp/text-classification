@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="275850" id="root" date="1996-12-24" xml:lang="en">
+<title>FRANCE: French industry survey shows outlook improving [CORRECTED 09:50 GMT].</title>
+<headline>French industry survey shows outlook improving [CORRECTED 09:50 GMT].</headline>
+<dateline>PARIS 1996-12-24</dateline>
+<text>
+<p>National statistics institute INSEE gave the following seasonally adjusted data.</p>
+<p>A positive figure shows the percentage points by which the percentage of respondents saying things had improved or risen outnumbered the percentage saying things had worsened.</p>
+<p>(Corrects by replacing table with the following which gives figures for overall French industry excluding food. The previous table erroneously gave figures for manufacturing industry only. The table that follows is consistent with previous data published by Reuters).</p>
+<p>					Dec   Nov  Oct  Sep  Jul  Jun May</p>
+<p> Recent past output		 4    -2   -8    1   -9   -9 -12</p>
+<p> Finished product stocks	 18    18   16   20   27   30  26</p>
+<p> Overall orders and demand    -28   -25  -25  -25  -35  -37 -33</p>
+<p> Foreign orders and demand     -2    -4  -16  -18  -25  -39 -31</p>
+<p> Future output (overall)	-15   -21  -23  -29  -28  -27 -27</p>
+<p> Future output (personal)	 2     3    3    5    3    2   1</p>
+<p> Future prices (overall)	-21   -25  -31  -26  -22  -19 -16</p>
+<p> Future prices (personal)     -19   -15  -11  -14   -9  -19  -9</p>
+<p>Recent past output (breakdown)</p>
+<p> Agri-food businesses	    22     8    9    8  -11   -7   5</p>
+<p> Energy			     -14    -7  -75   22  -11   12  68</p>
+<p> Manufacturing output	     5    -2   -3   -1   -8   -8 -10</p>
+<p> Semi-finished goods	     -2    -3  -15   -8  -15  -18 -21</p>
+<p> Industrial capital goods	12    -3    2   -6    0   -7 -17</p>
+<p> Cars and land transport	-48   -44   20   39  -23   20  23</p>
+<p> Consumer goods		    18    10   -2    8    6    3   1</p>
+<p>Future output (breakdown)</p>
+<p> Agri-food businesses	     9     8    7   -4  -26  -12  -7</p>
+<p> Energy				 2    -7   61   -3   12   -7  72</p>
+<p> Manufacturing output	     2     4    1    5    3    2  -2</p>
+<p> Semi-finished goods	     -1     5    6   -3   -2    0   0</p>
+<p> Industrial capital goods	12     3    6    8    7    5  -7</p>
+<p> Cars and land transport	-27   -29  -30   22    7    7  15</p>
+<p> Consumer goods		    -3    10   -2    4   -3    2   6</p>
+<p>-- Paris Newsroom +331 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

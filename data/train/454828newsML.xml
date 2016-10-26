@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="454828" id="root" date="1997-03-19" xml:lang="en">
+<title>JAPAN: Tokai Konetsu Kogyo -1997 group forecast.</title>
+<headline>Tokai Konetsu Kogyo -1997 group forecast.</headline>
+<dateline>TOKYO 1997-03-19</dateline>
+<text>
+<p>Year to December 31, 1997</p>
+<p>		   (in billions of yen unless specified)</p>
+<p>			   LATEST	    ACTUAL</p>
+<p> (Group)		FORECAST	  YEAR-AGO</p>
+<p> Sales		  6.10		 5.56</p>
+<p> Current	    220    million	  84    million</p>
+<p> Net		  120    million	  29    million</p>
+<p> EPS		    7.10 yen	   1.77 yen</p>
+<p>NOTE - Tokai Konetsu Kogyo Co Ltd is a large maker of silicon carbide heating elements and heating equipment. Its net would be up 313.8 pct.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

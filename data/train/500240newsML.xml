@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500240" id="root" date="1997-04-10" xml:lang="en">
+<title>FRANCE: France Telecom plans $3 bln Euro MTN programme.</title>
+<headline>France Telecom plans $3 bln Euro MTN programme.</headline>
+<dateline>PARIS 1997-04-10</dateline>
+<text>
+<p>France Telecom said on Thursday that it planned to establish a $3 billion Euro medium term note programme due to be signed in early June.</p>
+<p>&quot;France Telecom will be the sole issuer under the programme,&quot; it said in a statement.</p>
+<p>The programme is being arranged by Merrill Lynch International, with Paribas acting as French franc arranger.</p>
+<p>Merrill Lynch International, Paribas, ABN Amro, Deutsche Morgan Grenfell, Goldman Sachs, JP Morgan, Nomura, SBC Warburg and UBS will be dealers on the programme.</p>
+<p>Citibank has been appointed financial and paying agent.</p>
+<p>-- Paris Newsroom, +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="500115" id="root" date="1997-04-10" xml:lang="en">
+<title>USA: Accused Nazi guard stripped of U.S. citizenship.</title>
+<headline>Accused Nazi guard stripped of U.S. citizenship.</headline>
+<dateline>CHICAGO 1997-04-10</dateline>
+<text>
+<p>A federal judge on Thursday ordered a 73-year-old Polish-born man stripped of his U.S. citizenship for allegedly helping massacre Jews at Treblinka, the infamous Second World War Nazi death camp in Poland.</p>
+<p>The order from Judge David Coar of the U.S. District Court could result in deportation for Bronislaw Hajda, a retired machinist who had been living quietly in the Chicago area for years.</p>
+<p>Hajda testified at a hearing in March that he left his home in the village of Jordanow, was captaured by the Gestapo and wound up in a Warsaw jail.</p>
+<p>But Coar, in a 58-page ruling, found that Hajda was an armed guard as the SS training camp Trawniki and at the Treblinka labour camp and belonged to the SS Streibel Battalion. He concealed his past when he entered the United States from Germany in 1950, the ruling said.</p>
+<p>The judge said Hajda &quot;unquestionably&quot; took part in a massacre carried out by guards in July 1944 when Nazis liquidated Treblinka as Allied forces neared.</p>
+<p>On that occasion hundreds of Jewish prisoners were shot at point-blank range in a pit by camp guards, federal prosecutors said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

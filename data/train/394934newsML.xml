@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="394934" id="root" date="1997-02-21" xml:lang="en">
+<title>USA: PRESALE - Dennis, Mass.</title>
+<headline>PRESALE - Dennis, Mass.</headline>
+<text>
+<p>AMT: 4,440,000	DATE: 02/25/97	NYC Time: 1100     CUSIP: 248577</p>
+<p>ISSUER: Dennis							   ST: MA</p>
+<p>ISSUE: Municipal purpose loan of 1997			    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: A1/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 03/01/97							     SURE BID: N</p>
+<p>DUE: 3/1/98-11						SR MGR:</p>
+<p>1ST CPN: 09/01/97</p>
+<p>CALL: 3/1/07 @ 101, dtp 3/1/09			  TIC</p>
+<p>DELIVERY: 3/11/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: Cape Cod Bank &amp; Trust Co., Hyannis</p>
+<p>L.O.: Palmer &amp; Dodge, Boston</p>
+<p>F.A.: Cape Cod Bank &amp; Trust Co., Hyannis</p>
+<p>LAST SALE: $2,500,000 12/13/90 @ 6.1997% TIC; 5yrs 6mos Avg; BBI-7.06%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    470,000</p>
+<p>1999		    465,000</p>
+<p>2000		    465,000</p>
+<p>2001		    465,000</p>
+<p>2002		    260,000</p>
+<p>2003		    260,000</p>
+<p>2004		    260,000</p>
+<p>2005		    260,000</p>
+<p>2006		    260,000</p>
+<p>2007		    255,000</p>
+<p>2008		    255,000</p>
+<p>2009		    255,000</p>
+<p>2010		    255,000</p>
+<p>2011		    255,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-21"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

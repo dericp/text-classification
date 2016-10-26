@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="109663" id="root" date="1996-10-10" xml:lang="en">
+<title>PHILIPPINES: Manila call loan rate falls on added liquidity.</title>
+<headline>Manila call loan rate falls on added liquidity.</headline>
+<dateline>MANILA 1996-10-10</dateline>
+<text>
+<p>---------------------- Oct 10 ---------------------------</p>
+<p>* Done rates range from 12.625 to 11.03125 percent</p>
+<p>---------------------------------------------------------</p>
+<p>Manila overnight money rates fell to an average of 11.50 percent on Thursday from 12.59375 after banks were swamped with liquidity from maturing government securities, traders said.</p>
+<p>&quot;It became liquid with the inflow of special series T-bills of 8.0 to 10.0 billion pesos,&quot; a dealer said.</p>
+<p>Also, &quot;the Central Bank bought dollars yesterday which helped soften the market,&quot; she said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="757146" id="root" date="1997-07-25" xml:lang="en">
+<title>CHINA: Dah Sing unit places HK$200 mln FRCD.</title>
+<headline>Dah Sing unit places HK$200 mln FRCD.</headline>
+<dateline>HONG KONG 1997-07-25</dateline>
+<text>
+<p>Dah Sing Bank Ltd, a unit of Dah Sing Financial Holdings Ltd, has lodged a HK$200 million floating rate certificate of deposit issue due 1998 with the Hong Kong Monetary Authority Central Moneymarkets Unit.</p>
+<p>The one-year certificates, which were issued under the bank's HK$3.0 billion Certificate of Deposit programme, were priced at par to float at 18 basis points over the three-month Hong Kong Interbank Offered Rate.</p>
+<p>The minimum denomination is HK$500,000.</p>
+<p>Hongkong and Shanghai Banking Corp is the arranger.</p>
+<p>The payment date is July 28.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6960</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

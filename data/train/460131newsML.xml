@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="460131" id="root" date="1997-03-21" xml:lang="en">
+<title>UK: EMU expectations waver in Belgium - JP Morgan index.</title>
+<headline>EMU expectations waver in Belgium - JP Morgan index.</headline>
+<dateline>LONDON 1997-03-21</dateline>
+<text>
+<p>Growing uncertainty about who will start European monetary union (EMU) in 1999 has this week sent ripples of doubts seeping into core markets like Belgium, prices monitored by investment house JP Morgan showed.</p>
+<p>Market prices indicate the perceived probability of Belgium joining Germany and France in the first wave in 1999 was this week less than 100 percent for the first time since early 1996, JP Morgan's &quot;EMU calculator&quot; showed. The reading was 97 percent.</p>
+<p>&quot;For the first time since early 1996, EMU pessimism is now shaking the market's conviction that EMU will arrive at all,&quot; JP Morgan analysts said in a note accompanying the calculator.</p>
+<p>The U.S. investment house, however, has pointed out that it is reasonable to estimate a margin of error in probability levels of three-to-five points.</p>
+<p>The calculator showed the probability of France starting EMU is still 100 percent.</p>
+<p>Elsewhere, expectations of EMU participation by non-core countries, which have retreated steadily over the past month, were mixed last week.</p>
+<p>The probabilities assigned to Spain, Portugal and Italy were all higher, while those in Finland, Denmark, Ireland and Sweden pushed lower.</p>
+<p>EMU expectations in the UK were little changed at a low 39 percent.</p>
+<p>JP Morgan's EMU calculator is derived from the interest rate swaps market.</p>
+<p>The probabilities are derived from the actual swap spread, an in-house assumption of what the spread would be if EMU were not a factor, and the expected spread after EMU participation, which is zero.</p>
+<p>Following is a table of JP Morgan Calculator results for last week:</p>
+<p>    Current	     One week ago	  Four weeks ago</p>
+<p>probability</p>
+<p>    France  100	     100			100</p>
+<p>    Belgium  97	     100			100</p>
+<p>    Finland  82		88			 81</p>
+<p>    Portugal 68		64			 61</p>
+<p>    Spain    62		59			 63</p>
+<p>    Sweden   58		63			 65</p>
+<p>    Ireland  57		63			 69</p>
+<p>    Italy    55		50			 62</p>
+<p>    Denmark  48		56			 40</p>
+<p>    UK	 39		40			 35</p>
+<p>--London Forex desk, +44 171 542 6762</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

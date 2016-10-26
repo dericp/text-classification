@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="707094" id="root" date="1997-07-04" xml:lang="en">
+<title>CANADA: Canadian oilseeds weekly crushing data.</title>
+<headline>Canadian oilseeds weekly crushing data.</headline>
+<dateline>WINNIPEG 1997-07-04</dateline>
+<text>
+<p>Canadian Oilseed Processors Association weekly summary of member crushing, in tonnes -</p>
+<p>WEEK ENDING	  CANOLA    SOYBEANS</p>
+<p>July 2		 60,298    29,382</p>
+<p>change prv week   +28.9 pct +63.9 pct</p>
+<p>June 25R	     46,783    17,295</p>
+<p>June 18		57,753    27,470</p>
+<p>June 11		57,482    28,052</p>
+<p>June 4		 49,111    36,926</p>
+<p>May 28		 61,158    30,042</p>
+<p>Aug 1 to date   2,491,300 1,369,742</p>
+<p>-- Note: COPA consists of Archer Daniels Midland Co, CanAmera Foods, Canbra Foods Ltd and Northern Lite Canola Inc with crush data also provided by Cargill Ltd, the Canadian unit of Minnesota-based Cargill Inc. -- R=revised.</p>
+<p>((Gilbert Le Gras 204 947 3548))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="I0100223">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

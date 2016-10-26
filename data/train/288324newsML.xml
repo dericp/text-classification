@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="288324" id="root" date="1997-01-06" xml:lang="en">
+<title>YUGOSLAVIA: Belgrade party headquarters bombed - sources.</title>
+<headline>Belgrade party headquarters bombed - sources.</headline>
+<dateline>BELGRADE 1997-01-06</dateline>
+<text>
+<p>An explosive device went off on Monday in the compound of the headquarters of the Yugoslav United Left (JUL) party led by Serbian President Slobodan Milosevic's wife Mirjana Markovic, a party source told Reuters.</p>
+<p>&quot;An explosive device exploded half an hour ago between two buildings at JUL headquarters, causing damage but no injuries. A communique will issued in minutes,&quot; the JUL source said.  </p>
+<p>The report could not be immediately confirmed and the police had no immediate statement.</p>
+<p>A Reuters photographer who arrived on the scene saw several police cars but was not allowed inside the sprawling compound.</p>
+<p>The reported attack was bound to raise tensions since JUL has insisted on a police crackdown on supporters of the opposition Zajedno (Together) coalition who have been protesting in Belgrade and other towns in Serbia demanding that Milosevic restore opposition election gains.</p>
+<p>The incident coincided with what may turn out to be the biggest protest demonstration in Belgrade to date as several hundred thousand Zajedno supporters thronged Belgrade's central square for Orthodox Christmas festivities.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

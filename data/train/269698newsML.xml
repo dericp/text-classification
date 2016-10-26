@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="269698" id="root" date="1996-12-20" xml:lang="en">
+<title>USA: States, counties, cities urge delay on air rules.</title>
+<headline>States, counties, cities urge delay on air rules.</headline>
+<dateline>WASHINGTON 1996-12-20</dateline>
+<text>
+<p>States, counties and cities said Friday they had urged the Clinton administration to give them an extra two months to comment on the Environmental Protection Agency's proposal to tighten air quality standards.</p>
+<p>EPA issued the controversial proposal last month, opening it for public comment for 60 days.</p>
+<p>The proposal would throw several areas that currently meet air quality standards out of compliance, which would force them into imposing new controls on pollution.</p>
+<p>&quot;As you also know, the proposed new standards would have an enormous impact on the U.S. economy and on the ability of state and local officials to meet other urgent priorities,&quot; state and local leaders said in a December 19 letter to EPA administrator Carol Browner.</p>
+<p>&quot;We therefore ask that you immediately announce a 60-day extension in the public comment period, so that we may more thoroughly review and assess the proposal,&quot; said the leaders of the National Governors' Association, National Conference of State Legislatures, Council of State Governments, National Association of Counties, United States Conference of Mayors, and International City/County Management Association.</p>
+<p>An EPA spokesman said the agency would take the request under consideration.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

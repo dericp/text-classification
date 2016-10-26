@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="88882" id="root" date="1996-10-01" xml:lang="en">
+<title>USA: Kiwi International files bankruptcy petition.</title>
+<headline>Kiwi International files bankruptcy petition.</headline>
+<dateline>NEWARK, N.J. 1996-09-30</dateline>
+<text>
+<p>Kiwi International Air Lines said Monday it filed a Chapter 11 bankruptcy reorganization petition in U.S. Bankruptcy Court here.</p>
+<p>Kiwi said the filing was prompted by its debt load, a slowing of passenger traffic after the crash of a Valujet airliner in May and Kiwi's own partial shutdown.</p>
+<p>&quot;We have been working around the clock to obtain funding and credit concessions to avoid filing the petition,&quot; said Kiwi President Jerry Murphy.</p>
+<p>The company said, however, that it was unable to reach an agreement with its main aircraft lessor in a restructuring programme.</p>
+<p>Kiwi, which began flying in September, 1992, said it planned to continue most of its operations, and was in the process of securing at least $5 million in debtor-in-possession financing.</p>
+<p>The carrier said that under the plan, which takes effect Tuesday, it will operate a full schedule of flights between Newark, Chicago and Atlanta.</p>
+<p>Newark, N.J.-based Kiwi said it was seeking agreements other carriers for passengers going to West Palm Beach, Tampa, and Orlando, Fla., Las Vegas and Bermuda, and was also offering refunds.</p>
+<p>Murphy said the bankruptcy filing would allow the company to restructure its financial obligations while preserving jobs and a core schedule of air service.</p>
+<p>&quot;The ValuJet crash on May 11 started a downward spiral that was dramatically accelerated when the FAA (Federal Aviation Administration), under intense public and media pressure, took the unusual step of putting four aircraft on the ground although we have a perfect flying record,&quot; Murphy said in a statement.</p>
+<p>&quot;Through these events, which also includes ValuJet's grounding and a traditionally slow September, Kiwi has slowly bled to the point where we have to take action,&quot; he said.</p>
+<p>Under the reorganization plan, employees and travel agency commissions will be paid, Murphy said.</p>
+<p>Earlier this month a similarly named no-frills airline in New Zealand, Kiwi International Airlines -- which has no relation to the U.S. carrier -- shut down and went into voluntary liquidation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWARK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

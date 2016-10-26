@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="262150" id="root" date="1996-12-17" xml:lang="en">
+<title>USA: Prevention Productions names new CEO.</title>
+<headline>Prevention Productions names new CEO.</headline>
+<dateline>NEW YORK 1996-12-17</dateline>
+<text>
+<p>Prevention Productions Ltd said on Tuesday it named Russell Van de Casteele president and chief executive officer.</p>
+<p>The company also said the majority of shareholders approved a reverse split of the issued and outstanding shares from 30.3 million shares to 1.52 million shares. The reverse split took effect December 6, it said.</p>
+<p>The company also said it would issue 3.3 million shares of its restricted stock after the reverse split to Casteele, in exchange for $0.01 per share and the assignment of a contract between Casteele and Nutrimist Laboratories Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

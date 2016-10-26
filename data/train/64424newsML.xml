@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="64424" id="root" date="1996-09-19" xml:lang="en">
+<title>USA: The right funds for diversification.</title>
+<headline>The right funds for diversification.</headline>
+<byline>Clint Willis</byline>
+<dateline>BOSTON 1996-09-19</dateline>
+<text>
+<p>The typical mutual fund investor owns shares in three different funds, according to the Investment Company Institute. For many of these investors, that includes two or more funds that invest in equities.</p>
+<p>That's a good idea: Investing in a number of stock funds can increase the diversification of a portfolio, and thereby reduce its overall level of risk. It's more likely that a single investment will hit the skids than two will at the same time.</p>
+<p>But you can't just pick a couple of funds and assume that your investments are diversified. Some mutual funds walk nearly in lock step with each other.</p>
+<p>For example, Fidelity's massive Magellan and Contrafund have provided very similar returns in recent years. They've even held many of the same stocks, although that might change following former manager Jeff Vinik's departure from Magellan.</p>
+<p>One result of the two funds' similarities has been a high degree of correlation between their returns. At times, that was in favour of investors. For example, in 1995, Magellan and Contrafund turned in nearly identical 36.8 percent and 36.3 percent returns, respectively, thanks to their similar strategies. But investors who chose both funds gained little diversification.</p>
+<p>A little-used statistic called &quot;R-squared&quot; can help you ensure that your portfolio is well-diversified. It represents the percentage of a fund's performance that can be explained by the returns of another fund or index.</p>
+<p>For example, at the end of 1995, Fidelity Magellan had an R-squared of 94 percent with Contrafund, meaning the fund giants' returns tracked each other quite closely during the previous three years.</p>
+<p>Fidelity Capital Appreciation would have been a better choice for a Magellan investor in search of diversification. The two funds recently posted an R-squared of only 31 percent.</p>
+<p>Even international equity funds sometimes provide less diversification than investors expect. For example, Templeton Growth and Templeton World each recently had a relatively high R-squared of 62 percent with the Standard &amp; Poor's 500 index, according to Morningstar Mutual Funds. In fact, seven Templeton international equity funds recently had R-squareds of 47 percent with the S&amp;P 500.</p>
+<p>Some international funds do provide a greater level of diversification. For example, GAM Global (800-426-4685; $10,000 minimum investment; 5 percent load; 15.4 percent recent three-year annualized return) recently had an R-squared of only 9 percent with the S&amp;P 500. Fontaine Global Growth (800-247-1550; $500 minimum; no load; 21.2 percent, three-year annualized return) posted an R-squared of 12 percent with the index.</p>
+<p>Investors in search of still greater levels of diversification might turn toward Japan. The six international mutual funds that had the lowest R-squareds with the S&amp;P 500 all are Japan-specific funds. Each posted an R-squared with the S&amp;P 500 of less than 1 percent.</p>
+<p>The funds included G.T. Global Japan Growth (800-824-1580; $500 minimum; 4.75 percent load; 1.5 percent three-year annualized return) and T. Rowe Price Japan (800-638-5660; $2,500 minimum; no load; -2.6 percent three-year annualized return).</p>
+<p>But keep in mind that a single country fund, such as a Japan fund, likely will carry more risk than a diversified international offering.</p>
+<p>It's also possible to increase your equity fund portfolio's diversification without heading overseas.</p>
+<p>For example, Premier Strategic Growth (800-554-4611; $1,000 minimum; 4.5 percent load; 16.8 percent three-year annualized return), an aggressive growth fund, has an R-squared of only 1 percent with the S&amp;P 500 index.</p>
+<p>Small-cap fund Govett Smaller Companies (800-225-2222; $500 minimum; 4.95 percent load; 10.6 percent three-year annualized return) has a correlation of 6 percent with the S&amp;P 500. Another low-correlation fund is Merger Fund (800-343-8959; $2,000 minimum; no load; 11.6 percent three-year annualized return), which compiles a unique portfolio of stocks that seem likely to benefit from merger and acquisition activity. Merger has an R-squared of 11 percent over the past three years.</p>
+<p>But low correlation alone isn't enough to make a fund worth an investment. For example, Oak Hall Equity has an R-squared of only 8 percent with the S&amp;P 500, thanks in large part to significant gold-stock holdings. But the fund's return ranks it in the bottom 5 percent of all small-cap funds over the past three years -- not the sort of diversification that's worth seeking out.</p>
+<p>(EDITORS: Clint Willis is a free-lance writer who covers financial issues for Reuters. Any opinions in the column are solely those of Mr. Willis.)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

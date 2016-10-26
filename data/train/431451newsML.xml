@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="431451" id="root" date="1997-03-10" xml:lang="en">
+<title>FINLAND: Baltic Ice- Ice receding, more restrictions lifted.</title>
+<headline>Baltic Ice- Ice receding, more restrictions lifted.</headline>
+<dateline>HELSINKI 1997-03-10</dateline>
+<text>
+<p>Ice levels eased and more restrictions were lifted in the Gulf of Finland the Gulf of Bothnia, the Finnish Institute of Marine Research said in its twice-weekly ice report on Monday.</p>
+<p>It lifted all restrictions to Porvoo and Rauma and allowed vessels with ice-classes IA and IB and deadweights of 2,000 tonnes to Vaasa. Ships with ice class IA and deadweights of 2,000 tonnes would again be assisted to Kokkola and Pietarsaari.</p>
+<p>The Swedish restriction to Ornskioldsvik was lifted and Russian restrictions were unchanged, an institute official said.</p>
+<p>Five icebreakers were assisting near St Petersburg and Vyborg in the eastern Gulf of Finland, one near Loviisa, five in the northern end of the Gulf of Bothnia and two in the middle.</p>
+<p>One ice-breaker was still on station outside Parnu in the Gulf of Riga. (Temperatures of nearby isotherms, degrees Celsius)</p>
+<p> PORT	    TEMP ICE TYPE    THICKNESS  RESTRICTIONS (Mar 10)</p>
+<p> St Petersburg n/a  Level/rafted/   20-40  Russian ice class 13,</p>
+<p>			  ridged			min 2,000 hp</p>
+<p> Vyborg	  n/a  Level/rafted/   30-40  Russian ice class 13,</p>
+<p>			  ridged			min 2,000 hp</p>
+<p> Ventspils     1    None		  n/a  None</p>
+<p> Riga	    1    None		  n/a  None</p>
+<p> Parnu	   n/a  Level/ridged     5-30  None</p>
+<p> Tallinn	 n/a  None		  n/a  None</p>
+<p> Kotka,Hamina, n/a  Fast/level	10-35  Ice classes I, II,</p>
+<p> Loviisa						min 1,300 DWT</p>
+<p> Porvoo	  n/a  Scant		 n/a  None</p>
+<p> Helsinki	n/a  Scant		5-20  None</p>
+<p> Rauma	   n/a  Fast		 5-30  None</p>
+<p> Stockholm     1    None		  n/a  None</p>
+<p> Oulu	    n/a  Fast/compact/   40-65  Ice class IA,</p>
+<p>			  ridged			min 4,000 DWT</p>
+<p> Kemi	    n/a  Rafted/ridged   40-80  Ice class IA</p>
+<p>							  min 4,000 DWT</p>
+<p> Lulea	   n/a  Fast		30-50  Ice class IA,</p>
+<p>							  min 3,000 DWT</p>
+<p> Kokkola,	n/a  Level/compact/  30-60  Ice class IA,</p>
+<p> Pietarsaari	  ridged			min 2,000 DWT</p>
+<p> Vaasa	   n/a  Fast		10-40  Ice classs IA, IB</p>
+<p>							  min 2,000 DWT</p>
+<p> Sundsvall     n/a  Scant		5-15  None</p>
+<p> Ornskoldsvik  n/a  Scant		 n/a  None</p>
+<p>NOTES: New ice - forming, thin and still moving. Fast ice - not moving level flat ice. Level ice - thick flat ice. Consolidated/compact - compact close ice. Windrow ice - reshaped by wind, thickness varies sharply. Rafted - ridges forming, 10-20 cm thick. Ridged - ridged or hummocked ice. Open - floes with water at rate of 4-6:10. Close ice - floes tightly packed.</p>
+<p>-- Helsinki newsroom +358 0 6805 0242</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HELSINKI"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

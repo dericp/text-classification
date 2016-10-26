@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="74924" id="root" date="1996-09-25" xml:lang="en">
+<title>MAURITIUS: Mauritius rupee firms on dollar, weaker on pound.</title>
+<headline>Mauritius rupee firms on dollar, weaker on pound.</headline>
+<dateline>PORT LOUIS 1996-09-25</dateline>
+<text>
+<p>The Mauritian rupee firmed on the dollar but was weaker against the pound on Wednesday, commercial bank forex dealers said.</p>
+<p>The rupee was fixed at a mean commercial rate of 20.5470 to the dollar from 20.5895 on Tuesday. The rupee traded at a mean rate of 32.1400 versus the pound from 32.0405 on Tuesday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

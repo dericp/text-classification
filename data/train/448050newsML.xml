@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="448050" id="root" date="1997-03-17" xml:lang="en">
+<title>GERMANY: German sugarbeet sowings begin in warmer regions.</title>
+<headline>German sugarbeet sowings begin in warmer regions.</headline>
+<dateline>OFFENBACH 1997-03-17</dateline>
+<text>
+<p>German farmers have started sugarbeet sowings in some areas which usually receive warmer temperatures than the rest of the country, a source at the national meteorological office DWD said on Monday.</p>
+<p>&quot;We've had reports of sugarbeet plantings from the Lower Rhine and Franconia, where farmers are finished with spring grains,&quot; he said.</p>
+<p>Farmers initially planned to sow the bulk of the crop later in March but a cold front expected over the next 10 days might delay the process, with the Easter holidays on March 28-31 creating another hiatus, he added.</p>
+<p>The cold front would also slow the early development of the beet currently sown after planting conditions in the first half of March were ideal.</p>
+<p>The 1997/98 area may slightly exceed the 516,452 hectares seen in 1996/97, sources have said.</p>
+<p>--Vera Eckert, Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="I0100128">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-03-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-03-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-03-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OFFENBACH"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

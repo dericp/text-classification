@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="260136" id="root" date="1996-12-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-Newcrest says high-grade Cadia result.</title>
+<headline>RTRS-Newcrest says high-grade Cadia result.</headline>
+<dateline>SYDNEY 1996-12-16</dateline>
+<text>
+<p>Newcrest Mining Ltd said on Monday it had intersected high grade gold and copper mineralisation three kilometres west of its Cadia Hill mine.</p>
+<p>Core drilling at the Ridgeway prospect in hole NC498 had intersected a zone of Cadia-style quartz veining, it said.</p>
+<p>Assays for a 71-metre section downhole from 665 metres recorded 7.2 grams per tonne of gold and 1.6 percent copper.</p>
+<p>Newcrest said the hole may have intersected the mineralised zone at an oblique angle, exaggerating its thickness.  </p>
+<p>Managing director John Quinn said Newcrest would accelerate its drilling program to determine how close the mineralisation was to surface and its lateral extent and depth.</p>
+<p>Newcrest recieved government approval in September for the Cadia Hill mine near Orange in central New South Wales.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

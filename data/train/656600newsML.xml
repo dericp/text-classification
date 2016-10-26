@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="656600" id="root" date="1997-06-12" xml:lang="en">
+<title>USA: Great Lakes May load factor up, miles off.</title>
+<headline>Great Lakes May load factor up, miles off.</headline>
+<dateline>BLOOMINGTON, Minn. 1997-06-12</dateline>
+<text>
+<p>Great Lakes Aviation Ltd said Thursday its passenger load factor for the month of May rose 0.4 points versus last year to 45.2 percent from 44.8 percent.</p>
+<p>Year to date, the load factor was down 1.8 points at 42.2 percent.</p>
+<p>Great Lakes said May traffic, however, was affected by the voluntary shutdown of scheduled services on May 16. Substantially reduced service resumed on May 23.</p>
+<p>Revenue passenger miles for the month, for example, fell 47.9 percent to 13,727 from 26,368. May available seat miles were 30,361, down 48.5 percent from the 58,905 posted in May 1996.</p>
+<p>Great Lakes Aviation provides regional scheduled passenger and air freight services.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-12"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BLOOMINGTON, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

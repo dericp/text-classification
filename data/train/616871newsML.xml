@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="616871" id="root" date="1997-05-27" xml:lang="en">
+<title>USA: Florida citrus groves in good condition - FASS.</title>
+<headline>Florida citrus groves in good condition - FASS.</headline>
+<dateline>NEW YORK 1997-05-27</dateline>
+<text>
+<p>Citrus groves are in good condition in Florida's citrus belt although summer rains were needed in all areas, said the Florida Agricultural Statistics Service (FASS).</p>
+<p>In its weekly weather and crop update, FASS said new crop fruit is making normal progress for the last of May. Very little hedging and topping are going on at this time, although spraying and herbiciding continue in all areas.</p>
+<p>Caretakers are mowing, chopping, and cultivating cover crops.</p>
+<p>FASS reported an estimated 6,353,000 boxes of Valencia oranges were harvested in the week ended May 25, up from 6,073,000 in the prior week but below 7,596,000 the week ended May 11.</p>
+<p>-- New York Commodity Desk, 212-859-1640</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="I0100206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

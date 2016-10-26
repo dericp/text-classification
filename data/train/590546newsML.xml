@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="590546" id="root" date="1997-05-16" xml:lang="en">
+<title>MALTA: Malta court agrees to US extradition request.</title>
+<headline>Malta court agrees to US extradition request.</headline>
+<dateline>VALLETTA 1997-05-16</dateline>
+<text>
+<p>A Maltese court on Friday accepted a United States request to extradite a Maltese man to face charges of attempting to defraud a Michigan savings bank.</p>
+<p>Magistrate Joseph Apap-Bologna said the court found sufficient grounds for Tony Satariano, 45, to be extradited to face charges of planning to defraud NVR Savings Bank FSB of Michigan of property and cash worth US$700,000.</p>
+<p>The plot is alleged to have taken place in the Eastern district of Michigan before July 1991. Satariano is a former employee of the bank.</p>
+<p>Satariano, now resident in Malta, was arrested in February when the US government made the extradition request. He has three days to appeal.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VALLETTA"/>
+<dc element="dc.creator.location.country.name" value="MALTA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

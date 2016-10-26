@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="328157" id="root" date="1997-01-23" xml:lang="en">
+<title>FRANCE: France to pay Eurocopter as soon as possible.</title>
+<headline>France to pay Eurocopter as soon as possible.</headline>
+<dateline>PARIS 1997-01-23</dateline>
+<text>
+<p>The French government hopes to pay 700 million francs owed to Eurocopter, the Franco-German helicopter maker, as soon as possible for its work on the NH90 military aircraft, a defence ministry official said on Thursday.</p>
+<p>France owes the money as its share of the development costs for the NH90 following a decision last year to delay deliveries of the army version of the helicopter to 2010 or 2011, from 2001/2002.</p>
+<p>Defence budget freezes last year led to the payment delays to Eurocopter, which is 70 percent held by Aerospatiale and 30 percent by Daimler-Benz Aerospace.</p>
+<p>A spokesman for the DGA arms procurement office said the delays were aggravated by the complex legal structure of the NH90 programme, which is handled under a NATO contract and involves four countries -- France, Germany, Italy and The Netherlands.</p>
+<p>NH Industries is the prime contractor for the project, with Eurocopter, Italy's Agusta SpA and Fokker Aviation, a Stork NV unit, as industrial partners.</p>
+<p>Eurocopter chairman Jean-Francois Bigay said on Wednesday the group had cut its debt last year by more than one billion francs to 1.5 billion, despite the late payment by the government.</p>
+<p>-- Paris newsroom +33 1 4221 5452 pnt</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

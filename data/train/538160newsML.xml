@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="538160" id="root" date="1997-04-25" xml:lang="en">
+<title>USA: Cardiovascular Diagnostics, Lilly in pact.</title>
+<headline>Cardiovascular Diagnostics, Lilly in pact.</headline>
+<dateline>RALEIGH, N.C. 1997-04-25</dateline>
+<text>
+<p>Cardiovascular Diagnostics Inc said Friday that it signed a development agreement with Eli Lilly and Co for treatment of sepsis.</p>
+<p>Under the agreement, Cardiovascular will use its dry chemistry technology to develop a rapid point of care test to monitor a therapeutic anticoagulant presently under development at Lilly for use in the treatment of sepsis.</p>
+<p>The comapny said that Lilly will provide funding based on milestone payments that coincide with the successful completion of Cardiovascualr's five phases of design review for development projects.</p>
+<p>Cardiovascualr said that its goal is to complete clinical trials and submit a 510K application to the FDA by the end of January, 1998.</p>
+<p>Sepsis is caused by pathogens circulating in the blood that can result in serious complications such as organ failure.</p>
+<p>With a 30-50 percent mortality rate, sepsis is the 13th most frequent cause death in the United States, Cardiovascual said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RALEIGH, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

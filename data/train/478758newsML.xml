@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="478758" id="root" date="1997-04-01" xml:lang="en">
+<title>BRAZIL: Brazil, Argentina resume talks over import rule.</title>
+<headline>Brazil, Argentina resume talks over import rule.</headline>
+<dateline>BRASILIA 1997-04-01</dateline>
+<text>
+<p>Argentine officials in Brasilia to discuss new Brazilian import financing rules resumed discussions with their Brazilian counterparts on Tuesday, officials said.</p>
+<p>Argentine ambassador Diego Guelar and the vice-ministers of foreign relations and international trade declined to comment as they returned to the Brazilian Foreign Ministry.</p>
+<p>Earlier, the talks between the two sides had broken up temporarily. The Argentine officials were in Brasilia to try and persuade the Brazilian government to exempt its Mercosur partners from the new import financing rules.</p>
+<p>((--Michael Christie, Brasilia newsroom +55 11 248 5417))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-04-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-04-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-04-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRASILIA"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

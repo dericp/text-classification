@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="357742" id="root" date="1997-02-05" xml:lang="en">
+<title>USA: CBOT T-bonds options vol/open interest - Feb 4.</title>
+<headline>CBOT T-bonds options vol/open interest - Feb 4.</headline>
+<text>
+<p>SOURCE: CHICAGO BOARD OF TRADE. IN CONTRACTS.</p>
+<p>COMMODITY: T-BONDS		 CALL</p>
+<p>			 EVE   PJA   DAY   GIVE		  OPTS   OPEN INTEREST</p>
+<p>YR MTH		TRDS  TRDS  TRDS   UPS  TRFRS ADJST  EXER   CLOSE   CHANGE</p>
+<p>-- ---	     ----- ----- ------ ----- ----- ----- ------ ------- -------</p>
+<p>97 MAR TOTAL	1962    14  35059 16131    51  6611     94  305855   2206+</p>
+<p>97 APR TOTAL			 8050  7550	  1200	    10280   6100+</p>
+<p>97 JUN TOTAL	   2	  16699  2390	  2278	   125577   5581+</p>
+<p>97 SEP TOTAL			 2136   262	   478	     7745   1871+</p>
+<p>97 OCT TOTAL								     300</p>
+<p>97 DEC TOTAL								    2040</p>
+<p>COMMODITY: T-BONDS		 PUT</p>
+<p>97 MAR TOTAL	 114   125  41074 11966   122  8874	   216165   5129+</p>
+<p>97 APR TOTAL			 2600  1300	   375	     5890   1600+</p>
+<p>97 MAY TOTAL								     100</p>
+<p>97 JUN TOTAL	  94	   7170  1906     5  1297	    68216   2594+</p>
+<p>97 SEP TOTAL			   16		     2	     1341     14+</p>
+<p>97 OCT TOTAL								     500</p>
+<p>97 DEC TOTAL								     100</p>
+<p>CMMDTY TOTAL	2172   139 112804 41505   178 21115     94  744109  25095+</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-05"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

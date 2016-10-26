@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="105087" id="root" date="1996-10-09" xml:lang="en">
+<title>VENEZUELA: Caracas stocks end higher as interest rates fall.</title>
+<headline>Caracas stocks end higher as interest rates fall.</headline>
+<dateline>CARACAS 1996-10-09</dateline>
+<text>
+<p>Caracas stocks edged higher in active trading Wednesday as yields on the central bank's six-month TEM paper fell over four percentage points, suggesting stronger growth in corporate earnings may lie ahead, traders said.</p>
+<p>&quot;Although the TEM results came in after the close of the session, the market had already discounted the drop in rates,&quot; said one trader.</p>
+<p>The bolsa's 19-share index gained 0.85 percent to close at 6,145.05 points as 24 million shares, worth $9.2 million, changed hands.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

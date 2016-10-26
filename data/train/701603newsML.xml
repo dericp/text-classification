@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="701603" id="root" date="1997-07-02" xml:lang="en">
+<title>HUNGARY: Citibank expands in Hungary countryside.</title>
+<headline>Citibank expands in Hungary countryside.</headline>
+<dateline>BUDAPEST 1997-07-02</dateline>
+<text>
+<p>Citibank Rt, wholly-owned unit of Citibank Overseas Investment Corp, said on Wednesday it was planning further expansion in Hungary.</p>
+<p>&quot;Citibank Rt's expansion plans include the establishment of a leasing company and corporate banking service centres outside Budapest,&quot; it said in a statement.</p>
+<p>The bank changed its name to Citibank Rt from Citibank Budapest Rt, &quot;which fits with our countrywide expansion plans,&quot; Richard D. Jackson, chairman and CEO of Citibank in Hungary, said in the statement.</p>
+<p>In 1996 the bank posted net income of 3.765 billion forints, compared to 3.788 billion forints in 1995.</p>
+<p>-- Budapest newsroom +36 1 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="760231" id="root" date="1997-07-28" xml:lang="en">
+<title>UNITED NATIONS: U.N. announces program to back &quot;good governance&quot;.</title>
+<headline>U.N. announces program to back &quot;good governance&quot;.</headline>
+<dateline>UNITED NATIONS 1997-07-28</dateline>
+<text>
+<p>The U.N. Development Programme (UNDP) on Monday announced a $36 million pilot programme to promote &quot;good governance&quot; in developing nations.</p>
+<p>UNDP administrator James Speth said more than 75 countries would receive assistance through programmes in such areas as strengthening judicial systems and parliaments, human rights, decentralization and trade.</p>
+<p>He told a news conference that &quot;governance&quot; included not only government but civil society and a vibrant private sector.</p>
+<p>The four-year project will test new ideas and approaches in the developing world and support activities by partners such as civic organisations, media, human rights groups and parliaments.</p>
+<p>The programme was announced at the start of a three-day international conference on governance for sustainable growth and equity attended by more than 1,000 governmment ministers, parliamentarians, mayors and representatives of media, business and development bodies.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEVGCO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-28"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-28"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-28"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

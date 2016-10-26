@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28006" id="root" date="1996-09-02" xml:lang="en">
+<title>UK: PRESS DIGEST - London-based Arab newspapers - Sept 2.</title>
+<headline>PRESS DIGEST - London-based Arab newspapers - Sept 2.</headline>
+<dateline>LONDON 1996-09-02</dateline>
+<text>
+<p>These are some of the leading stories in two London-based Arabic-language newspapers on Monday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AL-HAYAT</p>
+<p>- Thirteen shipping firms operating between the Far East and the Gulf increase their cargo freight rates.</p>
+<p>- Jordanian Prime Minister Kabariti says increasing bread prices was a tough decision; says Jordan took the move to help save the economy.</p>
+<p>ASHARQ AL-AWSAT</p>
+<p>- Saudi health minister signs contracts worth 666 million riyals to import pharmaceutical products.</p>
+<p>- French and British firms sign contracts to build Sheraton and Hilton hotels in Jordan at a cost of $67 million.</p>
+<p>- More than four billion riyals is expected to be invested in 170 new plants in Saudi Arabia's eastern province.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

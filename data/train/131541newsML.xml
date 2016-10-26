@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="131541" id="root" date="1996-10-21" xml:lang="en">
+<title>USA: Capitol Transamerica Corp Q3 full results.</title>
+<headline>Capitol Transamerica Corp Q3 full results.</headline>
+<dateline>MADISON, Wis. 1996-10-21</dateline>
+<text>
+<p>CONSOLIDATED STATEMENTS OF OPERATIONS</p>
+<p>			  (in thousands, except per share)</p>
+<p>				Nine months ended  Three months ended</p>
+<p>					   September 30,  September 30,</p>
+<p>					  1996    1995     1996    1995</p>
+<p>REVENUES</p>
+<p>  Gross premiums written    $ 67,444$ 52,173 $ 23,791$ 18,243</p>
+<p>  Net premiums written	  66,143  50,281   23,240  17,583</p>
+<p>  Net premiums earned	   56,099  46,578   20,280  16,446</p>
+<p>EXPENSES</p>
+<p>  Claims and claim expenses   23,751  23,583    8,129   8,255</p>
+<p>Other underwriting expenses</p>
+<p>					19,134  15,497    6,875   6,069</p>
+<p>Total Losses and</p>
+<p>    Expenses Incurred	   42,885  39,080   15,004  14,324</p>
+<p>  Underwriting income	   13,214   7,498    5,276   2,122</p>
+<p>  Investment income		5,261   4,781    1,764   1,669</p>
+<p>Realized investment</p>
+<p>    gains (losses)		 2,590     868    1,265     (1)</p>
+<p>  Other income			  82     144	 31	17</p>
+<p>  Income Before Income Tax    21,147  13,291    8,336   3,807</p>
+<p>  Income tax provision	   6,106   3,528    2,378     950</p>
+<p>	   NET INCOME	     15,041   9,763    5,958   2,857</p>
+<p> EARNINGS PER SHARE		 2.04    1.33     0.81    0.39</p>
+<p>NOTE: Results adjusted for December 28, 1995, 10 percent stock dividend.</p>
+<p>--Chicago Newsdesk 312-408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADISON, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

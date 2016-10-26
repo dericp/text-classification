@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="320966" id="root" date="1997-01-21" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1997-01-21</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Tuesday.</p>
+<p>GERMANY - Bund futures were lower in afternoon trade as weaker Treasuries and worries about Russian President Boris Yeltsin erased any optimism coming from the December Ifo business climate report. The March Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 101.53, up 0.16 from Monday's settlement price.</p>
+<p>BRITAIN - Gilts closed slightly down but made up some ground late in the day on upbeat comments from Federal Reserve Chairman Alan Greenspan. The March long gilt future on LIFFE was trading at 110-31/32, up 02/32 from Monday's settlement price.</p>
+<p>FRANCE - French bond futures erased earlier losses after a much awaited speech by Greenspan failed to meet traders worst fears, pushing the contract back into positive territory. The March notional bond future on the MATIF in Paris settled at 130.56, up 0.08 from Monday's settlement price.</p>
+<p>ITALY - Italian bonds and bond futures pulled themselves up in late trade amid market relief that comments by Greenspan did not upset U.S. markets. The March bond future on LIFFE was trading at 131.73, up 0.25 from Monday's settlement price.</p>
+<p>UNITED STATES - U.S. Treasury prices were lower in the morning as market participants nervously awaited comments from Greenspan. The March Treasury bond future on the Chicago Board of Trade was trading at 111-02/32, up 04/32 from Monday's settlement price. The long bond was quoted to yield 6.82 percent.</p>
+<p>JAPAN - The key March Japanese government bond futures contract ended slightly easier on position adjustment by dealers and hedge sales. In after hours trading the March future on LIFFE was trading at 126.04, down 0.27 from Monday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - The dollar sector was quite active following a U.S. holiday on Monday. Three short-dated deals aimed at European investors were launched, as well as a Brazilian bank issue. French SNCF issued a $250 million August 2002 bond at 12 basis points over U.S. Treasury notes. Landesbank Schleswig-Holstein followed with a $200 million March 2001 deal which offered seven basis points over Treasuries and BNP launched a $200 million two-year bond at six basis points over.</p>
+<p>&quot;All the deals are very much on the tight side,&quot; said a trader at a European bank.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

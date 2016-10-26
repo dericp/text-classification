@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="600291" id="root" date="1997-05-20" xml:lang="en">
+<title>CYPRUS: Fugitive Asil Nadir leaves Cyprus for Turkey.</title>
+<headline>Fugitive Asil Nadir leaves Cyprus for Turkey.</headline>
+<dateline>NICOSIA 1997-05-20</dateline>
+<text>
+<p>Business tycoon Asil Nadir has flown to Turkey in his first trip out of his native north Cyprus since he fled there from British justice four years ago, an aide said on Tuesday.</p>
+<p>&quot;Asil Nadir has gone to sort out business interests in Turkey,&quot; Mehmet Ali Akpinar told Reuters. &quot;He will carry out various business meetings there,&quot; said Akpinar, editor and managing director of Nadir's Kibris newspaper.</p>
+<p>Nadir jumped bail in Britain in May, 1993 while awaiting trial on theft and false accounting charges related to the collapse of his Polly Peck business empire.</p>
+<p>Kibris said Nadir left the Turkish Cypriot enclave in north Cyprus on Monday afternoon in a Top Air jet and landed in Istanbul two hours later.</p>
+<p>The daily published a photograph of Nadir boarding the plane.</p>
+<p>Britain's Times newspaper said earlier this month that Serious Fraud Office policemen had been sent to Turkey to seek Nadir's arrest after reports that the businessman would fly to Istanbul.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

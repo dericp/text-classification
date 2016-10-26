@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="202833" id="root" date="1996-11-20" xml:lang="en">
+<title>USA: Hewlett-Packard moving workstation HQ.</title>
+<headline>Hewlett-Packard moving workstation HQ.</headline>
+<dateline>PALO ALTO, Calif. 1996-11-20</dateline>
+<text>
+<p>Hewlett-Packard Co said on Wednesday that it will move its workstation marketing and management functions to Fort Collins, Colorado from Chelmsford, Massachusetts.</p>
+<p>All 100 workstation systems division employees who hold marketing and management functions will be offered jobs in Colorado, the company said.  </p>
+<p>The company also said 100 employees in support service will be offered voluntary severance pay, or as an alternative will be guaranteed placement in another location of the company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="I3302003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-20"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-20"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-20"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="52768" id="root" date="1996-09-13" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia, Indonesia agree on marine boundary.</title>
+<headline>RTRS-Australia, Indonesia agree on marine boundary.</headline>
+<dateline>CANBERRA 1996-09-13</dateline>
+<text>
+<p>Indonesia and Australia have agreed on the maritime boundary between them, the Australian government said on Friday.</p>
+<p>&quot;The agreement effectively finalises the maritime boundaries between Australia and Indonesia,&quot; Foreign Affairs Minister Alexander Downer said in a statement.  </p>
+<p>&quot;The agreement will now be submitted to the Australian and Indonesian governments for formal approval,&quot; he said.</p>
+<p>Officials had agreed to the three outstanding unsettled boundaries:</p>
+<p>--The water column and seabed boundary between Christmas Island, in the Indian Ocean, and Java.</p>
+<p>--A western extension of the seabed boundary previously agreed to near Australia's Ashmore and Cartier islands.</p>
+<p>--The water column boundary between continental Australia and Indonesia.  </p>
+<p>The water column boundary applies to anything swimming in the water, whereas the seabed boundary relates to anything on or under the seabed.</p>
+<p>They can differ because it is convenient for the seabed boundary to follow geographical features, such as a trenchline, while the water boundary is best kept in straight lines for ships navigating on the surface.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-13"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-13"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-13"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

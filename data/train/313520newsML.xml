@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="313520" id="root" date="1997-01-16" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian yield curve flattens on jobs data.</title>
+<headline>RTRS-Australian yield curve flattens on jobs data.</headline>
+<dateline>SYDNEY 1997-01-16</dateline>
+<text>
+<p>---------------------------------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 47 (+ 05)    92 (+ 01) * FUTURES   100.5 (-3.5)</p>
+<p> CAD	187 (+ 08)    83 (+ 02) * CASH	88    (- 03)</p>
+<p> NZD	-40 (+ 02)   +12 (- 03) *</p>
+<p>----------------------------------------------------------</p>
+<p>Australian bond spreads ended mostly wider as the market weakened on news suggesting the labour market may not have been as subdued as previously reported.</p>
+<p>December employment rose by 4,500 and the unemployment rate was 8.6 percent, the Australian Bureau of Statistics said.</p>
+<p>While that was spot on market forecasts, bonds retraced some early gains as the market had become optimistic of receiving a weak report and had gone into the data long.</p>
+<p>The market retreated further, and the curve flattened, on a note from the ABS contained in the data that said a new survey method had seen employment growth underestimated by between 30,000 and 45,000 pieces in the five months to December.</p>
+<p>That underestimation compared with reported growth of 58,300, and economists said the data suggested the labour market was not as weak as had been previously thought, and may have fact been improving into the end of 1996.</p>
+<p>Accordingly, it lengthened the odds on a near term rate cut, and was bearish for the short end of the yield curve. The futures curve flattened towards 100 points, and analysts said a move otwards 90 points was not out of the question.</p>
+<p>The New Zealand market is waiting on the release of December quarter CPI on Friday. Market forecasts cetre on an annnual underlying rate of 2.15 percent, below the Reserve Bank of New Zealands 2.3 percent forecast.</p>
+<p>A number below expectations is expected to trigger a rally in the NZ market.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-01-16"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-01-16"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-01-16"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

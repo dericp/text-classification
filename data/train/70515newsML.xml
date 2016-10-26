@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70515" id="root" date="1996-09-23" xml:lang="en">
+<title>USA: U.S. milk production seen up slightly in 1997 - USDA.</title>
+<headline>U.S. milk production seen up slightly in 1997 - USDA.</headline>
+<dateline>WASHINGTON 1996-09-23</dateline>
+<text>
+<p>U.S. milk production will rise slightly in 1997, after dropping this year due to bad forage, weather problems and high grain prices, the Agriculture Department said Monday in a dairy outlook.</p>
+<p>USDA said milk production is projected to move above a year earlier in early 1997, and to increase about one percent for the year. However, USDA noted that this growth would bring milk output to only about the 1995 total.</p>
+<p>Record-high milk prices are expected to drop in 1997 by 50 cents to $1, the agency said.</p>
+<p>Retail dairy prices, which have risen all year in response to the smaller output, are estimated to rise six to seven percent in 1996, the first time since 1990 that dairy prices rose faster than the Consumer Price Index.</p>
+<p>In early 1997, increases in retail prices are expected to be large, but then more moderate. The 1997 average is projected to rise two to five percent from 1996.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-23"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="641901" id="root" date="1997-06-05" xml:lang="en">
+<title>TAIWAN: PRESS DIGEST - Taiwan newspapers - June 5.</title>
+<headline>PRESS DIGEST - Taiwan newspapers - June 5.</headline>
+<dateline>TAIPEI 1997-06-05</dateline>
+<text>
+<p>These are the leading stories in the Taiwan press on Thursday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>Newspaper headlines</p>
+<p>CHINA TIMES - Nationalist, Democratic Progressive parties sign agreement to cooperate in amending constitution</p>
+<p>Floods wreak havoc to central, southern Taiwan, one killed, two missing</p>
+<p>UNITED DAILY NEWS - Democratic Progressive Party faces imminent split due to internal rift over constitutional amendments, opponents demand resignation of party chief</p>
+<p>Fifty-thousand attend candlelight vigil in Hong Kong in memory of victims of 1989 crackdown at Beijing's Tiananmen</p>
+<p>LIBERTY TIMES - National Science Council issues white paper on state plan to develop Taiwan into technology centre</p>
+<p>COMMERCIAL TIMES - Cabinet to review proposal on imposing 10 percent tax on retained surplus gains</p>
+<p>Economic and trade activities to be axis of future Taiwan, Hong Kong relations</p>
+<p>ECONOMIC DAILY NEWS - Chinese Petroleum, Taiwan Sugar plan selloff of all their China Petrochemical shares</p>
+<p>Bank of Taiwan reduces interest rates on long-term time deposits</p>
+<p>-- Taipei Newsroom (5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-05"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-05"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

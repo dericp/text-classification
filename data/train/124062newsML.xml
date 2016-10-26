@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="124062" id="root" date="1996-10-17" xml:lang="en">
+<title>PORTUGAL: Portugal Jan-Aug current account deficit widens.</title>
+<headline>Portugal Jan-Aug current account deficit widens.</headline>
+<dateline>LISBON 1996-10-17</dateline>
+<text>
+<p>Portugal had an accumulated current account deficit of 528 billion escudos between January and August after a deficit of 421 billion in the same period of 1995, the Bank of Portugal said.</p>
+<p>Figures in billions of escudos:</p>
+<p>			 Jan-Aug  96  Jan-Aug  95  August 96 August 95</p>
+<p>    C/A balance	-528.0	-421.0	  35.1     63.9</p>
+<p>    Goods		-1,147	-1,165	 -113.7    -91.9</p>
+<p>    Services	    89.0	  127.4	  47.7	62.6</p>
+<p>Foreign investment</p>
+<p>    in Portugal	 888.4	 104.5	  -409.1    -100.4</p>
+<p>Portuguese investment</p>
+<p>    abroad		-453.1	-197.7	  17.2     -1.6</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

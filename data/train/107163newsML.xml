@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="107163" id="root" date="1996-10-10" xml:lang="en">
+<title>SOUTH AFRICA: MBEKI'S FATHER ADMITTED TO S.AFRICAN HOSPITAL - AIDE.</title>
+<headline>MBEKI'S FATHER ADMITTED TO S.AFRICAN HOSPITAL - AIDE.</headline>
+<dateline>CAPE TOWN 1996-10-10</dateline>
+<text>
+<p>Govan Mbeki, a close friend of President Nelson Mandela and father of his heir-apparent, Deputy President Thabo Mbeki, has been admitted to hospital with a chest ailment, an aide said on Thursday.</p>
+<p>Mbeki, 86, a senator for the largely rural Eastern Cape province where both he and Mandela grew up, took ill on Wednesday.</p>
+<p>&quot;Mr Mbeki is in hospital. He's got a respiratory ailment,&quot; an aide said, adding that he was expected to be discharged within two to three days.</p>
+<p>A former Rivonia trialist with Mandela, Govan Mbeki was tried and sentenced to life imprisonment on Robben Island in 1963 on charges of sabotage stemming from his opposition to apartheid, and eventually released in 1987.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-10"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE TOWN"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

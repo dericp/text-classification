@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="141756" id="root" date="1996-10-24" xml:lang="en">
+<title>GERMANY: German state of Bavaria details Oct cost of living.</title>
+<headline>German state of Bavaria details Oct cost of living.</headline>
+<dateline>MUNICH, Germany 1996-10-24</dateline>
+<text>
+<p>The Statistics Office in the west German state of Bavaria gave the following breakdown of its October cost of living data :</p>
+<p>						 Percentage change</p>
+<p> Index/component			   mth/mth   yr/yr    Index</p>
+<p> Overall price index		     unch	+1.4     114.4</p>
+<p> Rents					 +0.2	+3.0     127.3</p>
+<p> Household energy			  +9.7     +42.3     110.7</p>
+<p> Personal goods, services and other  -1.5	+0.9     122.2</p>
+<p> Transport and communications	  -0.1	+1.8     115.6</p>
+<p> Furniture and other household goods +0.1	+0.6     109.8</p>
+<p> Foodstuffs, drinks, tobacco	   -0.2	+0.5     107.8</p>
+<p> Clothing, shoes			   +0.2	+0.8     106.9</p>
+<p> Health and personal care items	 0.0	+1.7     114</p>
+<p> Education, entertainment, leisure   +0.1	+0.6     109.5</p>
+<p>--Frankfurt Newsroom +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-24"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-24"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-24"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

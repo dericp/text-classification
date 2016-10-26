@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="220592" id="root" date="1996-11-27" xml:lang="en">
+<title>INDIA: India's Lloyds 1996/97 1st half net down.</title>
+<headline>India's Lloyds 1996/97 1st half net down.</headline>
+<dateline>BOMBAY 1996-11-27</dateline>
+<text>
+<p>Six months to September 30,1996</p>
+<p>	     (in million rupees unless stated)</p>
+<p>    Net profit	 50.7    vs	389.4</p>
+<p>    Turnover	5,103.7    vs    3,809.2</p>
+<p>    Other income     32.4    vs	 14.6</p>
+<p>    Expenditure   4,054.0    vs    2,864.0</p>
+<p>    Interest	  801.9    vs	403.0</p>
+<p>    Depreciation    229.5    vs	167.4</p>
+<p>    Tax		  Nil     vs	 Nil</p>
+<p>Note: Steel maker Lloyds Steel Industries Ltd said increases in government-fixed prices of power, coal and fuel and the reduction in import duty on end products led to dumping of products by foreign firms, affecting its margins.</p>
+<p>-- Bombay newsroom 91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-27"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-27"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-27"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

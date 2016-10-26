@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="653920" id="root" date="1997-06-11" xml:lang="en">
+<title>USA: CMS Energy closing nuclear power plant.</title>
+<headline>CMS Energy closing nuclear power plant.</headline>
+<dateline>CHARLEVOIX, Mich. 1997-06-11</dateline>
+<text>
+<p>Consumers Energy, a unit of CMS Energy Corp, said Wednesday its Big Rock Point nuclear plant, located four miles east of Charlevoix, will permanently cease operations on August 30.</p>
+<p>The plant closure will have no impact on Consumers Energy's electric rates or service reliability in northern Michigan, it added.  </p>
+<p>The company said the Big Rock Point plant, which began operation in September 1962, is the nation's longest running and oldest operating nuclear plant. It was the first commercial nuclear power plant constructed in Michigan and the fifth in the United States, it added.</p>
+<p>&quot;Big Rock Point's relatively small generating capacity of 67 megawatts is likely to make it too expensive in an increasingly competitive environment,&quot; Michael Morris, Consumers Energy president, said in a statement. &quot;With only 36 months left on its operating license, improvements to the plant that would be needed to meet future regulatory requirements would be too expensive to be economical.&quot;</p>
+<p>The process to decommission the plant will begin in September. A decommissioning fund with a current balance of $170 million, together with future funds to be collected and future earnings, is expected to be adequate for further plant decommissioning expenses.</p>
+<p>No significant changes in plant staffing are anticipated until 1998, CMS said.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-11"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLEVOIX, Mich."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

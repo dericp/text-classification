@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="257642" id="root" date="1996-12-15" xml:lang="en">
+<title>USA: Clinton slips while jogging, appears unhurt.</title>
+<headline>Clinton slips while jogging, appears unhurt.</headline>
+<dateline>WASHINGTON 1996-12-15</dateline>
+<text>
+<p>President Bill Clinton slipped and fell to his knees while jogging along the banks of the Potomac River on Sunday morning, witnesses said, but added that he quickly resumed jogging and appeared unhurt.</p>
+<p>Clinton was about half way through a 30-minute jog when he slipped, grabbing onto a Secret Service agent running beside him to keep from falling.</p>
+<p>Witnesses said both men sank to their knees, but said the president quickly got up, began walking and then resumed jogging.</p>
+<p>Heavy rains over the past several days have made many parts of the Washington area soggy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-15"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-15"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-15"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

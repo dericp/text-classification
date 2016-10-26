@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="76957" id="root" date="1996-09-25" xml:lang="en">
+<title>AUSTRALIA: RTRS-Wool International sells Sydney Wool Centre.</title>
+<headline>RTRS-Wool International sells Sydney Wool Centre.</headline>
+<dateline>SYDNEY 1996-09-25</dateline>
+<text>
+<p>Wool International said on Wednesday it has sold its Sydney Wool Centre property for A$75 million to an investment syndicate.</p>
+<p>Proceeds from the sale of the warehouse, handling and sales facility would be set aside in Wool International's non-wool asset reserves, it said.</p>
+<p>Wool International said it would be leasing back space on the property to store wool.</p>
+<p>Wool International inherited ownership of the complex from the former Australian Wool Corp in 1991 after the collapse reserve price scheme.     -- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

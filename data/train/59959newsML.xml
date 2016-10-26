@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="59959" id="root" date="1996-09-17" xml:lang="en">
+<title>JAPAN: Nippon Oil 140,000 bpd topper to be closed on Wed.</title>
+<headline>Nippon Oil 140,000 bpd topper to be closed on Wed.</headline>
+<dateline>TOKYO 1996-09-17</dateline>
+<text>
+<p>Nippon Oil Co Ltd said on Tuesday it will close a 140,000 barrel-per-day (bpd) crude distillation unit (CDU) at its Negishi refinery in Yokohama on Wednesday for scheduled maintenance checks.</p>
+<p>Nippon Oil plans to bring the facility, one of the four CDUs at Japan's largest refinery with a total crude processing capacity of 385,000 bpd, back on line on October 28, a company spokesman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-17"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-17"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-17"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

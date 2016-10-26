@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="355778" id="root" date="1997-02-04" xml:lang="en">
+<title>JAPAN: Nippon Sheet Glass unit to set up firm in China.</title>
+<headline>Nippon Sheet Glass unit to set up firm in China.</headline>
+<dateline>TOKYO 1997-02-04</dateline>
+<text>
+<p>Nippon Sheet Glass Co Ltd said on Tuesday that its subsidiary, Nippon Glass Fiber Co Ltd, would set up a firm in the Chinese city of Tianjin later this month to make glass fibre sheets for use in batteries.</p>
+<p>The new firm, Tianjin NGF Glass Fiber Co Ltd, would be capitalised at 800 million yen and have an annual production capacity of 1,200 tonnes, the company said in a statement.</p>
+<p>It said the new firm would aim for annual sales of one billion yen after three years in operation.</p>
+<p>The company decided on the move as demand for back-up batteries for computers and telecommunication systems was expected to rise in China, the statement said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-02-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

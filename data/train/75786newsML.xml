@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="75786" id="root" date="1996-09-25" xml:lang="en">
+<title>USA: Plains feedlot cattle not trading - feedlots.</title>
+<headline>Plains feedlot cattle not trading - feedlots.</headline>
+<dateline>CHICAGO 1996-09-25</dateline>
+<text>
+<p>U.S. Plains direct cattle markets near midday Wednesday remained quiet, with no sales of slaughter steers or heifers reported, feedlot sources said.</p>
+<p>Packer bids were reported at $70.00 per cwt but cattle owners continued to ask a solid $72.00, with a few at $73.00.</p>
+<p>The $72.00 bid matched the bulk of last week's moderate sales, they said.</p>
+<p>&quot;They (packers) know its going to take $72.00 to $73.00 to buy cattle, but I don't think it will happen until Thursday, unless someone wants to jump ahead of the crowd,&quot; one Panhandle feedlot operator said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

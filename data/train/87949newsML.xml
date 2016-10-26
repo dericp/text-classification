@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="87949" id="root" date="1996-10-01" xml:lang="en">
+<title>HUNGARY: Hungary one-month T-bill yield drops to 22.25 pct.</title>
+<headline>Hungary one-month T-bill yield drops to 22.25 pct.</headline>
+<dateline>BUDAPEST 1996-10-01</dateline>
+<text>
+<p>The average annual yield on the latest issue of Hungary's one-month discount treasury bills was set by auction at 22.25 percent, down from 22.27 percent at an auction one week ago, the Government Debt Management Agency (AKK) said on Tuesday  HTBM.</p>
+<p>    Total on offer	     1,000 million forints</p>
+<p>    Total bids received	1,902.65 million forints</p>
+<p>    Total allocated	    1,000 million forints</p>
+<p>    Total issued		 1,000 million forints</p>
+<p>    Average annual yield	    22.25 pct</p>
+<p>    Average price		     98.3218 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-01"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-01"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-01"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

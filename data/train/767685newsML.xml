@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="767685" id="root" date="1997-07-30" xml:lang="en">
+<title>JAPAN: Daiwa shares ask-only, Nikko shares fall on TSE.</title>
+<headline>Daiwa shares ask-only, Nikko shares fall on TSE.</headline>
+<dateline>TOKYO 1997-07-30</dateline>
+<text>
+<p>Shares of Daiwa Securities Co Ltd were ask-only and those of Nikko Securities Co Ltd were lower on the Tokyo Stock Exchange early on Wednesday morning following a newspaper report saying they made suspect deals for a &quot;sokaiya&quot; corporate racketeer.</p>
+<p>Daiwa shares were ask-only at 845 yen at 0011 GMT against 865 yen at Tuesday's close.</p>
+<p>By 0016 GMT, Nikko shares were down 26 yen at 665 yen.  </p>
+<p>On Wednesday, the Japanese business daily Nihon Keizai Shimbun quoted what it said were sources close to the case as saying that Daiwa provided about 200 million yen to racketeer Ryuichi Koike through illegal deals around 1993 to offset some of his stock trading losses.</p>
+<p>The paper also said that Nikko may have also done illegal deals for Koike, a key figure in the high-profile payoff scandal which also involves Nomura Securities Co Ltd and Dai-Ichi Kangyo Bank.</p>
+<p>Earlier on Wednesday, NHK television reported that Tokyo prosecutors had begun searching the headquarters of Yamaichi Securities Co Ltd over its suspect payment to Koike.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-07-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-07-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-07-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

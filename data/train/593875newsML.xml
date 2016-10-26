@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="593875" id="root" date="1997-05-19" xml:lang="en">
+<title>USA: Illinois House rejects incinerator subsidy plans.</title>
+<headline>Illinois House rejects incinerator subsidy plans.</headline>
+<dateline>CHICAGO 1997-05-19</dateline>
+<text>
+<p>Illinois state representatives rejected a bill to provide at least $213 million of subsidies to one suburban Chicago waste-to-energy incinerator and took no action on proposals that could benefit another.</p>
+<p>Representatives late Friday first eliminated language providing 25 years of subsidies to a now-shuttered and partly bond-financed incinerator in south suburban Ford Heights and then rejected a shell bill that had served as its vehicle, said Alexander Ewing, staff attorney for the Environmental Law &amp; Policy Center, which opposed the plan.</p>
+<p>The bill called for the CGE Ford Heights facility to receive $1 for each tire burned and 3.3 center for each kilowatt hour of electricity generated, totalling about $213 million over the proposed 25-year period, Ewing said.</p>
+<p>The bill's sponsor, Rep. Michael Giglio, D-Lansing, has said he proposed the subsidy to get the Ford Heights facility operating.</p>
+<p>The plant had been in the testing phase when lawmakers repealed a state subsidy last year that guaranteed a higher rate for electricity sold to public utilities. The Ford Heights facility proved unviable without the subsidy.</p>
+<p>CGE Ford Heights had financed the incinerator with $79.6 million of bonds sold through the Illinois Development Finance Authority in 1994. A federal bankruptcy court agreement between the developer and bondholders allows for interest rate payments only on the bonds through Oct. 1.</p>
+<p>Lawmakers also failed to act on another proposal to benefit the Ford Heights facility and one in neighboring Robbins developed by Foster Wheeler Corp before last week's deadline for amendments.</p>
+<p>Proposals could still be tacked onto conference committee reports this week, however. Lawmakers hope to wrap up the session by the end of the week, but could work until the end of May before state constitutional limits would make it hard to obtain supermajority votes needed to pass most proposals.</p>
+<p>The Robbins incinerator was forced into a temporary shutdown earlier this month when a construction permit allowing operation for a 180-day startup period expired.</p>
+<p>Illinois Environmental Protection Agency set a June 2 deadline to determine if the incinerator will receive an operating permit.</p>
+<p>In the interim, the Robbins incinerator may not burn waste, and may only receive municipal waste from 12 municipalities with which it has contracted. The incinerator may manually process the waste, store and repack it for transportation to a facility allowed to receive it, under an Illinois Pollution Control Board order.</p>
+<p>((--David Bailey, 312-408-8647))</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="I92110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-19"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-05-19"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-19"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

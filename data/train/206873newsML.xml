@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="206873" id="root" date="1996-11-21" xml:lang="en">
+<title>USA: Montedison says will cooperate with SEC.</title>
+<headline>Montedison says will cooperate with SEC.</headline>
+<dateline>WASHINGTON 1996-11-21</dateline>
+<text>
+<p>Montedison SpA, the Italian conglomerate charged Thursday by U.S. regulators with accounting fraud, said it will continue to cooperate with the Securities and Exchange Commission.</p>
+<p>In a statement issued by its legal counsel in Cincinnati, Ohio, the company said it will also seek to resolve the litigation promptly.</p>
+<p>&quot;Although the company has not yet had the opportunity to read and review the complaint, Montedison believes that the only material disagreement between the company and the SEC involves the amount of civil monetary award and the appropriateness of an injunction,&quot; it said.</p>
+<p>Because the company has cooperated with the SEC, Montedison said it believes the SEC is not entitled to levy fines or equitable relief.</p>
+<p>It said the lawsuit was based upon widely reported events about Montedison's financial statements that were discovered and disclosed over three years ago and based on the conduct of former managers who left or had been discharged.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-21"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-21"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-21"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

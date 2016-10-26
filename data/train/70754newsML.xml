@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="70754" id="root" date="1996-09-23" xml:lang="en">
+<title>INDIA: India RBI weekly statistics on banks.</title>
+<headline>India RBI weekly statistics on banks.</headline>
+<text>
+<p>(Amounts in billion rupees)</p>
+<p>					     1996	     1995</p>
+<p>				     Aug 30    Aug 16    Sept 1</p>
+<p>Item				 Amount    Amount    Amount</p>
+<p>Liabilities to others</p>
+<p>Aggregate deposits	    4,729.41  4,698.70  4,023.95</p>
+<p>Demand				799.25    798.52    694.86</p>
+<p>Time				3,930.16  3,900.19  3,329.09</p>
+<p>Borrowings			    5.76	8.69	6.29</p>
+<p>Other demand and time liab    298.55    287.03    274.52</p>
+<p>Investments		     1,810.00  1,791.61  1,598.35</p>
+<p>Government securities	 1,478.13  1,459.63  1,269.86</p>
+<p>Other approved securities     331.87    331.98    328.49</p>
+<p>Bank Credit		     2,688.63  2,687.05  2,285.53</p>
+<p>Loans cash-credit &amp; O.D     2,416.11  2,421.01  2,045.21</p>
+<p>Inland bills - purchased	 40.58     41.15     39.43</p>
+<p>		  discounted	 91.35     87.16     62.76</p>
+<p>Foreign bills - purchased	84.02     79.59     79.95</p>
+<p>		    discounted     56.57     58.14     58.19</p>
+<p>Note-Data sourced from the Reserve Bank of India's weekly statistical supplement dated Sept 21,1996.</p>
+<p>-- Bombay money desk +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-23"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-23"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

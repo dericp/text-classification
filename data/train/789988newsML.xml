@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="789988" id="root" date="1997-08-10" xml:lang="en">
+<title>AUSTRALIA: Australian PM back at work after bout of pneumonia.</title>
+<headline>Australian PM back at work after bout of pneumonia.</headline>
+<dateline>CANBERRA 1996-08-11</dateline>
+<text>
+<p>Australian Prime Minister John Howard returned to work on Monday after a three week bout of pneumonia to face a tough time, with a national brawl over tax and mounting pressure to tackle a chronic jobless problem.</p>
+<p>Cabinet begins a two-day meeting on Monday looking at tax reform, unemployment, industry policy, help for Thailand to weather its current financial crisis and may also consider changes to media ownership limits, officials said.</p>
+<p>Official data on Thursday showed unemployment rose to 8.7 percent in July from 8.5 percent a month earlier. The jobless rate has remained above 8.5 percent since Howard's conservative Liberal-National coalition won office in March 1996.</p>
+<p>Australia's largest industry association warned on Sunday that up to 100,000 full-time jobs were at risk unless radical changes were made to government policies affecting investment and job creation.</p>
+<p>A government report released last month also urged more government incentives for business to fuel economic growth and boost industry. Howard is expected to announce the government's response to the recommendations later this year.</p>
+<p>Cabinet will also discuss the government's push for a radical overhaul of the outdated and complex tax system, a campaign given added impetus by last week's High Court ruling outlawing A$5.0 billion (US$3.6 billion) in state and territory taxes on alcohol, tobacco and petrol.</p>
+<p>The national government has agreed to levy the taxes on behalf of the six states and two territories, but the provincial governments are embroiled in a row with the industries over claims of double-taxing and how the new taxes are to be applied without pushing up prices in some areas.</p>
+<p>Howard appeared fit and well as he drove into parliament house, smiling and waving at waiting television cameras.</p>
+<p>But he is refusing all interview requests because he is not yet fully recovered, his office said.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-08-10"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-08-11"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-08-10"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

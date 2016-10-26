@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="85612" id="root" date="1996-09-30" xml:lang="en">
+<title>INDIA: Indian August vehicle production rises.</title>
+<headline>Indian August vehicle production rises.</headline>
+<dateline>NEW DELHI 1996-09-30</dateline>
+<text>
+<p>Indian production of trucks and cars rose in August compared to same month in 1995, the Association of Indian Automobile Manufacturers (AIAM) said in a monthly statement on Monday.  </p>
+<p>   AUTOMOBILE PRODUCTION &amp; SALES	  (number of units)</p>
+<p>   Category			PRODUCTION</p>
+<p>		   Aug 96  Jul 96  Aug 95  Apr-Aug 96  Apr-Aug 95</p>
+<p>   TRUCKS	25,314  25,669  20,497    118,863	97,492</p>
+<p>   CARS	  31,587  34,296  28,389    160,148     131,325</p>
+<p>   2-WHEELERS 265,830 277,304 218,107  1,265,613   1,031,483</p>
+<p>					 SALES</p>
+<p>		   Aug 96  Jul 96  Aug 95  Apr-Aug 96  Apr-Aug 95</p>
+<p>   TRUCKS	24,389  24,669  20,580    112,706	93,571</p>
+<p>   CARS	  31,822  35,139  27,333    158,204     128,222</p>
+<p>   2-WHEELERS 245,412 267,100 210,198  1,216,361   1,015,254</p>
+<p>Source: Association of Indian Automobile Manufacturers</p>
+<p>--New Delhi Newsroom +91-11-301-2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="I35102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-30"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-30"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-30"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

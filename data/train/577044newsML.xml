@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="577044" id="root" date="1997-05-12" xml:lang="en">
+<title>USA: CUSIPS -- St. Louis IDA, Mo..</title>
+<headline>CUSIPS -- St. Louis IDA, Mo..</headline>
+<text>
+<p>INDUSTRIAL DEVELOPMENT AUTHORITY OF</p>
+<p>RE: $2,850,000</p>
+<p>CITY OF ST. LOUIS, MO ELDERLY HOUSING REVENUES</p>
+<p>CENTENARY TOWERS APARTMENTS</p>
+<p>This issue is book entry through DTC.</p>
+<p>     Delivery:	     05/29/1997 (Firm)</p>
+<p>     Initial trade:	05/12/1997</p>
+<p>	     MATURITY			     CUSIP</p>
+<p>	     --------			     -----</p>
+<p>	    10/01/1997			  79164RAA4</p>
+<p>	    04/01/1998			  79164RAB2</p>
+<p>	    10/01/1998			  79164RAC0</p>
+<p>	    04/01/1999			  79164RAD8</p>
+<p>	    10/01/1999			  79164RAE6</p>
+<p>	    04/01/2000			  79164RAF3</p>
+<p>	    10/01/2000			  79164RAG1</p>
+<p>	    04/01/2001			  79164RAH9</p>
+<p>	    10/01/2001			  79164RAJ5</p>
+<p>	    04/01/2002			  79164RAK2</p>
+<p>	    10/01/2002			  79164RAL0</p>
+<p>	    04/01/2003			  79164RAM8</p>
+<p>	    10/01/2003			  79164RAN6</p>
+<p>	    04/01/2004			  79164RAP1</p>
+<p>	    10/01/2004			  79164RAS5</p>
+<p>	    04/01/2005			  79164RAT3</p>
+<p>	    10/01/2005			  79164RAU0</p>
+<p>	    04/01/2014			  79164RAQ9</p>
+<p>	    04/01/2019			  79164RAR7</p>
+<p>A.G. Edwards &amp; Sons, Inc.</p>
+<p>Llama Company</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-05-12"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-05-12"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

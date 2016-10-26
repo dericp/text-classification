@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="92358" id="root" date="1996-10-02" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian bond curve flattens to month low.</title>
+<headline>RTRS-Australian bond curve flattens to month low.</headline>
+<dateline>SYDNEY 1996-10-02</dateline>
+<text>
+<p>---------------------------------------------------------</p>
+<p> AUD VS   3-YR	   10-YR	* AUD 3-YR/10-YR SPREAD</p>
+<p> USD	 76 (+ 03)   107 (unch) * FUTURES   67   (- 04)</p>
+<p> CAD	154 (+ 04)    65 (- 01) * CASH	75   (- 05)</p>
+<p> NZD	-91 (+ 14)   -24 (+ 03) *</p>
+<p>---------------------------------------------------------</p>
+<p>The Australian futures curve closed at its flattest level since early September after the short end of the curve weakened when bullish expectations that a rate cut would be announced were disappointed.  </p>
+<p>It was the flattest close since September 6. Since then the curve has held mostly above 70 points,</p>
+<p>Spreads to offshore bonds narrowed at the open of trade as the market soared to 2-1/2 year highs, but bonds soon ran into profit-taking and were further dented by the absence of the rate cut, and spreads to offshore bonds widened.</p>
+<p>Long bonds received some late support, seeing their spreads close flat on the day, while the short end spreads remained wider through the afternoon.  </p>
+<p>However, as a rate cut remains well factored into the market, traders said despite today's pullback spreads should remain well supported.</p>
+<p>The reduction in the premium to NZ bonds was accentuated by the continuing rumours of samurai issues into that market.</p>
+<p>-- Sydney newsroom 61-2 9373 1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

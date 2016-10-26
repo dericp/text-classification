@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="632017" id="root" date="1997-06-02" xml:lang="en">
+<title>GREECE: ALPHA CREDIT BANK KEEPS PRIME RATE UNCHANGED.</title>
+<headline>ALPHA CREDIT BANK KEEPS PRIME RATE UNCHANGED.</headline>
+<dateline>ATHENS 1997-06-02</dateline>
+<text>
+<p>Greece's Alpha Credit Bank will keep its prime rate for working capital and fixed asset loans unchanged at 12.50 percent effective Monday, it said in a statement.</p>
+<p>Alpha Credit, which reviews its rates weekly, said the maximum add-on would remain unchanged at 3.5 percent.</p>
+<p>Its adjustable mortgage mortgages were steady at 13 percent.</p>
+<p>The bank launched 15-year mortgages in October 1995 with rates set at 12.0 percent for the first five years. Rates on these mortgages currently stand at 10.50 percent. --Angelos Kiosklis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

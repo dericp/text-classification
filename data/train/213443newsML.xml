@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="213443" id="root" date="1996-11-25" xml:lang="en">
+<title>USA: Computer Power Inc Q3 loss vs profit.</title>
+<headline>Computer Power Inc Q3 loss vs profit.</headline>
+<dateline>HIGH RIDGE, N.J. 1996-11-25</dateline>
+<text>
+<p>1996			  1995</p>
+<p> Shr loss		   $0.36   profit	 $0.02</p>
+<p> Net loss		     936   profit	    51</p>
+<p> Revs			 3,244		    3,244</p>
+<p>					 9  MONTHS</p>
+<p> Shr loss		   $0.50   profit	 $0.11</p>
+<p> Net loss		   1,290   profit	   286</p>
+<p> Revs			 8,698		   10,117</p>
+<p>(All Data Above 000s Except Per Share Numbers)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-11-25"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-25"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-11-25"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HIGH RIDGE, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

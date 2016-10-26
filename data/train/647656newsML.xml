@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="647656" id="root" date="1997-06-09" xml:lang="en">
+<title>BELGIUM: BELGIAN PM TO MEET BRITAIN'S BLAIR ON TUESDAY.</title>
+<headline>BELGIAN PM TO MEET BRITAIN'S BLAIR ON TUESDAY.</headline>
+<dateline>BRUSSELS 1997-06-09</dateline>
+<text>
+<p>Belgian Prime Minister Jean-Luc Dehaene is due to meet newly-elected British Prime Minister Tony Blair in London on Tuesday as part of preparations for next week's intergovernmental conference, Dehaene's office said on Monday.</p>
+<p>The meeting was scheduled to begin at 11:30 a.m. (1230 GMT) and last for about an hour, Dehaene's spokeswoman said. It was part of Dehaene's efforts to meet new colleagues before the IGC summit of European Union leaders in Amsterdam.</p>
+<p>Over the weekend Dehaene met his newly appointed French counterpart Lionel Jospin to talk about Europe, but also to find out his stance on French carmaker Renault's plans to close a plant in Belgium with thousands of job losses.</p>
+<p>Dehaene's meeting with Blair comes amid turmoil over the EU's planned single currency and the bloc's stability pact, an integral part of its plans for economic and monetary union.</p>
+<p>France's new left-wing government has asked for time to study the previously agreed pact which is to ensure budget deficits are kept in check after the currency is launched, sparking concern about a delay to EMU due to start in 1999.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-09"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-09"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

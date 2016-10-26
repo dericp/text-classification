@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="636258" id="root" date="1997-06-04" xml:lang="en">
+<title>CANADA: One killed, 30 injured in Ontario hospital fire.</title>
+<headline>One killed, 30 injured in Ontario hospital fire.</headline>
+<dateline>TORONTO 1997-06-04</dateline>
+<text>
+<p>One person was killed and more than 30 injured Wednesday in a fire at a hospital north of Toronto, fire officials said.</p>
+<p>&quot;We have one confirmed fatality, one person severely burned and six people with smoke inhalation. But the ambulance staff say they are treating over 30 others. I don't know the severity (of their injuries) though,&quot; North York Fire Chief Frank Lamie said in a telephone interview.</p>
+<p>He said more than 100 patients were evacuated from the hospital after the fire was discovered at about 7 a.m. EDT in the chronic-care wing of Sunnybrook Health Sciences Centre in North York, a suburb of Toronto. The wing houses mostly war veterans.</p>
+<p>The fire was extinguished after about 10 minutes, Lamie said. The cause of the fire was being investigated.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-06-04"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1997-06-04"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-06-04"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

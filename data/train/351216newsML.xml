@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="351216" id="root" date="1997-02-03" xml:lang="en">
+<title>USA: Rockwell to begin producing high-speed modem chips.</title>
+<headline>Rockwell to begin producing high-speed modem chips.</headline>
+<dateline>NEWPORT BEACH, Calif.</dateline>
+<text>
+<p>Rockwell International Corp. said Monday it will begin production of its high-speed K56 modem chipsets as scheduled this month, and it expects the first modems using the chips to be in stores in March.</p>
+<p>The chips allow Internet users to connect to the Internet over conventional telephone lines at almost twice current speeds.</p>
+<p>Rockwell, based in Newport Beach, Calif., said demand for early samples of its K56 chips has been strong and it has shipped samples to more than 130 customers.</p>
+<p>The company said it expects 135 of its customers to deploy the K56 chipsets by the end of the year. Rockwell's customers serve more than 70 percent of the worldwide market for modems used by consumers and 60 percent of the worldwide market for modems used by Internet service providers.</p>
+<p>By mid-1997, our customers expect that they will have deployed several million K56 connections throughout the nation,&quot; said Dwight Decker, Rockwell Semiconductor Systems president.</p>
+<p>Decker said the company expects modems using the K56 chip to sell for about $200 each in stores in March.</p>
+<p>&quot;By June I would expect there be between two, three, four million units already deployed in the field,&quot; he said.</p>
+<p>The new Rockwell technology will compete with &quot;x2&quot; modems being launched by rival U.S. Robotics Corp. The two technologies are not compatible, which means on-line service providers may have to offer separate access numbers for users.</p>
+<p>&quot;It may be confusing for some of these end users and that's unfortunate,&quot; Decker said. &quot;Some of the individual network providers may need to support both technologies to get their subscribers the service that they want.&quot;</p>
+<p>Rockwell's stock rose 75 cents to close at $66.50 on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1997</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1997-02-03"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1997-02-03"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWPORT BEACH, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

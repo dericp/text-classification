@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="110445" id="root" date="1996-10-11" xml:lang="en">
+<title>KAZAKHSTAN: Turkmen-Iran gas pipeline construction underway.</title>
+<headline>Turkmen-Iran gas pipeline construction underway.</headline>
+<dateline>ALMATY, Kazakhstan</dateline>
+<text>
+<p>Construction of a gas pipeline linking the Central Asian state of Turkmenistan and neighbouring Iran has begun, a Turkmen government official said Friday.</p>
+<p>&quot;Work began on Thursday on the pipeline and Iranian Oil Minister Gholamreza Aghazadeh was present,&quot; said a spokesman for the Turkmen Foreign Ministry in the Turkmen capital Ashgabat.</p>
+<p>Turkmenistan aims to deliver 280 billion cubic feet a year of natural gas to Iran by 2000.</p>
+<p>The pipeline, 120 miles in length, will run from the Korpedzhe gas field in western Turkmenistan to Kurt-Kui in northern Iran.</p>
+<p>Work on the $190 million project, 80 percent financed by Tehran, is scheduled for completion at the end of 1997.</p>
+<p>Turkmen President Saparmurat Niyazov has said that the Turkmen-Iranian pipeline is the first link in a project to bring Turkmen gas to markets in Turkey and Europe.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="KAZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="TURKM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="I5020043">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-11"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-11"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALMATY, Kazakhstan"/>
+<dc element="dc.creator.location.country.name" value="KAZAKHSTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

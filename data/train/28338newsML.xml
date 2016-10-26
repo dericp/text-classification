@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="28338" id="root" date="1996-09-02" xml:lang="en">
+<title>PHILIPPINES: Philippines reopens termed reverse repo windows.</title>
+<headline>Philippines reopens termed reverse repo windows.</headline>
+<dateline>MANILA 1996-09-02</dateline>
+<text>
+<p>The Philippine Central Bank said on Monday it had reopened its termed reverse repo facilities.</p>
+<p>The Central Bank had withdrawn its termed reverse repos last Thursday.</p>
+<p>Its one-month reverse repos were being offered at 11.25 percent.</p>
+<p>The two-month reverse repos were at 11.375 percent, and the three-month reverse repos at 11.5 percent.  </p>
+<p>The bank also reduced the yields on its special series Treasury bills.</p>
+<p>The 72-day and the 79-day bills were being offered at 11.55 percent from 11.6 percent last Friday, while the 86-day bills were being sold at 11.6 percent from 11.65 percent.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-09-02"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-09-02"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-09-02"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
