@@ -1,11 +1,10 @@
 package com.gmail.pderichai.text.classification
 
-import scala.collection._
 
 class NaiveBayes {
   // Copied Isa's code, doesn't quite compile
 
-  def probC(category: Category): Double = {
+  /*def probC(category: Category): Double = {
     // need a collection of documents, this is mock
     val documents = immutable.Seq.empty
     category.documents.size / documents.size.toDouble
@@ -31,6 +30,6 @@ class NaiveBayes {
     val categories = immutable.Seq.empty
     val categoryProbs = categories.map(c => (c, log(probC(c)) + logPDC(document, c)))
     categoryProbs.maxBy(_._2)._1
-  }
+  }*/
 
 }
