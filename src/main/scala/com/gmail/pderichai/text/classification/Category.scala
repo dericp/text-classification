@@ -1,4 +1,4 @@
-
+package com.gmail.pderichai.text.classification
 
 class Category {
   var termFrequencies = scala.collection.mutable.Map.empty[String, Int];

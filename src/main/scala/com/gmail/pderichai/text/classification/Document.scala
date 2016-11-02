@@ -1,3 +1,5 @@
+package com.gmail.pderichai.text.classification
+
 import ch.ethz.dal.tinyir.processing.XMLDocument
 
 /**
