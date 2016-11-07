@@ -1,10 +1,8 @@
+package com.gmail.pderichai.text.classification
+
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
-import ch.ethz.dal.tinyir.processing.{ReutersRCVParse, Tokenizer, XMLDocument}
-import com.gmail.pderichai.text.classification.Document
 
-import scala.collection.mutable
-
-object HelloWorld {
+object Main {
 
   def main(args: Array[String]): Unit = {
 
@@ -24,11 +22,6 @@ object HelloWorld {
 
     var docs = scala.collection.mutable.Set.empty[Document]
     var categories = scala.collection.mutable.Map.empty
-
-    for (doc <- docStream) {
-      docs.new Document(doc)
-
-    }
 
     /*val doc = docIter.next()
     println(doc.codes.toString())
