@@ -12,9 +12,9 @@ object Main {
 
     // Train documents for Naive Bayes
     // val reuters = new ReutersRCVStream("src/main/resources/train")
-    val trainingDocStream1 = new ReutersRCVStream("src/main/resources/train").stream
-    val trainingDocStream2 = new ReutersRCVStream("src/main/resources/train").stream
-    val trainingDocStream3 = new ReutersRCVStream("src/main/resources/train").stream
+    val trainingDocStream1 = new ReutersRCVStream("src/main/resources/confused").stream
+    val trainingDocStream2 = new ReutersRCVStream("src/main/resources/confused").stream
+    val trainingDocStream3 = new ReutersRCVStream("src/main/resources/confused").stream
     val doc = trainingDocStream3.iterator.next()
 
 
