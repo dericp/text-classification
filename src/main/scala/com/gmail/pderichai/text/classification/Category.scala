@@ -13,5 +13,4 @@ class Category(val categoryCode: String) {
       termFreq(term) = termFreq.getOrElse(term, 0) + doc.termFreq.getOrElse(term, 0)
     }
   }
-
 }
