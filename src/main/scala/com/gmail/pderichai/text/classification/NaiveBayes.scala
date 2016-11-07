@@ -1,35 +1,32 @@
 package com.gmail.pderichai.text.classification
+import scala.collection.mutable
+//import com.gmail.pderichai.text.classification.Document
+//import com.gmail.pderichai.text.classification.Category
 
-
-class NaiveBayes {
-  // Copied Isa's code, doesn't quite compile
-
-  /*def probC(category: Category): Double = {
-    // need a collection of documents, this is mock
-    val documents = immutable.Seq.empty
-    category.documents.size / documents.size.toDouble
+class NaiveBayes(docCollection: mutable.Set[Document], docCodes: mutable.Map[String, Category]) {
+  def probC(category: Category): Double = {
+    category.documents.size / docCollection.size.toDouble
   }
 
   def probWC(word: String, category: Category): Double = {
     val dc = category.documents
-    val numerator = dc.map(_.termFrequencies.getOrElse(word, 0) + 1).sum
-    val vocabSize = dc.flatMap(_.termFrequencies.keys).distinct.size
+    val numerator = dc.map(_.termFreq.getOrElse(word, 0) + 1).sum
+    val vocabSize = dc.flatMap(_.termFreq.keys).distinct.size
     val denominator = dc.map(_.length).sum + vocabSize
     numerator / denominator.toDouble
   }
 
-
   def logPDC(document: Document, category: Category): Double = {
-    val tf = document.termFrequencies
+    val tf = document.termFreq
     val pwc = tf.keys.map(w => (w, probWC(w, category))).toMap
-    pwc.map{ case(k, v) => tf.getOrElse(k, 0) * log(v) }.sum
+    pwc.map{ case(k, v) => tf.getOrElse(k, 0) * Math.log(v) }.sum
   }
 
-  def bayesMain(document: Document): Category = {
+  // TODO: change this method to return a list of top k codes
+  // Returns the Category with the highest probability
+  def bayesMain(document: Document): String = {
     // need the collection of docs, this is mock
-    val categories = immutable.Seq.empty
-    val categoryProbs = categories.map(c => (c, log(probC(c)) + logPDC(document, c)))
+    val categoryProbs = docCodes.map{case(name, code) => (name, Math.log(probC(code)) + logPDC(document, code))}
     categoryProbs.maxBy(_._2)._1
-  }*/
-
+  }
 }

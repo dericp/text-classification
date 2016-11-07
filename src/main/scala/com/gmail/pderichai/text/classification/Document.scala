@@ -10,6 +10,7 @@ class Document(val XMLDoc: XMLDocument) {
   val tokens = Tokenizer.tokenize(XMLDoc.content)
   val termFreq = tokens.groupBy(identity).mapValues(l => l.length)
   val length = termFreq.map(_._2).sum
+  val codes = XMLDoc.codes
 
 
 
