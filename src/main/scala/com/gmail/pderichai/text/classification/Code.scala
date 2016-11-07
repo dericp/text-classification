@@ -2,7 +2,7 @@ package com.gmail.pderichai.text.classification
 
 import scala.collection.mutable.ListBuffer
 
-class Category(val categoryCode: String) {
+class Code(val categoryCode: String) {
 
   var termFreq = scala.collection.mutable.Map.empty[String, Int]
   var documents = new ListBuffer[Document]()
