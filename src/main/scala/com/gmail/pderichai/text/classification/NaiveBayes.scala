@@ -44,11 +44,15 @@ object NaiveBayes {
     groupedTks.mapValues(l=>(l.length + 1) / sum + (groupedTks.keySet.size))
   }
 
-  def probOfDocGivenCat(docs1: Stream[XMLDocument], docs2: Stream[XMLDocument], doc: XMLDocument, cat: String): Double = {
-    val probOfWGivenC = probOfWGivenCMany(docs1, cat)
-    val probOfC = probC(docs2, cat)
+  def probOfDocGivenCat(docs: Stream[XMLDocument], doc: XMLDocument, cat: String): Double = {
+    val probOfWGivenC = probOfWGivenCMany(docs, cat)
+    val probOfC = probC(docs, cat)
     val tokens = Tokenizer.tokenize(doc.content)
     val termFreq = tokens.groupBy(identity).mapValues(l => l.length)
     Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenC(term)))}.values.sum
+  }
+
+  def topCodeForDoc(codes: Set[String], docs: Stream[XMLDocument], doc: XMLDocument): String = {
+    codes.map{case(code) => (code, probOfDocGivenCat(docs, doc, code))}.maxBy(_._2)._1
   }
 }
