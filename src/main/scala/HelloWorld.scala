@@ -5,6 +5,24 @@ import scala.collection._
 object HelloWorld {
 
 
+  def parseDoc(filePath: String): Unit = {
+    val document = Source.fromFile(filePath).mkString.split("[ .,;:?!\t\n\r\f]+")
+    val termFrequencies = document.groupBy(identity).mapValues(_.length)
+    val docLength = termFrequencies.map(_._2).sum
+    //val categories = get categories
+    val vocabSize = termFrequencies.size
+
+  }
+
+  def parseTopicCodes(): Unit = {
+    val filePath = "src/main/resources/codes/topic_codes.txt"
+    val document = Source.fromFile(filePath).getLines().filter(!_.startsWith(";"))
+    for (line <- document) {
+      val code = line.split('\t')(0)
+    }
+  }
+
+
   // naive bayes
 
   def probC(category: Category): Double = {

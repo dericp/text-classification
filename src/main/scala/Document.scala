@@ -1,11 +1,12 @@
-import scala.io.Source;
+import scala.io.Source
 
 class Document (val filePath: String) {
   // , var prevCategories: scala.collection.mutable.Map[String, Category]
-  var categories = scala.collection.mutable.LinkedList.empty[String];
-  
-  private val document = Source.fromFile(filePath).mkString.split("[ .,;:?!\t\n\r\f]+");
-  var termFrequencies = document.groupBy(identity).mapValues(l => l.length);
+  var categories = scala.collection.mutable.Seq.empty[String];
+
+  //i think this should be done outside so we don't store this entire document in the object -i
+  private val document = Source.fromFile(filePath).mkString.split("[ .,;:?!\t\n\r\f]+")
+  var termFrequencies = document.groupBy(identity).mapValues(_.length);
   var length = termFrequencies.map(_._2).sum;
   
   println("length " + length)
