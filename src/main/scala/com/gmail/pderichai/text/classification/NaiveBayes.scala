@@ -32,23 +32,30 @@ import scala.collection.mutable
 
 object NaiveBayes {
 
-  def probC(docs: Stream[XMLDocument], cat: String): Double = {
+  def probC(docs: Seq[XMLDocument], cat: String): Double = {
     //categories.zipWithIndex.map{case(cat, i)=>(cat, docs.filter(_.codes(cat)).length / docs.length.toDouble)}.toMap
     docs.filter(_.codes(cat)).length / docs.length.toDouble
   }
 
   def probOfWGivenCMany(docs: Stream[XMLDocument], cat: String): Map[String, Double] = {
-    val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
+    /*val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
     val sum = tks.length.toDouble
+    System.out.println("tks size: " + sum)
     val groupedTks = tks.groupBy(identity)
-    groupedTks.mapValues(l=>(l.length + 1) / sum + (groupedTks.keySet.size))
+    groupedTks.mapValues(l=>(l.length + 1) / sum + (groupedTks.keySet.size))*/
+
+    // compute (or get) vocabulary size
+    val vocabSize = docs.flatMap(_.tokens).distinct.length
+    val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
+    val denominator = tks.length.toDouble + vocabSize
+    // keep sparseness, no normalization here
+    tks.groupBy(identity).mapValues(l=>(l.length + 1) / denominator)
   }
 
-  def probOfDocGivenCat(docs1: Stream[XMLDocument], docs2: Stream[XMLDocument], doc: XMLDocument, cat: String): Double = {
-    val probOfWGivenC = probOfWGivenCMany(docs1, cat)
-    val probOfC = probC(docs2, cat)
+  def probOfDocGivenCat(docs: Seq[XMLDocument], probOfWGivenCMany: Map[String, Double], doc: XMLDocument, cat: String): Double = {
+    val probOfC = probC(docs, cat)
     val tokens = Tokenizer.tokenize(doc.content)
     val termFreq = tokens.groupBy(identity).mapValues(l => l.length)
-    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenC(term)))}.values.sum
+    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenCMany(term)))}.values.sum
   }
 }

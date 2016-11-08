@@ -12,13 +12,17 @@ object Main {
 
     // Train documents for Naive Bayes
     // val reuters = new ReutersRCVStream("src/main/resources/train")
-    val trainingDocStream1 = new ReutersRCVStream("src/main/resources/confused").stream
-    val trainingDocStream2 = new ReutersRCVStream("src/main/resources/confused").stream
-    val trainingDocStream3 = new ReutersRCVStream("src/main/resources/confused").stream
-    val doc = trainingDocStream3.iterator.next()
+    //val trainingDocStream = new ReutersRCVStream("src/main/resources/train").stream
+    //val trainingDocStream2 = new ReutersRCVStream("src/main/resources/validation").stream
+    //val trainingDocStream3 = new ReutersRCVStream("src/main/resources/validation").stream
 
+    val docs = new ReutersRCVStream("src/main/resources/train").stream
 
-    println(NaiveBayes.probOfDocGivenCat(trainingDocStream1, trainingDocStream2, doc, doc.codes.iterator.next()))
+    val probOfWGivenCMany = NaiveBayes.probOfWGivenCMany(docs, docs(0).codes.iterator.next())
+
+    println("obtained probOfWGivenCMany: " + probOfWGivenCMany.get("the"))
+
+    println(NaiveBayes.probOfDocGivenCat(docs, probOfWGivenCMany, docs(0), docs(0).codes.iterator.next()))
 
 
     /*val docs = mutable.Set.empty[Document]
