@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="99942" id="root" date="1996-10-07" xml:lang="en">
+<title>USA: Ohio's corn six percent harvested vs 17 average.</title>
+<headline>Ohio's corn six percent harvested vs 17 average.</headline>
+<dateline>COLUMBUS 1996-10-07</dateline>
+<text>
+<p>Ohio's corn crop was six percent harvested as of Sunday, below the 17 percent five-year average, the Ohio Agricultural Satistics Service said in its weekly crop report.</p>
+<p>Corn was rated four percent very poor, 15 percent poor, 42 percent fair, 34 percent good and five percent excellent.</p>
+<p>Soybean harvest was 12 percent complete, behind 38 percent last year and 37 percent average. Seventy-four percent of the plants were dropping leaves, behind 100 percent average.</p>
+<p>Soybeans were rated four percent very poor, 16 percent poor, 41 percent fair, 34 percent good and five percent excellent.</p>
+<p>Winter wheat had emerged on three percent of the acreage, slightly behind the six-percent average. Twelve percent of the winter wheat crop was seeded, well behind 42 percent last year and 34 percent average.</p>
+<p>Light to moderate frost Friday occured across inland areas of northern, central and western Ohio but preliminary reports showed insignificant crop damage.</p>
+<p>Precipitation was almost nonexistent, but topsoil moisture conditions were reported as improved because rainfall from the previous week had not been reflected in last week's report. Topsoil moisture was rated six percent short, 83 percent adequate and 11 percent surplus.</p>
+<p>There were 4.9 days suitable for fieldwork for the week ended Friday.</p>
+<p>(Chicago Newsdesk 312-408-8749)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-10-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-10-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-10-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLUMBUS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
