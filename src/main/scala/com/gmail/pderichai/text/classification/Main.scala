@@ -12,13 +12,16 @@ object Main {
 
     // Train documents for Naive Bayes
     // val reuters = new ReutersRCVStream("src/main/resources/train")
-    val trainingDocStream1 = new ReutersRCVStream("src/main/resources/confused").stream
-    val trainingDocStream2 = new ReutersRCVStream("src/main/resources/confused").stream
-    val trainingDocStream3 = new ReutersRCVStream("src/main/resources/confused").stream
-    val doc = trainingDocStream3.iterator.next()
+    def trainingDocStream = new ReutersRCVStream("src/main/resources/train").stream
+    val doc = trainingDocStream.iterator.next()
+
+    // ALL THE SAME:
+//    println(doc.name)
+//    println(trainingDocStream1.iterator.next().name)
+//    println(trainingDocStream1.apply(0).name)
 
 
-    println(NaiveBayes.probOfDocGivenCat(trainingDocStream1, trainingDocStream2, doc, doc.codes.iterator.next()))
+    println(NaiveBayes.probOfDocGivenCat(trainingDocStream, doc, doc.codes.iterator.next()))
 
 
     /*val docs = mutable.Set.empty[Document]
@@ -35,24 +38,24 @@ object Main {
 
     // What do we want to average for testing?  Some threshold for % likelihood?
     // TODO: n-fold validation changing some parameter
-    /*val naiveBayes = new NaiveBayes(docs, codes)
+    // val naiveBayes = new NaiveBayes()
     val validationDocStream = new ReutersRCVStream("src/main/resources/validation").stream
     //val pw = new PrintWriter(new File("src/main/resources/validation_codes"))
     var percNum = 0
     var percDen = 0
 
     // For now just printing
-    for (doc <- trainingDocStream) {
-      val curDoc = new Document(doc)
-      val curCodes = curDoc.codes
-      val topCode = naiveBayes.bayesMain(curDoc)
-      if (!curCodes.contains(topCode)) {
-        percNum += 1
-      }
-      percDen += 1
-    }
+//    for (doc <- trainingDocStream) {
+//      val curDoc = new Document(doc)
+//      val curCodes = curDoc.codes
+//      pval topCode = NaiveBayes.topCodeForDoc(trainingDocStream.map(_.codes).foldLeft(++=), trainingDocStream, curDoc)
+//      if (!curCodes.contains(topCode)) {
+//        percNum += 1
+//      }
+//      percDen += 1
+//    }
 
-    println(100.0 * percNum / percDen)*/
+    println(100.0 * percNum / percDen)
 
     // pw.close
 
