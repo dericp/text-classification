@@ -37,7 +37,7 @@ object NaiveBayes {
     docs.filter(_.codes(cat)).length / docs.length.toDouble
   }
 
-  def probOfWGivenCMany(docs: Stream[XMLDocument], cat: String): Map[String, Double] = {
+  def probOfWGivenCMany(docs: Seq[XMLDocument], cat: String): Map[String, Double] = {
     /*val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
     val sum = tks.length.toDouble
     System.out.println("tks size: " + sum)
@@ -54,8 +54,7 @@ object NaiveBayes {
 
   def probOfDocGivenCat(docs: Seq[XMLDocument], probOfWGivenCMany: Map[String, Double], doc: XMLDocument, cat: String): Double = {
     val probOfC = probC(docs, cat)
-    val tokens = Tokenizer.tokenize(doc.content)
-    val termFreq = tokens.groupBy(identity).mapValues(l => l.length)
+    val termFreq = doc.tokens.groupBy(identity).mapValues(l => l.length)
     Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenCMany(term)))}.values.sum
   }
 }
