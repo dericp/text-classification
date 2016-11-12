@@ -31,30 +31,34 @@ import scala.collection.mutable
   }*/
 
 object NaiveBayes {
+  //val STOP_WORDS = Set("and", "but", "of", "from", "by", "because", "he", "she", "if", "a", "about")
 
-  def probC(docs: Seq[XMLDocument], cat: String): Double = {
-    //categories.zipWithIndex.map{case(cat, i)=>(cat, docs.filter(_.codes(cat)).length / docs.length.toDouble)}.toMap
+  // Returns the probability of a given category
+  def probC(docs: Seq[Document], cat: String): Double = {
     docs.filter(_.codes(cat)).length / docs.length.toDouble
   }
 
-  def probOfWGivenCMany(docs: Seq[XMLDocument], cat: String): Map[String, Double] = {
-    /*val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
-    val sum = tks.length.toDouble
-    System.out.println("tks size: " + sum)
-    val groupedTks = tks.groupBy(identity)
-    groupedTks.mapValues(l=>(l.length + 1) / sum + (groupedTks.keySet.size))*/
-
-    // compute (or get) vocabulary size
+  // Returns a map from word w --> probability of w in the given category
+  def probOfWGivenCMany(docs: Seq[Document], cat: String): Map[String, Double] = {
     val vocabSize = docs.flatMap(_.tokens).distinct.length
+    // val vocabSize = docs.map(_.termFreq.values).groupBy(identity)
     val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
+    // val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
     val denominator = tks.length.toDouble + vocabSize
     // keep sparseness, no normalization here
     tks.groupBy(identity).mapValues(l=>(l.length + 1) / denominator)
   }
 
-  def probOfDocGivenCat(docs: Seq[XMLDocument], probOfWGivenCMany: Map[String, Double], doc: XMLDocument, cat: String): Double = {
+  def probOfDocGivenCat(docs: Seq[Document], probOfWGivenCMany: Map[String, Double], doc: Document, cat: String): Double = {
     val probOfC = probC(docs, cat)
     val termFreq = doc.tokens.groupBy(identity).mapValues(l => l.length)
-    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenCMany(term)))}.values.sum
+    println("prob of C " + probOfC)
+    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq.getOrElse(term, 0) * Math.log(probOfWGivenCMany.getOrElse(term, 0)))}.values.sum
+  }
+
+  def catsGivenDoc(docs: Seq[Document], doc: Document, threshold: Double, cats: Set[String]): Set[String] = {
+    val catProbs = cats.zipWithIndex.map{case (cat, index) => (cat, probOfDocGivenCat(docs, probOfWGivenCMany(docs, cat), doc, cat))}
+    val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}.map(_._1)
+    if (thresholdProbs.size > 0) thresholdProbs else Set(catProbs.maxBy(_._2)._1)
   }
 }
