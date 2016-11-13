@@ -4,73 +4,61 @@ import com.gmail.pderichai.text.classification.{Code, Document, NaiveBayes}
 import scala.collection.mutable
 
 object Main {
+  val STOP_WORDS = Set("and", "but", "of", "from", "by", "because", "he", "she", "if", "a", "about")
 
   def main(args: Array[String]): Unit = {
-    // TODO: change bayesmain to return a list of top k codes
-    // Parse Codes?? Do we want to be able to tell what type each code is?
-    // val topics = processCodes(scala.io.Source.fromFile("src/main/resources/codes/topic_codes"))
 
     // Train documents for Naive Bayes
-    // val reuters = new ReutersRCVStream("src/main/resources/train")
-    def trainingDocStream = new ReutersRCVStream("src/main/resources/train").stream
-    val doc = trainingDocStream.iterator.next()
-
     // ALL THE SAME:
 //    println(doc.name)
 //    println(trainingDocStream1.iterator.next().name)
 //    println(trainingDocStream1.apply(0).name)
 
+    //    for (doc <- docs) {
+    //      for (code <- doc.codes) {
+    //        val probOfWGivenCMany = NaiveBayes.probOfWGivenCMany(docs, code)
+    //        println("finished computing probOfWGivenCMany")
+    //        val probOfDocGivenCat = NaiveBayes.probOfDocGivenCat(docs, probOfWGivenCMany, doc, code)
+    //        println(probOfDocGivenCat)
+    //      }
+    //    }
+    //  }
 
-    println(NaiveBayes.probOfDocGivenCat(trainingDocStream, doc, doc.codes.iterator.next()))
+    val docs = new ReutersRCVStream("src/main/resources/train").stream.map(shortenContent)
+    val doc1 = docs.head
+    val cats = docs.map(_.codes).foldLeft(Set[String]())((b,a) => a ++ b)
 
+    println(NaiveBayes.catsGivenDoc(docs, doc1, 0.3, cats))
+  }
 
-    /*val docs = mutable.Set.empty[Document]
-    val codes = mutable.Map.empty[String, Code]
+  def shortenContent(doc: XMLDocument): Document = {
+    val termFreqs = termFreq(doc)
+    return new Document(termFreqs, doc.codes, doc.tokens.filter(keepWord(_, termFreqs)))
+  }
 
-    for (doc <- trainingDocStream) {
-      val curDoc = new Document(doc)
-      val curCodes = curDoc.codes
-      for (code <- curCodes) {
-        codes.getOrElse(code, new Code(code)).addDoc(curDoc)
-      }
-      docs add curDoc
-    }*/
+  def termFreq(doc: XMLDocument): Map[String, Int] = {
+    // val tokens = Tokenizer.tokenize(doc.content)
+    collection.immutable.ListMap(doc.tokens.filter(!STOP_WORDS.contains(_)).groupBy(identity)
+      .mapValues(l => l.length).toList.sortBy{_._2}:_*).take(40)
+  }
 
-    // What do we want to average for testing?  Some threshold for % likelihood?
-    // TODO: n-fold validation changing some parameter
-    // val naiveBayes = new NaiveBayes()
-    val validationDocStream = new ReutersRCVStream("src/main/resources/validation").stream
-    //val pw = new PrintWriter(new File("src/main/resources/validation_codes"))
-    var percNum = 0
-    var percDen = 0
+  def keepWord(s: String, termFreqs: Map[String, Int]): Boolean = {
+    val stops = !STOP_WORDS.contains(s)
+    val termsss = termFreqs.keySet.contains(s)
+    return stops && termsss
+  }
 
-    // For now just printing
-//    for (doc <- trainingDocStream) {
-//      val curDoc = new Document(doc)
-//      val curCodes = curDoc.codes
-//      pval topCode = NaiveBayes.topCodeForDoc(trainingDocStream.map(_.codes).foldLeft(++=), trainingDocStream, curDoc)
-//      if (!curCodes.contains(topCode)) {
-//        percNum += 1
-//      }
-//      percDen += 1
-//    }
+  def docF1Score(foundCats: Set[String], correctCats: Set[String]): Double = {
+    // Precision = # relevant items retrieved / # items retrieved
+    // Recall = # relevant items retrieved / # relevant items in collection
+    // F1 = 2PR / (P + R)
+    val relevantRetrieved = foundCats.filter(correctCats(_)).size.toDouble
+    val p = relevantRetrieved / foundCats.size
+    val r = relevantRetrieved / correctCats.size
+    2 * p * r / (p + r)
+  }
 
-    println(100.0 * percNum / percDen)
-
-    // pw.close
-
-
-    /*val doc = docIter.next()
-    println(doc.codes.toString())
-    println(doc.name)
-    println(doc.ID)
-    println(doc.title)*/
-
-    //val tokens = Tokenizer.tokenize(testdoc.content)
-    //println(tokens.mkString(","))
-    //println(testdoc.codes.size)
-    //val copyright = testdoc.doc.getDocumentElement.getElementsByTagName("copyright")
-    //println(testdoc.doc.getDocumentElement.getElementsByTagName("copyright").toString())
-    //println(doc.codes.size)
+  def algF1Score(docScores: Set[Double]): Double = {
+    docScores.sum / docScores.size
   }
 }
