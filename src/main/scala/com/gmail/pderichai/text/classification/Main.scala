@@ -8,32 +8,28 @@ object Main {
 
   def main(args: Array[String]): Unit = {
 
-    // Train documents for Naive Bayes
-    // ALL THE SAME:
-//    println(doc.name)
-//    println(trainingDocStream1.iterator.next().name)
-//    println(trainingDocStream1.apply(0).name)
-
-    //    for (doc <- docs) {
-    //      for (code <- doc.codes) {
-    //        val probOfWGivenCMany = NaiveBayes.probOfWGivenCMany(docs, code)
-    //        println("finished computing probOfWGivenCMany")
-    //        val probOfDocGivenCat = NaiveBayes.probOfDocGivenCat(docs, probOfWGivenCMany, doc, code)
-    //        println(probOfDocGivenCat)
-    //      }
-    //    }
-    //  }
-
-    val docs = new ReutersRCVStream("src/main/resources/train").stream.map(shortenContent)
+    // Map: docID -> document
+    def docs = new ReutersRCVStream("src/main/resources/train").stream
+    // zipWithIndex.map{case(xmlDoc, index) => (xmlDoc.ID, shortenContent(xmlDoc))}
     val doc1 = docs.head
-    val cats = docs.map(_.codes).foldLeft(Set[String]())((b,a) => a ++ b)
+    // val cats = docs.map(_.codes).foldLeft(Set[String]())((b,a) => a ++ b)
+    val codesToDocIDs = scala.collection.mutable.Map.empty[String, mutable.Seq[Int]]
+    val docIDToDoc = scala.collection.mutable.Map.empty[Int, Document]
 
-    println(NaiveBayes.catsGivenDoc(docs, doc1, 0.3, cats))
+    for (doc <- docs) {
+      docIDToDoc += doc.ID -> shortenContent(doc)
+      for (code <- doc.codes) {
+        codesToDocIDs += code -> codesToDocIDs.getOrElse(code, mutable.Seq.empty[Int]).:+(doc.ID)
+      }
+    }
+
+    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc1.ID, 0.05, codesToDocIDs))
+    println("correct codes" + doc1.codes)
   }
 
   def shortenContent(doc: XMLDocument): Document = {
     val termFreqs = termFreq(doc)
-    return new Document(termFreqs, doc.codes, doc.tokens.filter(keepWord(_, termFreqs)))
+    return new Document(termFreqs, doc.codes, doc.tokens.filter(keepWord(_, termFreqs)), doc.ID)
   }
 
   def termFreq(doc: XMLDocument): Map[String, Int] = {
