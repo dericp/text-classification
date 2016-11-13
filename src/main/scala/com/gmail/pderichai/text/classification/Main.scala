@@ -23,10 +23,10 @@ object Main {
       }
     }
 
-    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc1.ID, 0.0, codesToDocIDs))
+    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc1.ID, -400, codesToDocIDs))
     println("correct codes" + doc1.codes)
     println()
-    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc2.ID, 0.0, codesToDocIDs))
+    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc2.ID, -400, codesToDocIDs))
     println("correct codes" + doc2.codes)
   }
 
