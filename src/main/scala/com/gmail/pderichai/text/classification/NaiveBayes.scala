@@ -3,56 +3,46 @@ import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
 
 import scala.collection.mutable
 
-/*class NaiveBayes(docCollection: mutable.Set[Document], docCodes: mutable.Map[String, Code]) {
-  (def probC(category: Code): Double = {
-    category.documents.size / docCollection.size.toDouble
-  }
-
-  def probWC(word: String, category: Code): Double = {
-    val dc = category.documents
-    val numerator = dc.map(_.termFreq.getOrElse(word, 0) + 1).sum
-    val vocabSize = dc.flatMap(_.termFreq.keys).distinct.size
-    val denominator = dc.map(_.length).sum + vocabSize
-    numerator / denominator.toDouble
-  }
-
-  def logPDC(document: Document, category: Code): Double = {
-    val tf = document.termFreq
-    val pwc = tf.keys.map(w => (w, probWC(w, category))).toMap
-    pwc.map{ case(k, v) => tf.getOrElse(k, 0) * Math.log(v) }.sum
-  }
-
-  // TODO: change this method to return a list of top k codes
-  // Returns the Category with the highest probability
-  def bayesMain(document: Document): String = {
-    // need the collection of docs, this is mock
-    val categoryProbs = docCodes.map{case(name, code) => (name, Math.log(probC(code)) + logPDC(document, code))}
-    categoryProbs.maxBy(_._2)._1
-  }*/
-
 object NaiveBayes {
 
-  def probC(docs: Stream[XMLDocument], cat: String): Double = {
-    //categories.zipWithIndex.map{case(cat, i)=>(cat, docs.filter(_.codes(cat)).length / docs.length.toDouble)}.toMap
-    docs.filter(_.codes(cat)).length / docs.length.toDouble
+  // Returns the probability of a given category
+  def probC(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], cat: String): Double = {
+    cats.getOrElse(cat, Seq.empty).size / docs.keySet.size.toDouble
   }
 
-  def probOfWGivenCMany(docs: Stream[XMLDocument], cat: String): Map[String, Double] = {
-    val tks = docs.filter(_.codes(cat)).flatMap(_.tokens)
-    val sum = tks.length.toDouble
-    val groupedTks = tks.groupBy(identity)
-    groupedTks.mapValues(l=>(l.length + 1) / sum + (groupedTks.keySet.size))
+  // Returns a map from word w --> probability of w in the given category
+  def probOfWGivenCMany(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], cat: String): Map[String, Double] = {
+    val vocabSize = docs.values.map(_.tokens).toSet.size
+    val tks = cats.getOrElse(cat, Seq.empty).map(docs.get(_).get.tokens).flatten
+    val denominator = tks.length.toDouble + vocabSize
+    tks.groupBy(identity).mapValues(l => (l.length + 1) / denominator)
   }
 
-  def probOfDocGivenCat(docs: Stream[XMLDocument], doc: XMLDocument, cat: String): Double = {
-    val probOfWGivenC = probOfWGivenCMany(docs, cat)
-    val probOfC = probC(docs, cat)
-    val tokens = Tokenizer.tokenize(doc.content)
-    val termFreq = tokens.groupBy(identity).mapValues(l => l.length)
-    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq(term) * Math.log(probOfWGivenC(term)))}.values.sum
+  def probOfDocGivenCat(docs: mutable.Map[Int, Document], probOfWGivenCMany: Map[String, Double], docID: Int, cat: String, cats: mutable.Map[String, mutable.Seq[Int]]): Double = {
+    val probOfC = probC(docs, cats, cat)
+    val termFreq = docs.get(docID).get.termFreq
+    //println("prob of C " + probOfC)
+    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq.getOrElse(term, 0) * Math.log(probOfWGivenCMany.getOrElse(term, 0)))}.values.sum
+  }
+  def test(abc: Set[String]): Unit = {
+
   }
 
-  def topCodeForDoc(codes: Set[String], docs: Stream[XMLDocument], doc: XMLDocument): String = {
-    codes.map{case(code) => (code, probOfDocGivenCat(docs, doc, code))}.maxBy(_._2)._1
+  def catsGivenDoc(docs: mutable.Map[Int, Document], docID: Int, threshold: Double, cats: mutable.Map[String, mutable.Seq[Int]]): collection.Set[String] = {
+    val catProbs = cats.keySet.zipWithIndex.map{case (cat, i) => (cat, probOfDocGivenCat(docs, probOfWGivenCMany(docs, cats, cat), docID, cat, cats))}.toMap
+    println("catProbs" + catProbs.values)
+    val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}.map(_._1).toSet
+    // Currently only returns the top answer because thresholdProbs is empty
+    if (thresholdProbs.size > 0) {
+      println("using thresholdProbs")
+      thresholdProbs
+    } else  {
+      println("nothing > threshold")
+      Set(catProbs.maxBy(_._2)._1)
+    }
   }
+
+  //  def topCodeForDoc(cats: mutable.Map[String, mutable.Seq[Int]], docs: mutable.Map[Int, Document], docID: Int): String = {
+  //    cats.map{case(cat, catDocs) => (cat, probOfDocGivenCat(docs, probOfWGivenCMany(docs, cats, cat), docID, cat, cats))}.maxBy(_._2)._1
+  //  }
 }
