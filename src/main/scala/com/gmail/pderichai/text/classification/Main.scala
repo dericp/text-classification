@@ -10,9 +10,9 @@ object Main {
 
     // Map: docID -> document
     def docs = new ReutersRCVStream("src/main/resources/train").stream
-    // zipWithIndex.map{case(xmlDoc, index) => (xmlDoc.ID, shortenContent(xmlDoc))}
-    val doc1 = docs.head
-    // val cats = docs.map(_.codes).foldLeft(Set[String]())((b,a) => a ++ b)
+    val iter = docs.iterator
+    val doc1 = iter.next()
+    val doc2 = iter.next()
     val codesToDocIDs = scala.collection.mutable.Map.empty[String, mutable.Seq[Int]]
     val docIDToDoc = scala.collection.mutable.Map.empty[Int, Document]
 
@@ -23,8 +23,11 @@ object Main {
       }
     }
 
-    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc1.ID, 0.05, codesToDocIDs))
+    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc1.ID, 0.0, codesToDocIDs))
     println("correct codes" + doc1.codes)
+    println()
+    println("found codes" + NaiveBayes.catsGivenDoc(docIDToDoc, doc2.ID, 0.0, codesToDocIDs))
+    println("correct codes" + doc2.codes)
   }
 
   def shortenContent(doc: XMLDocument): Document = {
