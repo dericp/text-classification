@@ -3,46 +3,50 @@ import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
 
 import scala.collection.mutable
 
-object NaiveBayes {
+// TODO: Cache probabilities that are computed multiple times, stop storing termFreq in Document, always return < 5 categories
+// TODO: Check what we should be modifying in n-way validation, put in all stop words
+class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], vocabSize: Int, missingTermWeight: Double) {
+  val numTrainingDocs = docs.keySet.size.toDouble
 
   // Returns the probability of a given category
-  def probC(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], cat: String): Double = {
-    val res = cats.getOrElse(cat, Seq.empty).size / docs.keySet.size.toDouble
-    res
+  def probC(cat: String): Double = {
+    cats.getOrElse(cat, Seq.empty).size / numTrainingDocs
   }
 
   // Returns a map from word w --> probability of w in the given category
-  def probOfWGivenCMany(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], cat: String): Map[String, Double] = {
-    val vocabSize = docs.values.map(_.tokens).toSet.size
+  def probOfWGivenCMany(cat: String): Map[String, Double] = {
     val tks = cats.getOrElse(cat, Seq.empty).map(docs.get(_).get.tokens).flatten
     val denominator = tks.length.toDouble + vocabSize
-    val res = tks.groupBy(identity).mapValues(l => Math.log((l.length + 1) / denominator))
-    res
+    tks.groupBy(identity).mapValues(l => Math.log((l.length + 1) / denominator))
   }
 
-  def probOfDocGivenCat(docs: mutable.Map[Int, Document], probOfWGivenCMany: Map[String, Double], docID: Int, cat: String, cats: mutable.Map[String, mutable.Seq[Int]]): Double = {
-    val probOfC = probC(docs, cats, cat)
-    val termFreq = docs.get(docID).get.termFreq
-    val res1 =  termFreq.map{case(term, i)=>(term, termFreq.getOrElse(term, 0) * probOfWGivenCMany.getOrElse(term, -100.0))}
-    // println("probOfDocGivenCat partial result: " + res1)
-    val res = Math.log(probOfC) + res1.values.sum
-    // println("probOfDocGivenCat: " + res)
-    res
+  def probOfDocGivenCat(probOfWGivenCMany: Map[String, Double], doc: Document, cat: String): Double = {
+    val probOfC = probC(cat)
+    val termFreq = doc.termFreq
+    Math.log(probOfC) + termFreq.map{case(term, i)=>(term, termFreq.getOrElse(term, 0) * probOfWGivenCMany.getOrElse(term, missingTermWeight))}.values.sum
   }
 
   def test(abc: Set[String]): Unit = {}
 
-  def catsGivenDoc(docs: mutable.Map[Int, Document], docID: Int, threshold: Double, cats: mutable.Map[String, mutable.Seq[Int]]): collection.Set[String] = {
-    val catProbs = cats.keySet.zipWithIndex.map{case (cat, i) => (cat, probOfDocGivenCat(docs, probOfWGivenCMany(docs, cats, cat), docID, cat, cats))}.toMap
+  def catsGivenDoc(doc: Document, threshold: Double): collection.Set[String] = {
+    val catProbs = cats.keySet.zipWithIndex.map{case (cat, i) => (cat, probOfDocGivenCat(probOfWGivenCMany(cat), doc, cat))}.toMap
     // println("catProbs" + catProbs.values)
-    val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}.map(_._1).toSet
+    val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}
+    //println("thresholdProbs")
     // Currently only returns the top answer because thresholdProbs is empty
+//    if (thresholdProbs.size > 5) {
+//      val toReturn = thresholdProbs.toSeq.sortWith(_._2 < _._2).take(4).map(_._1).toSet
+//      println("too many in threshold: " + toReturn)
+//      toReturn
+//    } else
     if (thresholdProbs.size > 0) {
-      println("using thresholdProbs")
-      thresholdProbs
+      val toReturn = thresholdProbs.map(_._1).toSet
+      // println("using thresholdProbs: " + toReturn)
+      toReturn
     } else  {
-      println("nothing > threshold")
-      Set(catProbs.maxBy(_._2)._1)
+      val toReturn = Set(catProbs.maxBy(_._2)._1)
+      // println("nothing > threshold" + toReturn)
+      toReturn
     }
   }
 
