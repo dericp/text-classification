@@ -1,43 +1,40 @@
 package com.gmail.pderichai.text.classification
 
-import breeze.linalg.{DenseVector, Vector}
-import breeze.stats._
+import breeze.linalg.{DenseVector, SparseVector, Vector}
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
+import ch.ethz.dal.tinyir.processing.XMLDocument
 
-import scala.collection.immutable.TreeMap
-
-/**
-  * Created by dericp on 11/14/16.
-  */
 object SVMMain {
-  def main(args: Array[String]): Unit = {
 
+  def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
-    val tokens = docs.flatMap(_.tokens).toSet
-    val allTokensMap = TreeMap(tokens.zipWithIndex.map { case (t, i) => (t, 0) }.toMap.toArray: _*)
-    val cat = "USA"
-    var step = 1
+
+    val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
+    // temp hard-coded code
+    val code = "USA"
+    var timeStep = 1
+    // 178069 is the number of unique words in the training vocabulary
     var theta = DenseVector.zeros[Double](178069)
     val lambda = 0.001
 
-    for (i <- util.Random.shuffle(0 to docs.size)) {
+    // random testing code
+    //val docVec = SparseVector.zeros[Double](termToIndexInFeatureVector.size)
+    //shortenContent(docs(0)).termFreq.foreach{case(term, freq) => docVec(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
+
+    for (i <- util.Random.shuffle(0 to docs.size - 1)) {
       val doc = docs(i)
-      val docTokens = doc.tokens.groupBy(identity).mapValues(termList => termList.size)
+      val docTermFreq = Utils.pruneStopWords(doc.tokens.groupBy(identity).mapValues(termList => termList.size))
+      val featureVector = Vector.zeros[Double](termToIndexInFeatureVector.size)
+      val y = if(doc.codes.contains(code)) 1 else -1
 
-      val tokensMap = allTokensMap.map { case (token, count) => (token, docTokens.getOrElse(token, 0)) }
+      // populating the featureVector with term frequencies from the current document
+      docTermFreq.foreach{case(term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
 
-      val x = Vector(tokensMap.map { case (k, v) => v.toDouble }.toArray: _*)
-      val y = if(doc.codes.contains(cat)) 1 else -1
-      //println("x: " + x)
-      //println("y: " + y)
+      theta = SVM.updateStep(theta, new SVM.DataPoint(featureVector, y), lambda, timeStep)
+      timeStep += 1
 
-      theta = SVM.updateStep(theta, new SVM.DataPoint(x, y), lambda, step)
-      step = step + 1
-
-      //println("step is: " + step)
-      //println("theta is: " + theta)
+      //println("step: " + timeStep)
     }
-
+    //println(theta.dot(docVec))
   }
-
 }
