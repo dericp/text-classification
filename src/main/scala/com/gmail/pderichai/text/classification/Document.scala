@@ -1,3 +1,4 @@
+
 package com.gmail.pderichai.text.classification
 
 import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
@@ -7,4 +8,5 @@ import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
   */
 class Document(val termFreq: Map[String, Int], val codes: Set[String], val tokens: List[String], val id: Int) {
   val length = termFreq.map(_._2).sum
+
 }
