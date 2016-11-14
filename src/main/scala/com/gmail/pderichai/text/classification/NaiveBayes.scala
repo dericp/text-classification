@@ -2,9 +2,10 @@ package com.gmail.pderichai.text.classification
 import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
 
 import scala.collection.mutable
-
-// TODO: Cache probabilities that are computed multiple times, stop storing termFreq in Document, always return < 5 categories
-// TODO: Check what we should be modifying in n-way validation, put in all stop words
+// Currently: f1 = 0.41434146680965195
+// TODO: Cache probabilities that are computed multiple times, stop storing termFreq in Document, always return < 5 categories, put in all stop words
+// TODO: Use n-fold validation (maybe not)
+// What do we do with the validation set?  What do we do with words that are in the validation set but not the training set?
 class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], vocabSize: Int, missingTermWeight: Double) {
   val numTrainingDocs = docs.keySet.size.toDouble
 
