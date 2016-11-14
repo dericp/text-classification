@@ -1,14 +1,12 @@
 package com.gmail.pderichai.text.classification
 
-import breeze.linalg.{Vector, DenseVector}
-
+import breeze.linalg.{DenseVector, Vector}
 
 /**
-  * Created by Isa on 11/13/2016.
+  * TODO: Using SparseVectors right now since it seems to give better performance.
   */
 object SVM {
 
-  /* just the slide code */
   case class DataPoint(x: Vector[Double], y:Double)
 
   def updateStep(theta: DenseVector[Double], p: DataPoint, lambda: Double, step:Int) = {
