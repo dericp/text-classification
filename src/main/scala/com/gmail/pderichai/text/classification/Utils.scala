@@ -1,5 +1,7 @@
 package com.gmail.pderichai.text.classification
 
+import ch.ethz.dal.tinyir.processing.XMLDocument
+
 import scala.io.Source
 
 /**
@@ -10,5 +12,9 @@ object Utils {
 
   def pruneStopWords(termFreq: Map[String, Int]): Map[String, Int] = {
     termFreq.filterKeys(!STOP_WORDS.contains(_))
+  }
+
+  def getTermFrequencies(doc: XMLDocument): Map[String, Int] = {
+    Utils.pruneStopWords(doc.tokens.groupBy(identity).mapValues(termList => termList.size))
   }
 }

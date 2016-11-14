@@ -2,7 +2,6 @@ package com.gmail.pderichai.text.classification
 
 import breeze.linalg.{DenseVector, SparseVector, Vector}
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
-import ch.ethz.dal.tinyir.processing.XMLDocument
 
 object SVMMain {
 
@@ -23,7 +22,7 @@ object SVMMain {
 
     for (i <- util.Random.shuffle(0 to docs.size - 1)) {
       val doc = docs(i)
-      val docTermFreq = Utils.pruneStopWords(doc.tokens.groupBy(identity).mapValues(termList => termList.size))
+      val docTermFreq = Utils.getTermFrequencies(doc)
       val featureVector = Vector.zeros[Double](termToIndexInFeatureVector.size)
       val y = if(doc.codes.contains(code)) 1 else -1
 

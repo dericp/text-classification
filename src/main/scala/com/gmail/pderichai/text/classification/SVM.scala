@@ -2,9 +2,6 @@ package com.gmail.pderichai.text.classification
 
 import breeze.linalg.{DenseVector, Vector}
 
-/**
-  * TODO: Using SparseVectors right now since it seems to give better performance.
-  */
 object SVM {
 
   case class DataPoint(x: Vector[Double], y:Double)
@@ -17,5 +14,4 @@ object SVM {
     else
       thetaShrink + (p.x * (1.0 / (lambda * step)) * p.y)
   }
-
 }
