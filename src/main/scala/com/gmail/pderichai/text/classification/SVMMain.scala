@@ -22,11 +22,11 @@ object SVMMain {
 
     for (i <- util.Random.shuffle(0 to docs.size)) {
       val doc = docs(i)
-      val docTokens = doc.tokens.groupBy(identity).map { case (term, termList) => (term, termList.size) }
+      val docTokens = doc.tokens.groupBy(identity).mapValues(termList => termList.size)
 
       val tokensMap = allTokensMap.map { case (token, count) => (token, docTokens.getOrElse(token, 0)) }
 
-      val x = Vector(tokensMap.toList.map { case (k, v) => v.toDouble }.toArray: _*)
+      val x = Vector(tokensMap.map { case (k, v) => v.toDouble }.toArray: _*)
       val y = if(doc.codes.contains(cat)) 1 else -1
       //println("x: " + x)
       //println("y: " + y)
@@ -34,7 +34,7 @@ object SVMMain {
       theta = SVM.updateStep(theta, new SVM.DataPoint(x, y), lambda, step)
       step = step + 1
 
-      println("step is: " + step)
+      //println("step is: " + step)
       //println("theta is: " + theta)
     }
 
