@@ -1,6 +1,7 @@
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 import ch.ethz.dal.tinyir.processing.{ReutersRCVParse, Tokenizer, XMLDocument}
 import com.gmail.pderichai.text.classification.{Code, Document, NaiveBayes}
+import java.io._
 
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
@@ -34,6 +35,13 @@ object Main {
     println("finished training")
 
     def validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
+
+
+    /* WRITE TO FILE */
+    val file = new File("ir-2016-project-13-nb.txt")
+    val bw = new BufferedWriter(new FileWriter(file))
+    
+
 
 
 
@@ -70,6 +78,11 @@ object Main {
     println()
     println("f1 score: " + algF1Score(f1Vals))
     println("finished f1vals = " + f1Vals)
+
+
+
+    // close buffered writer
+    bw.close()
   }
 
   def shortenContent(doc: XMLDocument): Document = {
