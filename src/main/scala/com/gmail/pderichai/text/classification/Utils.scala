@@ -5,9 +5,6 @@ import ch.ethz.dal.tinyir.processing.XMLDocument
 
 import scala.io.Source
 
-/**
-  * Created by dericp on 11/14/16.
-  */
 object Utils {
   val STOP_WORDS = Source.fromFile("src/main/resources/stop-words.txt").getLines.toSet
 
@@ -60,8 +57,6 @@ object Utils {
     for ((term, freq) <- docTermFreq) {
       featureVector(termToIndexInFeatureVector(term)) = freq.toDouble
     }
-    //docTermFreq.foreach { case (term, freq) => emptyFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
-    //emptyFeatureVector
     featureVector
   }
 }
