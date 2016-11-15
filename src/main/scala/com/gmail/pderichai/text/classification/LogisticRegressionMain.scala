@@ -4,6 +4,11 @@ import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
 object LogisticRegressionMain {
 
+  def getFeatureVector(docTermFreq: Map[String, Int], emptyFeatureVector: DenseVector[Double], termToIndexInFeatureVector: Map[String, Int]): DenseVector[Double] = {
+    docTermFreq.foreach { case (term, freq) => emptyFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
+    emptyFeatureVector
+  }
+
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
@@ -11,8 +16,11 @@ object LogisticRegressionMain {
 
     val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
     val numUniqueTerms = termToIndexInFeatureVector.size
+    val docFeatureVectors = docTermFreqs.map{ case(docID, termFreq) => (docID, getFeatureVector(termFreq, DenseVector.zeros[Double](numUniqueTerms), termToIndexInFeatureVector))}
 
-    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docTermFreqs, numUniqueTerms)))
+
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docFeatureVectors, numUniqueTerms)))
+
 
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
@@ -24,7 +32,7 @@ object LogisticRegressionMain {
 
       for ((code, theta) <- thetas) {
         val docTermFreq = Utils.getTermFrequencies(doc)
-        val featureVector = SparseVector.zeros[Double](numUniqueTerms)
+        val featureVector = DenseVector.zeros[Double](numUniqueTerms)
         docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
 
         val prediction = LogisticRegression.logistic(theta, featureVector)
