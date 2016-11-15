@@ -13,7 +13,7 @@ object LogisticRegression {
     1.0 / (1.0 + Math.exp(-1 * (featureVector.dot(theta))))
   }
 
-  def getTheta(docs: Seq[XMLDocument], code: String, termToIndexInFeatureVector: Map[String, Int], docTermFreqs: Map[Int, Map[String, Int]], numUniqueTerms: Int): DenseVector[Double] = {
+  def getTheta(docs: Stream[XMLDocument], code: String, termToIndexInFeatureVector: Map[String, Int], docTermFreqs: Map[Int, Map[String, Int]], numUniqueTerms: Int): DenseVector[Double] = {
     var theta = DenseVector.zeros[Double](numUniqueTerms)
     var timeStep = 1;
     val alphaPlus = docs.filter(_.codes.contains((code))).size

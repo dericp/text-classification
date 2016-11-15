@@ -24,4 +24,8 @@ object Utils {
     val topicCodes = Source.fromFile("src/main/resources/codes/topic_codes.txt").getLines().map(line => line.split("\t")(0)).toSet
     industryCodes union regionCodes union topicCodes
   }
+
+  def getTopTerms(docs: Stream[XMLDocument], numTerms: Int): Set[String] = {
+    docs.flatMap(_.tokens).groupBy(identity).mapValues(l => l.size).toSeq.sortBy(-_._2).take(numTerms).map((t) => t._1).toSet
+  }
 }
