@@ -19,11 +19,11 @@ object LogisticRegressionMain {
       var FP = 0.0
       var TN = 0.0
       var FN = 0.0
-
       for ((code, theta) <- thetas) {
-        val docTermFreq = Utils.getTermFrequencies(doc).filter(_._2 > 5)
-        val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = docTermFreq.map{case(term, freq) => (termToIndexInFeatureVector(term), freq)}
+        //val featureVector = SparseVector.zeros[Double](numUniqueTerms)
+        //docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
 
         val prediction = LogisticRegression.logistic(theta, featureVector)
 
