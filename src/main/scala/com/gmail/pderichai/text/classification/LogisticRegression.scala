@@ -4,12 +4,12 @@ import ch.ethz.dal.tinyir.processing.XMLDocument
 
 object LogisticRegression {
 
-  def newTheta(theta: DenseVector[Double], featureVector: SparseVector[Double], docIsInCategory: Boolean, timeStep: Int, alphaPlus: Int, alphaMinus: Int): DenseVector[Double] = {
+  def newTheta(theta: DenseVector[Double], featureVector: DenseVector[Double], docIsInCategory: Boolean, timeStep: Int, alphaPlus: Int, alphaMinus: Int): DenseVector[Double] = {
     val z = if (docIsInCategory) alphaMinus * (1 - logistic(theta, featureVector)) else -alphaPlus * (logistic(theta,featureVector))
     theta + ((featureVector * z) * (1.0 / Math.sqrt(timeStep)))
   }
 
-  def logistic(theta: DenseVector[Double], featureVector: SparseVector[Double]) : Double = {
+  def logistic(theta: DenseVector[Double], featureVector: DenseVector[Double]) : Double = {
     1.0 / (1.0 + Math.exp(-1 * (featureVector.dot(theta))))
   }
 
@@ -22,7 +22,7 @@ object LogisticRegression {
     for (i <- util.Random.shuffle(0 to docs.size - 1)) {
       println("time step: " + timeStep)
       val doc = docs(i)
-      val featureVector = SparseVector.zeros[Double](numUniqueTerms)
+      val featureVector = DenseVector.zeros[Double](numUniqueTerms)
       val docTermFreq = docTermFreqs(doc.ID)
       //val docTermFreq = Utils.getTermFrequencies(doc).toList.sortWith(_._2 > _._2).take(40).toMap
       docTermFreq.foreach { case (term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
