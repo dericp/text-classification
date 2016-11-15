@@ -5,34 +5,12 @@ import ch.ethz.dal.tinyir.io.ReutersRCVStream
 object LogisticRegressionMain {
 
   def main(args: Array[String]): Unit = {
-    println(Utils.getCodes().size)
-    println(Utils.getCodes())
-
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
     val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
     val numUniqueTerms = termToIndexInFeatureVector.size
-    var theta = DenseVector.zeros[Double](numUniqueTerms)
-    var timeStep = 1;
 
-    val code = "USA"
-    val alphaPlus = docs.filter(_.codes.contains((code))).size
-    val alphaMinus = 50000 - alphaPlus
-    println(alphaPlus)
-    println(alphaMinus)
-
-    for (i <- util.Random.shuffle(0 to docs.size - 1)) {
-      println("time step: " + timeStep)
-      val doc = docs(i)
-      val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-      val docTermFreq = Utils.getTermFrequencies(doc)
-      docTermFreq.foreach{case(term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
-
-      //println(featureVector.findAll(_ > 0))
-
-      theta = LogisticRegression.newTheta(theta, featureVector, doc.codes.contains(code), timeStep, alphaPlus, alphaMinus)
-      timeStep += 1
-    }
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, numUniqueTerms)))
 
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
