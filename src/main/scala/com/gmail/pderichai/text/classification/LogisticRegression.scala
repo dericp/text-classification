@@ -3,10 +3,9 @@ import breeze.linalg.{DenseVector, SparseVector, Vector}
 
 object LogisticRegression {
 
-  // Returns value that we have to subtract from theta to get new theta
-  def updateTheta(theta: DenseVector[Double], featureVector: SparseVector[Double], docIsInCategory: Boolean, step: Int): DenseVector[Double] = {
-    val z = if (docIsInCategory) (1 - logistic(theta, featureVector)) else (-logistic(theta,featureVector))
-    theta - ((featureVector * z) * (1.0 / step))
+  def newTheta(theta: DenseVector[Double], featureVector: SparseVector[Double], docIsInCategory: Boolean, timeStep: Int, alphaPlus: Int, alphaMinus: Int): DenseVector[Double] = {
+    val z = if (docIsInCategory) alphaMinus * (1 - logistic(theta, featureVector)) else -alphaPlus * (logistic(theta,featureVector))
+    theta + ((featureVector * z) * (1.0 / Math.sqrt(timeStep)))
   }
 
   def logistic(theta: DenseVector[Double], featureVector: SparseVector[Double]) : Double = {
