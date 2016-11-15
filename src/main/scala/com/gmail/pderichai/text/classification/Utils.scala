@@ -48,11 +48,16 @@ object Utils {
   }
 
   def getTopTerms(docs: Stream[XMLDocument], numTerms: Int): Set[String] = {
-    docs.flatMap(_.tokens).groupBy(identity).mapValues(l => l.size).toSeq.sortBy(-_._2).take(numTerms).map((t) => t._1).toSet
+    pruneStopWords(docs.flatMap(_.tokens).groupBy(identity).mapValues(l => l.size)).toSeq.sortBy(-_._2).take(numTerms).map((t) => t._1).toSet
   }
 
-  def getFeatureVector(docTermFreq: Map[String, Int], emptyFeatureVector: DenseVector[Double], termToIndexInFeatureVector: Map[String, Int]): DenseVector[Double] = {
-    docTermFreq.foreach { case (term, freq) => emptyFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
-    emptyFeatureVector
+  def getFeatureVector(docTermFreq: Map[String, Int], termToIndexInFeatureVector: Map[String, Int], dimensions: Int): DenseVector[Double] = {
+    val featureVector = DenseVector.zeros[Double](dimensions)
+    for ((term, freq) <- docTermFreq) {
+      featureVector(termToIndexInFeatureVector(term)) = freq.toDouble
+    }
+    //docTermFreq.foreach { case (term, freq) => emptyFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
+    //emptyFeatureVector
+    featureVector
   }
 }
