@@ -1,5 +1,6 @@
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 import ch.ethz.dal.tinyir.processing.{ReutersRCVParse, Tokenizer, XMLDocument}
+import java.io._
 import com.gmail.pderichai.text.classification.{Code, Document, NaiveBayes, Utils}
 
 import scala.collection.mutable
@@ -27,7 +28,7 @@ object Main {
 
     def validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
     val f1Vals = ListBuffer.empty[Double]
-    val naiveBayes = new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, -50)
+    val naiveBayes = new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, -50) /*
     var i = 0
     var prevLen = 0;
 
@@ -46,6 +47,24 @@ object Main {
     println()
     println("f1 score: " + algF1Score(f1Vals))
     println("finished f1vals = " + f1Vals)
+*/
+
+
+    def testDocs = new ReutersRCVStream("src/main/resources/test").stream
+
+    /* WRITE TO FILE */
+    val file = new File("ir-2016-project-13-nb.txt")
+    val bw = new BufferedWriter(new FileWriter(file))
+
+    for (doc <- testDocs) {
+      bw.write("" + doc.ID)
+      val categories = naiveBayes.catsGivenDoc(shortenContent(doc), -510)
+      categories.foreach(c => bw.write(" " + c))
+      bw.write("\n")
+    }
+
+    // close buffered writer
+    bw.close()
   }
 
   // Takes an XMLDocument doc

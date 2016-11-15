@@ -7,31 +7,52 @@ object LogisticRegressionMain {
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
+    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc)).toMap
+
     val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
     val numUniqueTerms = termToIndexInFeatureVector.size
-    var theta = DenseVector.zeros[Double](numUniqueTerms)
-    var timeStep = 1;
 
-    val code = "USA"
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docTermFreqs, numUniqueTerms)))
 
-    for (i <- util.Random.shuffle(0 to docs.size - 1)) {
-      println("time step: " + timeStep)
-      val doc = docs(i)
-      val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-      val docTermFreq = Utils.getTermFrequencies(doc)
-      docTermFreq.foreach{case(term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
+    val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
+    for (doc <- validationDocs) {
+      var TP = 0.0
+      var FP = 0.0
+      var TN = 0.0
+      var FN = 0.0
 
-      // hard-coded code for testing
-      theta = LogisticRegression.updateTheta(theta, featureVector, doc.codes.contains(code), timeStep)
-      timeStep += 1
+      for ((code, theta) <- thetas) {
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = SparseVector.zeros[Double](numUniqueTerms)
+        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
+
+        val prediction = LogisticRegression.logistic(theta, featureVector)
+
+        //println("prediction: " + prediction + " correct " + doc.codes.contains(code))
+
+        if (prediction > 0.5) {
+          println("predicted doc was in: " + code)
+          if (doc.codes.contains(code)) {
+            TP = TP + 1
+          } else {
+            FP = FP + 1
+          }
+        } else {
+          if (doc.codes.contains(code)) {
+            FN = FN + 1
+          } else {
+            TN = TN + 1
+          }
+        }
+      }
+      println("doc was actually in: " + doc.codes)
+
+      val precision = TP / (TP + FP)
+      val recall = TP / (TP + FN)
+      println("precision: " + (TP / (TP + FP)))
+      println("recall: " + (TP / (TP + FN)))
+      println("F1: " + ((2 * precision * recall) / (precision + recall)))
     }
-
-    // test objects
-    val testFeatureVector = SparseVector.zeros[Double](numUniqueTerms)
-    val testDocTF = Utils.getTermFrequencies(docs(0))
-    testDocTF.foreach{case(term, freq) => testFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
-
-    println(LogisticRegression.logistic(theta, testFeatureVector))
   }
 }
