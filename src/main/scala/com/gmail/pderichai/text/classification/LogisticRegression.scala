@@ -20,7 +20,7 @@ object LogisticRegression {
     val alphaMinus = numDocs - alphaPlus
 
     for (i <- util.Random.shuffle(0 to numDocs - 1)) {
-      //println("time step: " + timeStep)
+      println("time step: " + timeStep)
 
       val doc = docs(i)
       val featureVector = docFeatureVectors(doc.ID)
