@@ -1,9 +1,9 @@
 package com.gmail.pderichai.text.classification
-import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
 
 import scala.collection.mutable
 class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], vocabSize: Int, missingTermWeight: Double) {
   val numTrainingDocs = docs.keySet.size.toDouble
+  // Map: category -> P(word|category)
   val catToWordProbs = mutable.Map.empty[String, Map[String, Double]]
 
   // Returns the probability of a given category
@@ -26,14 +26,14 @@ class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mut
   def probOfDocGivenCat(probOfWGivenCMany: Map[String, Double], doc: Document, cat: String): Double = {
     val probOfC = probC(cat)
     val termFreq = doc.termFreq
-    // termFreq.getOrElse(term, 0) --> _.get
+    // P(d|c) = log(P(c)) + SUM(tf(w) * log(P(w|c)))
     Math.log(probOfC) + termFreq.map{case(term, i)=>termFreq.getOrElse(term, 0) * probOfWGivenCMany.getOrElse(term, missingTermWeight)}.sum
   }
 
   // Returns the assigned categories given a document
-  def catsGivenDoc(doc: Document, threshold: Double): collection.Set[String] = {
+  def catsGivenDoc(doc: Document): collection.Set[String] = {
+    // Map: category -> P(c|d)
     val catProbs = cats.keySet.zipWithIndex.map{case (cat, i) => (cat, probOfDocGivenCat(probOfWGivenCMany(cat), doc, cat))}.toMap
-    val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}
     catProbs.toSeq.sortBy(-_._2).take(4).map{case(k, v) => k}.toSet
   }
 }

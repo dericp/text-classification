@@ -15,13 +15,14 @@ import scala.collection.mutable.ListBuffer
 object NaiveBayesMain {
   // Weight assigned to terms that are in validation or test but not in training set
   val MISSING_TERM_RATE = -20
+  val CODE_THRESHOLD = 40
   val naiveBayesClassifier = train()
 
   // Returns a NaiveBayes object that is trained with the documents in src/main/resources/train
   def train() : NaiveBayes = {
     def docs = new ReutersRCVStream("src/main/resources/train").stream
     // Map: code -> docsIDs in code
-    val codesToDocIDs = scala.collection.mutable.Map.empty[String, mutable.Seq[Int]].filter(_._2.size > 40)
+    val codesToDocIDs = scala.collection.mutable.Map.empty[String, mutable.Seq[Int]].filter(_._2.size > CODE_THRESHOLD)
     // Map: docID -> document
     val docIDToDoc = scala.collection.mutable.Map.empty[Int, Document]
     val vocabSize = docIDToDoc.values.map(_.tokens).toSet.size
@@ -44,7 +45,7 @@ object NaiveBayesMain {
     val f1Vals = ListBuffer.empty[Double]
 
     for (doc <- validationDocs) {
-      val foundCats = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc), -1000)
+      val foundCats = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc))
       val correctCats = doc.codes
       val score = docF1Score(foundCats, correctCats)
       f1Vals += score
@@ -62,15 +63,12 @@ object NaiveBayesMain {
 
     for (doc <- testDocs) {
       bw.write("" + doc.ID)
-      val categories = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc), -510)
+      val categories = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc))
       categories.foreach(c => bw.write(" " + c))
       bw.write("\n")
     }
-
-    // close buffered writer
     bw.close()
   }
-
 
   // Takes the Set of categories for this doc found by our algorithm and the
   // Set of categories that are correct for this doc
@@ -88,5 +86,4 @@ object NaiveBayesMain {
   def algF1Score(docScores: ListBuffer[Double]): Double = {
     docScores.sum / docScores.size
   }
-
 }
