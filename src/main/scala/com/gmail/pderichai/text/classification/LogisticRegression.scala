@@ -23,7 +23,7 @@ object LogisticRegression {
       println("time step: " + timeStep)
       val doc = docs(i)
       val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-      val docTermFreq = Utils.getTermFrequencies(doc)
+      val docTermFreq = Utils.getTermFrequencies(doc).toList.sortWith(_._2 > _._2).take(40).toMap
       docTermFreq.foreach { case (term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
 
       //println(featureVector.findAll(_ > 0))
