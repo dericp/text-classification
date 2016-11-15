@@ -7,13 +7,16 @@ object LogisticRegressionMain {
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
+    // cache all the document term frequencies so we don't need to calculate them during training
     val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc)).toMap
-
+    // the index in the feature vector of a term
     val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
     val numUniqueTerms = termToIndexInFeatureVector.size
 
+    // map from codes to trained theta values
     val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docTermFreqs, numUniqueTerms)))
 
+    // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
     for (doc <- validationDocs) {
@@ -55,4 +58,4 @@ object LogisticRegressionMain {
       println("F1: " + ((2 * precision * recall) / (precision + recall)))
     }
   }
-}
+
