@@ -70,7 +70,7 @@ object NaiveBayesMain {
   // Set of categories that are correct for this doc
   // Returns F1 score for doc = 2PR / (P + R)
   def docF1Score(foundCats: scala.collection.Set[String], correctCats: Set[String]): Double = {
-    val relevantRetrieved = foundCats.filter(correctCats(_)).size.toDouble
+    val relevantRetrieved = foundCats.count(correctCats(_)).toDouble
     if (relevantRetrieved == 0) return 0
     val p = relevantRetrieved / foundCats.size
     val r = relevantRetrieved / correctCats.size
