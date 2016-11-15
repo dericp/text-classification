@@ -1,5 +1,6 @@
 package com.gmail.pderichai.text.classification
 
+import breeze.linalg.DenseVector
 import ch.ethz.dal.tinyir.processing.XMLDocument
 
 import scala.io.Source
@@ -27,5 +28,10 @@ object Utils {
 
   def getTopTerms(docs: Stream[XMLDocument], numTerms: Int): Set[String] = {
     docs.flatMap(_.tokens).groupBy(identity).mapValues(l => l.size).toSeq.sortBy(-_._2).take(numTerms).map((t) => t._1).toSet
+  }
+
+  def getFeatureVector(docTermFreq: Map[String, Int], emptyFeatureVector: DenseVector[Double], termToIndexInFeatureVector: Map[String, Int]): DenseVector[Double] = {
+    docTermFreq.foreach { case (term, freq) => emptyFeatureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
+    emptyFeatureVector
   }
 }
