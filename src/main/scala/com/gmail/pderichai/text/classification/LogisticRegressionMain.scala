@@ -3,34 +3,24 @@ import breeze.linalg.{DenseVector, SparseVector, Vector}
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
 object LogisticRegressionMain {
+  val NUM_TERMS = 3000
+  val NUM_CODES = 6000
 
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
-
     val numDocs = docs.size
-    println(numDocs)
-    val numTerms = 3000
 
-    val topTerms = Utils.getTopTerms(docs, numTerms)
+    // Precompute dictionary, Map: term -> index, feature vectors
+    val topTerms = Utils.getTopTerms(docs, NUM_TERMS)
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
-    //println(termToIndexInFeatureVector)
-    // this line is a little questionable
     val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
-    println(docTermFreqs.size)
+    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, NUM_TERMS))}.toSeq
 
-    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, numTerms))}.toSeq
-    println(codesToFeatureVectors.size)
-    //println(docTermFreqs)
-    //val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
-    //val codesToFeatureVectors = docTermFreqs.map { case (doc, termFreq) => (doc.codes, Utils.getFeatureVector(termFreq, termToIndexInFeatureVector)) }.toSeq
-    //println(codesToFeatureVectors.size)
+    // training thetas
+    val thetas = Utils.getTopCodes(docs, NUM_CODES).map(code => (code, LogisticRegression.getTheta(code, codesToFeatureVectors, NUM_TERMS, numDocs, docs.filter(_.codes.contains(code)).size)))
 
-    // all the training is in this step
-    val thetas = Utils.getTopCodes(docs, 6000).map(code => (code, LogisticRegression.getTheta(code, codesToFeatureVectors, numTerms, numDocs, docs.filter(_.codes.contains(code)).size)))
-
-    // EVERYTHING BEYOND HERE IS VALIDATION
+    // validation
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
-
     var runningF1 = 0.0
 
     for (doc <- validationDocs) {
@@ -41,15 +31,12 @@ object LogisticRegressionMain {
 
       for ((code, theta) <- thetas) {
         val docTermFreq = Utils.getTermFrequencies(doc)
-        val featureVector = DenseVector.zeros[Double](numTerms)
+        val featureVector = DenseVector.zeros[Double](NUM_TERMS)
         docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
 
         val prediction = LogisticRegression.logistic(theta, featureVector)
 
-        //println("prediction: " + prediction + " correct " + doc.codes.contains(code))
-
         if (prediction > 0.5) {
-          //println("predicted doc was in: " + code)
           if (doc.codes.contains(code)) {
             TP = TP + 1
           } else {
@@ -63,14 +50,15 @@ object LogisticRegressionMain {
           }
         }
       }
-      //println("doc was actually in: " + doc.codes)
 
       val precision = TP / (TP + FP)
       val recall = TP / (TP + FN)
-      println("precision: " + (TP / (TP + FP)))
-      println("recall: " + (TP / (TP + FN)))
-      println("F1: " + ((2 * precision * recall) / (precision + recall)))
-      runningF1 += (2 * precision * recall) / (precision + recall)
+      val f1 = (2 * precision * recall) / (precision + recall)
+      if (f1.isNaN) {
+        runningF1 += 0
+      } else {
+        runningF1 += (2 * precision * recall) / (precision + recall)
+      }
     }
     println("overall f1: " + runningF1 / numDocs)
   }
