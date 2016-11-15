@@ -21,7 +21,7 @@ object LogisticRegressionMain {
       var FN = 0.0
 
       for ((code, theta) <- thetas) {
-        val docTermFreq = Utils.getTermFrequencies(doc).filter(_._2 > 5)
+        val docTermFreq = Utils.getTermFrequencies(doc).toList.sortWith(_._2 > _._2).take(40).toMap
         val featureVector = SparseVector.zeros[Double](numUniqueTerms)
         docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
 
