@@ -13,7 +13,7 @@ object LogisticRegression {
     1.0 / (1.0 + Math.exp(-1 * (featureVector.dot(theta))))
   }
 
-  def getTheta(docs: Seq[XMLDocument], code: String, termToIndexInFeatureVector: Map[String, Int], numUniqueTerms: Int): DenseVector[Double] = {
+  def getTheta(docs: Seq[XMLDocument], code: String, termToIndexInFeatureVector: Map[String, Int], docTermFreqs: Map[Int, Map[String, Int]], numUniqueTerms: Int): DenseVector[Double] = {
     var theta = DenseVector.zeros[Double](numUniqueTerms)
     var timeStep = 1;
     val alphaPlus = docs.filter(_.codes.contains((code))).size
@@ -23,7 +23,8 @@ object LogisticRegression {
       println("time step: " + timeStep)
       val doc = docs(i)
       val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-      val docTermFreq = Utils.getTermFrequencies(doc).toList.sortWith(_._2 > _._2).take(40).toMap
+      val docTermFreq = docTermFreqs(doc.ID)
+      //val docTermFreq = Utils.getTermFrequencies(doc).toList.sortWith(_._2 > _._2).take(40).toMap
       docTermFreq.foreach { case (term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
 
       //println(featureVector.findAll(_ > 0))

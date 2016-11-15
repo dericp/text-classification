@@ -7,10 +7,12 @@ object LogisticRegressionMain {
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
+    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc)).toMap
+
     val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
     val numUniqueTerms = termToIndexInFeatureVector.size
 
-    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, numUniqueTerms)))
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docTermFreqs, numUniqueTerms)))
 
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
