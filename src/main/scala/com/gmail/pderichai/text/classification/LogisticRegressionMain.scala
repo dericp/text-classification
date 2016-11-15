@@ -12,14 +12,18 @@ object LogisticRegressionMain {
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
-    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc)).toMap
+    val numDocs = docs.size
+    val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
+    val numUniqueTerms = 1000
 
-    val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
-    val numUniqueTerms = termToIndexInFeatureVector.size
+    val topTerms = Utils.getTopTerms(docs, numUniqueTerms)
+    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+
+    val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
+
     val docFeatureVectors = docTermFreqs.map{ case(docID, termFreq) => (docID, getFeatureVector(termFreq, DenseVector.zeros[Double](numUniqueTerms), termToIndexInFeatureVector))}
 
-
-    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docFeatureVectors, numUniqueTerms)))
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docFeatureVectors, numUniqueTerms, alphaPluses)))
 
 
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
