@@ -9,11 +9,15 @@ import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
 
 /**
-  * Created by Isa on 11/15/2016.
+  * Main class for validating or creating test output document using NaiveBayes.
+  *
   */
 object NaiveBayesMain {
+  // Weight assigned to terms that are in validation or test but not in training set
+  val MISSING_TERM_RATE = -20
   val naiveBayesClassifier = train()
 
+  // Returns a NaiveBayes object that is trained with the documents in src/main/resources/train
   def train() : NaiveBayes = {
     def docs = new ReutersRCVStream("src/main/resources/train").stream
     // Map: code -> docsIDs in code
@@ -30,39 +34,29 @@ object NaiveBayesMain {
       }
     }
 
-    new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, -10)
+    new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, MISSING_TERM_RATE)
   }
 
+  // Validates a NaiveBayes instance using the documents in src/main/resources/validation
+  // Prints the average f1 score to output
   def runOnValidationSet(): Unit = {
-    // Validation
     def validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
-
     val f1Vals = ListBuffer.empty[Double]
-    //var i = 0
 
     for (doc <- validationDocs) {
-      //if (i <= 300) {
       val foundCats = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc), -1000)
       val correctCats = doc.codes
       val score = docF1Score(foundCats, correctCats)
-      //println("i = " + i + ", score = " + score)
       f1Vals += score
-      //i += 1
-      //println()
-      //}
     }
-    println()
     println("f1 score: " + algF1Score(f1Vals))
-    //println("missingTermWeight: -100")
-    println("finished f1vals = " + f1Vals)
   }
 
-
+  // Tests a NaiveBayes instance on the documents in src/main/resources/test
+  // Creates a document in the following format:
+  // [document ID] [category 1] [category 2] [category 3] [category 4]
   def runOnTestSet(): Unit = {
-    // Test output
     def testDocs = new ReutersRCVStream("src/main/resources/test").stream
-
-    /* WRITE TO FILE */
     val file = new File("ir-2016-project-13-nb.txt")
     val bw = new BufferedWriter(new FileWriter(file))
 
