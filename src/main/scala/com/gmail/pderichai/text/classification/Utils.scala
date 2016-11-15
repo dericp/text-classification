@@ -24,4 +24,25 @@ object Utils {
     val topicCodes = Source.fromFile("src/main/resources/codes/topic_codes.txt").getLines().map(line => line.split("\t")(0)).toSet
     industryCodes union regionCodes union topicCodes
   }
+
+  // Takes an XMLDocument doc
+  // Returns a Document representing doc
+  def shortenContent(doc: XMLDocument): Document = {
+    val termFreqs = topKTermFreq(doc, 60)
+    return new Document(termFreqs, doc.codes, doc.tokens.filter(keepWord(_, termFreqs)), doc.ID)
+  }
+
+  // Takes an XMLDocument
+  // Returns the term frequency map of the document, deleting stop words and keeping only the top k
+  def topKTermFreq(doc: XMLDocument, k: Int): Map[String, Int] = {
+    collection.immutable.ListMap(getTermFrequencies(doc).toList.sortBy{-_._2}:_*).take(k)
+  }
+
+  // Takes a String s and the term frequencies for a document
+  // Returns whether or not the doc should store the word
+  def keepWord(s: String, termFreqs: Map[String, Int]): Boolean = {
+    val stops = !STOP_WORDS.contains(s)
+    val terms = termFreqs.keySet.contains(s)
+    return stops && terms
+  }
 }
