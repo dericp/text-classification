@@ -1,9 +1,7 @@
 package com.gmail.pderichai.text.classification
 
-//import com.gmail.pderichai.text.classification.{SVMMain, LogisticRegressionMain, NaiveBayesMain}
-
 /**
-  * Created by Isa on 11/15/2016.
+  * Main class to run any of the algorithms
   */
 object Main {
 
