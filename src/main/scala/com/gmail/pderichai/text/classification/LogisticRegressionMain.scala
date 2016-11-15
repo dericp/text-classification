@@ -14,39 +14,43 @@ object LogisticRegressionMain {
 
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
-    var TP = 0.0
-    var FP = 0.0
-    var TN = 0.0
-    var FN = 0.0
-
     for (doc <- validationDocs) {
-      val docTermFreq = Utils.getTermFrequencies(doc)
-      val featureVector = SparseVector.zeros[Double](numUniqueTerms)
-      docTermFreq.foreach{case(term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble)}
+      var TP = 0.0
+      var FP = 0.0
+      var TN = 0.0
+      var FN = 0.0
 
-      val prediction = LogisticRegression.logistic(theta, featureVector)
+      for ((code, theta) <- thetas) {
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = SparseVector.zeros[Double](numUniqueTerms)
+        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
 
-      println("prediction: " + prediction + " correct " + doc.codes.contains(code))
+        val prediction = LogisticRegression.logistic(theta, featureVector)
 
-      if (prediction > 0.5) {
-        if (doc.codes.contains(code)) {
-          TP = TP + 1
+        //println("prediction: " + prediction + " correct " + doc.codes.contains(code))
+
+        if (prediction > 0.5) {
+          println("predicted doc was in: " + code)
+          if (doc.codes.contains(code)) {
+            TP = TP + 1
+          } else {
+            FP = FP + 1
+          }
         } else {
-          FP = FP + 1
-        }
-      } else {
-        if (doc.codes.contains(code)) {
-          FN = FN + 1
-        } else {
-          TN = TN + 1
+          if (doc.codes.contains(code)) {
+            FN = FN + 1
+          } else {
+            TN = TN + 1
+          }
         }
       }
-    }
+      println("doc was actually in: " + doc.codes)
 
-    val precision = TP / (TP + FP)
-    val recall = TP / (TP + FN)
-    println("precision: " + (TP / (TP + FP)))
-    println("recall: " + (TP / (TP + FN)))
-    println("F1: " + ((2 * precision * recall) / (precision + recall)))
+      val precision = TP / (TP + FP)
+      val recall = TP / (TP + FN)
+      println("precision: " + (TP / (TP + FP)))
+      println("recall: " + (TP / (TP + FN)))
+      println("F1: " + ((2 * precision * recall) / (precision + recall)))
+    }
   }
 }

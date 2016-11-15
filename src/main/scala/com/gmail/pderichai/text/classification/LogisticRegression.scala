@@ -20,7 +20,7 @@ object LogisticRegression {
     val alphaMinus = 50000 - alphaPlus
 
     for (i <- util.Random.shuffle(0 to docs.size - 1)) {
-      //println("time step: " + timeStep)
+      println("time step: " + timeStep)
       val doc = docs(i)
       val featureVector = SparseVector.zeros[Double](numUniqueTerms)
       val docTermFreq = Utils.getTermFrequencies(doc)
