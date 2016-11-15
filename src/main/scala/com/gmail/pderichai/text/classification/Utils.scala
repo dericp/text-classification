@@ -26,6 +26,10 @@ object Utils {
     industryCodes union regionCodes union topicCodes
   }
 
+  def getTopCodes(docs: Stream[XMLDocument], numCodes: Int): Set[String] = {
+    docs.flatMap(_.codes).groupBy(identity).mapValues(l => l.length).toSeq.sortBy(-_._2).take(numCodes).map(_._1).toSet
+  }
+
   // Takes an XMLDocument doc
   // Returns a Document representing doc
   def shortenContent(doc: XMLDocument): Document = {
