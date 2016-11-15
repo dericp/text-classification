@@ -4,9 +4,10 @@ import ch.ethz.dal.tinyir.processing.XMLDocument
 
 object LogisticRegression {
 
+<<<<<<< HEAD
   def newTheta(theta: DenseVector[Double], featureVector: DenseVector[Double], docIsInCategory: Boolean, timeStep: Int, alphaPlus: Int, alphaMinus: Int): DenseVector[Double] = {
     val z = if (docIsInCategory) alphaMinus * (1 - logistic(theta, featureVector)) else -alphaPlus * (logistic(theta,featureVector))
-    theta + ((featureVector * z) * (1.0 / Math.sqrt(timeStep)))
+    theta + ((featureVector * z) * (1.0 / timeStep))
   }
 
   def logistic(theta: DenseVector[Double], featureVector: DenseVector[Double]) : Double = {

@@ -26,6 +26,7 @@ object LogisticRegressionMain {
     val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docFeatureVectors, numUniqueTerms, alphaPluses)))
 
 
+    // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
     for (doc <- validationDocs) {
@@ -67,4 +68,4 @@ object LogisticRegressionMain {
       println("F1: " + ((2 * precision * recall) / (precision + recall)))
     }
   }
-}
+
