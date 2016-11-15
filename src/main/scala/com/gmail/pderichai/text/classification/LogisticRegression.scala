@@ -31,6 +31,7 @@ object LogisticRegression {
       theta = LogisticRegression.newTheta(theta, featureVector, doc.codes.contains(code), timeStep, alphaPlus, alphaMinus)
       timeStep += 1
     }
+    println("got a theta for code: " + code + " " + theta)
     theta
   }
 }
