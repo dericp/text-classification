@@ -6,11 +6,11 @@ object LogisticRegression {
 
   def newTheta(theta: DenseVector[Double], featureVector: DenseVector[Double], docIsInCategory: Boolean, timeStep: Int, alphaPlus: Int, alphaMinus: Int): DenseVector[Double] = {
     val z = if (docIsInCategory) alphaMinus * (1 - logistic(theta, featureVector)) else -alphaPlus * (logistic(theta,featureVector))
-    theta + ((featureVector * z) * (1.0 / timeStep))
+    theta + ((featureVector) * (z * 1.0 / timeStep))
   }
 
   def logistic(theta: DenseVector[Double], featureVector: DenseVector[Double]) : Double = {
-    1.0 / (1.0 + Math.exp(-1 * (featureVector.dot(theta))))
+    1.0 / (1.0 + Math.exp(-(featureVector.dot(theta))))
   }
 
   def getTheta(docs: Seq[XMLDocument], numDocs: Int, code: String, termToIndexInFeatureVector: Map[String, Int], docFeatureVectors: Map[Int, DenseVector[Double]], numUniqueTerms: Int, alphaPluses: Map[String, Int]): DenseVector[Double] = {
@@ -25,7 +25,7 @@ object LogisticRegression {
       val doc = docs(i)
       val featureVector = docFeatureVectors(doc.ID)
 
-      //println(featureVector.findAll(_ > 0))
+      //println("feature vector: " + featureVector.findAll(_ > 0))
 
       theta = LogisticRegression.newTheta(theta, featureVector, doc.codes.contains(code), timeStep, alphaPlus, alphaMinus)
       timeStep += 1

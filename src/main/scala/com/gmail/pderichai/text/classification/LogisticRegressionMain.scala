@@ -11,15 +11,20 @@ object LogisticRegressionMain {
     val numTerms = 1000
 
     val topTerms = Utils.getTopTerms(docs, numTerms)
-    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
-    val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
+    //println(termToIndexInFeatureVector)
+    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+    //println(docTermFreqs)
+    val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
     val docFeatureVectors = docTermFreqs.map { case (docID, termFreq) => (docID, Utils.getFeatureVector(termFreq, DenseVector.zeros[Double](numTerms), termToIndexInFeatureVector)) }
 
+    // all the training is in this step
     val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, numDocs, code, termToIndexInFeatureVector, docFeatureVectors, numTerms, alphaPluses)))
 
     // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
+
+    var runningF1 = 0.0
 
     for (doc <- validationDocs) {
       var TP = 0.0
@@ -37,7 +42,7 @@ object LogisticRegressionMain {
         //println("prediction: " + prediction + " correct " + doc.codes.contains(code))
 
         if (prediction > 0.5) {
-          println("predicted doc was in: " + code)
+          //println("predicted doc was in: " + code)
           if (doc.codes.contains(code)) {
             TP = TP + 1
           } else {
@@ -51,13 +56,15 @@ object LogisticRegressionMain {
           }
         }
       }
-      println("doc was actually in: " + doc.codes)
+      //println("doc was actually in: " + doc.codes)
 
       val precision = TP / (TP + FP)
       val recall = TP / (TP + FN)
       println("precision: " + (TP / (TP + FP)))
       println("recall: " + (TP / (TP + FN)))
       println("F1: " + ((2 * precision * recall) / (precision + recall)))
+      runningF1 += (2 * precision * recall) / (precision + recall)
     }
+    println("overall f1: " + runningF1 / numDocs)
   }
 }
