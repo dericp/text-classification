@@ -1,5 +1,10 @@
 # text-classification
 
+Move the zipped training, validation, and test data into src/main/resources/validation/, src/main/resources/training/,
+and src/main/resources/test/. Place the src folder and the build.sbt into the same folder and run "sbt compile".
+
+Using SBT run, pass the proper arguments into the main method.
+
 In order to run our classifiers, run Main.scala with the following runtime arguments:
 
 The first argument corresponds to which algorithm to use for the classifier:
@@ -15,9 +20,9 @@ The second argument corresponds to which data set to run the algorithm on:
 
 Examples of running the program:
 
-    > ./Main nb test
+    >  nb test
         to return text file "ir-2016-project-13-nb.txt" for running naive bayes on test set
-    > ./Main svm validate
+    >  svm validate
         to print out an F1 score for the SVM classifier based on the validation set
 
 ** output file for test set gets returned to top-level project folder **
