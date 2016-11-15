@@ -20,11 +20,11 @@ object Main {
 
     (args(0), args(1)) match {
       case ("nb", "test") => NaiveBayesMain.runOnTestSet()
-      case ("lr", "test") => //LogisticRegressionMain.test()
-      case ("svm", "test") => //SVMMain.test()
+      case ("lr", "test") => //LogisticRegressionMain
+      case ("svm", "test") => SVMMain.runOnTestSet()
       case ("nb", "validate") => NaiveBayesMain.runOnValidationSet()
-      case ("lr", "validate") => 2
-      case ("svm", "validate") => 3
+      case ("lr", "validate") => //LogisticRegressionMain
+      case ("svm", "validate") => SVMMain.runOnValidationSet()
     }
 
   }

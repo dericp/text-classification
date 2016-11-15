@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="text-classification">
+    <output-path>$PROJECT_DIR$/out/artifacts/text_classification</output-path>
+    <root id="archive" name="text-classification.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/scala/com" />
+      <element id="file-copy" path="$PROJECT_DIR$/build.sbt" />
+      <element id="file-copy" path="$PROJECT_DIR$/README.md" />
+    </root>
+  </artifact>
+</component>
