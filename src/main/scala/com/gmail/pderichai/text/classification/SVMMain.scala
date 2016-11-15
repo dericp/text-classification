@@ -8,32 +8,67 @@ object SVMMain {
   def main(args: Array[String]): Unit = {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
-    val termToIndexInFeatureVector = docs.flatMap(_.tokens).distinct.zipWithIndex.toMap
-    // temp hard-coded code
-    val code = "USA"
-    var timeStep = 1
-    // 178069 is the number of unique words in the training vocabulary
-    var theta = DenseVector.zeros[Double](178069)
-    val lambda = 0.001
+    val numDocs = docs.size
+    println(numDocs)
+    val numTerms = 3000
 
-    // random testing code
-    //val docVec = SparseVector.zeros[Double](termToIndexInFeatureVector.size)
-    //shortenContent(docs(0)).termFreq.foreach{case(term, freq) => docVec(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
+    val topTerms = Utils.getTopTerms(docs, numTerms)
+    val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
+    //println(termToIndexInFeatureVector)
+    // this line is a little questionable
+    val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+    println(docTermFreqs.size)
 
-    for (i <- util.Random.shuffle(0 to docs.size - 1)) {
-      val doc = docs(i)
-      val docTermFreq = Utils.getTermFrequencies(doc)
-      val featureVector = Vector.zeros[Double](termToIndexInFeatureVector.size)
-      val y = if(doc.codes.contains(code)) 1 else -1
+    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, numTerms))}.toSeq
+    println(codesToFeatureVectors.size)
 
-      // populating the featureVector with term frequencies from the current document
-      docTermFreq.foreach{case(term, freq) => featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble}
+    // all the training is in this step
+    val thetas = Utils.getCodes().map(code => (code, SVM.getTheta(code, codesToFeatureVectors, numTerms)))
 
-      theta = SVM.updateStep(theta, new SVM.DataPoint(featureVector, y), lambda, timeStep)
-      timeStep += 1
+    // EVERYTHING BEYOND HERE IS VALIDATION
+    /*val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
 
-      //println("step: " + timeStep)
+    var runningF1 = 0.0
+
+    for (doc <- validationDocs) {
+      var TP = 0.0
+      var FP = 0.0
+      var TN = 0.0
+      var FN = 0.0
+
+      for ((code, theta) <- thetas) {
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = DenseVector.zeros[Double](numTerms)
+        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
+
+        val prediction = LogisticRegression.logistic(theta, featureVector)
+
+        //println("prediction: " + prediction + " correct " + doc.codes.contains(code))
+
+        if (prediction > 0.5) {
+          //println("predicted doc was in: " + code)
+          if (doc.codes.contains(code)) {
+            TP = TP + 1
+          } else {
+            FP = FP + 1
+          }
+        } else {
+          if (doc.codes.contains(code)) {
+            FN = FN + 1
+          } else {
+            TN = TN + 1
+          }
+        }
+      }
+      //println("doc was actually in: " + doc.codes)
+
+      val precision = TP / (TP + FP)
+      val recall = TP / (TP + FN)
+      println("precision: " + (TP / (TP + FP)))
+      println("recall: " + (TP / (TP + FN)))
+      println("F1: " + ((2 * precision * recall) / (precision + recall)))
+      runningF1 += (2 * precision * recall) / (precision + recall)
     }
-    //println(theta.dot(docVec))
+    println("overall f1: " + runningF1 / numDocs)*/
   }
 }
