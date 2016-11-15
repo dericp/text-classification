@@ -8,18 +8,25 @@ object LogisticRegressionMain {
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
     val numDocs = docs.size
-    val numTerms = 1000
+    println(numDocs)
+    val numTerms = 100
 
     val topTerms = Utils.getTopTerms(docs, numTerms)
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
     //println(termToIndexInFeatureVector)
-    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+    // this line is a little questionable
+    val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+    println(docTermFreqs.size)
+
+    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, numTerms))}.toSeq
+    println(codesToFeatureVectors.size)
     //println(docTermFreqs)
-    val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
-    val docFeatureVectors = docTermFreqs.map { case (docID, termFreq) => (docID, Utils.getFeatureVector(termFreq, DenseVector.zeros[Double](numTerms), termToIndexInFeatureVector)) }
+    //val alphaPluses = Utils.getCodes.map(code => code -> docs.filter(_.codes.contains(code)).size).toMap
+    //val codesToFeatureVectors = docTermFreqs.map { case (doc, termFreq) => (doc.codes, Utils.getFeatureVector(termFreq, termToIndexInFeatureVector)) }.toSeq
+    //println(codesToFeatureVectors.size)
 
     // all the training is in this step
-    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, numDocs, code, termToIndexInFeatureVector, docFeatureVectors, numTerms, alphaPluses)))
+    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(code, codesToFeatureVectors, numTerms, numDocs)))
 
     // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
