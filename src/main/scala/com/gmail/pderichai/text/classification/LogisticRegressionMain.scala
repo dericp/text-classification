@@ -21,7 +21,7 @@ object LogisticRegressionMain {
 
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
 
-    val docFeatureVectors = docTermFreqs.map{ case(docID, termFreq) => (docID, getFeatureVector(termFreq, DenseVector.zeros[Double](numUniqueTerms), termToIndexInFeatureVector))}
+    val docFeatureVectors = docTermFreqs.map { case (docID, termFreq) => (docID, getFeatureVector(termFreq, DenseVector.zeros[Double](numUniqueTerms), termToIndexInFeatureVector)) }
 
     val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(docs, code, termToIndexInFeatureVector, docFeatureVectors, numUniqueTerms, alphaPluses)))
 
@@ -68,4 +68,4 @@ object LogisticRegressionMain {
       println("F1: " + ((2 * precision * recall) / (precision + recall)))
     }
   }
-
+}
