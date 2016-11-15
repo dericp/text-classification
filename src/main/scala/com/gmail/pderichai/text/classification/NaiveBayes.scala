@@ -1,6 +1,6 @@
 package com.gmail.pderichai.text.classification
-
 import scala.collection.mutable
+
 class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mutable.Seq[Int]], vocabSize: Int, missingTermWeight: Double) {
   val numTrainingDocs = docs.keySet.size.toDouble
   // Map: category -> P(word|category)

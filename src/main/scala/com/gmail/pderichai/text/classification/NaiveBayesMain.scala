@@ -1,10 +1,6 @@
 package com.gmail.pderichai.text.classification
-
 import java.io.{BufferedWriter, File, FileWriter}
-
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
-import ch.ethz.dal.tinyir.processing.XMLDocument
-
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
 
