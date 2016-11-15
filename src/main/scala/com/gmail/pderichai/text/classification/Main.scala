@@ -8,15 +8,14 @@ import scala.collection.mutable.ListBuffer
 
 object Main {
   def main(args: Array[String]): Unit = {
-    // Map: docID -> document
     def docs = new ReutersRCVStream("src/main/resources/train").stream
-//    val iter = docs.iterator
-//    val doc1 = iter.next()
-//    val doc2 = iter.next()
+    // Map: code -> docsIDs in code
     val codesToDocIDs = scala.collection.mutable.Map.empty[String, mutable.Seq[Int]].filter(_._2.size > 40)
+    // Map: docID -> document
     val docIDToDoc = scala.collection.mutable.Map.empty[Int, Document]
     val vocabSize = docIDToDoc.values.map(_.tokens).toSet.size
 
+    // Training
     for (doc <- docs) {
       docIDToDoc += doc.ID -> shortenContent(doc)
       for (code <- doc.codes) {
@@ -26,9 +25,10 @@ object Main {
 
     println("finished training")
 
+    // Validation
     def validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
     val f1Vals = ListBuffer.empty[Double]
-    val naiveBayes = new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, -50) /*
+    val naiveBayes = new NaiveBayes(docIDToDoc, codesToDocIDs, vocabSize, -50)
     var i = 0
     var prevLen = 0;
 
@@ -47,9 +47,9 @@ object Main {
     println()
     println("f1 score: " + algF1Score(f1Vals))
     println("finished f1vals = " + f1Vals)
-*/
 
 
+    // Test output
     def testDocs = new ReutersRCVStream("src/main/resources/test").stream
 
     /* WRITE TO FILE */
