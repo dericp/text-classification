@@ -12,7 +12,7 @@ object LogisticRegressionMain {
 
     val numDocs = docs.size
     println(numDocs)
-    val numTerms = 100
+    val numTerms = 3000
 
     val topTerms = Utils.getTopTerms(docs, numTerms)
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
@@ -29,7 +29,7 @@ object LogisticRegressionMain {
     //println(codesToFeatureVectors.size)
 
     // all the training is in this step
-    val thetas = Utils.getCodes().map(code => (code, LogisticRegression.getTheta(code, codesToFeatureVectors, numTerms, numDocs)))
+    val thetas = Utils.getTopCodes(docs, 6000).map(code => (code, LogisticRegression.getTheta(code, codesToFeatureVectors, numTerms, numDocs, docs.filter(_.codes.contains(code)).size)))
 
     // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
