@@ -42,7 +42,7 @@ object NaiveBayesMain {
 
     for (doc <- validationDocs) {
       //if (i <= 300) {
-      val foundCats = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc), -1000)
+      val foundCats = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc))
       val correctCats = doc.codes
       val score = docF1Score(foundCats, correctCats)
       //println("i = " + i + ", score = " + score)
@@ -68,7 +68,7 @@ object NaiveBayesMain {
 
     for (doc <- testDocs) {
       bw.write("" + doc.ID)
-      val categories = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc), -510)
+      val categories = naiveBayesClassifier.catsGivenDoc(Utils.shortenContent(doc))
       categories.foreach(c => bw.write(" " + c))
       bw.write("\n")
     }

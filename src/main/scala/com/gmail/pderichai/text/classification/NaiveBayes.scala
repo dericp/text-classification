@@ -31,7 +31,7 @@ class NaiveBayes(docs: mutable.Map[Int, Document], cats: mutable.Map[String, mut
   }
 
   // Returns the assigned categories given a document
-  def catsGivenDoc(doc: Document, threshold: Double): collection.Set[String] = {
+  def catsGivenDoc(doc: Document): collection.Set[String] = {
     val catProbs = cats.keySet.zipWithIndex.map{case (cat, i) => (cat, probOfDocGivenCat(probOfWGivenCMany(cat), doc, cat))}.toMap
     val thresholdProbs = catProbs.filter{case (cat, prob) => prob >= threshold}
     catProbs.toSeq.sortBy(-_._2).take(4).map{case(k, v) => k}.toSet
