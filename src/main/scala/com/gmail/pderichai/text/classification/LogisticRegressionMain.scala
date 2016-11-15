@@ -1,4 +1,6 @@
 package com.gmail.pderichai.text.classification
+import java.io.{BufferedWriter, File, FileWriter}
+
 import breeze.linalg.{DenseVector, SparseVector, Vector}
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
@@ -60,6 +62,5 @@ object LogisticRegressionMain {
         runningF1 += (2 * precision * recall) / (precision + recall)
       }
     }
-    println("overall f1: " + runningF1 / numDocs)
   }
 }

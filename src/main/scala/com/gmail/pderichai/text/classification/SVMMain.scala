@@ -1,5 +1,7 @@
 package com.gmail.pderichai.text.classification
-import breeze.linalg.{DenseVector}
+import java.io.{BufferedWriter, File, FileWriter}
+
+import breeze.linalg.DenseVector
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 
 // Class to use an SVM to classify documents
@@ -8,22 +10,22 @@ object SVMMain {
   val LAMBDA = 0.001
   val NUM_CODES = 300
 
-  def main(args: Array[String]): Unit = {
-    val docs = new ReutersRCVStream("src/main/resources/train").stream
-    val numDocs = docs.size
-    // NUMDOCS number of terms in the dictionary
-    val topTerms = Utils.getTopTerms(docs, NUM_TERMS)
-    // Map: term -> index in vectors
-    val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
-    // Map: doc -> most common terms in doc that are in topTerms
-    val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
-    // Map: (codes, index) -> feature vector of doc with codes
-    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, NUM_TERMS))}.toSeq
+  def docs = new ReutersRCVStream("src/main/resources/train").stream
+  val numDocs = docs.size
+  // NUMDOCS number of terms in the dictionary
+  val topTerms = Utils.getTopTerms(docs, NUM_TERMS)
+  // Map: term -> index in vectors
+  val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
+  // Map: doc -> most common terms in doc that are in topTerms
+  val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+  // Map: (codes, index) -> feature vector of doc with codes
+  val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, NUM_TERMS))}.toSeq
 
-    // training thetas
-    val thetas = Utils.getTopCodes(docs, 300).map(code => (code, SVM.getTheta(code, codesToFeatureVectors, NUM_TERMS)))
+  // training thetas
+  val thetas = Utils.getTopCodes(docs, 300).map(code => (code, SVM.getTheta(code, codesToFeatureVectors, NUM_TERMS)))
 
-    // validation
+
+  def runOnValidationSet() : Unit = {
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
     var runningF1 = 0.0
 
@@ -66,5 +68,31 @@ object SVMMain {
       }
     }
     println("overall f1: " + runningF1 / numDocs)
+  }
+
+
+  def runOnTestSet() : Unit = {
+    val testDocs = new ReutersRCVStream("src/main/resources/test").stream
+
+    val file = new File("ir-2016-project-13-svm.txt")
+    val writer = new BufferedWriter(new FileWriter(file))
+
+    for (doc <- testDocs) {
+      writer.write(doc.ID.toString)
+
+      for ((code, theta) <- thetas) {
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = DenseVector.zeros[Double](NUM_TERMS)
+        // populate feature vector with term frequencies of document
+        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble }
+
+        val prediction = theta.dot(featureVector)
+
+        if (prediction > 0) {
+          writer.write(" " + code)
+        }
+      }
+      writer.write("\n")
+    }
   }
 }
