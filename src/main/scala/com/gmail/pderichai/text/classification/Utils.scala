@@ -45,4 +45,8 @@ object Utils {
     val terms = termFreqs.keySet.contains(s)
     return stops && terms
   }
+
+  def getTopTerms(docs: Stream[XMLDocument], numTerms: Int): Set[String] = {
+    docs.flatMap(_.tokens).groupBy(identity).mapValues(l => l.size).toSeq.sortBy(-_._2).take(numTerms).map((t) => t._1).toSet
+  }
 }
