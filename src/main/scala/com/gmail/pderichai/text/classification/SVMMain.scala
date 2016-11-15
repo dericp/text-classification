@@ -17,88 +17,65 @@ object SVMMain {
 
     val docs = new ReutersRCVStream("src/main/resources/train").stream
 
-    // Pruning dictionary to NUM_TERMS terms
-    val topTerms = Utils.getTopTerms(docs, NUM_TERMS)
-    // Map: term -> index
+    val numDocs = docs.size
+    println(numDocs)
+    val numTerms = 3000
+
+    val topTerms = Utils.getTopTerms(docs, numTerms)
     val termToIndexInFeatureVector = topTerms.zipWithIndex.toMap
-    // Map: doc ID -> term frequencies of document
-    val docTermFreqs = docs.map(doc => doc.ID -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
-    // Map: doc ID -> document feature vector
-    val docFeatureVectors = docTermFreqs.map { case (docID, termFreq) => (docID, Utils.getFeatureVector(termFreq, DenseVector.zeros[Double](NUM_TERMS), termToIndexInFeatureVector)) }
-    def emptyTheta = DenseVector.zeros[Double](NUM_TERMS)
-    // Map: category -> empty vector (initial theta)
-    val thetas = Utils.getCodes.map{case(code) => code -> emptyTheta}.toMap
-    var timeStep = 1
+    //println(termToIndexInFeatureVector)
+    // this line is a little questionable
+    val docTermFreqs = docs.map(doc => doc -> Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))).toMap
+    println(docTermFreqs.size)
 
-    println("setup finished")
+    val codesToFeatureVectors = docTermFreqs.zipWithIndex.map { case ((t), index) => ((t._1.codes, index), Utils.getFeatureVector(t._2, termToIndexInFeatureVector, numTerms))}.toSeq
+    println(codesToFeatureVectors.size)
 
-    // training
-    for (i <- util.Random.shuffle(0 to docs.size - 1)) {
-      val doc = docs(i)
-      val docTermFreq = docTermFreqs(doc.ID)
-      val featureVector = docFeatureVectors(doc.ID)
-      for ((code, theta) <- thetas) {
-        val y = if (doc.codes.contains(code)) 1 else -1
-        var theta = thetas(code)
-        theta = SVM.updateStep(theta, new SVM.DataPoint(featureVector, y), LAMBDA, timeStep)
-        for (i <- (0 to theta.length - 1)) {
-          thetas(code)(i) = theta(i)
-        }
-        timeStep += 1
-      }
-    }
+    // all the training is in this step
+    val thetas = Utils.getCodes().map(code => (code, SVM.getTheta(code, codesToFeatureVectors, numTerms)))
 
-    println("training finished")
-
-    // validation
+    // EVERYTHING BEYOND HERE IS VALIDATION
     val validationDocs = new ReutersRCVStream("src/main/resources/validation").stream
-    val f1Scores = ListBuffer.empty[Double]
+
+    var runningF1 = 0.0
 
     for (doc <- validationDocs) {
-      val termFreq = Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))
-      val featureVector = Utils.getFeatureVector(termFreq, DenseVector.zeros[Double](NUM_TERMS), termToIndexInFeatureVector)
-      val assignedCats = collection.mutable.Set.empty[String]
-      val correctCats = doc.codes
+      var TP = 0.0
+      var FP = 0.0
+      var TN = 0.0
+      var FN = 0.0
 
       for ((code, theta) <- thetas) {
-        val lossNotInCat = SVM.hingeLoss(theta, featureVector, -1)
-        val lossInCat = SVM.hingeLoss(theta, featureVector, 1)
-        if (lossInCat < lossNotInCat) assignedCats.+=(code)
+        val docTermFreq = Utils.getTermFrequencies(doc)
+        val featureVector = DenseVector.zeros[Double](numTerms)
+        docTermFreq.foreach { case (term, freq) => if (termToIndexInFeatureVector.contains(term)) (featureVector(termToIndexInFeatureVector.get(term).get) = freq.toDouble) }
+
+        val prediction = theta.dot(featureVector)
+
+        if (prediction > 0) {
+          //println("predicted doc was in: " + code)
+          if (doc.codes.contains(code)) {
+            TP = TP + 1
+          } else {
+            FP = FP + 1
+          }
+        } else {
+          if (doc.codes.contains(code)) {
+            FN = FN + 1
+          } else {
+            TN = TN + 1
+          }
+        }
       }
-      f1Scores += docF1Score(assignedCats, correctCats)
+      //println("doc was actually in: " + doc.codes)
+
+      val precision = TP / (TP + FP)
+      val recall = TP / (TP + FN)
+      println("precision: " + (TP / (TP + FP)))
+      println("recall: " + (TP / (TP + FN)))
+      println("F1: " + ((2 * precision * recall) / (precision + recall)))
+      runningF1 += (2 * precision * recall) / (precision + recall)
     }
-
-    val avgF1Score = f1Scores.sum / f1Scores.size
-    println("f1 score: " + avgF1Score)
-
-    // test
-//    val testDocs = new ReutersRCVStream("src/main/resources/test").stream
-//    val file = new File("ir-2016-project-13-svm.txt")
-//    val bw = new BufferedWriter(new FileWriter(file))
-//
-//    for (doc <- testDocs) {
-//      bw.write(doc.ID.toString)
-//      val termFreq = Utils.getTermFrequencies(doc).filter(t => topTerms.contains(t._1))
-//      val featureVector = Utils.getFeatureVector(termFreq, DenseVector.zeros[Double](NUM_TERMS), termToIndexInFeatureVector)
-//      val assignedCats = collection.mutable.Set.empty[String]
-//      val correctCats = doc.codes
-//
-//      for ((code, theta) <- thetas) {
-//        val lossNotInCat = SVM.hingeLoss(theta, featureVector, -1)
-//        val lossInCat = SVM.hingeLoss(theta, featureVector, 1)
-//        if (lossInCat < lossNotInCat) bw.write(" " + code)
-//      }
-//      bw.write("\n")
-//    }
-//    bw.close()
-  }
-
-  // Returns F1 score for doc = 2PR / (P + R)
-  def docF1Score(foundCats: scala.collection.Set[String], correctCats: Set[String]): Double = {
-    val relevantRetrieved = foundCats.count(correctCats(_)).toDouble
-    if (relevantRetrieved == 0) return 0
-    val p = relevantRetrieved / foundCats.size
-    val r = relevantRetrieved / correctCats.size
-    2 * p * r / (p + r)
+    println("overall f1: " + runningF1 / numDocs)
   }
 }

@@ -13,10 +13,9 @@ object LogisticRegression {
     1.0 / (1.0 + Math.exp(-(featureVector.dot(theta))))
   }
 
-  def getTheta(code: String, codesToFeatureVectors: Seq[((Set[String], Int), DenseVector[Double])], numUniqueTerms: Int, numDocs: Int): DenseVector[Double] = {
+  def getTheta(code: String, codesToFeatureVectors: Seq[((Set[String], Int), DenseVector[Double])], numUniqueTerms: Int, numDocs: Int, alphaPlus: Int): DenseVector[Double] = {
     var theta = DenseVector.zeros[Double](numUniqueTerms)
     var timeStep = 1
-    val alphaPlus = 1
     //println(alphaPlus)
     val alphaMinus = numDocs - alphaPlus
 

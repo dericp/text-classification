@@ -15,12 +15,23 @@ object SVM {
       thetaShrink + (p.x * (1.0 / (lambda * step)) * p.y)
   }
 
-  def hingeLoss(theta: DenseVector[Double], docVector: DenseVector[Double], y: Int): Double = {
-    Math.max(-theta.dot(docVector) * y + 1, 0)
-  }
+  def getTheta(code: String, codesToFeatureVectors: Seq[((Set[String], Int), DenseVector[Double])], numUniqueTerms: Int): DenseVector[Double] = {
+    var theta = DenseVector.zeros[Double](numUniqueTerms)
+    var timeStep = 1
+    val lambda = 0.001
+    //println(alphaPlus)
 
-  def risk(theta: DenseVector[Double], lambda: Double, docIDToCats: Map[Int, Set[String]], docIDToVec: Map[Int, DenseVector[Double]], trainingSetSize: Int, cat: String): Double = {
-    val docIDToY = docIDToCats.map{case(id, cats) => (id, cats.contains(cat))}.mapValues(if(_) 1 else -1)
-    lambda / 2 * theta.dot(theta) + 1.0 / trainingSetSize * docIDToY.keySet.map{case(id) => hingeLoss(theta, docIDToVec(id), 1)}.sum
+    for ((t, featureVector) <- codesToFeatureVectors) {
+      //("time step: " + timeStep)
+      //println("feature vector: " + featureVector.findAll(_ > 0))
+      val codes = t._1
+
+      theta = updateStep(theta, new DataPoint(featureVector, if (codes.contains(code)) 1.0 else 0.0), lambda, timeStep)
+      timeStep += 1
+    }
+
+    println("got a theta for code: " + code)
+
+    theta
   }
 }
