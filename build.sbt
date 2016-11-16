@@ -4,6 +4,8 @@ version := "1.0"
 
 scalaVersion := "2.11.8"
 
+mainClass in (Compile, run) := Some("com.gmail.pderichai.text.classification.Main")
+
 libraryDependencies ++= Seq(
   "org.scalanlp" %% "breeze" % "0.12"
 )
