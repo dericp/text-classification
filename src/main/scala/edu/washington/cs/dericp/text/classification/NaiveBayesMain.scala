@@ -1,4 +1,5 @@
-package com.gmail.pderichai.text.classification
+package edu.washington.cs.dericp.text.classification
+
 import java.io.{BufferedWriter, File, FileWriter}
 import ch.ethz.dal.tinyir.io.ReutersRCVStream
 import scala.collection.mutable

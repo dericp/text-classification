@@ -1,4 +1,4 @@
-package com.gmail.pderichai.text.classification
+package edu.washington.cs.dericp.text.classification
 
 /**
   * Main class to run any of the algorithms

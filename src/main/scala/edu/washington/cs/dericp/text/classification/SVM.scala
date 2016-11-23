@@ -1,4 +1,4 @@
-package com.gmail.pderichai.text.classification
+package edu.washington.cs.dericp.text.classification
 
 import breeze.linalg.{DenseVector, Vector}
 

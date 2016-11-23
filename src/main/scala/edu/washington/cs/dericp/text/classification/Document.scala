@@ -1,5 +1,5 @@
 
-package com.gmail.pderichai.text.classification
+package edu.washington.cs.dericp.text.classification
 
 import ch.ethz.dal.tinyir.processing.{Tokenizer, XMLDocument}
 

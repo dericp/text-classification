@@ -1,4 +1,5 @@
-package com.gmail.pderichai.text.classification
+package edu.washington.cs.dericp.text.classification
+
 import java.io.{BufferedWriter, File, FileWriter}
 
 import breeze.linalg.{DenseVector, SparseVector, Vector}
